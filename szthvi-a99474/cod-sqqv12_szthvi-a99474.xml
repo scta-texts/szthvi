@@ -1,0 +1,2201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 16</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 16</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="405"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-a99474"><!-- l1-d16 -->
+        <head xml:id="szthvi-a99474-Hd1e101">Disputatio 16</head>
+        <head xml:id="szthvi-a99474-Hd1e103" type="question-title">De infidelitate</head>
+        <p xml:id="szthvi-a99474-d1e106">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="55"/>DISPUTATIO XVI.
+          <lb ed="#P" n="56"/>DE INFIDELITATE.
+        </p>
+        <p xml:id="szthvi-a99474-d1e115">
+          <lb ed="#P" n="57"/>Duplex acceptio infidelitatis exponitur. —
+          <lb ed="#P" n="58"/>Diximus de peccatis fidei contrariis, quae in
+          <lb ed="#P" n="59"/>hominibus fidelibus inveniri possunt; 
+          sequi<lb break="no" ed="#P" n="60"/>tur dicendum de alio genere peccatorum,
+          <lb ed="#P" n="61"/>quae propria sunt infidelium, et generali 
+          ap<lb break="no" ed="#P" n="62"/>pellatione incredulitatis nomine 
+          significan<lb break="no" ed="#P" n="63"/>tur : prius autem, quam ad alia procedamus ,
+          <lb ed="#P" n="64"/>generalis queedam hujus vocis aequivocatio
+          <lb ed="#P" n="65"/>tollenda est. Nam, sicut duplex est fides, una
+          <lb ed="#P" n="66"/>moralis, et altera theologica , ita infideles
+          <lb ed="#P" n="67"/>etiam in Scriptura interdum dicuntur ab 
+          in<lb break="no" ed="#P" n="68"/>fidelitate virtuti morali contraria, interdum
+          <lb ed="#P" n="69"/>vero ab altera, quae tidei catholicae opponitur.
+          <lb ed="#P" n="70"/>Priori modo dicitur Isaiae 1 : Principes tui
+          <lb ed="#P" n="71"/>infideles, utique in muneribus suis 
+          praestan<lb break="no" ed="#P" n="72"/>dis; unde Hieronymus inobedientes vertit;
+          <lb ed="#P" n="73"/>sic etiam Ecclesiastes 5 : Displicet Deo 
+          infide<lb break="no" ed="#P" n="74"/>lis, et stulta promissio. Posterior vero 
+          signi<lb break="no" ed="#P" n="75"/>ficatio frequentior est, praesertim in novo
+          <lb ed="#P" n="76"/>Testamento, 2 ad Corinth. 4: Excecarit 
+          men<lb break="no" ed="#P" n="77"/>tes infideliumn ; et 1 ad Corinth. 7: Si 
+          infide<lb break="no" ed="#P" n="78"/>lis discedit, discedat ; 1 ad Timoth. 5: Factus
+          <lb ed="#P" n="79"/>est infideli deterior. In praesenti ergo solum
+          <lb ed="#P" n="80"/>de infidelitate Theologicae fidei opposita 
+          trac<lb break="no" ed="#P" n="81"/>tamus, et prius generali ratione de illa 
+          dice<lb break="no" ed="#P" n="82"/>mus, postea vero ad peculiares modos ejus,
+          <lb ed="#P" n="83"/>et ad diversos gradus infidelium. praesertim
+          <lb ed="#P" n="84"/>ad illos qui ante baptismum vel post 
+          baptis<lb break="no" ed="#P" n="85"/>mum in hoc vitium inciderunt, descendemus.
+          <lb ed="#P" n="86"/>Tractat autem praesentem materiam D. 
+          Tho<lb break="no" ed="#P" n="87"/>mas 2. 2, quaest. 10; et illius expositores 
+          ibi<lb break="no" ed="#P" n="88"/>dem ; reliqui Scholastici nonnulla disputant
+          <lb ed="#P" n="89"/>in 3, dist. 24 et sequentibus.
+        </p>
+        <div xml:id="szthvi-a99474-Dd1e189">
+          <head xml:id="szthvi-a99474-Hd1e191">Sectio 1</head>
+          <head xml:id="szthvi-a99474-Hd1e193" type="question-title">Quale peccatum sit infidelitas, et quibus modis generatim committatur</head>
+          <p xml:id="szthvi-a99474-d1e196">
+            <lb ed="#P" n="90"/>SECTIO I.
+            <lb ed="#P" n="91"/>Quale peccatum sit infidelitas, et quibus modis
+            <lb ed="#P" n="92"/>generatim committatur.
+          </p>
+          <p xml:id="szthvi-a99474-d1e205">
+            <lb ed="#P" n="93"/>1. Infidelitatem esse peccatum de fide est.
+            <lb ed="#P" n="94"/>— Ratione etiam evidenter ostenditur. — In
+            <lb ed="#P" n="95"/>hoc titulo supponitur infidelitatem esse 
+            pec<lb break="no" ed="#P" n="96"/>catum; modum autem ejus inquirimus. Et
+            <lb ed="#P" n="97"/>quidem assertio ipsa quam supponimus, certa
+            <lb ed="#P" n="98"/>est de fide; habetur enim expressa in variis
+            <lb ed="#P" n="99"/>Scripturae locis, Marci ultimo : Qui non 
+            credi<lb break="no" ed="#P" n="100"/>derit condemnabitur, utique non solum 
+            pro<lb break="no" ed="#P" n="101"/>pter alia peccata, sed etiam propter ipsam
+            <pb ed="#P" n="406"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>infidelitatem. Unde dicitur Joannis 3: Qui
+            <lb ed="#P" n="2"/>non credit jam judicatus est, utique ex ipsa
+            <lb ed="#P" n="3"/>incredulitate ; unde subditur: Hoc est autem
+            <lb ed="#P" n="4"/>judicium, quia lux venit an mundum, et 
+            dile<lb break="no" ed="#P" n="5"/>cerunt homines magis tenebras quam lucem;
+            <lb ed="#P" n="6"/>Joannis decimo quinto : Si non venissem, etc.,
+            <lb ed="#P" n="7"/>nunc autem excusationem non habent de 
+            pec<lb break="no" ed="#P" n="8"/>cato suo, scilicet infidelitatis, ut recte 
+            Augus<lb break="no" ed="#P" n="9"/>tinus exponit, imo ipse Christus, cap. 16.
+            <lb ed="#P" n="10"/>Nam cum de Spiritu Sancto dixisset: Arguet
+            <lb ed="#P" n="11"/>aundum de peccato, illud exponit, dicens: De
+            <lb ed="#P" n="12"/>peccato quidem, quia non crediderunt in me.
+            <lb ed="#P" n="13"/>Rationes etiam sunt evidentes ex superius
+            <lb ed="#P" n="14"/>dictis. Primo, quia diximus datum esse 
+            prae<lb break="no" ed="#P" n="15"/>ceptum divinum et supernaturale, et valde
+            <lb ed="#P" n="16"/>etiam consentaneum rationi naturali credendi
+            <lb ed="#P" n="17"/>ea quae Deus dixit; sed infidelitas est 
+            contra<lb break="no" ed="#P" n="18"/>ria huic praecepto, ut ex ipsa vocis 
+            interpre<lb break="no" ed="#P" n="19"/>tauione jam data manifestum est; ergo est
+            <lb ed="#P" n="20"/>peccatum. Secundo, dictum est fidem esse 
+            ne<lb break="no" ed="#P" n="21"/>cessariam ad salutem; contemnere autem
+            <lb ed="#P" n="22"/>media necessaria ad salutem, peccatum est,
+            <lb ed="#P" n="23"/>quia est ipsam salutem contemnere; ergo 
+            in<lb break="no" ed="#P" n="24"/>fidelitas, per quam hoc medium abjicitur,
+            <lb ed="#P" n="25"/>yeccatum est. Tertio, dictum est fidem esse
+            <lb ed="#P" n="26"/>Deo debitam propter infallibilem veritatem
+            <lb ed="#P" n="27"/>ejus; per infidelitatem autem veritas prima
+            <lb ed="#P" n="28"/>despicitur, ac si esset capax deceptionis aut
+            <lb ed="#P" n="29"/>mendacii, quod est gravis ejus injuria; ergo
+            <lb ed="#P" n="30"/>est etium grave peccatum; de hac ergo 
+            veri<lb break="no" ed="#P" n="31"/>tate nulla est controversia nec difficultas. Ut
+            <lb ed="#P" n="32"/>autem hoc peccatum intelligatur , nonnulla
+            <lb ed="#P" n="33"/>explicare necesse est.
+          </p>
+          <p xml:id="szthvi-a99474-d1e303">
+            <lb ed="#P" n="34"/>2. In quo differat infidelitas a peccato alio
+            <lb ed="#P" n="35"/>commissinis contra fidem, quod est in 
+            homi<lb break="no" ed="#P" n="36"/>ne fideli. — Et primo, quia sectione 
+            praece<lb break="no" ed="#P" n="37"/>denti diximus aliquod peccatum fidei 
+            contra<lb break="no" ed="#P" n="38"/>rium posse esse in homine fideli, in quem
+            <lb ed="#P" n="39"/>non cadit infidelitas, necessarium est 
+            expo<lb break="no" ed="#P" n="40"/>nere in quo differat, vel quid addat hoc 
+            pec<lb break="no" ed="#P" n="41"/>catum iufidelitatis supra illum defectum 
+            fi<lb break="no" ed="#P" n="42"/>dei, qui in homme fideli esse potest. Ad quod
+            <lb ed="#P" n="43"/>breviter respondeo, de ratione infidelitatis
+            <lb ed="#P" n="44"/>esse ut sit peccatum ita fidei contrar:um, ut
+            <lb ed="#P" n="45"/>omnino fidem infusam ab homine ex natura
+            <lb ed="#P" n="46"/>sua excludat, quae potest esse quasi generalis
+            <lb ed="#P" n="47"/>descriptio infidelitatis, quae tametsi per 
+            effec<lb break="no" ed="#P" n="48"/>tum detur, non potest aut clarius aut brevius
+            <lb ed="#P" n="49"/>tradi. Et declaratur breviter primo ex ipsa
+            <lb ed="#P" n="50"/>voce; nam est quasi privativa, et ideo 
+            abso<lb break="no" ed="#P" n="51"/>lute dicta significat carentiam verae fidei; 
+            ta<lb break="no" ed="#P" n="52"/>lis autem carentia omnino excludit fidem.
+            <lb ed="#P" n="53"/>Secundo, ex ipsamet ratione dubitandi 
+            posi<lb break="no" ed="#P" n="54"/>ta; nam propterca ignorantia culpabilis fidei,
+            <lb ed="#P" n="55"/>quae in homine fideli esse potest, non est in-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>fidelitas, quia simul esse potest cum vera 
+            fi<lb break="no" ed="#P" n="57"/>de, et ideo non constituit hominem 
+            infide<lb break="no" ed="#P" n="58"/>lem, neque illum ab Ecclesia excludit; ergo
+            <lb ed="#P" n="59"/>e contrario de ratione infidelitatis est, ut hunc
+            <lb ed="#P" n="60"/>habeat effectum, et sine illo nunquam potest
+            <lb ed="#P" n="61"/>rationem infidelitatis attingere; cum illo 
+            au<lb break="no" ed="#P" n="62"/>tem jam erit infidelitas, et hominem 
+            infide<lb break="no" ed="#P" n="63"/>lem constituit, et ab Ecclesia apud Deum 
+            il<lb break="no" ed="#P" n="64"/>lum excludit.
+          </p>
+          <p xml:id="szthvi-a99474-d1e376">
+            <lb ed="#P" n="65"/>3. Prima diuisio infidelitatis.— Oportet 
+            au<lb break="no" ed="#P" n="66"/>tem advertere duobus modis posse hoc 
+            pecca<lb break="no" ed="#P" n="67"/>tum infidelitatis ita consummari, ut 
+            praedic<lb break="no" ed="#P" n="68"/>tum gradum attingat, potestque haec esse 
+            pri<lb break="no" ed="#P" n="69"/>ma divisio infidelitatis. Unus modus 
+            exclu<lb break="no" ed="#P" n="70"/>dendi fidem dici potest materialis, alter 
+            for<lb break="no" ed="#P" n="71"/>malis, seu unus ex parte materiae, et alter ex
+            <lb ed="#P" n="72"/>parte objecti formalis. Priori modo invenitur
+            <lb ed="#P" n="73"/>infidelitas in eo qui totam fidei materiam
+            <lb ed="#P" n="74"/>ignorat, etiamsi nihil de prima veritate aut
+            <lb ed="#P" n="75"/>de divina revelatione audierit ; ille enim 
+            for<lb break="no" ed="#P" n="76"/>maliter non potest dici recedere a prima 
+            ve<lb break="no" ed="#P" n="77"/>ritate, aut illi discredere, cum ei non sit 
+            pro<lb break="no" ed="#P" n="78"/>posita; et ninilominus, quia tanta est 
+            igno<lb break="no" ed="#P" n="79"/>rantia, ut omnino fidem excludat, illa est vera
+            <lb ed="#P" n="80"/>infidelitas. Unde si attente res consideretur,
+            <lb ed="#P" n="81"/>hoc peccatum, quantum ad modum formalem
+            <lb ed="#P" n="82"/>suum, et quantum ad speciem malitiae, non
+            <lb ed="#P" n="83"/>differt ab illo peccato ignorantia vincibilis
+            <lb ed="#P" n="84"/>vel erroris, quod potest es e in homine fideli,
+            <lb ed="#P" n="85"/>sed differt quoad totalem vel partialem 
+            mate<lb break="no" ed="#P" n="86"/>riam, et hoc satis est ut ab uno excludat tidem
+            <lb ed="#P" n="87"/>primae veritatis, et non ab alio. Posterior
+            <lb ed="#P" n="88"/>modus infidelitatis contiugit, quando quis 
+            ha<lb break="no" ed="#P" n="89"/>bens sufficientem notitiam propositionis et
+            <lb ed="#P" n="90"/>revelationis fidei, ab ejusmodi fidei veritate
+            <lb ed="#P" n="91"/>discedit. Nam qui sic delinquit, etiamsi in una
+            <lb ed="#P" n="92"/>tantum parte vel propositione fidei discredat,
+            <lb ed="#P" n="93"/>infidelitatem committit, et omnino fidem
+            <lb ed="#P" n="94"/>amittit, quia nihil potest credere ex 
+            testimo<lb break="no" ed="#P" n="95"/>nio primae veritatis, et ita hoc peccatum 
+            lon<lb break="no" ed="#P" n="96"/>ge differt ab ignorantia fidei, quae in homine
+            <lb ed="#P" n="97"/>fideli esse potest; atque cadem est prima et
+            <lb ed="#P" n="98"/>praecipua differentia inter hos duos modos 
+            in<lb break="no" ed="#P" n="99"/>fidelitatis.
+          </p>
+          <p xml:id="szthvi-a99474-d1e454">
+            <lb ed="#P" n="100"/>4. Quae sit infidelitas negativa, que 
+            priva<lb break="no" ed="#P" n="101"/>Liva. — Potest autem alia difterentia obiter
+            <lb ed="#P" n="102"/>notari. Nam hic posterior modus infidelitatis
+            <lb ed="#P" n="103"/>nunquam contingit sine peccato, quia 
+            nun<lb break="no" ed="#P" n="104"/>quam est sine suflicienti advertentia et 
+            volun<lb break="no" ed="#P" n="105"/>tate. Prior autem modus aliquando esse potest
+            <lb ed="#P" n="106"/>sine culpa. Unde distingui solet duplex 
+            infi<lb break="no" ed="#P" n="107"/>delitas : una culpabilis, quae privativa vocari
+            <lb ed="#P" n="108"/>solet, alia inculpabilis, quae solet vocari 
+            nega<lb break="no" ed="#P" n="109"/>tiva; de qua an detur, postea dicemus; negari
+            <lb ed="#P" n="110"/>tamen non potest quod sit possibilis, absolute
+            <pb ed="#P" n="407"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>loquendo. Ratio autem est, quia haec 
+            infideli<lb break="no" ed="#P" n="2"/>tas excludit cognitionem; et ideo, si tanta sit
+            <lb ed="#P" n="3"/>carentia cognitionis, ut etiam voluntatem 
+            ex<lb break="no" ed="#P" n="4"/>cludat, infidelitas continget sine peccato. Et
+            <lb ed="#P" n="5"/>ratio est clara, quia nec voluntarium esse 
+            po<lb break="no" ed="#P" n="6"/>test sine aliqua cognitione, neque peccatum
+            <lb ed="#P" n="7"/>sine aliquo voluntario; haec enim sunt 
+            prin<lb break="no" ed="#P" n="8"/>cipia nota in moralibus. Contingere autem
+            <lb ed="#P" n="9"/>potest ut aligui, ignorantes totam fidem, 
+            ha<lb break="no" ed="#P" n="10"/>beant aliquam notitiam professionis seu 
+            prae<lb break="no" ed="#P" n="11"/>dicationis illius, et negligentes sint in 
+            quae<lb break="no" ed="#P" n="12"/>renda et investiganda sufficienti propositione
+            <lb ed="#P" n="13"/>tidei, et ideo carentia eis sit voluntaria, et ad
+            <lb ed="#P" n="14"/>culpam imputetur ; et haec est propria 
+            infide<lb break="no" ed="#P" n="15"/>Ilitas privativa, et quae est peccatum. 
+            Qua<lb break="no" ed="#P" n="16"/>propter, cum in assertione dictum est 
+            infide<lb break="no" ed="#P" n="17"/>litatem esse peccatum, vel subintelligenda est
+            <lb ed="#P" n="18"/>conditio generalis et necessaria ad 
+            peccan<lb break="no" ed="#P" n="19"/>dum, scilicet, si sit voluntaria; vel 
+            intelligen<lb break="no" ed="#P" n="20"/>dum est esse peccatum ex se, et nisi excusatio
+            <lb ed="#P" n="21"/>impotentiae intercedat.
+          </p>
+          <p xml:id="szthvi-a99474-d1e530">
+            <lb ed="#P" n="22"/>5. An infidelitas privativa peccatum 
+            com<lb break="no" ed="#P" n="23"/>mussionis sit, an omissionis.— Ex resolutione
+            <lb ed="#P" n="24"/>hujus puncti oritur aliud necessario 
+            exponen<lb break="no" ed="#P" n="25"/>dum, scilicet, an hoc peccatum infidelitatis
+            <lb ed="#P" n="26"/>omissionis sit vel commissionis, vel utriusque
+            <lb ed="#P" n="27"/>modi; nam quod st tantum omissio, suaderi
+            <lb ed="#P" n="28"/>potes:, quia consistit hoc peccatum in quadam
+            <lb ed="#P" n="29"/>ignorantia ; at vero ignorantia consummatur
+            <lb ed="#P" n="30"/>in carentia cognitionis. quae est quaedam 
+            omis<lb break="no" ed="#P" n="31"/>sio. Deinde infidelitas est peccatum oppositum
+            <lb ed="#P" n="32"/>affirmativo praecepto credendi; peccatum 
+            au<lb break="no" ed="#P" n="33"/>tem contra praeceptum affirmativum est 
+            omis<lb break="no" ed="#P" n="34"/>sio; ergo. In contrarium videtur esse D. 
+            Tho<lb break="no" ed="#P" n="35"/>mas 2. 2, quaestione 10, articulo 1; indicat
+            <lb ed="#P" n="36"/>enim infidelitatem in sola commissione 
+            con<lb break="no" ed="#P" n="37"/>sistere; distinguens enim infidelitatem 
+            secun<lb break="no" ed="#P" n="38"/>dum negationem, et secundum 
+            contrarieta<lb break="no" ed="#P" n="39"/>tem, addit hanc posteriorem esse quando 
+            ali<lb break="no" ed="#P" n="40"/>quis repugnat auditui fidei; et in hoc, inquit,
+            <lb ed="#P" n="41"/>proprie perficitur ratio infidelitdtis, et 
+            secun<lb break="no" ed="#P" n="42"/>dum hoc infidelittas est peccatum; at vero
+            <lb ed="#P" n="43"/>resistere auditui fidei commissio est. Idem 
+            in<lb break="no" ed="#P" n="44"/>dicat Cajetanus, in art. 3, dum ait 
+            infidelita<lb break="no" ed="#P" n="45"/>tem consistere in dissensu contrario fidei, et
+            <lb ed="#P" n="46"/>adjungit omnes infideles falsam opinioncm
+            <lb ed="#P" n="47"/>de Deo habere, quod ad commissionem 
+            per<lb break="no" ed="#P" n="48"/>tinet. Ratione item suaderi potest, quia 
+            omis<lb break="no" ed="#P" n="49"/>sio, quae respectu fidei mala esse potest, 
+            so<lb break="no" ed="#P" n="50"/>lum excludit exercitium fidei; hac autem
+            <lb ed="#P" n="51"/>non est infidelitas, nam hoc peccatum etiam
+            <lb ed="#P" n="52"/>in homine fideli esse potest; ergo non est
+            <lb ed="#P" n="53"/>peccatum infidelitatis, donec concipiatur error
+            <lb ed="#P" n="54"/>contra fidem ; tale vero peccatum 
+            commissio<lb break="no" ed="#P" n="55"/>nis est.
+          </p>
+          <p xml:id="szthvi-a99474-d1e606">
+            <lb ed="#P" n="56"/>6. Infidelitatis peccatum, et omissione, et
+            <lb ed="#P" n="57"/>commüissione committi potest. — Dicendum 
+            ni<lb break="no" ed="#P" n="58"/>hilominus est infidelitatis peccatum, et 
+            omis<lb break="no" ed="#P" n="59"/>sionis et commissionis esse posse. Probari
+            <lb ed="#P" n="60"/>potest primo ex distinctione Aristotelis, primo
+            <lb ed="#P" n="61"/>Posteriorum, text. 37, de duplici ignorantia,
+            <lb ed="#P" n="62"/>negationis, scilicet, et pravae dispositionis,
+            <lb ed="#P" n="63"/>quarum prima similis est omissioni, quia per
+            <lb ed="#P" n="64"/>se actum non requirit ; secunda vero similis est
+            <lb ed="#P" n="65"/>commissioni, quia in actu contrario consistit;
+            <lb ed="#P" n="66"/>at vero infidelitas potest utroque modo haberi,
+            <lb ed="#P" n="67"/>scilicet, vel ignorando tantum, vel errando;
+            <lb ed="#P" n="68"/>ergo priori modo est omissio, et secundo est
+            <lb ed="#P" n="69"/>commissio. Secundo declaratur a priori et ex
+            <lb ed="#P" n="70"/>propriis, quia praeceptum fidei duplex est, ut
+            <lb ed="#P" n="71"/>supra vidimus, scilicet affirmativum, audiendi
+            <lb ed="#P" n="72"/>et credendi; et negativum, non discedendi a
+            <lb ed="#P" n="73"/>fide, nec credendi aliquid contrarium 
+            reve<lb break="no" ed="#P" n="74"/>latis : infidelitas vero contrahi potest ad unum
+            <lb ed="#P" n="75"/>et aliud praeceptum; ergo potest contrahi per
+            <lb ed="#P" n="76"/>omissionem et commissionem. Probatur 
+            con<lb break="no" ed="#P" n="77"/>sequentia, quia transgressio praecepti 
+            affirma<lb break="no" ed="#P" n="78"/>tivi est omissio, negativi autem commissio.
+            <lb ed="#P" n="79"/>Denique esxplicatur, et confirmatur in hunc
+            <lb ed="#P" n="80"/>modum : nam duobus modis potest quis 
+            re<lb break="no" ed="#P" n="81"/>sistere auditui fidei scilicet vel nolendo andire,
+            <lb ed="#P" n="82"/>vel nolendo audita credere, et utroque modo
+            <lb ed="#P" n="83"/>potest contrahi infidelitas, ut ex dictis patet;
+            <lb ed="#P" n="84"/>prior autem modus per se pertinet ad 
+            omis<lb break="no" ed="#P" n="85"/>sionem ; secundus vero ad commissionem.
+          </p>
+          <p xml:id="szthvi-a99474-d1e674">
+            <lb ed="#P" n="86"/>7. Infidelitas privativa ad peccatam 
+            omis<lb break="no" ed="#P" n="87"/>sionis per se primo spectat. — Ut autem hoc
+            <lb ed="#P" n="88"/>melius intelligatur, simulque alios modos 
+            pec<lb break="no" ed="#P" n="89"/>candi in hoc genere explicemus, supponenda
+            <lb ed="#P" n="90"/>est distinctio proxime data de duplici 
+            infide<lb break="no" ed="#P" n="91"/>litate, una privativa, et altera contraria, 
+            qua<lb break="no" ed="#P" n="92"/>rum prima invenitur in his hominibus quibus
+            <lb ed="#P" n="93"/>vera fides nondum est sufficienter proposita.
+            <lb ed="#P" n="94"/>Secunda vero in illis infidelibus reperitur, qui
+            <lb ed="#P" n="95"/>post sufficientem propositionem fidei illi 
+            re<lb break="no" ed="#P" n="96"/>sistunt. Dico igitur prius genus infidelitatis,
+            <lb ed="#P" n="97"/>per se loquendo, esse peccatum omissionis,
+            <lb ed="#P" n="98"/>quia proxime opponitur praecepto audiendi
+            <lb ed="#P" n="99"/>fidem, et per solam negligentiam, seu 
+            volun<lb break="no" ed="#P" n="100"/>tariam carentiam cognitionis fidei sufficienter
+            <lb ed="#P" n="101"/>committitur. Contingit autem cum hac 
+            igno<lb break="no" ed="#P" n="102"/>rantia conjungi errores contra veritates fidei
+            <lb ed="#P" n="103"/>vel supernataralis, vel etiam naturalis; imo
+            <lb ed="#P" n="104"/>nunquam hujusmodi errores ab illa ignorantia
+            <lb ed="#P" n="105"/>separantur. Et quoad hanc partem, illud 
+            pec<lb break="no" ed="#P" n="106"/>catum est commissionis vel contra fidem, vel
+            <lb ed="#P" n="107"/>etiam contra rationem naturalem, quia 
+            con<lb break="no" ed="#P" n="108"/>sistit in actu indebite vel negligenter facto,
+            <lb ed="#P" n="109"/>quod satis est ad commissionem; quia vero
+            <lb ed="#P" n="110"/>tota mahltia istius actus ex voluntaria igno-
+            <pb ed="#P" n="408"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>rantia seu carentia cognitionis provenit, ideo
+            <lb ed="#P" n="2"/>malitia illius peccati formaliter in omissione
+            <lb ed="#P" n="3"/>consistere videtur, quamvis materialiter sit
+            <lb ed="#P" n="4"/>commissio.
+          </p>
+          <p xml:id="szthvi-a99474-d1e744">
+            <lb ed="#P" n="5"/>S. Infidelitas contraria quomodo ad 
+            pecca<lb break="no" ed="#P" n="6"/>Uum commissionis spectet.—Circa alterum vero
+            <lb ed="#P" n="7"/>modum infidelitatis, Cajetanus, dicta quaest.
+            <lb ed="#P" n="8"/>10, artic. 2, tres modos peccandi distinguit.
+            <lb ed="#P" n="9"/>Primus modus est discredendi, seu credendi
+            <lb ed="#P" n="10"/>falsa esse quae proponuntur, aut credendi 
+            con<lb break="no" ed="#P" n="11"/>traria esse vera. Secundus est nec credendi,
+            <lb ed="#P" n="12"/>nec discredendi, sed quasi suspendendi 
+            om<lb break="no" ed="#P" n="13"/>nem actum intellectus. Tertius modus est 
+            du<lb break="no" ed="#P" n="14"/>bitandi; et subdistinguit hunc in tria 
+            mem<lb break="no" ed="#P" n="15"/>bra, quae vocat per opinionem, vel per 
+            suspi<lb break="no" ed="#P" n="16"/>cionem, vel neutraliter, ut ait. Primus modus
+            <lb ed="#P" n="17"/>principalis hujus infidelitatis a Cajetano 
+            pro<lb break="no" ed="#P" n="18"/>positus verissimus est et clarissimus, et in eo
+            <lb ed="#P" n="19"/>apertissime cernitur peccatum commissionis,
+            <lb ed="#P" n="20"/>et sine dubio in hoc genere peccati 
+            infideli<lb break="no" ed="#P" n="21"/>tatis est maximum, quia valde directe primae
+            <lb ed="#P" n="22"/>veritati opponitur. Secundum modum videtur
+            <lb ed="#P" n="23"/>Cajetanus proponere per modum omissionis,
+            <lb ed="#P" n="24"/>quia in illo non intercedit actus fidei 
+            contra<lb break="no" ed="#P" n="25"/>rius, sed tantum carentia actus credendi 
+            prae<lb break="no" ed="#P" n="26"/>cepti; quomodo vero hoc intelligendum sit,
+            <lb ed="#P" n="27"/>statim dicam. In tertio autem modo difficilis
+            <lb ed="#P" n="28"/>mihi est subdivisio, quam Cajetanus adjungit,
+            <lb ed="#P" n="29"/>et distinctio illius a caeteris membris. Nam
+            <lb ed="#P" n="30"/>opinio quam primo loco ponit, esse potest
+            <lb ed="#P" n="31"/>aut de falsitate rei propositae, vel quod 
+            con<lb break="no" ed="#P" n="32"/>traria vera sit, et in hoc sensu hoc membrum
+            <lb ed="#P" n="33"/>coincidit cum primo modo peccandi per 
+            dis<lb break="no" ed="#P" n="34"/>sensum; nam haereticus non aliter dissentit
+            <lb ed="#P" n="35"/>rebus fidei, quam opinando esse falsas, aut
+            <lb ed="#P" n="36"/>contrarias esse veras; et idem est de quolibet
+            <lb ed="#P" n="37"/>infideli, cui fides sufficienter propnosita est;
+            <lb ed="#P" n="38"/>vel potest intelligi de opinione ejusdem 
+            veri<lb break="no" ed="#P" n="39"/>tatis propositae, ut si quis illi assentiatur 
+            opi<lb break="no" ed="#P" n="40"/>nando, nondum tamen firmiter credendo; et
+            <lb ed="#P" n="41"/>talis opinio per se loquendo non est peccatum
+            <lb ed="#P" n="42"/>contra fidem, nam homo fidelis potest 
+            inter<lb break="no" ed="#P" n="43"/>dum assentiri rebus fidei per fidem humanan:
+            <lb ed="#P" n="44"/>ex auctoritate hominum, et non propterea
+            <lb ed="#P" n="45"/>peccat ; fides autem humana quaedam opinio
+            <lb ed="#P" n="46"/>est. Neque necessarium est ut qui hujusmodi
+            <lb ed="#P" n="47"/>assensum habet, circa veritatem fidei dubitet,
+            <lb ed="#P" n="48"/>vel formidet de certitudine ejus, quia licet
+            <lb ed="#P" n="49"/>formido, quantum est ex parte formalis 
+            ob<lb break="no" ed="#P" n="50"/>Jecti, sit de ratione opinionis vel fidei 
+            hu<lb break="no" ed="#P" n="51"/>manae, non tamen ex parte subjecti; unde
+            <lb ed="#P" n="52"/>potest aliquis ita assentiri nihil formidando,
+            <lb ed="#P" n="53"/>nec de incertitudine cogitando : quod si quis
+            <lb ed="#P" n="54"/>opinetur, ut etiam formaliter dubitet 
+            judi<lb break="no" ed="#P" n="55"/>cando rem illam non esse veram, sed incertam,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>aut dubiam, tunc jam habebit judicium 
+            con<lb break="no" ed="#P" n="57"/>trarium dogmatibus fide:, quia non solum est
+            <lb ed="#P" n="58"/>de fide, revelata esse vera, sed etiam esse certa
+            <lb ed="#P" n="59"/>et infallibilia; atque hac ratione hic modus 
+            opi<lb break="no" ed="#P" n="60"/>nandi seu dubitandi includit propositam 
+            infi<lb break="no" ed="#P" n="61"/>delitatem per dissensum contrarium fidei, et
+            <lb ed="#P" n="62"/>ita reducitur ad primum modum infidelitatis
+            <lb ed="#P" n="63"/>Cajetani ; atque idem est de suspicione, quam
+            <lb ed="#P" n="64"/>secundo loco posuit Cajetanus in hac 
+            subdivi<lb break="no" ed="#P" n="65"/>sione, qnuia, ut ex Tullio docuit divus Thomas
+            <lb ed="#P" n="66"/>2. 9. quaest. 60, art. 3, suspicio nihil aliud est
+            <lb ed="#P" n="67"/>quam opinio mali ex levibus conjecturis. Unde
+            <lb ed="#P" n="68"/>in praesenti, suspicio in materia fidei erit etiam
+            <lb ed="#P" n="69"/>opinio falsitatis ex levibus conjecturis; talis
+            <lb ed="#P" n="70"/>ergo suspicio judicium includit fidei 
+            contra<lb break="no" ed="#P" n="71"/>rium, quia sine aliquo judicio non est opinio;
+            <lb ed="#P" n="72"/>ergo etiam hic dubitandi modus includit 
+            dis<lb break="no" ed="#P" n="73"/>sensum contra fidem, ac proinde reducitur ad
+            <lb ed="#P" n="74"/>primum modum infidelitatis ab eodem auctore
+            <lb ed="#P" n="75"/>positum.
+          </p>
+          <p xml:id="szthvi-a99474-d1e904">
+            <lb ed="#P" n="76"/>9. Denique tertius modus neutralis 
+            dubita<lb break="no" ed="#P" n="77"/>tionis videtur consistere in suspensione omnis
+            <lb ed="#P" n="78"/>assensus vel dissensus ; nam tunc maxime
+            <lb ed="#P" n="79"/>dicitur intellectus neutraliter se habere. In
+            <lb ed="#P" n="80"/>hoc autem sensu coincidit hic modus cum
+            <lb ed="#P" n="81"/>secundo principalis divisionis, in quo 
+            dice<lb break="no" ed="#P" n="82"/>batur aliquis deficere a debita fide, quando
+            <lb ed="#P" n="83"/>neque credit neque discredit; nam hoc est
+            <lb ed="#P" n="84"/>( ut dixi) neutraliter se habere; haec autem
+            <lb ed="#P" n="85"/>dispositio praecise spectata non videtur 
+            suffi<lb break="no" ed="#P" n="86"/>cere ad infidelitatem , neque ad 
+            dubitatio<lb break="no" ed="#P" n="87"/>nem, quia potest quis suspendere actum circa
+            <lb ed="#P" n="88"/>illam matcriam. Quapropter, nisi quis 
+            absti<lb break="no" ed="#P" n="89"/>neat ab hujusmodi actu ex aliqua cogitatione
+            <lb ed="#P" n="90"/>incertitudinis vel dubitationis, non videtur
+            <lb ed="#P" n="91"/>illa dispositio sufficere ad propriam speciem
+            <lb ed="#P" n="92"/>infidelitatis. Quod si illa suspensio ex tali 
+            co<lb break="no" ed="#P" n="93"/>gitatione proveniat , jam dubitatio non 
+            ha<lb break="no" ed="#P" n="94"/>betur sine aliquo actu veritati aut certitudini
+            <lb ed="#P" n="95"/>fidei contrario, quod suffhicit ad positivam 
+            in<lb break="no" ed="#P" n="96"/>fidelitatem. Unde concludo omnem propriam
+            <lb ed="#P" n="97"/>infidelitatem, quae post sufficientem fidei 
+            au<lb break="no" ed="#P" n="98"/>ditum committitur , esse peccatum 
+            commis<lb break="no" ed="#P" n="99"/>sionis includens virtute hoc judicium, quod
+            <lb ed="#P" n="100"/>res sic proposita potest esse falsa.
+          </p>
+          <p xml:id="szthvi-a99474-d1e961">
+            <lb ed="#P" n="101"/>10. An infidelitas privativa et contraria sint
+            <lb ed="#P" n="102"/>peccata ejusdem speciei. — Ex quo tandem
+            <lb ed="#P" n="103"/>breviter resolvi potest alia dubitatio hic 
+            oc<lb break="no" ed="#P" n="104"/>currens, an infidelitas his duobus modis 
+            com<lb break="no" ed="#P" n="105"/>missa , scilicet , omittendo et committendo,
+            <lb ed="#P" n="106"/>sit peccatum ejusdem speciei, vel diversae. Et
+            <lb ed="#P" n="107"/>ratio dubitandi sumitur ex divo Thoma 1. 2,
+            <lb ed="#P" n="108"/>quaest. 72, art. 6, ubi simpliciter docet 
+            omis<lb break="no" ed="#P" n="109"/>sionem et commissionem esse peccata 
+            ejus<lb break="no" ed="#P" n="110"/>dem speciei. Nihilominus assero in hac mate-
+            <pb ed="#P" n="409"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ria illa peccata esse specie diversa, sicut sunt
+            <lb ed="#P" n="2"/>in materia charitatis, non amare Deum 
+            tem<lb break="no" ed="#P" n="3"/>pore debito, vel odio habere illum, quia talia
+            <lb ed="#P" n="4"/>peccata manifeste habent distinctissimas 
+            de<lb break="no" ed="#P" n="5"/>ordinationes jet malitias ; ita enim est in 
+            prae<lb break="no" ed="#P" n="6"/>senti: nam infidelitas , quae est per solam
+            <lb ed="#P" n="7"/>omissionem, non opponitur directe formali
+            <lb ed="#P" n="8"/>objecto fidei, et veritati Dei, sicut opponitur
+            <lb ed="#P" n="9"/>infidelitas commissionis, quae propterea infert
+            <lb ed="#P" n="10"/>injuriam longe majorem, et diversae 
+            ratio<lb break="no" ed="#P" n="11"/>nis ; ille autem locus D. Thomae habet suam
+            <lb ed="#P" n="12"/>difficultatem , quae ad hunc locum non 
+            spec<lb break="no" ed="#P" n="13"/>tat, et ideo breviter dico intelligendum esse
+            <lb ed="#P" n="14"/>permissive, non universaliter, id est, 
+            omissio<lb break="no" ed="#P" n="15"/>nem et commissionem non includere semper
+            <lb ed="#P" n="16"/>specificam differentiam, non quod aliquando
+            <lb ed="#P" n="17"/>illam habere non possint ; nam hoc etiam 
+            su<lb break="no" ed="#P" n="18"/>mitur ex eodem D. Thoma 2. 2, quaest. 79,
+            <lb ed="#P" n="19"/>art. 2 et 3.
+          </p>
+        </div>
+        <div xml:id="szthvi-a99474-Dd1e1033">
+          <head xml:id="szthvi-a99474-Hd1e1035">Sectio 2</head>
+          <head xml:id="szthvi-a99474-Hd1e1037" type="question-title">Quam grave sit infidelitatis peccatum</head>
+          <p xml:id="szthvi-a99474-d1e1040">
+            <lb ed="#P" n="20"/>SECTIO II.
+            <lb ed="#P" n="21"/>Quam grave sit infidelitatis peccatum.
+          </p>
+          <p xml:id="szthvi-a99474-d1e1047">
+            <lb ed="#P" n="22"/>1. Status questionis. — Non inquirimus
+            <lb ed="#P" n="23"/>an peccatum hoc eam gravitatem attingat,
+            <lb ed="#P" n="24"/>quae ad peccatum mortale ex genere suo 
+            suf<lb break="no" ed="#P" n="25"/>ficiat ; id enim tanquam manifestum 
+            supponi<lb break="no" ed="#P" n="26"/>mus, sicut proposuisse videtur Christus, cum
+            <lb ed="#P" n="27"/>dixit: Qui non credidit, jam judcatus est ; et
+            <lb ed="#P" n="28"/>alibi: Qui non crediderit, condemnabitur, et ex
+            <lb ed="#P" n="29"/>dicendis a fortiori comprobabitur; 
+            inquiri<lb break="no" ed="#P" n="30"/>mus ergo inter peccata ex suo genere 
+            morta<lb break="no" ed="#P" n="31"/>lia, quem gradum seu locum obtineat 
+            infi<lb break="no" ed="#P" n="32"/>delitas quoad gravitatem suam: hoc autem
+            <lb ed="#P" n="33"/>a nobis potest duobus modis tractari aut 
+            ex<lb break="no" ed="#P" n="34"/>picari, scilicet, vel absolute rem ipsam in se
+            <lb ed="#P" n="35"/>spectando : vel comparate, conferendo vitium
+            <lb ed="#P" n="36"/>hoc cum peccatis, aliis virtutibus oppositis.
+          </p>
+          <p xml:id="szthvi-a99474-d1e1082">
+            <lb ed="#P" n="37"/>2. Peccatum infidelitatis est unum em 
+            gra<lb break="no" ed="#P" n="38"/>cissims. — Peccatum infidelitatis maaimum
+            <lb ed="#P" n="39"/>omnium est in nocumento quod infert. — 
+            In<lb break="no" ed="#P" n="40"/>fidelitatis peccatum difficilius quam cetera
+            <lb ed="#P" n="41"/>curatur.— Priori modo solum dicere 
+            possu<lb break="no" ed="#P" n="42"/>mus hoc peccatum ex genere suo esse unum
+            <lb ed="#P" n="43"/>ex gravissimis peccatis. In hoc conveniunt
+            <lb ed="#P" n="44"/>divus Thomas, et omnes, atque hoc significare
+            <lb ed="#P" n="45"/>voluit Augustinus, tractatu 85 in Joann., et
+            <lb ed="#P" n="46"/>libro tertio contra duas epistolas 
+            Pelagiano<lb break="no" ed="#P" n="47"/>rum, capite 3, cum dixit peccatum absolute
+            <lb ed="#P" n="48"/>dictum, quasi per antonomasiam pro peccato
+            <lb ed="#P" n="49"/>infidelitatis accipi, sic interpretans illud Joan.
+            <lb ed="#P" n="50"/>15: Sà non venissem, etc., peccatum non 
+            ha<lb break="no" ed="#P" n="51"/>berent ; et illud cap. 16: Arguet mundum de
+            <lb ed="#P" n="52"/>peccato ; hic vero modus significationis per
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>antonomasiam non solet usurpari, nisi 
+            quan<lb break="no" ed="#P" n="54"/>do res significata per nomen habet 
+            singula<lb break="no" ed="#P" n="55"/>rem excellentiam, vel excessum in ea ratione
+            <lb ed="#P" n="56"/>qua significatur per vocem ; imo non solet
+            <lb ed="#P" n="57"/>dici nisi de eo quod est maximum in tali 
+            ge<lb break="no" ed="#P" n="58"/>nere, quod aliqua ratione convenit huic 
+            pec<lb break="no" ed="#P" n="59"/>cato, ut jam explicabo. Secundo declaratur
+            <lb ed="#P" n="60"/>haec gravitas a priori, quia virtus fidei, 
+            li<lb break="no" ed="#P" n="61"/>cet non sit maxima, est una ex praecipuis;
+            <lb ed="#P" n="62"/>ergo peccatum illi oppositum, ut est 
+            infideli<lb break="no" ed="#P" n="63"/>tas, erit unum ex gravissimis, juxta regulam
+            <lb ed="#P" n="64"/>Aristotelis, 8 Ethicor., cap. 5, probatam a D.
+            <lb ed="#P" n="65"/>Thoma 1. 2, quaest. 73, art. 4, in moralibus
+            <lb ed="#P" n="66"/>illud esse pessimum, quod optimo 
+            contra<lb break="no" ed="#P" n="67"/>riatur. Tertio, ab effectu declaratur ex 
+            nocu<lb break="no" ed="#P" n="68"/>mentis quae secum affert infidelitas ; nam in
+            <lb ed="#P" n="69"/>hoc excedit omnia peccata ; et ideo existimo
+            <lb ed="#P" n="70"/>in hoc esse antonomasiam fundatam. Primo,
+            <lb ed="#P" n="71"/>quia infidelitas radicitus evellit justitiam;
+            <lb ed="#P" n="72"/>nam, cum fides sit fundamentum justitiae,
+            <lb ed="#P" n="73"/>quod alia peccata non auferunt, juxta 
+            defi<lb break="no" ed="#P" n="74"/>nitionem Concilii Tridentini , sess. 6, illud
+            <lb ed="#P" n="75"/>destruit infidelitas expellendo fidem, ut idem
+            <lb ed="#P" n="76"/>Concilium tradit ; et ita omnino privat 
+            homi<lb break="no" ed="#P" n="77"/>nem justitia a fundamentis ejus. Unde fit 
+            se<lb break="no" ed="#P" n="78"/>cundo quod noravit divus Thomas, 1 ad 
+            Ti<lb break="no" ed="#P" n="79"/>moth. 5, ut infidelitas constituat hominem
+            <lb ed="#P" n="80"/>in eo statu, in quo nihil Deo placitum facere
+            <lb ed="#P" n="81"/>possit, quia sine fide impossibile est placere
+            <lb ed="#P" n="82"/>Deo, non solum quoad personam, sed etiam
+            <lb ed="#P" n="83"/>quoad singulas actiones ejus, ut in 
+            superiori<lb break="no" ed="#P" n="84"/>bus declaravi; quod tanta exaggera'ione 
+            so<lb break="no" ed="#P" n="85"/>let tradere Augustinus, ut docere videatur 
+            ni<lb break="no" ed="#P" n="86"/>hil boni moralis posse facere infidelem, ut
+            <lb ed="#P" n="87"/>maxime videre licet libro 4 contra Julianum,
+            <lb ed="#P" n="88"/>cap. 3; sed id temperandum est, et nunc
+            <lb ed="#P" n="89"/>sufficit quod nihil facere potest infidelis quod
+            <lb ed="#P" n="90"/>apud Deum valeat, vel ad impetrandum, vel
+            <lb ed="#P" n="91"/>ad aliquo modo merendum. Unde fit tertio
+            <lb ed="#P" n="92"/>ut hoc peccatum difficilius curetur quam 
+            cae<lb break="no" ed="#P" n="93"/>tera ; quia caetera peccata relinquunt fidem,
+            <lb ed="#P" n="94"/>per quam potest homo aliquid impetrare,
+            <lb ed="#P" n="95"/>quo tandem ad meliorem mentem redeat ;
+            <lb ed="#P" n="96"/>nam, ut est vulgare apud Augustinum. epist.
+            <lb ed="#P" n="97"/>105, et alibi: Fides impetrat quod lea- 
+            impe<lb break="no" ed="#P" n="98"/>rat. Infidelitas autem cum tollat fidem, tollit
+            <lb ed="#P" n="99"/>omne principium quasi intrinsecum 
+            obtinen<lb break="no" ed="#P" n="100"/>di auxilium et remedium contra peccata.
+            <lb ed="#P" n="101"/>Quarto denique, sicut fides est radix 
+            caetera<lb break="no" ed="#P" n="102"/>rum virtutum, ita infidelitas infinita secum
+            <lb ed="#P" n="103"/>affert vitia, praesertim contra Deum, ut 
+            irre<lb break="no" ed="#P" n="104"/>ligiositatem, superstitionem, ingratitudinem,
+            <lb ed="#P" n="105"/>et similia: his ergo modis potest gravitas 
+            hu<lb break="no" ed="#P" n="106"/>jus peccati absolute declarari.
+          </p>
+          <p xml:id="szthvi-a99474-d1e1239">
+            <lb ed="#P" n="107"/>3. Infidelitatem odium De excedit in ra-
+            <pb ed="#P" n="410"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>tione peccati. — Infidelitas gravius peccatum
+            <lb ed="#P" n="2"/>est desperatione. — Alius modus declarandi
+            <lb ed="#P" n="3"/>hanc gravitatem, est per comparationem ad
+            <lb ed="#P" n="4"/>alia peccata : triplex autem comparatio potest
+            <lb ed="#P" n="5"/>hic fieri, scilicet. vel ad peccata contraria 
+            di<lb break="no" ed="#P" n="6"/>recte chariiati, vel contraria spei, vel 
+            contra<lb break="no" ed="#P" n="7"/>ria virtutibus moraiibus. In prima 
+            compara<lb break="no" ed="#P" n="8"/>tione, dicendum est infidelitatem non esse
+            <lb ed="#P" n="9"/>gravissimum peccatum, majus enim est odium
+            <lb ed="#P" n="10"/>Dei. Ita docet D. Thomas 2. 2, q. 34, art. 3,
+            <lb ed="#P" n="11"/>et probatur optimc ex regula posita 
+            Aristo<lb break="no" ed="#P" n="12"/>telis; est enim charitas optima virtus, et odium
+            <lb ed="#P" n="13"/>Dei est summum peccatum illi contrarium;
+            <lb ed="#P" n="14"/>ergo est majus peccatum quam infidelitas.
+            <lb ed="#P" n="15"/>Item est optima ratio D. Thomae, quia in 
+            om<lb break="no" ed="#P" n="16"/>nibus peccatis mortalibus maxima gravitas
+            <lb ed="#P" n="17"/>est, quam ex aversione a Deo habent, quae
+            <lb ed="#P" n="18"/>aversio est virtuale quoddam odium Dei, quod
+            <lb ed="#P" n="19"/>etiam in ipsa infidelitate verum habet; ergo
+            <lb ed="#P" n="20"/>ipsum formale odium Dei, quod (ut ita dicam)
+            <lb ed="#P" n="21"/>est per essentiam tale, est sine dubio multo
+            <lb ed="#P" n="22"/>gravius peccatum. Secundam comparationem
+            <lb ed="#P" n="23"/>in speciali facit D. Thomas 2. 2, quaest. 20,
+            <lb ed="#P" n="24"/>art. 3, et resolvit, infidelitatem esse gravius
+            <lb ed="#P" n="25"/>peccatum desperatione, et reddit optimam 
+            ra<lb break="no" ed="#P" n="26"/>tionem, quia infidelitas opponitur bono divino,
+            <lb ed="#P" n="27"/>ut in se est, nimirum veritati ejus, quia,
+            <lb ed="#P" n="28"/>quantum in se est, facit Deum auctorem 
+            men<lb break="no" ed="#P" n="29"/>dacii; at vero desperatio opponitur bono 
+            di<lb break="no" ed="#P" n="30"/>vino, ut participabili a nobis, et ideo 
+            mino<lb break="no" ed="#P" n="31"/>rem injuriam Deo infert, ac proinde non est
+            <lb ed="#P" n="32"/>tam grave peccatum. Quae resolutio licet vera
+            <lb ed="#P" n="33"/>sit, non caret aliqua difficultate; quia vero
+            <lb ed="#P" n="34"/>pendet ex notitia virtutis spei, et ex 
+            compa<lb break="no" ed="#P" n="35"/>ratione ejus in perfectione cum virtute fidei,
+            <lb ed="#P" n="36"/>illam remitto in materiam de spe ', nam 
+            prae<lb break="no" ed="#P" n="37"/>senti loco dicta sufficiunt.
+          </p>
+          <p xml:id="szthvi-a99474-d1e1328">
+            <lb ed="#P" n="38"/>4. Utrum infidelitatis peccatum sit gravius
+            <lb ed="#P" n="39"/>omnilus peccatis contra virtutes morales. —
+            <lb ed="#P" n="40"/>Teruam comparationem praecipue facit div.
+            <lb ed="#P" n="41"/>Thomas in hac materia, quaest. 10, artic. 3, et
+            <lb ed="#P" n="42"/>resolutio est, infidelitatis peccatum esse 
+            gra<lb break="no" ed="#P" n="43"/>vius ex suo genere caeteris peccatis oppositis
+            <lb ed="#P" n="44"/>virtutibus moralibus. Probatur primo ex 
+            co<lb break="no" ed="#P" n="45"/>dem principio Aristotelis, nam fides est virtus
+            <lb ed="#P" n="46"/>excellentior omnibus moralibus; infidelitas
+            <lb ed="#P" n="47"/>autem est maxime opposita huic virtuti; ergo
+            <lb ed="#P" n="48"/>superat alia peccata, quae tantum virtutibus
+            <lb ed="#P" n="49"/>moralibus opponuntur. Secundo ex objecto,
+            <lb ed="#P" n="50"/>ex quo maxime solet gravitas peccatorum 
+            ac<lb break="no" ed="#P" n="51"/>cipi; infidelitas enim est directe contra Deum
+            <lb ed="#P" n="52"/>ipsum; virtutes autem morales directe habent
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>deordinationem suam circa materiam 
+            crea<lb break="no" ed="#P" n="54"/>tam : nam, licet religio aliquo modo attingat
+            <lb ed="#P" n="55"/>Deum, et ideo peccata illi contraria formalem
+            <lb ed="#P" n="56"/>Dei injuriam continere possint, ut blasphemia,
+            <lb ed="#P" n="57"/>idololatria, et similia, nihilominus non ita 
+            im<lb break="no" ed="#P" n="58"/>mediate et directe attingunt Deum ipsum, et
+            <lb ed="#P" n="59"/>in propriis ejus bonis internis illum offendunt,
+            <lb ed="#P" n="60"/>sicut peccatum infidelitatis. Tertio 
+            argumen<lb break="no" ed="#P" n="61"/>tatur D. Thomas, quia vitia moralia proxime
+            <lb ed="#P" n="62"/>versantur circa objecta creata, et ita solum
+            <lb ed="#P" n="63"/>virtute et implicite avertunt hominem a Deo,
+            <lb ed="#P" n="64"/>et tantum secundum affectum ; infidelitas 
+            au<lb break="no" ed="#P" n="65"/>tcem de se directe avertit hominem a Deo,
+            <lb ed="#P" n="66"/>etiam quoad intellectum, quia veram Dei 
+            co<lb break="no" ed="#P" n="67"/>gniticnem aufert, vel per se ipsam, quatenus
+            <lb ed="#P" n="68"/>infidelitas est, ut Cajetanus exponit, nam licet
+            <lb ed="#P" n="69"/>in infideli possit manere aliqua cognitio Dei,
+            <lb ed="#P" n="70"/>non tamen manet in eo quatenus infidelis est;
+            <lb ed="#P" n="71"/>vel certe infidelitas etiam aufert omnem 
+            co<lb break="no" ed="#P" n="72"/>gnitionem Dei supernaturalem , et quae ad
+            <lb ed="#P" n="73"/>salutem possit conducere: ac denique licet in
+            <lb ed="#P" n="74"/>infideli possit aliqua ex parte manere veritas
+            <lb ed="#P" n="75"/>circa coguitionem Dei, nihilominus tota 
+            co<lb break="no" ed="#P" n="76"/>gnitio, quam de Deo habet, et quasi componit
+            <lb ed="#P" n="77"/>ex variis judiciis, seu propositionibus quas de
+            <lb ed="#P" n="78"/>Deo format, non habet absolute veram 
+            cogni<lb break="no" ed="#P" n="79"/>tionem de Deo. quia nullus est Deus, qualis
+            <lb ed="#P" n="80"/>ab ipso concipitur, et quasi componitur, quod
+            <lb ed="#P" n="81"/>est gravissimum hominis nocumentum.
+          </p>
+          <p xml:id="szthvi-a99474-d1e1428">
+            <lb ed="#P" n="82"/>5. Objectio prima. — Objectio secunda. —
+            <lb ed="#P" n="83"/>Contra dictam vero resolutionem objici 
+            po<lb break="no" ed="#P" n="84"/>test primo, quia ex illa sequitur omne 
+            pecca<lb break="no" ed="#P" n="85"/>tum contra fidem esse, secundum suam 
+            spe<lb break="no" ed="#P" n="86"/>ciem, gravius quocumque peccato contra 
+            vir<lb break="no" ed="#P" n="87"/>tutem minus nobilem, quod videtur 
+            incredi<lb break="no" ed="#P" n="88"/>bile; nam peccatum culpabilis ignorantiae
+            <lb ed="#P" n="89"/>fidei, quod etiam in homine fideli inveniri
+            <lb ed="#P" n="90"/>potest, est peccatum contra fidem , et tamen
+            <lb ed="#P" n="91"/>non est gravius quam homicidium, vel quam
+            <lb ed="#P" n="92"/>peccatum contra naturam, ut videtur per se
+            <lb ed="#P" n="93"/>notum. Ex quo enervatur fundamentum 
+            po<lb break="no" ed="#P" n="94"/>situm, quod, scilicet, vitium oppositum 
+            nobi<lb break="no" ed="#P" n="95"/>liori virtuti sit gravius, quod alis etiam
+            <lb ed="#P" n="96"/>exemplis ostenditur falsum; nam eebrietas
+            <lb ed="#P" n="97"/>gravius peccatum est quam mendacium, et
+            <lb ed="#P" n="98"/>tamen veritas nobilior virtus est quam 
+            tem<lb break="no" ed="#P" n="99"/>perantia; item timiditas est levius peecatum
+            <lb ed="#P" n="100"/>quam intemperantia, ut D. Thomas tradit 2.
+            <lb ed="#P" n="101"/>2, q. 142, art. 3; et tamen fortitudo, cui 
+            ti<lb break="no" ed="#P" n="102"/>miditas opponitur, est nobilior virtus quam
+            <lb ed="#P" n="103"/>temperantia. Ac denique fornicatio est majus
+            <lb ed="#P" n="104"/>peccatum quam furtum, teste D. Thoma 2. 2,
+            <lb ed="#P" n="105"/>q. 154, art. 3, et tamen justitia, cui opponitur
+            <lb ed="#P" n="106"/>furtum, est major virtus quam castitas. 
+            Se<lb break="no" ed="#P" n="107"/>cundo objicitur, quia fideles in peccatis mor-
+            <pb ed="#P" n="411"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>tui gravius puniuntur quam infideles; ergo
+            <lb ed="#P" n="2"/>signum est peccata mortalia posse esse 
+            gra<lb break="no" ed="#P" n="3"/>viora infidelitate. Antecedens traditur 
+            ex<lb break="no" ed="#P" n="4"/>presse ab Urbano Papa, et habetur in c. 
+            Sci<lb break="no" ed="#P" n="5"/>mnus, 12. quaest. 1. Consequentiam probat 
+            Au<lb break="no" ed="#P" n="6"/>gustinus, 4 de Baptismo, c. 20; imo in cap. 5,
+            <lb ed="#P" n="7"/>sentit avaritiam ex certa scientia in homine
+            <lb ed="#P" n="8"/>fideli esse gravius peccatum infidelitate 
+            sal<lb break="no" ed="#P" n="9"/>tem ex ignorantia. Similia sumuntur ex 
+            Chry<lb break="no" ed="#P" n="10"/>sostomo, hom. 30, et similiter in id Matth. 18:
+            <lb ed="#P" n="11"/>St tili tangquam ethnicus et publicanus ; et
+            <lb ed="#P" n="12"/>D. Thoma, 1 ad Timoth. 5, lectione 1.
+          </p>
+          <p xml:id="szthvi-a99474-d1e1517">
+            <lb ed="#P" n="13"/>6. Tripliciter conparatur infidelitas cum
+            <lb ed="#P" n="14"/>aliis peccatis virtutibus mcralibus oppositis in
+            <lb ed="#P" n="15"/>gravitate.— Quid de simili comparatione inter
+            <lb ed="#P" n="16"/>individua. — Circa primam partem, 
+            adverten<lb break="no" ed="#P" n="17"/>dum est hujusmodi comparationem tribus 
+            mo<lb break="no" ed="#P" n="18"/>dis posse intelligi, scilicet, vel ex genere, vel
+            <lb ed="#P" n="19"/>in omni specie, vel etiam in omni individuo.
+            <lb ed="#P" n="20"/>Ex genere vocatur peccatum gravius, quando
+            <lb ed="#P" n="21"/>maxima species illius generis superat 
+            gravis<lb break="no" ed="#P" n="22"/>simam alterius, etiamsi non singulae species
+            <lb ed="#P" n="23"/>unius generis comparatee ad singulas alterius
+            <lb ed="#P" n="24"/>sint illis graviores. In specie vero dicitur 
+            pec<lb break="no" ed="#P" n="25"/>catum esse gravius, quando comparatum ad
+            <lb ed="#P" n="26"/>aliam speciem, illam excedit, et idem est de
+            <lb ed="#P" n="27"/>excessu in individuo cum proprietate. Aliqui
+            <lb ed="#P" n="28"/>ergo in eo rigore intelligunt illud principium,
+            <lb ed="#P" n="29"/>quod peccatum, nobiliori virtuti contrarium,
+            <lb ed="#P" n="30"/>sit majus, ut verum sit non solum ex genere,
+            <lb ed="#P" n="31"/>seid etiam in omni specie, imo et in omni 
+            sin<lb break="no" ed="#P" n="32"/>gulari individuo peccato contrario nobiliori
+            <lb ed="#P" n="33"/>virtuti; quod de individuis sentit Durandus,
+            <lb ed="#P" n="34"/>in 4, dist. 22, q. 1, num. 8; et tam de specie
+            <lb ed="#P" n="35"/>quam de individuo, Vasquez 1. 2, q. 73, art.
+            <lb ed="#P" n="36"/>3 et 4. Contraria vero sententia est communis
+            <lb ed="#P" n="37"/>Theologorum, quam ego indubitanter sequor;
+            <lb ed="#P" n="38"/>nam quoad species videtur sufficienter probari
+            <lb ed="#P" n="39"/>prima objectione facta; et in naturalibus 
+            spe<lb break="no" ed="#P" n="40"/>ciebus existimo sub nobiliori genere posse esse
+            <lb ed="#P" n="41"/>speciem aliquam minus nobilem, quam sit sub
+            <lb ed="#P" n="42"/>genere minus perfecto; et in virtutibus, cum
+            <lb ed="#P" n="43"/>una virtus possit habere actus specie 
+            distinc<lb break="no" ed="#P" n="44"/>tos, ut nunc suppono, fieri potest ut 
+            perfectis<lb break="no" ed="#P" n="45"/>simus actus inferioris virtutis excedat actum
+            <lb ed="#P" n="46"/>infimum virtutis nobilioris. Unde, cum 
+            pec<lb break="no" ed="#P" n="47"/>catum oppositum virtuti non semper 
+            oppona<lb break="no" ed="#P" n="48"/>tur toti virtuti, sed alicui actui ejus, inde fieri
+            <lb ed="#P" n="49"/>potest ut peccatum contra inferiorem virtutem
+            <lb ed="#P" n="50"/>sit majus in specie, quam aliud contrarium
+            <lb ed="#P" n="51"/>superiori virtuti; et ita credo haeresim esse
+            <lb ed="#P" n="52"/>majus peccatum quam odium proximi, 
+            etiam<lb break="no" ed="#P" n="53"/>si opponatur charitati. De individuo autem,
+            <lb ed="#P" n="54"/>licet verum sit, speculative et quasi physice
+            <lb ed="#P" n="55"/>loquendo, omne peccatum gravioris speciei,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>etiam in individuo esse essentialiter gravius,
+            <lb ed="#P" n="57"/>nihilominus moraliter loquendo, et in ordine
+            <lb ed="#P" n="58"/>ad offensionem Dei, simpliciter gravius esse
+            <lb ed="#P" n="59"/>potest in individuo, etiamsi sit in inferiori
+            <lb ed="#P" n="60"/>specie; cujus signum est, quia gravius punitur
+            <lb ed="#P" n="61"/>in inferno, et consequenter in judicio 
+            divi<lb break="no" ed="#P" n="62"/>no. in quo tantum quis punitur quantum 
+            de<lb break="no" ed="#P" n="63"/>liquit. Item est optimum signum, quod 
+            pecca<lb break="no" ed="#P" n="64"/>tum gravioris speciei in individuo potest esse
+            <lb ed="#P" n="65"/>veniale, et in minori specie esse mortale;
+            <lb ed="#P" n="66"/>nam, licet differentia mortalis et venialis 
+            pec<lb break="no" ed="#P" n="67"/>cati sumatur ex aversione a Deo, nihilominus
+            <lb ed="#P" n="68"/>supponit diversitatem in gravitate 
+            conversio<lb break="no" ed="#P" n="69"/>nis, prout in re ipsa et individuo committitur.
+          </p>
+          <p xml:id="szthvi-a99474-d1e1645">
+            <lb ed="#P" n="70"/>7. Fit satis primae objectioni in num. 5. —
+            <lb ed="#P" n="71"/>Ad primam ergo objectionem, respondeo 
+            pec<lb break="no" ed="#P" n="72"/>catum infidelitatis dici gravius comparatione
+            <lb ed="#P" n="73"/>vitiorum moralium ex genere suo; hanc enim
+            <lb ed="#P" n="74"/>particulam semper addidit D. Thomas, quae
+            <lb ed="#P" n="75"/>in sensu praedicto intelligenda est, sicut 
+            com<lb break="no" ed="#P" n="76"/>muniter intelligitur. Unde optime fit, 
+            maxi<lb break="no" ed="#P" n="77"/>mum peccatum in specie infidelitatis, quod
+            <lb ed="#P" n="78"/>cst infidelitas commissionis (ut supra illam
+            <lb ed="#P" n="79"/>explicavi), et praesertim haeresis, ut infra 
+            di<lb break="no" ed="#P" n="80"/>cam, hoc, inquam, peccatum esse gravius
+            <lb ed="#P" n="81"/>omnibus speciebus vitiorum moralium ; 
+            nihi<lb break="no" ed="#P" n="82"/>lominus tamen recte fieri potest ut infidelitas
+            <lb ed="#P" n="83"/>minus gravis, scilicet ignorantiae et 
+            omissio<lb break="no" ed="#P" n="84"/>nis, excedatur ab aliquo vitio morali, sumpto
+            <lb ed="#P" n="85"/>etiam in specie; et similiter fieri potest ut in
+            <lb ed="#P" n="86"/>individuo aliquod vitium morale sit gravius
+            <lb ed="#P" n="87"/>infidelitate, etiam in specie graviori, et ita 
+            sa<lb break="no" ed="#P" n="88"/>tisfactum est ad caetera exempla, quae in illa
+            <lb ed="#P" n="89"/>objectione afferebantur.
+          </p>
+          <p xml:id="szthvi-a99474-d1e1691">
+            <lb ed="#P" n="90"/>8. Satisfit secundae ibidem. — Circa alteram
+            <lb ed="#P" n="91"/>vero objectionem, advertendum est ex D.
+            <lb ed="#P" n="92"/>Thoma, dicta quaest. 10, art. 3, ad 
+            argumen<lb break="no" ed="#P" n="93"/>ta, et in lect. 1, in cap. 5, 1 Canonicae 
+            Joan<lb break="no" ed="#P" n="94"/>nis, inter fidelem et infidelem triplicem posse
+            <lb ed="#P" n="95"/>fieri comparationem: una est simpliciter in
+            <lb ed="#P" n="96"/>statu secundum ordinem ad salutem aeternam.
+            <lb ed="#P" n="97"/>Secunda est in infidelitate, comparata ad ahlas
+            <lb ed="#P" n="98"/>species peccatorum contra mores. Tertia est, in
+            <lb ed="#P" n="99"/>eadem specie peccati moralis ab infideli et fideli
+            <lb ed="#P" n="100"/>commissi. In prima comparatione, sine dubio
+            <lb ed="#P" n="101"/>sunt deteriores infideles, tum ob gravitatem
+            <lb ed="#P" n="102"/>peccati, tum maxime propter specialia 
+            nocu<lb break="no" ed="#P" n="103"/>menta quae secum affert, et supra notata sunt,
+            <lb ed="#P" n="104"/>praesertim quia infidelitatis status caret omni
+            <lb ed="#P" n="105"/>principio intrinseco piae operationis, et 
+            consti<lb break="no" ed="#P" n="106"/>tuit hominem in summo periculo et 
+            damna<lb break="no" ed="#P" n="107"/>tionis, et quorumcumque peccatorum. 
+            Inse<lb break="no" ed="#P" n="108"/>cunda comparatione excedit quidem infidelitas
+            <lb ed="#P" n="109"/>ex genere suo, ut dixi; nihilominus tamen 
+            po<lb break="no" ed="#P" n="110"/>test saepe fidelis esse pejor simpliciter et majo-
+            <pb ed="#P" n="412"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ris demeriti apud Deum quam infidelis, tum
+            <lb ed="#P" n="2"/>ob multitudinem peccatorum, tum ob 
+            gravita<lb break="no" ed="#P" n="3"/>tem eorum in individuo. Et hoc expresse 
+            in<lb break="no" ed="#P" n="4"/>tendunt Patres citati, qui praecipue tertiam 
+            fa<lb break="no" ed="#P" n="5"/>ciunt com parationem, et in ea dicunt, 
+            regula<lb break="no" ed="#P" n="6"/>riter et moraliter loquendo, gravius peccare
+            <lb ed="#P" n="7"/>tidelem, tum propter modum peccandi cum
+            <lb ed="#P" n="8"/>majori cognitione, ac subinde majori cum 
+            vo<lb break="no" ed="#P" n="9"/>luntate, ut sumitur ex 2 Petri 2; tum etiam
+            <lb ed="#P" n="10"/>propter majus scandalum, et quamdam fidei
+            <lb ed="#P" n="11"/>injuriam, et alias circumstantias quae facile
+            <lb ed="#P" n="12"/>considerari possunt ; et ita illi objectioni 
+            satis<lb break="no" ed="#P" n="13"/>factum est.
+          </p>
+        </div>
+        <div xml:id="szthvi-a99474-Dd1e1773">
+          <head xml:id="szthvi-a99474-Hd1e1775">Sectio 3</head>
+          <head xml:id="szthvi-a99474-Hd1e1777" type="question-title">Utrum infidelitas sit in intellectu vel voluntate</head>
+          <p xml:id="szthvi-a99474-d1e1780">
+            <lb ed="#P" n="14"/>SECTIO III.
+            <lb ed="#P" n="15"/>Utrum infidelitas sit in intellectu vel voluntate.
+          </p>
+          <p xml:id="szthvi-a99474-d1e1787">
+            <lb ed="#P" n="16"/>1. Resolutio.— Falsitas infidelitatis est 
+            sub<lb break="no" ed="#P" n="17"/>jectice in intellectu. — Malitia in voluntate. —
+            <lb ed="#P" n="18"/>Hanc quaestionem proponit D. Thomas, d. q.
+            <lb ed="#P" n="19"/>10, art. 2, et in Summa respondet peccatum
+            <lb ed="#P" n="20"/>infidelitatis esse in voluntate, tanquam in 
+            ge<lb break="no" ed="#P" n="21"/>ncrali principio peccatorum; esse autem in
+            <lb ed="#P" n="22"/>intellectu ratione suae speciei, tanquam in 
+            pro<lb break="no" ed="#P" n="23"/>prio prineipio. Ut autem haec resolntio 
+            intelli<lb break="no" ed="#P" n="24"/>gatur et explicetur amplius, explicandum est
+            <lb ed="#P" n="25"/>in infidelitate duo posse distingui: unum est
+            <lb ed="#P" n="26"/>falsitas, vel (ut ita dicam) caecitas mentis; 
+            al<lb break="no" ed="#P" n="27"/>terum moralis malitia, et aversio quae 
+            consti<lb break="no" ed="#P" n="28"/>tuit infidelitatem in ratione peccati, iuxta quae
+            <lb ed="#P" n="29"/>duo alia etiam duo certa sunt. Primum est,
+            <lb ed="#P" n="30"/>falsitatem et ignorantiam infidelitatis esse 
+            sub<lb break="no" ed="#P" n="31"/>jective in intellectu, vel in actu ejus. Hoc 
+            ma<lb break="no" ed="#P" n="32"/>nifestum est, quia contraria seu opposita 
+            ver<lb break="no" ed="#P" n="33"/>santur circa idem subjectum; fides autem, cui
+            <lb ed="#P" n="34"/>opponitur infidelitas, est in intellectu; ergo
+            <lb ed="#P" n="35"/>in eodem est infidelitas. Item solus intellectus
+            <lb ed="#P" n="36"/>versatur circa verum, ut verum est, et solus
+            <lb ed="#P" n="37"/>etiam est capax luminis, seu visionis 
+            intellec<lb break="no" ed="#P" n="38"/>tualis; ergo solus est capax erroris, falsitatis,
+            <lb ed="#P" n="39"/>aut mentis caecitatis. Secundo, est certum 
+            in<lb break="no" ed="#P" n="40"/>fidelitatem quoad malitiam, ac proinde in 
+            ra<lb break="no" ed="#P" n="41"/>tione pecrati, esse in voluntate. Probatur, quia
+            <lb ed="#P" n="42"/>sine voluntate non peccatur; nam, ut dixit
+            <lb ed="#P" n="43"/>Augustinus, 1 Retract., cap. 9: Voluntate 
+            pec<lb break="no" ed="#P" n="44"/>catur aut recte vivitur. Wem quia 
+            contrario<lb break="no" ed="#P" n="45"/>rum, ut dixi, eadem est ratio ; fides autem, ut
+            <lb ed="#P" n="46"/>est actus humanus, est in voluntate, ut supra
+            <lb ed="#P" n="47"/>dictum est ; ergo et infidelitas; denique quia
+            <lb ed="#P" n="48"/>iufidelitas potest excusari a peccato, etsi 
+            ha<lb break="no" ed="#P" n="49"/>bcat defectum in intellectu, juxta illud: 
+            <lb ed="#P" n="50"/>non venissem, el locutus cis fuissem, peccatum
+            <lb ed="#P" n="51"/>non haberent ; ergo tale peccatum per 
+            volunta<lb break="no" ed="#P" n="52"/>tem committitur, juxta illud Joannis 3: Di-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>lexerunt homines magis tenebras quam lucem.
+          </p>
+          <p xml:id="szthvi-a99474-d1e1874">
+            <lb ed="#P" n="54"/>2. Primum dubium : utrum infidelitatis 
+            ma<lb break="no" ed="#P" n="55"/>litia sit etiam in intellectu. — Pro resolutione
+            <lb ed="#P" n="56"/>notandum primo. —Ex his autem duo alia 
+            du<lb break="no" ed="#P" n="57"/>bia oriuntur. Primum est, an malitia 
+            infideli<lb break="no" ed="#P" n="58"/>tatis, atque adeo infidelitas, ut peccatum est,
+            <lb ed="#P" n="59"/>sit etiam in intellectu. Quod dubium tractavit
+            <lb ed="#P" n="60"/>in dicto artic. 29 Aragon., et constanter 
+            defen<lb break="no" ed="#P" n="61"/>dit malitiam infidelitatis esse in ipso 
+            intellec<lb break="no" ed="#P" n="62"/>tu, imo in illo esse primario, et ab illo 
+            deri<lb break="no" ed="#P" n="63"/>vari in voluntatem, et explicat se loqui de 
+            ma<lb break="no" ed="#P" n="64"/>litia non tantum objecti, sed etiam actus 
+            mo<lb break="no" ed="#P" n="65"/>ralis, ut talis est. Fundamentum est, quia,
+            <lb ed="#P" n="66"/>licet actus intellectus habeat a voluntate quod
+            <lb ed="#P" n="67"/>voluntarius sit et liber, non tamen habet ab
+            <lb ed="#P" n="68"/>illa quod sit malus; nam voluntas discredendi
+            <lb ed="#P" n="69"/>mala est, quia ipsum discredere malum cst,
+            <lb ed="#P" n="70"/>et contra rationem, et contra Deum; ergo 
+            ma<lb break="no" ed="#P" n="71"/>litia prius est in intellectu ipso, et inde ad 
+            vo<lb break="no" ed="#P" n="72"/>luntatem derivatur. Nihilominus contrariam
+            <lb ed="#P" n="73"/>sententiam veram censeo ; pendet vero haec
+            <lb ed="#P" n="74"/>quaestio ex alia generali, quae tractatur in 1. 2,
+            <lb ed="#P" n="75"/>q. 20, a. 1, 2 et 3., an malitia moralis sit 
+            for<lb break="no" ed="#P" n="76"/>maliter et intrinsece in solo actu voluntatis,
+            <lb ed="#P" n="77"/>an etiam in exteriori actu ab illa imperato; et
+            <lb ed="#P" n="78"/>ideo brevissime illam expediam. Et imprimis
+            <lb ed="#P" n="79"/>adverto quod, licet infidelitas dividi soleat in
+            <lb ed="#P" n="80"/>externam et internam, et externa proprie 
+            dic<lb break="no" ed="#P" n="81"/>ta, et secundum communem usum, sit illa
+            <lb ed="#P" n="82"/>quae per aliqua signa sensibilia manifestatur,
+            <lb ed="#P" n="83"/>interna vero, quae omnino in animo latet, ut
+            <lb ed="#P" n="84"/>latius dicemus tractando de haeresi, 
+            nihilomi<lb break="no" ed="#P" n="85"/>nus in ipsa interna infidelitate duo 
+            distinguen<lb break="no" ed="#P" n="86"/>da sunt, scilicet, id quod pertinet ad 
+            volunta<lb break="no" ed="#P" n="87"/>tem, et quod ad intellectum spectat ; nam haec
+            <lb ed="#P" n="88"/>duo inter se comparando, actus intellectns est
+            <lb ed="#P" n="89"/>tanquam actus extcernus, quia, sicut 
+            homici<lb break="no" ed="#P" n="90"/>dium, verhi gratia, ut per manum 
+            consumma<lb break="no" ed="#P" n="91"/>tur, est actus imperatus a voluntate, et solum
+            <lb ed="#P" n="92"/>est voluntarius per denominationem abilla, ita
+            <lb ed="#P" n="93"/>actus intellectus, quo aliquis fit infidelis, est
+            <lb ed="#P" n="94"/>imperatus a voluntate, et voluntarius ac liber
+            <lb ed="#P" n="95"/>solum per denominationem ab actu voluntatis ;
+            <lb ed="#P" n="96"/>quia, ut suppono, intellectus non est 
+            formali<lb break="no" ed="#P" n="97"/>ter liber, sed sola voluntas; igitur sub ratione
+            <lb ed="#P" n="98"/>actus humani infidelitas intellectus est quasi
+            <lb ed="#P" n="99"/>actus externus in peccato infidelitatis ; 
+            inter<lb break="no" ed="#P" n="100"/>nus autem actus ejus est in voluntate.
+          </p>
+          <p xml:id="szthvi-a99474-d1e1979">
+            <lb ed="#P" n="101"/>3. Notandum secundo. — Unde ulterius 
+            con<lb break="no" ed="#P" n="102"/>siderandum est actum intellectus (sub quo 
+            ca<lb break="no" ed="#P" n="103"/>rentiam actus semper comprehendo) duobus
+            <lb ed="#P" n="104"/>modis spectari posse, scilicet, ut objectum 
+            ac<lb break="no" ed="#P" n="105"/>tus voluntatis, et ut actus elicitus ab intellectu,
+            <lb ed="#P" n="106"/>et a voluntate imperatus, a qua habet quod 
+            ac<lb break="no" ed="#P" n="107"/>tus liber moralis seu humanus sit, et sub utra-
+            <pb ed="#P" n="413"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>que ratione potest actus intellectus habere 
+            boni<lb break="no" ed="#P" n="2"/>tatem, vel malitiam ; nam actus fidei, verbi
+            <lb ed="#P" n="3"/>gratia, priusquam ametur, est bonum objectum
+            <lb ed="#P" n="4"/>honeste amabile a voluntate, et idem actus,
+            <lb ed="#P" n="5"/>prout in re fit ex imperio voluntatis, est actus
+            <lb ed="#P" n="6"/>moralis honestus ; et e contrario, actus 
+            haere<lb break="no" ed="#P" n="7"/>sis de se est pravum objectum, et prout 
+            exer<lb break="no" ed="#P" n="8"/>cetur voluntarie, est pravus actus moralis.
+          </p>
+          <p xml:id="szthvi-a99474-d1e2018">
+            <lb ed="#P" n="9"/>4. Resolutio : malitia objectiva infidelitatis
+            <lb ed="#P" n="10"/>est in intellectu ; moralis in sola voluntate 
+            for<lb break="no" ed="#P" n="11"/>maliter residet. — Prima pars probatur: — 
+            Di<lb break="no" ed="#P" n="12"/>cendum ergo est infidelitatem, prout est in
+            <lb ed="#P" n="13"/>intellectu, de se et non ab actu voluntatis 
+            ha<lb break="no" ed="#P" n="14"/>bere objectivam malitiam; prout vero est 
+            mo<lb break="no" ed="#P" n="15"/>ralis actus, non habere ahlam maltiam, nisi
+            <lb ed="#P" n="16"/>quam participat denominative a voluntate,
+            <lb ed="#P" n="17"/>atque ita, simpliciter loquendo, malitiam 
+            mo<lb break="no" ed="#P" n="18"/>ralem, quae moraliter constituit infidelitatem,
+            <lb ed="#P" n="19"/>in ratione peccati intrinsece esse tantum in
+            <lb ed="#P" n="20"/>voluntate, in intellectu vero per solam 
+            deno<lb break="no" ed="#P" n="21"/>minationem ab actu voluntatis. Primam 
+            par<lb break="no" ed="#P" n="22"/>tem probat ratio contrariae sententiae, quia
+            <lb ed="#P" n="23"/>actus fidei contrarius de se habet malitiam
+            <lb ed="#P" n="24"/>objectivam, ut explicavi, et optime 
+            intelligi<lb break="no" ed="#P" n="25"/>tur per illam causalem propositionem : Quaa
+            <lb ed="#P" n="26"/>dissentire a fide malum est, ideo velle 
+            dissen<lb break="no" ed="#P" n="27"/>Lire est malum, et non e contrario. Denique
+            <lb ed="#P" n="28"/>hac maltia sumitur ex eo quod talis actus
+            <lb ed="#P" n="29"/>intellectus est dissentaneus rectae rationi, vel
+            <lb ed="#P" n="30"/>divinae legi, vel naturae rationali: hanc vero
+            <lb ed="#P" n="31"/>disconvenientiam non habet a voluntate, sed
+            <lb ed="#P" n="32"/>ex se et natura sua, sicut videre est in aliis
+            <lb ed="#P" n="33"/>actibus externis, praesertim inirinsece malis,
+            <lb ed="#P" n="34"/>ut in fornicatione, verbi gratia, quae mala est,
+            <lb ed="#P" n="35"/>quia dissona rationali naturae ; imo et in 
+            for<lb break="no" ed="#P" n="36"/>mis naturalibus idem cum proportione 
+            inve<lb break="no" ed="#P" n="37"/>nitur ; nam calor, verbi gratia, malum est
+            <lb ed="#P" n="38"/>aquae, quia est disconveniens illi cx natura
+            <lb ed="#P" n="39"/>sua, et sic de alus.
+          </p>
+          <p xml:id="szthvi-a99474-d1e2088">
+            <lb ed="#P" n="40"/>5. Probatur pars secunda. — Altera vero
+            <lb ed="#P" n="41"/>pars probatur, quia actus infidelitatis, prout
+            <lb ed="#P" n="42"/>ab homine exercetur, tantum est unus actus
+            <lb ed="#P" n="43"/>moralis simul cum actu voluntatis; sed ille
+            <lb ed="#P" n="44"/>actus habet totum esse morale a voluntate, a
+            <lb ed="#P" n="45"/>qua habet libertatem; ergo habet ab eadem
+            <lb ed="#P" n="46"/>moralem malitiam actionis, ut actio est, atque
+            <lb ed="#P" n="47"/>ita tota illa malitia formaliter est in 
+            volun<lb break="no" ed="#P" n="48"/>tate. Secundo declaratur amplius, quia in illo
+            <lb ed="#P" n="49"/>actu, ut composito ex actu voluntatis ct 
+            intel<lb break="no" ed="#P" n="50"/>lectus, tantum est una malitia; ergo vel est
+            <lb ed="#P" n="51"/>intrinsece in actu voluntatis, in inteilectu 
+            au<lb break="no" ed="#P" n="52"/>tem extrinsece, vel e contra; sed hoc 
+            poste<lb break="no" ed="#P" n="53"/>rius non potest dici; ergo primum. 
+            Antece<lb break="no" ed="#P" n="54"/>dens probo ex alio principio morali, quod
+            <lb ed="#P" n="55"/>actus externus nron addit malitiam vel deme-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>ritum actui interno; non enim minus peccat
+            <lb ed="#P" n="57"/>qui vult occidere, et illud non facit quia non
+            <lb ed="#P" n="58"/>potest, quam qui occidit, juxta D. Thomam
+            <lb ed="#P" n="59"/>1. 2, quaest. 20, art. 3; ergo signum est
+            <lb ed="#P" n="60"/>unam esse malitiam in toto illo actu homicidii
+            <lb ed="#P" n="61"/>voluntarii, cum tota indivisibiliter maneat in
+            <lb ed="#P" n="62"/>voluntaie occidendi ; idem ergo est in peccato
+            <lb ed="#P" n="63"/>haeresis, vel cujuscumque infidelitatis. Et ex
+            <lb ed="#P" n="64"/>eodem principio atque eodem exemplo 
+            pro<lb break="no" ed="#P" n="65"/>bata manet altera pars antecedentis, seu 
+            mi<lb break="no" ed="#P" n="66"/>noris, quia illa unica malitia tota potest 
+            ma<lb break="no" ed="#P" n="67"/>nere in solo actu voluntatis, et non potest
+            <lb ed="#P" n="68"/>manere in solo actu intellectus, vel cum 
+            pro<lb break="no" ed="#P" n="69"/>portione ir alio externo; ergo signum est esse
+            <lb ed="#P" n="70"/>intrinsece in actu voluntatis. Et ratio a priori
+            <lb ed="#P" n="71"/>est, quia sola voluntas tendit in objectum 
+            bo<lb break="no" ed="#P" n="72"/>num, ut bonum est; et ideo in illa est tota
+            <lb ed="#P" n="73"/>formalis malitia, quod ex praesenti etiam 
+            pa<lb break="no" ed="#P" n="74"/>tet a contrario ; nam in actu credendi veritas
+            <lb ed="#P" n="75"/>quidem est in intellectu, formalis autem 
+            bo<lb break="no" ed="#P" n="76"/>nitas moralis est in voluntate; et ideo fides
+            <lb ed="#P" n="77"/>prout est in intellectu est virtus 
+            intellectua<lb break="no" ed="#P" n="78"/>lis, non moralis, nisi per denominationem a
+            <lb ed="#P" n="79"/>voluntate; ita ergo est cum proportione in
+            <lb ed="#P" n="80"/>infidelitate.
+          </p>
+          <p xml:id="szthvi-a99474-d1e2182">
+            <lb ed="#P" n="81"/>6. Secundum dubium : utrum ingidelitatis
+            <lb ed="#P" n="82"/>peccatum posst commilti so!a voluntate.—Hinc
+            <lb ed="#P" n="83"/>vero nascitur aliud dubium, an hoc peccatum
+            <lb ed="#P" n="84"/>infidelitatis possit interdum committi sola 
+            vo<lb break="no" ed="#P" n="85"/>luntate, ita ut in intellectu nullo modo 
+            con<lb break="no" ed="#P" n="86"/>summetur, aut existat; quod dubium attigit
+            <lb ed="#P" n="87"/>Gregor. de Valentia. in suo tertio tomo, 
+            dis<lb break="no" ed="#P" n="88"/>put. 1, quaest. 10, propositione prima, dubio
+            <lb ed="#P" n="89"/>3, et sentit posse in aliquibus casibus ita 
+            acci<lb break="no" ed="#P" n="90"/>dere. Et probat primo a simili ex aliis peceatis,
+            <lb ed="#P" n="91"/>quae extra voluntatem consummaaur et 
+            in<lb break="no" ed="#P" n="92"/>terdum sola voluntate committuntur, etiam
+            <lb ed="#P" n="93"/>cum plena malitia, ut constat in proposito
+            <lb ed="#P" n="94"/>mentiendi; ergo idem poterit contingere in
+            <lb ed="#P" n="95"/>infidelitate, quandoquidem actus intellectus
+            <lb ed="#P" n="96"/>est quasi externus respectu propositi 
+            volunta<lb break="no" ed="#P" n="97"/>tis, ut declaravi. Secundo, affert casus in 
+            qui<lb break="no" ed="#P" n="98"/>bus ita peccari potest per infidelitatem. Unus
+            <lb ed="#P" n="99"/>est, si quis credens habeat propositum, si 
+            con<lb break="no" ed="#P" n="100"/>trarium melius probetur illud credendi. Item
+            <lb ed="#P" n="101"/>si quis, demonsiratione convictus, credat 
+            ani<lb break="no" ed="#P" n="102"/>mam esse immortalem, habeat autem 
+            propo<lb break="no" ed="#P" n="103"/>situm conditionatum, quod non crederet nisi
+            <lb ed="#P" n="104"/>demonstraretur : nam in utroque casu ille est
+            <lb ed="#P" n="105"/>infidelis quoad voluntatem, et nondum quoad
+            <lb ed="#P" n="106"/>intellectum, quia adhuc credit. Tertium casum
+            <lb ed="#P" n="107"/>adjungit de ilio qui proposita fide vult non
+            <lb ed="#P" n="108"/>credere, nec discredere; nam ille jam est 
+            infi<lb break="no" ed="#P" n="109"/>delis voluntate, nondum autem intellectu, quia
+            <lb ed="#P" n="110"/>per intellectum nondum fidei resistit.
+          </p>
+          <p xml:id="szthvi-a99474-d1e2250">
+            <pb ed="#P" n="414"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>7. Vera resolutio. — Infdelitas actualis 
+            nun<lb break="no" ed="#P" n="2"/>quam est in sola voluntate. — Mihi autem 
+            dis<lb break="no" ed="#P" n="3"/>tinguendum occurrit inter peccatum 
+            infideli<lb break="no" ed="#P" n="4"/>tatis actuale, id est, quod actuali usnu libertatis
+            <lb ed="#P" n="5"/>committitur, actu considerando, et volendo,
+            <lb ed="#P" n="6"/>et habituali, id est, de culpa, seu macula 
+            infi<lb break="no" ed="#P" n="7"/>delitatis, quae manet cessante actu; de priori
+            <lb ed="#P" n="8"/>enim dico nunquam esse in voluntate, quin
+            <lb ed="#P" n="9"/>aliquo modo transeat ad intellectum, et in illo
+            <lb ed="#P" n="10"/>quasi consummetur. Probatur primo , quia
+            <lb ed="#P" n="11"/>peccatum infidelitatis tale est, ut fidem 
+            exclu<lb break="no" ed="#P" n="12"/>dat, sicut supra illud descripsi : ergo si est 
+            ac<lb break="no" ed="#P" n="13"/>tuale peccatum infidelitatis in voluntate, de se
+            <lb ed="#P" n="14"/>excludit fidem ab intellectu; ergo necessario
+            <lb ed="#P" n="15"/>illa infidelitas, quae actualiter voluntaria est,
+            <lb ed="#P" n="16"/>in intellectu invenitur; ergo a voluntate 
+            infi<lb break="no" ed="#P" n="17"/>deli nunquam separatur infidelitas intellectus.
+            <lb ed="#P" n="18"/>Secundo, est optima ratio, et differentia inter
+            <lb ed="#P" n="19"/>peccatum infidelitatis, quatenus extra 
+            volun<lb break="no" ed="#P" n="20"/>tatem in intellectu consummatur, et ala
+            <lb ed="#P" n="21"/>peecata exteriora, quae per corporis 
+            mem<lb break="no" ed="#P" n="22"/>bra executioni mandantur; nam haec 
+            pos<lb break="no" ed="#P" n="23"/>teriora peccata non semper sunt in 
+            homi<lb break="no" ed="#P" n="24"/>nis potestate quoad executiopem externam,
+            <lb ed="#P" n="25"/>vel non semper imperantur , etsi 
+            desideren<lb break="no" ed="#P" n="26"/>tur, propter varias occasiones ; at vero 
+            in<lb break="no" ed="#P" n="27"/>tellectus in credendo, vel non credendo sen
+            <lb ed="#P" n="28"/>discredendo, ad nutum obedit voluntati; et
+            <lb ed="#P" n="29"/>si voluntas est efficax, non potest non sequi in
+            <lb ed="#P" n="30"/>intellectu, iquod ipsa vult; ergo si voluntas
+            <lb ed="#P" n="31"/>actu peccat volendo infidelitatem, non potest
+            <lb ed="#P" n="32"/>non esse infidelitas in intellectu. Tertio, id
+            <lb ed="#P" n="33"/>confirmari potest ex iisdem exemplis, quae in
+            <lb ed="#P" n="34"/>contrarium afferebantur; nam qui ita credit,
+            <lb ed="#P" n="35"/>vel potius assentitur animam esse 
+            immorta<lb break="no" ed="#P" n="36"/>lem, quia per demonstrationem convincitur,
+            <lb ed="#P" n="37"/>habens voluntatem sine demonstratione non
+            <lb ed="#P" n="38"/>credendi, ille revera caret in intellectu vera
+            <lb ed="#P" n="39"/>fide illius veritatis ; imo habet errorem, 
+            exis<lb break="no" ed="#P" n="40"/>timans non esse credendum, nisi quod 
+            de<lb break="no" ed="#P" n="41"/>monstratur, nam sine hac existimatione tale
+            <lb ed="#P" n="42"/>propositum non haberet : hoc autem judicium
+            <lb ed="#P" n="43"/>haereticum est. Similiter, qui paratus est ad
+            <lb ed="#P" n="44"/>dissentiendum rebus fidei propter aliquas 
+            ra<lb break="no" ed="#P" n="45"/>tiones, si afferantur, eo ipso non credit ut 
+            fi<lb break="no" ed="#P" n="46"/>delis, seu certitudine fidei; et ideo etiam in
+            <lb ed="#P" n="47"/>intellectu infidelitatem habet vel omissivam,
+            <lb ed="#P" n="48"/>quia non credit sicut oportet, vel 
+            commissi<lb break="no" ed="#P" n="49"/>vam, quia judicat res fidei non esse 
+            infallibi<lb break="no" ed="#P" n="50"/>les, nec dignas tanta certitudine. Denique, de
+            <lb ed="#P" n="51"/>illo qui vult suspendere assensum et 
+            dissen<lb break="no" ed="#P" n="52"/>sum, jam supra dixi, si id faciat, solum quia
+            <lb ed="#P" n="53"/>non vult exercere actam eo tempore quo non
+            <lb ed="#P" n="54"/>tenetur, non solum non committere peccatum
+            <lb ed="#P" n="55"/>infidelitatis, verum etiam simpliciter non pec-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>care ; quod si id velit eo tempore pro quo 
+            te<lb break="no" ed="#P" n="57"/>netur exercere actum fidei, peccabit quidem
+            <lb ed="#P" n="58"/>non mnfidelitate, sed sola omissione exercitii
+            <lb ed="#P" n="59"/>actus fidei, et tunc etiam illa omissio in 
+            intel<lb break="no" ed="#P" n="60"/>lectu erit : si vero id faciat ex dubitauione 
+            fi<lb break="no" ed="#P" n="61"/>dei, necessario illud dubium in intellectu 
+            exis<lb break="no" ed="#P" n="62"/>tut; nunquam ergo voluntas actu peccat 
+            pro<lb break="no" ed="#P" n="63"/>posito infideii, quin infidelitas ipsa in 
+            intel<lb break="no" ed="#P" n="64"/>lectu existat. Et haec quidem de infidelitate
+            <lb ed="#P" n="65"/>simpliciter intelligenda sunt; nam 
+            imperfec<lb break="no" ed="#P" n="66"/>tius quoddam infidelitatis genus posse in sola
+            <lb ed="#P" n="67"/>voluntate reperiri, infra dicemus, disput. 19.
+            <lb ed="#P" n="68"/>sect. 4, in fine.
+          </p>
+          <p xml:id="szthvi-a99474-d1e2406">
+            <lb ed="#P" n="69"/>8. Infidelitas habitualis in voluntate stare
+            <lb ed="#P" n="70"/>potest cum actuali fide intellectus. — Altera
+            <lb ed="#P" n="71"/>pars de habituali culpa infidelitatis breviter
+            <lb ed="#P" n="72"/>declaratur et probatur, quia peccatum 
+            infide<lb break="no" ed="#P" n="73"/>litatis semel commissum, postea non tolhtur
+            <lb ed="#P" n="74"/>sola fide, sed necessaria est poenitentia cum
+            <lb ed="#P" n="75"/>dilectione, vcl sacramento; unde fieri potest
+            <lb ed="#P" n="76"/>ut qui per haeresim peccavit, retractet 
+            erro<lb break="no" ed="#P" n="77"/>rem, et ita tam voluntate quam intellectu ad
+            <lb ed="#P" n="78"/>fidem redeat, et sufficientem poenitentiam
+            <lb ed="#P" n="79"/>prioris peccati non concipiat; tunc ergo in 
+            in<lb break="no" ed="#P" n="80"/>tellectu infidelitatem non habebit, imo poterit
+            <lb ed="#P" n="81"/>babitum fidei infusse recuperare. et 
+            nihilomi<lb break="no" ed="#P" n="82"/>nus in eadem habituali culpa infidelitatis 
+            com<lb break="no" ed="#P" n="83"/>missae permanebit ; sic ergo sine infidelitate in
+            <lb ed="#P" n="84"/>intellectu potest illa quasi habitualis aversio
+            <lb ed="#P" n="85"/>in voluntate durare; quia revera illa duo inter
+            <lb ed="#P" n="86"/>se formaliter non opponuntur; neque in hoc
+            <lb ed="#P" n="87"/>alia difficultas occurrit.
+          </p>
+        </div>
+        <div xml:id="szthvi-a99474-Dd1e2451">
+          <head xml:id="szthvi-a99474-Hd1e2453">Sectio 4</head>
+          <head xml:id="szthvi-a99474-Hd1e2455" type="question-title">Utrum infidelitas recte dividatur in paganismum, judaismum et heresim</head>
+          <p xml:id="szthvi-a99474-d1e2458">
+            <cb ed="#P" n="c"/>
+            <lb ed="#P" n="88"/>SECTIO IV.
+            <lb ed="#P" n="89"/>Utrum infidelitas recte dividatur in 
+            paganis<lb break="no" ed="#P" n="90"/>mum, judaismum et heresim.
+          </p>
+          <p xml:id="szthvi-a99474-d1e2469">
+            <lb ed="#P" n="91"/>1. Ratio dubitandi pro parte negativa. —
+            <lb ed="#P" n="92"/>Divisio haec utilis nobis futura est ad 
+            doctri<lb break="no" ed="#P" n="93"/>nam spectantem ad varios infideles distincte
+            <lb ed="#P" n="94"/>tradendam, et ideo illam hoc loco praemittimus,
+            <lb ed="#P" n="95"/>duoque praecipue circa illam explicanda sunt,
+            <lb ed="#P" n="96"/>videlicet, quomodo membra distinguantur, et
+            <lb ed="#P" n="97"/>quomodo sufficienter exhauriant divisum;
+            <lb ed="#P" n="98"/>utrumque enim obscurum est, et ratio 
+            difficul<lb break="no" ed="#P" n="99"/>tatis est, quia in his tribus infidelitatibus duo
+            <lb ed="#P" n="100"/>inveniuntur, scilicet, varii errores positivi, ut
+            <lb ed="#P" n="101"/>sic dicam, seu opiniones falsae, in quibus 
+            ver<lb break="no" ed="#P" n="102"/>santur; et renitentia contra fidem divinam, seu
+            <lb ed="#P" n="103"/>contemptus, vel abnegatio illius; et juxta haec
+            <lb ed="#P" n="104"/>duo potest dari divisio; neutro autem modo
+            <lb ed="#P" n="105"/>videtur esse posse conveniens aut sufficiens ;
+            <lb ed="#P" n="106"/>ergo. Probatur prima pars minoris de distinc-
+            <pb ed="#P" n="415"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>tione errorum. Primo, quia illa distinctio est
+            <lb ed="#P" n="2"/>valde materialis in ordine ad infidelitatem ;
+            <lb ed="#P" n="3"/>nam, licet illi errores possint distingui vel
+            <lb ed="#P" n="4"/>materialiter ex rebus opinatis, vel formaliter
+            <lb ed="#P" n="5"/>in ratione fidei humanae, si ex diverso 
+            huma<lb break="no" ed="#P" n="6"/>no motivo fiat, nihilominus tota illa diversitas
+            <lb ed="#P" n="7"/>est materialis, et physica, non formabls et
+            <lb ed="#P" n="8"/>morahs in ratione infidelitatis, ut constat in
+            <lb ed="#P" n="9"/>diversis haeresibus circa Trinitatem , verbi
+            <lb ed="#P" n="10"/>gratia, vel Incarnationem ; nam peccata sunt
+            <lb ed="#P" n="11"/>ejusdem speciei in iisdem materiis. Unde
+            <lb ed="#P" n="12"/>etiam fit ut in illo sensu non possit divisio
+            <lb ed="#P" n="13"/>esse doctrinalis et sufficiens, quia errores
+            <lb ed="#P" n="14"/>contra fidem possunt in infinitum 
+            multiplhi<lb break="no" ed="#P" n="15"/>cari, ut cum Augustino, lib. de Haeresib., in
+            <lb ed="#P" n="16"/>fine, dixit D. Thomas; d. q. 10, art. 5.
+          </p>
+          <p xml:id="szthvi-a99474-d1e2545">
+            <lb ed="#P" n="17"/>2. Evasio. — Excluditur. — Quod si quis
+            <lb ed="#P" n="18"/>dicat, licet hoc sit verum de erroribus in 
+            spe<lb break="no" ed="#P" n="19"/>cie, posse tamen ad quaedam genrralia capita
+            <lb ed="#P" n="20"/>reduci, etiam hoc modo non sufficienter 
+            viden<lb break="no" ed="#P" n="21"/>tur illa tria capita numerari ; quia praeter illa
+            <lb ed="#P" n="22"/>est atheismus, qui maxima infideiitas est; item
+            <lb ed="#P" n="23"/>erit aliquando Antichristianismus ab 
+            Antchris<lb break="no" ed="#P" n="24"/>to, qui non solum christianam fidem, sed etiam
+            <lb ed="#P" n="25"/>paganam persequetur sectam, et legem 
+            Ju<lb break="no" ed="#P" n="26"/>daeorum non servabit; erit ergo aliud 
+            infi<lb break="no" ed="#P" n="27"/>delitatis genus : imo addi potest pura quaedam
+            <lb ed="#P" n="28"/>infidelitas, quae philosophica dici potest, ut
+            <lb ed="#P" n="29"/>erit in illo qui nec Paganus, nec Judaeus, nec
+            <lb ed="#P" n="30"/>Christianus esse velit, sed tantum unum Deum
+            <lb ed="#P" n="31"/>ratione cognitum colat. Altera vero pars 
+            mi<lb break="no" ed="#P" n="32"/>noris de distinctione formali patet, quia non
+            <lb ed="#P" n="33"/>invenitur inter illa membra, ut postea 
+            videbi<lb break="no" ed="#P" n="34"/>mus.
+          </p>
+          <p xml:id="szthvi-a99474-d1e2588">
+            <lb ed="#P" n="35"/>3. Prima assertio : paganismus, judaismus
+            <lb ed="#P" n="36"/>et haresis apposite dividunt infidelitatem. —
+            <lb ed="#P" n="37"/>Nihilominus dicendum est partitionem esse
+            <lb ed="#P" n="38"/>optimam et necessariam. lta tradit D. 
+            Tho<lb break="no" ed="#P" n="39"/>mas, dicto articulo quinto, et communiter
+            <lb ed="#P" n="40"/>Theologi; habetque divisio fundamentum in
+            <lb ed="#P" n="41"/>Scriptura : nam Paulus, 1 ad Corinth. 1, illa
+            <lb ed="#P" n="42"/>membra distinguit, dum de Chrisu passione
+            <lb ed="#P" n="43"/>dicit esse, Judeeis scandalum, et gentibus 
+            stul<lb break="no" ed="#P" n="44"/>titiam, et prius haereses posuerat, et aliis
+            <lb ed="#P" n="45"/>locis frequenter illa tria ut distincta 
+            ponun<lb break="no" ed="#P" n="46"/>tur: habet etiam fundamentum in usu 
+            Eccle<lb break="no" ed="#P" n="47"/>siae, nam in die Parasceves, volens pro 
+            infide<lb break="no" ed="#P" n="48"/>libus orare, distincte orat pro haereticis, 
+            pa<lb break="no" ed="#P" n="49"/>ganis et Judaeis ; et in Concilio Ephesino, 
+            to<lb break="no" ed="#P" n="50"/>mo primo, capite sexto, quod continet librum
+            <lb ed="#P" n="51"/>secundum D. Cyrill Alexandrini de Fide, ad
+            <lb ed="#P" n="52"/>reginas, in ultima ejus sessione. tres illae 
+            in<lb break="no" ed="#P" n="53"/>fidelitates numerantur. Damasus etiam Papa,
+            <lb ed="#P" n="54"/>in Professione fidei ad Paulinum 
+            Thessaloni<lb break="no" ed="#P" n="55"/>censem, dixit haereticos male sentientes de
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>Filio aut Spiritu Sancto cum paganis et 
+            Ju<lb break="no" ed="#P" n="57"/>daeis sentire, ubi aperte ponit illa tria 
+            mem<lb break="no" ed="#P" n="58"/>bra ; et fere eadem distinguit Augustinus in
+            <lb ed="#P" n="59"/>oratione quam scripsit contra Judaeos, 
+            paga<lb break="no" ed="#P" n="60"/>nos et Arianos; et in Patribus sunt varia
+            <lb ed="#P" n="61"/>opuscula distincte edita contra has 
+            indelita<lb break="no" ed="#P" n="62"/>tes. Praeterea divisio haec virtute continetur in
+            <lb ed="#P" n="63"/>jure civili et canonico; nam in Codice, libro
+            <lb ed="#P" n="64"/>primo, titulo octavo, duodecimo, et 
+            sequenti<lb break="no" ed="#P" n="65"/>bus, distincte traduntur leges ad haec tria 
+            ge<lb break="no" ed="#P" n="66"/>nera infidelium pertinentes, et idem 
+            observsa<lb break="no" ed="#P" n="67"/>runt leges Hispaniae in parte septima, titulo
+            <lb ed="#P" n="68"/>24 et sequentibus; solum differunt, quia loco
+            <lb ed="#P" n="69"/>paganorum Mauros proponunt, qui sub 
+            paga<lb break="no" ed="#P" n="70"/>nis continentur, et idem fere observant jura
+            <lb ed="#P" n="71"/>canonica, libr. 5 Decret., et Clement. titulis de
+            <lb ed="#P" n="72"/>Hereticis et Sarracenis.
+          </p>
+          <p xml:id="szthvi-a99474-d1e2675">
+            <lb ed="#P" n="73"/>Pradictae divisionis rationes carie 
+            mora<lb break="no" ed="#P" n="74"/>les. — Ratio alia theologica. —Ex quibus 
+            im<lb break="no" ed="#P" n="75"/>primis facio conjecturam,; divisionem hanc
+            <lb ed="#P" n="76"/>in principio datam esse doctrinali modo (ut
+            <lb ed="#P" n="77"/>sic dicam), vel etiam juridico, propter 
+            com<lb break="no" ed="#P" n="78"/>moditatem ferendi leges pertinentes vel ad
+            <lb ed="#P" n="79"/>pomnas infidelium, vel ad eorum 
+            distinctio<lb break="no" ed="#P" n="80"/>nem, quatenus subditi erant principibus 
+            chri<lb break="no" ed="#P" n="81"/>stianis; vel ad dirigendos ipsos fideles circa
+            <lb ed="#P" n="82"/>communicationem cum infielibus, ut postea
+            <lb ed="#P" n="83"/>videbimus. Similiter dari potuit propter 
+            com<lb break="no" ed="#P" n="84"/>moditatem doctrinae vel moralis, quae circa
+            <lb ed="#P" n="85"/>homines infideles magnam habet 
+            diversita<lb break="no" ed="#P" n="86"/>tem; vel dogmaticae, quia ex aliis princiniis
+            <lb ed="#P" n="87"/>agendum est contra haereticos, et ex aliis 
+            con<lb break="no" ed="#P" n="88"/>tra Judaeos, ex aliis denique contra paganos.
+            <lb ed="#P" n="89"/>Propter has ergo rationes utilis est haec 
+            divi<lb break="no" ed="#P" n="90"/>sio et accommodata. Postea vero Theologi 
+            ra<lb break="no" ed="#P" n="91"/>tionem magis propriam hujus divisionis 
+            tra<lb break="no" ed="#P" n="92"/>dere conati sunt, et praecipua est illa D. 
+            Tho<lb break="no" ed="#P" n="93"/>mae, dicto articulo quinto; quia infidelitas esse
+            <lb ed="#P" n="94"/>potest vel contra fidem jam susceptam in ipsa
+            <lb ed="#P" n="95"/>manifestatione veritatis, vel contra fidem
+            <lb ed="#P" n="96"/>susceptam minus perfecte, et in figura, vel
+            <lb ed="#P" n="97"/>contra fidem nullo modo receptam. Primo
+            <lb ed="#P" n="98"/>modo constituitur haeresis; nam haeretici
+            <lb ed="#P" n="99"/>admittunt Evangelium, et Christi et 
+            Apostolo<lb break="no" ed="#P" n="100"/>rum doctrinam, in qua est manifestatio 
+            veri<lb break="no" ed="#P" n="101"/>tatis, et nihilominus ab illa recedunt; nam,
+            <lb ed="#P" n="102"/>ut de illis dixit 1 Joan. 2: Ez nobis 
+            prodie<lb break="no" ed="#P" n="103"/>runt, sed non erant ez nolis ; illorum ergo 
+            in<lb break="no" ed="#P" n="104"/>fidelitas est haeresis; in secundo ordine 
+            cons<lb break="no" ed="#P" n="105"/>tituitur infidelitas Judaeorum, nam illi 
+            admit<lb break="no" ed="#P" n="106"/>tunt doctrinam et legem Moysis, et 
+            promissio<lb break="no" ed="#P" n="107"/>nes Christi seu Messiae repraesentari in 
+            sacri<lb break="no" ed="#P" n="108"/>ficiis et tiguris veteris Testamenti, et ideo 
+            di<lb break="no" ed="#P" n="109"/>cuntur recepisse fidem in figura; tamen quia
+            <lb ed="#P" n="110"/>resistunt manifestationi veritatis, speciali mo-
+            <pb ed="#P" n="416"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>do infideles sunt; pagani autem nullam 
+            fi<lb break="no" ed="#P" n="2"/>dem, nullam Scripturam, nullamque divinam
+            <lb ed="#P" n="3"/>revelationem recipiunt, et ideo contradicunt
+            <lb ed="#P" n="4"/>fidei nullo modo receptae; hac ergo ratione
+            <lb ed="#P" n="5"/>illi tres modi infidelitatis distinguuntur.
+          </p>
+          <p xml:id="szthvi-a99474-d1e2775">
+            <lb ed="#P" n="6"/>5. Modus unus emplicandi hanc rationem
+            <lb ed="#P" n="7"/>Theologicam. — Impugnatur primo. — 
+            Opor<lb break="no" ed="#P" n="8"/>tet tamen circa hanc rationem advertere 
+            duo<lb break="no" ed="#P" n="9"/>bus modis accipi posse quod dicitur, 
+            infideli<lb break="no" ed="#P" n="10"/>tatem opponi fidei receptae hoc vel illo modo,
+            <lb ed="#P" n="11"/>vel nullo modo receptae, scilicet, vel 
+            subjecti<lb break="no" ed="#P" n="12"/>ve, vel objective, ut ita rem breviter 
+            compre<lb break="no" ed="#P" n="13"/>hendam. Subjective appello, si quis existimet
+            <lb ed="#P" n="14"/>ad haeresim, verbi gratia, necessarium esse ut
+            <lb ed="#P" n="15"/>aliquis prius in se receperit fidem ipfusam 
+            su<lb break="no" ed="#P" n="16"/>pernaturalem et Christianam, et postea illam
+            <lb ed="#P" n="17"/>a se abjiciat illam negando, ut sie haereticus
+            <lb ed="#P" n="18"/>constituatur; et simili modo judaismus 
+            suppo<lb break="no" ed="#P" n="19"/>nat fidem prius receptam, saltem in figura, et
+            <lb ed="#P" n="20"/>postea negatam; paganismus autem nullam
+            <lb ed="#P" n="21"/>tidem receptam et negatam supponat. Et hunc
+            <lb ed="#P" n="22"/>sensum indicant aliqui Thomistae, quos statim
+            <lb ed="#P" n="23"/>referam. Dico tamen esse sensum plane falsum.
+            <lb ed="#P" n="24"/>Primo, quia potest esse haeresis etiam in illo
+            <lb ed="#P" n="25"/>qui nunquam vere credidit, ut in filiis 
+            hae<lb break="no" ed="#P" n="26"/>reticorum qui ab infantia in haeresi 
+            educan<lb break="no" ed="#P" n="27"/>tur, qui nunquam credunt fide infusa, et licet
+            <lb ed="#P" n="28"/>aliquo tempore excusari possint a peccato
+            <lb ed="#P" n="29"/>per ignorantiam invincibilem, tamen, 
+            quan<lb break="no" ed="#P" n="30"/>do postea sufficienter instruuntur, et in suis
+            <lb ed="#P" n="31"/>erroribus permanent, veram haeresim 
+            commit<lb break="no" ed="#P" n="32"/>tunt.
+          </p>
+          <p xml:id="szthvi-a99474-d1e2836">
+            <lb ed="#P" n="33"/>6. Erasio excluditur. —Impugnatur 
+            secun<lb break="no" ed="#P" n="34"/>do. — Alter modus explicandi recipitur. — 
+            Vi<lb break="no" ed="#P" n="35"/>ces: illi saltem habuerunt fidem quoad 
+            habi<lb break="no" ed="#P" n="36"/>tum infusum per baptismum ; sed hoc parum
+            <lb ed="#P" n="37"/>refert, quia illud fortasse conferre potest ad
+            <lb ed="#P" n="38"/>circumstantiam apostasiae, de quo in sectione
+            <lb ed="#P" n="39"/>sequenti ; ad modum autem infidelitatis 
+            pa<lb break="no" ed="#P" n="40"/>rum conducit, cum ex illo capite per se non
+            <lb ed="#P" n="41"/>varietur modus recedendi a fide; praesertim
+            <lb ed="#P" n="42"/>quia contingere potest ut etiam talis sit haeresis,
+            <lb ed="#P" n="43"/>ut in substantia baptismi errorem committat,
+            <lb ed="#P" n="44"/>et tunc neque habitus infusus in tali haeretico
+            <lb ed="#P" n="45"/>praecedit ; et praeterea etiam a fide catholica
+            <lb ed="#P" n="46"/>aliquando proftessa transire quis potest ad 
+            ju<lb break="no" ed="#P" n="47"/>daismum et ad paganismum ; unde, etiam illae
+            <lb ed="#P" n="48"/>infidehtates esse possunt per desertionem 
+            fi<lb break="no" ed="#P" n="49"/>dei receptae subjective, in persona secundum
+            <lb ed="#P" n="50"/>manifestationem veritatis aliquando credente:
+            <lb ed="#P" n="51"/>ergo non possunt in illo sensu distingui istae
+            <lb ed="#P" n="52"/>infidelitates. Secundo, simile argumentum
+            <lb ed="#P" n="53"/>fieri potest de Judaismo. Nam omnes Judaei
+            <lb ed="#P" n="54"/>non baptizati non habent fidem infusam, 
+            ne<lb break="no" ed="#P" n="55"/>que illam unquam habuerunt, ctiam circa il-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>lam partem legis veteris quam retinent, sed
+            <lb ed="#P" n="57"/>per quamdam fidem et traditionem 
+            huma<lb break="no" ed="#P" n="58"/>nam illam retinent ex parte, et in pluribus
+            <lb ed="#P" n="59"/>errant; ergo in illis etiam non datur 
+            infide<lb break="no" ed="#P" n="60"/>litas contra fidem dicto modo in ipsis 
+            rece<lb break="no" ed="#P" n="61"/>ptam. Superest ergo alius sensus verus, quem
+            <lb ed="#P" n="62"/>objectivum appellavimus ; quia ex parte 
+            ob<lb break="no" ed="#P" n="63"/>jecti, et revelationis divinae susceptae aliquo
+            <lb ed="#P" n="64"/>modo, saltem per fidem humanam, illa 
+            di<lb break="no" ed="#P" n="65"/>versitas invenitur ; nam haeretiei recipiunt 
+            re<lb break="no" ed="#P" n="66"/>velationem fidei prout nobis propositam per
+            <lb ed="#P" n="67"/>Christum et Apostolos; recipiunt, inquam, 
+            ad<lb break="no" ed="#P" n="68"/>mittendo Scripturas novi et veteris 
+            Testamen<lb break="no" ed="#P" n="69"/>ti, et Christum, ut Messiam promissum, jam
+            <lb ed="#P" n="70"/>nobis datum ; et ideo proprie haeretici sunt, ut
+            <lb ed="#P" n="71"/>dixit Augustinus, qui sub nomine christiano a
+            <lb ed="#P" n="72"/>vera fide Christi recedunt; Judaei autem 
+            ad<lb break="no" ed="#P" n="73"/>mittunt Scripturas veteris Testamenti, et 
+            pro<lb break="no" ed="#P" n="74"/>missiones Messiae, et ideo dicuntur admittere
+            <lb ed="#P" n="75"/>Christum in figuris et promissione , negant
+            <lb ed="#P" n="76"/>autem in veritate exhibitum, et consequenter
+            <lb ed="#P" n="77"/>Scripturas novi Testamenti non admittunt, et
+            <lb ed="#P" n="78"/>hoc modo habent specialem modum 
+            infidelita<lb break="no" ed="#P" n="79"/>tis; Pagani vero nullo modo admittunt 
+            Chris<lb break="no" ed="#P" n="80"/>tum, vel ullas Scripturas divinas. Et ita ratio
+            <lb ed="#P" n="81"/>est optima, et sufficienter declarat 
+            distinctio<lb break="no" ed="#P" n="82"/>nem illorum trium membrorum.
+          </p>
+          <p xml:id="szthvi-a99474-d1e2949">
+            <lb ed="#P" n="83"/>1. Quomodo inter se distinguantur 
+            paganis<lb break="no" ed="#P" n="84"/>mus, judaismus et haeresis.— Hsse tres species
+            <lb ed="#P" n="85"/>essentialiter distinctas affirmat Cajetanus. —
+            <lb ed="#P" n="86"/>Fundamentum. — Confirmatur. — Ex 
+            dic<lb break="no" ed="#P" n="87"/>tis, facile explicari possunt duo puncta in 
+            prin<lb break="no" ed="#P" n="88"/>cipio proposita. Primum erat, quomodo haec
+            <lb ed="#P" n="89"/>membra inter se distinguantur ; in quo 
+            Caje<lb break="no" ed="#P" n="90"/>tanus 2. 2, q. 10, art. 5, sentit has tres 
+            infide<lb break="no" ed="#P" n="91"/>litates proprie et in rigore esse specie 
+            distinc<lb break="no" ed="#P" n="92"/>tas, quod ibi Banhes et Aragon. sequuntur,
+            <lb ed="#P" n="93"/>et ita D. Thomam exponunt. hRatio est, quia
+            <lb ed="#P" n="94"/>distincta vitia possunt eidem virtuti opponi, si
+            <lb ed="#P" n="95"/>diverso modo ejus honestatem destruant, ut
+            <lb ed="#P" n="96"/>si unum per excessum, et aliud per defectum
+            <lb ed="#P" n="97"/>virtuti contrarientur ; sed illae tres infidelitates
+            <lb ed="#P" n="98"/>corrumpunt fidem diversis modis, ut 
+            explica<lb break="no" ed="#P" n="99"/>tum est: ergo differunt inter se specie. Et 
+            con<lb break="no" ed="#P" n="100"/>firmatur, quia deficere a fide semel suscepta,
+            <lb ed="#P" n="101"/>et in baptismo professa, habet specialem 
+            mali<lb break="no" ed="#P" n="102"/>tiam et deformitatem, quam non habet 
+            paga<lb break="no" ed="#P" n="103"/>nus qui fidem non suscipit ; sicut deficere in
+            <lb ed="#P" n="104"/>castitate vel paupertate promissa specialem
+            <lb ed="#P" n="105"/>deformitatem habet, quae non invenitur in eo
+            <lb ed="#P" n="106"/>qui non promisit.
+          </p>
+          <p xml:id="szthvi-a99474-d1e3004">
+            <lb ed="#P" n="107"/>8. Secunda assertio: rigorose species non
+            <lb ed="#P" n="108"/>sunt nec essentialiter distinguuntur. — 
+            Proba<lb break="no" ed="#P" n="109"/>tur primo. — Satisfit fundamento in num 7.
+            <lb ed="#P" n="110"/>nihilominus dico illas tres infidelitates non
+            <pb ed="#P" n="417"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>esse proprias et rigorosas species, sed lato 
+            mo<lb break="no" ed="#P" n="2"/>do ita vocari propter accidentalem 
+            diversita<lb break="no" ed="#P" n="3"/>tem, et quia quasi diversos status constituunt,
+            <lb ed="#P" n="4"/>de quibus, ut supra dicebam, doctrina moralis
+            <lb ed="#P" n="5"/>diversa est. Ita sentit Valentia, citato loco, et
+            <lb ed="#P" n="6"/>est sententia communis recepta inter 
+            moder<lb break="no" ed="#P" n="7"/>nos Theologos. Et probatur contrario 
+            funda<lb break="no" ed="#P" n="8"/>mento, quia illae tres infidelitates opponuntur
+            <lb ed="#P" n="9"/>primae veritati, et privant eadeni honestate, et
+            <lb ed="#P" n="10"/>in modo non habent essentialem diversitatem ;
+            <lb ed="#P" n="11"/>ergo non est unde distinguantur specie. 
+            Ante<lb break="no" ed="#P" n="12"/>cedens quoad priorem partem clarum est;
+            <lb ed="#P" n="13"/>quoad ultimam, probatur veluti inductione
+            <lb ed="#P" n="14"/>quadam, quia illa peccata non distinguuntur
+            <lb ed="#P" n="15"/>tanquam vitium per excessum, et defectum,
+            <lb ed="#P" n="16"/>quia uterque modus peccandi potest in 
+            omni<lb break="no" ed="#P" n="17"/>bus illis infidelitatibus inveniri; nam 
+            haereti<lb break="no" ed="#P" n="18"/>cus deficit non credendo quae tenetur credere,
+            <lb ed="#P" n="19"/>et excedit credendo quae non sunt credenda,
+            <lb ed="#P" n="20"/>et uterque modus facile potest in pagano et
+            <lb ed="#P" n="21"/>Judaeo considerari. Deinde non possunt 
+            distin<lb break="no" ed="#P" n="22"/>gui tanquam omissio et commissio fidei 
+            con<lb break="no" ed="#P" n="23"/>traria, nam, licet hae duae infidelitates 
+            distin<lb break="no" ed="#P" n="24"/>guantur specie, ut supra dixi, tamen illa 
+            dis<lb break="no" ed="#P" n="25"/>tinctio non potest ad haec membra applicari,
+            <lb ed="#P" n="26"/>quia in pagano potest uterque modus 
+            peccan<lb break="no" ed="#P" n="27"/>di inveniri; nam si non habeat fidem 
+            suffi<lb break="no" ed="#P" n="28"/>cienter propositam, et solum per culpabilem
+            <lb ed="#P" n="29"/>ignorantiam et negligentiam erret, vel non
+            <lb ed="#P" n="30"/>credat, erit infidelis omittendo; si autem post
+            <lb ed="#P" n="31"/>sufficientem propositionem fidei resistit, jam
+            <lb ed="#P" n="32"/>peccabit committendo, et idem cum 
+            propor<lb break="no" ed="#P" n="33"/>tione in Judaeo invenitur ; haeresis autem 
+            pro<lb break="no" ed="#P" n="34"/>prie dicta semper est peccatum commissionis;
+            <lb ed="#P" n="35"/>nam requirit pertinaciam, ut infra videbimus.
+            <lb ed="#P" n="36"/>Tandem etiam in homine Christiano potest 
+            in<lb break="no" ed="#P" n="37"/>veniri culpa contra fidem per modum 
+            omis<lb break="no" ed="#P" n="38"/>sionis, ut supra dictum est; ergo non 
+            distin<lb break="no" ed="#P" n="39"/>guuntur ille infidelitates, si cum proportione
+            <lb ed="#P" n="40"/>comparentur, secundum illos duos modos, et,
+            <lb ed="#P" n="41"/>proprie loquendo, distinguuntur prout sunt
+            <lb ed="#P" n="42"/>commissiones contra fidem ; hoc autem modo
+            <lb ed="#P" n="43"/>non habent essentialem differentiam in 
+            resis<lb break="no" ed="#P" n="44"/>tendi modo fidei. Quod probatur, quia idem 
+            con<lb break="no" ed="#P" n="45"/>temptus divina revelationis et injuria primae
+            <lb ed="#P" n="46"/>veritatis in omnibus his infidelitatibus, si post
+            <lb ed="#P" n="47"/>sufflicientem propositionem doctrina Fidei
+            <lb ed="#P" n="48"/>committantur, invenitur. Nam quod una iní
+            i<lb break="no" ed="#P" n="49"/>delitas istarum magis vel minus resistat 
+            Scri<lb break="no" ed="#P" n="50"/>pturae aut revelationi divinae solum indicat 
+            dis<lb break="no" ed="#P" n="51"/>tinctionem in accidentali gravitate peccati,
+            <lb ed="#P" n="52"/>non in specie; nam eadem fere diversitas 
+            in<lb break="no" ed="#P" n="53"/>veniri potest in haereticis inter se, vel inter 
+            Ju<lb break="no" ed="#P" n="54"/>daeos, et suo modo inter paganos, si majorem
+            <lb ed="#P" n="55"/>Dei notitiam, vel fidei propositionem habeant,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>et ita responsum est ad principale 
+            fundamen<lb break="no" ed="#P" n="57"/>tum contrariae sententiae.
+          </p>
+          <p xml:id="szthvi-a99474-d1e3146">
+            <lb ed="#P" n="58"/>9. Probatur secundo eadem assertio. — 
+            <lb ed="#P" n="59"/>Ad confirmationem in num. 1. — Secundo,
+            <lb ed="#P" n="60"/>principaliter argumentor expendendo 
+            confir<lb break="no" ed="#P" n="61"/>mationem illius opinionis; nam in illa 
+            viden<lb break="no" ed="#P" n="62"/>tur dicti auctores supponere has infidelitates
+            <lb ed="#P" n="63"/>distingui, quia opponuntur fidei receptae ex
+            <lb ed="#P" n="64"/>parte subjecti, cujus contrarium nos 
+            ostendi<lb break="no" ed="#P" n="65"/>mus. Unde videntur etiam supponere 
+            hae<lb break="no" ed="#P" n="66"/>resim tantum esse posse in homine bap:
+            iza<lb break="no" ed="#P" n="67"/>to, quia in solo illo invenitur fides professa
+            <lb ed="#P" n="68"/>seu promissa (si tamen dicenda est 
+            promis<lb break="no" ed="#P" n="69"/>sio, quae fit iu baptismo, de quo aliquid 
+            di<lb break="no" ed="#P" n="70"/>cam sectione seq.); illud autem falsum est,
+            <lb ed="#P" n="71"/>nam catechumenus potest esse haereticus, si
+            <lb ed="#P" n="72"/>Christi fidem in generali admittat, et aliquam
+            <lb ed="#P" n="73"/>partem ejus neget, quia ille est infidelis, et
+            <lb ed="#P" n="74"/>non est Judaeus nec paganus, ut constat; ergo
+            <lb ed="#P" n="75"/>haereticus. Et patet, quia sub nomine 
+            chris<lb break="no" ed="#P" n="76"/>tiano recedit a fide; ergo non est de ratione
+            <lb ed="#P" n="77"/>haeresis quod sit contra fidem promissam.
+            <lb ed="#P" n="78"/>Deinde etiam paganus et Judaeus potest 
+            pec<lb break="no" ed="#P" n="79"/>care contra fidem promissam, ut si 
+            Christia<lb break="no" ed="#P" n="80"/>nus baptizatus ad illas sectas deficiat. 
+            Respon<lb break="no" ed="#P" n="81"/>det Cajetanus illum simul esse paganum,
+            <lb ed="#P" n="82"/>verbi gratia, et haereticum ; sed hoc est 
+            con<lb break="no" ed="#P" n="83"/>fundere apostasiam cum haeresi, quod non
+            <lb ed="#P" n="84"/>recte fit; nam apostasia potest esse 
+            circum<lb break="no" ed="#P" n="85"/>stantia omnium infidelitatum, ut recte dixit
+            <lb ed="#P" n="86"/>D. Thomas, q. 12, art. 1, ad 3, sive sit 
+            ag<lb break="no" ed="#P" n="87"/>gravans in eadem specie, sive mutans 
+            spe<lb break="no" ed="#P" n="88"/>ciem , de quo sect. seT. Christianus ergo
+            <lb ed="#P" n="89"/>transiens ad paganismum profecto non habet
+            <lb ed="#P" n="90"/>duas infidelitates, quaa unum tantum 
+            assen<lb break="no" ed="#P" n="91"/>sum vel dissensum habet contra fidem, et 
+            pro<lb break="no" ed="#P" n="92"/>prie tantum unam injuriam primae veritati
+            <lb ed="#P" n="93"/>infert ; et quamvis deficiat a professione fidei,
+            <lb ed="#P" n="94"/>illa non est nova infidelitas, sed apostasia,
+            <lb ed="#P" n="95"/>sicut in exemplo contrariae sent-ntiae in 
+            pec<lb break="no" ed="#P" n="96"/>cante contra votum castitatis non est duplex
+            <lb ed="#P" n="97"/>malitia luxuriae, sed uni malitiae contra 
+            cas<lb break="no" ed="#P" n="98"/>titatem adjungitur alia contra religionem ; et
+            <lb ed="#P" n="99"/>similiter furtum religiosi non est duplex 
+            in<lb break="no" ed="#P" n="100"/>justitia, sed una habens adjunctam aliam 
+            ma<lb break="no" ed="#P" n="101"/>litiam sacrilegii; sic ergo in praesenti malitia,
+            <lb ed="#P" n="102"/>si qua est contra promissionem fidei, adjungi
+            <lb ed="#P" n="103"/>quidem potest maltiae infidelitatis iu 
+            quoli<lb break="no" ed="#P" n="104"/>bet illorum membrorum ; tamen sine dubio
+            <lb ed="#P" n="105"/>habet difformitatem diversae rationis ab ipsa
+            <lb ed="#P" n="106"/>infidelitate.
+          </p>
+          <p xml:id="szthvi-a99474-d1e3255">
+            <lb ed="#P" n="107"/>10. An sit sufficiens predicta infidelitatis
+            <lb ed="#P" n="108"/>divisio. — Dicta sufficientia declaratur primo.
+            <lb ed="#P" n="109"/>— Declaratur secundo. — Secundum 
+            punc<lb break="no" ed="#P" n="110"/>tum erat de sufficieniia illius partitionis, quae
+            <pb ed="#P" n="418"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>etiam sufficienter patet ex ratione 
+            distin<lb break="no" ed="#P" n="2"/>guendi illa membra, prout a nobis explicata
+            <lb ed="#P" n="3"/>est, quia duo tantum sunt testamenta 
+            divina<lb break="no" ed="#P" n="4"/>rum Scripturarum, novum scilicet et vetus,
+            <lb ed="#P" n="5"/>contra quae peccari potest, vel neutrum 
+            ad<lb break="no" ed="#P" n="6"/>mittendo, et hoc pertinet ad paganismum; vel
+            <lb ed="#P" n="7"/>admittendo vetus, et non novum, et hoc 
+            spec<lb break="no" ed="#P" n="8"/>tat ad judaismum ; vel admittendo utrumque,
+            <lb ed="#P" n="9"/>non tamen illis, vel juxta illa integre 
+            creden<lb break="no" ed="#P" n="10"/>do, et sic committitur haeresis. Dices : etiam
+            <lb ed="#P" n="11"/>aliqui errarunt admittendo novum, et non 
+            ve<lb break="no" ed="#P" n="12"/>tus, ut Faustus, et alius, quem Augustinus 
+            ad<lb break="no" ed="#P" n="13"/>versarium legis et Prophetarum appellavit ; et
+            <lb ed="#P" n="14"/>in universum Manichaei, contra quos omnes
+            <lb ed="#P" n="15"/>Augustinus scripsit. Respondetur ipsos fuisse
+            <lb ed="#P" n="16"/>haereticos, et ut tales ab Augustino et 
+            Patri<lb break="no" ed="#P" n="17"/>bus damnati, quia refutando vetus 
+            Testamen<lb break="no" ed="#P" n="18"/>tum, etiam a novo recedebant, in quo illud
+            <lb ed="#P" n="19"/>confirmatur et probatur, vel certe quia 
+            profi<lb break="no" ed="#P" n="20"/>tentes Christum , prophetias et figuras de
+            <lb ed="#P" n="21"/>Christo negabant. Unde modo magis generali
+            <lb ed="#P" n="22"/>potest eadem suflicientia declarari : nam 
+            om<lb break="no" ed="#P" n="23"/>nes qui Christum Dominum recognoscunt ut
+            <lb ed="#P" n="24"/>auctorem fidei et salutis, et ejus fidem integre
+            <lb ed="#P" n="25"/>non retinent, sunt haeretici; qui vero illi non
+            <lb ed="#P" n="26"/>credunt, admittunt autem prophetias et 
+            figu<lb break="no" ed="#P" n="27"/>ras de Messia promisso, sunt Judaei; reliqui
+            <lb ed="#P" n="28"/>vero omnes, qui fidem Christi vel Messiae 
+            nul<lb break="no" ed="#P" n="29"/>lo modo admittunt, sub paganismo 
+            continen<lb break="no" ed="#P" n="30"/>tur : praeter haec autem membra nullum 
+            exco<lb break="no" ed="#P" n="31"/>gitari potest ; est ergo divisio sufficiens.
+          </p>
+          <p xml:id="szthvi-a99474-d1e3338">
+            <lb ed="#P" n="32"/>11. Declaratur tertio et generalius dicte
+            <lb ed="#P" n="33"/>divisionis sufficientia.— Solum video posse 
+            du<lb break="no" ed="#P" n="34"/>bitari, quia hoc modo explicata divisio solum
+            <lb ed="#P" n="35"/>videtur habere locum post lucem Evangelii,
+            <lb ed="#P" n="36"/>cum tamen infidelitas et haeresis semper 
+            es<lb break="no" ed="#P" n="37"/>se potuerint etiam in lege veteri, vel naturae.
+            <lb ed="#P" n="38"/>Propter hoc potest divisio cjusque sufficientia
+            <lb ed="#P" n="39"/>abstractiori modo declarari per ordinem ad
+            <lb ed="#P" n="40"/>revelationem Dei, cui infidelitas opponitur;
+            <lb ed="#P" n="41"/>aut enim aliquis nullam Dei revelationem sibi
+            <lb ed="#P" n="42"/>propositam suscipit, et hic est paganus, et 
+            ta<lb break="no" ed="#P" n="43"/>lis esse potuit a principio mundi; vel aliquis,
+            <lb ed="#P" n="44"/>accepta revclatione sibi expresse proposita ,
+            <lb ed="#P" n="45"/>illi ex parte credit, saltem materialiter, non
+            <lb ed="#P" n="46"/>tamen integram fidem adhibet quoad omnia
+            <lb ed="#P" n="47"/>revelata, et iste incidit in haeresim. Unde hoc
+            <lb ed="#P" n="48"/>modo potuit Judaeus etiam ante adventum
+            <lb ed="#P" n="49"/>Christi fieri haereticus negando aliquem 
+            arti<lb break="no" ed="#P" n="50"/>culum ex his qui cadebant sub fide explicita
+            <lb ed="#P" n="51"/>illius temporis, ut, verbi gratia, articulum 
+            Rhe<lb break="no" ed="#P" n="52"/>surrectionis; et hoc nomine solet in Scriptura
+            <lb ed="#P" n="53"/>talis error etiam inter Judaeos appellari, et illi
+            <lb ed="#P" n="54"/>etiam sic credentes inter haereticos ab 
+            Epi<lb break="no" ed="#P" n="55"/>phanio et aliis numerantur; et eadem ratione,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>si Judaeus tunc totam fidem Moysis abnegaret,
+            <lb ed="#P" n="57"/>et ad ritus Gentilium ex animo transiret, in
+            <lb ed="#P" n="58"/>paganismum incideret, et idem est cum 
+            pro<lb break="no" ed="#P" n="59"/>portione dicendum de tempore legis naturae;
+            <lb ed="#P" n="60"/>hoc ergo modo potuerunt illae duae species 
+            in<lb break="no" ed="#P" n="61"/>fidelitatis esse antiquiores lege evangehca ; at
+            <lb ed="#P" n="62"/>vero judaismus ante adventum Christi locum
+            <lb ed="#P" n="63"/>non habuit, quia nondum manifestata 
+            verita<lb break="no" ed="#P" n="64"/>te, neque impleta promissione adventus
+            <lb ed="#P" n="65"/>Christi, nondum poterat speciali infidelitate
+            <lb ed="#P" n="66"/>peccari contra fidem adventus ejus, 
+            admit<lb break="no" ed="#P" n="67"/>tendo promissiones ejus, in quo judaismus
+            <lb ed="#P" n="68"/>proprie consistit.
+          </p>
+          <p xml:id="szthvi-a99474-d1e3423">
+            <lb ed="#P" n="69"/>12. Opinio haerisis contraria. — Refellitur.
+            <lb ed="#P" n="70"/>- Contra hanc vero partem et hunc 
+            discur<lb break="no" ed="#P" n="71"/>sum videtur sentire Banhes 2. 2, q. 10, art. 5,
+            <lb ed="#P" n="72"/>et ab illo potest sumi objectio, quia Judaeus a
+            <lb ed="#P" n="73"/>sua fide deticiens in lege Moysis non 
+            reviste<lb break="no" ed="#P" n="74"/>bat fidei expresse revelatae, sed tantum in 
+            fi<lb break="no" ed="#P" n="75"/>gura ; ergo non incidebat in haeresim, sed in
+            <lb ed="#P" n="76"/>judaismum, et ita ipse Banhes fatetur : imo
+            <lb ed="#P" n="77"/>idem asserit de infideli errante in fide in lege
+            <lb ed="#P" n="78"/>naturae, et de gentili, qui esset fidelis ante 
+            ad<lb break="no" ed="#P" n="79"/>ventum Christi, et postea fieret infidelis, non
+            <lb ed="#P" n="80"/>admittendo praedicationem Evangelii; nam
+            <lb ed="#P" n="81"/>de illo dicit infidelitatem ejus pertinere ad
+            <lb ed="#P" n="82"/>judaismum , non ad paganismum, quautum
+            <lb ed="#P" n="83"/>ad rem spectat, quamvis quoad nomen non
+            <lb ed="#P" n="84"/>ita illi accommodatur, quod ex natione 
+            sum<lb break="no" ed="#P" n="85"/>ptum est. Sed haec sententia probari certe non
+            <lb ed="#P" n="86"/>potest, nam judaismus proprie consistit in 
+            in<lb break="no" ed="#P" n="87"/>fidelitate adversus Christum, qui jam venit, 
+            ex<lb break="no" ed="#P" n="88"/>pectando futurum ; item quia Judaei nunc non
+            <lb ed="#P" n="89"/>sunt infideles propria et speciali infidelitate,
+            <lb ed="#P" n="90"/>quia resistunt legi Moysis in seipsa (ut sic 
+            di<lb break="no" ed="#P" n="91"/>cam), sed quia resistunt veritati revelatae,
+            <lb ed="#P" n="92"/>quae in lege Moysis figurate et prophetice
+            <lb ed="#P" n="93"/>continebatur, qui modus infidelitatis non 
+            in<lb break="no" ed="#P" n="94"/>veniebatur in Judaeo deficiente in ipsamet
+            <lb ed="#P" n="95"/>lege Moysis. Denique illa sententia et ratio
+            <lb ed="#P" n="96"/>ejus ex quadam aequivocatione procedit, quam
+            <lb ed="#P" n="97"/>vitare oportet. Diximus enim supra fidem 
+            im<lb break="no" ed="#P" n="98"/>plicitam non inveniri nisi in aliqua explicita.
+            <lb ed="#P" n="99"/>Unde tides quae erat sub lege Moysis, licet 
+            es<lb break="no" ed="#P" n="100"/>set implicita, et in figura respectu 
+            mysterio<lb break="no" ed="#P" n="101"/>rum legis novae, tamen erat explicita respectu
+            <lb ed="#P" n="102"/>veritatum quae tunc expresse credendae 
+            propo<lb break="no" ed="#P" n="103"/>nebantur; et ideo qui tunc deficiebat in 
+            ali<lb break="no" ed="#P" n="104"/>qua illarum veritatum, non resistebat fidei
+            <lb ed="#P" n="105"/>implicitae, sed explicitae illius temporis, et ideo
+            <lb ed="#P" n="106"/>in veram haeresim incidebat ; nam si quis recte
+            <lb ed="#P" n="107"/>consideret, eamüem proportionem servabat
+            <lb ed="#P" n="108"/>illa intidelitas ad propositionem fidei, quae
+            <lb ed="#P" n="109"/>tunc erat, quam servat nunc infidelitas 
+            bomi<lb break="no" ed="#P" n="110"/>nis christiani sub illo nomine deficientis a
+            <pb ed="#P" n="419"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>fide expresse proposita in lege Evangelica.
+            <lb ed="#P" n="2"/>Et eadem proportione loquendum est de 
+            si<lb break="no" ed="#P" n="3"/>mili intidclitate in lege naturae, seu in homine
+            <lb ed="#P" n="4"/>gentili fideli. De ultimo vero casu Gentilis
+            <lb ed="#P" n="5"/>prius fidelis, et postea non admittentis 
+            Evan<lb break="no" ed="#P" n="6"/>gelium, distinguendum censeo; nam si ille
+            <lb ed="#P" n="7"/>haberet fidem Christi venturi, et illam 
+            expec<lb break="no" ed="#P" n="8"/>tationem ejus conservaret, merito censeretur
+            <lb ed="#P" n="9"/>incidere in judaismum ; si vero nullam fidem
+            <lb ed="#P" n="10"/>de Christo haberet, neque illius fidem omnino
+            <lb ed="#P" n="11"/>vellet admittere, paganus censendus esset, et
+            <lb ed="#P" n="12"/>ratio utriusque satis constat ex dictis, et 
+            ma<lb break="no" ed="#P" n="13"/>gis statim explicabitur.
+          </p>
+          <p xml:id="szthvi-a99474-d1e3549">
+            <lb ed="#P" n="14"/>13. Utrum heresis, judaismus et 
+            paganis<lb break="no" ed="#P" n="15"/>mus possint in eodem homine simul inveniri,
+            <lb ed="#P" n="16"/>et que illorun-sit gravior? — Opinio 
+            Caje<lb break="no" ed="#P" n="17"/>tani et aliorum. — Vera resolutio. — Ex 
+            dic<lb break="no" ed="#P" n="18"/>tis, aliud hic expediendum est dubium, quod
+            <lb ed="#P" n="19"/>Cajetanus et alii attingunt, nimirum an istae
+            <lb ed="#P" n="20"/>infidelitates possint in eodem homine simul
+            <lb ed="#P" n="21"/>inveniri. Dico autem simul, nam per 
+            succes<lb break="no" ed="#P" n="22"/>sionem, et transitum ab una ad aliam, nulla
+            <lb ed="#P" n="23"/>potest esse dubitandi ratio, quin non solum
+            <lb ed="#P" n="24"/>possit, sel etiam aliquando ita fiat. Quod 
+            au<lb break="no" ed="#P" n="25"/>tem possint esse simul saltem duae illorum,
+            <lb ed="#P" n="26"/>scilicet haercsis et judaismus, et haeresis ac
+            <lb ed="#P" n="27"/>paganismus, affirmat Cajetanus et sequuntur
+            <lb ed="#P" n="28"/>alii, et probat in homine Christiano transeunte
+            <lb ed="#P" n="29"/>ad paganismum vel judaismum; non sic 
+            au<lb break="no" ed="#P" n="30"/>tem sentiunt de paganismo et judaismo inter
+            <lb ed="#P" n="31"/>se, quia manifestam involvit repugnantiam
+            <lb ed="#P" n="32"/>et contradictionem, quod verissime dicunt.
+            <lb ed="#P" n="33"/>Ego autem eamdem invenio per se loquendo
+            <lb ed="#P" n="34"/>inter haeresim et quamlibet aliarum 
+            infidelita<lb break="no" ed="#P" n="35"/>tum ; quia haeresis proprie non est nisi sub
+            <lb ed="#P" n="36"/>nomine Christiano, id est, in eo qui credit
+            <lb ed="#P" n="37"/>Christum venisse, ut Redemptorem, quod tam
+            <lb ed="#P" n="38"/>paganismo quam judaismo repugnat. 
+            Exem<lb break="no" ed="#P" n="39"/>plum autem in quo contraria sententia 
+            niti<lb break="no" ed="#P" n="40"/>tur, procedit ex alia falsa opinione, quod
+            <lb ed="#P" n="41"/>apostasia sit species infidelitatis, quod falsum
+            <lb ed="#P" n="42"/>esse statim ostendemus. Unde respondemus
+            <lb ed="#P" n="43"/>Christianum transeuntem ad paganos vel 
+            Ju<lb break="no" ed="#P" n="44"/>daeos esse simul infidelem specie, et 
+            aposta<lb break="no" ed="#P" n="45"/>tam, non autem proprie hareticum. Dixi 
+            au<lb break="no" ed="#P" n="46"/>tem per se has species non posse simul 
+            inve<lb break="no" ed="#P" n="47"/>niri, quia per accidens et ex conscientia
+            <lb ed="#P" n="48"/>erronea posset in uno casu haeresis conjungi
+            <lb ed="#P" n="49"/>judaismo; ut si nunc infidelis Judaeus non
+            <lb ed="#P" n="50"/>solum repugnaret christianae fidei, sed etiam
+            <lb ed="#P" n="51"/>inter credenda in lege veteri aliquid negaret,
+            <lb ed="#P" n="52"/>et esset Judaeus propter priorem causam, et
+            <lb ed="#P" n="53"/>in conscientia haereticus propter posteriorem;
+            <lb ed="#P" n="54"/>non quidem eo modo quo nunc dicitur 
+            hare<lb break="no" ed="#P" n="55"/>ticus, qui sub nomine christiano haeresim
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>profitetur, sed eo modo quo diximus etiam
+            <lb ed="#P" n="57"/>sub lege veteri potuisse per haeresim peccari;
+            <lb ed="#P" n="58"/>nam ex conscientia erronea ita homo ille se
+            <lb ed="#P" n="59"/>gereret.
+          </p>
+          <p xml:id="szthvi-a99474-d1e3653">
+            <lb ed="#P" n="60"/>14. Quenam harum infidelitatum sit 
+            gra<lb break="no" ed="#P" n="61"/>vior. — Species infidelitatis necessario 
+            ape<lb break="no" ed="#P" n="62"/>rienda in confessione. — Secundo, intelligitur
+            <lb ed="#P" n="63"/>ex dictis, quomodo illa tria membra differant,
+            <lb ed="#P" n="64"/>saltem in gravitate accidentali; quantum enim
+            <lb ed="#P" n="65"/>ex div. Thom. 2. 2, dicta q. 9, art. 6, 
+            col<lb break="no" ed="#P" n="66"/>ligitur, se habent tanquam excedens et 
+            exces<lb break="no" ed="#P" n="67"/>sum ; nam intensive (ut sic dicam) haeresis est
+            <lb ed="#P" n="68"/>gravior, quia committitur cum majori 
+            con<lb break="no" ed="#P" n="69"/>temptu, ex genere loquendo; quia haereticus
+            <lb ed="#P" n="70"/>habet majorem cognitionem divinae fidei,
+            <lb ed="#P" n="71"/>cum Christi et Apostolorum, et Ecclesiae
+            <lb ed="#P" n="72"/>Christi doctrinam admittat. Unde etiam fit,
+            <lb ed="#P" n="73"/>ut majorem habeat propositionem materiae
+            <lb ed="#P" n="74"/>fidei, et ideo gravius peccat proprio judicio
+            <lb ed="#P" n="75"/>errando circa eamdem doctrinam, juxta illud
+            <lb ed="#P" n="76"/>2 Petri 2: Melius erat illis non cognoscere
+            <lb ed="#P" n="77"/>viam justitie. quam post agnitionem 
+            retror<lb break="no" ed="#P" n="78"/>sum conuverti. Et Augustinus, 21 de Civit.,
+            <lb ed="#P" n="79"/>cap. 25: Pejor, mquit, est desertor fidei, et es
+            <lb ed="#P" n="80"/>desertore oppugnator ejus effectus, quam ille
+            <lb ed="#P" n="81"/>qui non deseruit, quam nunquam tenuit ; et
+            <lb ed="#P" n="82"/>Chrysostomus, homil. 50, ad Populum, id
+            <lb ed="#P" n="83"/>optime explicavit dicens, qui sub nomine
+            <lb ed="#P" n="84"/>christiano recedit a fide, esse pejorem Gentili:
+            <lb ed="#P" n="85"/>Quia impietas Gentilium quamdam (inquit)
+            <lb ed="#P" n="86"/>habet consecutionem ; hec autem impietas 
+            ne<lb break="no" ed="#P" n="87"/>que consequentiam habet; nimirum quia in
+            <lb ed="#P" n="88"/>eadem fide quam profitetur, errat, Deum (ut
+            <lb ed="#P" n="89"/>ait) confitendo, et in iis quae dicit, illum fide
+            <lb ed="#P" n="90"/>dignum non censendo. Idem docet D. 
+            Hiero<lb break="no" ed="#P" n="91"/>uymus, lIsaiae 18. Et eadem ratione ac 
+            propor<lb break="no" ed="#P" n="92"/>tione, judaismus est gravior paganismo, 
+            scili<lb break="no" ed="#P" n="93"/>cet intensive, ut declaravi; at vero extensive
+            <lb ed="#P" n="94"/>pagani plus peccant, quia in pluribus errant, et
+            <lb ed="#P" n="95"/>eadem est comparatio judaismi ad haeresim.
+            <lb ed="#P" n="96"/>Unde obiter annotare oportet, quamvis istae
+            <lb ed="#P" n="97"/>species in rigore non sint diversae, 
+            nihilomi<lb break="no" ed="#P" n="98"/>nus declarandas esse in confessione, quando
+            <lb ed="#P" n="99"/>Christianus baptizatus in aliquam illarum 
+            in<lb break="no" ed="#P" n="100"/>ciderit, quia notabiliter differunt in modo et
+            <lb ed="#P" n="101"/>in gravitate, et diversis remediis indigent ;quin
+            <lb ed="#P" n="102"/>potius etiam intra eamdem speciem haeresis,
+            <lb ed="#P" n="103"/>verbi gratia, declarandi sunt errores, in quos
+            <lb ed="#P" n="104"/>peccator incidit, propter easdem rationes; quod
+            <lb ed="#P" n="105"/>prudenter annotarunt Valent., 2. 9, q. 10,
+            <lb ed="#P" n="106"/>punct. 3, et q. 11, punct. 1, diffculk. 1;
+            <lb ed="#P" n="107"/>Saneh. Jib. 9 Decal., c. T n. IT.
+          </p>
+          <p xml:id="szthvi-a99474-d1e3761">
+            <lb ed="#P" n="108"/>15. Fit satis rationi dubitandi proposite
+            <lb ed="#P" n="109"/>in n. 1 et 9. — Ultimo, ex dictis patet 
+            respon<lb break="no" ed="#P" n="110"/>sio ad rationem dubitandi in principio posi-
+            <pb ed="#P" n="420"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>tam; concedimus enim partitionem non esse
+            <lb ed="#P" n="2"/>omnino materialiter intelligendam, ut recte
+            <lb ed="#P" n="3"/>probant quae ibi adducta sunt, et omnes 
+            Doc<lb break="no" ed="#P" n="4"/>tores fatentur, neque etiam distinguuntur
+            <lb ed="#P" n="5"/>secundum rigorosam formalem rationem 
+            spe<lb break="no" ed="#P" n="6"/>cifcam; nihilominus tamen, ut divisio sit
+            <lb ed="#P" n="7"/>sufficiens, satis est ut ad modum specierum
+            <lb ed="#P" n="8"/>per quosdam particulares modos inter se 
+            re<lb break="no" ed="#P" n="9"/>pugnantes et fidei contrarios, membra 
+            distin<lb break="no" ed="#P" n="10"/>guantur, ut dictum est; neque exempla ibi
+            <lb ed="#P" n="11"/>adducta extra divisionem inveniuntur; nam
+            <lb ed="#P" n="12"/>quicumque vel revelationem divinam, vel
+            <lb ed="#P" n="13"/>Christum Dominum non credunt, ad 
+            paganis<lb break="no" ed="#P" n="14"/>mum pertinent, sive sit atheus, sive Deum
+            <lb ed="#P" n="15"/>verum per rationem aliquo modo cognoscat,
+            <lb ed="#P" n="16"/>imo etiamsi nullum errorem contra 
+            ratio<lb break="no" ed="#P" n="17"/>nem naturalem habere contingat, quod certe
+            <lb ed="#P" n="18"/>in paganis nunquam continget : infidelitas
+            <lb ed="#P" n="19"/>autem Antichristi, et sub illo facta ad 
+            judais<lb break="no" ed="#P" n="20"/>mum pertinebit, ut ex alibi disputatis de 
+            An<lb break="no" ed="#P" n="21"/>tichristo patet (tom. 2, in 3 part., disp. 54,
+            <lb ed="#P" n="22"/>sect. 2 et 4.
+          </p>
+        </div>
+        <div xml:id="szthvi-a99474-Dd1e3823">
+          <head xml:id="szthvi-a99474-Hd1e3825">Sectio 5</head>
+          <head xml:id="szthvi-a99474-Hd1e3827" type="question-title">Utrum apostasia sit species infidelitatis vel circumstantia ejus, et qualis</head>
+          <p xml:id="szthvi-a99474-d1e3830">
+            <lb ed="#P" n="23"/>SECTIO V.
+            <lb ed="#P" n="24"/>Utrum apostasia sit species infidelitatis vel
+            <lb ed="#P" n="25"/>circumstantia ejus, et qualis.
+          </p>
+          <p xml:id="szthvi-a99474-d1e3839">
+            <lb ed="#P" n="26"/>1. Quid sit apostasia. — De apostasia 
+            sepa<lb break="no" ed="#P" n="27"/>ratim disputavit divus Thomas 2. 2, quaest.
+            <lb ed="#P" n="28"/>12 ; quia tamen cum infidelitate in jure 
+            con<lb break="no" ed="#P" n="29"/>jungitur, et easdem fere habet poenas, ac
+            <lb ed="#P" n="30"/>proinde doctrina moralis ad illas pertinens
+            <lb ed="#P" n="31"/>fere eadem est, ac denique quia apostasia 
+            cir<lb break="no" ed="#P" n="32"/>cumstantia est infidelitatis valde illi conjuncta,
+            <lb ed="#P" n="33"/>ideo propter hrevitatem et claritatem, 
+            com<lb break="no" ed="#P" n="34"/>modius visum est illam huic adjungere. 
+            Apos<lb break="no" ed="#P" n="35"/>tasia ergo idem est quod retrocessio, seu 
+            de<lb break="no" ed="#P" n="36"/>sertio instituti semel suscepti cum animo vel
+            <lb ed="#P" n="37"/>obligatione permanendi in illo; nam 
+            aposta<lb break="no" ed="#P" n="38"/>tare idem est quod deficere, seu retrocedere,
+            <lb ed="#P" n="39"/>semperque in malam partem sumitur pro
+            <lb ed="#P" n="40"/>desertione iniqua et inconstanti ; et aliquando,
+            <lb ed="#P" n="41"/>juxta usum Latinrorum, dicitur etiam de rebus
+            <lb ed="#P" n="42"/>civilibus, ut apostatare a rege, vel 
+            impera<lb break="no" ed="#P" n="43"/>tore, ut bene advertit Decian. in traet.
+            <lb ed="#P" n="44"/>Crimin., lib. 5, cap. 7, num. 1. Jam vero ex
+            <lb ed="#P" n="45"/>usu ecclesiastico proprie dicitur respectu Dei
+            <lb ed="#P" n="46"/>vel rerum divinarum, juxta illud 
+            Ecclesias<lb break="no" ed="#P" n="47"/>tici 2: Initium superbie hominis apostatare a
+            <lb ed="#P" n="48"/>Deo.
+          </p>
+          <p xml:id="szthvi-a99474-d1e3891">
+            <lb ed="#P" n="49"/>2. Divisio apostasie in triples membrum.
+            <lb ed="#P" n="50"/>— Praterca haec apostasia a Deo in tria
+            <lb ed="#P" n="51"/>membra distinguitur a D. Thoma, q. 12,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="52"/>art. 1, et Gloss. in cap. 1 de Apostatis, ubi
+            <lb ed="#P" n="53"/>Innocent., Hostiens. et alii; dividitur igitur
+            <lb ed="#P" n="54"/>in apostasiam a religione, ab obedientia et a
+            <lb ed="#P" n="55"/>fide, et prima dividitur in apostasiam ab 
+            or<lb break="no" ed="#P" n="56"/>dine, et a professione religiosa , de quibus
+            <lb ed="#P" n="57"/>principaliter tractat titulus Decretalium de
+            <lb ed="#P" n="58"/>A postatis, et iterantibus baptisma, et 
+            perti<lb break="no" ed="#P" n="59"/>nent ad materiam de ordine et statu 
+            religio<lb break="no" ed="#P" n="60"/>nis. Secunda apostasia ab obedientia in uno
+            <lb ed="#P" n="61"/>sensu generalissima est, et dici potest de omni
+            <lb ed="#P" n="62"/>peccato mortali, praesertim quando ab 
+            homi<lb break="no" ed="#P" n="63"/>ne, qui ante justus erat, committitur, 
+            quo<lb break="no" ed="#P" n="64"/>modo Angeli, qui peccarunt, apostatae et 
+            re<lb break="no" ed="#P" n="65"/>belles solent a Patribus aici, ut videre est in
+            <lb ed="#P" n="66"/>Gregorio Nazianz., orat. 18 et 42; et sic etiam
+            <lb ed="#P" n="67"/>Anacletus Papa, in epistola 1 Decretalium,
+            <lb ed="#P" n="68"/>dixit sponte transgredientes legem apostatas
+            <lb ed="#P" n="69"/>nominari. Speciali autem modo possunt in
+            <lb ed="#P" n="70"/>hoc ordine dici apostatae, qui a Pontificis
+            <lb ed="#P" n="71"/>obedientia recedunt, et hoc modo se ab 
+            Ec<lb break="no" ed="#P" n="72"/>clesia separant. Verumtamen etiam haec 
+            apos<lb break="no" ed="#P" n="73"/>tasia, licet cum haeresi frequenter sit 
+            conjunc<lb break="no" ed="#P" n="74"/>ta, tamen ad infidelitatem non spectat, sed
+            <lb ed="#P" n="75"/>sub vitiis charitati oppositis ponitur a D. 
+            Tho<lb break="no" ed="#P" n="76"/>ma 2. 2, q. 39. Sola ergo apostasia a fide ad
+            <lb ed="#P" n="77"/>praesentem tractationem spectat, de qua 
+            pri<lb break="no" ed="#P" n="78"/>mo dicendum est quid sit necessarium ut illa
+            <lb ed="#P" n="79"/>committatur, deinde quomodo ad 
+            infidehta<lb break="no" ed="#P" n="80"/>tem comparetur.
+          </p>
+          <p xml:id="szthvi-a99474-d1e3966">
+            <lb ed="#P" n="81"/>3. Ad apostasiam requiritur, ut fides jam
+            <lb ed="#P" n="82"/>suscepta deseratur. — Dubium .: quantus esse
+            <lb ed="#P" n="83"/>debeat iste recessus a fide. — Prima et 
+            com<lb break="no" ed="#P" n="84"/>munior sententia. — Fundamentum. — Circa
+            <lb ed="#P" n="85"/>primum, conveniunt omnes ad apostasiam
+            <lb ed="#P" n="86"/>requiri ut fides jam suscepta deseratur; itaque
+            <lb ed="#P" n="87"/>juxta distinctionem datam sectione 
+            praece<lb break="no" ed="#P" n="88"/>denti, sicut ibi diximus ad haeresim non esse
+            <lb ed="#P" n="89"/>necessarium ut ex parte subjecti praecesserit
+            <lb ed="#P" n="90"/>fides in haeretico, ita nunc e contrario 
+            dici<lb break="no" ed="#P" n="91"/>mus ad apostasiam hoc esse necessarium ; ita
+            <lb ed="#P" n="92"/>enim docet Divus Thomas citatus, et omnes
+            <lb ed="#P" n="93"/>Theologi cum eo; item juris canonici 
+            in<lb break="no" ed="#P" n="94"/>terpretes, quos late refert Farinac., tractat.
+            <lb ed="#P" n="95"/>de Haeresi, quaestione 183, S 2. Et ipsum 
+            no<lb break="no" ed="#P" n="96"/>men avc ratio id prae se fert; nam 
+            aposta<lb break="no" ed="#P" n="97"/>sia consistit in recessu ; nemo autem recedit
+            <lb ed="#P" n="98"/>nisi a termino, in quo prius existebat. 
+            Du<lb break="no" ed="#P" n="99"/>bium autem est qualis et quantus esse debeat
+            <lb ed="#P" n="100"/>hic recessus, ut apostasia sit; in quo est 
+            com<lb break="no" ed="#P" n="101"/>munis opinio, necessariam esse totius fidei et
+            <lb ed="#P" n="102"/>ipsiusmet Christi abnegationem, juxta quam
+            <lb ed="#P" n="103"/>sententiam apostasia solum invenitur in illo
+            <lb ed="#P" n="104"/>homine, qui ex christianismo ad judaismum
+            <lb ed="#P" n="105"/>vel paganismum transivit, non vero in illo
+            <lb ed="#P" n="106"/>qui sub eodem christiano nomine haereticus
+            <pb ed="#P" n="421"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>fit. Ita tenuit Guido Carmelita , in libro de
+            <lb ed="#P" n="2"/>Haeresibus; Turrecremat., in Summ. de 
+            Eccle<lb break="no" ed="#P" n="3"/>sia, lib. 4, part. 9, cap. 13; consentit Sylvest.,
+            <lb ed="#P" n="4"/>verbo Apostasia, in principio; Cajetanus,
+            <lb ed="#P" n="5"/>dicta q. 10, art. 5, et q. 11, art. 1; et ibidem
+            <lb ed="#P" n="6"/>Banhes, et q. 12, art. 1; iisdem locis Aragon.;
+            <lb ed="#P" n="7"/>Cano, lib. 19 de Locis, cap. 9, ad 2; et 
+            Cas<lb break="no" ed="#P" n="8"/>tro, lib. 1 de Justa haereticorum punitione,
+            <lb ed="#P" n="9"/>cap. 7, et hb. 1 de Haresib.. cap. 4; tenet
+            <lb ed="#P" n="10"/>etiam Valentia, in dicta quaest. 10, punct. 1,
+            <lb ed="#P" n="11"/>dub. 3, et quaest. 11, punct. 1, et quaest. 12,
+            <lb ed="#P" n="12"/>punct. item 1; et Sanch., dicto lib. 2. c. 7,
+            <lb ed="#P" n="13"/>num. 15; et Azor., tom. 1 Institut. moralium,
+            <lb ed="#P" n="14"/>lib. 8, cap. 17, q. 3; et Hugolinus, de 
+            Censu<lb break="no" ed="#P" n="15"/>ris Pontifici reservatis, 2 part., cap. 1, sect. 1,
+            <lb ed="#P" n="16"/>num. 7, et alii quamplures juris canonici 
+            in<lb break="no" ed="#P" n="17"/>terpretes, quos refert ac sequitur Farinacius,
+            <lb ed="#P" n="18"/>tract. de Haeres.. q. 183, S 2. Theologi vero
+            <lb ed="#P" n="19"/>in confirmationem communiter adducunt 
+            mo<lb break="no" ed="#P" n="20"/>dum loquendi Patrum, qui Julianum 
+            impera<lb break="no" ed="#P" n="21"/>torem non haereticum, sed apostatam 
+            nomi<lb break="no" ed="#P" n="22"/>narunt, ut ex Ambrosio et Hieronymo 
+            refer<lb break="no" ed="#P" n="23"/>tur in eap. Julianus, et.in cap. Imperatores,
+            <lb ed="#P" n="24"/>3, q. 7, quia omnino Christum negavit ; alios
+            <lb ed="#P" n="25"/>vero, qui sub nomine christiano a fide 
+            defece<lb break="no" ed="#P" n="26"/>runt, ut Constantium, et alios, vocarunt 
+            hae<lb break="no" ed="#P" n="27"/>reticos, non apostatas; quod ex Nazianzeno
+            <lb ed="#P" n="28"/>notavit Jacob. Bilius, in vita ejus metro 
+            scri<lb break="no" ed="#P" n="29"/>pta, num. 54. Ratio autem solum reddi 
+            po<lb break="no" ed="#P" n="30"/>test, quia illa sola est perfecta rebellio, et 
+            se<lb break="no" ed="#P" n="31"/>paratio a Christo, quae nomine apostasiae 
+            sim<lb break="no" ed="#P" n="32"/>plieiter dictae signiticatur.
+          </p>
+          <p xml:id="szthvi-a99474-d1e4099">
+            <lb ed="#P" n="33"/>4. Secunda sententia. — Nihilominus 
+            con<lb break="no" ed="#P" n="34"/>traria sententia videtur sumi ex divo Thoma,
+            <lb ed="#P" n="35"/>dicta quaest. 12, art. 1, nam ibi in corpore ad
+            <lb ed="#P" n="36"/>apostasiam solum requirit, ut ille qui erat
+            <lb ed="#P" n="37"/>Deo conjunetus per fidem, ita ab illa 
+            sepa<lb break="no" ed="#P" n="38"/>retur, ut per fidem non maneat illi 
+            conjunc<lb break="no" ed="#P" n="39"/>tus, quod fit etiam per haeresim. Unde in 
+            solu<lb break="no" ed="#P" n="40"/>tione ad secundum, ita exponit verba 
+            Pro<lb break="no" ed="#P" n="41"/>verb. 6 : Homo apostata vir inutilis, quia, 
+            in<lb break="no" ed="#P" n="42"/>quit, nihil facere potest quod Deo placeat,
+            <lb ed="#P" n="43"/>quia sine fide impossibile est placere Deo; 
+            er<lb break="no" ed="#P" n="44"/>go, ex mente D. Thomae, et juxta sapientiam
+            <lb ed="#P" n="45"/>Sapientis, quia ita deficit a Deo, ut filem
+            <lb ed="#P" n="46"/>etiam amittat, vere est apostata; hoc autem
+            <lb ed="#P" n="47"/>contingit haereticis, etiamsi sub nomine 
+            Chri<lb break="no" ed="#P" n="48"/>stiano a Deo recedant. Secundo, favet huic
+            <lb ed="#P" n="49"/>sententiae Cyprianus, lib. 1, epist. 2, alias
+            <lb ed="#P" n="50"/>epist. 54, ubi inter apostatas numerat tam
+            <lb ed="#P" n="51"/>Gentiles, quam eos qui ad haereticos 
+            trans<lb break="no" ed="#P" n="52"/>eunt. Tertio, facit quod in jure, sub titulo de
+            <lb ed="#P" n="53"/>Apostatis poni solent etiam haeretici, ut 
+            vi<lb break="no" ed="#P" n="54"/>dere est in lege ultima, cap. de Apostatis, et
+            <lb ed="#P" n="55"/>in cap. Quodam de Apostatis, ubi illi dicuntur
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>apostatae, qui cum professione christiana 
+            lega<lb break="no" ed="#P" n="57"/>lia conjungunt, qui profecto haeretici sunt.
+          </p>
+          <p xml:id="szthvi-a99474-d1e4158">
+            <lb ed="#P" n="58"/>5. Judicium auctoris inter preedictas 
+            sen<lb break="no" ed="#P" n="59"/>tentias. —In hoc puncto potest fortasse 
+            quae<lb break="no" ed="#P" n="60"/>stio de nomine misceri, et ideo prius breviter
+            <lb ed="#P" n="61"/>de re dicam, et statim de modo loquendi:
+            <lb ed="#P" n="62"/>quod ergo ad rem attinet, videntur mihi 
+            pos<lb break="no" ed="#P" n="63"/>teriora argumenta convincere, in haeretico
+            <lb ed="#P" n="64"/>deticiente a fide inveniri propriam malitiam
+            <lb ed="#P" n="65"/>apostasie, ejusdem speciei et essentiae cum
+            <lb ed="#P" n="66"/>apostasia, quae per judaismum vel 
+            paganis<lb break="no" ed="#P" n="67"/>mum committitur, quamvis non sit ejusdem
+            <lb ed="#P" n="68"/>integritatis ex parte materiae. Probatur praeter
+            <lb ed="#P" n="69"/>dicta. quia sicut Christianus transiens ad 
+            in<lb break="no" ed="#P" n="70"/>fidelitatem Judaeorum vel paganorum, praeter
+            <lb ed="#P" n="71"/>malitiam infidelitatis, quam habet 
+            commu<lb break="no" ed="#P" n="72"/>nem cum similibus infidelibus, qui nunquam
+            <lb ed="#P" n="73"/>fuerunt Christiani, committit peculiarem 
+            ma<lb break="no" ed="#P" n="74"/>litiam, et injuriam contra fidem, quam 
+            pro<lb break="no" ed="#P" n="75"/>fessus est, ita etiam Christianus qui transit
+            <lb ed="#P" n="76"/>ad haereticos, praeter malitiam infidelitatis,
+            <lb ed="#P" n="77"/>habet illam peculiarem malitiam, seu 
+            gravi<lb break="no" ed="#P" n="78"/>tatem, quae committitur in desertione fidei
+            <lb ed="#P" n="79"/>receptae ; et ideo merito divus Thomas, dicta
+            <lb ed="#P" n="80"/>quaest. 12, art. 1, ad tertium, indefinite et
+            <lb ed="#P" n="81"/>universaliter dixit apostasiam esse 
+            circum<lb break="no" ed="#P" n="82"/>stantiam infidelitatis : probatur ergo 
+            conse<lb break="no" ed="#P" n="83"/>quentia primo, quia apostasia transeuntis ad
+            <lb ed="#P" n="84"/>judaismum vel paganismum non consistit 
+            tor<lb break="no" ed="#P" n="85"/>maliter in illa specie infidelitatis, sed in 
+            inju<lb break="no" ed="#P" n="86"/>ria, quam apostata facit fidei receptae, seu
+            <lb ed="#P" n="87"/>professioni ejus, et consequenter Ecclesiae et
+            <lb ed="#P" n="88"/>Christo; sed hanc eamdem injuriam facit
+            <lb ed="#P" n="89"/>haereticus professioni fidei, et Ecclesiae Christi;
+            <lb ed="#P" n="90"/>ergo quoad malitiam habet apostasiam 
+            cjus<lb break="no" ed="#P" n="91"/>dem rationis; item formaliter aeque recedit a
+            <lb ed="#P" n="92"/>tota fide, et ideo totam amittit, et 
+            consequen<lb break="no" ed="#P" n="93"/>ter a Deo apostatat ; differentia vero in majori
+            <lb ed="#P" n="94"/>vel minori materia fidei accidentaria est, 
+            ne<lb break="no" ed="#P" n="95"/>que potest essentialem diversitatem facere,
+            <lb ed="#P" n="96"/>quod etiam ex dictis sectione praecedenti 
+            os<lb break="no" ed="#P" n="97"/>tendi potest ; diximus enim tres infidelitates
+            <lb ed="#P" n="98"/>non distingui specie essentialiter, etiamsi in
+            <lb ed="#P" n="99"/>materia habeant illam eamdem 
+            inaequalita<lb break="no" ed="#P" n="100"/>tem ; ergo eadem ratio est in apostasia, 
+            sup<lb break="no" ed="#P" n="101"/>posito quod deformitas ejus etiam inveniatur
+            <lb ed="#P" n="102"/>in recessu a fide per haeresim, quod videtur
+            <lb ed="#P" n="103"/>evidenter probatum.
+          </p>
+          <p xml:id="szthvi-a99474-d1e4260">
+            <lb ed="#P" n="104"/>6. Homreticus etiam proprie dicitur 
+            aposta<lb break="no" ed="#P" n="105"/>ta.—Sic ergo declarata re ipsa non est de 
+            no<lb break="no" ed="#P" n="106"/>mine contendendum, nec videtnr posse 
+            ne<lb break="no" ed="#P" n="107"/>gari quin nomen apostatae sub aliqua vera et
+            <lb ed="#P" n="108"/>propria significatione haeretico conven:at;
+            <lb ed="#P" n="109"/>propter auctoritatem vero tot Doctorum, 
+            di<lb break="no" ed="#P" n="110"/>cere possumus apostasiam per antonomasiam
+            <pb ed="#P" n="422"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>in solis illis inveniri, qui Christum negant,
+            <lb ed="#P" n="2"/>generice vero sumptam etiam ab haeretico
+            <lb ed="#P" n="3"/>committi; vel aliter distingui potest, ut 
+            apos<lb break="no" ed="#P" n="4"/>tasia quaedam sit a Chr sto, et haec conveniat
+            <lb ed="#P" n="5"/>pagano et Judaeo; alia vero ab Ecclesia, et
+            <lb ed="#P" n="6"/>ab ejus obedientia et unione, et haec etiam
+            <lb ed="#P" n="7"/>in haereticis reperiatur; ut vero distinctius
+            <lb ed="#P" n="8"/>procedamus, de utraque sigillatim dicemus.
+          </p>
+          <p xml:id="szthvi-a99474-d1e4299">
+            <lb ed="#P" n="9"/>1. Utrum apostasia sit species distincta a
+            <lb ed="#P" n="10"/>paganismo et judaismo. — Prima opinio. —
+            <lb ed="#P" n="11"/>Ejus fundamentum. — In secundo puncto, de
+            <lb ed="#P" n="12"/>comparatione apostasiae ad infidelitatem, an
+            <lb ed="#P" n="13"/>sit species ejus, multi ex Doctoribus allegatis
+            <lb ed="#P" n="14"/>affirmant apostasiam totalem, seu per 
+            anto<lb break="no" ed="#P" n="15"/>nomasiam dictam, esse speciem infidelitatis
+            <lb ed="#P" n="16"/>distinctam a judaismo et paganismo; unde,
+            <lb ed="#P" n="17"/>ne species infidelitatum multiplicent, dicunt
+            <lb ed="#P" n="18"/>esse haeresim. Ita sentiunt Cajetanus, Banhez,
+            <lb ed="#P" n="19"/>Aragon., Valentia. et Sanchez, et Azor, locis
+            <lb ed="#P" n="20"/>citatis ; et Sylvester verbo Apostasia, in 
+            prin<lb break="no" ed="#P" n="21"/>cipio; et late Castro, ubi supra, qui etiam 
+            ci<lb break="no" ed="#P" n="22"/>tat Ochamum, 1 part. Dialog., lib. 4, cap. 11;
+            <lb ed="#P" n="23"/>citant etiam D. Thom. sed immersto. 
+            Funda<lb break="no" ed="#P" n="24"/>tur primo, quia iste apostata est haereticus,
+            <lb ed="#P" n="25"/>quod non habet similis infidelis non apostata;
+            <lb ed="#P" n="26"/>ergo est haereticus ratione apostasiae; ergo
+            <lb ed="#P" n="27"/>apostasia ipsa est haeresis. Antecedens 
+            proba<lb break="no" ed="#P" n="28"/>tur primo; quia poenae haereticorum 
+            compre<lb break="no" ed="#P" n="29"/>hendunt hujusmodi apostatam, ut est 
+            certissi<lb break="no" ed="#P" n="30"/>mum ex communi omnium sententia, et ex
+            <lb ed="#P" n="31"/>cap. Contra Christianos, de Haereticis, in 6, et
+            <lb ed="#P" n="32"/>ex lege 2, cap. De apostatis ; ergo talis 
+            apos<lb break="no" ed="#P" n="33"/>tata est haereticus. Secundo, quia haeresis 
+            con<lb break="no" ed="#P" n="34"/>sistit in abnegatione fidei receptae; sed hic
+            <lb ed="#P" n="35"/>deserit fidem receptam; ergo est haereticus.
+            <lb ed="#P" n="36"/>Tertio argumentatur Castro, quia alias 
+            sc<lb break="no" ed="#P" n="37"/>queretur haereticum, augendo haereses, fieri
+            <lb ed="#P" n="38"/>non haereticum, quod videtur absurdum. Quod
+            <lb ed="#P" n="39"/>si quaecatur an in hujusmodi homine sint
+            <lb ed="#P" n="40"/>duae species infidelitatis, Cajetanus affirmat;
+            <lb ed="#P" n="41"/>Banhes autem dicit esse tantum infidelitatem
+            <lb ed="#P" n="42"/>haeresis, quia apostasia in tali homine est 
+            ul<lb break="no" ed="#P" n="43"/>tima differentia contrahens infidelitatem ejus
+            <lb ed="#P" n="44"/>ad speciem haeeresis.
+          </p>
+          <p xml:id="szthvi-a99474-d1e4380">
+            <lb ed="#P" n="45"/>8. Vera sententia.—Nihilominus dico talem
+            <lb ed="#P" n="46"/>apostasiam non esse speciem infidelitatis, 
+            ne<lb break="no" ed="#P" n="47"/>que haeresis. Ita tenet Cano supra, cum 
+            Tur<lb break="no" ed="#P" n="48"/>recremat., quos sequitur Simanc.; tenuit
+            <lb ed="#P" n="49"/>etiam Sylvester, verbo Hoeresis, 1, quaest. 2;
+            <lb ed="#P" n="50"/>Angelus, verbo Apostasia ; et Paludanus, in 4,
+            <lb ed="#P" n="51"/>distinet. 13, quaest. 3; et Alexand. Pezant. 2.
+            <lb ed="#P" n="52"/>2, ad quaest. 12 D. Thomae, disputat. sua 1;
+            <lb ed="#P" n="53"/>et aliqui Canonistae, capit. 7 de Apostatis; et
+            <lb ed="#P" n="54"/>est clara sententia D. Thomae, quaest. 12, art.
+            <lb ed="#P" n="55"/>1, ad tertium, ubi ait apostasiam non esse
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>speciem infidelitatis, sed esse posse 
+            circum<lb break="no" ed="#P" n="57"/>stantiam specierum infidelitatis. Et probatur
+            <lb ed="#P" n="58"/>primo, quia talis apostata non est haereticus;
+            <lb ed="#P" n="59"/>ergo nec peccatum ejvus est haeresis. Probatur
+            <lb ed="#P" n="60"/>artecedens ex communi descriptione Patrum;
+            <lb ed="#P" n="61"/>dicunt enim haereticum esse, qui sub nomine
+            <lb ed="#P" n="62"/>Christiano, et retinendo Christi confessionem,
+            <lb ed="#P" n="63"/>fidem ejus corrumpit; at vero iste apostata
+            <lb ed="#P" n="64"/>omnino deserit Christum, et nomen ac fidem
+            <lb ed="#P" n="65"/>ejus; ergo non est haereticus. Major est divi
+            <lb ed="#P" n="66"/>Augustini, in libro 18 de Civitate Dei, cap. 51;
+            <lb ed="#P" n="67"/>et D. Gregor., lib. 3 Moral., cap. 14, alias 18,
+            <lb ed="#P" n="68"/>et sequentibus, et libro quinto, capite decimo,
+            <lb ed="#P" n="69"/>alias undecimo, et libr. 23, capit. primo; et
+            <lb ed="#P" n="70"/>Ambrosio ac Origene ad Tit. 3; et Bedae, 
+            Lu<lb break="no" ed="#P" n="71"/>cae septimo; et tradit expresse D. Thomas 2.
+            <lb ed="#P" n="72"/>2, quaestione undecima, articulo primo, dicens
+            <lb ed="#P" n="73"/>haeresim esse speciem infidelitatis, 
+            pertinen<lb break="no" ed="#P" n="74"/>tem ad eos qui fidem Christi profitentur, sed
+            <lb ed="#P" n="75"/>ejus dogmata corrumpunt, et ex sectione 
+            su<lb break="no" ed="#P" n="76"/>periori id etiam satis constat. Secundo, 
+            pro<lb break="no" ed="#P" n="77"/>batur a priori, quia apostasia non consistit in
+            <lb ed="#P" n="78"/>nova fidei abnegatione, vel evrore; nam 
+            Ju<lb break="no" ed="#P" n="79"/>daeus apostata non magis negat fidem Christi,
+            <lb ed="#P" n="80"/>nec plures errores habet, quam Judaeus non
+            <lb ed="#P" n="81"/>apostata ; ergo propter apostasiam non habet
+            <lb ed="#P" n="82"/>specialem infidelitatem. Probatur 
+            consequen<lb break="no" ed="#P" n="83"/>tia, quia infidelitas directe opponitur veritati
+            <lb ed="#P" n="84"/>fidei, et testimonio primae veritatis. Tertio,
+            <lb ed="#P" n="85"/>quia in haeretico apostata illa apostasia, quam
+            <lb ed="#P" n="86"/>committit, non spectat formaliter ad malitiam
+            <lb ed="#P" n="87"/>haeresis, sed ad aliquam gravitatem ejus,
+            <lb ed="#P" n="88"/>quam statim declarabo; ergo neque apostasia
+            <lb ed="#P" n="89"/>totalis in Judaeo vel pagano ad haeresim 
+            spec<lb break="no" ed="#P" n="90"/>tat. Probatur consequentia , quia apostasia
+            <lb ed="#P" n="91"/>utriusque est ejusdem rationis quoad speciem,
+            <lb ed="#P" n="92"/>ut paulo ante probavi. Denique illa apostasia
+            <lb ed="#P" n="93"/>non potest esse nova species integra 
+            infideli<lb break="no" ed="#P" n="94"/>tatis, quia praecise spectata non opponitur
+            <lb ed="#P" n="95"/>specialiter virtuti Theologicae, aut primae 
+            ve<lb break="no" ed="#P" n="96"/>ritati, ut probavi, nec etiam potest esse 
+            diffe<lb break="no" ed="#P" n="97"/>rentia contrahens alteram infidelitatem, ut
+            <lb ed="#P" n="98"/>dicebat Banhes, quia alia infidelitas cst in
+            <lb ed="#P" n="99"/>specie ultima judaismi vel paganismi; nam
+            <lb ed="#P" n="100"/>est ejusdem speciei cum simili infidelitate 
+            al<lb break="no" ed="#P" n="101"/>terius hominis non apostatae ; species autem
+            <lb ed="#P" n="102"/>ultima non est ulterius contrahibilis.
+          </p>
+          <p xml:id="szthvi-a99474-d1e4511">
+            <lb ed="#P" n="103"/>9. Solvitur fundamentum contrarium in 
+            wau<lb break="no" ed="#P" n="104"/>mer. 1.— Neque obstat fundamentum 
+            contra<lb break="no" ed="#P" n="105"/>riae sententiae; nego enim illum hominem esse
+            <lb ed="#P" n="106"/>proprie haereticum, sed Judaeum apostatam,
+            <lb ed="#P" n="107"/>vel paganum apostatam, et ita solent sub his
+            <lb ed="#P" n="108"/>appellationibus condemnari. Unde ad primam
+            <lb ed="#P" n="109"/>probationem concedo istum incurrere poenas
+            <lb ed="#P" n="110"/>haereticorum, quia non sunt latae solum con-
+            <pb ed="#P" n="423"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>tra haereticum, ut haereticum, sed contra 
+            om<lb break="no" ed="#P" n="2"/>nem apostatam infidelem, ut recte dixit Cano.
+            <lb ed="#P" n="3"/>et sumitur ex toto titulo Cod. de Apostatis.
+            <lb ed="#P" n="4"/>Unde, in dicto cap. Contra Christianos, non
+            <lb ed="#P" n="5"/>dicitur hic apostata haereticus, sed dicitur 
+            pu<lb break="no" ed="#P" n="6"/>niendus tanquam haereticus. Ad secundam
+            <lb ed="#P" n="7"/>probationem, nego haeresim consistere in 
+            ne<lb break="no" ed="#P" n="8"/>gatione fidei jam receptae ex parte subjecti,
+            <lb ed="#P" n="9"/>quod jam supra probavi, et tractando de 
+            hae<lb break="no" ed="#P" n="10"/>resi iterum dicam. Ad tertium inconveniens,
+            <lb ed="#P" n="11"/>quod Castro inferebat, dico nullum esse 
+            repu<lb break="no" ed="#P" n="12"/>tandum ; quia sicut puer crescendo desinit esse
+            <lb ed="#P" n="13"/>puer, nam fit vir, ita quoque haereticus 
+            cres<lb break="no" ed="#P" n="14"/>cendo in infidelitate non desinit quidem esse
+            <lb ed="#P" n="15"/>infidelis, potest tamen desinere esse 
+            haereti<lb break="no" ed="#P" n="16"/>cus, quia fit pejor quam haereticus, si ad 
+            ne<lb break="no" ed="#P" n="17"/>gationem Christi pervenit.
+          </p>
+          <p xml:id="szthvi-a99474-d1e4572">
+            <lb ed="#P" n="18"/>10. Quid addat apostasia super alias 
+            infi<lb break="no" ed="#P" n="19"/>delitatis species. — Concludimus ergo 
+            aposta<lb break="no" ed="#P" n="20"/>siam esse circumstantiam quae aggravat 
+            quam<lb break="no" ed="#P" n="21"/>cumque speciem infdeltatis quando illi 
+            ad<lb break="no" ed="#P" n="22"/>jungitur ; quaeri autem potest an sit 
+            cireum<lb break="no" ed="#P" n="23"/>stantia mutans speciem. In quo dico breviter,
+            <lb ed="#P" n="24"/>in ordine ad confessionem semper esse 
+            repu<lb break="no" ed="#P" n="25"/>tandam tanquam mutantem speciem , quia
+            <lb ed="#P" n="26"/>semper notabiliter aggravat, et ideo semper
+            <lb ed="#P" n="27"/>confitendam esse; speculative autem distingui
+            <lb ed="#P" n="28"/>potest. Nam apostasia interdum esse potest
+            <lb ed="#P" n="29"/>contra fidem receptam, nondum autem per
+            <lb ed="#P" n="30"/>baptismum professam ; aliquando vero et 
+            or<lb break="no" ed="#P" n="31"/>dinarie est contra professionem factam in 
+            ba<lb break="no" ed="#P" n="32"/>ptismo. In primo casu, non videtur mutare
+            <lb ed="#P" n="33"/>speciem, quia non invenitur alia virtus 
+            dis<lb break="no" ed="#P" n="34"/>tincta a fide, vel praecepto ejus, quod per illam
+            <lb ed="#P" n="35"/>violetur, sicut etiam peccare contra charitatem
+            <lb ed="#P" n="36"/>jam habitam, vel contra castitatem, non est
+            <lb ed="#P" n="37"/>circumstantia mutans speciem; erit ergo 
+            ag<lb break="no" ed="#P" n="38"/>gravans, quia tunc cum majori cognitione
+            <lb ed="#P" n="39"/>peccatur, et propter ingratitudinem saltem
+            <lb ed="#P" n="40"/>materialem ; imo fere semper adjungitur 
+            scan<lb break="no" ed="#P" n="41"/>dalum etiam materiale. In ultimo vero casu,
+            <lb ed="#P" n="42"/>valde probabile est esse circeumstantiam 
+            mu<lb break="no" ed="#P" n="43"/>tantem speciem, quia est contra promissionem
+            <lb ed="#P" n="44"/>quae fit in baptismo, ut Patres loquuntur, seu
+            <lb ed="#P" n="45"/>contra pactum cum Ecclesia initum, et 
+            obe<lb break="no" ed="#P" n="46"/>dientiam illi praestitam , quod pertinet ad
+            <lb ed="#P" n="47"/>quoddam injustitiae genus; ex utroque autem
+            <lb ed="#P" n="48"/>membro optime declaratur et confirmatur,
+            <lb ed="#P" n="49"/>quod diximus apostasiam non esse speciem
+            <lb ed="#P" n="50"/>infidelitatis.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

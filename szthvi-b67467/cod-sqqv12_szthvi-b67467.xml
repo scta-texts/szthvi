@@ -1,0 +1,1930 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 7</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 7</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="676"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-b67467"><!-- l3-d7 -->
+        <head xml:id="szthvi-b67467-Hd1e101">Disputatio 7</head>
+        <head xml:id="szthvi-b67467-Hd1e103" type="question-title">De praecepto eleemosyniae</head>
+        <p xml:id="szthvi-b67467-d1e106">
+          <lb ed="#P" n="17"/>DISPUTATIO VII.
+          <lb ed="#P" n="18"/>DE PRAECEPTO ELEEMOSYNIAE.
+        </p>
+        <p xml:id="szthvi-b67467-d1e113">
+          <lb ed="#P" n="19"/>Eleemosynee ethimon. — De eleemosyna qui
+          <lb ed="#P" n="20"/>scripseruut. — Eleemosynae nomen a graeco
+          <lb ed="#P" n="21"/>vocabulo, axsiv, crtum habuit, quod idem est
+          <lb ed="#P" n="22"/>ac misereri. Unde eleemosyn (nt communiter
+          <lb ed="#P" n="23"/>sumitur) est actus misericordiae, quo alienae
+          <lb ed="#P" n="24"/>proximi necessitati subvenitur ; et recte 
+          qui<lb break="no" ed="#P" n="25"/>dem, quamvis Augustinus, in Enchiridio, 
+          ca<lb break="no" ed="#P" n="26"/>pite septuagesimo sexto, eleemosynam quoque
+          <lb ed="#P" n="27"/>esse velit actum, quo suae ipsius necessitati
+          <lb ed="#P" n="28"/>quis subvenit : Est enim (inquit) eleemosyna
+          <lb ed="#P" n="29"/>opus misericordie - verissimeque dictum est:
+          <lb ed="#P" n="30"/>Miserere anime tue placens Deo, Ecclesiastici
+          <lb ed="#P" n="31"/>capite trigesimo. De eleemosyna multa eaque
+          <lb ed="#P" n="32"/>praclara scripsere Sancti Patres. Cyprianus
+          <lb ed="#P" n="33"/>de Opere et eleemosyna ; Basilius, Concione in
+          <lb ed="#P" n="34"/>illud: Destruam horrea mea, Lucae 12. et 
+          Con<lb break="no" ed="#P" n="35"/>cione ad divites; Nazianzenus, oratione de
+          <lb ed="#P" n="36"/>Pauperum amore ; Ambrosius, libro primo de
+          <lb ed="#P" n="37"/>Officiis, capite trigesimo ; Augustinus, in 
+          En<lb break="no" ed="#P" n="38"/>chiridio, a capite 69; Chrysostomus, in libro
+          <lb ed="#P" n="39"/>de Elecmosyna ; et alii quamplures, quos 
+          lu<lb break="no" ed="#P" n="40"/>culenter congerit noster Canisius, in opere 
+          ca<lb break="no" ed="#P" n="41"/>techistico de eleemosyna. Disputant etiam de
+          <lb ed="#P" n="42"/>eleemosyna Theologi cum Magistro, in quarto,
+          <lb ed="#P" n="43"/>distinctione decima quinta, decima sexta, et
+          <lb ed="#P" n="44"/>quadragesima prima ; cum divo Thoma, 
+          se<lb break="no" ed="#P" n="45"/>cunda secundae, quaestione trigesima secunda;
+          <lb ed="#P" n="46"/>Jurisperiti, in Decretis, 45 distinctione, 
+          ca<lb break="no" ed="#P" n="47"/>none Zf qui, et canone 7"ia, et sequentibus,
+          <lb ed="#P" n="48"/>et distinctione 86, canone Non satis, et 
+          se<lb break="no" ed="#P" n="49"/>quentibus. Scripsit ex recentioribus de 
+          eleemo<lb break="no" ed="#P" n="50"/>syna Joaunes Medina codicem unum. Et 
+          Na<lb break="no" ed="#P" n="51"/>varrus, in canon. Quiescamus, distinctione
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="52"/>quadragesima secunda ; et canon. S agamus,
+          <lb ed="#P" n="53"/>de Paenitentia, distinct. 1; et in Manuali, 
+          ca<lb break="no" ed="#P" n="54"/>pite quarto ; Sotus, in Deliberatione de causa
+          <lb ed="#P" n="55"/>pauperum. et alii. Nos per sequentes sectiones
+          <lb ed="#P" n="56"/>de eleemosynae praecepto, quod proprium hujus
+          <lb ed="#P" n="57"/>loci est, prosequemur.
+        </p>
+        <div xml:id="szthvi-b67467-Dd1e202">
+          <head xml:id="szthvi-b67467-Hd1e204">Sectio 1</head>
+          <head xml:id="szthvi-b67467-Hd1e206" type="question-title">An sit praeceptum eleemosyne, et quomodo obliget</head>
+          <p xml:id="szthvi-b67467-d1e209">
+            <lb ed="#P" n="58"/>SECTIO I.
+            <lb ed="#P" n="59"/>An sit praeceptum eleemosyne, et quomodo
+            <lb ed="#P" n="60"/>obliget ?
+          </p>
+          <p xml:id="szthvi-b67467-d1e218">
+            <lb ed="#P" n="61"/>1. Prima conclusio. — Dico primo : dare
+            <lb ed="#P" n="62"/>eleemosynam est in praecepto naturali et 
+            di<lb break="no" ed="#P" n="63"/>vino, quod ex genere suo sub mortali obligat.
+            <lb ed="#P" n="64"/>Conclusio in genere est certa de fide, Matth.
+            <lb ed="#P" n="65"/>25, ubi damnantur homines ob hujus praecepti
+            <lb ed="#P" n="66"/>transgressionem : Discedite in ignem eternum;
+            <lb ed="#P" n="67"/>esurivi enim, et non dedistis mihi manducare,
+            <lb ed="#P" n="68"/>etc.; Eccles. 4: Hleemosynam pauperis ue 
+            de<lb break="no" ed="#P" n="69"/>fraudes ; et infra : Declina pauperi aurem
+            <lb ed="#P" n="70"/>tuam et redde debitum tuum. Unde recte 
+            Am<lb break="no" ed="#P" n="71"/>brosius, in lib. de Nabute, cap. 12: 
+            Debi<lb break="no" ed="#P" n="72"/>tum (inquit) reddis, non largiris indebitum :
+            <lb ed="#P" n="73"/>ideoque tibi dicit Seriptura - Declina pauperi
+            <lb ed="#P" n="74"/>aurem tuam, et redde deb tum tuum. Et 
+            Na<lb break="no" ed="#P" n="75"/>zianzenus, oratione de Pauperum amore, late
+            <lb ed="#P" n="76"/>probat eleemosynam in praecepto esse, et in
+            <lb ed="#P" n="77"/>tine addit : An tu benignitatem non 
+            necessa<lb break="no" ed="#P" n="78"/>riam, sed tibi liberum esse gutas * ac non 
+            le<lb break="no" ed="#P" n="79"/>gem, sed consilium ? Hoc quoque ipse 
+            magno<lb break="no" ed="#P" n="80"/>pere vellem, et eaistimarem ; sed me sinistra
+            <lb ed="#P" n="81"/>illa manus terret, et heedi, et probra, que in
+            <lb ed="#P" n="82"/>sceleratos homines ab eo, a quo illic collocati
+            <lb ed="#P" n="83"/>sunt, conjiciuntur, non quia aliud quiddam
+            <lb ed="#P" n="84"/>ex iis quae interdicta sunt, admiserunt, sed quia
+            <lb ed="#P" n="85"/>Christum per pauperes minime curarunt. Et
+            <lb ed="#P" n="86"/>Basilius, concion. in illud divitis : Destruam
+            <lb ed="#P" n="87"/>horrea mea, Luc. 12: Non gutavit (inquit)
+            <lb ed="#P" n="88"/>oportere super fluum in egenos distribuere ; 
+            nul<lb break="no" ed="#P" n="89"/>lam praecepti habuit rationem : Ne abstineas
+            <lb ed="#P" n="90"/>benefacere inopi, et eleemosgna, et fides non 
+            de<lb break="no" ed="#P" n="91"/>serant te, Tobiae 4; et frange esurienti 
+            pa<lb break="no" ed="#P" n="92"/>nem tuum, lsaiae b58. Ratio denique hujus
+            <lb ed="#P" n="93"/>praecepti sumitur ex 1 Joannis 3: Qui 
+            habue<lb break="no" ed="#P" n="94"/>rit substantiam Intjus mundi, et viderit 
+            fra<lb break="no" ed="#P" n="95"/>irem suwm necessitatem habere, et clauserit
+            <lb ed="#P" n="96"/>viscera sua ab eo, quomodo charitas Dei 
+            ma<lb break="no" ed="#P" n="97"/>net in eo? Est enim hoc praeceptum valde 
+            ne<lb break="no" ed="#P" n="98"/>cessarium ad conservandam charitatem. Nam,
+            <lb ed="#P" n="99"/>ut bene Nazianzenus citatus, misericordia erga
+            <lb ed="#P" n="100"/>pauperes est praecipua pars charitatis. Unde
+            <lb ed="#P" n="101"/>constat etiam esse naturale, nam praeceptum
+            <lb ed="#P" n="102"/>de dilectione proximi naturale est.
+          </p>
+          <p xml:id="szthvi-b67467-d1e312">
+            <lb ed="#P" n="103"/>2. Error haereticorum circa eleemosgynam
+            <pb ed="#P" n="677"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>refellitur, — Sed, ut vitentur extrema, 
+            adver<lb break="no" ed="#P" n="2"/>tendum est quosdam haereticos voluisse 
+            prae<lb break="no" ed="#P" n="3"/>ceptum hoc adeo esse necessarium, ut si illud
+            <lb ed="#P" n="4"/>solum servetur, ad salutem sufticiat, nam (
+            in<lb break="no" ed="#P" n="5"/>quiunt) de illius transgressione et 
+            observa<lb break="no" ed="#P" n="6"/>tione judicantur homines ; quem errorem ex
+            <lb ed="#P" n="7"/>nonnullis locis Scriptura, ut Daniel quarto,
+            <lb ed="#P" n="8"/>Tobiae 12, Ecclesiast. 3, Lucae 11, cum 
+            simi<lb break="no" ed="#P" n="9"/>libus, et ex Patribus confirmant; sed illum
+            <lb ed="#P" n="10"/>Augustinus refellit libro 21 de Civitat., cap.
+            <lb ed="#P" n="11"/>22. et sufficit locus Pauli, prima ad Corinth.
+            <lb ed="#P" n="12"/>13: Si distribuero in cibos pauperum, etc.,
+            <lb ed="#P" n="13"/>charitatem autem non habuero, nihil sum.
+            <lb ed="#P" n="14"/>Unde constat hoc praeceptum esse quidem 
+            ne<lb break="no" ed="#P" n="15"/>cessarium, non tamen sufficere. Judicantur
+            <lb ed="#P" n="16"/>autem homines ex illo, vel quia ejus opera
+            <lb ed="#P" n="17"/>sunt hominibus magis nota, vel quia sunt 
+            si<lb break="no" ed="#P" n="18"/>gna charitatis, vel certe quia possent videri
+            <lb ed="#P" n="19"/>hominibus haec opera minus necessaria, quam
+            <lb ed="#P" n="20"/>opera justitiae, vel similia. Reliqua testimonia
+            <lb ed="#P" n="21"/>intelliguntur de poenis peccatorum, quae 
+            inter<lb break="no" ed="#P" n="22"/>dum in Scriptura vocantur peccata, secundo
+            <lb ed="#P" n="23"/>Machab. 12. Et indicant primo observationem
+            <lb ed="#P" n="24"/>hujus praecepti valere plurimum a4 
+            satisfa<lb break="no" ed="#P" n="25"/>ciendum pro peccatis '. Secundo, intelligitur
+            <lb ed="#P" n="26"/>ex eisdem testimoniis valere hoc opus ad 
+            im<lb break="no" ed="#P" n="27"/>petrandum a Deo gratiam ad servanda alia
+            <lb ed="#P" n="28"/>praecepta, quod interdum per se facit, 
+            inter<lb break="no" ed="#P" n="29"/>dum per orationes eorum qui eleemosynam
+            <lb ed="#P" n="30"/>recipiunt. Tertio, indicatur hoc opus, 
+            praeci<lb break="no" ed="#P" n="31"/>pue si ex auxilio Dei procedat, mereri coram
+            <lb ed="#P" n="32"/>Deo ut excitetur ad misericordiam, et 
+            pecca<lb break="no" ed="#P" n="33"/>torum indulgentiam. Et in his modis 
+            expo<lb break="no" ed="#P" n="34"/>nendi sunt Sancti, qui interdum etiam per
+            <lb ed="#P" n="35"/>exaggerationem loquuntur, ad explicandam
+            <lb ed="#P" n="36"/>vim hujus praecepti, ut videre licet in 
+            Augus<lb break="no" ed="#P" n="37"/>tn., epistola 89.
+          </p>
+          <p xml:id="szthvi-b67467-d1e402">
+            <lb ed="#P" n="38"/>3. Secunda conclusio. — Dico secundo: 
+            prae<lb break="no" ed="#P" n="39"/>ceptum eleemosynae obligat solum tempore
+            <lb ed="#P" n="40"/>necessitatis proximi. Est communis 
+            Theologo<lb break="no" ed="#P" n="41"/>rum, et certa. Primo, patet ex ratione 
+            praece<lb break="no" ed="#P" n="42"/>pti affirmativi, cujus est non pro semper, sed
+            <lb ed="#P" n="43"/>determinatis temporibus obligare. Secundo,
+            <lb ed="#P" n="44"/>ex objecto hujus virtutis, quod est miseria et
+            <lb ed="#P" n="45"/>indigentia; at haec necessitas non semper 
+            oc<lb break="no" ed="#P" n="46"/>currit ; ergo sine hac non potest obligare 
+            prae<lb break="no" ed="#P" n="47"/>ceptum. Quod autem tunc obliget, patet, quia
+            <lb ed="#P" n="48"/>praeceptum est beneficentia erga proximum,
+            <lb ed="#P" n="49"/>et ad hanc non tenemur omni tempore; ergo
+            <lb ed="#P" n="50"/>saltem necessitatis tempore tenebimur. Dices,
+            <lb ed="#P" n="51"/>ergo tunc obligabunt duo praecepta, charitatis,
+            <lb ed="#P" n="52"/>scilicet, et misericordiae, et extra illum 
+            articu<lb break="no" ed="#P" n="53"/>lum neutrum obligabit; ergo alterum est su-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="54"/>perfluum, aut certe quando illud homo 
+            omit<lb break="no" ed="#P" n="55"/>tit, peccat duplici peccato. Hoc argumentum
+            <lb ed="#P" n="56"/>inculcat iterum distinctionem misericordiae et
+            <lb ed="#P" n="57"/>charitatis, quam propterea dixi ad moralia
+            <lb ed="#P" n="58"/>non multum referre, quia revera prsceptum
+            <lb ed="#P" n="59"/>unius non obligat, nisi quando praeceptum 
+            al<lb break="no" ed="#P" n="60"/>terius; non tamen propterea sunt superflua,
+            <lb ed="#P" n="61"/>unum enim est generale, aliud quasi speciale;
+            <lb ed="#P" n="62"/>sicut etiam erga Deum non obligat praeceptum
+            <lb ed="#P" n="63"/>religionis, quin obliget praeceptum charitatis.
+            <lb ed="#P" n="64"/>Et circa proximum similiter non obligat 
+            jus<lb break="no" ed="#P" n="65"/>titia quin obliget charitas; propria tamen 
+            ma<lb break="no" ed="#P" n="66"/>litia omissionis illius censenda est contra 
+            mise<lb break="no" ed="#P" n="67"/>ricordiam, quia illa specialiter obligat, 
+            chari<lb break="no" ed="#P" n="68"/>tas vero generali ratione.
+          </p>
+          <p xml:id="szthvi-b67467-d1e474">
+            <lb ed="#P" n="69"/>4. Sed hic advertendum est hanc 
+            necessita<lb break="no" ed="#P" n="70"/>tem proximi esse triplicem. Prima dicitur 
+            com<lb break="no" ed="#P" n="71"/>munis, qualis est in his pauperibus 
+            communi<lb break="no" ed="#P" n="72"/>bus. Secunda est gravis, ut quando homo ita
+            <lb ed="#P" n="73"/>indiget, ut sine gravi detrimento honoris, aut
+            <lb ed="#P" n="74"/>salutis, aut bonorum fortunae non possit 
+            sub<lb break="no" ed="#P" n="75"/>venire sibi sine alterius auxilio. Tertia est 
+            ex<lb break="no" ed="#P" n="76"/>trema necessitas, quae communiter in hac 
+            ma<lb break="no" ed="#P" n="77"/>teria censetur solum evidens periculum 
+            mor<lb break="no" ed="#P" n="78"/>tis, vel etiam mutilationis membri, vel 
+            pericu<lb break="no" ed="#P" n="79"/>lum incidendi in amentiam perpetuam ; nos
+            <lb ed="#P" n="80"/>autem possumus distinguere hanc extremam
+            <lb ed="#P" n="81"/>necessitatem, etiam in alis bonis, ut fama et
+            <lb ed="#P" n="82"/>honore. Nam aliquando est in periculo tota
+            <lb ed="#P" n="83"/>fama et fortuna. In his omnibus necessitatibus
+            <lb ed="#P" n="84"/>versari potest eleemosynae praeceptum, non 
+            ta<lb break="no" ed="#P" n="85"/>men aeque; sed ad intelligendam 
+            obligatio<lb break="no" ed="#P" n="86"/>nem comparandae sunt cum potestate illius qui
+            <lb ed="#P" n="87"/>daturus est eleemosynam. Nam qui magis 
+            po<lb break="no" ed="#P" n="88"/>test obligatur etiam in minori necessitate, et
+            <lb ed="#P" n="89"/>sic proportionalter.
+          </p>
+          <p xml:id="szthvi-b67467-d1e522">
+            <lb ed="#P" n="90"/>5. Tertia conclusio de qua, preeter D. Thom.
+            <lb ed="#P" n="91"/>9. 2, q. 32, art. 9, et in 4, d. 15, quasst. 2, art.
+            <lb ed="#P" n="92"/>6, alia plures eo loco Magistri, item Summiste,
+            <lb ed="#P" n="93"/>verbo Eleemosyna. — Quorumdam error 
+            reji<lb break="no" ed="#P" n="94"/>citur. —Duico tertio praceptum hoc se 
+            exten<lb break="no" ed="#P" n="95"/>dere ad omnem proximum in necessitate 
+            con<lb break="no" ed="#P" n="96"/>stitutum, sive propinquus sit, sive alienus, sive
+            <lb ed="#P" n="97"/>peccator, sive justus. Est de fide, Tobiae 4: Voli
+            <lb ed="#P" n="98"/>acertere faciem tuum ab ullo paupere ; etsupra
+            <lb ed="#P" n="99"/>vidimus praeceptum charitatis se extendere ad
+            <lb ed="#P" n="100"/>inumicos; et expresse Proverbiorum 25: $i
+            <lb ed="#P" n="101"/>esur ierit inimicus tuus, ciba illum. Unde 
+            ex<lb break="no" ed="#P" n="102"/>cluditur error Wiclephi, et aliorum 
+            haeretico<lb break="no" ed="#P" n="103"/>rum apud Waldensem, libro secundo Doctrin.,
+            <lb ed="#P" n="104"/>cap. 81, dicentium hoc praeceptum non 
+            obh<lb break="no" ed="#P" n="105"/>gare erga infideles et homines impiissimos,
+            <lb ed="#P" n="106"/>quem late improbant Augustinus, 
+            Chrysosto<lb break="no" ed="#P" n="107"/>mus, Hierony mus, et alii Patres. Quod si 
+            Gre<lb break="no" ed="#P" n="108"/>gorius ait, libro quinto, epistola vigesima no-
+            <pb ed="#P" n="678"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>na, et refertur 86, cap. Fratrum, non esse 
+            elar<lb break="no" ed="#P" n="2"/>giendam eleemosynam peccatoribus, 
+            intelli<lb break="no" ed="#P" n="3"/>gendum est formaliter, hoc est, in ordine ad
+            <lb ed="#P" n="4"/>fovenda illorum peccata. Unde Ambrosius, 
+            li<lb break="no" ed="#P" n="5"/>bro primo Offic., cap. 30: Si lueurioso ad 
+            lu<lb break="no" ed="#P" n="6"/>auriam, adultero ad adulterium largiendum
+            <lb ed="#P" n="7"/>putes, non est beneficentia ista, ubi nulla est
+            <lb ed="#P" n="8"/>benevolentia.
+          </p>
+          <p xml:id="szthvi-b67467-d1e587">
+            <lb ed="#P" n="9"/>6. Quarta conclusio. — Dico quarto : non
+            <lb ed="#P" n="10"/>tenetur homo quaerere quibus eleemosynam
+            <lb ed="#P" n="11"/>faciat, sed satis est si praesentibus, vel iis qui
+            <lb ed="#P" n="12"/>ad ejus notitiam pervenerint , subveniat. Ita
+            <lb ed="#P" n="13"/>divus Thomas, Quodlibeto 8, articulo 
+            duode<lb break="no" ed="#P" n="14"/>cimo *, et alii. Batio est, quia non est 
+            expres<lb break="no" ed="#P" n="15"/>sum praeceptum de hac re, neque ulla 
+            suffi<lb break="no" ed="#P" n="16"/>ciens ratio cur ad hoc obligemur, cum tamen
+            <lb ed="#P" n="17"/>onus sit gravissimum. Item quia ad pauperes
+            <lb ed="#P" n="18"/>spectat necessitatem ostendere et petere.
+            <lb ed="#P" n="19"/>Oportet tamen ut bona fide aliquis procedat,
+            <lb ed="#P" n="20"/>neque occasiones fugiat subveniendi 
+            necessi<lb break="no" ed="#P" n="21"/>tatibus proximorum. Intelligitur vero 
+            conclu<lb break="no" ed="#P" n="22"/>sio de personis omnino privatis. Nam qui 
+            ge<lb break="no" ed="#P" n="23"/>runt rcipunlicae curam, interdum tenebuntur,
+            <lb ed="#P" n="24"/>non tam hoc praecepto, quam justitiae et 
+            offi<lb break="no" ed="#P" n="25"/>cii, quia illud necessarium est ad 
+            convenien<lb break="no" ed="#P" n="26"/>tem reipublica gubernationem, in qua multae
+            <lb ed="#P" n="27"/>indigentiae occurrunt, quibus aliter provideri
+            <lb ed="#P" n="28"/>non potest.
+          </p>
+          <p xml:id="szthvi-b67467-d1e633">
+            <lb ed="#P" n="29"/>7. Quaenam necessitatis certitudo obliget ad
+            <lb ed="#P" n="30"/>eleemosynam. — An teneatur quis subvenire
+            <lb ed="#P" n="31"/>voluntarie alterius indigentie. — Adriani
+            <lb ed="#P" n="32"/>responsio. — Temperatur. — Quaeres quanta
+            <lb ed="#P" n="33"/>certitudine constare debeat haec necessitas.
+            <lb ed="#P" n="34"/>Respondetur, si tantum habeatur ex dictis
+            <lb ed="#P" n="35"/>aliorum, sufficere eam auctoritatem quae faciat
+            <lb ed="#P" n="36"/>probabilem fidem. Si vero oculis videatur, 
+            li<lb break="no" ed="#P" n="37"/>cet saepe soleat fingi, tamen quando id non
+            <lb ed="#P" n="38"/>constat, praesumendum est esse veram 
+            neces<lb break="no" ed="#P" n="39"/>sitatem, quia et securius est, et in favorem
+            <lb ed="#P" n="40"/>proximorum potius est declinandum. Unde
+            <lb ed="#P" n="41"/>recte Augustinus, epistola 140 : In 
+            suscipien<lb break="no" ed="#P" n="42"/>dis hospitibus, melius est interdum malos 
+            hos<lb break="no" ed="#P" n="43"/>les perpeli, quam fortasse per ignorautiam 
+            bo<lb break="no" ed="#P" n="44"/>nos excludere. Sed quid si appareat necessitas,
+            <lb ed="#P" n="45"/>non tamen ex indigentia, sed ex voluntate
+            <lb ed="#P" n="46"/>profecta ? Communis casns esse solet, si 
+            ava<lb break="no" ed="#P" n="47"/>rus potius se mori permittat, quam expendere
+            <lb ed="#P" n="48"/>velit in medicos, vel in res necessarias sua
+            <lb ed="#P" n="49"/>bona, an teneatur quis illi providere. hatio
+            <lb ed="#P" n="50"/>dubii est, quia tunc non est necessitas, sed
+            <lb ed="#P" n="51"/>prava voluntas. Adrianus, in 4, m materia de
+            <lb ed="#P" n="52"/>Correct. fraterna, affirmat cum Glossa, in c. 1,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>distinct. 43; addit tamen posse eum, qui 
+            ta<lb break="no" ed="#P" n="54"/>lem eleemosynam facit, recuperare quae 
+            de<lb break="no" ed="#P" n="55"/>dit , si possit sine scandalo ; sed 
+            distinguen<lb break="no" ed="#P" n="56"/>dum est, nam quando hujusmodi affectus
+            <lb ed="#P" n="57"/>accidit ex vehementi quadam passione ,
+            <lb ed="#P" n="58"/>quae fere dementiae comparari potest , tunc
+            <lb ed="#P" n="59"/>procedit haec sententia, sicut etiam teneor
+            <lb ed="#P" n="60"/>subvenire ei qui ex ingenti tristitia se vult
+            <lb ed="#P" n="61"/>interficere. Ratio est, quia licet 
+            admiscea<lb break="no" ed="#P" n="62"/>tur prava voluntas, tamen humano modo est
+            <lb ed="#P" n="63"/>vera necessitas. Secus vero esset si quis ex
+            <lb ed="#P" n="64"/>pura malitia id faceret, ut infra agendo de
+            <lb ed="#P" n="65"/>ordine eleemosynae constabit.
+          </p>
+          <p xml:id="szthvi-b67467-d1e718">
+            <lb ed="#P" n="66"/>8. Quinta conclusio. — Dico quinto: 
+            occur<lb break="no" ed="#P" n="67"/>rente necessitate, non teneor omnino facere 
+            e<lb break="no" ed="#P" n="68"/>leemosynani, nisi sit extrema. Haec ultima pars
+            <lb ed="#P" n="69"/>per se constat ; nam illa necessitas est , quae
+            <lb ed="#P" n="70"/>maxime potest urgere. Intelligitur tamen. nisi
+            <lb ed="#P" n="71"/>occurrant multae similes necessitates, et non
+            <lb ed="#P" n="72"/>possim omnibus subvenire; tunc enim datur
+            <lb ed="#P" n="73"/>optio, servato ordine charitatis. Addendum
+            <lb ed="#P" n="74"/>etiam, nisi evidenter sciam alium 
+            subventu<lb break="no" ed="#P" n="75"/>rum, prius quam proximus periculum 
+            patia<lb break="no" ed="#P" n="76"/>tur; nam tunc non erat extrema necessitas
+            <lb ed="#P" n="77"/>simpliciter respectu meae eleemosynae. Prior
+            <lb ed="#P" n="78"/>pars probatur, quia quando necessitas non est
+            <lb ed="#P" n="79"/>extrema , non ita urget quin possit quis suam
+            <lb ed="#P" n="80"/>eleemosynam aliis servare, quod in 
+            communi<lb break="no" ed="#P" n="81"/>bus necessitatibus facile est intelligere; in
+            <lb ed="#P" n="82"/>gravibus vero oportet prudentia uti, nisi 
+            pro<lb break="no" ed="#P" n="83"/>ximus interim nimium patiatur ; item ne 
+            gra<lb break="no" ed="#P" n="84"/>vior necessitas propter minus gravem 
+            omitta<lb break="no" ed="#P" n="85"/>tur ; in quibus omnibus ordo prudentiae et
+            <lb ed="#P" n="86"/>charitatis servandus est.
+          </p>
+          <p xml:id="szthvi-b67467-d1e767">
+            <lb ed="#P" n="87"/>9. An praeceptum clemnosynaee obliget etiam
+            <lb ed="#P" n="88"/>unuwnquemque circa se.—Difficultas espeditur.
+            <lb ed="#P" n="89"/>— Quaeres an hoc praeceptum obliget tantum
+            <lb ed="#P" n="90"/>circa alienas necessitates, an etiam circa 
+            pro<lb break="no" ed="#P" n="91"/>prias. Respondetur maxime ad has obligare,
+            <lb ed="#P" n="92"/>quia, ut supra diximus, etiam ipsemet homo
+            <lb ed="#P" n="93"/>continetur in objecto charitatis et eleemosynae,
+            <lb ed="#P" n="94"/>quia sibi est maxime conjunctus. Quare recte
+            <lb ed="#P" n="95"/>Augustinus, in Enchiridio, cap. 76 : Qui vult
+            <lb ed="#P" n="96"/>(inquit) eleemosynam ordinate dare, a seipso 
+            de<lb break="no" ed="#P" n="97"/>bet incipere , et eam sibi primo dare. Unde
+            <lb ed="#P" n="98"/>obiter solvitur dubium aliud, an si alicui 
+            com<lb break="no" ed="#P" n="99"/>mittantur pecuniae ad eleemosynas, possit ex
+            <lb ed="#P" n="100"/>iliis suae verae necessitati subvenire ; Sylvester
+            <lb ed="#P" n="101"/>enim, et Angelus, verbo Eleemosyaa, dicunt
+            <lb ed="#P" n="102"/>non posse , argumento cujusdam legis, Si
+            <lb ed="#P" n="103"/>mandavero, S Si tibi centum, tf. Mandati. Sed
+            <lb ed="#P" n="104"/>certum mihi est posse facere, quod tenet 
+            Caje<lb break="no" ed="#P" n="105"/>tanus 2. 2, quaest. 32, art. 9, nam illa est vera
+            <lb ed="#P" n="106"/>eleemosyna. Item ipsi concedunt posse dare
+            <lb ed="#P" n="107"/>maxime propinquis, consanguineis et filiis;
+            <pb ed="#P" n="679"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>cur ergo non sibi ? Item expletur voluntas 
+            do<lb break="no" ed="#P" n="2"/>nantis, cum detur vere egenti, nisi contrarium
+            <lb ed="#P" n="3"/>aperte explicet ; ergo. Inferes : ergo si alicui
+            <lb ed="#P" n="4"/>in confessione imponant eleemosynam in 
+            poe<lb break="no" ed="#P" n="5"/>nitentiam, satisfaciet subveniendo suae 
+            necessi<lb break="no" ed="#P" n="6"/>tati. Neganda est consequentia; id enim est
+            <lb ed="#P" n="7"/>contra intentionem imponentis, neque ille 
+            ac<lb break="no" ed="#P" n="8"/>tus sibi subveniendi est poenalis, qualis 
+            impo<lb break="no" ed="#P" n="9"/>nitur in satisfactione. Unde si ipse ita 
+            indige<lb break="no" ed="#P" n="10"/>ret, ut non posset commode dare 
+            eleemosy<lb break="no" ed="#P" n="11"/>nam, excusaretur quidem; vere tamen 
+            poeni<lb break="no" ed="#P" n="12"/>tentiam impositam non adimpleret, nec 
+            satis<lb break="no" ed="#P" n="13"/>faceret ex opere operato.
+          </p>
+        </div>
+        <div xml:id="szthvi-b67467-Dd1e850">
+          <head xml:id="szthvi-b67467-Hd1e852">Sectio 2</head>
+          <head xml:id="szthvi-b67467-Hd1e854" type="question-title">Ex quibus bonis facienda sit eleemosyna, et a quibus fieri debeat</head>
+          <p xml:id="szthvi-b67467-d1e857">
+            <lb ed="#P" n="14"/>SECTIO II.
+            <lb ed="#P" n="15"/>Ex quibus bonis facienda sit eleemosyna, et a
+            <lb ed="#P" n="16"/>quibus fieri debeat.
+          </p>
+          <p xml:id="szthvi-b67467-d1e866">
+            <lb ed="#P" n="17"/>1. Prima conclusio. — Dico primo: 
+            eleemo<lb break="no" ed="#P" n="18"/>syna facienda est ex bonis propriis, quorum
+            <lb ed="#P" n="19"/>aliquis est dominus, vel habet legitimam et
+            <lb ed="#P" n="20"/>absolutam administrationem. Est certa, et
+            <lb ed="#P" n="21"/>constat Proverb. 3: Si cales, et ipse benefac ,
+            <lb ed="#P" n="22"/>et honora Dominum de tua substantia ; et Isaiae
+            <lb ed="#P" n="23"/>58 : Frange esurienti panem iuum. Idem 
+            ira<lb break="no" ed="#P" n="24"/>dunt Patres. Ratio est, quia non licet alicui
+            <lb ed="#P" n="25"/>dispensare aliena; item per eleemosynam
+            <lb ed="#P" n="26"/>transfertur dominium, ut ex sectione 5 
+            intelli<lb break="no" ed="#P" n="27"/>getur ; ergo vel a domino, vel ex potestate 
+            do<lb break="no" ed="#P" n="28"/>mini. Advertendum autem, pro sequenti 
+            con<lb break="no" ed="#P" n="29"/>clusione , interdum non satis esse habere 
+            do<lb break="no" ed="#P" n="30"/>minium, sed oportere etiam illud non habere
+            <lb ed="#P" n="31"/>impeditum legibus humanis , a quibus, et
+            <lb ed="#P" n="32"/>translatione dominiorum, maxime pendet 
+            re<lb break="no" ed="#P" n="33"/>rum temporalium administratio.
+          </p>
+          <p xml:id="szthvi-b67467-d1e905">
+            <lb ed="#P" n="34"/>2. Secunda conclusio. — De servis. — Hinc
+            <lb ed="#P" n="35"/>statuitur secunda conclusio: personae aliis 
+            sub<lb break="no" ed="#P" n="36"/>ditae, quae vel dominium non habent, vel non
+            <lb ed="#P" n="37"/>habent rerum administrationem quarum sunt
+            <lb ed="#P" n="38"/>domini , non possunt sua auctoritate 
+            eleemo<lb break="no" ed="#P" n="39"/>synas facere, excepta extrema necessitate.
+            <lb ed="#P" n="40"/>Pertinent autem ad hanc conclusionem 
+            qua<lb break="no" ed="#P" n="41"/>tuor personarum genera, servi, religiosi, 
+            filii<lb break="no" ed="#P" n="42"/>que familias, uxores, de quibus sigillatim 
+            di<lb break="no" ed="#P" n="43"/>cendum est, ac probanda conclusio. Primum
+            <lb ed="#P" n="44"/>servus, quidquid acquirit, domino acquirit,
+            <lb ed="#P" n="45"/>ut tradunt jura, institut. Per quas personas,
+            <lb ed="#P" n="46"/>S tem nobis, 1. Id vestimentum, tf. de Peculio,
+            <lb ed="#P" n="47"/>cap. Cum olim, 2, de Privilegiis. Quod 
+            abso<lb break="no" ed="#P" n="48"/>lute verum est, et in conscientia nullam 
+            elee<lb break="no" ed="#P" n="49"/>mosynam possunt servi facere, nisi ex 
+            domi<lb break="no" ed="#P" n="50"/>norum concessione, tacita vel expressa ; sed
+            <lb ed="#P" n="51"/>tamen opinor non esse hoc in rigore 
+            intelli<lb break="no" ed="#P" n="52"/>gendum, quia servitus dc se odiosa est, et ideo
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>restringenda, alias esset intolerabilis et 
+            inhu<lb break="no" ed="#P" n="54"/>mana , quare aliquarum rerum dominium
+            <lb ed="#P" n="55"/>possunt habere servi, vel ex donatione domini,
+            <lb ed="#P" n="56"/>vel ex donatione aliorum, consentiente 
+            domi<lb break="no" ed="#P" n="57"/>no, vel certe si ea conditione donatum est, ut
+            <lb ed="#P" n="58"/>domino non acquiratur, vel si aliquod justum
+            <lb ed="#P" n="59"/>pactum inter dominum et servum intercedat,
+            <lb ed="#P" n="60"/>aut denique juxta alias consuetudines 
+            domi<lb break="no" ed="#P" n="61"/>norum et servorum , et de hoc possunt libere
+            <lb ed="#P" n="62"/>eleemosynas facere, quia sunt domini. Idem
+            <lb ed="#P" n="63"/>clarum est in eleemosynis quae non fiunt ex
+            <lb ed="#P" n="64"/>pecuniis, sed ex actionibus humanis. Nam si
+            <lb ed="#P" n="65"/>servus nihil deroget domino in omnibus quae
+            <lb ed="#P" n="66"/>rationabiliter praecipit , potest reliquas 
+            actio<lb break="no" ed="#P" n="67"/>nes impendere in beneficium aliorum, quod
+            <lb ed="#P" n="68"/>etiam observandum est in aliis generibus 
+            per<lb break="no" ed="#P" n="69"/>sonarum.
+          </p>
+          <p xml:id="szthvi-b67467-d1e989">
+            <lb ed="#P" n="70"/>3. De religiosis.—heligiosi alii subditi sunt,
+            <lb ed="#P" n="71"/>alii superiores : neutri habent in particulari
+            <lb ed="#P" n="72"/>dominium, tamen superiores habent rerum
+            <lb ed="#P" n="73"/>administrationem. Hinc, ergo colliguntur 
+            re<lb break="no" ed="#P" n="74"/>gulae servandae. Prima : superiores possunt
+            <lb ed="#P" n="75"/>faccre aliquas eleemosynas, quarum quantitas
+            <lb ed="#P" n="76"/>et modus, nisi alias praescribatur, eorum 
+            pru<lb break="no" ed="#P" n="77"/>dentiae committitur. Secunda: subditi tamen
+            <lb ed="#P" n="78"/>non possunt nisi ex superioris concessione 
+            ex<lb break="no" ed="#P" n="79"/>pressa, vel probabiliter praesumpta, divus
+            <lb ed="#P" n="80"/>Thomas 2. 2, quaest. 32, artic. 8, ad primum.
+            <lb ed="#P" n="81"/>Haec autem praesumptio, quando sit sufficiens,
+            <lb ed="#P" n="82"/>ex circumstantiis et consuetudine aestimanda
+            <lb ed="#P" n="83"/>est. Censent tamen auctores communiter,
+            <lb ed="#P" n="84"/>quando necessitas gravis est, et non potest fa -
+            <lb ed="#P" n="85"/>cile consensus superioris postulari, debere
+            <lb ed="#P" n="86"/>praesumi. Ita Angelus, verbo Eleemosgna, cum
+            <lb ed="#P" n="87"/>Glossa, in cap. Non dicatis, 19, quaest. 1, et
+            <lb ed="#P" n="88"/>est valde probabilis conjectura, et 
+            consenta<lb break="no" ed="#P" n="89"/>nea tali statui. Tertia : addunt omnes. 
+            quan<lb break="no" ed="#P" n="90"/>do religiosus est in via, vel alia de causa degit
+            <lb ed="#P" n="91"/>extra monasterium, posse aliquas eleemosynas
+            <lb ed="#P" n="92"/>facere, convenientes suo statui ; tum quia pro
+            <lb ed="#P" n="93"/>tunc illi est commissa administratio eorum
+            <lb ed="#P" n="94"/>bonorum quae dispensat ; tum quia talis 
+            prae<lb break="no" ed="#P" n="95"/>sumi debet superioris voluntas. Addit etiam
+            <lb ed="#P" n="96"/>Navarr., cap. Non dicatis, num. 40, licere
+            <lb ed="#P" n="97"/>etiam religioso aliauid ex his quae ad suum
+            <lb ed="#P" n="98"/>negotium, vel iter, vel victum sibi datur,
+            <lb ed="#P" n="99"/>subtrahere sibi, et in eleemosynam dare, quod
+            <lb ed="#P" n="100"/>est pie dictum, sed pro consuetudine 
+            religio<lb break="no" ed="#P" n="101"/>num applicandum ; extra has regulas , nihil
+            <lb ed="#P" n="102"/>potest dare etiam ex sibi dono datis, quia 
+            ho<lb break="no" ed="#P" n="103"/>rum non ipse, sed religio dominium acquirit,
+            <lb ed="#P" n="104"/>ut vulgare est. Vide Basilium, in Regulis 
+            bre<lb break="no" ed="#P" n="105"/>vioribus, quaest. 77, 87 ct 100.
+          </p>
+          <p xml:id="szthvi-b67467-d1e1070">
+            <lb ed="#P" n="106"/>4. De fiilisfamilias. — Tertio: de 
+            filiisfami<lb break="no" ed="#P" n="107"/>lias, quoad bona paterna, quorum non habent
+            <pb ed="#P" n="680"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>dominium, certum est ex illis non posse 
+            elec<lb break="no" ed="#P" n="2"/>mosynas facere sine patris consensu; et idem
+            <lb ed="#P" n="3"/>est de pupillis, qui per leges habent 
+            adminis<lb break="no" ed="#P" n="4"/>trationem impeditam. Sed adaendum est hos
+            <lb ed="#P" n="5"/>filios habere inierdum quarumdum rerum 
+            do<lb break="no" ed="#P" n="6"/>minium et usum, ut peculii castrensis, id est,
+            <lb ed="#P" n="7"/>in militia, vel intuitu militiaa comparatum,
+            <lb ed="#P" n="8"/>vel quasi castrense, id est, comparatum 
+            offi<lb break="no" ed="#P" n="9"/>cio liberali et publico, vel regia donatione.
+            <lb ed="#P" n="10"/>Nam de his bonis possunt filiifamilias 
+            eleemosy<lb break="no" ed="#P" n="11"/>nas facere; secus vero est de peculio 
+            profecti<lb break="no" ed="#P" n="12"/>tio, id est, quod vel ex rebus paternis, cum
+            <lb ed="#P" n="13"/>eis nimirum negotiando, vel ex donatione 
+            in<lb break="no" ed="#P" n="14"/>tuitu patris facta, profectum est. Nam talis 
+            pe<lb break="no" ed="#P" n="15"/>culii dominium est apud patrem; et idem 
+            re<lb break="no" ed="#P" n="16"/>solvendum de peculio adventitio, quod, 
+            scili<lb break="no" ed="#P" n="17"/>cet, acquiritur per donationem factam sine
+            <lb ed="#P" n="18"/>intuitu patris, vel alio labore, et industria,
+            <lb ed="#P" n="19"/>quam cum rebus paternis negotiando. Nam 
+            li<lb break="no" ed="#P" n="20"/>cet tale dominium sit apud filium, tamen 
+            usus<lb break="no" ed="#P" n="21"/>fructus est apud patrem, et ideo non potest 
+            fi<lb break="no" ed="#P" n="22"/>lius de illo facere eleemosynam. Addeudum
+            <lb ed="#P" n="23"/>tamen ocst regulas datas in religiosis procedere
+            <lb ed="#P" n="24"/>etiam in filiisfamilias, si suo modo 
+            accommo<lb break="no" ed="#P" n="25"/>dentur.
+          </p>
+          <p xml:id="szthvi-b67467-d1e1135">
+            <lb ed="#P" n="26"/>b. De uxore. — Quarto, dicendum est de
+            <lb ed="#P" n="27"/>uxore: quae, licet suae dotis habeat dominium,
+            <lb ed="#P" n="28"/>non tamen administrationem, et ideo non 
+            po<lb break="no" ed="#P" n="29"/>test de illa facere eleemosynam sine viri 
+            con<lb break="no" ed="#P" n="30"/>sensu, cap. Quod Deo, 33, quaest. 5, quod
+            <lb ed="#P" n="31"/>etiam intelligendum est juxta regulas datas
+            <lb ed="#P" n="32"/>de religioso. Praeterea spectanda est 
+            consue<lb break="no" ed="#P" n="33"/>tudo; nam quas eleemosynas laicae feminae
+            <lb ed="#P" n="34"/>matrimonio minime junctae similis 
+            conditio<lb break="no" ed="#P" n="35"/>nis solent facere, potest etiam uxor facere 
+            abs<lb break="no" ed="#P" n="36"/>que licentia mariti. Addunt Angelus et 
+            Sylves<lb break="no" ed="#P" n="37"/>ter, etiamsi prohàbeat , quia praesumendum est
+            <lb ed="#P" n="38"/>non ex animo prohibere, sed ut illam 
+            conti<lb break="no" ed="#P" n="39"/>neat a largioribus eleemosynis. Item quia esset
+            <lb ed="#P" n="40"/>quodammodo injuriosa talis prohibitio, quia
+            <lb ed="#P" n="41"/>est contra jus debitum uxori, quae non est
+            <lb ed="#P" n="42"/>omnino serva. Sed nihilominus, si constaret
+            <lb ed="#P" n="43"/>eam esse volurtatem viri, tutius esset 
+            obe<lb break="no" ed="#P" n="44"/>dire, ut Navar. docet, in Manual, cap. 17,
+            <lb ed="#P" n="45"/>num. 153, citans Antonium, qui etiam addunt,
+            <lb ed="#P" n="46"/>ob urgentem necessitatem corporis, vel animae
+            <lb ed="#P" n="47"/>propriae, vel mariti, vel familiae, posse 
+            ali<lb break="no" ed="#P" n="48"/>quam eleemosynam facere ut obtineat 
+            reme<lb break="no" ed="#P" n="49"/>dium a Deo. Ultimo, addendum est de bonis
+            <lb ed="#P" n="50"/>paraphernalibus, quorum videlicet dominium,
+            <lb ed="#P" n="51"/>et administratio libera conceditur uxori, posse
+            <lb ed="#P" n="52"/>illam facere eleemosynas, servato debito 
+            or<lb break="no" ed="#P" n="53"/>dine; ita D. Thomas 2. 2, quaest. 32, artic. 8,
+            <lb ed="#P" n="54"/>ad 2, et omnes communiter, qui idem censent
+            <lb ed="#P" n="55"/>de quibusdam bonis quae uxor acquirit sua in-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>dustria, non necessaria ad sustendanda onera
+            <lb ed="#P" n="57"/>matrimonii, quod jure communi verum est;
+            <lb ed="#P" n="58"/>tamen in unoquoque regno servandum est 
+            il<lb break="no" ed="#P" n="59"/>lius proprium, si exstet, de quo Navar., cap.
+            <lb ed="#P" n="60"/>17, a num. 114, et alii, atque ita ex 
+            induc<lb break="no" ed="#P" n="61"/>tione facta, probata relinquitur secunda 
+            con<lb break="no" ed="#P" n="62"/>clusio.
+          </p>
+          <p xml:id="szthvi-b67467-d1e1220">
+            <lb ed="#P" n="63"/>6. Tertia conclusio. — Tertia conclusio. Ex
+            <lb ed="#P" n="64"/>honis illicite acquisitis, et quae sunt obnoxia
+            <lb ed="#P" n="65"/>restitutioni, non potest eleemosyna dari, nisi
+            <lb ed="#P" n="66"/>vel in casu extremae necessitatis, vel si 
+            resti<lb break="no" ed="#P" n="67"/>tutio esset in illo modo facienda. Ratio sumitur
+            <lb ed="#P" n="68"/>ex dictis; tum etiam quia hac bona 
+            restituen<lb break="no" ed="#P" n="69"/>da magis computantur inter bona creditoris
+            <lb ed="#P" n="70"/>quam debitoris, ut celebre est apud 
+            jurisperi<lb break="no" ed="#P" n="71"/>tos. Item ita tenetur quispiam restituere, sicut
+            <lb ed="#P" n="72"/>non furari. Sed non licet furari ad dandam
+            <lb ed="#P" n="73"/>eleemosynam; ergo neque illam dare ex 
+            obno<lb break="no" ed="#P" n="74"/>xiis restitutioni. Dices: eodem argumento 
+            pro<lb break="no" ed="#P" n="75"/>baretur non posse aliquem retinere quae 
+            resti<lb break="no" ed="#P" n="76"/>tuere tenetur, propter instantem gravem 
+            neces<lb break="no" ed="#P" n="77"/>sitatem, quia non potest ea furari. Unde 
+            secun<lb break="no" ed="#P" n="78"/>do arguo a contrario: potest quisque non 
+            res<lb break="no" ed="#P" n="79"/>tituere, ut suae gravi necessitati subveniat ; 
+            er<lb break="no" ed="#P" n="80"/>go et ut proximi, quem certe debet sicut 
+            se<lb break="no" ed="#P" n="81"/>ipsum diligere. Idem suadetur ex Patribus,
+            <lb ed="#P" n="82"/>qui interdum volunt, ut eleemosyna erogetur
+            <lb ed="#P" n="83"/>ex injuste acquisitis. Ad argumentum igitur
+            <lb ed="#P" n="84"/>concedo sequelam non esse formalem, quia
+            <lb ed="#P" n="85"/>naturalia praecepta simpliciter negativa, ut est
+            <lb ed="#P" n="86"/>non furandi, strictius obligant, quam ea quae
+            <lb ed="#P" n="87"/>aliquod affirmativum includunt, ui est 
+            prae<lb break="no" ed="#P" n="88"/>ceptum restituendi; in praesenti tamen 
+            mate<lb break="no" ed="#P" n="89"/>ria, id est seclusa illa necessitate, bona est 
+            se<lb break="no" ed="#P" n="90"/>quela. Ad secundum, est differentia inter 
+            ne<lb break="no" ed="#P" n="91"/>cessitatem propriam et alienam ; nam propria
+            <lb ed="#P" n="92"/>facit actum restituendi moraliter 
+            impossibi<lb break="no" ed="#P" n="93"/>lem, id est, valde difficilem; non sic autem
+            <lb ed="#P" n="94"/>aliena. Item quia obligatio subveniendi 
+            pro<lb break="no" ed="#P" n="95"/>prie necessitati major est, ui intelligitur ex
+            <lb ed="#P" n="96"/>disputatione prima, sectione quarta. Denique
+            <lb ed="#P" n="97"/>quia cum quispiam excusatur a restituendo
+            <lb ed="#P" n="98"/>propter necessitatem propriam, non tam id est
+            <lb ed="#P" n="99"/>ut subveniatur necessitati propriae, quam ne
+            <lb ed="#P" n="100"/>in ea constituatur auferendo a se quod 
+            possi<lb break="no" ed="#P" n="101"/>det ; secus vero est de proximo, qui jam est in
+            <lb ed="#P" n="102"/>necessitate, circa quam alter solum se habet
+            <lb ed="#P" n="103"/>negative. Patres autem non loquuntur de 
+            in<lb break="no" ed="#P" n="104"/>juste acquisitis, sed ipsas divitias more 
+            evan<lb break="no" ed="#P" n="105"/>gelico vocant iniquas, non quod semper 
+            ini<lb break="no" ed="#P" n="106"/>que comparatae sint, sed quia saepe ita 
+            compa<lb break="no" ed="#P" n="107"/>rantur, et magno quodam et iniquo labore;
+            <lb ed="#P" n="108"/>neque loquuntur de eleemosyna, sed in genere
+            <lb ed="#P" n="109"/>de bono usu divitiarum. Deinde intelligi 
+            pos<lb break="no" ed="#P" n="110"/>sunt de illis rebus quae comparatae sunt turpi
+            <pb ed="#P" n="681"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>causa, sed non injusta actione, vel injusto 
+            pac<lb break="no" ed="#P" n="2"/>to, ut bona meretricum, et similia; nam cum
+            <lb ed="#P" n="3"/>harum rerum acquirant dominium, earum
+            <lb ed="#P" n="4"/>potest fieri eleemosyna, ut docet D. Thomas 2.
+            <lb ed="#P" n="5"/>2, quaest. 32, art. 7; et Cajetan. ibid.; 
+            Medi<lb break="no" ed="#P" n="6"/>na, cod. de Eleemosyna, quaest. 5, et alii 
+            com<lb break="no" ed="#P" n="7"/>muniter.
+          </p>
+          <p xml:id="szthvi-b67467-d1e1346">
+            <lb ed="#P" n="8"/>7. Prima limitatio superioris conclusionis.
+            <lb ed="#P" n="9"/>— Supersunt tamen assignandae nonnulla 
+            li<lb break="no" ed="#P" n="10"/>mitationes conclusionis. Prima limitatio est,
+            <lb ed="#P" n="11"/>aliena extremae necessitati tunc solum licere
+            <lb ed="#P" n="12"/>subvenire ex alienis, etiam surripiendo, 
+            quan<lb break="no" ed="#P" n="13"/>do quis non habet proprium. Prima pars per
+            <lb ed="#P" n="14"/>se patet. Posterioris ratio est, quia in illa 
+            ne<lb break="no" ed="#P" n="15"/>cessitate omnia sunt communia quantum ad
+            <lb ed="#P" n="16"/>usum; ergo licite surripiuntur, ut extreme
+            <lb ed="#P" n="17"/>indigenti subveniatur. Addit divus Thomas,
+            <lb ed="#P" n="18"/>quaest. 32, artic. 7, ad 3, petendum esse prius
+            <lb ed="#P" n="19"/>consensum domini ; tamen, si non det, eo 
+            in<lb break="no" ed="#P" n="20"/>vito accipi posse. Verum si non petatur, non
+            <lb ed="#P" n="21"/>credo peccari contra justitiam, quae ad 
+            resti<lb break="no" ed="#P" n="22"/>tutionem obliget. Sed quaeres an, si quis det
+            <lb ed="#P" n="23"/>eleemosynam extreme indigenti, ex re per
+            <lb ed="#P" n="24"/>furtum vel usuram comparata, teneatur postea
+            <lb ed="#P" n="25"/>illam restituere, si aliunde acquisivit unde
+            <lb ed="#P" n="26"/>possit. Respondetur, si revera dedit quando
+            <lb ed="#P" n="27"/>ipse non poterat alias subvenire illi 
+            necessita<lb break="no" ed="#P" n="28"/>ti, quod attinet ad conscientiam, manere 
+            libe<lb break="no" ed="#P" n="29"/>rum. dummodo tunc sit eo animo ut soium
+            <lb ed="#P" n="30"/>propter eleemosynam omittat restituere. hatio
+            <lb ed="#P" n="31"/>est, quia si tunc denuo furaretur cum proximo
+            <lb ed="#P" n="32"/>erat succurrendum, ad nihil teneretur postea;
+            <lb ed="#P" n="33"/>ergo neque si antea furatus est, 
+            quemadmo<lb break="no" ed="#P" n="34"/>dum si redderet domino, et statim, si posset,
+            <lb ed="#P" n="35"/>occulte acciperet.
+          </p>
+          <p xml:id="szthvi-b67467-d1e1409">
+            <lb ed="#P" n="36"/>8. Secunda limitatio. — Secunda limitatio
+            <lb ed="#P" n="37"/>habet locum in his bonis quae restituenda
+            <lb ed="#P" n="38"/>sunt, et incertum est cuinam sit facienda 
+            res<lb break="no" ed="#P" n="39"/>titutio ; haec enim danda sunt in eleemosynam,
+            <lb ed="#P" n="40"/>cap. Cum tamen, de Usuris, 14, quaest. 5. 
+            Ra<lb break="no" ed="#P" n="41"/>tio est, quia talis praesumitur voluntas domini,
+            <lb ed="#P" n="42"/>cujus illi, qui restituunt, censentur esse quasi
+            <lb ed="#P" n="43"/>dispensatores. Item ratione positivae legis 
+            ali<lb break="no" ed="#P" n="44"/>quod jus in tali casu acquiritur pauperibus;
+            <lb ed="#P" n="45"/>illis ergo tribuenda sunt ea bona in 
+            eleemo<lb break="no" ed="#P" n="46"/>synam.
+          </p>
+          <p xml:id="szthvi-b67467-d1e1436">
+            <lb ed="#P" n="47"/>9. An retineri possit eleemosyna facta ex
+            <lb ed="#P" n="48"/>Lonis injuste acceptis. — De quodam bonorum
+            <lb ed="#P" n="49"/>genere resolutio. — Sed adhuc manet dubium,
+            <lb ed="#P" n="50"/>an, si eleemosyna fiat ex bonis restitutioni
+            <lb ed="#P" n="51"/>obnoxiis, possit retineri. Respondetur haec 
+            bo<lb break="no" ed="#P" n="52"/>na duplicia esse. Alia, quorum dominium non
+            <lb ed="#P" n="53"/>est apud dantem eleemosynam, ut sunt furta.
+            <lb ed="#P" n="54"/>Alia, quorum est quidem vere dominus, tamen
+            <lb ed="#P" n="55"/>alia ratione obligatur ad reddendum, ut si
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>mutuo acceperat. In priori genere bonorum,
+            <lb ed="#P" n="57"/>quaedam sunt eadem numero restituenda, ut
+            <lb ed="#P" n="58"/>res immobliles, et quae in uno usu non 
+            corrum<lb break="no" ed="#P" n="59"/>puntur, ut vestes, etc. Si ergo ex his fiat 
+            elee<lb break="no" ed="#P" n="60"/>mosyna, nihil fit; atque accipiens statim 
+            te<lb break="no" ed="#P" n="61"/>netur reddere vero domino, cum ipse non sit
+            <lb ed="#P" n="62"/>dominus. Aliae sunt quae sufficienter in eadem
+            <lb ed="#P" n="63"/>specie restituuntur, ut pecunia ; quare, si qui
+            <lb ed="#P" n="64"/>facit ex his eleemosynam, habet unde 
+            resti<lb break="no" ed="#P" n="65"/>tuat, quamvis det eamdem rem numero, quam
+            <lb ed="#P" n="66"/>sustulit furto, transfert dominium ei cui dat,
+            <lb ed="#P" n="67"/>qui propterea manet securus, quia alter non
+            <lb ed="#P" n="68"/>censetur dare aliena, sed propria, cum alias
+            <lb ed="#P" n="69"/>habeat unde restituat. Et haec est sententia
+            <lb ed="#P" n="70"/>communis, Gabr., in 4, distinct. 6, quaest. 4,
+            <lb ed="#P" n="71"/>Major., distinct. 15, quaest. 3. Si vero non 
+            ha<lb break="no" ed="#P" n="72"/>bet alias unde restituat, nihil facit, et accipiens
+            <lb ed="#P" n="73"/>tenetur reddere vero domino, quia fur tunc
+            <lb ed="#P" n="74"/>dat aliena, et non sua, ut magis ex dicendis
+            <lb ed="#P" n="75"/>patebit.
+          </p>
+          <p xml:id="szthvi-b67467-d1e1504">
+            <lb ed="#P" n="76"/>10. De altero genere resolutio. — Circa aliud
+            <lb ed="#P" n="77"/>vero bonorum genus, quorum quis est 
+            domi<lb break="no" ed="#P" n="78"/>nus, distinguendum est; nam vel qui dat 
+            elee<lb break="no" ed="#P" n="79"/>mosynam fit impotens ad restituendum, vel
+            <lb ed="#P" n="80"/>non : si non, factum tenet, quia dat sua, et
+            <lb ed="#P" n="81"/>nulli facit injuriam, quia habet alias unde
+            <lb ed="#P" n="82"/>restituat. Si vero fit impotens, vel ille qui 
+            re<lb break="no" ed="#P" n="83"/>cipit, bona fide recipit, vel mala; si mala,
+            <lb ed="#P" n="84"/>peccat recipiendo, et tenetur solvere debitum
+            <lb ed="#P" n="85"/>alterius. Patet : nam ille qui sic dat, peccat
+            <lb ed="#P" n="86"/>contra justitiam ; injuriam enim facit 
+            credi<lb break="no" ed="#P" n="87"/>tori; sed qui recipit, cooperatur huic 
+            injusti<lb break="no" ed="#P" n="88"/>tiae; ergo etiam peccat contra justitiam. Si
+            <lb ed="#P" n="89"/>autem recipit bona fide, auctores quidam 
+            di<lb break="no" ed="#P" n="90"/>cunt ad nihil teneri, quia neque ratione rei
+            <lb ed="#P" n="91"/>acceptae ; accepit enim rem a vero domino,
+            <lb ed="#P" n="92"/>quae non erat alteri obligata actione reali, sed
+            <lb ed="#P" n="93"/>personali tantum, quae non transit cum re 
+            ip<lb break="no" ed="#P" n="94"/>sa ; neque ratione acceptionis, quia non fuit
+            <lb ed="#P" n="95"/>acceptio injusta, cum bona fide acceperit. 
+            Di<lb break="no" ed="#P" n="96"/>co tamen, si ille qui bona fide accipit, jam
+            <lb ed="#P" n="97"/>bona fide consumpsit, et non factus est ditior,
+            <lb ed="#P" n="98"/>ad nihil teneri ex ratione facta; si tamen non
+            <lb ed="#P" n="99"/>consumpsit, vel antequam consumpsit, 
+            intel<lb break="no" ed="#P" n="100"/>lexit obligationem alterius qui dedit, per se
+            <lb ed="#P" n="101"/>loquendo, credo non posse illam retinere, sed
+            <lb ed="#P" n="102"/>obligari ad solvendum debitum alterius. 
+            Ra<lb break="no" ed="#P" n="103"/>tio est, quia tota illa datio et acceptio fuit 
+            in<lb break="no" ed="#P" n="104"/>justa, et per accidens ille excusabitur ex 
+            igno<lb break="no" ed="#P" n="105"/>rantia ; et ideo hac ablata, retentio incipit 
+            es<lb break="no" ed="#P" n="106"/>se injusta; unde solvitur illorum auctorum
+            <lb ed="#P" n="107"/>argumentum : nam obligatio oritur ex 
+            acce<lb break="no" ed="#P" n="108"/>ptione, quae per se injusta est, licet per 
+            acci<lb break="no" ed="#P" n="109"/>dens in hoc excusetur. Dico autem per se; per
+            <lb ed="#P" n="110"/>accidens namque interdum excusari posset,
+            <pb ed="#P" n="682"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>si sine magno gravamine, et exponendo se
+            <lb ed="#P" n="2"/>gravibus necessitatibus ncn posset reddere.
+            <lb ed="#P" n="3"/>Addo ultimo, si is qui dedit eam 
+            eleemosy<lb break="no" ed="#P" n="4"/>nam, postea alia via satisfecerit illi creditori,
+            <lb ed="#P" n="5"/>vel quia creditor remittit , vel quia factus est
+            <lb ed="#P" n="6"/>ditior, in eo casu, eum qui recepit, manere 
+            li<lb break="no" ed="#P" n="7"/>berum, quia injustitia non fuerat contra 
+            do<lb break="no" ed="#P" n="8"/>nantem, sed contra tertium creditorem, cui
+            <lb ed="#P" n="9"/>est satisfactum, et ipse alias habuit rem illam
+            <lb ed="#P" n="10"/>ex voluntate veri domini.
+          </p>
+          <p xml:id="szthvi-b67467-d1e1608">
+            <lb ed="#P" n="11"/>11. Quarta conclusio.—bico quarto: 
+            etiam<lb break="no" ed="#P" n="12"/>si homo habeat dominium et 
+            administratio<lb break="no" ed="#P" n="13"/>nem illorum bonorum, non tenetur ex eis 
+            fa<lb break="no" ed="#P" n="14"/>cere eleemosynam, si sibi sint necessaria, 
+            ser<lb break="no" ed="#P" n="15"/>vata tamen proportione et ratione 
+            necessi<lb break="no" ed="#P" n="16"/>tatis proximi. Ratio est, quia bona temporalia
+            <lb ed="#P" n="17"/>sunt hujusmodi conditionis, ut non possint
+            <lb ed="#P" n="18"/>donari alteri, nisi seipsum iis privet is qui
+            <lb ed="#P" n="19"/>donat ; nemo autem tenetur privare se rebus
+            <lb ed="#P" n="20"/>necessariis, ut aliis subveniat, caeteris 
+            pari<lb break="no" ed="#P" n="21"/>bus, quia dilectio sui est prior dilectione 
+            al<lb break="no" ed="#P" n="22"/>terius. Sed quia in particulari tota difficultas
+            <lb ed="#P" n="23"/>consistit in recta comparatione facienda, 
+            ad<lb break="no" ed="#P" n="24"/>vertendum est haec bona aliquando esse 
+            ne<lb break="no" ed="#P" n="25"/>cessaria ad conservationem propriae vitae, sub
+            <lb ed="#P" n="26"/>qua includo familiam; interdum vero esse
+            <lb ed="#P" n="27"/>solum necessaria ad statum et decentiam
+            <lb ed="#P" n="28"/>quamdam ; interdum esse superflua, id est,
+            <lb ed="#P" n="29"/>neutri horum necessaria. Rur-us is, qui 
+            fac<lb break="no" ed="#P" n="30"/>turus est eleemosynam, potest esse privata
+            <lb ed="#P" n="31"/>persona, vel paterfamilias, aut alius, qui ex
+            <lb ed="#P" n="32"/>officio teneatur providere iis qui sunt sub ejus
+            <lb ed="#P" n="33"/>cura. Rursus comparari potest hujusmodi 
+            ho<lb break="no" ed="#P" n="34"/>mo ad alium existentem vel in extrema 
+            ne<lb break="no" ed="#P" n="35"/>cessitate, vel in gravi, vel in communi. Item
+            <lb ed="#P" n="36"/>vel ad personam privatam, vel ad commune
+            <lb ed="#P" n="37"/>bonum, seu personam ex qua commune 
+            bo<lb break="no" ed="#P" n="38"/>num dependeat. Quid ergo in his 
+            comparatio<lb break="no" ed="#P" n="39"/>nibus sit dicendum, sequentibus duabus 
+            sec<lb break="no" ed="#P" n="40"/>tonibus exponam.
+          </p>
+          <p xml:id="szthvi-b67467-d1e1676">
+            <lb ed="#P" n="41"/>12. Quibus personis fteri debeat cleemosgna.
+            <lb ed="#P" n="42"/>— Quaerendum hic ultimo esset quibus 
+            perso<lb break="no" ed="#P" n="43"/>nis fieri debeat eleemosyna. Sed satis intelligi
+            <lb ed="#P" n="44"/>potest ex supra dictis, tum in hac ipsa 
+            dispu<lb break="no" ed="#P" n="45"/>tatione, sect. 1, num. 5, tum disput. 4, sect.
+            <lb ed="#P" n="46"/>1; est enim eleemosyna cujusdam miseriae
+            <lb ed="#P" n="47"/>sublevatio. Vide D. Thomam 2. 2, quaest. 32,
+            <lb ed="#P" n="48"/>artic. 9, et in 4, distinct. 15, quaest. 2, art. 6;
+            <lb ed="#P" n="49"/>Richard., art. 8, quaest. 7 et 8; Durand.,
+            <lb ed="#P" n="50"/>quaest. 29; Palud., quaest. 3, art. 6; Gabriel.,
+            <lb ed="#P" n="51"/>disput. 16, quaest. 4, artic. 2, conclus. 6 et 8;
+            <lb ed="#P" n="52"/>Alens., 4 part., quaest. 33, membr. 2; 
+            Syl<lb break="no" ed="#P" n="53"/>vest., verbo Eleemosyna, quaest. 2 et 3, ct
+            <lb ed="#P" n="54"/>alios Summistas eodem verbo ; Navar., super
+            <lb ed="#P" n="55"/>cap. Quamobrem, de Poenit., distinct. 1, num,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>6; Sotum, in Opuscul. Deliberatio in causa
+            <lb ed="#P" n="57"/>pauperum ; Medina, Cod. de Eleemosyna, 
+            ti<lb break="no" ed="#P" n="58"/>tulo De his quibus danda est eleemosyna, cum
+            <lb ed="#P" n="59"/>sequenti.
+          </p>
+        </div>
+        <div xml:id="szthvi-b67467-Dd1e1723">
+          <head xml:id="szthvi-b67467-Hd1e1725">Sectio 3</head>
+          <head xml:id="szthvi-b67467-Hd1e1727" type="question-title">In qua necessitate teneatur homo eleemosynam facere ex bonis omnino superfluis</head>
+          <p xml:id="szthvi-b67467-d1e1730">
+            <lb ed="#P" n="60"/>SECTIO III.
+            <lb ed="#P" n="61"/>In qua necessitate teneatur homo eleemosynam
+            <lb ed="#P" n="62"/>facere ex bonis omnino superfluis.
+          </p>
+          <p xml:id="szthvi-b67467-d1e1739">
+            <lb ed="#P" n="63"/>1. Prima sententia. — Prima sententia 
+            tan<lb break="no" ed="#P" n="64"/>tum obligat sub mortali ad dandum ex 
+            su<lb break="no" ed="#P" n="65"/>perfluis in extrema necessitate; ita Alens.,
+            <lb ed="#P" n="66"/>4 part., quaest. 34; Gerson., part. 2, alphab.
+            <lb ed="#P" n="67"/>32, litt.0; Pano in cap. Si vero, de 
+            Jure<lb break="no" ed="#P" n="68"/>jurando; Tn, in cap. Sicul hi, 
+            dis<lb break="no" ed="#P" n="69"/>unct. 47; Gabriel., in 4, distinct. 16, quaest. 1,
+            <lb ed="#P" n="70"/>conclus. 3; Joan. Medin., tractat. de 
+            Eleemo<lb break="no" ed="#P" n="71"/>syna, quaest. 3, et alii. Ratio est, quia quando
+            <lb ed="#P" n="72"/>non est extrema necessitas, non est 
+            simplici<lb break="no" ed="#P" n="73"/>ter necessitas; sed praeceptum affirmans 
+            obli<lb break="no" ed="#P" n="74"/>gat tantum in necessitate simpliciter : ergo.
+            <lb ed="#P" n="75"/>Confirmatur primo, quia non tenetur homo
+            <lb ed="#P" n="76"/>magis subvenire alteri, quam sihi; sed ex
+            <lb ed="#P" n="77"/>praecepto non tenetur subvenire sibi, nisi in
+            <lb ed="#P" n="78"/>extrema necessitate, ita ut, licet permittat se
+            <lb ed="#P" n="79"/>pati gravem necessitatem, ut thesaurizet haec
+            <lb ed="#P" n="80"/>bona superflua, non peccat mortaliter : 
+            er<lb break="no" ed="#P" n="81"/>go, etc. Secundo, quia alioquin damnanda 
+            es<lb break="no" ed="#P" n="82"/>set major divitum multitudo, qui ideo fere
+            <lb ed="#P" n="83"/>augent divitias, quia de superfluis vix in 
+            ex<lb break="no" ed="#P" n="84"/>trema , nedum minori necessitate 
+            largiun<lb break="no" ed="#P" n="85"/>tur.
+          </p>
+          <p xml:id="szthvi-b67467-d1e1791">
+            <lb ed="#P" n="86"/>2. Secunda sententia.— Secunda sententia
+            <lb ed="#P" n="87"/>est, teneri sub mortali ad danda haec omnia
+            <lb ed="#P" n="88"/>bona superflua communibus pauperibus, vel
+            <lb ed="#P" n="89"/>saltem ad faciendam eleemosynam ex illis;
+            <lb ed="#P" n="90"/>ita D. Thomas 2. 2, quaest. 606, artic. 7, et in
+            <lb ed="#P" n="91"/>4, distinct. 15, quaest. 2, art. 1, quaestiunc. 4;
+            <lb ed="#P" n="92"/>Palud., q. 3; Hichard., art. 2, q. 2; Abulens.,
+            <lb ed="#P" n="93"/>in cap. 6 Matth., q. 34; Lyran. et Carthus.,
+            <lb ed="#P" n="94"/>super illud 4 Joan. 3: Qui habuerit 
+            substan<lb break="no" ed="#P" n="95"/>tiam Tnjus mundi ; Cajetan. 9. 2, quaest. 32,
+            <lb ed="#P" n="96"/>art. 5, et in opusc. de Praecepto eleemosynae,
+            <lb ed="#P" n="97"/>num. 2, et alii. Fundamenta hujus sententiae
+            <lb ed="#P" n="98"/>primo sumuntur ex Scriptura, quae absolute
+            <lb ed="#P" n="99"/>praecipit divitibus eleemosynas facere his 
+            pau<lb break="no" ed="#P" n="100"/>peribus , qui non desunt in republica, qui
+            <lb ed="#P" n="101"/>non sunt, nisi qui communes necessitates 
+            pa<lb break="no" ed="#P" n="102"/>tiuntur. Unde Deuter. decimo quinto, Eccles.
+            <lb ed="#P" n="103"/>4, 1 Joan. 3, et Jacob. 5, dicitur absolute 
+            di<lb break="no" ed="#P" n="104"/>vites congregantes, et non distribuentes, 
+            the<lb break="no" ed="#P" n="105"/>saurizare sibi iram; et 2 ad Corinth. 8: 7n
+            <lb ed="#P" n="106"/>praezenti tempore vestra abundantia illorum,
+            <lb ed="#P" n="107"/>id est egentium, inopiam suppleat ; 1 Timot.
+            <pb ed="#P" n="683"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ultim.: Preecipe divitibus facile tribuere, etc.
+            <lb ed="#P" n="2"/>Praeterea Patres hac in re loquuntur 
+            rigoro<lb break="no" ed="#P" n="3"/>sissime, nominatim Dasil., hom. in illud Luc.
+            <lb ed="#P" n="4"/>129: Destruam horrea, eic.; Nissen.. orat. de
+            <lb ed="#P" n="5"/>Pauperibus amandis; Nazianz., orat. ejusd.
+            <lb ed="#P" n="6"/>argument. ; Ambros., serm. 81; Hieron., in
+            <lb ed="#P" n="7"/>regula Monach.; August., in Psalm. 147, et
+            <lb ed="#P" n="8"/>serm. 219; Chrysostom., homil. 34 ad 
+            Popu<lb break="no" ed="#P" n="9"/>lum. Summa eorum est, divites esse 
+            dispen<lb break="no" ed="#P" n="10"/>satores constitutos a Deo bonorum eorum quae
+            <lb ed="#P" n="11"/>sibi sunt superflua, et esse raptores et 
+            latro<lb break="no" ed="#P" n="12"/>nes si non distribuant, etc. Nec faciunt 
+            men<lb break="no" ed="#P" n="13"/>tionem alterius necessitatis , nisi ejus quae
+            <lb ed="#P" n="14"/>communiter occurrit. Ratio denique cst, quia
+            <lb ed="#P" n="15"/>haec bona temporalia, si superflua sint, jure
+            <lb ed="#P" n="16"/>naturae sunt indigentium; ergo non possunt
+            <lb ed="#P" n="17"/>sine peccato retineri, si aliqui indigeant. 
+            An<lb break="no" ed="#P" n="18"/>tecedens explicatur, et probatur ex D. Thoma
+            <lb ed="#P" n="19"/>2. 2. q. 66, art. 7, quia haec bona ex Dei 
+            in<lb break="no" ed="#P" n="20"/>stitutione sunt communia : jure autem 
+            gen<lb break="no" ed="#P" n="21"/>tium sunt divisa, quae divisio non potest esse
+            <lb ed="#P" n="22"/>justa, et rationi consona, nisi hac lege facta
+            <lb ed="#P" n="23"/>intelligatur, ut quae propriis dominis fuerunt
+            <lb ed="#P" n="24"/>superflua, aliis efficiantur communia ; nam
+            <lb ed="#P" n="25"/>oppositum esset contra finem ipsarum rerum,
+            <lb ed="#P" n="26"/>et hoc indicant Patres, cum vocant divites
+            <lb ed="#P" n="27"/>dispensatores.
+          </p>
+          <p xml:id="szthvi-b67467-d1e1905">
+            <lb ed="#P" n="28"/>3. Tertia sententia. — Tertia sententia
+            <lb ed="#P" n="29"/>est obligari homines ad dandum ex his bonis
+            <lb ed="#P" n="30"/>etiam in gravi necessitate proximi, non 
+            au<lb break="no" ed="#P" n="31"/>tem in communi ; ita Alens., sibi contrarius,
+            <lb ed="#P" n="32"/>in 3 part., q. 65, ut refert Medina, codice de
+            <lb ed="#P" n="33"/>Eleemosyna, q. 3; Antonin. , 2 part., tit. 1,
+            <lb ed="#P" n="34"/>cap. 294, S Pro majori ; Armilla, verbo 
+            ZElee<lb break="no" ed="#P" n="35"/>mosna, citans alios; Navar. , in Manuali, c.
+            <lb ed="#P" n="36"/>44. num. 5; Adrian. , Quodlib. 1, art. 2, htt.
+            <lb ed="#P" n="37"/>G, et Quodlib. 12, art. 2, propos. 2, ubi citat
+            <lb ed="#P" n="38"/>Valud., in A4, distinct. 15; Sotus, de Justitia,
+            <lb ed="#P" n="39"/>lib. 5, q. 8, art. 1. Ratio est , quia divites
+            <lb ed="#P" n="40"/>sunt veri domini etiam superfluorum, in 
+            qua<lb break="no" ed="#P" n="41"/>cumque quantitate ; supponimus enim justo
+            <lb ed="#P" n="42"/>titulo ea bona possidere ; nec agimus de 
+            bo<lb break="no" ed="#P" n="43"/>nis clericorum spirituali aliquo titnlo 
+            compa<lb break="no" ed="#P" n="44"/>ratis, de quibus controversia est, an sint 
+            eo<lb break="no" ed="#P" n="45"/>rum bonorum domini( ut in materia de 
+            Be<lb break="no" ed="#P" n="46"/>neficiis tractatur ) ; hinc fit divites per se 
+            nul<lb break="no" ed="#P" n="47"/>lam facere injuriam retinendo haec superflua,
+            <lb ed="#P" n="48"/>vel in vanos usus prodigendo, nimirum quia
+            <lb ed="#P" n="49"/>sunt domini. Ex quo obiter intelligitur. 
+            pri<lb break="no" ed="#P" n="50"/>mo, in illis Sanctorum dictis aliquam esse
+            <lb ed="#P" n="51"/>exaggerationem, atque adeo intelligenda esse
+            <lb ed="#P" n="52"/>secundum quamdam similitudinem, quatenus
+            <lb ed="#P" n="53"/>tales domini possunt peccare mortaliter 
+            occa<lb break="no" ed="#P" n="54"/>sione bonorum temporalium, sicut raptores
+            <lb ed="#P" n="55"/>et fures, et interdum gravius. Unde secundo
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>intelligitur, seclusa indigentia proximorum,
+            <lb ed="#P" n="57"/>nullam esse obligationem conferendi aliis
+            <lb ed="#P" n="58"/>haec bona. Atque ita tandem fieri, 
+            obligatio<lb break="no" ed="#P" n="59"/>nem totam oriri ex necessitate aliorum. 
+            Un<lb break="no" ed="#P" n="60"/>de jam sic concluditur: tota obligatio dandi
+            <lb ed="#P" n="61"/>oritur ex necessitate proximi; ergo talis erit
+            <lb ed="#P" n="62"/>obligatio qualis necessitas; ergo si semper
+            <lb ed="#P" n="63"/>necessitas occurrens est levis, obligatio 
+            sem<lb break="no" ed="#P" n="64"/>per est levis, atque adeo nunquam sub 
+            mor<lb break="no" ed="#P" n="65"/>tali. Et e contrario sola necessitas gravis 
+            in<lb break="no" ed="#P" n="66"/>ducet obligationem sub mortali. Confirmatur
+            <lb ed="#P" n="67"/>primo, quia alias omissio eleemosynae, etiam
+            <lb ed="#P" n="68"/>in singulis levibus necessitatibus, esset 
+            pec<lb break="no" ed="#P" n="69"/>catum mortale, quod est incredibile: sequela
+            <lb ed="#P" n="70"/>patet, quia vel quaelibet, vel nulla est. 
+            Secun<lb break="no" ed="#P" n="71"/>do, quia alias omnis prodigalitas esset 
+            pecca<lb break="no" ed="#P" n="72"/>tum mortale. Tertio, quia non liceret 
+            diviti<lb break="no" ed="#P" n="73"/>bus ad altiorem gradum ascendere 
+            conser<lb break="no" ed="#P" n="74"/>vando divitias, imo neque adificare 
+            sump<lb break="no" ed="#P" n="75"/>tuose.
+          </p>
+          <p xml:id="szthvi-b67467-d1e2014">
+            <lb ed="#P" n="76"/>4. Prima conclusio. — Dico tamcn primo,
+            <lb ed="#P" n="77"/>simpliciter loquendo : divites habentes 
+            super<lb break="no" ed="#P" n="78"/>flua obligantur aliquo modo ex praecepto 
+            mi<lb break="no" ed="#P" n="79"/>sericordia ad faciendum eleemosynam. Haec
+            <lb ed="#P" n="80"/>conclusio , abstrahendo ab obligatione sub
+            <lb ed="#P" n="81"/>mortali vel veniali, videtur omnino certa, et
+            <lb ed="#P" n="82"/>sufficienter convincitur fundamentis secundae
+            <lb ed="#P" n="83"/>sententiae, et ex aliis, quae statim dicemus.
+            <lb ed="#P" n="84"/>Colligi tamen potest ex superius jam dictis,
+            <lb ed="#P" n="85"/>hanc scilicet obligationem genere suo esse sub
+            <lb ed="#P" n="86"/>mortali ; ostendimus enim, charitatem et 
+            mi<lb break="no" ed="#P" n="87"/>sericordiam ex genere suo ita obligare; in
+            <lb ed="#P" n="88"/>particulari vero consideranda erit gravitas
+            <lb ed="#P" n="89"/>materiae, ad discernendum qualis sit 
+            necessi<lb break="no" ed="#P" n="90"/>tas.
+          </p>
+          <p xml:id="szthvi-b67467-d1e2049">
+            <lb ed="#P" n="91"/>5. Secunda conclusio. — Dico secundo: non
+            <lb ed="#P" n="92"/>solum in extrema, sed etiam in gravi 
+            necessi<lb break="no" ed="#P" n="93"/>tate obligat praeceptum hoc sub mortali, eum
+            <lb ed="#P" n="94"/>qui habet superflua. Haec conclusio primo
+            <lb ed="#P" n="95"/>probatur fundamentis secundae sententiae. 
+            De<lb break="no" ed="#P" n="96"/>inde quia obligatio haec ?n Scriptura sacra 
+            ta<lb break="no" ed="#P" n="97"/>lis significatur ut frequenter occurrat; signum
+            <lb ed="#P" n="98"/>est ergo non agi tantum de extrema, sed
+            <lb ed="#P" n="99"/>etiam, ut minimum, de gravi. Antecedens 
+            pa<lb break="no" ed="#P" n="100"/>tet Matth. 25, ubi propter peccatum 
+            conira<lb break="no" ed="#P" n="101"/>rium huic obligationi damnantur homines;
+            <lb ed="#P" n="102"/>damnantur autem per peccata quae frequenter
+            <lb ed="#P" n="103"/>committuntur. Unde ibi non numerantur 
+            ne<lb break="no" ed="#P" n="104"/>eessitates extremae, sed graves; et Matth. 18,
+            <lb ed="#P" n="105"/>damnatur servus, quia non est misertus 
+            con<lb break="no" ed="#P" n="106"/>servi^sui in gravi necessitate; unde sumitur
+            <lb ed="#P" n="107"/>argumentum : nam si urgere debitorem 
+            mor<lb break="no" ed="#P" n="108"/>tale fuit etiam ei qui videbatur esse in 
+            neces<lb break="no" ed="#P" n="109"/>sitate, quanto magis habenti superflua grave
+            <lb ed="#P" n="110"/>erit non subvenire graviter indigenti ? Secun-
+            <pb ed="#P" n="684"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>do, haec obligatio fundatur in proximi 
+            neces<lb break="no" ed="#P" n="2"/>sitate; ergo si necessitas est gravis, oritur
+            <lb ed="#P" n="3"/>gravis obligatio. Tertio, quia si quis videat
+            <lb ed="#P" n="4"/>domum proximi comburi, aut famam graviter
+            <lb ed="#P" n="5"/>laedi, possitque impedire et non faciat, ex
+            <lb ed="#P" n="6"/>communi consensu est peccatum mortale; 
+            er<lb break="no" ed="#P" n="7"/>go mortale erit, si videat grave aliquid pati in
+            <lb ed="#P" n="8"/>vita aut salute corporis, ob indigentiam, nec
+            <lb ed="#P" n="9"/>succurrat.
+          </p>
+          <p xml:id="szthvi-b67467-d1e2119">
+            <lb ed="#P" n="10"/>6. Probatur ultimo eadem conclusio, 
+            argu<lb break="no" ed="#P" n="11"/>menta contrariee sententiee diluendo. — Ultimo
+            <lb ed="#P" n="12"/>ostenditur conclusio respondendo ad 
+            argu<lb break="no" ed="#P" n="13"/>ménta contrariae sententiae in num. 1; 
+            nega<lb break="no" ed="#P" n="14"/>tur enim gravem necessitatem, moraliter et
+            <lb ed="#P" n="15"/>humano modo loquendo, non esse simpliciter
+            <lb ed="#P" n="16"/>necessitatem ; deinde quicquid sit de modo 
+            lo<lb break="no" ed="#P" n="17"/>quendi, materia absque dubio est gravis, et
+            <lb ed="#P" n="18"/>praeceptum alias ex genere suo obligat ad
+            <lb ed="#P" n="19"/>mortale ; falso igitur concluditur obligare 
+            tan<lb break="no" ed="#P" n="20"/>tum in necessitate extrema. Ad primam 
+            con<lb break="no" ed="#P" n="21"/>firmationem negatur primo similitudo; homo
+            <lb ed="#P" n="22"/>enim potest cedere juri suo, et non proximi.
+            <lb ed="#P" n="23"/>Secundo, in his quorum homo est dominus,
+            <lb ed="#P" n="24"/>ut in fama et fortunis, potest interdum sine
+            <lb ed="#P" n="25"/>mortali permittere se graviter laedi, non vero
+            <lb ed="#P" n="26"/>in iis quorum non est dominus, ut in vita et
+            <lb ed="#P" n="27"/>membris, quando facile potest laesionem 
+            vita<lb break="no" ed="#P" n="28"/>re. Ex quo retorquetur argumentum ; nam
+            <lb ed="#P" n="29"/>tenetur homo succurrere sibi in gravi 
+            necessi<lb break="no" ed="#P" n="30"/>tate, saltem respectu bonorum quorum non
+            <lb ed="#P" n="31"/>est dominus; sed nullorum bonorum proximi
+            <lb ed="#P" n="32"/>ego sum dominus; ergo teneor illi subvenire,
+            <lb ed="#P" n="33"/>si commode possum, quia teneor illum sicut
+            <lb ed="#P" n="34"/>me diligere. Ad secundam confirmationem,
+            <lb ed="#P" n="35"/>dico primo , si verum est quod in ea sumitur,
+            <lb ed="#P" n="36"/>nos non condemnare divites illos, sed 
+            osten<lb break="no" ed="#P" n="37"/>dere quomodo ipsi se condemnent; nam 
+            pro<lb break="no" ed="#P" n="38"/>pterea fortasse dictum est , difficilius divitem
+            <lb ed="#P" n="39"/>ingredi in regmmn calorum , quam camelum
+            <lb ed="#P" n="40"/>per foramen acus. Secundo, dico non esse tam
+            <lb ed="#P" n="41"/>frequens hoc peccatum, sicut arguendo 
+            indi<lb break="no" ed="#P" n="42"/>catur. Ex his vero colligo primam opinionem
+            <lb ed="#P" n="43"/>practice esse omnino improbabilem, nec 
+            secu<lb break="no" ed="#P" n="44"/>ram in conscientia, quia contraria fere 
+            evi<lb break="no" ed="#P" n="45"/>denter demonstratur ex Scriptura, Patribus et
+            <lb ed="#P" n="46"/>ratione. Et ipsa nullum habet fundamentum,
+            <lb ed="#P" n="47"/>auctoresque ejus vix audent eam affirmare.
+          </p>
+          <p xml:id="szthvi-b67467-d1e2204">
+            <lb ed="#P" n="48"/>7. Tertia conclusio explicatur. — E'st 
+            com<lb break="no" ed="#P" n="49"/>munis, et suadetur. — Occasio. —bDico tertio:
+            <lb ed="#P" n="50"/>qui simpliciter habet superfluum, tenetur sub
+            <lb ed="#P" n="51"/>mortali facere eleemosynam, etiam in 
+            com<lb break="no" ed="#P" n="52"/>munibus necessitatibus generis humani ; non
+            <lb ed="#P" n="53"/>dico teneri in singulis actibus, neque teneri
+            <lb ed="#P" n="54"/>ad dandum omnia, sed absolute teneri; quod
+            <lb ed="#P" n="55"/>hac negatione bene explicatur: si habeat pro-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>positum formale, vel virtuale nunquam dandi
+            <lb ed="#P" n="57"/>eleemosynam, nisi in gravibus necessitatibus,
+            <lb ed="#P" n="58"/>illud est peccatum mortale ex se, nisi fortasse
+            <lb ed="#P" n="59"/>faciat id, quia certus est graves necessitates
+            <lb ed="#P" n="60"/>occurrere. Conclusio est communis, quae, 
+            prae<lb break="no" ed="#P" n="61"/>ter adducta pro secunda sententia in num. 2,
+            <lb ed="#P" n="62"/>confirmatur. Nam ex prima conclusione, 
+            cer<lb break="no" ed="#P" n="63"/>tum est divitem ita se habentem male agere
+            <lb ed="#P" n="64"/>contra misericordiam et charitatem ; sed 
+            ma<lb break="no" ed="#P" n="65"/>teria talis inordinationis est gravis; ergo laesio
+            <lb ed="#P" n="66"/>misericordiae est in materia gravi; ergo 
+            pec<lb break="no" ed="#P" n="67"/>catum mortale. Minorem probo, quia 
+            quam<lb break="no" ed="#P" n="68"/>vis necessitates proximorum videantur leves,
+            <lb ed="#P" n="69"/>tamen aggregatum omnium illarum, 
+            compa<lb break="no" ed="#P" n="70"/>ratum ad genus humanum, vel ad 
+            rempubh<lb break="no" ed="#P" n="71"/>cam, est valde gravis materia; ergo 
+            contem<lb break="no" ed="#P" n="72"/>nere in genere humano totum illud 
+            aggrega<lb break="no" ed="#P" n="73"/>tum miseriae, est laesio charitatis et 
+            misericor<lb break="no" ed="#P" n="74"/>diae in materia gravi; sicut velle furari centum
+            <lb ed="#P" n="75"/>aureos a multis hominibus, ab unoquoque
+            <lb ed="#P" n="76"/>assem, est peccatum mortale, quia licet 
+            re<lb break="no" ed="#P" n="77"/>spectu uniuscujusque sit materia levis, totum
+            <lb ed="#P" n="78"/>tamen est grave.
+          </p>
+          <p xml:id="szthvi-b67467-d1e2276">
+            <lb ed="#P" n="79"/>8. Evasio impugnatur primo.—Impugnatur
+            <lb ed="#P" n="80"/>secundo. — Dices multas materias leves 
+            com<lb break="no" ed="#P" n="81"/>prehensas sub uno actu per modum unius
+            <lb ed="#P" n="82"/>objecti, si non uniantur veluti per modum
+            <lb ed="#P" n="83"/>unius ad componendam unam quantitatem,
+            <lb ed="#P" n="84"/>non sufficere ad objectum peccati mortalis;
+            <lb ed="#P" n="85"/>sicut velle quotidie dicere unum leve 
+            menda<lb break="no" ed="#P" n="86"/>cium, ideo non est peccatum mortale, quia
+            <lb ed="#P" n="87"/>illa inter se non uniuntur. In proposito 
+            au<lb break="no" ed="#P" n="88"/>tem hae leves necessitates non componunt
+            <lb ed="#P" n="89"/>unam gravem, quia ex eis nullum grave 
+            no<lb break="no" ed="#P" n="90"/>cumentum alicui proximo sequitur; non ergo
+            <lb ed="#P" n="91"/>est sufficiens ratio peccati mortalis; et ideo
+            <lb ed="#P" n="92"/>non videtur simile illud de furto, quia ibi 
+            sin<lb break="no" ed="#P" n="93"/>gulae materiae leves componunt unam gravem,
+            <lb ed="#P" n="94"/>et illa simpliciter est acceptio injusta, per 
+            ac<lb break="no" ed="#P" n="95"/>cidens vero est quod sit acceptio ab uno 
+            tan<lb break="no" ed="#P" n="96"/>tum, vel a multis. Sed contra, nam tota haec
+            <lb ed="#P" n="97"/>doctrina demonstrat quod intendimus; licet
+            <lb ed="#P" n="98"/>enim hae leves necessitates non faciant unam
+            <lb ed="#P" n="99"/>gravem respectu unius, faciunt tamen 
+            res<lb break="no" ed="#P" n="100"/>pectu totius reipublicae et communitatis ; 
+            mi<lb break="no" ed="#P" n="101"/>sericordia autem magis inclinat ad bonum
+            <lb ed="#P" n="102"/>commune, quam ad particulare. Secundo, id
+            <lb ed="#P" n="103"/>explicatur in uno et eodem proximo; nam si
+            <lb ed="#P" n="104"/>videret dives aliquis proximum quotidie pati
+            <lb ed="#P" n="105"/>necessitatem, quae in quolibet uno die 
+            consi<lb break="no" ed="#P" n="106"/>derata non esset gravis, illam eo die 
+            contem<lb break="no" ed="#P" n="107"/>nere, non esset mortale; tamen si toto anno
+            <lb ed="#P" n="108"/>contemnat, sine dubio censenda est materia
+            <lb ed="#P" n="109"/>gravis, et peccatum grave, quando illud 
+            ap<lb break="no" ed="#P" n="110"/>prehenditur totum per modum unius objecti,
+            <pb ed="#P" n="685"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>quia gravitas necessitatis non solum pensanda
+            <lb ed="#P" n="2"/>est quasi ex intensione, sed etiam veluti ex
+            <lb ed="#P" n="3"/>extensione et perpetua quadam duratione, et
+            <lb ed="#P" n="4"/>tamen illud objectum solum compositum est
+            <lb ed="#P" n="5"/>ex multis levibus necessitatibus; ergo 
+            simili<lb break="no" ed="#P" n="6"/>ter grave erit, si plures leves necessitates 
+            ve<lb break="no" ed="#P" n="7"/>luti distributae per multos considerentur. 
+            Tan<lb break="no" ed="#P" n="8"/>dem, qui sic se gerit, aliquo modo se exponit
+            <lb ed="#P" n="9"/>periculo omittendi etiam eleemosynam in 
+            gra<lb break="no" ed="#P" n="10"/>vibus necessitatibus, tum propter pravam
+            <lb ed="#P" n="11"/>consuetudinem , tum quia non est facile levem
+            <lb ed="#P" n="12"/>a gravi necessitate distinguere.
+          </p>
+          <p xml:id="szthvi-b67467-d1e2379">
+            <lb ed="#P" n="13"/>9. Sitne contraria opinio probabilis. — Sed
+            <lb ed="#P" n="14"/>quaeres an hoc sit ita certum, ut contrarium
+            <lb ed="#P" n="15"/>non sit practice probabile et securum. Non
+            <lb ed="#P" n="16"/>audeo quidem simpliciter dicere aliam 
+            opi<lb break="no" ed="#P" n="17"/>nionem esse improbabilem, quia habet 
+            aucto<lb break="no" ed="#P" n="18"/>res graves, et aliquas rationes non 
+            contem<lb break="no" ed="#P" n="19"/>nendas ; attamen mihi videtur non admodum
+            <lb ed="#P" n="20"/>secura, et probabilis. Sed ut aliquo modo 
+            mi<lb break="no" ed="#P" n="21"/>tigemus hune rigorem, advertendum est, ad
+            <lb ed="#P" n="22"/>judicandum aliquem habere superflua, multa
+            <lb ed="#P" n="23"/>esse consideranda. Item aliqua posse judicari
+            <lb ed="#P" n="24"/>superflua in ordine ad gravem necessitatem,
+            <lb ed="#P" n="25"/>quae moraliter non censebuntur talia in 
+            or<lb break="no" ed="#P" n="26"/>dine ad communem, quia sicut diversa est
+            <lb ed="#P" n="27"/>necessitas, ita et obligatio et facultas. Primo
+            <lb ed="#P" n="28"/>ergo omnium considerandus est status divitis,
+            <lb ed="#P" n="29"/>et integra ejus decentia. Secundo, 
+            consideran<lb break="no" ed="#P" n="30"/>di sunt eventus et necessitates quae moraliter
+            <lb ed="#P" n="31"/>accidere possunt ac solent homini in tali statu
+            <lb ed="#P" n="32"/>constituto, et personis omnibus quibus ex
+            <lb ed="#P" n="33"/>officio providere tenetur. Tertio, si habeat 
+            fi<lb break="no" ed="#P" n="34"/>lios et familiam, considerandum est posse et
+            <lb ed="#P" n="35"/>debere filiis thesaurizare, et constituere eos
+            <lb ed="#P" n="36"/>in statu, et interdum etiam alias domesticas
+            <lb ed="#P" n="37"/>personas. Denique haec decentia status non
+            <lb ed="#P" n="38"/>consistit in indivisibili, sed habet latitudinem
+            <lb ed="#P" n="39"/>moralem, quamvis tandem signari possit 
+            ter<lb break="no" ed="#P" n="40"/>minus secundum moralem prudentiam. His
+            <lb ed="#P" n="41"/>omnibus consideratis, bona ultra illum 
+            ter<lb break="no" ed="#P" n="42"/>minum censenda sunt superflua in ordine ad
+            <lb ed="#P" n="43"/>gravem necessitatem. In ordine vero ad 
+            com<lb break="no" ed="#P" n="44"/>munem, considerandum est ulterius an possit
+            <lb ed="#P" n="45"/>homo ad aliquem superiorem gradum in 
+            re<lb break="no" ed="#P" n="46"/>publica aspirare, ita ut revera sit idoneus ad
+            <lb ed="#P" n="47"/>illum, et prudenter possit ad id contendere.
+            <lb ed="#P" n="48"/>Nam si tunc ita statuat, non dicentur 
+            super<lb break="no" ed="#P" n="49"/>flua, quae ad hunc transitum servat, ut bene
+            <lb ed="#P" n="50"/>Cajetanus et Navar. ! observarunt; nam hoc
+            <lb ed="#P" n="51"/>est tali candidato conveniens, et quodammodo
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="52"/>in republica necessarium, et per se etiam ad
+            <lb ed="#P" n="53"/>commune bonum confert; quod semper 
+            in<lb break="no" ed="#P" n="54"/>telligitur, nisi in actu occurrant graves 
+            neces<lb break="no" ed="#P" n="55"/>sitas. Et similibus conatibus annumerantur
+            <lb ed="#P" n="56"/>pia opera, ut est aedificatio templi, 
+            scholasti<lb break="no" ed="#P" n="57"/>corum collegium, etc. Nam haec etiam sunt
+            <lb ed="#P" n="58"/>necessaria reipublicae, et pertinent suo modo
+            <lb ed="#P" n="59"/>ad statum, et ad pietatem etiam 
+            christia<lb break="no" ed="#P" n="60"/>nam.
+          </p>
+          <p xml:id="szthvi-b67467-d1e2488">
+            <lb ed="#P" n="61"/>10. Quarta conclusio. — Argumenta posita
+            <lb ed="#P" n="62"/>n. 3, pro hac conclusione valent, uec infirmant
+            <lb ed="#P" n="63"/>tertian conclusionem. — Dico quarto : qui
+            <lb ed="#P" n="64"/>habet superflua simpliciter, et propositum 
+            ha<lb break="no" ed="#P" n="65"/>bet faciendi eleemosynam, et saepe facit,
+            <lb ed="#P" n="66"/>quamvis saepe omittat, et nonnulla etiam in
+            <lb ed="#P" n="67"/>vanos usus expendat, dummodo graves 
+            neces<lb break="no" ed="#P" n="68"/>sitates non praetermittat, non peccat 
+            morta<lb break="no" ed="#P" n="69"/>liter. Hanc conclusionem non negant auctores
+            <lb ed="#P" n="70"/>secundae sententiae, et videtur procedere ex
+            <lb ed="#P" n="71"/>quadam humana aequitate ; et quidem non est
+            <lb ed="#P" n="72"/>asserendum peccatum mortale, ubi sufticienti
+            <lb ed="#P" n="73"/>ratione non convincitur. Deinde hoc 
+            praecep<lb break="no" ed="#P" n="74"/>tum est affirmans, et usus ejus pendet ex 
+            pru<lb break="no" ed="#P" n="75"/>dentia, et quando non occurrit gravis 
+            neces<lb break="no" ed="#P" n="76"/>sitas, umnes fatentur communes necessitates
+            <lb ed="#P" n="77"/>per se singulas non obligare ad mortale; non
+            <lb ed="#P" n="78"/>ergo tenetur hujusmodi dives dare huic vel
+            <lb ed="#P" n="79"/>illi determinate. Ergo si bona fide 
+            proce<lb break="no" ed="#P" n="80"/>dat, et eleemosynam faciat statui 
+            consenta<lb break="no" ed="#P" n="81"/>neam, licet alias in multis deficiat, non erit
+            <lb ed="#P" n="82"/>censendus peccare mortaliter. Accedit quod,
+            <lb ed="#P" n="83"/>si omnes divites ita se gererent, moralter
+            <lb ed="#P" n="84"/>reipublicae et pauperibus sufficienter 
+            sub<lb break="no" ed="#P" n="85"/>veniretur : ergo ille qui sic operatur, quod
+            <lb ed="#P" n="86"/>in se est , suflficienter subvenit necessitati
+            <lb ed="#P" n="87"/>reipublica, et ad hoc valent argumenta 
+            ter<lb break="no" ed="#P" n="88"/>tiae sententiae , quae tamen contra tertiam
+            <lb ed="#P" n="89"/>conclusionem non urgent. Jam enim 
+            expo<lb break="no" ed="#P" n="90"/>suimus quomodo materia hujus peccati sit
+            <lb ed="#P" n="91"/>gravis ; item quando et quomodo liceat 
+            divi<lb break="no" ed="#P" n="92"/>tias servare ad ascendendum ad gradum 
+            di<lb break="no" ed="#P" n="93"/>gnitatis, vel muneris in republica, et ad alia
+            <lb ed="#P" n="94"/>opera pia exequenda. Denique jam damus 
+            lo<lb break="no" ed="#P" n="95"/>cum alicui prodigaltati veniali, quia haec 
+            su<lb break="no" ed="#P" n="96"/>nerflua habent latitudinem, intra quam saepe
+            <lb ed="#P" n="97"/>commnittitur prodigalitas venialis; praeterea
+            <lb ed="#P" n="98"/>non obligamus in rigore ad dandum omnia
+            <lb ed="#P" n="99"/>superflua, saltem sub mortali.
+          </p>
+        </div>
+        <div xml:id="szthvi-b67467-Dd1e2576">
+          <head xml:id="szthvi-b67467-Hd1e2578">Sectio 4</head>
+          <head xml:id="szthvi-b67467-Hd1e2580" type="question-title">Utrum teneamur aliquando facere eleemosynam ex necessariis ad statum, non tamen ad vitam</head>
+          <p xml:id="szthvi-b67467-d1e2583">
+            <pb ed="#P" n="686"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>SECTIO IV.
+            <lb ed="#P" n="2"/>Utrum teneamur aliquando facere eleemosynam
+            <lb ed="#P" n="3"/>ex necessariis ad statum, non tamen ad
+            <lb ed="#P" n="4"/>vitam.
+          </p>
+          <p xml:id="szthvi-b67467-d1e2599">
+            <lb ed="#P" n="5"/>1. Aliorum sententia. — Primae et tertiae
+            <lb ed="#P" n="6"/>sententiae auctorescitati in praecedenti sectione
+            <lb ed="#P" n="7"/>videntur omnuino negare, quia requirunt illas
+            <lb ed="#P" n="8"/>duas conditiones, ut hoc praeceptum obliget,
+            <lb ed="#P" n="9"/>scilicet, habere superflua simphirciter, et ut sit
+            <lb ed="#P" n="10"/>necessitas extrema, vel gravis; quibus 
+            nonni<lb break="no" ed="#P" n="11"/>hil favet divus Thomas 2. 2, quaest. 32, art. 6;
+            <lb ed="#P" n="12"/>tamen alii auctores communiter contrarium
+            <lb ed="#P" n="13"/>tenent, licet non omnes inter se consentiant.
+          </p>
+          <p xml:id="szthvi-b67467-d1e2621">
+            <lb ed="#P" n="14"/>2. Prima conclusio.— Dico primo : si 
+            com<lb break="no" ed="#P" n="15"/>mune bonum, seu respublica sit in gravi 
+            ne<lb break="no" ed="#P" n="16"/>cessitate totius boni communis, tenetur 
+            pri<lb break="no" ed="#P" n="17"/>vata persona illi subvenire etiam ex 
+            necessa<lb break="no" ed="#P" n="18"/>riis ad statum. Conclusio est communiter ab
+            <lb ed="#P" n="19"/>omnibnus recepta. Ratio autem est, quia, 
+            cae<lb break="no" ed="#P" n="20"/>teris paribus, commune bonum est 
+            praeferen<lb break="no" ed="#P" n="21"/>dum proprio in temporalibus. Item 
+            ostende<lb break="no" ed="#P" n="22"/>mus infra debere hominem perdere vitam, si
+            <lb ed="#P" n="23"/>necesse sit, pro tuenda vita reipublicae ; ergo a
+            <lb ed="#P" n="24"/>pari tenetur subire gravem necessitatem, ut
+            <lb ed="#P" n="25"/>subveniat gravi necessitati reipublicae. 
+            Deni<lb break="no" ed="#P" n="26"/>que hujusmodi gravis necessitas republicae raro
+            <lb ed="#P" n="27"/>erit sine extrema necessitate multorum 
+            parti<lb break="no" ed="#P" n="28"/>cularium ; ostendemus autem debere hominem
+            <lb ed="#P" n="29"/>ex his bonis subvenire extremae necessitati 
+            al<lb break="no" ed="#P" n="30"/>terius; ergo, etc. Ubi advertendum est 
+            gra<lb break="no" ed="#P" n="31"/>vem necessitatem non dici, illam quae quasi
+            <lb ed="#P" n="32"/>per accidens resultat in republica ex multis
+            <lb ed="#P" n="33"/>necessitatibus communibus, ut dicebamus 
+            sec<lb break="no" ed="#P" n="34"/>tione praecedenti, num. 8, sed gravem dici
+            <lb ed="#P" n="35"/>quae per se exponit totam rempublicam, vel
+            <lb ed="#P" n="36"/>commune bonum ejus, gravi periculo.
+          </p>
+          <p xml:id="szthvi-b67467-d1e2674">
+            <lb ed="#P" n="37"/>3. Secunda conclusio. — Dico secundo: si
+            <lb ed="#P" n="38"/>proximus quilibet sit in extrema necessitate,
+            <lb ed="#P" n="39"/>tenetur quilibet homo subvenire illi, etiam ex
+            <lb ed="#P" n="40"/>necessariis ad statum. Probatur primo, quia
+            <lb ed="#P" n="41"/>in ordine charitatis tenetur homo magis 
+            dili<lb break="no" ed="#P" n="42"/>gere vitam proximi quam statum suum. Item
+            <lb ed="#P" n="43"/>qui extreme indiget, habet jus naturale
+            <lb ed="#P" n="44"/>utendi bonis alterius, etiam necessariis illi ad
+            <lb ed="#P" n="45"/>statum, et potest illa accipere, neque alter
+            <lb ed="#P" n="46"/>potest prohibere sine injuria; ergo tenebitur
+            <lb ed="#P" n="47"/>ipse etiam dare illi, et servare alteri illud jus,
+            <lb ed="#P" n="48"/>praecipue habita ratione charitatis.
+          </p>
+          <p xml:id="szthvi-b67467-d1e2703">
+            <lb ed="#P" n="49"/>4. Objectio prima. — Ad primam 
+            objectio<lb break="no" ed="#P" n="50"/>nem.— Ad secundam quid VFict. et Nav. 
+            res<lb break="no" ed="#P" n="51"/>pondeant. — Non omnino satisfaciunt. — Sed
+            <lb ed="#P" n="52"/>contra inferes : ergo si aliquis minetur inter-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>fecturum seipsum, nisi dem centum aureos,
+            <lb ed="#P" n="54"/>tenebor dare, ut vitam ejus tuear. Secundo, 
+            se<lb break="no" ed="#P" n="55"/>quitur teneri divitem dare magnam pecuniae
+            <lb ed="#P" n="56"/>vim, etiam necessariam ad statum, alicui,
+            <lb ed="#P" n="57"/>verbi gratia, ne occidat inimicum quem habet
+            <lb ed="#P" n="58"/>subjectum, quod videtur onerosum. Tertio, si
+            <lb ed="#P" n="59"/>esset infirmus morti proximus, nec posset 
+            sa<lb break="no" ed="#P" n="60"/>nari nisi exquisita medicina magni valoris,
+            <lb ed="#P" n="61"/>teneretur dives ex necessariis ad statum illi
+            <lb ed="#P" n="62"/>providere, et similia. Ad primum communis
+            <lb ed="#P" n="63"/>responsio est, illum non esse in extrema 
+            ne<lb break="no" ed="#P" n="64"/>cessitate, sed in extrema malitia. Addo tamen,
+            <lb ed="#P" n="65"/>quod dixi in prima sect., num. 7, si forte id
+            <lb ed="#P" n="66"/>oriretur ex magna passione, et quantitas non
+            <lb ed="#P" n="67"/>esset magna, atque adeo posset aliquis sine
+            <lb ed="#P" n="68"/>gravi detrimento id facere, interdum teneri ;
+            <lb ed="#P" n="69"/>tamen, moraliter et communiter loquendo,
+            <lb ed="#P" n="70"/>raro occurrit haec obligatio. Ad secundum,
+            <lb ed="#P" n="71"/>Victoria, Relectione de Homicidio, Navar. et
+            <lb ed="#P" n="72"/>alii dicunt conclusionem esse intelligendam
+            <lb ed="#P" n="73"/>de necesitate quae provenit quasi ex ordine
+            <lb ed="#P" n="74"/>naturali, non vero ex illa quae provenit ex
+            <lb ed="#P" n="75"/>malitia hominum. Nam haec potest occurrere
+            <lb ed="#P" n="76"/>infiniti modis, et saepe iniquissimis; unde si
+            <lb ed="#P" n="77"/>illa esset attendenda, esset intolerabile onus,
+            <lb ed="#P" n="78"/>et perturbatio contra rempublicam. Sed 
+            re<lb break="no" ed="#P" n="79"/>vera licet haec differentia non videatur 
+            negli<lb break="no" ed="#P" n="80"/>genda, non tamen omnino satisfacit; nam
+            <lb ed="#P" n="81"/>causa propter quam charitas, et misericordia
+            <lb ed="#P" n="82"/>obligant, non est causa unde oritur 
+            necessi<lb break="no" ed="#P" n="83"/>tas, sed est ipsa neeessitas; ergo si haec vere
+            <lb ed="#P" n="84"/>adest, et aliunde est etiam sufliciens facultas,
+            <lb ed="#P" n="85"/>erit etiam obligatio, undecunque orta sit 
+            ne<lb break="no" ed="#P" n="86"/>cessitas. Quare crediderim, si pretium pro
+            <lb ed="#P" n="87"/>tali vita necessarium esset moderatum, et non
+            <lb ed="#P" n="88"/>nimis necessarium habenti, posse interdum
+            <lb ed="#P" n="89"/>teneri ad illud dandum. Unde advertendum
+            <lb ed="#P" n="90"/>est haec temporalia bona, quamvis sint 
+            infe<lb break="no" ed="#P" n="91"/>rioris ordinis, esse tamen instrumenta 
+            huma<lb break="no" ed="#P" n="92"/>nae vitae et humanarum actionum, et 
+            inter<lb break="no" ed="#P" n="93"/>dum posse magnam quantitatem divitiarum
+            <lb ed="#P" n="94"/>praeferri vitae alicujus vulgaris hominis, quia
+            <lb ed="#P" n="95"/>etiam sunt necessariae communi bono, et 
+            con<lb break="no" ed="#P" n="96"/>servare etiam proprium statum est moraliter
+            <lb ed="#P" n="97"/>valde necessarium, et ideo non est obligandus
+            <lb ed="#P" n="98"/>facile homo ut cadat a statu; attamen ut eo
+            <lb ed="#P" n="99"/>retento aliquam in eo patiatur necessitatem,
+            <lb ed="#P" n="100"/>obligari potest. Et hoc modo limitanda est
+            <lb ed="#P" n="101"/>conclusio, praesertim in necessitaübus, quae
+            <lb ed="#P" n="102"/>non a natura, sed ex hominum libertate 
+            pen<lb break="no" ed="#P" n="103"/>dent ; et eodem modo respondendum est ad
+            <lb ed="#P" n="104"/>tertium, quamvis non displiceat quod 
+            Victo<lb break="no" ed="#P" n="105"/>ria supra, et Soto, 4 de Justitia, quaest. 7,
+            <lb ed="#P" n="106"/>art. 1, ad 4, tradunt.
+          </p>
+          <p xml:id="szthvi-b67467-d1e2833">
+            <lb ed="#P" n="107"/>5. Tertia conclusio. — Dico tertio: inter-
+            <pb ed="#P" n="687"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>dum potest quis obligari ut subveniat proximo
+            <lb ed="#P" n="2"/>ex bonis aliquo modo necessariis ad statum,
+            <lb ed="#P" n="3"/>proximo existenti, non in extrema, sed in 
+            gra<lb break="no" ed="#P" n="4"/>vissima quadam necessitate. Haec suadetur ex
+            <lb ed="#P" n="5"/>Scriptura, et Patribus, sectione praecedenti,
+            <lb ed="#P" n="6"/>num. 2, indicatis. Praeterea Augustinus, in 1
+            <lb ed="#P" n="7"/>epist. Joan., tract. 5: A creditore angustiatur
+            <lb ed="#P" n="8"/>frater tuus, vide si misereris, si habes mundi
+            <lb ed="#P" n="9"/>facultates ; furte dicis : duturus sum pecuniam
+            <lb ed="#P" n="10"/>meam, ne iile angustiam patiatur? si hoc tibi
+            <lb ed="#P" n="11"/>responderit cor tuum, dilectio Patris non est
+            <lb ed="#P" n="12"/>in te, etc. Ratione etiam probatur; nam fieri
+            <lb ed="#P" n="13"/>potesi ut, quamvis proximus non sit in 
+            ex<lb break="no" ed="#P" n="14"/>trema necessitate vitae, sit tamen in extremo
+            <lb ed="#P" n="15"/>periculo gravis infamiae, vel similis injuriae, et
+            <lb ed="#P" n="16"/>illa est necessitas gravissima; ergo, qui potest
+            <lb ed="#P" n="17"/>non magna jactura divitiarum impedire illud
+            <lb ed="#P" n="18"/>malum, tenetur, quamvis bona illa non sint
+            <lb ed="#P" n="19"/>superflua omnino statui. Ratio enim charitatis
+            <lb ed="#P" n="20"/>postulat ut praeferam tantum bonum proximi
+            <lb ed="#P" n="21"/>meo incommodo non magno. Similis est casus
+            <lb ed="#P" n="22"/>carceris, vel captivitatis perpetuae; bona enim
+            <lb ed="#P" n="23"/>his malis contraria sunt altioris ordinis quam
+            <lb ed="#P" n="24"/>divitiae. Addo praeterea circa bona externa,
+            <lb ed="#P" n="25"/>accidere posse ut proximus in omnibus et
+            <lb ed="#P" n="26"/>maximis fortunis suis detrimentum patiatur,
+            <lb ed="#P" n="27"/>si hic et nunc non subveniam de meis, sine
+            <lb ed="#P" n="28"/>gravi jactura proprii status; tunc ergo etiam
+            <lb ed="#P" n="29"/>ratio charitatis postulat ut illi dicto modo 
+            sub<lb break="no" ed="#P" n="30"/>veniam; patent consequentiae, quia moraliter
+            <lb ed="#P" n="31"/>loquendo tunc possum, et tempus est maximae
+            <lb ed="#P" n="32"/>necessitatis; ergo tunc obligat praeceptum
+            <lb ed="#P" n="33"/>affirmativum. Quod etiam credibilius fiet, 
+            ad<lb break="no" ed="#P" n="34"/>vertendo, licet obligatio misericordiae oriatur
+            <lb ed="#P" n="35"/>ab ipsa natura, tamen ex conjunctione 
+            cha<lb break="no" ed="#P" n="36"/>ritatis majorem et altiorem fieri; nam 
+            chari<lb break="no" ed="#P" n="37"/>tas naturam perficit ; unde rationabile est ut
+            <lb ed="#P" n="38"/>ad majora signa et effectus benevolentiae 
+            in<lb break="no" ed="#P" n="39"/>clinet et obliget. Quapropter Doctores sancti
+            <lb ed="#P" n="40"/>obligationem hanc magis in charitate quam in
+            <lb ed="#P" n="41"/>natura fundant. Accedit, quia non dicimus
+            <lb ed="#P" n="42"/>teneri aliquem ad subveniendum proximo,
+            <lb ed="#P" n="43"/>exponendo se aequali necessitati, imo neque
+            <lb ed="#P" n="44"/>subeundo gravem simpliciter, sed solum cum
+            <lb ed="#P" n="45"/>sine magna incommoditate potest, licet non
+            <lb ed="#P" n="46"/>sit de rebus omnino superfluis, quod etiam
+            <lb ed="#P" n="47"/>magis constabit et sequenti sectione.
+          </p>
+          <p xml:id="szthvi-b67467-d1e2944">
+            <lb ed="#P" n="48"/>6. Difficultas quedam ea doctriua divi 
+            Tho<lb break="no" ed="#P" n="49"/>me. — Sed superest difficultas, quia divus
+            <lb ed="#P" n="50"/>Thomas in omnibus videtur nobis adversari;
+            <lb ed="#P" n="51"/>articulo enim 6, quaest. 32, aiv esse laudabile,
+            <lb ed="#P" n="52"/>de necessariis ad vitam subvenire publico
+            <lb ed="#P" n="53"/>bono, et idem dicit statim de eleemosyna facta
+            <lb ed="#P" n="54"/>ex necessariis ad statum, unde indicat illud
+            <lb ed="#P" n="55"/>esse consilii, non praecepti; et postea subdit
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>esse inordinatum tot dare eleemosynas, ut non
+            <lb ed="#P" n="57"/>possit homo convenienter vivere secundum
+            <lb ed="#P" n="58"/>statum, et solum excipit extremam 
+            necessita<lb break="no" ed="#P" n="59"/>tem privatae personae, vel gravissimam 
+            reipu<lb break="no" ed="#P" n="60"/>blicae. Respondetur doctrinam D. Thomae esse
+            <lb ed="#P" n="61"/>prorsus eamdem cum ea quam tradidimus, ut
+            <lb ed="#P" n="62"/>evidenter patet ex eodem, in quaest. 57, artic.
+            <lb ed="#P" n="63"/>1, ad 4, et quaest. 118, artic. 4, ad secundum.
+            <lb ed="#P" n="64"/>Nimirum hoc loco obscurius est locutus, quia
+            <lb ed="#P" n="65"/>multa voluit paucis complecti. Quapropter, in
+            <lb ed="#P" n="66"/>citato articulo sexto, solum intendit docere
+            <lb ed="#P" n="67"/>quid in hac materia sit bonum, quidve malum.
+            <lb ed="#P" n="68"/>Unde laudabile ibi non significat consilium,
+            <lb ed="#P" n="69"/>vel praeceptum, vel tantum in consilio, quod
+            <lb ed="#P" n="70"/>D. Thomas reliquit definiendum de ordine
+            <lb ed="#P" n="71"/>charitatis. In secundo autem dicto, quod sit
+            <lb ed="#P" n="72"/>inordinatum tot dare eleemosynas, etc., loqui
+            <lb ed="#P" n="73"/>videtur de homine qui habet familiam, et alias
+            <lb ed="#P" n="74"/>obligationes. Quamvis etiam dici possit in
+            <lb ed="#P" n="75"/>articulo quinto duo capita posuisse 
+            obliga<lb break="no" ed="#P" n="76"/>tionis eleemosyn»e, scilicet, extremam 
+            neces<lb break="no" ed="#P" n="77"/>sitatem, et superfluum simpliciter, quia 
+            mora<lb break="no" ed="#P" n="78"/>liter, et attenta hominum conditione, quodlibet
+            <lb ed="#P" n="79"/>horum per se sufficit ad hanc obligationem
+            <lb ed="#P" n="80"/>inducendam ; hoc ergo sensu dicit in quaest.
+            <lb ed="#P" n="81"/>32, ex solis necessariis ad statum per se non
+            <lb ed="#P" n="82"/>oriri obligationem; non tamen negat quin
+            <lb ed="#P" n="83"/>aliunde ex magna necessitate proximi, attento
+            <lb ed="#P" n="84"/>ordine charitatis, possit aliquando oriri. Alia
+            <lb ed="#P" n="85"/>quaestio hic supererat, an ex necessariis ad
+            <lb ed="#P" n="86"/>vitam teneatur quis, vel certe possit honeste
+            <lb ed="#P" n="87"/>facere eleemosynam ; sed in disputat. 9 
+            me<lb break="no" ed="#P" n="88"/>lius expedietur, agendo de ordine servando in
+            <lb ed="#P" n="89"/>operibus misericordiae.
+          </p>
+        </div>
+        <div xml:id="szthvi-b67467-Dd1e3041">
+          <head xml:id="szthvi-b67467-Hd1e3043">Sectio 5</head>
+          <head xml:id="szthvi-b67467-Hd1e3045" type="question-title">Utrum, cum praeceptum eleemosynae obligat, necesse sit donare, vel satis sit mutuare</head>
+          <p xml:id="szthvi-b67467-d1e3048">
+            <lb ed="#P" n="90"/>SECTIO V.
+            <lb ed="#P" n="91"/>Utrum, cum praeceptum eleemosynae obligat,
+            <lb ed="#P" n="92"/>necesse sit donare, vel satis sit mutuare.
+          </p>
+          <p xml:id="szthvi-b67467-d1e3057">
+            <lb ed="#P" n="93"/>1. Prima sententia, ejusque ratio. — 
+            Confir<lb break="no" ed="#P" n="94"/>matur primo. — Confir natur secundo. — 
+            Pri<lb break="no" ed="#P" n="95"/>ma sententia docet semper satis esse mutuare;
+            <lb ed="#P" n="96"/>ita habet Navarrus, in Manuali, c. 17, num. 61,
+            <lb ed="#P" n="97"/>et cap. 24, num. 5; Covar., regul. Peccatum,
+            <lb ed="#P" n="98"/>part. 2, 8 1, num. 3, secuti Adrianum, 
+            Quod<lb break="no" ed="#P" n="99"/>lib. 4, artic. 2, et in 4, in materia de hestit.,
+            <lb ed="#P" n="100"/>quaest. 33. Ratio eorum est, quia charitas 
+            so<lb break="no" ed="#P" n="101"/>lum obligat ad subveniendum necessitati
+            <lb ed="#P" n="102"/>proximi ; at satis sublevatur per mutuum.
+            <lb ed="#P" n="103"/>Unde in Sceriptura interdum haec obligatio per
+            <lb ed="#P" n="104"/>mutuum esxplicatur, Luc. 6: Benefacite et 
+            mu<lb break="no" ed="#P" n="105"/>tuwn date ; et Psal. 36, de justo dicitur : Tota
+            <lb ed="#P" n="106"/>die miseretur, et commodat ; idemque reperitur
+            <lb ed="#P" n="107"/>Psalm. 111, Eccles. 29: Feenerare progimo tuo
+            <pb ed="#P" n="688"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>in tempore necessitatis illius. Confirmatur 
+            pri<lb break="no" ed="#P" n="2"/>mo. Nam si quis in extrema existens 
+            necessi<lb break="no" ed="#P" n="3"/>tate accipiat alienum ut sibi subveniat, postea
+            <lb ed="#P" n="4"/>veniens ad pinguiorem fortunam, tenetur 
+            resti<lb break="no" ed="#P" n="5"/>tuere ; ergo si alter subveniret. potest etiam
+            <lb ed="#P" n="6"/>obligare ad restitutionem, quod mutuare est.
+            <lb ed="#P" n="7"/>Antecedens est multorum Theologorum, 
+            Ri<lb break="no" ed="#P" n="8"/>chardi, Durandi, Gabrielis, in 4, distinct. 15;
+            <lb ed="#P" n="9"/>Medina, Cod. de Restitut., quaest. 3; et Glos.,
+            <lb ed="#P" n="10"/>in reg. Peccatum, de Regul. juris, in 6; et 
+            vi<lb break="no" ed="#P" n="11"/>detur colligi ex cap. S quis, extra de furtis.
+            <lb ed="#P" n="12"/>Confirmatur secundo ex Genes. 25, ubi Jacob
+            <lb ed="#P" n="13"/>Esau extreme esurienti cibaria vendidit; et
+            <lb ed="#P" n="14"/>similiter Joseph , Genes. 41 et 42, oppressis
+            <lb ed="#P" n="15"/>fame frumentum vendebat; et Tobias 
+            mu<lb break="no" ed="#P" n="16"/>tuum dedit Gabelo, sub chyrographo; 
+            deni<lb break="no" ed="#P" n="17"/>que facit lex Si gratuitam,tt. Prascriptis 
+            ver<lb break="no" ed="#P" n="18"/>bis. Notandum pro decisione est, homines 
+            in<lb break="no" ed="#P" n="19"/>terdum carere rebus necessariis omnino et
+            <lb ed="#P" n="20"/>simpliciter, interdum tantum secundum quid,
+            <lb ed="#P" n="21"/>quia licet hic careant, habent alibi; vel si 
+            ca<lb break="no" ed="#P" n="22"/>rent hoc genere bonorum, habent alia, vel
+            <lb ed="#P" n="23"/>habent industriam qua facile possint 
+            compa<lb break="no" ed="#P" n="24"/>rare, vel proximam spem comparandi.
+          </p>
+          <p xml:id="szthvi-b67467-d1e3148">
+            <lb ed="#P" n="25"/>2. Prima conclusio. — Dico primo: 
+            simpli<lb break="no" ed="#P" n="26"/>citer asserere praeceptum eleemosynae 
+            nun<lb break="no" ed="#P" n="27"/>quam obligare ad donandum, neque pium est,
+            <lb ed="#P" n="28"/>neque practice probabile. Haec conclusio satis
+            <lb ed="#P" n="29"/>patet ex dictis in duabus sectionibus 
+            praece<lb break="no" ed="#P" n="30"/>dentibus ; nam ut non negemus mutuum 
+            in<lb break="no" ed="#P" n="31"/>terdum esse posse opus misericordiae, tamen
+            <lb ed="#P" n="32"/>regulariter Scriptura et Patres nomine 
+            elee<lb break="no" ed="#P" n="33"/>mosynae intelligunt absolutam donationem,
+            <lb ed="#P" n="34"/>ut colligitur ex Lucae 10, in parabola 
+            inci<lb break="no" ed="#P" n="35"/>dentis in latrones, et cap. 11: Date 
+            elee<lb break="no" ed="#P" n="36"/>mosnam, eic., et cap. 14: Cum facis 
+            convi<lb break="no" ed="#P" n="37"/>vium, etc. Et haec est omnium veterum 
+            Theo<lb break="no" ed="#P" n="38"/>logorum opinio, in 4, distinct. 15; et divi
+            <lb ed="#P" n="39"/>Thom , citatis locis in praecedenti sect.; item
+            <lb ed="#P" n="40"/>Soti, in 4, lib. de Justit., quaest. 7, art. 1;
+            <lb ed="#P" n="41"/>Sarment., in 2 part. Defens., monito 4,
+            <lb ed="#P" n="42"/>num. 5 et 6; Cordub., lib. 1, quaest. 26,
+            <lb ed="#P" n="43"/>ad 7; Medin., de Eleemos., cap. 6, et de 
+            Re<lb break="no" ed="#P" n="44"/>stitut., quaest. 3, cap. 1, et aliorum.
+          </p>
+          <p xml:id="szthvi-b67467-d1e3195">
+            <lb ed="#P" n="45"/>3. Secunda conclusio. — Probatur ratione
+            <lb ed="#P" n="46"/>et exemplis. — Dico secundo: ei qui tantum
+            <lb ed="#P" n="47"/>secundum quid indiget, satis subvenitur per
+            <lb ed="#P" n="48"/>mutuum, vel commodando, vcl etiam 
+            vendi<lb break="no" ed="#P" n="49"/>tione. Ita exprimunt plures ex citatis 
+            Docto<lb break="no" ed="#P" n="50"/>ribus, ac fortasse hoc tantum intendunt alii
+            <lb ed="#P" n="51"/>pro prima opinione allati. Ratio est, quia ille
+            <lb ed="#P" n="52"/>talis non simpliciter indiget; ergo neque ego
+            <lb ed="#P" n="53"/>tcneor simpliciter ei dare; idem constat 
+            exem<lb break="no" ed="#P" n="54"/>plis. Nam si quis Romae indiget, habet tamen
+            <lb ed="#P" n="55"/>divitias alibi, satis est mutuare, vel credita
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>pecunia vendere. Item si nunc caret actu, 
+            ha<lb break="no" ed="#P" n="57"/>bet tamen certam spem, vel jus habendi in
+            <lb ed="#P" n="58"/>futurum, non caret simpliciter, quia illud jus
+            <lb ed="#P" n="59"/>et spes aestimabilia sunt pretio ; ergo satis, ut
+            <lb ed="#P" n="60"/>credito ei detur, et non gratis. Praeterea, qui
+            <lb ed="#P" n="61"/>necessitatem gravem in statu patienti 
+            subve<lb break="no" ed="#P" n="62"/>nit, ut pristinum statum retineat et 
+            recupe<lb break="no" ed="#P" n="63"/>ret, potest haud dubie se servare indemnem.
+            <lb ed="#P" n="64"/>Denique idem est de artifice, atque de eo qui
+            <lb ed="#P" n="65"/>viribus et conditione aptus est ad laborandum,
+            <lb ed="#P" n="66"/>nisi postea certum sit indigere de caetero sua
+            <lb ed="#P" n="67"/>tota arte et industria, ad subveniendum sibi,
+            <lb ed="#P" n="68"/>et familiae ; nam tunc jam simpliciter indiget,
+            <lb ed="#P" n="69"/>et idem est de viro nobili, cujus statui 
+            repug<lb break="no" ed="#P" n="70"/>nat et non decet laborare. s
+          </p>
+          <p xml:id="szthvi-b67467-d1e3256">
+            <lb ed="#P" n="71"/>4. Tertia conclusio. — Dico tertio: quando
+            <lb ed="#P" n="72"/>necessitati proximi sufficienter subvenitur per
+            <lb ed="#P" n="73"/>usum rei quae non statim consumitur, satis est
+            <lb ed="#P" n="74"/>commodare. Explico assertionem. Est quis in
+            <lb ed="#P" n="75"/>extremo periculo ut interficiatur ab hoste,
+            <lb ed="#P" n="76"/>nisi equo utatur : omnino satisfit illi 
+            commo<lb break="no" ed="#P" n="77"/>dando; et ad hoc urget obligatio utriusque
+            <lb ed="#P" n="78"/>partis ; ratio est, quia ille indiget usu pro hoc
+            <lb ed="#P" n="79"/>tempore, non autem dominio aut usu 
+            perpe<lb break="no" ed="#P" n="80"/>tuo. Confirmatur, nam si ille invito domino
+            <lb ed="#P" n="81"/>acciperet equum ad illum usum, illo finito,
+            <lb ed="#P" n="82"/>teneretur absque dubio restituere, nisi forte in
+            <lb ed="#P" n="83"/>ipso actuali usu moreretur absque culpa 
+            acci<lb break="no" ed="#P" n="84"/>pientis, quia tunc neque ratione acceptionis
+            <lb ed="#P" n="85"/>(fuit enim justa), neque ratione rei acceptae,
+            <lb ed="#P" n="86"/>quia non extat, restituere teneretur, atque
+            <lb ed="#P" n="87"/>adeo soli domino periit.
+          </p>
+          <p xml:id="szthvi-b67467-d1e3295">
+            <lb ed="#P" n="88"/>5. Quarta conclusio. — Dico quarto: in 
+            ex<lb break="no" ed="#P" n="89"/>trema necessitate, si subventio fiat per resipso
+            <lb ed="#P" n="90"/>usu consumptibiles, fieri debet per absolutam
+            <lb ed="#P" n="91"/>donationem. Est communis illorum auctorum,
+            <lb ed="#P" n="92"/>et sequitur ex prima. Nam si praeceptum 
+            elee<lb break="no" ed="#P" n="93"/>mosymae aliquando obligat ad liberam 
+            dona<lb break="no" ed="#P" n="94"/>tionem, certe maxime in extrema necessitate
+            <lb ed="#P" n="95"/>rerum usu consumptibilium, et praecipue, si
+            <lb ed="#P" n="96"/>fiat donatio ex rebus superfluis. Secundo, ita
+            <lb ed="#P" n="97"/>teneor subvenire, sicut alter jure potest 
+            acci<lb break="no" ed="#P" n="98"/>pere ; sed qui est in extrema necessitate, 
+            po<lb break="no" ed="#P" n="99"/>test ita accipere et consumere, ut nihil 
+            tenea<lb break="no" ed="#P" n="100"/>tur restituere; ergo, et quod in hoc casu 
+            da<lb break="no" ed="#P" n="101"/>tum domino est, atque ab accipiente 
+            consum<lb break="no" ed="#P" n="102"/>ptum, nulli subjacet restitutioni. Major patet,
+            <lb ed="#P" n="103"/>quia si non esset eadem obligatio unius ad 
+            dan<lb break="no" ed="#P" n="104"/>dum, et facultas alterius ad recipiendum, 
+            pos<lb break="no" ed="#P" n="105"/>set oriri bellum justum ex utraque parte. Item
+            <lb ed="#P" n="106"/>quia accipiens potest juste nolle se obligare ad
+            <lb ed="#P" n="107"/>reddendum. Minor est communior sententia
+            <lb ed="#P" n="108"/>Doctorum, quos citavimus, ac D. Thom. 2. 2,
+            <lb ed="#P" n="109"/>quaest. 66, art. 7. Ratioque est, quoniam ille
+            <lb ed="#P" n="110"/>postea non tenetur reddere, sive ratione acce-
+            <pb ed="#P" n="689"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ptionis, quia fuit justa, sive ratione rei 
+            acce<lb break="no" ed="#P" n="2"/>piae, cum non extet, et sine culpa consumpta
+            <lb ed="#P" n="3"/>sit. Tertio, quando res non consumuntur usu,
+            <lb ed="#P" n="4"/>tenetur quis reddere finito usu, atque si res
+            <lb ed="#P" n="5"/>casu periit, non tenetur reddere quidquam,
+            <lb ed="#P" n="6"/>etiam pro illo usu, si vere nihil habebat 
+            quan<lb break="no" ed="#P" n="7"/>do usus est ; sed in rebus usu consumptibilibus
+            <lb ed="#P" n="8"/>non valet pus res quam ejus usus; ergo 
+            in<lb break="no" ed="#P" n="9"/>tentum. Tandem, quia vel per hanc 
+            subven<lb break="no" ed="#P" n="10"/>tionem fit dominus rei ille qui accipit, et sic
+            <lb ed="#P" n="11"/>tanquam dominus poterit illam libere 
+            consu<lb break="no" ed="#P" n="12"/>mere, vel non fit dominus, ut Navar. late 
+            con<lb break="no" ed="#P" n="13"/>tendit, et ego libenter concedo; quia in his
+            <lb ed="#P" n="14"/>etiam rebus usus distinguitur a dominio, et
+            <lb ed="#P" n="15"/>quia non necessario conceditur plena facultas
+            <lb ed="#P" n="16"/>utendi in omnem usum, sed solum usus 
+            deter<lb break="no" ed="#P" n="17"/>minatus in propriam sustentationem; nam
+            <lb ed="#P" n="18"/>haec est sufficiens facultas. At hinc 
+            concludi<lb break="no" ed="#P" n="19"/>tur quod interdimus, quia, ut dicebam, res
+            <lb ed="#P" n="20"/>quae sine culpa alicujus consumitur, domino
+            <lb ed="#P" n="21"/>consumitur; at accipiens consumit sine culpa
+            <lb ed="#P" n="22"/>rem ; ergo domino perit ergo nihil postea 
+            te<lb break="no" ed="#P" n="23"/>netur reddere.
+          </p>
+          <p xml:id="szthvi-b67467-d1e3402">
+            <lb ed="#P" n="24"/>6. Objectio diluitur. — Roejicitur limitatio
+            <lb ed="#P" n="25"/>Moednee circa conclusionem. — Hinc vero 
+            in<lb break="no" ed="#P" n="26"/>feres, non esse verum oportere fieri 
+            donatio<lb break="no" ed="#P" n="27"/>nem absolutam, si non transfertür dominium.
+            <lb ed="#P" n="28"/>Respondendum tamen per donationem 
+            abso<lb break="no" ed="#P" n="29"/>lutam hoc loco intelligi liberam concessionem
+            <lb ed="#P" n="30"/>usus talis rei absque obligatione reddendi, si
+            <lb ed="#P" n="31"/>usu consumatur, quae etiam concedi potest 
+            re<lb break="no" ed="#P" n="32"/>ligioso, qui est incapax dominii. Instabis: qui
+            <lb ed="#P" n="33"/>mutuo accipit rem, si illam consumit, postea
+            <lb ed="#P" n="34"/>tenetur restituere, quamvis illi sit concessus
+            <lb ed="#P" n="35"/>liber usus talis rei. Non est tamen simile, quia
+            <lb ed="#P" n="36"/>ibi transfertur dominium in ipsum cum 
+            obli<lb break="no" ed="#P" n="37"/>gatione reddendi; unde si consumitur, ipsi
+            <lb ed="#P" n="38"/>tanquam domino consumitur, et obligatio 
+            red<lb break="no" ed="#P" n="39"/>dendi manet orta ex priori contractu. At vero
+            <lb ed="#P" n="40"/>in proposito, illa obligatio non potuit juste
+            <lb ed="#P" n="41"/>imponi, quia ille qui extreme indigebat, 
+            ha<lb break="no" ed="#P" n="42"/>bebat jus ad liberum usum talis rei; quia ille
+            <lb ed="#P" n="43"/>in extrema necessitate debet esse communis;
+            <lb ed="#P" n="44"/>non vero habebat jus ad dominium, siquidem
+            <lb ed="#P" n="45"/>illi non erat necessarium ; cum ergo manserit
+            <lb ed="#P" n="46"/>apud dominum, ipsi profecto periit. Porro 
+            ad<lb break="no" ed="#P" n="47"/>ductae rationes probant conclusionem, non
+            <lb ed="#P" n="48"/>solum si eleemosyna fiat ex superfluis simpli -
+            <lb ed="#P" n="49"/>citer, sed etiam ex aliis. Unde Medina sine
+            <lb ed="#P" n="50"/>causa supra contrarium sentit, quando 
+            elee<lb break="no" ed="#P" n="51"/>mosyna fit ex necessariis ad statum, qui non
+            <lb ed="#P" n="52"/>consequenter loquitur hac in parte.
+          </p>
+          <p xml:id="szthvi-b67467-d1e3467">
+            <lb ed="#P" n="53"/>7. Quinta conclusio bipartita. — Probatur
+            <lb ed="#P" n="54"/>prima pars. — Dico quinto: quando 
+            eleeme<lb break="no" ed="#P" n="55"/>syna fit ex omnino superfluis, probabilius est
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>debere fieri per liberam concessionem, etiam
+            <lb ed="#P" n="57"/>extra casum extremae necessitatis, quamvis
+            <lb ed="#P" n="58"/>oppositum probabile sit. Prior pars cst 
+            con<lb break="no" ed="#P" n="59"/>formior sacrae Scripturae et Patribus, ipsique
+            <lb ed="#P" n="60"/>charitati valde consentanea, ut consideranti in
+            <lb ed="#P" n="61"/>sect. 4 memoratos constabit. Et probatur 
+            pri<lb break="no" ed="#P" n="62"/>mo ex natura et institutione harum rerum
+            <lb ed="#P" n="63"/>temporalium: ordinantur enim quasi natura
+            <lb ed="#P" n="64"/>sua ad sublevandas hominum indigentias ; 
+            er<lb break="no" ed="#P" n="65"/>go ipsa ratio postulat ut, quando alicui sunt
+            <lb ed="#P" n="66"/>omnino superflua, et aliis desunt necessaria,
+            <lb ed="#P" n="67"/>liber usus aliis concedatur. Secundo, quia
+            <lb ed="#P" n="68"/>haec obligatio ex eodem praecepto oritur, quo
+            <lb ed="#P" n="69"/>oritur obligatio ad dandum in extrema 
+            neces<lb break="no" ed="#P" n="70"/>sitate; et articulus est necessitatis simpliciter;
+            <lb ed="#P" n="71"/>suppono enim saltem esse necessitatem 
+            gra<lb break="no" ed="#P" n="72"/>vem, vel alicujus privati, vel reipublica ; ergo
+            <lb ed="#P" n="73"/>obligat ad idem genus libera concessionis.
+            <lb ed="#P" n="74"/>Denique quando habeo superflua, charitatis
+            <lb ed="#P" n="75"/>lege teneor ad subveniendum non est autem
+            <lb ed="#P" n="76"/>uude habeam jus ad imponendum alteri 
+            obli<lb break="no" ed="#P" n="77"/>gationem, ut reddat quod accipit, cum vere
+            <lb ed="#P" n="78"/>non habeat, neque postea teneatur quaererc
+            <lb ed="#P" n="79"/>unde reddat, etc.
+          </p>
+          <p xml:id="szthvi-b67467-d1e3530">
+            <lb ed="#P" n="80"/>8. Secunda pars conclusionis suadetur. —
+            <lb ed="#P" n="81"/>Ad primam, quatenus primam conclusionis 
+            par<lb break="no" ed="#P" n="82"/>tem oppugnat. — Ad secundam. — 
+            Nihilomi<lb break="no" ed="#P" n="83"/>nus secunda pars conclusionis vera est, si quis
+            <lb ed="#P" n="84"/>in praxi velit eam sequi; tum quia rationes
+            <lb ed="#P" n="85"/>factae non ita urgent quin convenienter 
+            pos<lb break="no" ed="#P" n="86"/>sint solvi ; tum ctiam quia extra casum 
+            neces<lb break="no" ed="#P" n="87"/>sitatis extremae non possum ego accipere 
+            alie<lb break="no" ed="#P" n="88"/>num; ergo probabile est alium non teneri ad
+            <lb ed="#P" n="89"/>simpliciter dandum. Item in his 
+            necessitati<lb break="no" ed="#P" n="90"/>bus potest quis non dare huic, sed reservare
+            <lb ed="#P" n="91"/>alteri; ergo etiam poterit satisfacere huic 
+            mu<lb break="no" ed="#P" n="92"/>tuando. Hae tamen rationes non urgent nos.
+            <lb ed="#P" n="93"/>Etenim si prior esset bona, probaret, neque ad
+            <lb ed="#P" n="94"/>mutuandum teneri divitem, quia pauper non
+            <lb ed="#P" n="95"/>potest accipere etiam mutuo, invito domino.
+            <lb ed="#P" n="96"/>Negatur ergo illius rationis consequentia, nam
+            <lb ed="#P" n="97"/>quia haec obligatio oritur ex sola charitate,
+            <lb ed="#P" n="98"/>tota cadit in divitem; jus vero non datur 
+            alte<lb break="no" ed="#P" n="99"/>ri, nisi qando res ipsa ratione necessitatis 
+            ex<lb break="no" ed="#P" n="100"/>remae communes factae sunt. Ad secundam
+            <lb ed="#P" n="101"/>respondetur, posse quempiam reservare 
+            alte<lb break="no" ed="#P" n="102"/>ri, si moraliter intelligat occursuras alias 
+            gra<lb break="no" ed="#P" n="103"/>ves necessitates; tamen per se et simplieiter
+            <lb ed="#P" n="104"/>tenetur libere donare alicui patienti gravem
+            <lb ed="#P" n="105"/>necessitatem. Quid si dives nollet dare nisi
+            <lb ed="#P" n="106"/>mutuando et obligando ad reddendum? 
+            tene<lb break="no" ed="#P" n="107"/>biturne qui accipit, implere postea susceptam
+            <lb ed="#P" n="108"/>obligationem ? Respondetur in casu hujus
+            <lb ed="#P" n="109"/>conclusionis teneri, quia dives non fecit 
+            injus<lb break="no" ed="#P" n="110"/>titiam acceptanti, atque adco contractus fuit
+            <pb ed="#P" n="690"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>justus: ergo induxit obligationem ; imo 
+            con<lb break="no" ed="#P" n="2"/>tractum illum esse contra jus charitatis, non
+            <lb ed="#P" n="3"/>satis constat; quare, etc. Unde merito 
+            Theo<lb break="no" ed="#P" n="4"/>logi, in 4, distinct. 15, tractantes an restituere
+            <lb ed="#P" n="5"/>teneatur qui aliquid accepit in necessitate
+            <lb ed="#P" n="6"/>constitutus, de extrema fere id negant, quasi
+            <lb ed="#P" n="7"/>in minori alia sit concedeudum.
+          </p>
+          <p xml:id="szthvi-b67467-d1e3620">
+            <lb ed="#P" n="8"/>9. Sexta conclusio unde suadetur. — Dico
+            <lb ed="#P" n="9"/>sexto : si quis extra casum extremae 
+            necessita<lb break="no" ed="#P" n="10"/>tis subveniat, vel obligetur ad subveniendum,
+            <lb ed="#P" n="11"/>non ex superfluis simpliciter, sed aliquo modo
+            <lb ed="#P" n="12"/>ex necessariis ad statum, non obligatur ad
+            <lb ed="#P" n="13"/>dandum, sed ad mutuandum, vel ad alium
+            <lb ed="#P" n="14"/>modum similem. Hoc probant argumenta
+            <lb ed="#P" n="15"/>primae opinionis, et dicta in praecedenti 
+            con<lb break="no" ed="#P" n="16"/>clusione; praeterea quia, ut patet ex 
+            praece<lb break="no" ed="#P" n="17"/>denti conclusione, res est incerta; ergo est 
+            ex<lb break="no" ed="#P" n="18"/>plicanda suaviori modo. Item qui sic subvenit,
+            <lb ed="#P" n="19"/>etiam indiget illis bonis; ergo non sine causa
+            <lb ed="#P" n="20"/>potest se indemnem servare.
+          </p>
+          <p xml:id="szthvi-b67467-d1e3651">
+            <lb ed="#P" n="21"/>10. Ad primum argumentum in num. 1. —
+            <lb ed="#P" n="22"/>Ad primam confirmationem. —Ad secundam.—
+            <lb ed="#P" n="23"/>Ad argumentum primae opinionis, dicito non
+            <lb ed="#P" n="24"/>solum teneri divitem ad subveniendum, sed
+            <lb ed="#P" n="25"/>ad subveniendum modo consentaneo 
+            charita<lb break="no" ed="#P" n="26"/>ti, et secundum debitum usum rerum. ltem
+            <lb ed="#P" n="27"/>obligari ad non imponendum proximo 
+            obliga<lb break="no" ed="#P" n="28"/>tionem reddendi sine rationabili causa, et sic
+            <lb ed="#P" n="29"/>accipienda sunt loca ibi citata, vel certe 
+            pro<lb break="no" ed="#P" n="30"/>cedunt potius de foenore spirituali. Ad primam
+            <lb ed="#P" n="31"/>confirmationem negatur assumptum ; et caput
+            <lb ed="#P" n="32"/>illud loquitur extra casum extremae 
+            necessita<lb break="no" ed="#P" n="33"/>tis, ut exponit divus Thomas, artic. 7, ad 
+            pri<lb break="no" ed="#P" n="34"/>mum, citata quaest. 66. Alia etiam quae 
+            addu<lb break="no" ed="#P" n="35"/>cuntur, facile solvuntur. Esau enim atque 
+            ZE<lb break="no" ed="#P" n="36"/>gyptii non erant in extrema necessitate, quia
+            <lb ed="#P" n="37"/>habebant unde emerent; Joseph vero 
+            impone<lb break="no" ed="#P" n="38"/>bat tributum ad bcnum reipublicae. Denique
+            <lb ed="#P" n="39"/>factum Tobiae non est ad rem, quia Gabelus
+            <lb ed="#P" n="40"/>habebat unde redderet, ideoque 
+            chyrogra<lb break="no" ed="#P" n="41"/>phum ab illo accepit Tobias. Postremo lex quae
+            <lb ed="#P" n="42"/>affertur procedit in foro exteriori, aut certe
+            <lb ed="#P" n="43"/>juxta secundam, tertiam, vel ultimam 
+            conclu<lb break="no" ed="#P" n="44"/>sionem.
+          </p>
+          <p xml:id="szthvi-b67467-d1e3706">
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="45"/>SECTIO VI.
+            <lb ed="#P" n="46"/>Utrum qui omittit dare eleemosynam cum
+            <lb ed="#P" n="47"/>tenetur, obligetur ad resarcienda dumna quee
+            <lb ed="#P" n="48"/>inde eveniunt indigenti.
+          </p>
+          <p xml:id="szthvi-b67467-d1e3719">
+            <lb ed="#P" n="49"/>1. Quaestionis implicatio. — Atiorum opinio,
+            <lb ed="#P" n="50"/>pro qua arguitur ea Cajetano et Turrecremata.
+            <lb ed="#P" n="51"/>— Confirmatur primo. — Secundo. — Duo
+            <lb ed="#P" n="52"/>sunt consideranda. Aliud , quantitas elee-
+            <cb ed="#P" n="c"/>
+            <lb ed="#P" n="53"/>mosynee, et de hac omnes anctores fatentur,
+            <lb ed="#P" n="54"/>eum qui omittit dare, transacta necessitate,
+            <lb ed="#P" n="55"/>non obligari ad reddendam illam 
+            quantita<lb break="no" ed="#P" n="56"/>tem, etiamsi necessitas fuerit extrema. Ratio
+            <lb ed="#P" n="57"/>est, quia tota illa operatio erat misericordiae,
+            <lb ed="#P" n="58"/>non justitiae ; loquimur enim de his qui sunt
+            <lb ed="#P" n="59"/>veri domini, non de dispensatoribus ; nam hi
+            <lb ed="#P" n="60"/>contra justitiam agunt usurpando, et 
+            obligan<lb break="no" ed="#P" n="61"/>tur ad restituendum dominis, qui eis 
+            dispen<lb break="no" ed="#P" n="62"/>sandam quantitatem commiserant. Secundum
+            <lb ed="#P" n="63"/>est detrimentum quod secutum est proximo
+            <lb ed="#P" n="64"/>indigenti, ex eo quod illi non est subventum.
+            <lb ed="#P" n="65"/>Et de hoc aliqui censent, eum qui omisit 
+            elee<lb break="no" ed="#P" n="66"/>mosynanm, praesertim in casu extremae 
+            neces<lb break="no" ed="#P" n="67"/>sitatis, teneri ad restitutionem postea, si 
+            for<lb break="no" ed="#P" n="68"/>tasse hac de causa proximus est mortuus, vel
+            <lb ed="#P" n="69"/>damnum aliud notabile incurrit, quod videtur
+            <lb ed="#P" n="70"/>indicare Cajetanus in Summa, verbo 
+            Restitu<lb break="no" ed="#P" n="71"/>Lio, cap. 1, et potest sumi ex eodem cum divo
+            <lb ed="#P" n="72"/>Thoma 2. 2, quaest. 118, ubi dicit 
+            obligatio<lb break="no" ed="#P" n="73"/>nem ad subveniendum in extrema necessitate,
+            <lb ed="#P" n="74"/>oriri ex justitia legati; obligatio enim ex tali
+            <lb ed="#P" n="75"/>justitia videtur inducere obligationem 
+            resti<lb break="no" ed="#P" n="76"/>tuendi. Turrecremata etiam, in cap. 4 
+            fane<lb break="no" ed="#P" n="77"/>raceris, distinct. 86, dicit eam esse 
+            obligauo<lb break="no" ed="#P" n="78"/>nem ex justitia, quamvis neget obligationem
+            <lb ed="#P" n="79"/>restituendi; idem sentit Sarmento, de 
+            hed<lb break="no" ed="#P" n="80"/>ditibus Eccles., 3 part., capit. 4. Probatur 
+            ra<lb break="no" ed="#P" n="81"/>tione; nam ille qui omittit eleemosynam 
+            hu<lb break="no" ed="#P" n="82"/>jusmodi, est causa moralis nocumenti 
+            proxi<lb break="no" ed="#P" n="83"/>mi; ergo tenetur de damno: antecedens patet,
+            <lb ed="#P" n="84"/>quia tenetur evitare id; ergo si non facit, est
+            <lb ed="#P" n="85"/>causa. Unde Innocentius, capit. Quante , de
+            <lb ed="#P" n="86"/>Sententia excommunicationis, dicit esse 
+            parti<lb break="no" ed="#P" n="87"/>cipem homicidii, qui tenetur vitare, ac potest
+            <lb ed="#P" n="88"/>et non facit. Et idem sumi potest ex cap. JVon
+            <lb ed="#P" n="89"/>miserade. 23, quaest. 7; et ex illo Ambrosii:
+            <lb ed="#P" n="90"/>Si non pacisti, occidsti, quod refertur capit.
+            <lb ed="#P" n="91"/>Pasce, distinction. 86. Et confirmatur primo,
+            <lb ed="#P" n="92"/>nam qui est in extrema necessitate, potest sibi
+            <lb ed="#P" n="93"/>necessaria sumere, etiam per vim, quia tunc
+            <lb ed="#P" n="94"/>bona sunt communia ; ergo alter detinendo
+            <lb ed="#P" n="95"/>injuriam illi facit. Confirmatur secundo, nam
+            <lb ed="#P" n="96"/>potest a judice compelli ad dandam 
+            eleemosy<lb break="no" ed="#P" n="97"/>nam, is qui dare potest commode; ergo 
+            inter<lb break="no" ed="#P" n="98"/>cedit aliqua obligatio justitiae ; ergo obligat
+            <lb ed="#P" n="99"/>ad restituendum.
+          </p>
+          <p xml:id="szthvi-b67467-d1e3834">
+            <lb ed="#P" n="100"/>2. Vera sententia. — Ad primam 
+            confirma<lb break="no" ed="#P" n="101"/>tionem. — Ad secundam confirmationem. —
+            <lb ed="#P" n="102"/>Nihilominus respondeo illum non teneri ad
+            <lb ed="#P" n="103"/>restituendum aliquid ; ita Sot., 5 de Justit., q.
+            <lb ed="#P" n="104"/>4, art. 3; Covarruv., 2 Variarum, c. 14, num.
+            <lb ed="#P" n="105"/>5; Adrian., in 4 de hestitut., quaest. 1;
+            <lb ed="#P" n="106"/>Navar., cap. 24, numer. 7, et de Redditibus,
+            <lb ed="#P" n="107"/>quaest. 2; sumitur ex Gloss., cap. JVon infe-
+            <pb ed="#P" n="691"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>renda, 94. quaest. 3; et suadetur, nam tunc
+            <lb ed="#P" n="2"/>solum obligatur quis ad resarcienda damna,
+            <lb ed="#P" n="3"/>quando sequuntur ex actione injuriosa, 
+            scili<lb break="no" ed="#P" n="4"/>cet contra Justitiam commutativam. Et 
+            con<lb break="no" ed="#P" n="5"/>firmatur, quia titulus restitutionis tantum est
+            <lb ed="#P" n="6"/>duplex, injusta acceptio, et res accepta; ibi
+            <lb ed="#P" n="7"/>autem neuter intervenit. Ad argumentum ex
+            <lb ed="#P" n="8"/>Cajetano et Turrecremat., respondetur, sicut
+            <lb ed="#P" n="9"/>ille qui subvenire omisit non obligatur ex
+            <lb ed="#P" n="10"/>justitia commutativa, ita neque vere facit
+            <lb ed="#P" n="11"/>propriam injuriam, neque tenetur ad 
+            restitu<lb break="no" ed="#P" n="12"/>tionem, vel reparationem illius damni; et si
+            <lb ed="#P" n="13"/>fortasse obligatur interdum ex justitia legali,
+            <lb ed="#P" n="14"/>saltem respectu boni communis, at hujus 
+            jus<lb break="no" ed="#P" n="15"/>titiae violatio, non obligat ad restitutionem, ut
+            <lb ed="#P" n="16"/>suo loco dicetur :. Ad rationem dic, solum
+            <lb ed="#P" n="17"/>probare mortem vel damnum proximi esse
+            <lb ed="#P" n="18"/>voluntarium omittenti eleemosynam, non 
+            ta<lb break="no" ed="#P" n="19"/>men esse effectum ab illo, quia ut ego sim
+            <lb ed="#P" n="20"/>causa mortis proximi, non satis est velle illam,
+            <lb ed="#P" n="21"/>sed oportet aliquo modo influere ; hic autem
+            <lb ed="#P" n="22"/>non influit physice, ut per se constat, neque
+            <lb ed="#P" n="23"/>moraliter, quia non facit injuriam. In 
+            capi<lb break="no" ed="#P" n="24"/>tulis autem citatis, modus loquendi latior est
+            <lb ed="#P" n="25"/>aliquanto, nam homicida dicitur, qui quovis
+            <lb ed="#P" n="26"/>modo vult mortem proximi; itaque solum 
+            in<lb break="no" ed="#P" n="27"/>tenditur illud damnum proximi imputari 
+            al<lb break="no" ed="#P" n="28"/>teri ad culpam, sed non ad injuriam. Ad 
+            pri<lb break="no" ed="#P" n="29"/>mam confirmationem, dic nihil referre quod
+            <lb ed="#P" n="30"/>in extrema necessitate bona sint communia,
+            <lb ed="#P" n="31"/>nam ex vi illius juris solum quisque valet ea
+            <lb ed="#P" n="32"/>primo occupare absque injuria alterius, id est,
+            <lb ed="#P" n="33"/>nullam alteri vim faciendo. Ad secundam 
+            con<lb break="no" ed="#P" n="34"/>firmationem, ut quis possit obligari a judice,
+            <lb ed="#P" n="35"/>satis esset obligatio justitiae legalis, quando
+            <lb ed="#P" n="36"/>necessitas communis intercedit. Praeterea 
+            le<lb break="no" ed="#P" n="37"/>ges et magistratus civiles non solum actus
+            <lb ed="#P" n="38"/>justitiae, sed etiam misericordiae, et 
+            tempe<lb break="no" ed="#P" n="39"/>rantiae imperare possunt, et ita nihil sequitur
+            <lb ed="#P" n="40"/>contrarium nostrae resolutioni.
+          </p>
+          <p xml:id="szthvi-b67467-d1e3945">
+            <lb ed="#P" n="41"/>3. Dubium d» Ecclesiasticorum eleemosgnis.
+            <lb ed="#P" n="42"/>— Restabat dubium, an saltem habentes 
+            eccle<lb break="no" ed="#P" n="43"/>siastica bona teneantur ex justitia ad dandam
+            <lb ed="#P" n="44"/>eleemosynam, atque adeo, si omittant, 
+            tenean<lb break="no" ed="#P" n="45"/>tur ad restitutionem. Quod late disputant tum
+            <lb ed="#P" n="46"/>Theologi , tum jurisperiti, et affirmant non
+            <lb ed="#P" n="47"/>pauci. Hic tamen omissis alis ad 
+            tractatio<lb break="no" ed="#P" n="48"/>nem de redditibus, solum in genere dico, ex
+            <lb ed="#P" n="49"/>his bonis, quorum ecclesiastici sunt domini,
+            <lb ed="#P" n="50"/>teneri ex sclo vinculo charitatis, majori 
+            ta<lb break="no" ed="#P" n="51"/>men quam alii, tum quia debent esse Patres
+            <lb ed="#P" n="52"/>pauperum, praecipue Episcopi, ex 1 ad Ti-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>moth. 3, et ad Titum 1: Oportet Episcopumn
+            <lb ed="#P" n="54"/>irreprehensibilem esse, etc., hospitalem, 
+            beni<lb break="no" ed="#P" n="55"/>gnum, etc. Et docet Tridentinum, sess. 23,
+            <lb ed="#P" n="56"/>cap. 1, de Reformatione; tum quia ratione
+            <lb ed="#P" n="57"/>status debent esse aliis exemplo. Denique,
+            <lb ed="#P" n="58"/>quia facilius habent superflua; non enim 
+            ha<lb break="no" ed="#P" n="59"/>bent quibus ex officio thesaurizent, et in 
+            fami<lb break="no" ed="#P" n="60"/>lia et statu debent esse moderatiores, ut monet
+            <lb ed="#P" n="61"/>idem Concilium Tridentinum sess. 25, capit. 1,
+            <lb ed="#P" n="62"/>de Reformatione. Si vero habent aliqua bona
+            <lb ed="#P" n="63"/>ecclesiastica , quorum non sunt domin, sed
+            <lb ed="#P" n="64"/>illis designata sunt ut distribuant in pauperes,
+            <lb ed="#P" n="65"/>tenentur ex justitia dare, sub obligatione 
+            res<lb break="no" ed="#P" n="66"/>tituendi ; an vero aliqua bona sint 
+            hujusmo<lb break="no" ed="#P" n="67"/>di, dicetur in materia de Decimis :. Nostram
+            <lb ed="#P" n="68"/>vero resolutionem tradunt Cajetanus, quaest.
+            <lb ed="#P" n="69"/>91, art. 3, et 185, artic. 7; Soto, lib. 10 de
+            <lb ed="#P" n="70"/>Justitia, quaest. 4, artic. 3; Covar., de 
+            Testa<lb break="no" ed="#P" n="71"/>mentis, cap. 10, et lib. 2 Variarum, cap. 17,
+            <lb ed="#P" n="72"/>num. 5; Navar. et Sarmen., in tractatibus de
+            <lb ed="#P" n="73"/>hedditibus ecclesiasticis, et alii recentiores.
+          </p>
+          <p xml:id="szthvi-b67467-d1e4022">
+            <lb ed="#P" n="74"/>A. Adcertendum diligenter. — Ultimo, est
+            <lb ed="#P" n="75"/>in hac materia advertendum quae hactenus de
+            <lb ed="#P" n="76"/>eleemosyna corporali dicta sunt, etsi 
+            videan<lb break="no" ed="#P" n="77"/>tur peculiariter dici de illis operibus 
+            miseri<lb break="no" ed="#P" n="78"/>cordiae, quae fiunt per externas divitias, tamen
+            <lb ed="#P" n="79"/>eodem modo, et per easdem leges applicanda
+            <lb ed="#P" n="80"/>esse ad ea opera misericordiae, quae consistunt
+            <lb ed="#P" n="81"/>in aciionibus humanis, ut sunt visitare 
+            infir<lb break="no" ed="#P" n="82"/>mum, vel in carcere constitutum. Nam hae 
+            ac<lb break="no" ed="#P" n="83"/>tiones sunt bona quaedam, quae tribuimus 
+            in<lb break="no" ed="#P" n="84"/>digenti. Unde consideranda est in his necessi -
+            <lb ed="#P" n="85"/>tas ex parte proximi, id est, an tui indigeat
+            <lb ed="#P" n="86"/>illo tempore, et actione. Idem de advocato,
+            <lb ed="#P" n="87"/>quando pauperis jus periclitatur, ne defectu
+            <lb ed="#P" n="88"/>patrocinii a potentiore violetur.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

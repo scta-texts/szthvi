@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 11</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 11</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="731"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-b81484"><!-- l3-d11 -->
+        <head xml:id="szthvi-b81484-Hd1e101">Disputatio 11</head>
+        <head xml:id="szthvi-b81484-Hd1e103" type="question-title">De praecepto ad pacem pertinente</head>
+        <p xml:id="szthvi-b81484-d1e106">
+          <lb ed="#P" n="32"/>DISPUTATIO XI.
+          <lb ed="#P" n="33"/>DE PRAECEPTO AD PACEM PERTINENTE.
+        </p>
+        <p xml:id="szthvi-b81484-d1e113">
+          <lb ed="#P" n="34"/>Inter effectus charitatis rumeravit divus
+          <lb ed="#P" n="35"/>Thomas pacem, et ideo agit de contrariis 
+          pa<lb break="no" ed="#P" n="36"/>c, 2. 2, a quaest. 37 ad 42; tamen multa,
+          <lb ed="#P" n="37"/>quae dicuntur, magis ad materiam de justitia
+          <lb ed="#P" n="38"/>spectabant, quia vix laeditur pax, nisi per 
+          in<lb break="no" ed="#P" n="39"/>juriam ; sed quoniam materia est gravis, 
+          trac<lb break="no" ed="#P" n="40"/>tabitur hoc loco.
+        </p>
+        <div xml:id="szthvi-b81484-Dd1e131">
+          <head xml:id="szthvi-b81484-Hd1e133">Sectio 1</head>
+          <head xml:id="szthvi-b81484-Hd1e135" type="question-title">Utrum pax sit in praecepto cui repugnat discordia et contentio</head>
+          <p xml:id="szthvi-b81484-d1e138">
+            <lb ed="#P" n="41"/>SECTIO UNICA.
+            <lb ed="#P" n="42"/>Utrum pax sit in praecepto cui repugnat 
+            dis<lb break="no" ed="#P" n="43"/>cordia et contentio.
+          </p>
+          <p xml:id="szthvi-b81484-d1e147">
+            <lb ed="#P" n="44"/>1. Prima conclusio — Respondetur 
+            simplici<lb break="no" ed="#P" n="45"/>ter pacem esse in praecepto : hoc enim 
+            iitrin<lb break="no" ed="#P" n="46"/>sece sequitur ex amore, ad quem spectat animos
+            <lb ed="#P" n="47"/>conjungere, ut constat ad Rom. 12, et 2 Cor.
+            <lb ed="#P" n="48"/>13 : Pacem habete, et Deus pacis, etc. Sed 
+            ad<lb break="no" ed="#P" n="49"/>vertendum est in pace duo considerari: unum
+            <lb ed="#P" n="50"/>est positivum, quod consistit in consensione
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="51"/>voluntatum primario, consequenter etiam 
+            ju<lb break="no" ed="#P" n="52"/>diciorum, actionum et sermonum. Aliud est
+            <lb ed="#P" n="53"/>negativum, scilicet, non facere aliquid quod
+            <lb ed="#P" n="54"/>dissolvat istam consensionem. llud prius 
+            re<lb break="no" ed="#P" n="55"/>vera spectat ad amorem, quatenus sub amore
+            <lb ed="#P" n="56"/>omnem bonum desiderium et benevolentiam
+            <lb ed="#P" n="57"/>comprehendimus; unde ad hoc non videtur
+            <lb ed="#P" n="58"/>necessarium speciale praeceptum, praeter 
+            com<lb break="no" ed="#P" n="59"/>mune dilectionis. Posterius privativum potest
+            <lb ed="#P" n="60"/>esse multiplex : nam in hoc consistit, ut homo
+            <lb ed="#P" n="61"/>se abstineat ab omni actione quae possit 
+            dis<lb break="no" ed="#P" n="62"/>sol vere istam pacem; et huic proposito 
+            opponi<lb break="no" ed="#P" n="63"/>tur dissensio voluntatum, et quicquid ab ea
+            <lb ed="#P" n="64"/>procedat, quae generali nomine potest dici 
+            dis<lb break="no" ed="#P" n="65"/>cordia.
+          </p>
+          <p xml:id="szthvi-b81484-d1e199">
+            <lb ed="#P" n="66"/>2. Secunda conclusio. — Explicatur, et 
+            pro<lb break="no" ed="#P" n="67"/>batur conclusio ex duplici modo discordie. —
+            <lb ed="#P" n="68"/>De qua dico secundo hanc discordiam 
+            irra<lb break="no" ed="#P" n="69"/>tionabilem esse quidem malam, et interdum
+            <lb ed="#P" n="70"/>contrariam charitati, interdum vero aliis 
+            vir<lb break="no" ed="#P" n="71"/>tutibus; loquimur autem de irrationabili,
+            <lb ed="#P" n="72"/>quia nonnunquam fieri potest ut haec 
+            dissen<lb break="no" ed="#P" n="73"/>sio sit quasi materialis, et nihil derogans 
+            cha<lb break="no" ed="#P" n="74"/>ritati. Explico et probo omnia : consistit enim
+            <lb ed="#P" n="75"/>haec discordia ut ego velim contrarium ejus
+            <lb ed="#P" n="76"/>quod proximus vult, quod fieri pctest, vel
+            <lb ed="#P" n="77"/>quia unusquisque rationabiliter movetur, ut
+            <lb ed="#P" n="78"/>ad volendum jus suum, neque infert in eo 
+            al<lb break="no" ed="#P" n="79"/>teri injuriam, neque per se vult incommodum
+            <lb ed="#P" n="80"/>ejus, et hoc modo potest discordia nullum
+            <lb ed="#P" n="81"/>esse peccatum, si unusquisque vere per se 
+            in<lb break="no" ed="#P" n="82"/>tendat honestum, sine intentione inferendi
+            <lb ed="#P" n="83"/>malum alteri.
+          </p>
+          <p xml:id="szthvi-b81484-d1e242">
+            <lb ed="#P" n="84"/>3. Alio modo potest quis voluntate sua 
+            dis<lb break="no" ed="#P" n="85"/>cordare a voluntate alterius, quando tenetur
+            <lb ed="#P" n="86"/>consentire, et tunc discordia est mala; tamen
+            <lb ed="#P" n="87"/>sicut obligatio illa potest oriri ex variis 
+            virtu<lb break="no" ed="#P" n="88"/>tibus, ita haec malitia potest ad diversa vitia
+            <lb ed="#P" n="89"/>pertinere. Tenetur enim subditus ex lege 
+            obe<lb break="no" ed="#P" n="90"/>dientiae voluntatem suam conformare cum 
+            vo<lb break="no" ed="#P" n="91"/>luntate superioris. Unde si discordet, peccat;
+            <lb ed="#P" n="92"/>tamen illa discordia immediate est contra
+            <lb ed="#P" n="93"/>obedientiam. Similiter interdum tenetur 
+            de<lb break="no" ed="#P" n="94"/>bitor ex justitia concordare voluntatem suam
+            <lb ed="#P" n="95"/>cum voluntate creditoris, et tunc discordia
+            <lb ed="#P" n="96"/>contraria erit contra justitiam; ita D. Thomas
+            <lb ed="#P" n="97"/>2. 2, quaest. 74; et Soto, in quinto de Justitia,
+            <lb ed="#P" n="98"/>quaest. 11. Contra charitatem autem erit 
+            spe<lb break="no" ed="#P" n="99"/>cialiter, quando illa obligatio orta fuerit ex
+            <lb ed="#P" n="100"/>solo vinculo charitatis, ut si proximus velit
+            <lb ed="#P" n="101"/>aliquod bonum obtinere sibi necessarium aut
+            <lb ed="#P" n="102"/>valde utile, ego autem sine causa rationahili
+            <lb ed="#P" n="103"/>velim impedire. Nam etsi nullam inferam 
+            in<lb break="no" ed="#P" n="104"/>juriam, ex se videtur hoc amicitiae valde 
+            de<lb break="no" ed="#P" n="105"/>rogare, et regulariter talis discordia oritur aut
+            <pb ed="#P" n="732"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ex odio, aut ex invidia; quare horum 
+            vitio<lb break="no" ed="#P" n="2"/>rum malitiam participat.
+          </p>
+          <p xml:id="szthvi-b81484-d1e301">
+            <lb ed="#P" n="3"/>4. Ea suo genere est mortale, justa divum
+            <lb ed="#P" n="4"/>Thomam. — Aliquando escusatur. — 
+            Pro<lb break="no" ed="#P" n="5"/>pterea dixit divus Thomas, quaest. trigesima
+            <lb ed="#P" n="6"/>septima, genere suo esse peccatum mortale ;
+            <lb ed="#P" n="7"/>et regulariter, si quis ita discordaret a 
+            volun<lb break="no" ed="#P" n="8"/>tate proximi in re quae ad illius bonum 
+            spec<lb break="no" ed="#P" n="9"/>tat, solum hoc intendens, ut ille non obtineat
+            <lb ed="#P" n="10"/>tantum aut tale bonum, vere ex genere suo
+            <lb ed="#P" n="11"/>habet gravem inordinationem de se 
+            sufficien<lb break="no" ed="#P" n="12"/>tem ad dissolvendas amicitias; unde merito
+            <lb ed="#P" n="13"/>ponitur contraria charitati. Posset tamen 
+            ex<lb break="no" ed="#P" n="14"/>cusari a peccato saltem mortali, si qnis 
+            dis<lb break="no" ed="#P" n="15"/>cordaret hoc modo a voluntate alterius, non
+            <lb ed="#P" n="16"/>intendendo detrimentum ejus, sed 
+            consulen<lb break="no" ed="#P" n="17"/>do suae utilitati, vel voluptati ; nam licet esset
+            <lb ed="#P" n="18"/>causa fortasse contra rationem, tamen si 
+            pro<lb break="no" ed="#P" n="19"/>pterea proximus non constitueretur in aliqua
+            <lb ed="#P" n="20"/>necessitate, non esset ibi speciale peccatum
+            <lb ed="#P" n="21"/>contra charitatem, sed esset actio juxta 
+            quali<lb break="no" ed="#P" n="22"/>tatem, et modum intentionis ; nam 
+            immedia<lb break="no" ed="#P" n="23"/>tum objectum tantum indifferens est, 
+            quo<lb break="no" ed="#P" n="24"/>niam, sicut non teneor subvenire neque 
+            be<lb break="no" ed="#P" n="25"/>nefacere proximo, ita neque consentire 
+            volun<lb break="no" ed="#P" n="26"/>tati illius, aut non discordare, nisi quando
+            <lb ed="#P" n="27"/>inde constitueretur ipse in aliqua necessitate.
+            <lb ed="#P" n="28"/>Ex quibus multi casus possunt elici de 
+            consu<lb break="no" ed="#P" n="29"/>lente testatorem, ne eum relinquat haeredem
+            <lb ed="#P" n="30"/>quem volebat, licet sine fraude et dolo; de
+            <lb ed="#P" n="31"/>rogante electorem ne illi conferat beneficium
+            <lb ed="#P" n="32"/>cui volebat; et similes, in quibus si injuria
+            <lb ed="#P" n="33"/>separetur, et odium, et invidia, raro aut 
+            nun<lb break="no" ed="#P" n="34"/>quam est peccatum mortale, et saepe nullum,
+            <lb ed="#P" n="35"/>si rationabili fiat causa.
+          </p>
+          <p xml:id="szthvi-b81484-d1e375">
+            <lb ed="#P" n="36"/>5. Tertia conclusio. — In judiciis quousque
+            <lb ed="#P" n="37"/>et qualiter sit vel non sit mala contentio. —
+            <lb ed="#P" n="38"/>Dico tertio : contentio quae ex discordia 
+            nas<lb break="no" ed="#P" n="39"/>citur, est etiam mala pro qualitate malitiae
+            <lb ed="#P" n="40"/>ipsius discordiae. Advertendum est generaliter
+            <lb ed="#P" n="41"/>posse dici contentionem, omnem 
+            contrarieta<lb break="no" ed="#P" n="42"/>tem ortam ex discordia, quasi idem sit 
+            con<lb break="no" ed="#P" n="43"/>tendere, quod in contraria tendere. Tamen
+            <lb ed="#P" n="44"/>specialiter accommodatum est hoc nomen ad
+            <lb ed="#P" n="45"/>significandam contrarietatem in judiciis, vel
+            <lb ed="#P" n="46"/>contrarietatem in verbis, quae eatenus mala
+            <lb ed="#P" n="47"/>sunt, quatenus ex voluntatibus malis 
+            oriun<lb break="no" ed="#P" n="48"/>tur. De dissensione ergo in judiciis, primo
+            <lb ed="#P" n="49"/>advertendum est non esse intrinsece malam,
+            <lb ed="#P" n="50"/>quia, cum hominibus non saepe sit perspecta
+            <lb ed="#P" n="51"/>veritas, possunt ex rationibus probabilibus in
+            <lb ed="#P" n="52"/>contraria ferri judicia. Secundo erit haec 
+            con<lb break="no" ed="#P" n="53"/>tentio mala, si sit in his rebus quas aliquis
+            <lb ed="#P" n="54"/>credere tenetur, et tunc malitia ejus ad 
+            haere<lb break="no" ed="#P" n="55"/>sim praecipue spectat; praeterea potest esse
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>mala, quando temere et sine sufficienti 
+            ra<lb break="no" ed="#P" n="57"/>tione judicatur, et tunc haec malitia ex objecto
+            <lb ed="#P" n="58"/>in speculativis rebus est contra virtutem 
+            stu<lb break="no" ed="#P" n="59"/>diositatis ; in practicis vero est contra 
+            pruden<lb break="no" ed="#P" n="60"/>tiam, et potest esse contra justitiam vel aliam
+            <lb ed="#P" n="61"/>virtutem, si contra illam aliquid oriatur. 
+            Con<lb break="no" ed="#P" n="62"/>tra charitatem vero videtur esse specialis 
+            ma<lb break="no" ed="#P" n="63"/>litia, quando aliquis directe et quasi ex 
+            in<lb break="no" ed="#P" n="64"/>tentione vult aliud opinari vel judicare, ut
+            <lb ed="#P" n="65"/>alteri contradicat; nam sine dubio hoc ex
+            <lb ed="#P" n="66"/>objecto suo est irrationabile, et maxime 
+            con<lb break="no" ed="#P" n="67"/>trarium illi conjunctioni quam charitas 
+            pos<lb break="no" ed="#P" n="68"/>tulat; raro tamen hoc erit peccatum mortale,
+            <lb ed="#P" n="69"/>nisi ab extrinseco et ex accidenti, quia per se
+            <lb ed="#P" n="70"/>non est gravis laesio charitatis. Secus vero
+            <lb ed="#P" n="71"/>esset si quis ea ratione se exponat periculo
+            <lb ed="#P" n="72"/>docendi res falsas. Nam inde posset contrahi
+            <lb ed="#P" n="73"/>gravis malitia.
+          </p>
+          <p xml:id="szthvi-b81484-d1e462">
+            <lb ed="#P" n="74"/>6. Quid de contentione in verbo. — 
+            Emwpo<lb break="no" ed="#P" n="75"/>aitur D. Thomas, dicens hanc contentionem esse
+            <lb ed="#P" n="76"/>de se mortale. — Uhimo advertendum circa
+            <lb ed="#P" n="77"/>intentionem in verbis, imprimis per se non
+            <lb ed="#P" n="78"/>esse malam, si gratia disputationis sumatur, et
+            <lb ed="#P" n="79"/>modus servetur, dc quo nonnulla dixi in 
+            ma<lb break="no" ed="#P" n="80"/>teria de fide; et videri possunt Basil., libro
+            <lb ed="#P" n="81"/>de Spiritu Sancto, initio; Nazianz., lib. 1
+            <lb ed="#P" n="82"/>Theolog.; et Augustin., ep. 83, et in Enchirid.,
+            <lb ed="#P" n="83"/>cap. 57 et 58. Secundo, si haec contentio fiat
+            <lb ed="#P" n="84"/>serio, et animo docendi contrarium ejus quod
+            <lb ed="#P" n="85"/>alter dicit; si etiam fiat honesto ex joco, 
+            ani<lb break="no" ed="#P" n="86"/>mo suo loco et tempore veritatem aperiendi,
+            <lb ed="#P" n="87"/>per se non est mala. Tertio, si quis impugnat
+            <lb ed="#P" n="88"/>exterius veritatem cognitam, illa est 
+            formalis<lb break="no" ed="#P" n="89"/>sime contentio, et primario est contra 
+            verita<lb break="no" ed="#P" n="90"/>tem, tamen simul ctiam est contra 
+            charita<lb break="no" ed="#P" n="91"/>tem. Et D. Thomas, quaest. 38, dicit esse
+            <lb ed="#P" n="92"/>peccatum mortale ex genere. Verum, si 
+            con<lb break="no" ed="#P" n="93"/>sideretur solum repugnantia quam hoc habet
+            <lb ed="#P" n="94"/>cum charitate, nimirum illa disjunctuio 
+            ani<lb break="no" ed="#P" n="95"/>morum quam potest per se efficere contentio,
+            <lb ed="#P" n="96"/>raro erit peccatum mortale, quia non 
+            fre<lb break="no" ed="#P" n="97"/>quenter laedit graviter charitatem; tamen quia
+            <lb ed="#P" n="98"/>ex se potest dissolvere amicitiam, et semper
+            <lb ed="#P" n="99"/>videtur habere aliquam admixtam rationem
+            <lb ed="#P" n="100"/>injuriae, ideo interdum esse poterit peccatum
+            <lb ed="#P" n="101"/>mortale.
+          </p>
+          <p xml:id="szthvi-b81484-d1e525">
+            <lb ed="#P" n="102"/>7. Queestiuncula de contentione non 
+            spec<lb break="no" ed="#P" n="103"/>tante ad fidem, et mores. — Cajetanus var. —
+            <lb ed="#P" n="104"/>Resolutio , de qua Sanch., l. 1. Decal., c. 9,
+            <lb ed="#P" n="105"/>n. 16, cum aliis. — Quaerit tamen Cajetanus
+            <lb ed="#P" n="106"/>an boc etiam habeat locum in rebus pure 
+            spe<lb break="no" ed="#P" n="107"/>culativis, quae neque ad fidem, neque ad 
+            mo<lb break="no" ed="#P" n="108"/>res spectant, et videtur affirmare, quamvis in
+            <lb ed="#P" n="109"/>Summa, verb. Contentio, oppositum sentiat;
+            <lb ed="#P" n="110"/>sed de hoc plura diximus in 1. 2, agentes de
+            <pb ed="#P" n="733"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>conscientia. Nunc breviter dico non esse grave
+            <lb ed="#P" n="2"/>peccatum, nisi fiat cum aliqua gravi injuria
+            <lb ed="#P" n="3"/>proximi; erit autem talis injuria, si quis ea
+            <lb ed="#P" n="4"/>ratione voluntarie doceat ea quae scit esse 
+            fal<lb break="no" ed="#P" n="5"/>sa, idque frequenter, et in rebus gravibus;
+            <lb ed="#P" n="6"/>nam haec est injuriosa deceptio, et magnum
+            <lb ed="#P" n="7"/>incommodum proximorum. Unde tandem 
+            in<lb break="no" ed="#P" n="8"/>telligitur quid dicendum sit, quando haec 
+            con<lb break="no" ed="#P" n="9"/>tentio non procedit ex illa intentione formali,
+            <lb ed="#P" n="10"/>sed vel ex quadam temeritate, vel ex gravi
+            <lb ed="#P" n="11"/>negligentia, ut cum quis sine sufficienti 
+            in<lb break="no" ed="#P" n="12"/>quisitione ac studio contrarium intendit in
+            <lb ed="#P" n="13"/>rebus gravibus; nam hoc poterit esse 
+            pecca<lb break="no" ed="#P" n="14"/>tum ejusdem rationis cum illa intentione 
+            for<lb break="no" ed="#P" n="15"/>mal pro ratione ignorantiae et negligentiae,
+            <lb ed="#P" n="16"/>solumque differt tanquam directe et indirecte
+            <lb ed="#P" n="17"/>voluntarium.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

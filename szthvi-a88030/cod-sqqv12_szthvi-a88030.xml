@@ -1,0 +1,2549 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 13</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 13</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="360"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-a88030"><!-- l1-d13 -->
+        <head xml:id="szthvi-a88030-Hd1e101">Disputatio 13</head>
+        <head xml:id="szthvi-a88030-Hd1e103" type="question-title">De praecepto interioris fidei</head>
+        <p xml:id="szthvi-a88030-d1e106">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="55"/>DISPUTATIO XIII.
+          <lb ed="#P" n="56"/>DE PRAECEPTO INTERIORIS FIDEI.
+        </p>
+        <p xml:id="szthvi-a88030-d1e115">
+          <lb ed="#P" n="57"/>Actus fidei interior et exterior. — Diximus
+          <lb ed="#P" n="58"/>de necessitate medii : dicendum sequitur de
+          <lb ed="#P" n="59"/>necessitate praecepti, prout cadit in actum
+          <lb ed="#P" n="60"/>fidei. Est autem duplex actus fidei, scilicet 
+          in<lb break="no" ed="#P" n="61"/>terior, qui partim est in intellectu, et est 
+          as<lb break="no" ed="#P" n="62"/>sensus rerum fidei; partim in voluntate, et est
+          <lb ed="#P" n="63"/>voluntas credendi. Alter actus est exterior, in
+          <lb ed="#P" n="64"/>confessione fidei consistens, et de utroque 
+          di<lb break="no" ed="#P" n="65"/>cit Paulus ad Roman. 10: Corde creditur ad
+          <lb ed="#P" n="66"/>Justitium, ore autem confessio fii ad salutem.
+          <lb ed="#P" n="67"/>In praesenti ergo disputatione dicemus de 
+          prae<lb break="no" ed="#P" n="68"/>cepto fidei, prout ad internum actum 
+          perti<lb break="no" ed="#P" n="69"/>net; in sequenti vero, prout ad exteriorem
+          <lb ed="#P" n="70"/>spectat, et consequenter dicemus de vitiis et
+          <lb ed="#P" n="71"/>peccatis quae contra haec pracepta 
+          commit<lb break="no" ed="#P" n="72"/>tuntur.
+        </p>
+        <div xml:id="szthvi-a88030-Dd1e152">
+          <head xml:id="szthvi-a88030-Hd1e154">Sectio 1</head>
+          <head xml:id="szthvi-a88030-Hd1e156" type="question-title">Utrum sit datum aliquod praeceptum de actu interiori fidei, et quo jure datum sit</head>
+          <p xml:id="szthvi-a88030-d1e159">
+            <lb ed="#P" n="73"/>SECTIO I.
+            <lb ed="#P" n="74"/>Utrum sit datum aliquod praeceptum de actu
+            <lb ed="#P" n="75"/>interiori fidei, et quo jure datum sit.
+          </p>
+          <p xml:id="szthvi-a88030-d1e168">
+            <lb ed="#P" n="76"/>1. Pro parte negante prima dubitandi raio
+            <lb ed="#P" n="77"/>bi membris. — Secundum memrum quoad jus
+            <lb ed="#P" n="78"/>naturale impugnatur. — Impugnatur deinde
+            <lb ed="#P" n="79"/>quoad jus supernaturale, tum ex Cajetano. —
+            <lb ed="#P" n="80"/>— Tum ratione difficili. — HRatio dubitandi
+            <lb ed="#P" n="81"/>est, quia vel hoc praeceptum est juris 
+            ecclesias<lb break="no" ed="#P" n="82"/>tici aut divini: neutrum autem videtur dici
+            <lb ed="#P" n="83"/>posse. Non quidem primum, quia praecepta
+            <lb ed="#P" n="84"/>ecclesiastica non dantur de actibus mere 
+            in<lb break="no" ed="#P" n="85"/>ternis, quia sicut illi actus non subsunt 
+            cog<lb break="no" ed="#P" n="86"/>nitioni humanae, ita neque subjiciuntur 
+            hu<lb break="no" ed="#P" n="87"/>manis legibus. Nec etiam secundum, quia vel
+            <lb ed="#P" n="88"/>tale praeceptum esset juris divini naturalis,
+            <lb ed="#P" n="89"/>vel supernaturalis : neutrum autem dici posse
+            <lb ed="#P" n="90"/>videtur. Probatur prima pars, quia actus fidei
+            <lb ed="#P" n="91"/>est supernaturalis: jus autem naturale non
+            <lb ed="#P" n="92"/>potest praecipere quae supernaturalia sunt,
+            <lb ed="#P" n="93"/>quia sunt altioris ordinis; item quia 
+            superna<lb break="no" ed="#P" n="94"/>turalia non percipiuntur cognitione naturali;
+            <lb ed="#P" n="95"/>jus autem naturaie vel nihil est aliud nisi
+            <lb ed="#P" n="96"/>cognitio ipsa naturalis, vel nonnisi per illam
+            <lb ed="#P" n="97"/>nobis proponitur : non potest ergo praeceptum
+            <lb ed="#P" n="98"/>esse juris naturalis. Neque etiam 
+            supernatu<lb break="no" ed="#P" n="99"/>ralis, primo, quia, ut objicit Cajetanus 2. 2,
+            <lb ed="#P" n="100"/>quaest. 10, art. 1. fides pertinet ad conditionem
+            <lb ed="#P" n="101"/>quamdam superantem naturam hominis. et di
+            <lb ed="#P" n="102"/>gnitatem ac statum ejus; ergo non potest illi
+            <lb ed="#P" n="103"/>praeci pi, sicut, inquit, non potest rec preecipere
+            <lb ed="#P" n="104"/>communi et vulgari civi ea, qve sunt propria
+            <lb ed="#P" n="105"/>status nobilium ; ita ergo non potest homini
+            <pb ed="#P" n="361"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>praecipi ut ascendat ultra gradum et statum 
+            hu<lb break="no" ed="#P" n="2"/>manae naturae, neque ut illos actus exerceat,
+            <lb ed="#P" n="3"/>qui ad statum naturalem ejus non pertinent.
+            <lb ed="#P" n="4"/>Sccunco , etiam difficilius, quia omne 
+            praece<lb break="no" ed="#P" n="5"/>ptum imponitur illi qui potest illud 
+            cognos<lb break="no" ed="#P" n="6"/>ccre priusquam praecepto obligetur, quia non
+            <lb ed="#P" n="7"/>obligatur nisi media cognitione; praeceptum
+            <lb ed="#P" n="8"/>autem fidei tale est, ut non possit cognosci
+            <lb ed="#P" n="9"/>priusquam obliget; imo neque priusquam 
+            exer<lb break="no" ed="#P" n="10"/>ceatur, quia non potest cognosci nisi per 
+            ip<lb break="no" ed="#P" n="11"/>sam fidem; ergo nunquam potest incipere 
+            obli<lb break="no" ed="#P" n="12"/>gare, quia deberet obligare hominem nondum
+            <lb ed="#P" n="13"/>credentem, quod videtur impossibile ob 
+            ra<lb break="no" ed="#P" n="14"/>tionem factam.
+          </p>
+          <p xml:id="szthvi-a88030-d1e270">
+            <lb ed="#P" n="15"/>2. Prima assertio. — Nihilominus 
+            dicen<lb break="no" ed="#P" n="16"/>dum est primo, datum esse hominibus 
+            ali<lb break="no" ed="#P" n="17"/>quod praeceptum obligans ad interiorem 
+            fi<lb break="no" ed="#P" n="18"/>dem. Haec assertio communis est 
+            Thomista<lb break="no" ed="#P" n="19"/>rum, et certa secundum fidem : habetur 
+            ex<lb break="no" ed="#P" n="20"/>pressa 1 Joann. 3: Hoc est mandatum ejus, ut
+            <lb ed="#P" n="21"/>credavus in nomine Fili cjus. Deinde 
+            colligi<lb break="no" ed="#P" n="22"/>tur ex quadam certa regula, quod omnia quae
+            <lb ed="#P" n="23"/>in Seriptura proponuntur sub comminatione
+            <lb ed="#P" n="24"/>aeternae damnationis, posita sunt sub rigoroso
+            <lb ed="#P" n="25"/>praecepto, sicut Paulus, post multa quae 
+            dixe<lb break="no" ed="#P" n="26"/>rat ad Galat. 5, subjunsit : Qui talia agunt,
+            <lb ed="#P" n="27"/>regnum Dei non possidebunt ; et sicut Christus
+            <lb ed="#P" n="28"/>dixit Joann. 6: NVisi manducaveritis carnem
+            <lb ed="#P" n="29"/>Filii hominis, etc., non habebitis vitam in 
+            co<lb break="no" ed="#P" n="30"/>LDis : nam inde optime colligitur praeceptum;
+            <lb ed="#P" n="31"/>et ratio cst, quia nemo damnatur nisi propter
+            <lb ed="#P" n="32"/>peccatum ; omne autem peccatum est contra
+            <lb ed="#P" n="33"/>praeceptum, juxta definitionem suam; at vero
+            <lb ed="#P" n="34"/>fides exigitur in Scriptura sub tali 
+            commina<lb break="no" ed="#P" n="35"/>t'one, Matth. ultim. : Qui non crediderit,
+            <lb ed="#P" n="36"/>condemnabitur ; Paul. ad Hebr. 2: Quomodo
+            <lb ed="#P" n="37"/>nos effugiemus, si tantam neglexerimus 
+            salu<lb break="no" ed="#P" n="38"/>tem ? et cap. 10: Justus ex fide vivit; quod
+            <lb ed="#P" n="39"/>si subtracerit se, non placebit anime mea.
+            <lb ed="#P" n="40"/>Est ergo fides sub praecepto rigorose obligante
+            <lb ed="#P" n="41"/>sub reatu aeternae damnationis. Et hoc modo
+            <lb ed="#P" n="42"/>dixit Cyrillus Hierosolymitanus, caiechesi 5:
+            <lb ed="#P" n="43"/>Cave ne ob inscitiam pereas, ubi loquebatur de
+            <lb ed="#P" n="44"/>fide symboli; et similiter Irenaeus, lib. 3 
+            con<lb break="no" ed="#P" n="45"/>tra Haereses, cap. 21: Ignorantes, iuquit, eum
+            <lb ed="#P" n="46"/>qui ex virgine est, privantur munere cjus,
+            <lb ed="#P" n="47"/>quod est vita eternn. Et similia videri possunt
+            <lb ed="#P" n="48"/>in Gregor., lib 1 Regum, cap. 1€, et lib. 7
+            <lb ed="#P" n="49"/>Epistolarum , epistola 47; et in Augustino
+            <lb ed="#P" n="50"/>et aliis, superiori disputatione allegatis ; haec
+            <lb ed="#P" n="51"/>enim assertio etiam sequitur ex ibi dictis;
+            <lb ed="#P" n="52"/>nam ea quae sunt media necessaria ad 
+            salu<lb break="no" ed="#P" n="53"/>tem, si consistant in actu libero et humano,
+            <lb ed="#P" n="54"/>etiam sunt sub praecepto, quia, ut ibi dixi,
+            <lb ed="#P" n="55"/>vel ipsa necessitas medii oritur ex praecepto,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>vel illud secum adducit, quia maxime 
+            praeci<lb break="no" ed="#P" n="57"/>piuntur illa quae ad salutem neccssaria sunt;
+            <lb ed="#P" n="58"/>nam hoc praecipue pertinet ad bonam et 
+            pru<lb break="no" ed="#P" n="59"/>dentem gubernationem; Deus enim praecipue
+            <lb ed="#P" n="60"/>intendit salutm hominum ; ergo maxime
+            <lb ed="#P" n="61"/>etiam praecipit quod ad illam consequendam
+            <lb ed="#P" n="62"/>necessarium est; cum ergo fides sit necessaria
+            <lb ed="#P" n="63"/>ad salutem, manifestum est de illa datum esse
+            <lb ed="#P" n="64"/>praeceptum, cum ipsa in actu humano et 
+            libe<lb break="no" ed="#P" n="65"/>ro posita sit.
+          </p>
+          <p xml:id="szthvi-a88030-d1e386">
+            <lb ed="#P" n="66"/>3. Secunda assertio : quale sit hec 
+            praece<lb break="no" ed="#P" n="67"/>ptum fidei internee. — Jus naturale dupliciter
+            <lb ed="#P" n="68"/>usurpatur. — Dico secundo: hoc praeceptum,
+            <lb ed="#P" n="69"/>secundum substantiam suam juris divini, est
+            <lb ed="#P" n="70"/>aliquo modo naturalis, et aliquo modo 
+            super<lb break="no" ed="#P" n="71"/>naturalis. De priori parte assertionis nulla est
+            <lb ed="#P" n="72"/>difficultas, tum propter rationem in principio
+            <lb ed="#P" n="73"/>factam, quia hoc praeceptum est de actu 
+            maxi<lb break="no" ed="#P" n="74"/>me interno; tum etiam quia est de actu
+            <lb ed="#P" n="75"/>supernaturali, et de fundamento 
+            supernatu<lb break="no" ed="#P" n="76"/>rali justitiae, ad quam solus Deus poterat 
+            ho<lb break="no" ed="#P" n="77"/>minem obligare: illud autem praeceptum 
+            di<lb break="no" ed="#P" n="78"/>citur esse divini juris, quod P'eum ipsum 
+            ha<lb break="no" ed="#P" n="79"/>bet auctorem immediatum et proximum. Ut
+            <lb ed="#P" n="80"/>autem altera pars intelligatur, sciendum 
+            im<lb break="no" ed="#P" n="81"/>primis est, jus naturale duobus modis dici
+            <lb ed="#P" n="82"/>posse. Uno modo, per ordinem ad rationalem
+            <lb ed="#P" n="83"/>naturam pure sumptam, id est, ut tendentem
+            <lb ed="#P" n="84"/>in naturalem fincm, et dictantem per solum
+            <lb ed="#P" n="85"/>lumen naturalis rationis. Alio modo dicitur
+            <lb ed="#P" n="86"/>jus naturale per connaturalitatem ad 
+            gra<lb break="no" ed="#P" n="87"/>tiam, seu ad supernaturalem finem, ad quem
+            <lb ed="#P" n="88"/>homo elevatus et ordinatus est, quomodo 
+            di<lb break="no" ed="#P" n="89"/>cuntur homines gentiles potuisse salvari in
+            <lb ed="#P" n="90"/>lege naturae, non quia per solam rationem
+            <lb ed="#P" n="91"/>naturalem salvari possent, sed quia tunc non
+            <lb ed="#P" n="92"/>habebant praecepta divina, nisi connaturalia
+            <lb ed="#P" n="93"/>vel naturae, vel gratiae, ut latius in materia
+            <lb ed="#P" n="94"/>de legibus tractatur.
+          </p>
+          <p xml:id="szthvi-a88030-d1e451">
+            <lb ed="#P" n="95"/>4. Quee cognitio Dei sit in pracepto. — 
+            Se<lb break="no" ed="#P" n="96"/>cundum observandum est, aliud esse loqui de
+            <lb ed="#P" n="97"/>cognitione Dei, aut rerum agendarum ab 
+            ho<lb break="no" ed="#P" n="98"/>mine rccte et honeste, aliud vero esse loqui
+            <lb ed="#P" n="99"/>de cognitione per fidem: utrumque enim cadit
+            <lb ed="#P" n="100"/>sub obligationem aliquo modo naturalem, scd
+            <lb ed="#P" n="101"/>non ejusdem rationis. Unde si loquamur 
+            ab<lb break="no" ed="#P" n="102"/>solute de cognitione, quae per scientiam vel
+            <lb ed="#P" n="103"/>aliquam fidem humanam et prudentem haberi
+            <lb ed="#P" n="104"/>porest, lex pure naturalis consistens in 
+            dicta<lb break="no" ed="#P" n="105"/>mine rationis fundato in solo natuiali lumine
+            <lb ed="#P" n="106"/>obligat ad babendam et procurandam veram
+            <lb ed="#P" n="107"/>Dei cognitionem. Primo, quia est ultimus 
+            fi<lb break="no" ed="#P" n="108"/>nis in quem non potest tendere convenienter,
+            <lb ed="#P" n="109"/>nisi illam cognoscat. Secundo, quia lex 
+            natu<lb break="no" ed="#P" n="110"/>ralis obligat ad diligendum Deum, et sicut
+            <pb ed="#P" n="362"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>Deum glorificandum, quod facere homo non
+            <lb ed="#P" n="2"/>potest, nisi verum Deum cognoscat, et 
+            conse<lb break="no" ed="#P" n="3"/>quenter necessarium est cognoscere alia quae
+            <lb ed="#P" n="4"/>ad honeste vivendum et secundum rectam 
+            ra<lb break="no" ed="#P" n="5"/>tionem sunt necessaria, propter easdem 
+            ra<lb break="no" ed="#P" n="6"/>tiones.
+          </p>
+          <p xml:id="szthvi-a88030-d1e506">
+            <lb ed="#P" n="7"/>5. Fidei interne preceptum esse juris 
+            na<lb break="no" ed="#P" n="8"/>turalis secundo modo ostenditur. — At vero
+            <lb ed="#P" n="9"/>superior cognitio, quae est per fidem, non 
+            po<lb break="no" ed="#P" n="10"/>test hoc modo pertinere immediate ad legem
+            <lb ed="#P" n="11"/>pure raturalem propter rationes supra faetas.
+            <lb ed="#P" n="12"/>Nihilominus tamen, servata proportione, hinc
+            <lb ed="#P" n="13"/>colligimus praeceptum hujus filei pertinere
+            <lb ed="#P" n="14"/>ad legem naturalem secundo modo sumptam,
+            <lb ed="#P" n="15"/>id est, connaturalem gratiae et statui viatoris
+            <lb ed="#P" n="16"/>tendentis in supernaturalem finem : nam sicut
+            <lb ed="#P" n="17"/>Deus, ut auctor naturae, comparatur ad 
+            natu<lb break="no" ed="#P" n="18"/>ram rationalem. ita Deus, ut auctor gratiae, et
+            <lb ed="#P" n="19"/>ut objectum supernaturalis beatitudinis, 
+            com<lb break="no" ed="#P" n="20"/>paratur ad hominem elevatum per gratiam ad
+            <lb ed="#P" n="21"/>illum finem ; ergo sicut naturalis cognitio
+            <lb ed="#P" n="22"/>veri Dei est de jure naturali puro, ita 
+            super<lb break="no" ed="#P" n="23"/>naturalis cognitio Dei, ut finis supernaturalis,
+            <lb ed="#P" n="24"/>est de jure connaturali gratiae ; militant enim
+            <lb ed="#P" n="25"/>eaedem rationes, quia sine tali cognitione non
+            <lb ed="#P" n="26"/>potest homo recte instituere vitam in ordine
+            <lb ed="#P" n="27"/>ad illum finem, neque illum diligere et 
+            hono<lb break="no" ed="#P" n="28"/>rare sicut oportet. Et confirmatur a 
+            posterio<lb break="no" ed="#P" n="29"/>ri : nam hoc praeceptum obligavit homines in
+            <lb ed="#P" n="30"/>omni tempore, etiam legis naturae, quae ita
+            <lb ed="#P" n="31"/>appellatur, quia non habePat specialia 
+            prae<lb break="no" ed="#P" n="32"/>cepta divina positiva, praeter ea quae erant
+            <lb ed="#P" n="33"/>connaturalia gratiae in illo statu : ergo inter
+            <lb ed="#P" n="34"/>illa hoc praeceptum continetur. Dices, hanc
+            <lb ed="#P" n="35"/>rationem probare de aliqua cognitione 
+            super<lb break="no" ed="#P" n="36"/>naturali, non vero in speciali de cognitione
+            <lb ed="#P" n="37"/>fidei. Respondeo, ideo nos non esse locu*os 
+            ab<lb break="no" ed="#P" n="38"/>solute de gratia, sed de gratia viae : nam Deus
+            <lb ed="#P" n="39"/>convenienter statuit non dare hominibus 
+            im<lb break="no" ed="#P" n="40"/>mediate illam beatitudinem, nisi prius per
+            <lb ed="#P" n="41"/>sua opera in illam tenderent, et ideo non 
+            con<lb break="no" ed="#P" n="42"/>tulit illis supernaturalem cognitionem 
+            cla<lb break="no" ed="#P" n="43"/>ram, scd obsceuram, quae erat aptior ad 
+            meri<lb break="no" ed="#P" n="44"/>tum, et ad obsequium non solum voluntatis,
+            <lb ed="#P" n="45"/>scel etiam intcllectus illi praestandum. Hoc
+            <lb ed="#P" n="46"/>ergo statu supposito, dicimus illud esse 
+            con<lb break="no" ed="#P" n="47"/>naturale praeceptum fidei, et ideo non 
+            tan<lb break="no" ed="#P" n="48"/>tum in statu naturae lapsae, sed etiam in statu
+            <lb ed="#P" n="49"/>innocentiae, imo et in ipsis Angelis in statu
+            <lb ed="#P" n="50"/>viae inventum est hoc praeceptum.
+          </p>
+          <p xml:id="szthvi-a88030-d1e604">
+            <lb ed="#P" n="51"/>6. Tertia assertio : preeceptum fidei in ipsa
+            <lb ed="#P" n="52"/>ratione naturali saltem remote fundatur. —
+            <lb ed="#P" n="53"/>Pra ceptum fidei interue partim est 
+            positi<lb break="no" ed="#P" n="54"/>vwn, partvn negativum. — Addo vero ulterius
+            <lb ed="#P" n="55"/>etiam esse hoc praeceptum conseutaneum ipsi
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>rationi mere naturali, et quodammodo in illa
+            <lb ed="#P" n="57"/>radicaliter fundatum saltem remote, juxta illud
+            <lb ed="#P" n="58"/>Augustini de Praedestinatione Sanctorum, cap.
+            <lb ed="#P" n="59"/>septimo : Posse habere fidem, natura est 
+            homi<lb break="no" ed="#P" n="60"/>num ; habere autem , gratia est fideliwmn ; nam ad
+            <lb ed="#P" n="61"/>hune modum loqui possumus cum 
+            propor<lb break="no" ed="#P" n="62"/>tione de praecepto : ad hoc autem 
+            declaran<lb break="no" ed="#P" n="63"/>dum, quasi per partes, adverto praeceptum
+            <lb ed="#P" n="64"/>hoc partim negativum esse, partim 
+            posi<lb break="no" ed="#P" n="65"/>tivum, et utrumque membrum duas 
+            obliga<lb break="no" ed="#P" n="66"/>tiones imponere. Prima obligatio negativa
+            <lb ed="#P" n="67"/>est, non repugnandi fidei semel sufficienter
+            <lb ed="#P" n="68"/>propositae, id est, non dissentire illi, vel 
+            tan<lb break="no" ed="#P" n="69"/>quam falsam repudiare; et ad hanc etiam
+            <lb ed="#P" n="70"/>obligationem pertinet non retrocedere ab illa
+            <lb ed="#P" n="71"/>fide semel recepta, et quoad hanc partem est
+            <lb ed="#P" n="72"/>haec obiigatio valde conformis rationi 
+            natu<lb break="no" ed="#P" n="73"/>rali, quod sensit D. Thomas 2. 2, quaest. 10,
+            <lb ed="#P" n="74"/>artic. 1, ad primum dicens: Zabere fidem non
+            <lb ed="#P" n="75"/>est in natura Inmana ; in na'ura tamen 
+            hu<lb break="no" ed="#P" n="76"/>mana, est, ut mens hominis non repugnet 
+            in<lb break="no" ed="#P" n="77"/>teriori instinctui et eateriori veritatis 
+            praeedi<lb break="no" ed="#P" n="78"/>cationi. katio autem est, quia, supposita 
+            suf<lb break="no" ed="#P" n="79"/>ficienti propositione fidei, naturalis ratio 
+            dic<lb break="no" ed="#P" n="80"/>tat ut non credatur esse falsum quod tanto
+            <lb ed="#P" n="81"/>Dei testimonio confirmatur, quia naturale 
+            lu<lb break="no" ed="#P" n="82"/>men rationis ostendit Deum non posse 
+            men<lb break="no" ed="#P" n="83"/>tiri; ergo hoc de Deo cogitare est injuria,
+            <lb ed="#P" n="84"/>quae ipsi Deo fit contra rationem naturalem.
+            <lb ed="#P" n="85"/>Dices : qui dissentiunt rebus fidei, et illas 
+            fal<lb break="no" ed="#P" n="86"/>sas esse judicant, non ideo ita existimant quia
+            <lb ed="#P" n="87"/>putant Deum mentiri, sed quia non credunt
+            <lb ed="#P" n="88"/>Deum eas dicere; et ita non irrogant Deo 
+            prae<lb break="no" ed="#P" n="89"/>dictam injuriam naturalh rationi contrariam.
+            <lb ed="#P" n="90"/>Respondetur, hcc ipsum esse contra rationem
+            <lb ed="#P" n="91"/>naturalem, quia sufficiens propositio fidei 
+            evi<lb break="no" ed="#P" n="92"/>denter ostendit esse credibile, Deum illas res
+            <lb ed="#P" n="93"/>dicere, ut supra ostensum est, et ideo etiam
+            <lb ed="#P" n="94"/>contra naturalem prudentiam est illas non
+            <lb ed="#P" n="95"/>admittere, ut a Deo dictas'. Et hinc fit ut qui
+            <lb ed="#P" n="96"/>illas falsas existimat, etiam faciat injuriam
+            <lb ed="#P" n="97"/>veritati Dei : nam si mihi sufficienter 
+            propo<lb break="no" ed="#P" n="98"/>natur aliquid ut dictum vel mandatum a rege,
+            <lb ed="#P" n="99"/>ita ut non possim prudenter aliud existimare,
+            <lb ed="#P" n="100"/>injuriam faciam regi, si illud non suscipiam
+            <lb ed="#P" n="101"/>ut dictum vel praeceptum regium; ergo idem
+            <lb ed="#P" n="102"/>est multo majori ratione respectu Dei, et ideo
+            <lb ed="#P" n="103"/>qui sic tergiversatur contra fidem suflicienter
+            <lb ed="#P" n="104"/>propositam , licet aperte non fateatur Deum
+            <lb ed="#P" n="105"/>falsum dicere, moraliter non minus culpatur
+            <lb ed="#P" n="106"/>quam si id diceret: praesertim quia, ut in 
+            su<lb break="no" ed="#P" n="107"/>perioribus vidimus? Deus revelando res fidei,
+            <pb ed="#P" n="363"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>non tantum dicit res ipsas, sed etiam dicit se
+            <lb ed="#P" n="2"/>dicere, quia totum hoc est necessarium ad 
+            cer<lb break="no" ed="#P" n="3"/>titudinem fidei ; et ideo, qui negat Deum has
+            <lb ed="#P" n="4"/>res dixisse, eo ipso tribuit Deo falsitatem et
+            <lb ed="#P" n="5"/>mendacium, quod est contra rationem 
+            natu<lb break="no" ed="#P" n="6"/>ralem.
+          </p>
+          <p xml:id="szthvi-a88030-d1e750">
+            <lb ed="#P" n="7"/>7. Praeceptum negativum fidei interioris 
+            ez<lb break="no" ed="#P" n="8"/>cludit etiam omnem dubitationem ab actu. —
+            <lb ed="#P" n="9"/>Altera obligatio hujus praecepti negativa est,
+            <lb ed="#P" n="10"/>ut contra res fidei neque dubium neque 
+            for<lb break="no" ed="#P" n="11"/>mido admittatur, utique voluntarie ac 
+            deli<lb break="no" ed="#P" n="12"/>berate, nam de his actibus dantur praecepta.
+            <lb ed="#P" n="13"/>Ratio hujus obligatiunis est, quia de ratione
+            <lb ed="#P" n="14"/>fidei est summa certitudo, ut in superioribus
+            <lb ed="#P" n="15"/>visum est; dubium autem seu formido 
+            exclu<lb break="no" ed="#P" n="16"/>dit certitudinem ; destruit ergo fidem; ergo
+            <lb ed="#P" n="17"/>eodem praecepto quo tenemur non recedere
+            <lb ed="#P" n="18"/>ab hac fide, nec rebus ejus dissentire, 
+            tene<lb break="no" ed="#P" n="19"/>mur etiam de illius veritate non dubitare.
+            <lb ed="#P" n="20"/>Unde haec obligatio formaliter et in se 
+            consi<lb break="no" ed="#P" n="21"/>derata magis supernaturalis est, quia illa 
+            exis<lb break="no" ed="#P" n="22"/>timatio de tanta certitudine fidei nimis 
+            super<lb break="no" ed="#P" n="23"/>naturalis est. Nihilominus tamen etiam haec
+            <lb ed="#P" n="24"/>obligatio est valde conformis lumini, et 
+            ra<lb break="no" ed="#P" n="25"/>tioni naturali, et saltem remote potest in illa
+            <lb ed="#P" n="26"/>fundari, quia naturalis ratio dictat Deum esse
+            <lb ed="#P" n="27"/>primam, infallibilem veritatem ; ergo dictat,
+            <lb ed="#P" n="28"/>esse intrinsece malum et contra rationem,
+            <lb ed="#P" n="29"/>non solum credere, sed etiam suspicari de
+            <lb ed="#P" n="30"/>Deo mendacium, aut deliberate timere ne sit
+            <lb ed="#P" n="31"/>falsum quod ipse affirmat. Sed qui dubitat
+            <lb ed="#P" n="32"/>de veritate rei revelatae per fidem, eo ipso
+            <lb ed="#P" n="33"/>suspicatur, vel timet, ne Deus falsum dixerit,
+            <lb ed="#P" n="34"/>juxta discursum factum in praecedenti 
+            punc<lb break="no" ed="#P" n="35"/>to : ergo praeceptum prohibens simile 
+            du<lb break="no" ed="#P" n="36"/>bium est valde fundatum in ratione 
+            natu<lb break="no" ed="#P" n="37"/>rali.
+          </p>
+          <p xml:id="szthvi-a88030-d1e820">
+            <lb ed="#P" n="38"/>8. Quam obligationem inducat preceptum
+            <lb ed="#P" n="39"/>positivum fidei interioris. — Altera pars
+            <lb ed="#P" n="40"/>obligationis hujus praecepti positiva est, ut
+            <lb ed="#P" n="41"/>diximus, et in duas alias subdividi potest.
+            <lb ed="#P" n="42"/>Prima est obligatio quae insurgit ad 
+            creden<lb break="no" ed="#P" n="43"/>dum facta sufficienti propositione fidei, quae
+            <lb ed="#P" n="44"/>dici potest obligatio quoad exercitium actus;
+            <lb ed="#P" n="45"/>nam obligatio quoad specificationem sub 
+            pri<lb break="no" ed="#P" n="46"/>ma obligatione negativa includitur : nam,
+            <lb ed="#P" n="47"/>cum is qui sufficienter fidem audivit 
+            tenea<lb break="no" ed="#P" n="48"/>tur ab ea non discedere, eo ipso etiam 
+            obli<lb break="no" ed="#P" n="49"/>gatur ut, si velit aliquem actum elicere, ille
+            <lb ed="#P" n="50"/>sit actus credendi, et non contrarius, quae est
+            <lb ed="#P" n="51"/>obligatio quoad specificationem actus : per
+            <lb ed="#P" n="52"/>hoc autem praeceptum, ut affirmativum est,
+            <lb ed="#P" n="53"/>obligatur homo non tantum ad speciem actus,
+            <lb ed="#P" n="54"/>sed etiam ad exercitium ejus, et absolute ut 
+            ve<lb break="no" ed="#P" n="55"/>lit credere, quae obligatio in effectu et actua-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>liter non insurgit, donec fides sit sufficienter
+            <lb ed="#P" n="57"/>proposit: . Dico autem in effectu et actualiter,
+            <lb ed="#P" n="58"/>quia praeceptum ipsum ex se potest dici 
+            obli<lb break="no" ed="#P" n="59"/>gare omnes, postquam sufticienter 
+            promulga<lb break="no" ed="#P" n="60"/>tum est ; tamen de facto non obligat 
+            unum<lb break="no" ed="#P" n="61"/>quemque, donec illi sit fides proposita, sive
+            <lb ed="#P" n="62"/>illa dicatur non obligatio, sive excusatio,
+            <lb ed="#P" n="63"/>quod pertinet ad quaestionem de nomine, et ita
+            <lb ed="#P" n="64"/>dixit Christus Dominus : Si non cenissem, et
+            <lb ed="#P" n="65"/>locutus eis fuissem, peccatum non haberent :
+            <lb ed="#P" n="66"/>munc autem excusationem non habent de peccato
+            <lb ed="#P" n="67"/>suo, Joan. 15. Unde acontrario, facta sufficienti
+            <lb ed="#P" n="68"/>praedicatione , nulla relinquitur excusatio :
+            <lb ed="#P" n="69"/>tunc ergo insurgit actualis obligatio. Et ratio
+            <lb ed="#P" n="70"/>est, quia ipsa fides proponitur, ut maxime 
+            ne<lb break="no" ed="#P" n="71"/>cessaria ad salutem, ad quam non satis est
+            <lb ed="#P" n="72"/>non discredere, sed oportet credere; ergo 
+            in<lb break="no" ed="#P" n="73"/>surgit positiva obligatio credendi, et haec
+            <lb ed="#P" n="74"/>obligatio in se est maxime supernaturalis 
+            ab<lb break="no" ed="#P" n="75"/>solute loquendo. Nihilominus tamen etiam
+            <lb ed="#P" n="76"/>habet magnum fundamentum in ratione 
+            na<lb break="no" ed="#P" n="77"/>turali. Primo quidem, quia ratio naturalis
+            <lb ed="#P" n="78"/>dietat esse dandam fidem, ubi, secundum 
+            ju<lb break="no" ed="#P" n="79"/>dicium prudentiae, constat rem esse maxime
+            <lb ed="#P" n="80"/>credibilem : hoc autem evidenter convincitur
+            <lb ed="#P" n="81"/>de fide catholica sufficienter proposita, ut in
+            <lb ed="#P" n="82"/>superioribus ostensum est; ergo facta tali 
+            pro<lb break="no" ed="#P" n="83"/>positione est fides conformis dictamini 
+            ratio<lb break="no" ed="#P" n="84"/>nis naturalis. Secundo, quia primae veritati
+            <lb ed="#P" n="85"/>non solum debetur non discredere dictis ejus,
+            <lb ed="#P" n="86"/>sed etiam illis credere ; nam etiam inter 
+            ho<lb break="no" ed="#P" n="87"/>mines fieret injuria homini bonae fidei et 
+            ma<lb break="no" ed="#P" n="88"/>gnae auctoritatis, non tantum discredendo, sed
+            <lb ed="#P" n="89"/>etiam non credendo : nam hoc ipsum includit
+            <lb ed="#P" n="90"/>quamdam tacitam dubitationem de veritate
+            <lb ed="#P" n="91"/>illius. Tertio, quia homo non credendo 
+            te<lb break="no" ed="#P" n="92"/>mere se exponit periculo damnationis, quod
+            <lb ed="#P" n="93"/>est contra naturalem rationem.
+          </p>
+          <p xml:id="szthvi-a88030-d1e947">
+            <lb ed="#P" n="94"/>9. Quod et quale sit preceptum audiendi et
+            <lb ed="#P" n="95"/>inguirendi de fide. — Ultima obligatio etiam
+            <lb ed="#P" n="96"/>positiva est obligatio audiendi, inquirendi,
+            <lb ed="#P" n="97"/>seu addiscendi ipsam fidem, quae in hoc 
+            df<lb break="no" ed="#P" n="98"/>fert a praecedente, quod illa supponit auditum
+            <lb ed="#P" n="99"/>fidei, et ideo non difficile intelligitur 
+            quo<lb break="no" ed="#P" n="100"/>modo insurgat; hac autem supponitur 
+            ante<lb break="no" ed="#P" n="101"/>cedere; nam dicitur obligare ad audiendum,
+            <lb ed="#P" n="102"/>sen discendum, ideoque difficile intelligitur
+            <lb ed="#P" n="103"/>quomodo incipiat ligare hominem, aut 
+            quo<lb break="no" ed="#P" n="104"/>modo possit in ratione naturali fundari, etiam
+            <lb ed="#P" n="105"/>remote. Unde fateor hanc obligationem esse
+            <lb ed="#P" n="106"/>maxime supernaturalem, et non posse in 
+            ho<lb break="no" ed="#P" n="107"/>mine inchoari, seu illi applicari, donec Deus
+            <lb ed="#P" n="108"/>sua gratia incipiat illuminare et excitare 
+            ho<lb break="no" ed="#P" n="109"/>minem, sive exterius per homines, sive 
+            inte<lb break="no" ed="#P" n="110"/>rius per suas inspirationes ; posita autem hac
+            <pb ed="#P" n="364"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>inspiratione, paulatim insurgit ista obligatio,
+            <lb ed="#P" n="2"/>juxta modum inspirationis, et conditionem,
+            <lb ed="#P" n="3"/>seu necessitatem hominis. Itaque, si sit homo
+            <lb ed="#P" n="4"/>infidelis qui in erroribus contra lumen 
+            natu<lb break="no" ed="#P" n="5"/>rale detinetur, incipiet remorsum conscientiae
+            <lb ed="#P" n="6"/>sentire circa ipsosmet errores, et tunc incipiet
+            <lb ed="#P" n="7"/>obligari ad quaerendam veritatem in illa 
+            mate<lb break="no" ed="#P" n="8"/>ria ; et tunc si cum divino auxilio fecerit quod
+            <lb ed="#P" n="9"/>in se est, paulatim magis ac magis 
+            illumina<lb break="no" ed="#P" n="10"/>bitur, atque ita etiam magis ac magis 
+            obligabi<lb break="no" ed="#P" n="11"/>tur ad inquirendam veritatem, donec ad 
+            suffi<lb break="no" ed="#P" n="12"/>cientem fidei propositionem perveniat. Et hic
+            <lb ed="#P" n="13"/>videtur esse ordinarius modus in hominibus
+            <lb ed="#P" n="14"/>fide carentibus, quia inter eos nullus est
+            <lb ed="#P" n="15"/>qui etiam in naturalibus non erret: si autem
+            <lb ed="#P" n="16"/>contingeret non errare in iis, excitabitur a
+            <lb ed="#P" n="17"/>Deo mnterius, ut altiorem Dei cognitionem
+            <lb ed="#P" n="18"/>quaerat, vel etiam saepe per publicam famam
+            <lb ed="#P" n="19"/>evangelicae veritatis, instigante etiam interius
+            <lb ed="#P" n="20"/>Spiritu Sancto, potest talis dubitatio interior
+            <lb ed="#P" n="21"/>concipi, quae obliget hominem ad 
+            inquiren<lb break="no" ed="#P" n="22"/>dam veritatem, et petendum a Deo eo modo
+            <lb ed="#P" n="23"/>quo potuerit, ut ipsum illuminet : his ergo et
+            <lb ed="#P" n="24"/>similibus modis inchoari potest haec obligatio,
+            <lb ed="#P" n="25"/>et ita etiam potest semper juvari discursu 
+            na<lb break="no" ed="#P" n="26"/>turali, quia semper id proponitur ut 
+            necessa<lb break="no" ed="#P" n="27"/>rium, vel maxime conveniens, vel ad honeste
+            <lb ed="#P" n="28"/>vivendum, vel ad finem ultimum 
+            consequen<lb break="no" ed="#P" n="29"/>dum ; dictat autem naturalis ratio teneri 
+            ho<lb break="no" ed="#P" n="30"/>minem ad hoc procurandum. Et juxta haec 
+            ac<lb break="no" ed="#P" n="31"/>commodanda sunt quae in lib. 10 de Legibus,
+            <lb ed="#P" n="32"/>cap. 2, num. S, diximus.
+          </p>
+          <p xml:id="szthvi-a88030-d1e1060">
+            <lb ed="#P" n="33"/>10. Fit satis rationi dubitandi in n. 1. —
+            <lb ed="#P" n="34"/>Ex quibus facile est respondere ad rationcm
+            <lb ed="#P" n="35"/>dubitandi in principio positam; concedimus
+            <lb ed="#P" n="36"/>enim in primis hoc praeceptum non esse pure
+            <lb ed="#P" n="37"/>humanum quoad substantiam snam, ut prohat
+            <lb ed="#P" n="38"/>sufficienter ratio facta; dico autem quoa4 
+            sub<lb break="no" ed="#P" n="39"/>stantiam, quia quoad modum, vel 
+            determi<lb break="no" ed="#P" n="40"/>nationem potest aliquid habere ex praecepto
+            <lb ed="#P" n="41"/>Ecclesiae, ut infra dicam. Deinde concedimus
+            <lb ed="#P" n="42"/>praece ptum hoc esse simpliciter supernaturale,
+            <lb ed="#P" n="43"/>quamvis habeat conformitatem cum ratione
+            <lb ed="#P" n="44"/>naturali, ut explicavi.
+          </p>
+          <p xml:id="szthvi-a88030-d1e1089">
+            <lb ed="#P" n="45"/>11. Ad primam impugnationem ex Cajetano,
+            <lb ed="#P" n="46"/>contra secundum membrum ibid. — Ad 
+            pri<lb break="no" ed="#P" n="47"/>mam autem objectionem contra hoc 
+            mem<lb break="no" ed="#P" n="48"/>brum ex Cajetano sumptam respondetur ,
+            <lb ed="#P" n="49"/>quamvis supernaturalis perfectio sit supra 
+            di<lb break="no" ed="#P" n="50"/>gnitatem naturalem hominis, nihilominus 
+            po<lb break="no" ed="#P" n="51"/>tuisse Deum constituere hominem in illo 
+            gra<lb break="no" ed="#P" n="52"/>du et dignitate superiori, independenter a
+            <lb ed="#P" n="53"/>con:ensu vel voluntate ejus, sicut creavit et
+            <lb ed="#P" n="54"/>ordinavit hominem ad finem supernaturalem
+            <lb ed="#P" n="55"/>ex sua mera voluntate et potestate ; facta au-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>tem hac institutione, potuit etiam praeccpta
+            <lb ed="#P" n="57"/>illi imponere, ei dignitati et statui 
+            consenta<lb break="no" ed="#P" n="58"/>nea. Addo etiam inter homines posse aliquid
+            <lb ed="#P" n="59"/>simile fieri; nam potest princeps vel Pontifex
+            <lb ed="#P" n="60"/>constituere infirmum hominem in statu 
+            nobi<lb break="no" ed="#P" n="61"/>lium, etiam obligando illum, si oportuerit,
+            <lb ed="#P" n="62"/>ad ascendendum ad illum gradum, et tunc
+            <lb ed="#P" n="63"/>imponere illi praecepta illi gradui et statui
+            <lb ed="#P" n="64"/>consentanea ; multo ergo facilius id potuit
+            <lb ed="#P" n="65"/>facere Deus.
+          </p>
+          <p xml:id="szthvi-a88030-d1e1139">
+            <lb ed="#P" n="66"/>12. Ad secundam impugnationem. — Ad 
+            se<lb break="no" ed="#P" n="67"/>cundam objectionem respondetur imprimis,
+            <lb ed="#P" n="68"/>obligationem credendi posse cognosci per 
+            fi<lb break="no" ed="#P" n="69"/>dem humanam sufficientem ad obligandam
+            <lb ed="#P" n="70"/>conscientiam, priusquam homo illam 
+            obliga<lb break="no" ed="#P" n="71"/>tionem adimpleat credendo; nam ut 
+            praece<lb break="no" ed="#P" n="72"/>ptum obliget, satis est, quod per testes fide
+            <lb ed="#P" n="73"/>dignos proponatur, etiamsi neque in se 
+            videa<lb break="no" ed="#P" n="74"/>tur, nec etiam ab ipsomet principe immediate
+            <lb ed="#P" n="75"/>audiatur. Sic ergo facta sufficiente 
+            propositio<lb break="no" ed="#P" n="76"/>ne fidei, per eamdem potest homo habere
+            <lb ed="#P" n="77"/>quamdam certam fidem humanam, quae dictet
+            <lb ed="#P" n="78"/>secundum rectam rationem fidem illam 
+            sus<lb break="no" ed="#P" n="79"/>cipiendam esse. Unde ulterius dicimus, ut
+            <lb ed="#P" n="80"/>praeceptum hoc obliget, satis esse quod 
+            suffi<lb break="no" ed="#P" n="81"/>cienter proponatur, et quod sit evidenter 
+            cre<lb break="no" ed="#P" n="82"/>dibile tale praeceptum a Deo manare: hoc 
+            au<lb break="no" ed="#P" n="83"/>tem judicium ante fidem praecedere potest, ut
+            <lb ed="#P" n="84"/>in superioribus visum est. Denique illud 
+            judi<lb break="no" ed="#P" n="85"/>cium, quod praecedit in intellectu ante 
+            volun<lb break="no" ed="#P" n="86"/>tatem credendi, satis esse potest ad 
+            applican<lb break="no" ed="#P" n="87"/>dam homini obligationem hujus praecepti,
+            <lb ed="#P" n="88"/>quia illud judicium non tantum proponit 
+            vo<lb break="no" ed="#P" n="89"/>luntatem illam dictando esse honestam vel
+            <lb ed="#P" n="90"/>utilem, sed etiam necessariam ad salutem et
+            <lb ed="#P" n="91"/>justitiam. Verum est tamen non oportere ut
+            <lb ed="#P" n="92"/>homo tunc distincte coguoscat praeceptum 
+            il<lb break="no" ed="#P" n="93"/>lud esse supernaturale, vel obligare ad actum
+            <lb ed="#P" n="94"/>supernaturalem in actu signato conceptum,
+            <lb ed="#P" n="95"/>ut sic dicam; sed satis est ut cognoscat et 
+            ju<lb break="no" ed="#P" n="96"/>dicet hoc esse credendum firma et certa fide;
+            <lb ed="#P" n="97"/>nam ibi confuse continetur supernaturale 
+            prae<lb break="no" ed="#P" n="98"/>ceptum, et quodammodo in actu exercito 
+            com<lb break="no" ed="#P" n="99"/>prehenditur etiam supernaturalis fides, quia
+            <lb ed="#P" n="100"/>talis et tanta fides non nisi supernaturalis
+            <lb ed="#P" n="101"/>esse potest.
+          </p>
+          <p xml:id="szthvi-a88030-d1e1220">
+            <lb ed="#P" n="102"/>13. Instantia. — Solutio. —Sed instari 
+            po<lb break="no" ed="#P" n="103"/>test, quia sequitur peecare hominem tunc, si
+            <lb ed="#P" n="104"/>non credat, duplici peccato seu malitia: 
+            alte<lb break="no" ed="#P" n="105"/>ra, coutra dictamen naturalis rationis ; altera,
+            <lb ed="#P" n="106"/>contra praeceptum supernaturale, quod non
+            <lb ed="#P" n="107"/>videtur admittendum. Respondetur negando
+            <lb ed="#P" n="108"/>sequelam, quia, licet verum sit hominem tunc
+            <lb ed="#P" n="109"/>transgredi praeceptum supernaturale, et agere
+            <lb ed="#P" n="110"/>aliquo mo:lo contra rationem naturalem, nihi-
+            <pb ed="#P" n="365"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>lominus proxima regula contra quam peccat,
+            <lb ed="#P" n="2"/>est supernaturale praeceptum; ratio vero 
+            na<lb break="no" ed="#P" n="3"/>turalis se habet remote, et tanquam applicans
+            <lb ed="#P" n="4"/>supernaturalem regulam, et ideo dicunt 
+            Theo<lb break="no" ed="#P" n="5"/>logi per tale peccatum per se primo averti 
+            ho<lb break="no" ed="#P" n="6"/>minem a Deo fine supernaturali, consequenter
+            <lb ed="#P" n="7"/>etiam averti a Deo fine naturali; nihilominus
+            <lb ed="#P" n="8"/>tamen malitia una est, quia ex proxima 
+            re<lb break="no" ed="#P" n="9"/>gula sumitur, quamvis eminenter totum id
+            <lb ed="#P" n="10"/>contineat. Est optimum exemplum in 
+            viola<lb break="no" ed="#P" n="11"/>uone legis humanae: nam per illam 
+            conse<lb break="no" ed="#P" n="12"/>quenter violatur lex illa naturalis, quae 
+            supe<lb break="no" ed="#P" n="13"/>rioribus obedire praecipit ; nihilominus tamen
+            <lb ed="#P" n="14"/>malitia una est, quia una etiam est regula 
+            pro<lb break="no" ed="#P" n="15"/>xima talis actus; ita etiam in praesenuti 
+            dicen<lb break="no" ed="#P" n="16"/>dum est.
+          </p>
+        </div>
+        <div xml:id="szthvi-a88030-Dd1e1283">
+          <head xml:id="szthvi-a88030-Hd1e1285">Sectio 2</head>
+          <head xml:id="szthvi-a88030-Hd1e1287" type="question-title">Utrum praeceptum obligans ad credendum sit proprium et speciale virtutis fidei, vel ad aliam virtutem pertineat</head>
+          <p xml:id="szthvi-a88030-d1e1290">
+            <lb ed="#P" n="17"/>SECTIO II.
+            <lb ed="#P" n="18"/>Utrum praeceptum obligans ad credendum sit
+            <lb ed="#P" n="19"/>proprium et speciale virtutis fidei, vel ad
+            <lb ed="#P" n="20"/>aliam virtutem pertineat.
+          </p>
+          <p xml:id="szthvi-a88030-d1e1301">
+            <lb ed="#P" n="21"/>1. Sensus quaestionis exponitur. —-Haec 
+            quaes<lb break="no" ed="#P" n="22"/>tio licet non soleat hoc loco tractari, mihi 
+            ne<lb break="no" ed="#P" n="23"/>cessaria visa est, tum ad distincte 
+            intelligen<lb break="no" ed="#P" n="24"/>dam hanc obligationem, et peccata quae 
+            con<lb break="no" ed="#P" n="25"/>tra illam committi possunt; tum etiam quia
+            <lb ed="#P" n="26"/>non caret difficultate : ad quam intelligendam,
+            <lb ed="#P" n="27"/>ei sensum quaestionis explicandum, adverto
+            <lb ed="#P" n="28"/>duobus modis posse aliquem actum virtutis
+            <lb ed="#P" n="29"/>cadere sub praeceptum: primo per se, et ex vi
+            <lb ed="#P" n="30"/>talis virtutis; sicut actus jejunii, verbi gratia,
+            <lb ed="#P" n="31"/>quando praecipitur speciali et proprio 
+            praece<lb break="no" ed="#P" n="32"/>pto , obligat intra rationem virtutis 
+            tempe<lb break="no" ed="#P" n="33"/>rantiae; quando vero cadit sub obligationem
+            <lb ed="#P" n="34"/>solum ex voto, vel obedientia, vel ex 
+            pecu<lb break="no" ed="#P" n="35"/>liari necessitate ad servandam castitatem,
+            <lb ed="#P" n="36"/>tunc non ex vi temperantiae, sed religionis,
+            <lb ed="#P" n="37"/>obedientiae aut castitatis oritur talis obligatio.
+            <lb ed="#P" n="38"/>Ex qua differentia oritur alia, quia quandiu
+            <lb ed="#P" n="39"/>peccatur contra praeceptum primi generis,
+            <lb ed="#P" n="40"/>committitur malitia temperantiae contraria:
+            <lb ed="#P" n="41"/>in posteriori autem modo solum peccatur 
+            con<lb break="no" ed="#P" n="42"/>tra religionem, vel obedientiam, vel 
+            castita<lb break="no" ed="#P" n="43"/>tem, vel in universum contra illam virtutem a
+            <lb ed="#P" n="44"/>qua oritur obligatio.
+          </p>
+          <p xml:id="szthvi-a88030-d1e1356">
+            <lb ed="#P" n="45"/>2. Ratio dubitandi. — Hinc oritur ratio 
+            du<lb break="no" ed="#P" n="46"/>bitandi in proposita quaestione: videtur enim
+            <lb ed="#P" n="47"/>quod obligatio ad credendum semper oriatur
+            <lb ed="#P" n="48"/>ex alia virtute, et non ex ipsa fide, et 
+            conse<lb break="no" ed="#P" n="49"/>quenter quod praeceptum fidei non sit 
+            specia<lb break="no" ed="#P" n="50"/>le, sed comuune, seu potens pertinere ad alias
+            <lb ed="#P" n="51"/>virtutes. Probatur assumptum, quia fides du-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="52"/>pliciter considerari potest, scilicet, vel ut 
+            spe<lb break="no" ed="#P" n="53"/>culativa, id est, ut mere ordinatur ad 
+            cogni<lb break="no" ed="#P" n="54"/>tionem propter cognitionem, vel ut practica,
+            <lb ed="#P" n="55"/>id est, ut ordinatur ad opus. Priori modo non
+            <lb ed="#P" n="56"/>videtur cadere sub praeceptum: posteriori 
+            au<lb break="no" ed="#P" n="57"/>tem modo cadit sub praeceptis aliarum 
+            virtu<lb break="no" ed="#P" n="58"/>tum. Prohatur minor quoad priorem partem,
+            <lb ed="#P" n="59"/>quia omnis obligatio praecepti est moralis: 
+            fi<lb break="no" ed="#P" n="60"/>des autem, quatenus speculativa, est mere 
+            in<lb break="no" ed="#P" n="61"/>tellectualis; ergo ut sic non cadit sub 
+            pro<lb break="no" ed="#P" n="62"/>prium praeceptum. Et confirmatur a simili,
+            <lb ed="#P" n="63"/>quia naturalis cognitio vel scientia, ut 
+            intel<lb break="no" ed="#P" n="64"/>lectualis est, non cadit sub proprium 
+            praece<lb break="no" ed="#P" n="65"/>ptum, ut docuit Altisiodor., libro secundo
+            <lb ed="#P" n="66"/>summ., tractatu 19, cap. 2, quaest. 1, ad 
+            quar<lb break="no" ed="#P" n="67"/>tum, ubi consequenter ait ignorantiam, ut
+            <lb ed="#P" n="68"/>scientiae oppositam, non esse speciale 
+            pecca<lb break="no" ed="#P" n="69"/>tum, quia de cognitione per se non datur
+            <lb ed="#P" n="70"/>praeceptum ; et similiter Cajetanus 1. 2, quaest.
+            <lb ed="#P" n="71"/>16, art. 2, dixit virtuti intellectuali non 
+            op<lb break="no" ed="#P" n="72"/>poni morale peccatum ; ergo nec de illa datur
+            <lb ed="#P" n="73"/>morale praeceptum ; imo de ipsa prudentia 
+            di<lb break="no" ed="#P" n="74"/>cunt multi Theologi non dari speciale 
+            praece<lb break="no" ed="#P" n="75"/>ptum, quia intellectualis est, et contra illam
+            <lb ed="#P" n="76"/>non peccatur, nisi peccando contra aliquam
+            <lb ed="#P" n="77"/>aliam virtutem moralem voluntatis, seu 
+            ap<lb break="no" ed="#P" n="78"/>petitus, ut late probat Vasquez 1. 2, disp. 119,
+            <lb ed="#P" n="79"/>c. 2. Altera vero pars minoris probatur, quia
+            <lb ed="#P" n="80"/>si fides consideretur ut necessaria ad 
+            aman<lb break="no" ed="#P" n="81"/>dum Deum, obligatio ad illam orietur ex 
+            prae<lb break="no" ed="#P" n="82"/>cepto charitatis; si vero sit necessaria ad 
+            vin<lb break="no" ed="#P" n="83"/>cendam, verbi gratia, tentationem castitati
+            <lb ed="#P" n="84"/>contrariam, juxta illud 2 Petri 5: Cu resistite
+            <lb ed="#P" n="85"/>fortes in fide, et illud ad Ephes. 6: Sumentes
+            <lb ed="#P" n="86"/>scutum fidei, sic obligatio credendi orietur ex
+            <lb ed="#P" n="87"/>praecepto castitatis, et in universum ex 
+            prae<lb break="no" ed="#P" n="88"/>cepto illius virtutis, contra quam pugnat 
+            ten<lb break="no" ed="#P" n="89"/>tatio. Et ratio generalis est, quia praeceptum
+            <lb ed="#P" n="90"/>obligans ad finem obligat etiam ad media:
+            <lb ed="#P" n="91"/>ergo sub nulla ratione dari videtur speciale
+            <lb ed="#P" n="92"/>praeceptum fidei.
+          </p>
+          <p xml:id="szthvi-a88030-d1e1466">
+            <lb ed="#P" n="93"/>3. Fera resolutio : datur speciale preceptum
+            <lb ed="#P" n="94"/>per se obligans ad actum fidei. — REatio a 
+            pos<lb break="no" ed="#P" n="95"/>teriori. — Nihilominus dicendum est dari in
+            <lb ed="#P" n="96"/>fide speciale et proprium praeceptum ad illam
+            <lb ed="#P" n="97"/>pertinens, etiam ut praecise spectatam, sine
+            <lb ed="#P" n="98"/>obligatione aliarum virtutum proxime et per
+            <lb ed="#P" n="99"/>se ad ipsam fidem non pertinentium. Hanc
+            <lb ed="#P" n="100"/>assertionem existimo certam, et communem
+            <lb ed="#P" n="101"/>Theologorum ; nam in hoc sensu loquuntur
+            <lb ed="#P" n="102"/>de praecepto, cum aftirmant illud dari de fide;
+            <lb ed="#P" n="103"/>in terminis illam docent Valent., 2. 2, disp. 1,
+            <lb ed="#P" n="104"/>quaestione 2, puncto 5; Azor, libro $8 
+            Institu<lb break="no" ed="#P" n="105"/>tion. Moral., cap. 27, quaest. 8; Sanch., lib.2
+            <lb ed="#P" n="106"/>Decalog., cap 1, num. 2, et alii recentiores.
+            <pb ed="#P" n="366"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>Ex contrario id manifeste probatur. Nam 
+            da<lb break="no" ed="#P" n="2"/>tur speciale peccatum fidei contrarium, ut 
+            in<lb break="no" ed="#P" n="3"/>fidelitatis, seu haeresis, de quo aperte loqu:tur
+            <lb ed="#P" n="4"/>Concilium Tridentinum, sessione sexta, cum
+            <lb ed="#P" n="5"/>dicit fidem non amitti per omne peccatum
+            <lb ed="#P" n="6"/>mortale, sed per infidelitatem illi contrariam;
+            <lb ed="#P" n="7"/>peccatum autem speciale supponit speciale
+            <lb ed="#P" n="8"/>praeceptum, ut constat; datur ergo speciale
+            <lb ed="#P" n="9"/>praeceptum fidei.
+          </p>
+          <p xml:id="szthvi-a88030-d1e1523">
+            <lb ed="#P" n="10"/>4. Probatur deinde de precepto in materia
+            <lb ed="#P" n="11"/>fidei speculativa tantum. — Ut autem illud 
+            ex<lb break="no" ed="#P" n="12"/>plicemus, et ex propriis probemus, 
+            distingua<lb break="no" ed="#P" n="13"/>mus duplicem materiam fidei: una est rerum
+            <lb ed="#P" n="14"/>pertinentium ad Deum, alia est rerum 
+            perti<lb break="no" ed="#P" n="15"/>nentium ad mores ; quoad prioremcertum est,
+            <lb ed="#P" n="16"/>et propter illam, seu propter cognitionem
+            <lb ed="#P" n="17"/>ipsius Dei, datum esse spcciale ac proprium
+            <lb ed="#P" n="18"/>praeceptum fidei. Ratio est, quam tetigit D.
+            <lb ed="#P" n="19"/>Thomas 2. 2, quaest. 2, art. 7 et 8, quia Deus
+            <lb ed="#P" n="20"/>est primarium, ac per se objectum fidei, in
+            <lb ed="#P" n="21"/>cujus cognitione majori ex parte hominis 
+            per<lb break="no" ed="#P" n="22"/>fectio consistit, ut dixit Dionysius, capite 4
+            <lb ed="#P" n="23"/>de Divinis nominibus, et in ordine naturali
+            <lb ed="#P" n="24"/>cognovit Aristoteles, 10 Ethicorum, capite 7
+            <lb ed="#P" n="25"/>et 8. ponens summam perfectionem hominis
+            <lb ed="#P" n="26"/>in cognitione summi veri; ut etiam divus
+            <lb ed="#P" n="27"/>Thomas attigit 9. 2, quaestione 167, articulo 1,
+            <lb ed="#P" n="28"/>ad primum. Sic ergo in ordine supernaturali,
+            <lb ed="#P" n="29"/>supernaturalis cognitio Dei, quae est per fidem,
+            <lb ed="#P" n="30"/>per se ac directe praecipitur propter 
+            perfectio<lb break="no" ed="#P" n="31"/>nem ipsius hominis ; unde nonrefert quod haec
+            <lb ed="#P" n="32"/>fides Dei ordinetur ad amorem ejus, et quod
+            <lb ed="#P" n="33"/>ille praecipue intendatur, nam hoc spectat ad
+            <lb ed="#P" n="34"/>fiuem extrinsecum fidei, qui potest dici finis
+            <lb ed="#P" n="35"/>principalis praecipientis, potius quam 
+            praece<lb break="no" ed="#P" n="36"/>pti. Unde est valde considerandum quod, licet
+            <lb ed="#P" n="37"/>fides Dei sit medium ad spem vel charitatem,
+            <lb ed="#P" n="38"/>non est tamen pure medium, sed habet in se
+            <lb ed="#P" n="39"/>honestatem et perfectionem, propter quam
+            <lb ed="#P" n="40"/>per se intenditur et praecipitur ; sic ergo datur
+            <lb ed="#P" n="41"/>speciale praeceptum, quod optime explicatur
+            <lb ed="#P" n="42"/>et confirmatur ex illo Pauli 2 Cor. 10: 7n 
+            cap<lb break="no" ed="#P" n="43"/>Livitatem redigentes intellectum in obsequiwm
+            <lb ed="#P" n="44"/>Christi, nam inde colligitur praecipi hanc f.-
+            <lb ed="#P" n="45"/>dem, ut intellectus specialiter subjiciatur Deo.
+          </p>
+          <p xml:id="szthvi-a88030-d1e1604">
+            <lb ed="#P" n="46"/>5. Objectio. — Solutio. — Confirmatur. —
+            <lb ed="#P" n="47"/>Dices, hoc magis videri pertinere ad 
+            religio<lb break="no" ed="#P" n="48"/>nem, cujus proprium est cultum praebere Deo.
+            <lb ed="#P" n="49"/>Respondetur religionem respicere Deum ut
+            <lb ed="#P" n="50"/>supremum dominum, et ut habet summam
+            <lb ed="#P" n="51"/>quamdam excellentiam, propter quam 
+            hono<lb break="no" ed="#P" n="52"/>randus est; fides vero respicit Deum ut 
+            pri<lb break="no" ed="#P" n="53"/>mam veritatem, cui peculiari modo intellectus
+            <lb ed="#P" n="54"/>subjiciendus est et captivandus. Unde sicut
+            <lb ed="#P" n="55"/>charitas differt a religione, quia respicit Deum
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>ut bonum, non ut excellentcm, ita etiam 
+            fi<lb break="no" ed="#P" n="57"/>des differt, quia respicit Deum nt summam
+            <lb ed="#P" n="58"/>veritatem. et ita exhibet illi peculiarem 
+            sub<lb break="no" ed="#P" n="59"/>jectionem distinctam a cuitu religionis; ita
+            <lb ed="#P" n="60"/>ergo de actu fidei erga Deum, datur speciale
+            <lb ed="#P" n="61"/>praeceptum distinctum a praecepto religionis.
+            <lb ed="#P" n="62"/>Tandem potest idem conficmari ex eo, quod
+            <lb ed="#P" n="63"/>fides Dei est per se primo necessaria ad 
+            justi<lb break="no" ed="#P" n="64"/>tiam ; dicere vero potest aliquis ex hoc capite
+            <lb ed="#P" n="65"/>oriri potius obligationem vel justitiae ad Deum,
+            <lb ed="#P" n="66"/>vel charitatis etiam ad Deum, vel ad seipsum;
+            <lb ed="#P" n="67"/>nam his titulis maxime tenetur homo 
+            procu<lb break="no" ed="#P" n="68"/>rare justitiam, seu peccatorum remissionem.
+            <lb ed="#P" n="69"/>Verumtamen hoc habet locum considerando
+            <lb ed="#P" n="70"/>fidem, tantum ut medium; tamen, quia ipsa
+            <lb ed="#P" n="71"/>ita est necessaria ad alios actus justitiae, ut
+            <lb ed="#P" n="72"/>sit etiam veluti pars quaedam ipsius justitiae,
+            <lb ed="#P" n="73"/>seu inchoatio et fundamentum ejus, ideo etiam
+            <lb ed="#P" n="74"/>ipsa per se, et propter se propriam affert 
+            prae<lb break="no" ed="#P" n="75"/>cepti obligationem, et maxime prout ad Deum
+            <lb ed="#P" n="76"/>cognoscenduni terminatur; sic enim in ea suo
+            <lb ed="#P" n="77"/>modo consistit hujus vitae participata felieitas,
+            <lb ed="#P" n="78"/>juxta illud : Heec est vita eterna, ut cognoscant
+            <lb ed="#P" n="79"/>te solum verum Deum ; de hac ergo parte nulla
+            <lb ed="#P" n="80"/>potest esse ratio dubitandi.
+          </p>
+          <p xml:id="szthvi-a88030-d1e1685">
+            <lb ed="#P" n="81"/>6. Preeceptum hoc fidei etiam ad materiam
+            <lb ed="#P" n="82"/>moralem ectendi probatur. — De altera vero
+            <lb ed="#P" n="83"/>parte, prout fides circa mores versatur, 
+            ali<lb break="no" ed="#P" n="84"/>qui putant, quamvis necessarium sit hanc
+            <lb ed="#P" n="85"/>partem materiae fidei cognoscere et credere,
+            <lb ed="#P" n="86"/>juxta dicenda in sectionibus sequentibus, 
+            ni<lb break="no" ed="#P" n="87"/>hilominus necessitatem illam non oriri ex 
+            spe<lb break="no" ed="#P" n="88"/>ciali praecepto fidei, sed ex aliis praeceptis, quae
+            <lb ed="#P" n="89"/>nos obligant ad honeste vivendum, quia illa
+            <lb ed="#P" n="90"/>consequenter obligant ad procurandam 
+            cogni<lb break="no" ed="#P" n="91"/>tionem necessariam ad honeste vivendum:
+            <lb ed="#P" n="92"/>quod non est improbabile, et in aliis casibus
+            <lb ed="#P" n="93"/>particularibus aliquid simile nos postea 
+            ad<lb break="no" ed="#P" n="94"/>mittemus. Nihilominus tamen, loquendo 
+            ge<lb break="no" ed="#P" n="95"/>neratim de hac obligatione, existimo pertinere
+            <lb ed="#P" n="96"/>ad speciale praeceptum fidei, ac proinde 
+            hu<lb break="no" ed="#P" n="97"/>jusmodi praeceptum extendi ad materiam 
+            mo<lb break="no" ed="#P" n="98"/>ralem fidei. Ratio est, quia imprimis fides non
+            <lb ed="#P" n="99"/>versatur circa hanc materiam practico modo,
+            <lb ed="#P" n="100"/>id est, imperando, seu dictando in particulari
+            <lb ed="#P" n="101"/>quid sit agendum, quod pertinet ad 
+            pruden<lb break="no" ed="#P" n="102"/>tiam, sed attingit illam materiam speculativo
+            <lb ed="#P" n="103"/>modo, cognoscendo veritatem illorum 
+            princi<lb break="no" ed="#P" n="104"/>piorum moralium. Deinde huj usmodi cognitio
+            <lb ed="#P" n="105"/>est per sc necessaria ad perfectionem status
+            <lb ed="#P" n="106"/>hominis Christiani, ut Christianus est, 
+            nimi<lb break="no" ed="#P" n="107"/>rum, ut sit proxime aptus, et bene instructus
+            <lb ed="#P" n="108"/>ad christiane vivendum. Ad hoc autem sine
+            <lb ed="#P" n="109"/>dubio tenetur homo ex aliquo praecepto, et
+            <lb ed="#P" n="110"/>non alicujus alterius virtutis particularis; ergo
+            <pb ed="#P" n="367"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>maxime fidei. Nec potest dici quod pertineat
+            <lb ed="#P" n="2"/>solum ad collectionem praeceptorum aliarum
+            <lb ed="#P" n="3"/>virtutum ; tum quia hic est specialis actus, et
+            <lb ed="#P" n="4"/>habet propriam et specialem honestatem, et
+            <lb ed="#P" n="5"/>rationem propter quam praecipiatur; tum
+            <lb ed="#P" n="6"/>etiam quia ignorantia fidei etiam quoad hanc
+            <lb ed="#P" n="7"/>partem est speciale peccatum, nam in hac
+            <lb ed="#P" n="8"/>etiam materia morali potest peccatum haeresis
+            <lb ed="#P" n="9"/>committi ; ergo etiam haec obligatio oritur ex
+            <lb ed="#P" n="10"/>speciali praecepto fidei.
+          </p>
+          <p xml:id="szthvi-a88030-d1e1779">
+            <lb ed="#P" n="11"/>7. Satisfit rationi dubitandi in principio
+            <lb ed="#P" n="12"/>positee. — Ad rationem dubitandi in principio
+            <lb ed="#P" n="13"/>positam, imprimis nego ignorantiam non esse
+            <lb ed="#P" n="14"/>speciale peccatum, de quo infra ex professo
+            <lb ed="#P" n="15"/>dicendum est. Deinde nego in ordine naturali
+            <lb ed="#P" n="16"/>non dari speciale praeceptum obligans ad 
+            ali<lb break="no" ed="#P" n="17"/>quam scientiam vel cognit:ionem habendam:
+            <lb ed="#P" n="18"/>nam, ut supra dixi, homo etiam in puris 
+            na<lb break="no" ed="#P" n="19"/>turalibus creatus haberet praeceptum 
+            cognos<lb break="no" ed="#P" n="20"/>cendi Deum verum, et similiter haberet 
+            obli<lb break="no" ed="#P" n="21"/>gationem sciendi naturalia praecepta Decalogi,
+            <lb ed="#P" n="22"/>sicut nunc illam habent Gentiles, etiamsi 
+            con<lb break="no" ed="#P" n="23"/>ungat invincibiliter ignorare fidem 
+            Christia<lb break="no" ed="#P" n="24"/>nam, quamvis in hoc aliqua differentia inter
+            <lb ed="#P" n="25"/>naturalem cognitionem et fidem notari possit.
+          </p>
+          <p xml:id="szthvi-a88030-d1e1814">
+            <lb ed="#P" n="26"/>8. Actus inteilectus non cadit sub 
+            praece<lb break="no" ed="#P" n="27"/>ptum, nisi sit aliquo modo liber. — An habitus
+            <lb ed="#P" n="28"/>pic affectionis a virtute studiositatis 
+            dstin<lb break="no" ed="#P" n="29"/>guatur. — Unde ulterius, ut difficultas illa 
+            me<lb break="no" ed="#P" n="30"/>lius intelligatur, advertendum est actus 
+            intel<lb break="no" ed="#P" n="31"/>lectus non cadere sub praeceptum, nisi prout
+            <lb ed="#P" n="32"/>habent aliquem ordinem ad actum voluntatis ;
+            <lb ed="#P" n="33"/>quia nullus actus praecipitur, nisi quatenus
+            <lb ed="#P" n="34"/>potest esse liber, sicut non praecipiuntur actus
+            <lb ed="#P" n="35"/>exteriorum membrorum , nisi quatenus ex
+            <lb ed="#P" n="36"/>imperio libero exerceri possunt; actus autem
+            <lb ed="#P" n="37"/>intellectus non est per se liber, sed solum
+            <lb ed="#P" n="38"/>prout a voluntate imperari potest: ergo non
+            <lb ed="#P" n="39"/>est materia praecepti, nisi prout dicit ordinem
+            <lb ed="#P" n="40"/>ad voluntatem, id est, quatenus ex ejus 
+            mo<lb break="no" ed="#P" n="41"/>tione libere fieri potest; duobus autem modis
+            <lb ed="#P" n="42"/>potest intellectus pendere a voluntate iu suo
+            <lb ed="#P" n="43"/>actu: primo in acquisitione scientiae vel 
+            cogni<lb break="no" ed="#P" n="44"/>tionis, et in usu seu exercitio ejus; secundo,
+            <lb ed="#P" n="45"/>quoad speciem, non tam ex parte objecti,
+            <lb ed="#P" n="46"/>quam ex parte actus, quoad determinationem
+            <lb ed="#P" n="47"/>ejus. Priori modo pendet a voluntate aon 
+            tan<lb break="no" ed="#P" n="48"/>tum fides Christiana, sed etiam naturalis 
+            co<lb break="no" ed="#P" n="49"/>gnitio et scientia, ut per se notum est; 
+            poste<lb break="no" ed="#P" n="50"/>riori autem modo pendet a voluntate fides sive
+            <lb ed="#P" n="51"/>Christiana, sive quaecumque alia, ut in 
+            supe<lb break="no" ed="#P" n="52"/>rioribus dictum est. Hinc divus Thomas 2. 2,
+            <lb ed="#P" n="53"/>quaestione 166, specialem ponit virtutem,
+            <lb ed="#P" n="54"/>quam studiositatem vocat, cujus officium est
+            <lb ed="#P" n="55"/>ponere medium in his quae pertinent ad co-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>gnitionem, ut neque homo sit negligens in
+            <lb ed="#P" n="57"/>procuranda cognitione utili vel necessaria, 
+            se<lb break="no" ed="#P" n="58"/>cundum rectam rationem, reque nimis 
+            curio<lb break="no" ed="#P" n="59"/>sus in cognitione rerum inutilium; haec ergo
+            <lb ed="#P" n="60"/>virtus etiam in ordine ad supernaturalem co -
+            <lb ed="#P" n="61"/>enitionem locum habet, eritque virtus per se
+            <lb ed="#P" n="62"/>infusa, sicut esse possunt aliae virtutes 
+            mora<lb break="no" ed="#P" n="63"/>les, quatenus connaturali regulae 
+            commensu<lb break="no" ed="#P" n="64"/>rantur; haec autem virtus circa cognitionem
+            <lb ed="#P" n="65"/>scientiae in ordine ad acquisitionem ejus 
+            ver<lb break="no" ed="#P" n="66"/>sari potest ; praeter hanc vero necessaria est in
+            <lb ed="#P" n="67"/>fide specialis virtus voluntatis, quae inclinat
+            <lb ed="#P" n="68"/>ad captivandum intellectum, quam Theologi
+            <lb ed="#P" n="69"/>vocant piam affectionem voluntatis, et supra
+            <lb ed="#P" n="70"/>diximns esse in vcluntate non tantum in actu,
+            <lb ed="#P" n="71"/>sed etiam in habitu. Speculativa quaestio esse
+            <lb ed="#P" n="72"/>potest, an sit virtus distincta a studiositate ing
+            <lb ed="#P" n="73"/>fusa ; probabiliter enim distingui potest, quia
+            <lb ed="#P" n="74"/>votest aliquis esse diligens in acquirenda 
+            co<lb break="no" ed="#P" n="75"/>gnitione rerum fidei, et esse parum affectus et
+            <lb ed="#P" n="76"/>pius in credendo ; facile etiam sustineri potest
+            <lb ed="#P" n="77"/>esse eumdem habitum, qui haec omnia officia
+            <lb ed="#P" n="78"/>exercet circa materiam fidei; saepe enim 
+            con<lb break="no" ed="#P" n="79"/>tipgit eamdem virtutem esse magis vel minus
+            <lb ed="#P" n="80"/>perfectam circa diversa munera sua ; quidquid
+            <lb ed="#P" n="81"/>vero sit de habituum distinctione, de qua 
+            su<lb break="no" ed="#P" n="82"/>pra, disp. 7, sect. 2, n. 9, ad has virtutes 
+            stu<lb break="no" ed="#P" n="83"/>diositatis infusae et piae affectionis in credendo
+            <lb ed="#P" n="84"/>pertinent specialia praecepta, seu obligationes
+            <lb ed="#P" n="85"/>tidei ; nam ad piam aftectionem pertinet
+            <lb ed="#P" n="86"/>obligatio firmiter credendi, et abjiciendi 
+            om<lb break="no" ed="#P" n="87"/>nem dubitationem vel errorem contrarium;
+            <lb ed="#P" n="88"/>ad studiositatem vero pertinet obligatio 
+            adhi<lb break="no" ed="#P" n="89"/>bendi diligentiam ad sciendum ea quae ad 
+            fi<lb break="no" ed="#P" n="90"/>dem pertinent ; atque ita, licet fides 
+            formali<lb break="no" ed="#P" n="91"/>ter ait virtus intellectus, quatenus vero est
+            <lb ed="#P" n="92"/>actus liber in exercitio et specificatione, capax
+            <lb ed="#P" n="93"/>est proprii praecepti formaliter, ut sic dicam,
+            <lb ed="#P" n="94"/>pertinentis ad virtutem voluntatis, ut 
+            expli<lb break="no" ed="#P" n="95"/>catum est.
+          </p>
+        </div>
+        <div xml:id="szthvi-a88030-Dd1e1971">
+          <head xml:id="szthvi-a88030-Hd1e1973">Sectio 3</head>
+          <head xml:id="szthvi-a88030-Hd1e1975" type="question-title">Quarum rerum fides fuerit in praecepto in lege naturae et veteri</head>
+          <p xml:id="szthvi-a88030-d1e1978">
+            <lb ed="#P" n="96"/>SECTIO III
+            <lb ed="#P" n="97"/>Quarum rerum fides fuerit in praecepto in lege
+            <lb ed="#P" n="98"/>naturae et veteri.
+          </p>
+          <p xml:id="szthvi-a88030-d1e1987">
+            <lb ed="#P" n="99"/>1. Quaestio haec fere explicata est in 
+            dispu<lb break="no" ed="#P" n="100"/>tatione praecedenti; tamen quia specialiter
+            <lb ed="#P" n="101"/>illam attigit D. Thomas, 2. 2, quaest. 16, art.
+            <lb ed="#P" n="102"/>1, et quia fundamentum esse potest eorum,
+            <lb ed="#P" n="103"/>quae in sectione sequenti dicenda sunt, et ut
+            <lb ed="#P" n="104"/>integra doctrina omnium habeatur , eam
+            <lb ed="#P" n="105"/>breviter expediemus.
+          </p>
+          <p xml:id="szthvi-a88030-d1e2005">
+            <lb ed="#P" n="106"/>2. Prima assertio - praeceptum credendi Deum
+            <pb ed="#P" n="368"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>esse, in omni statu semper eatitit. — Dico
+            <lb ed="#P" n="2"/>igitur primo, in omni tempore datum esse
+            <lb ed="#P" n="3"/>praeceptum credendi Deum esse. Haec assertio
+            <lb ed="#P" n="4"/>est communis scholasticorum, in 3, dist. 25.
+            <lb ed="#P" n="5"/>Probatur primo ex illo principio, quod omnia,
+            <lb ed="#P" n="6"/>quae sunt necessaria necessitate medii, et
+            <lb ed="#P" n="7"/>consistunt in actu humano, sunt etiam 
+            prae<lb break="no" ed="#P" n="8"/>cepta; cognitio autem Dei ex fide est 
+            neces<lb break="no" ed="#P" n="9"/>saria necessitate medi, teste Paulo, ut supra
+            <lb ed="#P" n="10"/>late visum est; ergo talis fides semper fuit in
+            <lb ed="#P" n="11"/>praecepto. Secundo, quia fides Dei supponitur
+            <lb ed="#P" n="12"/>ncecessaria ad omnem fidem aliorum 
+            mystc<lb break="no" ed="#P" n="13"/>riorum, ut supra declaravi; ergo etiam 
+            prae<lb break="no" ed="#P" n="14"/>ceptum hujus fidei necessario supponitur ad
+            <lb ed="#P" n="15"/>quaecumque praecepta aliarum rerum 
+            creden<lb break="no" ed="#P" n="16"/>darum. Sed objici potest D. Thomas, 2. 2, q.
+            <lb ed="#P" n="17"/>16, art. 11, ubi ex hoc ipso fundamento, 
+            vide<lb break="no" ed="#P" n="18"/>tur docere in lege veteri non fuisse datum
+            <lb ed="#P" n="19"/>praeceptum credendi Deum esse, quia 
+            aucto<lb break="no" ed="#P" n="20"/>ritas praecipientis debet supponi ad praecepta
+            <lb ed="#P" n="21"/>legis, cum ab illa auctoritate dimanent; et
+            <lb ed="#P" n="22"/>simili ratione dixit idem D. Thomas 2. 2, q.
+            <lb ed="#P" n="23"/>104, art. 2, ad tertium, fidem ex parte objecti
+            <lb ed="#P" n="24"/>esse priorem obedientia, quia proponit 
+            aucto<lb break="no" ed="#P" n="25"/>ritatem praecipientis. Respondetur mentem
+            <lb ed="#P" n="26"/>D. Thomae fuisse docere. praeceptum hoc non
+            <lb ed="#P" n="27"/>esse proprium legis veteris ; fuit enim semper
+            <lb ed="#P" n="28"/>divinum et naturale, modo supra esplicato, et
+            <lb ed="#P" n="29"/>ideo in lege veteri potius supponitur quam
+            <lb ed="#P" n="30"/>tradatur: atque hac ratione distingui solet lex
+            <lb ed="#P" n="31"/>illa a fide, et hoc modo dicitur non esse in ea
+            <lb ed="#P" n="32"/>tradita specialia praecepta fidei: quomodo 
+            au<lb break="no" ed="#P" n="33"/>tem possit sub praeceptum fidei cadere ipsemet
+            <lb ed="#P" n="34"/>auctor talis praecepti, in prima sectione a 
+            no<lb break="no" ed="#P" n="35"/>bis explicatum est, quia potest sufhicienter
+            <lb ed="#P" n="36"/>proponi, ut dignus cui credatur, et cui 
+            secun<lb break="no" ed="#P" n="37"/>dum rectam rationem credendum sit, 
+            prius<lb break="no" ed="#P" n="38"/>quam actu credatur.
+          </p>
+          <p xml:id="szthvi-a88030-d1e2097">
+            <lb ed="#P" n="39"/>3. Secunda assertio quidquid in lege veteri
+            <lb ed="#P" n="40"/>creditum est ut medium necessarium ad. 
+            salu<lb break="no" ed="#P" n="41"/>Ltem, etiam fuit semper de necessitate 
+            preecep<lb break="no" ed="#P" n="42"/>ti. — Dico secundo : illo tempore 
+            praeccp<lb break="no" ed="#P" n="43"/>tum fuit credere de Deo explicite omnia illa
+            <lb ed="#P" n="44"/>quae diximus esse credenda ex necessitate 
+            me<lb break="no" ed="#P" n="45"/>dii. Hoc probatum manet, tum ex illo 
+            princi<lb break="no" ed="#P" n="46"/>pio, quod media necessaria sunt in praecepto;
+            <lb ed="#P" n="47"/>tum etiam quia tota illa fides Dei erat 
+            neces<lb break="no" ed="#P" n="48"/>saria, ut homines possent justificari et sancte
+            <lb ed="#P" n="49"/>vivere. Hinc pertinebat imprimis ad hoc 
+            prae<lb break="no" ed="#P" n="50"/>ceptum, credere Deum esse creatorem rerum
+            <lb ed="#P" n="51"/>omnium, quia haec cognitio erat necessaria ad
+            <lb ed="#P" n="52"/>colendum Deum debito cultu, et ad vitandam
+            <lb ed="#P" n="53"/>idololatriam, et ideo in hac fide continebatur
+            <lb ed="#P" n="54"/>ctiam explicita fides unitatis Dei, quia hoc
+            <lb ed="#P" n="55"/>cliam erat necessarium ad vitandum plurium
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>Deorum cultum. Praeterea oportebat credere
+            <lb ed="#P" n="57"/>explicite , eratque in praecepto cognoscere
+            <lb ed="#P" n="58"/>Deum ut finem supernaturalem ; tum quia illa
+            <lb ed="#P" n="59"/>cognitio erat necessaria ad tendendum in
+            <lb ed="#P" n="60"/>illum finem per operationes; tum etiam quia
+            <lb ed="#P" n="61"/>erat necessarium credere remunerationem 
+            su<lb break="no" ed="#P" n="62"/>pernaturalem, ut supra declaravi. Deinde erat
+            <lb ed="#P" n="63"/>nccessarium cognoscere Deum ut auctorem
+            <lb ed="#P" n="64"/>justitiae, et remissionis peccatorum, ut supra
+            <lb ed="#P" n="65"/>dixi; et ideo hoc etiam praecipiebatur. Et hine
+            <lb ed="#P" n="66"/>fit ut oporteret etiam ex praecepto cognoscere
+            <lb ed="#P" n="67"/>Deum offendi peccatis nostris, ac subinde esse
+            <lb ed="#P" n="68"/>legislatorem nostrum, quia alias sine tali 
+            co<lb break="no" ed="#P" n="69"/>gnitione non posset cognosci gravitas 
+            peccato<lb break="no" ed="#P" n="70"/>rum, nec etiam posset praestari Deo 
+            obedien<lb break="no" ed="#P" n="71"/>tia, ut par est, neque etiam posset ab eo 
+            pos<lb break="no" ed="#P" n="72"/>tulari venia peccatorum. Denique 
+            consequen<lb break="no" ed="#P" n="73"/>ter oportebat credere Deum punize peccata ;
+            <lb ed="#P" n="74"/>quia hoc etiam pertinet ad convenientem 
+            pro<lb break="no" ed="#P" n="75"/>videntiam et gubernationem hominum, quia
+            <lb ed="#P" n="76"/>solent maxime moveri ad servandas leges 
+            ti<lb break="no" ed="#P" n="77"/>more poenarum ; an vero esset necessarium
+            <lb ed="#P" n="78"/>cognoscere, et credere in illo tempore 
+            aeterni<lb break="no" ed="#P" n="79"/>tatem poenarum, satis dubia res est, propter
+            <lb ed="#P" n="80"/>imperfectionem illorum temporum ; probabile
+            <lb ed="#P" n="81"/>autem est, per se loquendo, hoc etiam fuisse
+            <lb ed="#P" n="82"/>subobligatione, propter rationes dictas, 
+            quam<lb break="no" ed="#P" n="83"/>vis in multis facile esse posset ignorantia 
+            in<lb break="no" ed="#P" n="84"/>vincibilis ex defectu doctrinae.
+          </p>
+          <p xml:id="szthvi-a88030-d1e2201">
+            <lb ed="#P" n="85"/>4. Tertia assertio- etiam tunc dabatur 
+            praee<lb break="no" ed="#P" n="86"/>ceptum credendi, el cognoscendi preecepta 
+            mo<lb break="no" ed="#P" n="87"/>ralia, etc. — Alia que semper fuerunt in 
+            pre<lb break="no" ed="#P" n="88"/>cepto. — Dico tertio: etiam tunc fuit 
+            necessa<lb break="no" ed="#P" n="89"/>rium ex praecepto credere, et distincte 
+            co<lb break="no" ed="#P" n="90"/>cnoscere praecepta moralia, et omnia quae ad
+            <lb ed="#P" n="91"/>vitam recte instituendam necessaria 
+            existce<lb break="no" ed="#P" n="92"/>bant. Hoc etiam colligitur ex isdem 
+            princi<lb break="no" ed="#P" n="93"/>piis, et prior pars ponitur praecipue propter
+            <lb ed="#P" n="94"/>praecepta becalogi, et alia, quae in iis virtute
+            <lb ed="#P" n="95"/>ct per necessariam illationem continentur,
+            <lb ed="#P" n="96"/>quia horum notitia est necessaria ad honeste
+            <lb ed="#P" n="97"/>vivendum, et consequenter ad vitam 
+            aeter<lb break="no" ed="#P" n="98"/>nam consequendam. Dices, haec omnia 
+            co<lb break="no" ed="#P" n="99"/>gnosci suflicienter per naturalem rationem,
+            <lb ed="#P" n="100"/>et sic cognita etiam suflicere ad honeste 
+            vi<lb break="no" ed="#P" n="101"/>vendum. hespondetur multis rationibus fuisse
+            <lb ed="#P" n="102"/>necessariam illorum fidem: primo, ut majori
+            <lb ed="#P" n="103"/>certitudine tenerentur, et ita possent 
+            homi<lb break="no" ed="#P" n="104"/>nes per fidem juvari ad eadem praecepta 
+            ser<lb break="no" ed="#P" n="105"/>vanda, quia per solam cognitionem naturalem
+            <lb ed="#P" n="106"/>non possent. Secundo, quia ratio naturalis 
+            fa<lb break="no" ed="#P" n="107"/>cile in his moralibus et practicis errat, 
+            prae<lb break="no" ed="#P" n="108"/>sertim post peccatum. Tertio, quia major 
+            ho<lb break="no" ed="#P" n="109"/>minum multitudo non potest suo discursu et
+            <lb ed="#P" n="110"/>ratione assequi haec omnia, quae ad honeste
+            <pb ed="#P" n="369"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>vivendum necessaria sunt; et ideo oportuit
+            <lb ed="#P" n="2"/>praecepta credendi illa omnibus imponi, quia
+            <lb ed="#P" n="3"/>leges respiciunt ea quae regulariter necessaria
+            <lb ed="#P" n="4"/>sunt. Alia pars posita est propter alia 
+            quae<lb break="no" ed="#P" n="5"/>dam, quae, licet immediate non contineant
+            <lb ed="#P" n="6"/>praecepta moralia, quodammodo sunt illorum
+            <lb ed="#P" n="7"/>fundamenta, quale est credere 
+            immortalita<lb break="no" ed="#P" n="8"/>tem animae, et post praesentem vitam aliam
+            <lb ed="#P" n="9"/>superesse ; et aliqui volunt in his etiam 
+            com<lb break="no" ed="#P" n="10"/>prehendi resurrectionem corporum; sed hoc
+            <lb ed="#P" n="11"/>magis dubium est, quia neque per se ita est
+            <lb ed="#P" n="12"/>necessarium , neque expresse et distincte in
+            <lb ed="#P" n="13"/>lege natura omnibus proponebatur. Potest
+            <lb ed="#P" n="14"/>etiam sub hoc capite comprehendi 
+            praece<lb break="no" ed="#P" n="15"/>ptum credendi peccatum originale, quia haec
+            <lb ed="#P" n="16"/>cognitio explicita erat necessaria etiam, vel
+            <lb ed="#P" n="17"/>ut adulti propriam sanctificationem procurare
+            <lb ed="#P" n="18"/>possent, vel ut parentes possent infantibus 
+            re<lb break="no" ed="#P" n="19"/>medium adhibere. Dicunt vero aliqui potuisse
+            <lb ed="#P" n="20"/>homines illo tempore per experientiam et 
+            dis<lb break="no" ed="#P" n="21"/>cursum naturalem cognoscere hnc lapsum,
+            <lb ed="#P" n="22"/>et indigentiam naturae. Sed hoc falsum est,
+            <lb ed="#P" n="23"/>quia juxta veram doctrinam nullus defectus
+            <lb ed="#P" n="24"/>poenalis, et experimento cognoscibilis, est nunc
+            <lb ed="#P" n="25"/>iu humana natura, qui non esset in puris 
+            na<lb break="no" ed="#P" n="26"/>turalibus, si in illis crearetur homo sine 
+            pec<lb break="no" ed="#P" n="27"/>cato; et ideo necessario dicendum est, per
+            <lb ed="#P" n="28"/>traditionem habuisse homines illam 
+            ccgnitio<lb break="no" ed="#P" n="29"/>nem et praeceptum ejus, et ita potuisse illo
+            <lb ed="#P" n="30"/>praecepto obligari, quamvis discursu 
+            tempo<lb break="no" ed="#P" n="31"/>ris, et deficiente traditione, facile potuerunt
+            <lb ed="#P" n="32"/>multi per ignorantiam excusari, quod de 
+            mul<lb break="no" ed="#P" n="33"/>tis aliis necessario dicendum est.
+          </p>
+          <p xml:id="szthvi-a88030-d1e2336">
+            <lb ed="#P" n="34"/>5. Quarta assertio bipartita. — Prior pars
+            <lb ed="#P" n="35"/>probatur. — Praeter haec non fuerunt data
+            <lb ed="#P" n="36"/>in lege naturae alia praecepta specialia fidei
+            <lb ed="#P" n="37"/>explicitae; in lege autem scripta fuerant 
+            non<lb break="no" ed="#P" n="38"/>nulla ad operationem magis, quam ad puram
+            <lb ed="#P" n="39"/>cognitionem pertinentia. Prior pars 
+            commu<lb break="no" ed="#P" n="40"/>nis est et certa, sequiturque ex dictis 
+            dispu<lb break="no" ed="#P" n="41"/>tatione praecedenti, quia in illo statu non fuit
+            <lb ed="#P" n="42"/>aliquid aliud necessarium ut medium, ut
+            <lb ed="#P" n="43"/>ibl ostensum est; ergo neque ut praeceptum.
+            <lb ed="#P" n="44"/>Probatur consequentia, quia illa erat tantum
+            <lb ed="#P" n="45"/>lex naturae, et idco non habuit aliqua 
+            prae<lb break="no" ed="#P" n="46"/>cepta, praeter ea quae connaturalha erant,
+            <lb ed="#P" n="47"/>quod semper intelligendum est de divinis
+            <lb ed="#P" n="48"/>praeceptis, quia ex humanis necessaria erant
+            <lb ed="#P" n="49"/>aiqua, quae essent veluti determinationes,
+            <lb ed="#P" n="50"/>quae ex vi fidei solum generaliter dabantur;
+            <lb ed="#P" n="51"/>ui, verbi gratia, fides docebat colendum esse
+            <lb ed="#P" n="52"/>Deum ; poterant autem homines illud 
+            deter<lb break="no" ed="#P" n="53"/>minare ad hunc vel ad illum modum cultus
+            <lb ed="#P" n="54"/>vel sacrificii, et consequenter erat potestas in
+            <lb ed="#P" n="55"/>republica humana ad imponendum sub prae-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>cepto talem modum cultus, vel saerificii; tune
+            <lb ed="#P" n="57"/>auteni satis erat cognoscere talia praecepta
+            <lb ed="#P" n="58"/>quadam fide humana, quamvis aliquo modo
+            <lb ed="#P" n="59"/>fundata in generalibus principiis fidei.
+          </p>
+          <p xml:id="szthvi-a88030-d1e2397">
+            <lb ed="#P" n="60"/>6. Secunda pars probatur. — Circa alteram
+            <lb ed="#P" n="61"/>partem delege veteri, div. Thom. dicta quaest.
+            <lb ed="#P" n="62"/>6, art. 1,videtur docere in illa lege non fuisse
+            <lb ed="#P" n="63"/>specialia praecepta fidei, quae non essent in
+            <lb ed="#P" n="64"/>lege naturae ; sed intelligendum est de 
+            praecep<lb break="no" ed="#P" n="65"/>tis quae per se primo dantur propter 
+            cogni<lb break="no" ed="#P" n="66"/>tionem, ut est praeceptum explicite credendi
+            <lb ed="#P" n="67"/>Trinitatem vel Incarnationem ; nam de aliis,
+            <lb ed="#P" n="68"/>quae per se ordinantur ad operationem, negare
+            <lb ed="#P" n="69"/>non possumus quin aliqua fuerint in lege 
+            ve<lb break="no" ed="#P" n="70"/>teri. Nam et Paulus, ad Roman. tertio, legem
+            <lb ed="#P" n="71"/>veterem vocat legem factorum, sicut et legem
+            <lb ed="#P" n="72"/>novam fidei legem appetlat, et cum ipsa lege
+            <lb ed="#P" n="73"/>erant talia aliqua praecepta necessario 
+            con<lb break="no" ed="#P" n="74"/>nexa; nam in primis necessarium erat credere
+            <lb ed="#P" n="75"/>illam legem esse divinam, et ut talem 
+            obli<lb break="no" ed="#P" n="76"/>gare, quia hoc erat quasi fundamentum illius
+            <lb ed="#P" n="77"/>reipublicae. Unde secundo erat necessarium
+            <lb ed="#P" n="78"/>in speciali credere circumcisionem tanquam
+            <lb ed="#P" n="79"/>sicramentum a Deo datum, quia erat 
+            profes<lb break="no" ed="#P" n="80"/>sio illius status, et quasi janua ad illam 
+            Eccle<lb break="no" ed="#P" n="81"/>siam, et simul erat remedium peccati 
+            origi<lb break="no" ed="#P" n="82"/>nalis. Tertio oportebat etiam habere aliquam
+            <lb ed="#P" n="83"/>cognitionem sacrificiorum etfestivitatum, quae
+            <lb ed="#P" n="84"/>ex praecepto illius legis servabantur, quia hoc
+            <lb ed="#P" n="85"/>etiam erat necessarium ad bonos illius populi
+            <lb ed="#P" n="86"/>mores. Unde quia illa fiebpant in 
+            recognitio<lb break="no" ed="#P" n="87"/>nem praeteritorum beneficiorum Dei, etiam
+            <lb ed="#P" n="88"/>de illis aliquam fidem habere oportebat, et
+            <lb ed="#P" n="89"/>propterea specialiter commendabatur 
+            paren<lb break="no" ed="#P" n="90"/>tibus, ut ea traderent filiis suis, ut illa 
+            me<lb break="no" ed="#P" n="91"/>moria et fides in populo conservaretur, Exodi
+            <lb ed="#P" n="92"/>duodecimo : Cum diacerint cobis filà vestri:
+            <lb ed="#P" n="93"/>Qu«e est ista religio celebrandiscilicet phase)?
+            <lb ed="#P" n="94"/>dicetis : Victima transitus Domini est, quando
+            <lb ed="#P" n="95"/>transivit per domos filiorum Israel, percutiens
+            <lb ed="#P" n="96"/>E ptios, etc.; Deutcronomii 6: Hoec sunt
+            <lb ed="#P" n="97"/>precepta, et ceremonie, atque judic:a, etc.,
+            <lb ed="#P" n="98"/>que ego preecipio tibi, et filas ac nepotibus tuis,
+            <lb ed="#P" n="99"/>cunctis diebus, etc.. et in eodem libro non
+            <lb ed="#P" n="100"/>raro ; Psalmo septuagesimo septimo : Quanta
+            <lb ed="#P" n="101"/>mandavit patribus nostris, nota fucere ea
+            <lb ed="#P" n="102"/>flüs suis, ldi qui nascentur, ei exurgent, et
+            <lb ed="#P" n="103"/>narrabunt fils suis, eic. Denique 
+            necessa<lb break="no" ed="#P" n="104"/>rium tunc fuit aliquam fidem habere Messiae
+            <lb ed="#P" n="105"/>venturi juxta dicta in disputatione 
+            praece<lb break="no" ed="#P" n="106"/>denti.
+          </p>
+          <p xml:id="szthvi-a88030-d1e2501">
+            <lb ed="#P" n="107"/>7. In primoribus Hcclesie semper fuit 
+            ne<lb break="no" ed="#P" n="108"/>cessaria explicatior fides. — Advertendum 
+            au<lb break="no" ed="#P" n="109"/>tem est hanc ultimam assertionem, et suo
+            <lb ed="#P" n="110"/>etiam modo praecedentes intelligi de communi
+            <pb ed="#P" n="370"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>plebe fidelium ; nam semper in Ecclesia 
+            fue<lb break="no" ed="#P" n="2"/>runt aliqui homines qui alios insiruerent, et
+            <lb ed="#P" n="3"/>in fide docerent, vel aliqui specialiter electi
+            <lb ed="#P" n="4"/>et illuminati a Deo, in quibus explicatior fides
+            <lb ed="#P" n="5"/>semper mansit, et de his communiter dicunt
+            <lb ed="#P" n="6"/>Doctores, habuisse plura praecepta credendi
+            <lb ed="#P" n="7"/>explicite, etiam Trinitatem et Incarnationem:
+            <lb ed="#P" n="8"/>illud autem praeceptum magis erat ratione
+            <lb ed="#P" n="9"/>officii quam ex speciali obligatione propria 
+            fi<lb break="no" ed="#P" n="10"/>dei, vel certe non erat obligatio fidei, nisi forte
+            <lb ed="#P" n="11"/>(juxta ea quae in superioribus, disputatione 3,
+            <lb ed="#P" n="12"/>sectione 10, numero 5, dicebamus) supposita
+            <lb ed="#P" n="13"/>speciali revelatione, vel sufticienti 
+            proposi<lb break="no" ed="#P" n="14"/>tione illis facta, utiterum in sequenti sectione
+            <lb ed="#P" n="15"/>explicabo.
+          </p>
+        </div>
+        <div xml:id="szthvi-a88030-Dd1e2550">
+          <head xml:id="szthvi-a88030-Hd1e2552">Sectio 4</head>
+          <head xml:id="szthvi-a88030-Hd1e2554" type="question-title">Utrum explicita fides omnium articulorum , quae in symbolo continentur, sit necessaria ex praecepto in lege gratia</head>
+          <p xml:id="szthvi-a88030-d1e2557">
+            <lb ed="#P" n="16"/>SECTIO IV.
+            <lb ed="#P" n="17"/>Utrum explicita fides omnium articulorum,
+            <lb ed="#P" n="18"/>quae in symbolo continentur, sit necessaria ex
+            <lb ed="#P" n="19"/>praecepto in lege gratia.
+          </p>
+          <p xml:id="szthvi-a88030-d1e2568">
+            <lb ed="#P" n="20"/>1. Opinio universim negans aliquem 
+            articu<lb break="no" ed="#P" n="21"/>lum esse a communi plebe emphcite credendum.
+            <lb ed="#P" n="22"/>— mNotatur censura praedictae sententie a 
+            re<lb break="no" ed="#P" n="23"/>centioribus. — Liberantur a censura auctores
+            <lb ed="#P" n="24"/>citati. — Fuit quaedam antiqua opinio docens,
+            <lb ed="#P" n="25"/>fidelibus simplicibus seu de communi plebe,
+            <lb ed="#P" n="26"/>non esse necessarium aliquid explicite 
+            crede<lb break="no" ed="#P" n="27"/>re, sed tantum generatim credere ea quae tenet
+            <lb ed="#P" n="28"/>Ecclesia, et pro illa referunt aliqui plures 
+            Ca<lb break="no" ed="#P" n="29"/>nonistas, Innocentium, scilicet, in capite 1 de
+            <lb ed="#P" n="30"/>Summa Trinitate et Fide Catholica, in 
+            princi<lb break="no" ed="#P" n="31"/>pio, Ostiensem, et Panormitanum in Rubriea
+            <lb ed="#P" n="32"/>ejusdem tituli, in fine. Citantur etiam pro hac
+            <lb ed="#P" n="33"/>opinione Summa Rozela, verbo fides ; 
+            Guillel<lb break="no" ed="#P" n="34"/>mus Parisiensis, in tractat. de Fide, S 
+            Post<lb break="no" ed="#P" n="35"/>quam. autem, circa finem ; et Altisiod., libr. 3
+            <lb ed="#P" n="36"/>Summnse, tractat. 3, capite 1, quaestione 5.
+            <lb ed="#P" n="37"/>Aliqui vero ex modernis Theologis eam 
+            dam<lb break="no" ed="#P" n="38"/>nant ut erroneam , quia videtur damnata a
+            <lb ed="#P" n="39"/>Gregorio Papa XI, cum Concilio Cardinalium
+            <lb ed="#P" n="40"/>et Theologorum, ut refertur in Directorio 
+            In<lb break="no" ed="#P" n="41"/>quisitorum, 2 p., quaest. 10, artic. 8, eorum,
+            <lb ed="#P" n="42"/>qui ibi damnantur; tamen si verba illius 
+            arti<lb break="no" ed="#P" n="43"/>culi cum verbis dictcorum auctorum 
+            compa<lb break="no" ed="#P" n="44"/>rentur, intelligetur certe non ibi damnari 
+            il<lb break="no" ed="#P" n="45"/>lorum opinionem, nam articulus ibi damnatus
+            <lb ed="#P" n="46"/>est, quod laici non tenentur ad aliquem 
+            articu<lb break="no" ed="#P" n="47"/>lum fidei explicite credendum, sed sufficit illis
+            <lb ed="#P" n="48"/>ista conclusio iw genere , quod credunt omne
+            <lb ed="#P" n="49"/>illud quod Sancta Dei Ecclesia credit. At vero
+            <lb ed="#P" n="50"/>Guillelmus Parisiensis et Altisiodor., expresse
+            <lb ed="#P" n="51"/>simplicibus dicunt sufficere aliquos paucos
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="52"/>articulos explicite credere, et reliquos 
+            impli<lb break="no" ed="#P" n="53"/>cite ; ergo multo recedunt ab articulo 
+            damna<lb break="no" ed="#P" n="54"/>to. Alii vero auctores ante omnia supponunt
+            <lb ed="#P" n="55"/>teneri omnes, etiam simplices, ad credendum
+            <lb ed="#P" n="56"/>Deum esse, et remuneratorem esse, quae 
+            per<lb break="no" ed="#P" n="57"/>unent ad aliquos articulos; de reliquis vero
+            <lb ed="#P" n="58"/>aiunt sufficere illos credere in fide Ecclesiae.
+            <lb ed="#P" n="59"/>Unde ratione prioris partis liberari videntur
+            <lb ed="#P" n="60"/>ab illa censura. Quapropter tanquam 
+            indubi<lb break="no" ed="#P" n="61"/>tatum ab omnibus supponendum est, ea 
+            om<lb break="no" ed="#P" n="62"/>nia quae erant sub praecepto fidei in lege 
+            na<lb break="no" ed="#P" n="63"/>turae, etiam nunc esse, et oppositum dicere
+            <lb ed="#P" n="64"/>erroneum esse. Et hoc ad minimum probat
+            <lb ed="#P" n="65"/>dicta definitio; et ratio est facilis, tum quia
+            <lb ed="#P" n="66"/>illud praeceptum erat juris divini naturalis;
+            <lb ed="#P" n="67"/>hujusmodi autem praecepta durant in lege
+            <lb ed="#P" n="68"/>nova; tum etiam quia perfectio fidei non est
+            <lb ed="#P" n="69"/>diminuta in lege nova, sed aucta; ergo et
+            <lb ed="#P" n="70"/>obligatio.
+          </p>
+          <p xml:id="szthvi-a88030-d1e2683">
+            <lb ed="#P" n="71"/>2. Non omnes saltem articulos esse 
+            neces<lb break="no" ed="#P" n="72"/>sario credendos euplicite suadetur. — Quoad
+            <lb ed="#P" n="73"/>aliam vero partem, quod, scilicet, non omnes
+            <lb ed="#P" n="74"/>articuli sint explicite credendi, potest illa 
+            opi<lb break="no" ed="#P" n="75"/>nio suaderi nonnullis argumentis. Primum
+            <lb ed="#P" n="76"/>est, quia praeceptum fidei magis explicitae non
+            <lb ed="#P" n="77"/>est datum in lege nova jure divino, neque
+            <lb ed="#P" n="78"/>etiam ecclesiastico; ergo non est asserenda
+            <lb ed="#P" n="79"/>talis obligatio, quia sine praecepto positivo de
+            <lb ed="#P" n="80"/>quo constet, esse non potest. Antecedens quoad
+            <lb ed="#P" n="81"/>jus divinum patet, quia in Scriptura solum
+            <lb ed="#P" n="82"/>jubetur praedicari fides evangelica : et addit
+            <lb ed="#P" n="83"/>Christus Dominus : Quwi crediderit et 
+            baptiza<lb break="no" ed="#P" n="84"/>tus fuerit, salvus erit, ubi non explicatur certa
+            <lb ed="#P" n="85"/>materia explicite credenda; ergo qui credit
+            <lb ed="#P" n="86"/>Deum, et simul credit Deo loqnuenti per 
+            Apo<lb break="no" ed="#P" n="87"/>stolos vel Ecclesiam, in omnibus quae docet
+            <lb ed="#P" n="88"/>confuse sumptis, satis implet quae Christus
+            <lb ed="#P" n="89"/>dixit : Qui crediderit ; ergo ex parte fidei ad
+            <lb ed="#P" n="90"/>nihil aliud tenetur, dummodo alia necessaria
+            <lb ed="#P" n="91"/>operetur, et consequenter sciat quae ad 
+            ope<lb break="no" ed="#P" n="92"/>randum necessaria sunt. Altera vero pars de
+            <lb ed="#P" n="93"/>jure humano probatur ex illo principio, quod
+            <lb ed="#P" n="94"/>Ecclesia nihil potest in actus internos ; hoc
+            <lb ed="#P" n="95"/>autem praeceptum circa internum actum fidei
+            <lb ed="#P" n="96"/>versatur. Item quia nullo decreto yel canone
+            <lb ed="#P" n="97"/>invenitur hoc praeceptum satis expressum.
+          </p>
+          <p xml:id="szthvi-a88030-d1e2745">
+            <lb ed="#P" n="98"/>3. Suadetur secundo. — Suadetur tertio. —
+            <lb ed="#P" n="99"/>Secundo, idem probari potest, quia praeceptum
+            <lb ed="#P" n="100"/>multitudini fidelium imponendum debet esse,
+            <lb ed="#P" n="101"/>saltem majori ex partc, omnibus et singulis
+            <lb ed="#P" n="102"/>accommodatum, pro captu illorum, et 
+            praeser<lb break="no" ed="#P" n="103"/>tim in re tam necessaria ad salutem, ne 
+            mul<lb break="no" ed="#P" n="104"/>titudo fidelium periculo damnationis 
+            expona<lb break="no" ed="#P" n="105"/>tur. At vero praeceptum fidei explicitae de
+            <lb ed="#P" n="106"/>omnibus articulis regulariter et frequentis-
+            <pb ed="#P" n="371"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>sime est supra captum simplicium fidelium,
+            <lb ed="#P" n="2"/>ut patet ex altitudine mysteriorum, et 
+            expe<lb break="no" ed="#P" n="3"/>rientia id videtur constare; unde per talem
+            <lb ed="#P" n="4"/>obligationem multi exponerentur periculo, vel
+            <lb ed="#P" n="5"/>damnationis, vel saltem peccandi saepius 
+            mor<lb break="no" ed="#P" n="6"/>taliter; ergo non est admittendum tale 
+            prae<lb break="no" ed="#P" n="7"/>ceptum. Tertio, materia praecepti debet esse
+            <lb ed="#P" n="8"/>certa ; in praesenti autem ultra ea quae dicit
+            <lb ed="#P" n="9"/>illa opinio, nulla certa materia talis 
+            obliga<lb break="no" ed="#P" n="10"/>tionis designari potest : ergo. Minor probaur.
+            <lb ed="#P" n="11"/>Quia si aliqua esset, maxime symbolum 
+            velar<lb break="no" ed="#P" n="12"/>ticuli fidei; hoc autem dici non potest. Primo,
+            <lb ed="#P" n="13"/>quia etiam inter ipsos Theologos non est 
+            cer<lb break="no" ed="#P" n="14"/>tum quot sint articuli fidei; alii enim 
+            duode<lb break="no" ed="#P" n="15"/>cim, alii quatuordecim numerant. Deinde in
+            <lb ed="#P" n="16"/>his etiam inter se non consentiunt. Nam 
+            Bo<lb break="no" ed="#P" n="17"/>naventura in tertio, distinctione vigesima
+            <lb ed="#P" n="18"/>prima, articulo primo, quaestione 2; et 
+            Du<lb break="no" ed="#P" n="19"/>randus, quaestione prima, negat esse sub 
+            prae<lb break="no" ed="#P" n="20"/>cepto credere omnes articulos, saltem 
+            huma<lb break="no" ed="#P" n="21"/>nitatis, et pro regula ponit ut illi credantur
+            <lb ed="#P" n="22"/>quos Ecclesia publice celebrat ; quae tamen 
+            re<lb break="no" ed="#P" n="23"/>gula non videtur constans, quia multa 
+            mys<lb break="no" ed="#P" n="24"/>teria celebrat Ecclesia, quae non tenentur 
+            om<lb break="no" ed="#P" n="25"/>nes fideles explicite credere, ut Cireumcisionis,
+            <lb ed="#P" n="26"/>Transfigurationis, adventus Spiritus Sancti, et
+            <lb ed="#P" n="27"/>similia. Praeterea divus Thomas, in tertio, 
+            dis<lb break="no" ed="#P" n="28"/>unctione vigesima quinta, quaestione secunda,
+            <lb ed="#P" n="29"/>articulo primo, quaestione 2, ad tertium,
+            <lb ed="#P" n="30"/>expresse negat esse necessarium omnibus 
+            fi<lb break="no" ed="#P" n="31"/>delibus credere explicite omnes articulos fidei,
+            <lb ed="#P" n="32"/>et idem tenent Richardus, Gabriel et ali. Si
+            <lb ed="#P" n="33"/>autem non est necessarium omnes explicite
+            <lb ed="#P" n="34"/>credere, fere non est major ratio de uno quuam
+            <lb ed="#P" n="35"/>de alio; nulia ergo certa materia illius 
+            prae<lb break="no" ed="#P" n="36"/>cepti designari potest. Unde Sylvester, verbo
+            <lb ed="#P" n="37"/>Fides, quaestione tertia, quem imitatur 
+            Me<lb break="no" ed="#P" n="38"/>dina, libro quarto de Recta in Deum Fide,
+            <lb ed="#P" n="39"/>capite sexto, dixit satis esse ea credere quae
+            <lb ed="#P" n="40"/>suficiunt ad dirigendum honiinem in 
+            ulti<lb break="no" ed="#P" n="41"/>mum ftinem, et ad vitam recte instituendam,
+            <lb ed="#P" n="42"/>qualia sunt, inquit, explicite credere Deum
+            <lb ed="#P" n="43"/>esse. et providentiam ejus, et mysteria Christi,
+            <lb ed="#P" n="44"/>pracipue quae publice in Ecclesia 
+            solem<lb break="no" ed="#P" n="45"/>nizantur. Et denique concludit, quod quilibet
+            <lb ed="#P" n="46"/>tenetur explicite credere, circa articulos fidei,
+            <lb ed="#P" n="47"/>pertinentia ad officium suum, etc. Sed haec
+            <lb ed="#P" n="48"/>materia satis confusa et incerta est, et videtur
+            <lb ed="#P" n="49"/>impleri per fidem Dei remuneratoris, et 
+            cogui<lb break="no" ed="#P" n="50"/>tionem mandatorum, quam prima opinio non
+            <lb ed="#P" n="51"/>negat, et ita videntur hi auctores cum illa
+            <lb ed="#P" n="52"/>consentire.
+          </p>
+          <p xml:id="szthvi-a88030-d1e2884">
+            <lb ed="#P" n="53"/>4. Prima assertio: major, seu expressior fides
+            <lb ed="#P" n="54"/>exigitur in lege gratie, quam in aliis. — Pro
+            <lb ed="#P" n="55"/>resolutione, supponendae sunt illae duae partes
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>fidei, quas saepe distinxi, scilicet, quae est 
+            pro<lb break="no" ed="#P" n="57"/>pter cognitionem et propter operationem. Et
+            <lb ed="#P" n="58"/>de utraque statuendum est ut certum, majorem
+            <lb ed="#P" n="59"/>fidem seu magis explicitam requiri ex 
+            prae<lb break="no" ed="#P" n="60"/>cepto in lege gratiae, quam antea requireretur.
+            <lb ed="#P" n="61"/>In hoc convenire videntur omnes Theologi in
+            <lb ed="#P" n="62"/>tertio argumento in numero praecedenti 
+            alle<lb break="no" ed="#P" n="63"/>gati, et alii statim referendi ; et videtur 
+            sup<lb break="no" ed="#P" n="64"/>poni clare in Concilio Tridentino, sessione
+            <lb ed="#P" n="65"/>quinta, capite 2 de Reformatione, dum 
+            prae<lb break="no" ed="#P" n="66"/>cipit parochis ut doceant fideles, quae omnibus
+            <lb ed="#P" n="67"/>necessaria sunt ad salutem, aperte significans
+            <lb ed="#P" n="68"/>esse aliqua, etiam particularia mysteria legis
+            <lb ed="#P" n="69"/>novae propria. Prior pars pertinens ad 
+            cogni<lb break="no" ed="#P" n="70"/>tionem, sequitur evidenter ex dictis in 
+            dispu<lb break="no" ed="#P" n="71"/>tatione praecelenti ; nam dictum est 
+            explici<lb break="no" ed="#P" n="72"/>tam fidem Trinitatis et Incarnationis esse per
+            <lb ed="#P" n="73"/>se necessariam ad salutem necessitate medii;
+            <lb ed="#P" n="74"/>sed quidquid hujusmodi est, est praeceptum;
+            <lb ed="#P" n="75"/>ergo haec nunc praecipiuntur quae antiquo 
+            tem<lb break="no" ed="#P" n="76"/>pore non praecipiebantur; ergo nunc major
+            <lb ed="#P" n="77"/>seu magis explicita fides praecipitur. Item hoc
+            <lb ed="#P" n="78"/>est consentaneum praesenti statui, in quo 
+            ma<lb break="no" ed="#P" n="79"/>jor est doctrina fidei, expliciteque omnibus 
+            pro<lb break="no" ed="#P" n="80"/>ponitur ; majora etiam sunt auxilia gratiae ad
+            <lb ed="#P" n="81"/>credendum ; ergo mirum non est quod fides
+            <lb ed="#P" n="82"/>magis explicita praecipiatur etiam propter 
+            co<lb break="no" ed="#P" n="83"/>gnitionem. Deinde altera pars de operatione
+            <lb ed="#P" n="84"/>facile probatur, quia in hoc statu plura opera
+            <lb ed="#P" n="85"/>supernaturalia fidelibus omnibus 
+            praecipiun<lb break="no" ed="#P" n="86"/>tur, quam antiquo tempore, ut de usu 
+            sacra<lb break="no" ed="#P" n="87"/>mentorum et aliis quae Ecclesia observat, et
+            <lb ed="#P" n="88"/>sine fide fieri non possunt; ergo etiam ex hac
+            <lb ed="#P" n="89"/>parte tides operabiiium in hoc statu major
+            <lb ed="#P" n="90"/>praecipitur.
+          </p>
+          <p xml:id="szthvi-a88030-d1e2971">
+            <lb ed="#P" n="91"/>5. Secunda assertio - omnes fideles ev 
+            pre<lb break="no" ed="#P" n="92"/>cepto obligantur credere empiicite omnia fere
+            <lb ed="#P" n="93"/>que in Symbolo Apostolorum continentur. —
+            <lb ed="#P" n="94"/>Ad declarandam autem in particulari hanc
+            <lb ed="#P" n="95"/>generalem doctrinam, dicimus ulterius teneri
+            <lb ed="#P" n="96"/>fideles omnes ex praecepto ad credendum fere
+            <lb ed="#P" n="97"/>omnia illa qua in Symbolo Apostolorum 
+            con<lb break="no" ed="#P" n="98"/>tinentur, saltem quoad substantiam eorum.
+            <lb ed="#P" n="99"/>Haec est communior resolutio Theologorum
+            <lb ed="#P" n="100"/>cum divo Thoma, 2. 2, quaestione 2, ab art. 5
+            <lb ed="#P" n="101"/>usque ad $, et idem brevius dixerat prima 
+            se<lb break="no" ed="#P" n="102"/>cundae, quaest. 76, articulo 2. Idem docet
+            <lb ed="#P" n="103"/>Soto, in quarto, distinctione quinta, art. 2,
+            <lb ed="#P" n="104"/>dubio ultimo, et libro 2 de Natura et gratia,
+            <lb ed="#P" n="105"/>capite 11; et Cano, dicta relectione de 
+            Sacra<lb break="no" ed="#P" n="106"/>mentis in genere ; Adrian., Quodlibeto tertio,
+            <lb ed="#P" n="107"/>art. 1; et Navar. in Summa, capite 12, 
+            nu<lb break="no" ed="#P" n="108"/>mero 22; Castro, libro primo de Justa 
+            haere<lb break="no" ed="#P" n="109"/>ticorum punitione, capite nono ; Aragon., 
+            se<lb break="no" ed="#P" n="110"/>cunda secundee, quaestione secunda, articu-
+            <pb ed="#P" n="372"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>lo 6; Valentia, ibidem, disputatione prima,
+            <lb ed="#P" n="2"/>quaestione secunda, puncto tertio, conclusione
+            <lb ed="#P" n="3"/>secunda, et puncto quarto ; Azor, tomo primo,
+            <lb ed="#P" n="4"/>libro octavo, capite septimo, quaestione 
+            quar<lb break="no" ed="#P" n="5"/>ta; et sumitur ex D. Leone, serm. 6 de 
+            Pas<lb break="no" ed="#P" n="6"/>sione; et Augustino, serm. 181 de Tempore,
+            <lb ed="#P" n="7"/>quatenus dicunt Apostolos composuisse 
+            Sym<lb break="no" ed="#P" n="8"/>bolum, ut fideles haberent certam fidei suae
+            <lb ed="#P" n="9"/>regulam , quam scire et credere deberent.
+            <lb ed="#P" n="10"/>Unde inter quosdam canones attributos sextae
+            <lb ed="#P" n="11"/>Synodo, qui habentur tertio tomo 
+            Concilio<lb break="no" ed="#P" n="12"/>rum, reperitur septimus, in quo dicitur eum,
+            <lb ed="#P" n="13"/>qui non scit memoriter, et credit firmiter
+            <lb ed="#P" n="14"/>Symbolum, non esse Catholicum censendum,
+            <lb ed="#P" n="15"/>quod videtur per exaggerationem dictum ad
+            <lb ed="#P" n="16"/>commendandam diligentiam et obligationem.
+            <lb ed="#P" n="17"/>Sumitur etiam haec assertio ex Concilio 
+            Aga<lb break="no" ed="#P" n="18"/>thensi, et ex Concilio Bracharensi Il, et
+            <lb ed="#P" n="19"/>ex Cabilonensi, capite quadragesimo sexto,
+            <lb ed="#P" n="20"/>quae referuntur de Consecratione, 
+            distinc<lb break="no" ed="#P" n="21"/>tione quarta, capite vigesimo et 
+            sequenti<lb break="no" ed="#P" n="22"/>bus, ubi etiam in capitulo Ante baptismum,
+            <lb ed="#P" n="23"/>refertur sententia Rabani, libro primo de
+            <lb ed="#P" n="24"/>Institutione clericorum, capite secundo, ubi
+            <lb ed="#P" n="25"/>per rudimenta fidei, quae Christiani omnes
+            <lb ed="#P" n="26"/>scire tenentur, symbolum intelligit. Unde in
+            <lb ed="#P" n="27"/>Catechismo Pii V, dicitur in principio, 
+            Chris<lb break="no" ed="#P" n="28"/>tianos omnes scire debere et credere illa, quae
+            <lb ed="#P" n="29"/>Apostoli certis articulis comprehenderunt. 
+            De<lb break="no" ed="#P" n="30"/>nique hoc confirmat usus et traditio Ecclesiae;
+            <lb ed="#P" n="31"/>nam ob hanc causam nullus adultus ad 
+            bap<lb break="no" ed="#P" n="32"/>tismum admittitur, nisi praevia instructione
+            <lb ed="#P" n="33"/>Symboli, neque in sacramento poenitentiae
+            <lb ed="#P" n="34"/>absolvitur qui Symbolum ignoraverit ; imo
+            <lb ed="#P" n="35"/>ctiam ad matrimonium non admittuntur nisi
+            <lb ed="#P" n="36"/>praevia examinatione circa hujus fidei 
+            cogni<lb break="no" ed="#P" n="37"/>tionem ; ergo signum est esse positam in 
+            prae<lb break="no" ed="#P" n="38"/>cepto. Ratio vero hujus assertionis est, quia
+            <lb ed="#P" n="39"/>hoc tempore est necessaria fides magis 
+            expli<lb break="no" ed="#P" n="40"/>cita ; nulla autem certior regula hujus fidei
+            <lb ed="#P" n="41"/>dari potest quam Symbolum, cum illa sit ab
+            <lb ed="#P" n="42"/>Apostolis data, et ab Ecclesia merito retenta,
+            <lb ed="#P" n="43"/>quia nulla fides censeri potest magis 
+            necessa<lb break="no" ed="#P" n="44"/>ria ex praecepto, quam illa quam Apostoli
+            <lb ed="#P" n="45"/>omnibus fidelibus tradiderunt et sufticienter
+            <lb ed="#P" n="46"/>proposuerunt.
+          </p>
+          <p xml:id="szthvi-a88030-d1e3121">
+            <lb ed="#P" n="47"/>6. Articuli spectantes ad divinitatem, et 
+            cre<lb break="no" ed="#P" n="48"/>dendi em necessitate preecepti, quinam sint. —
+            <lb ed="#P" n="49"/>Non tenentur fideles eaplicite credere, et 
+            cognos<lb break="no" ed="#P" n="50"/>cere creationem mundi fuisse in tempore, non
+            <lb ed="#P" n="51"/>ab eterno. — Praeterea potest hoc praeceptum
+            <lb ed="#P" n="52"/>magis declarari distinguendo articulos fidei,
+            <lb ed="#P" n="53"/>pront habentur in rudimentis doctrinae 
+            Chris<lb break="no" ed="#P" n="54"/>tianae, in duos ordines. Unus continet mysteria
+            <lb ed="#P" n="55"/>divinitatis, alius vero humanitatis Christi Do-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>mini. In priori ordine, primus articulus 
+            perti<lb break="no" ed="#P" n="57"/>net ad Deum, ut unus est, de quo satis jam
+            <lb ed="#P" n="58"/>dictum est. Additur vero ibi attributum 
+            omni<lb break="no" ed="#P" n="59"/>potentiae, quod in attributum creatoris 
+            com<lb break="no" ed="#P" n="60"/>prehenditur, et satis creditur, credendo Deum
+            <lb ed="#P" n="61"/>esse creatorem ; neque a simplicibus 
+            explica<lb break="no" ed="#P" n="62"/>tior fides illius articuli videtur postulanda.
+            <lb ed="#P" n="63"/>Tres autem subsequentes articuli pertinent ad
+            <lb ed="#P" n="64"/>mysterium Trinitatis, de quo jam diximus
+            <lb ed="#P" n="65"/>esse distincte credendum ex necessitate; 
+            suf<lb break="no" ed="#P" n="66"/>ficit autem communi plebi credere in hoc 
+            au<lb break="no" ed="#P" n="67"/>gustissimo mysterio tres personas, quarum
+            <lb ed="#P" n="68"/>una non sit alia, et ita inter se distinctas 
+            cre<lb break="no" ed="#P" n="69"/>dere, ut omnes sint unus Deus, et singulae
+            <lb ed="#P" n="70"/>sint Deus ; major autem explicatio non est illis
+            <lb ed="#P" n="71"/>necessaria simpliciter. Unde licet in 
+            Sym<lb break="no" ed="#P" n="72"/>bolo Nicaeno, seu Constantinopolitano, de 
+            Spi<lb break="no" ed="#P" n="73"/>ritu Sancto additum sit : Qui ex Patre 
+            Filio<lb break="no" ed="#P" n="74"/>que procedit , non oportet ut omnes fideles
+            <lb ed="#P" n="75"/>hoc distincte intelligant et credant, imo nec
+            <lb ed="#P" n="76"/>de processione unius personae ab alia amplius
+            <lb ed="#P" n="77"/>distincte scire, aut credere necessarium est,
+            <lb ed="#P" n="78"/>quam ipsis nominibus, Patris, et Filii, et 
+            Spi<lb break="no" ed="#P" n="79"/>ritus Sancti importetur, et quasi per se 
+            pa<lb break="no" ed="#P" n="80"/>teat, intellecta illarum vocum 
+            significatio<lb break="no" ed="#P" n="81"/>ne, quia communiter fideles non sunt 
+            capa<lb break="no" ed="#P" n="82"/>ces majoris cognitionis, neque etiam est cur
+            <lb ed="#P" n="83"/>major obligatio iis imponatur. Quintus 
+            articu<lb break="no" ed="#P" n="84"/>lus hujus ordinis distinctius continet 
+            creatio<lb break="no" ed="#P" n="85"/>nem, et circa illam interrogari potest an sit 
+            ne<lb break="no" ed="#P" n="86"/>cessarium distincte credere creationem ex 
+            tem<lb break="no" ed="#P" n="87"/>pore. et quod non fuerit ab aeterno. Nam
+            <lb ed="#P" n="88"/>Banhes, in dicto articulo octavo, hanc 
+            obliga<lb break="no" ed="#P" n="89"/>tionem ponit omnibus fidelibus, sine auctore,
+            <lb ed="#P" n="90"/>et sine suflficiente fundamento quod ego 
+            vi<lb break="no" ed="#P" n="91"/>deam. Dico ergo, non teneri fideles ad hoc
+            <lb ed="#P" n="92"/>explicite credendum, quia neque in Symbolo
+            <lb ed="#P" n="93"/>declaratur, neque alibi praecipitur; utile 
+            au<lb break="no" ed="#P" n="94"/>tem est eos de hac veritate instruere, ne per
+            <lb ed="#P" n="95"/>ignorantiam in errorem labantur, et hoc est
+            <lb ed="#P" n="96"/>quod in Ecclesia fieri consuevit. Sextus 
+            arti<lb break="no" ed="#P" n="97"/>culus est Deum esse Salvatorem, in quo 
+            conti<lb break="no" ed="#P" n="98"/>netur remissio peccatorum, quae a solo Deo
+            <lb ed="#P" n="99"/>concedi potest; et hanc fidem jam diximus
+            <lb ed="#P" n="100"/>esse necessariam etiam in lege naturae, neque
+            <lb ed="#P" n="101"/>nunc videtur necessaria magis explicita 
+            quan<lb break="no" ed="#P" n="102"/>tum ad hunc articulum, nisi ratione 
+            sacra<lb break="no" ed="#P" n="103"/>mentorum, de quibus in ultima assertione 
+            dice<lb break="no" ed="#P" n="104"/>mus. Denique ultimus articulus hujus ordinis
+            <lb ed="#P" n="105"/>continet fidem de Deo remuneratore, utique
+            <lb ed="#P" n="106"/>per gloriam, de qua nihil aliud necesse est 
+            ex<lb break="no" ed="#P" n="107"/>plicite credere, nisi futuram esse aeternam, et
+            <lb ed="#P" n="108"/>in supernaturali beatitudine ; et ita quoad
+            <lb ed="#P" n="109"/>hanc primam partem Symboli sufficienter 
+            ma<lb break="no" ed="#P" n="110"/>net probata conclusio.
+          </p>
+          <p xml:id="szthvi-a88030-d1e3264">
+            <pb ed="#P" n="373"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>7. Declaratur quinam sint articuli de 
+            Chris<lb break="no" ed="#P" n="2"/>to explicite credendi. — In secundo ordine 
+            con<lb break="no" ed="#P" n="3"/>unentur mysteria ad humanitatem Christi
+            <lb ed="#P" n="4"/>Domini pertinentia, quorum primum, et 
+            ma<lb break="no" ed="#P" n="5"/>xime substantiale, et quasi fundamentum
+            <lb ed="#P" n="6"/>aliorum, est Christum esse verum Deum et
+            <lb ed="#P" n="7"/>hominem, et non solum esse Deum, sed etiam
+            <lb ed="#P" n="8"/>esse filium Dei, ac proinde distinctum esse a
+            <lb ed="#P" n="9"/>Patre, et Spiritu Sancto, in quo etiam 
+            conti<lb break="no" ed="#P" n="10"/>netur, Filium fuisse incarnatum, et non 
+            cae<lb break="no" ed="#P" n="11"/>teras personas. Non est autem necessarium,
+            <lb ed="#P" n="12"/>ut singuli fideles haec omnia ita distincte 
+            con<lb break="no" ed="#P" n="13"/>cipiant, ut etiam interrogati ad illam 
+            respon<lb break="no" ed="#P" n="14"/>dere sciant, licet sit utile et optimum ; in 
+            ri<lb break="no" ed="#P" n="15"/>gore autem satis est ut sciant et credant solum
+            <lb ed="#P" n="16"/>filium Dei esse verum hominem. Secundo, ad
+            <lb ed="#P" n="17"/>hunc ordinem pertinet scire Christum, filium
+            <lb ed="#P" n="18"/>Dei, esse conceptum de Spiritu Sancto ex 
+            Ma<lb break="no" ed="#P" n="19"/>ria Virgine; ita enim expresse in Symbolo
+            <lb ed="#P" n="20"/>continetur ; et decuit maxime ut fideles 
+            om<lb break="no" ed="#P" n="21"/>nes dignam de Christo et matre ejus haberent
+            <lb ed="#P" n="22"/>existimationem et fidem. Dubitari autem 
+            so<lb break="no" ed="#P" n="23"/>let an teneantur fideles etiam explicite 
+            crede<lb break="no" ed="#P" n="24"/>re, mansisse Matrem Dei Virginem post 
+            par<lb break="no" ed="#P" n="25"/>tum, ac perpetuo ; aliqui enim non censent
+            <lb ed="#P" n="26"/>pertinere ad generale praeceptum, quia neque
+            <lb ed="#P" n="27"/>est per se necessarium ad rectam vitae 
+            insti<lb break="no" ed="#P" n="28"/>tutionem, neque etiam videtur tam expresse
+            <lb ed="#P" n="29"/>ab Apostolis praedicatum, tanquam per se 
+            om<lb break="no" ed="#P" n="30"/>nibus fidelibus necessarium ; unde etiam in
+            <lb ed="#P" n="31"/>Scriptura non invenitur expressum, et non est
+            <lb ed="#P" n="32"/>hoc improbabile. Nihilominus probabilius 
+            ju<lb break="no" ed="#P" n="33"/>dico hoc esse ex praecepto ab omnibus explicite
+            <lb ed="#P" n="34"/>credendum, quia in Symbolo Apostolorum hoc
+            <lb ed="#P" n="35"/>satis significatur, cum dicitur : Natus ex Maria
+            <lb ed="#P" n="36"/>Virgine; ibi enim et siguificatur virginitas in
+            <lb ed="#P" n="37"/>partu, atque etiam perpetua post partum, ut
+            <lb ed="#P" n="38"/>ex absoluta Virginis appellatione colligitur.
+            <lb ed="#P" n="39"/>Et confirmatur hoc. quia in articulis fidei
+            <lb ed="#P" n="40"/>ita expresse declaratum est, et illi 
+            proponun<lb break="no" ed="#P" n="41"/>tur omnibus fidelibus, ut materia suae fidei
+            <lb ed="#P" n="42"/>explicita : fuit etiam hoc valde necessarium
+            <lb ed="#P" n="43"/>fidelibus, tum ad vitandos errores qui in illa
+            <lb ed="#P" n="44"/>materia facile oriri possunt, tum ad illorum
+            <lb ed="#P" n="45"/>pietatem, ad quam maxime pertinet, ut post
+            <lb ed="#P" n="46"/>Deum, diguam existimationem de illius 
+            Sanc<lb break="no" ed="#P" n="47"/>tissima Matre habeant.
+          </p>
+          <p xml:id="szthvi-a88030-d1e3373">
+            <lb ed="#P" n="48"/>8. Articuli credendi de passione, morte et 
+            re<lb break="no" ed="#P" n="49"/>surrect one Christi. — Post hos sequuntur
+            <lb ed="#P" n="50"/>articuli de passione, morte et resurrectione
+            <lb ed="#P" n="51"/>Domini, de quibus omnes Theologi fatentur
+            <lb ed="#P" n="52"/>esse ex praecepto explicite credendos ab 
+            omni<lb break="no" ed="#P" n="53"/>bus. Nam per passionem oblatum est 
+            pre<lb break="no" ed="#P" n="54"/>tium redemptionis nostrae, et illa maxime nobis
+            <lb ed="#P" n="55"/>proposita est in vitae exemplum; unde Apos-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>toli hoc primum praedicabant, juxta illud 
+            pri<lb break="no" ed="#P" n="57"/>mae ad Corinth 2: Predicamus Christum, et
+            <lb ed="#P" n="58"/>lhunc crucifiawum ; et ad Rom. 4: Traditus est
+            <lb ed="#P" n="59"/>propter delicta nostra. Per mortem autem
+            <lb ed="#P" n="60"/>consummata est redemptio, et janua coeli 
+            aper<lb break="no" ed="#P" n="61"/>ta est. Unde Paulus etiam posuit hoc inter
+            <lb ed="#P" n="62"/>prima credenda, 1 ad Corinth. 15: T'adidi
+            <lb ed="#P" n="63"/>volis imprimis quoniam Christus mortuus
+            <lb ed="#P" n="64"/>est, etc. De resurrectione etiam dicit 
+            Pau<lb break="no" ed="#P" n="65"/>lus, ad Rom. 4: Resurrexit propter 
+            justifi<lb break="no" ed="#P" n="66"/>cationem nostram ; unde ad Roman. 10, hoc
+            <lb ed="#P" n="67"/>etiam mysterium ponit inter necessaria 
+            cre<lb break="no" ed="#P" n="68"/>denda ; et Actorum 1 et 2, Apostoli quasi per
+            <lb ed="#P" n="69"/>antonomasiam dicuntur testes resurrectionis,
+            <lb ed="#P" n="70"/>et ideo illa tria distincte proponuntur in 
+            om<lb break="no" ed="#P" n="71"/>nibus symbolis et articulis fidei. Inter 
+            mor<lb break="no" ed="#P" n="72"/>tem autem et resurrectionem intercessit 
+            des<lb break="no" ed="#P" n="73"/>census ad inferos in anima divinitati unita, de
+            <lb ed="#P" n="74"/>quo articulo majus dubium est an cadat suh
+            <lb ed="#P" n="75"/>praeceptum. Sed videri de eo possunt dieta in
+            <lb ed="#P" n="76"/>tom. 2 tertiae partis, disp. A47, sect. 2, ad
+            <lb ed="#P" n="77"/>tinem.
+          </p>
+          <p xml:id="szthvi-a88030-d1e3444">
+            <lb ed="#P" n="78"/>9. Articuli de Ascensione et judicio. —
+            bDeni<lb break="no" ed="#P" n="79"/>que ad hunc ordinem pertinet articulus de 
+            ad<lb break="no" ed="#P" n="80"/>ventu Christi ad judicium, ante quem 
+            articu<lb break="no" ed="#P" n="81"/>lum ponitur etiam mysterium Ascensionis,
+            <lb ed="#P" n="82"/>quod etiam Ecclesia publice celebrat, et ideo
+            <lb ed="#P" n="83"/>ex sententia omnium explicite credendum est.
+            <lb ed="#P" n="84"/>Quod vero illi additur, sedere Christum ad 
+            dez<lb break="no" ed="#P" n="85"/>teram Patris, magis obscurum est quam ut
+            <lb ed="#P" n="86"/>facile possit ab omnibus simplicibus intelligi,
+            <lb ed="#P" n="87"/>et ideo satis esse judico, si credant esse 
+            Chris<lb break="no" ed="#P" n="88"/>tum in coelo in summo ac dignissimo gradu
+            <lb ed="#P" n="89"/>beatitudinis, ut homo est; et aequalis Patri,
+            <lb ed="#P" n="90"/>ut Deus est. Articulus autem de adventu ad
+            <lb ed="#P" n="91"/>judicium omnino explicite credendus est, quia
+            <lb ed="#P" n="92"/>et explicite proponitur, et ab Apostohs ab
+            <lb ed="#P" n="93"/>initio praedicatus est, ut maxime necessarius.
+            <lb ed="#P" n="94"/>Unde Petrus, Actorum 10, dicit se habere
+            <lb ed="#P" n="95"/>praeceptum praedicandi specialiter hunc 
+            arti<lb break="no" ed="#P" n="96"/>culum; et Paulus, Actorum 17, hinc incepit
+            <lb ed="#P" n="97"/>praedicationem suam; ac denique cogitatio
+            <lb ed="#P" n="98"/>hujus mysterii masime necessaria est ad 
+            vi<lb break="no" ed="#P" n="99"/>tam recte instituendam, et ideo cognitio et
+            <lb ed="#P" n="100"/>Bdes illius merito omnibus praecipitur.
+          </p>
+          <p xml:id="szthvi-a88030-d1e3496">
+            <lb ed="#P" n="101"/>10. Articulus de sancta Ecclesia ecplicite
+            <lb ed="#P" n="102"/>credendus. — Bdditur tandem articulus de
+            <lb ed="#P" n="103"/>Ecclesia sancta credenda, de quo aliqui 
+            dubi<lb break="no" ed="#P" n="104"/>tant, ut videre est in Medina et aliis; mihi
+            <lb ed="#P" n="105"/>tamen videtur res maxime necessaria, tum
+            <lb ed="#P" n="106"/>quia et in Symbolo et in articulis expresse
+            <lb ed="#P" n="107"/>continetur, et materia est valde gravis et 
+            ne<lb break="no" ed="#P" n="108"/>cessaria; tum quia Ecclesia, quoad nos est
+            <lb ed="#P" n="109"/>proxima regula fidei, ad quam debent 
+            recur<lb break="no" ed="#P" n="110"/>rere omnes fideles, et quae ignorant in fide il-
+            <pb ed="#P" n="374"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>lius implicite credere, ne errandi periculo se
+            <lb ed="#P" n="2"/>exponan:; tum etiam quia extra Ecclesiam
+            <lb ed="#P" n="3"/>non est salus, et ideo oportet illam explicite
+            <lb ed="#P" n="4"/>cognoscere et credere, vel ad quaerendam 
+            il<lb break="no" ed="#P" n="5"/>lam. vel ad permanendum in illa. Et ita 
+            do<lb break="no" ed="#P" n="6"/>cent Theologi, in 4; expositores D. Thomae
+            <lb ed="#P" n="7"/>9. 9, quaest. 9. et Vasquez, 4. 9, dip. 91,
+            <lb ed="#P" n="8"/>cap. 2. num. 6; Henriquez, lib..6 de Poenit.,
+            <lb ed="#P" n="9"/>cap. 28. num. 2; Sanchez, lib. 2 Decalog.,
+            <lb ed="#P" n="10"/>cap. 3, num. 8. Quod vero huic articulo 
+            ad<lb break="no" ed="#P" n="11"/>ditur de communione Sanctorum, quamvis
+            <lb ed="#P" n="12"/>sint opiniones, probabilius videtur vel non
+            <lb ed="#P" n="13"/>esse in praecepto, vel saltem per se non esse
+            <lb ed="#P" n="14"/>materiam gravem, et ideo satis esse saltem ad
+            <lb ed="#P" n="15"/>non peccandum mortaliter, credere Ecclesiam
+            <lb ed="#P" n="16"/>sub conceptu unius congregationis, in qua est
+            <lb ed="#P" n="17"/>et vera sanctitas, et una fides sub uno capite
+            <lb ed="#P" n="18"/>Christi Vicarii; nam in hoc virtute continetur
+            <lb ed="#P" n="19"/>esse inter membra hujus Ecclesiae 
+            communi<lb break="no" ed="#P" n="20"/>cationem aliquam in bonis operibus et 
+            oratio<lb break="no" ed="#P" n="21"/>nibus, quod per communionem illam 
+            Sanc<lb break="no" ed="#P" n="22"/>torum significatur.
+          </p>
+          <p xml:id="szthvi-a88030-d1e3572">
+            <lb ed="#P" n="23"/>11. Tertia assertio : precepta Decalogi 
+            tene<lb break="no" ed="#P" n="24"/>mur scire et credere ex preecepto. — Medina
+            <lb ed="#P" n="25"/>oppos tum sentiens. — Improbatur. — 
+            Hacte<lb break="no" ed="#P" n="26"/>nus de his quae per se. et propter 
+            cognitio<lb break="no" ed="#P" n="27"/>nem sunt explicite credenda, quibus ultimo
+            <lb ed="#P" n="28"/>addendum est, etiam esse aliqua omnibus
+            <lb ed="#P" n="29"/>fidelibus credenda propter operationem. 
+            Pro<lb break="no" ed="#P" n="30"/>batur, quia imprimis necessariu m est credere
+            <lb ed="#P" n="31"/>explicite praecepta Decalogi, quod ausus est
+            <lb ed="#P" n="32"/>negare Medina, lib. 4 de Recta in Deum fide,
+            <lb ed="#P" n="33"/>cap. 6.Sed contra omnes, et judicio meo,
+            <lb ed="#P" n="34"/>sine probabilitate. Dicit enim satis esse ut 
+            om<lb break="no" ed="#P" n="35"/>nes cognoscant et credant illa duo priacipia:
+            <lb ed="#P" n="36"/>Quod tibi non vis, alteri ne facias ; eti : 
+            Qua<lb break="no" ed="#P" n="37"/>cumque vultis ut faciant volis homines, et vos
+            <lb ed="#P" n="38"/>faite illis; quia ex his duobus principiis
+            <lb ed="#P" n="39"/>facile, inquit, potest unusquisque in 
+            particu<lb break="no" ed="#P" n="40"/>lari judicare, quid sibi faciendum sit ad 
+            ho<lb break="no" ed="#P" n="41"/>neste operandum, seu vivendum ; sed hoc, ut
+            <lb ed="#P" n="42"/>dixi, probabile non est, quia ex illis 
+            princi<lb break="no" ed="#P" n="43"/>piis, cum ad proximum pertineant, non potest
+            <lb ed="#P" n="44"/>sumi regula honeste operandi in ordine ad
+            <lb ed="#P" n="45"/>Deum. Secundo, quia illa solum pertinent ad
+            <lb ed="#P" n="46"/>matcriam justitiae ; sunt autem praecepta ad
+            <lb ed="#P" n="47"/>alias etiam virtutes pertinentia, verbi gratia,
+            <lb ed="#P" n="48"/>praeceptum non fornicandi, et similia. Tertio,
+            <lb ed="#P" n="49"/>in ipsa etiam materia justitiae non satis 
+            de<lb break="no" ed="#P" n="50"/>cernitur ex illis principiis, an prohibeatur non
+            <lb ed="#P" n="51"/>tantum operatio, sed etiam voluntas, et 
+            desi<lb break="no" ed="#P" n="52"/>derium, quod non sine causa in Decalogo .
+            <lb ed="#P" n="53"/>declaratum est. Ac denique multi sunt ad«o
+            <lb ed="#P" n="54"/>rustici vel ignorantes, ut vel omnino non
+            <lb ed="#P" n="55"/>possint, vel difficile possint illa principia ad
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>singulas materias et ad singulos actus 
+            appli<lb break="no" ed="#P" n="57"/>care. Unde sine dubio dicendum est explicitam
+            <lb ed="#P" n="58"/>cognitionem et fidem praeceptorum Decalogi
+            <lb ed="#P" n="59"/>ex praecepto necessariam esse.
+          </p>
+          <p xml:id="szthvi-a88030-d1e3657">
+            <lb ed="#P" n="60"/>12. Baptismus, Penitentia et Eucharistia
+            <lb ed="#P" n="61"/>ex praecepto sciri et credi debent. — Wem 
+            ali<lb break="no" ed="#P" n="62"/>qui censent de Sacramentis necessarium, 
+            sci<lb break="no" ed="#P" n="63"/>licet, ex praecepto esse omnia illa scire et
+            <lb ed="#P" n="64"/>credere ; hoc vero late etiam impugnat 
+            Me<lb break="no" ed="#P" n="65"/>dina, dicto capit. sexto. Dicendum 
+            nihilomi<lb break="no" ed="#P" n="66"/>nus est tria saltem sacramenta, quae 
+            omni<lb break="no" ed="#P" n="67"/>bus sunt ad salntem necessaria, ab omnibus
+            <lb ed="#P" n="68"/>esse scienda, scilicet, Baptismum, 
+            Poeniten<lb break="no" ed="#P" n="69"/>Uam et Eucharistiam; nam imprimis, qui 
+            non<lb break="no" ed="#P" n="70"/>dum baptismum suscepit, oportet ut illius 
+            ha<lb break="no" ed="#P" n="71"/>beat notitiam et fidem, ut illum possit petere,
+            <lb ed="#P" n="72"/>et convenienter recipere; qui vero illum jam
+            <lb ed="#P" n="73"/>recepit etiam in infantia, necessarium est ut 
+            il<lb break="no" ed="#P" n="74"/>lius fidem habeat, tum ut certus esse possit se
+            <lb ed="#P" n="75"/>jam satisfecisse illi obligationi, tum etiam ut
+            <lb ed="#P" n="76"/>intelligat quem statum profitetur, et ad quid
+            <lb ed="#P" n="77"/>ratione illius teneatur, ac denique ut digne
+            <lb ed="#P" n="78"/>possit ad alia sacramenta accedere. 
+            Sacra<lb break="no" ed="#P" n="79"/>mentum etiam confessionis, regulariter 
+            lo<lb break="no" ed="#P" n="80"/>quendo, cmnibus adultis fidelibus necessarium
+            <lb ed="#P" n="81"/>est, quia omnes peccamus, et illa medicina
+            <lb ed="#P" n="82"/>indigemus, et ideo omnes etiam tenemur 
+            hu<lb break="no" ed="#P" n="83"/>jus sacramenti notitiam habere. Denique usus
+            <lb ed="#P" n="84"/>Eucharistiae omnibus est necessarius, ut 
+            con<lb break="no" ed="#P" n="85"/>stat, et ideo cognitio ejus praecepta est; in
+            <lb ed="#P" n="86"/>hoc vero sacramento addendum est teneri 
+            fi<lb break="no" ed="#P" n="87"/>deles omnes ad cognoscendum et crelendum
+            <lb ed="#P" n="88"/>Christum Dominum vere et realiter esse 
+            prae<lb break="no" ed="#P" n="89"/>sentem, quia cum sacramentum illud adorent,
+            <lb ed="#P" n="90"/>necesse est ut intelligant quid adorant. Item,
+            <lb ed="#P" n="91"/>quia ad recipiendum illud cum debita 
+            reve<lb break="no" ed="#P" n="92"/>rentia et dispositione, necessaria est hujus
+            <lb ed="#P" n="93"/>mysterii fides; imo existimo probabile debere
+            <lb ed="#P" n="94"/>omnes scire sacramentum illud offerri in 
+            mis<lb break="no" ed="#P" n="95"/>sa in sacrificium, quia haec notitia necessaria
+            <lb ed="#P" n="96"/>est ad implendum debito modo praeceptum
+            <lb ed="#P" n="97"/>audiendi missam. De aliis vero sacramentis
+            <lb ed="#P" n="98"/>non est tanta ratio necessitatis ; monendi 
+            ta<lb break="no" ed="#P" n="99"/>men sunt fideles ut ea non ignorent, et 
+            qui<lb break="no" ed="#P" n="100"/>cumque aliquod illorum recipere vult, tenetur
+            <lb ed="#P" n="101"/>prius scire quid recipiat, ut ad illud digne se
+            <lb ed="#P" n="102"/>prae parare et accedere valeat. Denique addi
+            <lb ed="#P" n="103"/>hic solet teneri omnes fideles ad sciendum
+            <lb ed="#P" n="104"/>Orationem Dominicam, quia id graviter 
+            ordi<lb break="no" ed="#P" n="105"/>natur in Concilio Rhemensi, capit. 2, et in
+            <lb ed="#P" n="106"/>Concilio Moguntiaco I, cap. 45. Sed non 
+            con<lb break="no" ed="#P" n="107"/>stat sufficienter de tali praecepto, quamvis
+            <lb ed="#P" n="108"/>probabile sit non excusari a culpa saltem 
+            vc<lb break="no" ed="#P" n="109"/>niali, qui propter negligentiam illud 
+            ignora<lb break="no" ed="#P" n="110"/>verit, prout docuit Navar., in Summ., c. 12,
+            <pb ed="#P" n="375"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>numer. 22, cum Paludano, in 4, distinct. 15,
+            <lb ed="#P" n="2"/>artic. 5, et alias. Sed de hoc puncto latius 
+            di<lb break="no" ed="#P" n="3"/>cam sectione sequenti. Vide etiam quae dicta
+            <lb ed="#P" n="4"/>sunt tom. 2 de Relg., lib. 3 de Orat., cap. 6,
+            <lb ed="#P" n="5"/>a num. 5.
+          </p>
+          <p xml:id="szthvi-a88030-d1e3785">
+            <lb ed="#P" n="6"/>13. Ad primum argumentum in num. 2. —
+            <lb ed="#P" n="7"/>Superest respondere ad argumenta in 
+            prin<lb break="no" ed="#P" n="8"/>cipio posita. Primum illorum postulabat an
+            <lb ed="#P" n="9"/>hoc praeceptum, quod explicuimus, sit de jure
+            <lb ed="#P" n="10"/>divino, vel de ecclesiastico; in quo breviter
+            <lb ed="#P" n="11"/>dicendum est sub hoc praecepto quaedam 
+            con<lb break="no" ed="#P" n="12"/>tineri necessaria necessitate medii, ut Deum
+            <lb ed="#P" n="13"/>esse remuneratorem, et mysterium Trinitatis
+            <lb ed="#P" n="14"/>et Inearnationis; reliqua vero quae continet,
+            <lb ed="#P" n="15"/>solum esse praecepta. Quoad priora igitur
+            <lb ed="#P" n="16"/>praeceptum hoc est divinum, quia solus Deus
+            <lb ed="#P" n="17"/>potest definire media necessaria ad salutem;
+            <lb ed="#P" n="18"/>eo autem ipso, quod illa definit, eadem 
+            prae<lb break="no" ed="#P" n="19"/>cipit, quia praeceptum vel necessario 
+            conse<lb break="no" ed="#P" n="20"/>quitur ex necessitate medii, vel illam inducit,
+            <lb ed="#P" n="21"/>ut in superioribus dictum est. At vero quoad
+            <lb ed="#P" n="22"/>reliqua, praeceptum hoc ex determinatione 
+            Ec<lb break="no" ed="#P" n="23"/>clesiae esse videtur, quia de immediato 
+            prae<lb break="no" ed="#P" n="24"/>cepto divino non satis constat, et valde 
+            usita<lb break="no" ed="#P" n="25"/>tum est, ut praecepta divina, quae generalius
+            <lb ed="#P" n="26"/>tradi solent, per Ecclesiam determinentur,
+            <lb ed="#P" n="27"/>vel quoad materiam, vel quoad tempus, ve!
+            <lb ed="#P" n="28"/>quoad alias circumstantias; et in praesenti
+            <lb ed="#P" n="29"/>haec determinatio videtur esse apostolica in
+            <lb ed="#P" n="30"/>ipsa symboli compositione; potuit tamen 
+            Ec<lb break="no" ed="#P" n="31"/>clesia aliquid postea addere pro temporum
+            <lb ed="#P" n="32"/>necessitate.
+          </p>
+          <p xml:id="szthvi-a88030-d1e3846">
+            <lb ed="#P" n="33"/>14. Actus interni, quomodo cadere possint
+            <lb ed="#P" n="34"/>sub Ecclesie preceptum.—Neque contra hoc
+            <lb ed="#P" n="35"/>obstat quod actus credendi sit internus, nam
+            <lb ed="#P" n="36"/>licet Ecclesia pon possit praecipere actus mere
+            <lb ed="#P" n="37"/>internos per se ac praecise consideratos, 
+            nihi<lb break="no" ed="#P" n="38"/>lominus potest illos praecipere vel prohibere
+            <lb ed="#P" n="39"/>in ordine ad externos, quatenus isti externi
+            <lb ed="#P" n="40"/>ex interioribns oriri possunt, vel quatenus 
+            in<lb break="no" ed="#P" n="41"/>terni ad externos efficiendos necessarii sunt;
+            <lb ed="#P" n="42"/>et eadem ratione potest dirigere internos, 
+            ali<lb break="no" ed="#P" n="43"/>quid in ordine ad illos praecipiendo, quod 
+            ex<lb break="no" ed="#P" n="44"/>terius exercendum est, et hoc modo se gerit
+            <lb ed="#P" n="45"/>Ecclesia in hoc praecepto. Unde in actu fidei
+            <lb ed="#P" n="46"/>duo distinguenda sunt : unum est, quod,
+            <lb ed="#P" n="47"/>postquam materia fidei est proposita, 
+            creda<lb break="no" ed="#P" n="48"/>tur : et hoc semper spectat ad divinum 
+            prae<lb break="no" ed="#P" n="49"/>ceptum, ut supra visum est. Aliud est ut 
+            ha<lb break="no" ed="#P" n="50"/>beatur notitia materiae credendae, ct hoc est,
+            <lb ed="#P" n="51"/>quod Ecclesia potest praecipere, aut addere in
+            <lb ed="#P" n="52"/>hoc praecepto ; nam quia haec notitia per 
+            ac<lb break="no" ed="#P" n="53"/>tus externos et sensibiles comparatur, ideo
+            <lb ed="#P" n="54"/>sub ecclesiasticum praeceptum cadere 
+            po<lb break="no" ed="#P" n="55"/>test.
+          </p>
+          <p xml:id="szthvi-a88030-d1e3899">
+            <lb ed="#P" n="56"/>15. Ad secundum in num. 3. -- In secundo
+            <lb ed="#P" n="57"/>argumento exaggerabatur difficultas hujus
+            <lb ed="#P" n="58"/>praeceepti, maxime respectu hominum 
+            simpli<lb break="no" ed="#P" n="59"/>cium et rusticorum. Ad quod breviter 
+            res<lb break="no" ed="#P" n="60"/>pondemus, praeceptum generaliter dari pro
+            <lb ed="#P" n="61"/>omnibus, quia, moraliter loquendo, sine 
+            ma<lb break="no" ed="#P" n="62"/>gna diflicultate servari potest a multitudine
+            <lb ed="#P" n="63"/>fidelium, in particulari vero accommodatum
+            <lb ed="#P" n="64"/>esse uniuscujusque capacitati, ut recte dixit
+            <lb ed="#P" n="65"/>Seotus, in 3, distinct. 25. Majoris autem 
+            cla<lb break="no" ed="#P" n="66"/>ritatis gratia , et propter usum et praxim,
+            <lb ed="#P" n="67"/>tria possunt in usu vel effectu hujus praecepti
+            <lb ed="#P" n="68"/>distingui, scilicet, exterior diligentia, interior
+            <lb ed="#P" n="69"/>intelligentia, et memoria. Primum est, quod
+            <lb ed="#P" n="70"/>immediate et maxime praecipitur, et illud est
+            <lb ed="#P" n="71"/>in potestate cujuscumque, quia potest 
+            quili<lb break="no" ed="#P" n="72"/>bet rusticus et ignorans interrogare, audire,
+            <lb ed="#P" n="73"/>et alia similia facere, quae ad discendum 
+            ne<lb break="no" ed="#P" n="74"/>cessaria sunt. Secundum, scilicet intelligentia
+            <lb ed="#P" n="75"/>rerum quae dicuntur, non est aequaliter in
+            <lb ed="#P" n="76"/>potestate omnium audientium doctrinam 
+            fi<lb break="no" ed="#P" n="77"/>dei, et ideo unusquisque tantum obligatur
+            <lb ed="#P" n="78"/>juxta capacitatem suam; debent autem 
+            sin<lb break="no" ed="#P" n="79"/>guli facere quod possunt, ad intelligendum
+            <lb ed="#P" n="80"/>quod proponitur , quantum ad explicitam 
+            fi<lb break="no" ed="#P" n="81"/>dem sufficiat; et ideo non satis est, verbi
+            <lb ed="#P" n="82"/>gratia, in Latina liugua symbolum discere,
+            <lb ed="#P" n="83"/>vel memoria retinere illud, si quis 
+            significa<lb break="no" ed="#P" n="84"/>tionem illins linguae ignorat, quia iliud non
+            <lb ed="#P" n="85"/>est medium sufficiens ad invelligendum 
+            res<lb break="no" ed="#P" n="86"/>pectu talis persona. Deinde si non sufficiat
+            <lb ed="#P" n="87"/>semel aut iterum audire fidei mysteria, 
+            opor<lb break="no" ed="#P" n="88"/>tet saepius de illis instrui et cogitare, donec
+            <lb ed="#P" n="89"/>ad aliquam sufficientem intelligentiam 
+            per<lb break="no" ed="#P" n="90"/>veniatur; et in hoc tenentur ministri 
+            Eccle<lb break="no" ed="#P" n="91"/>siae, et praesertim parochi, juvare, quantum
+            <lb ed="#P" n="92"/>commode potuerint , simpliciores fideles, ut
+            <lb ed="#P" n="93"/>ad istam cognitionem perveniant, de qua
+            <lb ed="#P" n="94"/>obligatione saepe in sacris canonibus 
+            monen<lb break="no" ed="#P" n="95"/>tur, et specialiter in Concilio Tridentino, sess.
+            <lb ed="#P" n="96"/>24. cap. 4 de Reformatione. Denique nullus
+            <lb ed="#P" n="97"/>est tam rudis inter fideles, ut, si faciat quod
+            <lb ed="#P" n="98"/>in se est, non possit cum divino auxilio eam
+            <lb ed="#P" n="99"/>intelligentiam consequi, quae ad salutem 
+            suffi<lb break="no" ed="#P" n="100"/>ciat; tum quia facienti quod in se est per
+            <lb ed="#P" n="101"/>priorem vocationem , Deus non negat 
+            auxi<lb break="no" ed="#P" n="102"/>lium ad caetera necessaria; tum et am quia
+            <lb ed="#P" n="103"/>illa est veluti extrema necessitas, in qua 
+            mi<lb break="no" ed="#P" n="104"/>nima fides potest sufficere, ut in simile 
+            atti<lb break="no" ed="#P" n="105"/>git Augustinus , lib. de Fide et Operibus,
+            <lb ed="#P" n="106"/>cap. 6.
+          </p>
+          <p xml:id="szthvi-a88030-d1e4012">
+            <lb ed="#P" n="107"/>16. Ad tertium ibid. — Tertium 
+            argumen<lb break="no" ed="#P" n="108"/>tum attingit difficultatem de materia hujus
+            <lb ed="#P" n="109"/>praecepti, quomodo certa ac definita sit,
+            <lb ed="#P" n="110"/>quae difficultas iu toto sectionis discursu satis
+            <pb ed="#P" n="376"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>explicata est; continetur enim illa materia
+            <lb ed="#P" n="2"/>in Symbolo Apostolico, cum aliis quae 
+            dixi<lb break="no" ed="#P" n="3"/>mus. Nec refert quod sint plura symbola; non
+            <lb ed="#P" n="4"/>enim est necesse omnia scire, nec tam 
+            ex<lb break="no" ed="#P" n="5"/>plicite omnia credere, sicut in iis declarantur;
+            <lb ed="#P" n="6"/>nam hoc et nullibi praeceptum invenitur, et
+            <lb ed="#P" n="7"/>moraliter esset impossibile respectu majoris
+            <lb ed="#P" n="8"/>multitudinis fidelium; satis ergo est scire
+            <lb ed="#P" n="9"/>Symbolum Apostolicun quoad substantiam
+            <lb ed="#P" n="10"/>ejus, ui dixi; au vero oporteat etiam memoria
+            <lb ed="#P" n="11"/>retinere illud, quod ad tertium membrum
+            <lb ed="#P" n="12"/>in praecedenti solutione omissum pertinebat,
+            <lb ed="#P" n="13"/>dicam in sectione sequenti. Neque denique
+            <lb ed="#P" n="14"/>ohstat quod in numerandis articulis fidei, sit
+            <lb ed="#P" n="15"/>opinionum diversitas; nam illa differentia
+            <lb ed="#P" n="16"/>quasi materialis est, quatenus unus sub uno
+            <lb ed="#P" n="17"/>articulo plura mysteria comprehendit quam
+            <lb ed="#P" n="18"/>alius, vel pauciora; in re tamen eadem sunt
+            <lb ed="#P" n="19"/>mysteria quae credenda proponuntur; 
+            fide<lb break="no" ed="#P" n="20"/>les autem non tenentur illa credere sub hoc
+            <lb ed="#P" n="21"/>vel illo articulorum numero, sed simpliciter
+            <lb ed="#P" n="22"/>mysteria, quae diximus, scire et credere.
+          </p>
+        </div>
+        <div xml:id="szthvi-a88030-Dd1e4076">
+          <head xml:id="szthvi-a88030-Hd1e4078">Sectio 5</head>
+          <head xml:id="szthvi-a88030-Hd1e4080" type="question-title">Quando obliget hoc praeceptum fidei, et ad quos actus</head>
+          <p xml:id="szthvi-a88030-d1e4083">
+            <lb ed="#P" n="23"/>SECTIO V.
+            <lb ed="#P" n="24"/>Quando obliget hoc praeceptum fidei, et ad
+            <lb ed="#P" n="25"/>quos actus.
+          </p>
+          <p xml:id="szthvi-a88030-d1e4092">
+            <lb ed="#P" n="26"/>1. Quo tempore obliget praeceptum fidei 
+            ne<lb break="no" ed="#P" n="27"/>gat cum.— Quo item tempore obliget preceptum
+            <lb ed="#P" n="28"/>fidei affirmativum.—Ut hoc punctum breviter
+            <lb ed="#P" n="29"/>expediamus, in memoriam revocanda est 
+            dis<lb break="no" ed="#P" n="30"/>tinctio supra data de obligatione hujus 
+            praece<lb break="no" ed="#P" n="31"/>pti, partim negativa, partim affirmativa; nam
+            <lb ed="#P" n="32"/>in negativa nulla est difficultas; sequitur enim
+            <lb ed="#P" n="33"/>naturam praecepti negativi, quae est obligare
+            <lb ed="#P" n="34"/>semper et pro semper, quia quod simpliciter
+            <lb ed="#P" n="35"/>prohibetur, nunquam licet; et similiter quoad
+            <lb ed="#P" n="36"/>hanc partem non obligat hoc praeceptum
+            <lb ed="#P" n="37"/>ad specialem actum, sed solum ad carentiam
+            <lb ed="#P" n="38"/>omnis actus contrarii fidei, et omnis 
+            dubie<lb break="no" ed="#P" n="39"/>tatie contrariae certitudini ejus. Altera vero
+            <lb ed="#P" n="40"/>pars affirmativae obligationis subdistinguitur,
+            <lb ed="#P" n="41"/>ut supra dixi, in obligationem credendi quod
+            <lb ed="#P" n="42"/>jam est propositum, et aliquo modo scitum,
+            <lb ed="#P" n="43"/>sen aliquo modo apprehensum, et in 
+            obliga<lb break="no" ed="#P" n="44"/>tionem sciendi quod credendum est; et de his
+            <lb ed="#P" n="45"/>partibus sigillatim dicemus, quia unaquaeque
+            <lb ed="#P" n="46"/>suam difficultatem habet. Circa priorem 
+            par<lb break="no" ed="#P" n="47"/>tem, clarum est obligare hoc praeceptum
+            <lb ed="#P" n="48"/>ad cliciendum et exercendum proprium
+            <lb ed="#P" n="49"/>actum internum fidei, qui conscistit in 
+            fir<lb break="no" ed="#P" n="50"/>missimo ac certissimo assensu veritatis. 
+            Pro<lb break="no" ed="#P" n="51"/>posita vero difficultas est, quando obligetur
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="52"/>homo ad exercendos hos actus fidei. Et ratio
+            <lb ed="#P" n="53"/>difficulatis est, quia praeceptum affirmativum
+            <lb ed="#P" n="54"/>ex se, licet obliget semper, non tamen pro
+            <lb ed="#P" n="55"/>semper, id est, non pro omnibus et singulis
+            <lb ed="#P" n="56"/>temporibus. Unde si ipsum praeceptum non
+            <lb ed="#P" n="57"/>dcsignet tempus pro quo executioni 
+            man<lb break="no" ed="#P" n="58"/>dandum est, non obligat, nisi pro articulo
+            <lb ed="#P" n="59"/>necessitatis; hoc autem praceptum non 
+            de<lb break="no" ed="#P" n="60"/>signat tempus, ut per se patet, neque etiam
+            <lb ed="#P" n="61"/>apparet quae sit necessitas, in qua tale 
+            prae<lb break="no" ed="#P" n="62"/>ceptum obliget, et ideo difficile est certum
+            <lb ed="#P" n="63"/>tempus hujus obligationis praefigere.
+          </p>
+          <p xml:id="szthvi-a88030-d1e4179">
+            <lb ed="#P" n="64"/>2. Prima sententia. — Refellitur. — 
+            Qui<lb break="no" ed="#P" n="65"/>dam dicunt obligare hoc praeceptum festis 
+            die<lb break="no" ed="#P" n="66"/>bus, et tribuitur haec opinio Scoto, in 3, dist.
+            <lb ed="#P" n="67"/>21. q. unic., S Quantum ad secundum , quia
+            <lb ed="#P" n="68"/>ibi significat, Ecclesiam, designando tempus
+            <lb ed="#P" n="69"/>in quo est Deus colendus , consequenter 
+            de<lb break="no" ed="#P" n="70"/>signasse tempus in quo est super omnia
+            <lb ed="#P" n="71"/>amandus. Unde fit, juxta illam sententiam,
+            <lb ed="#P" n="72"/>praeceptum charitatis Dei obligare quoad
+            <lb ed="#P" n="73"/>dies festos. Quod si hoc ita est, majori ratione
+            <lb ed="#P" n="74"/>idem dicendum erit de praecepto et actu fidei;
+            <lb ed="#P" n="75"/>tum quia talis actus est necessarius ad 
+            aman<lb break="no" ed="#P" n="76"/>dum Deum super omnia, sicut oportet; tum
+            <lb ed="#P" n="77"/>etiam quia est magis necessarius ad colendum
+            <lb ed="#P" n="78"/>Deum, quam amor; fidelis enim in statu 
+            pec<lb break="no" ed="#P" n="79"/>cati existens potest colere Deum, quamvis
+            <lb ed="#P" n="80"/>illum non amet. Nihilominus haec sententia
+            <lb ed="#P" n="81"/>quoad amorem vera non est, nec 
+            communi<lb break="no" ed="#P" n="82"/>ter tenetur, ut dixi tom. 1 de Relig., lib. 1
+            <lb ed="#P" n="83"/>de Festis, cap. 16. Unde neque in praesenti
+            <lb ed="#P" n="84"/>probanda est, quia eadem procedit ratio in
+            <lb ed="#P" n="85"/>actu fidei, scilicet quod licet sit aliquo modo
+            <lb ed="#P" n="86"/>finis illius praecepti servandi festum, non est
+            <lb ed="#P" n="87"/>tamen materia ejus, et praeceptum non obligat
+            <lb ed="#P" n="88"/>ad finem, sed ad materiam. Deinde actus
+            <lb ed="#P" n="89"/>fidei non est simpliciter necessarius ad 
+            au<lb break="no" ed="#P" n="90"/>diendam missam, verbi gratia, modo 
+            suf<lb break="no" ed="#P" n="91"/>ficienti ad illud praeceptum implendum; satis
+            <lb ed="#P" n="92"/>enim est ibi adesse cum attentione, et 
+            inten<lb break="no" ed="#P" n="93"/>tione colendi Deum, vel offerendi sacrificium;
+            <lb ed="#P" n="94"/>quae omnia possunt fieri, etiamsi proprius
+            <lb ed="#P" n="95"/>actus internus fidei non exerceatur; quamvis
+            <lb ed="#P" n="96"/>ergo illa sit optima epportunitas exercendi
+            <lb ed="#P" n="97"/>actus fidei, non possumus tamen cum 
+            fun<lb break="no" ed="#P" n="98"/>damento dicere, quod sit necessitas praecepta.
+          </p>
+          <p xml:id="szthvi-a88030-d1e4258">
+            <lb ed="#P" n="99"/>3. Secunda sententia. — Secunda 
+            senten<lb break="no" ed="#P" n="100"/>tia, partim similis, partim diversa a 
+            prae<lb break="no" ed="#P" n="101"/>cedenti, docet teneri fideles ad exercendum
+            <lb ed="#P" n="102"/>actum fidei, non quidem in omnibus festis,
+            <lb ed="#P" n="103"/>neque de omnibus mysteriis, sed in illis 
+            die<lb break="no" ed="#P" n="104"/>bus in quibus illa mysteria, quae*ex 
+            prae<lb break="no" ed="#P" n="105"/>cepto credenda sunt , celebrantur , idque
+            <lb ed="#P" n="106"/>cum partitione accommoda, ita ut in uno-
+            <pb ed="#P" n="377"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>quoque die istorum exerceatur actus fidei
+            <lb ed="#P" n="2"/>circa illud mysterium quod illo die 
+            celebra<lb break="no" ed="#P" n="3"/>tur. Hanc opinionem tenuit Nider, in suo
+            <lb ed="#P" n="4"/>Praeceptorio, ut refert Aragon. 2. 2, quaest. 2,
+            <lb ed="#P" n="5"/>art. 6; sed non habet majus fundamentum,
+            <lb ed="#P" n="6"/>quam praecedens opinio, quia in illis diebus
+            <lb ed="#P" n="7"/>non praecipitur aliquid speciale toti populo
+            <lb ed="#P" n="8"/>Christiano. Unde eadem est materia praecepti,
+            <lb ed="#P" n="9"/>et exercitium actus fidei ad summumn est finis
+            <lb ed="#P" n="10"/>praecepti. Unde per ipsam professionem, et 
+            ob<lb break="no" ed="#P" n="11"/>servantiam talis festi virtute fit quaedam 
+            pro<lb break="no" ed="#P" n="12"/>fessio fidei illius mysterii; in rigore autem
+            <lb ed="#P" n="13"/>non est necessarium ad observantiam talis
+            <lb ed="#P" n="14"/>diei internum actum fidei circa tale mysterium
+            <lb ed="#P" n="15"/>exercere, quamvis sit utile et consulendum.
+          </p>
+          <p xml:id="szthvi-a88030-d1e4315">
+            <lb ed="#P" n="16"/>4. Tertia sententia. — Improbatur. — Est
+            <lb ed="#P" n="17"/>ergo tertia sententia, qua» dicit solum obligare
+            <lb ed="#P" n="18"/>hoc praeceptum ad exercendum aliquem 
+            ac<lb break="no" ed="#P" n="19"/>tum fidei in hac vita; determinationem autem
+            <lb ed="#P" n="20"/>temporis in particulari relinquit ipsius 
+            homi<lb break="no" ed="#P" n="21"/>nis arbitrio, quia non potest alia certa regula
+            <lb ed="#P" n="22"/>designari. Sed ad hanc sententiam sequitur 
+            il<lb break="no" ed="#P" n="23"/>lud incommodum, quia possit homo sine 
+            cul<lb break="no" ed="#P" n="24"/>pa nunquam exercere actum fidei in 
+            discur<lb break="no" ed="#P" n="25"/>su vitae, sed in tempus articuli mortis illud
+            <lb ed="#P" n="26"/>differre, quia si hoc relinquitur arbitrio ejus,
+            <lb ed="#P" n="27"/>potest illud tempus eligere, quia in rigore
+            <lb ed="#P" n="28"/>solum illud est tempus necessitatis; 
+            conse<lb break="no" ed="#P" n="29"/>quens autem est valde absurdum, quia est
+            <lb ed="#P" n="30"/>contra rectam institutionem Christianae vitae,
+            <lb ed="#P" n="31"/>cujus fundamentum est fides, unde illius
+            <lb ed="#P" n="32"/>actum praecedere oportet omnes alias 
+            vir<lb break="no" ed="#P" n="33"/>tutes.
+          </p>
+          <p xml:id="szthvi-a88030-d1e4357">
+            <lb ed="#P" n="34"/>5. Duplem necessitas exercendi actum fidei
+            <lb ed="#P" n="35"/>explicatur. — Ut ergo breviter hoc 
+            punc<lb break="no" ed="#P" n="36"/>tum explicemus, distinguenda est juxta supra
+            <lb ed="#P" n="37"/>dicta duplex necessitas exercendi actum fidei.
+            <lb ed="#P" n="38"/>Una est quasi per accidens, seu ratione 
+            alte<lb break="no" ed="#P" n="39"/>rius; alia est per se, seu ratione ipsiusmet
+            <lb ed="#P" n="40"/>fidei. Prior potest habere varia tempora,
+            <lb ed="#P" n="41"/>verbi gratia, quando est necessarium elicere
+            <lb ed="#P" n="42"/>contritionem de peccatis, aut Deum super
+            <lb ed="#P" n="43"/>omnia diligere, quod sine actu fidei fieri non
+            <lb ed="#P" n="44"/>potest. Item quando urget gravis rentatio,
+            <lb ed="#P" n="45"/>ad quam vincendam necessarium judicatur
+            <lb ed="#P" n="46"/>fide uti, juxta illud, 2 Petri 5: Cui resistite
+            <lb ed="#P" n="47"/>fortes in fide; vel denique si occurrat occasio,
+            <lb ed="#P" n="48"/>in qua necessarium sit debito modo et 
+            ma<lb break="no" ed="#P" n="49"/>gna fiducia orare Deum; nam id etiam non
+            <lb ed="#P" n="50"/>fit sine praevia fide, juxta illud : Quomodo 
+            in<lb break="no" ed="#P" n="51"/>vocabunt eum in quem non crediderunt? ad
+            <lb ed="#P" n="52"/>Roman. 10. Sed in his casibus obligatio 
+            pro<lb break="no" ed="#P" n="53"/>prie non oritur ex praecepto fidei, sed ex illo
+            <lb ed="#P" n="54"/>alio unde oritur necessitas, scilicet ex 
+            praecep<lb break="no" ed="#P" n="55"/>to charitatis, vel contritionis, aut alterius
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>similis; oportet autem ut hoc praeceptum
+            <lb ed="#P" n="57"/>etiam habeat suum determinatum tempus,
+            <lb ed="#P" n="58"/>pro quo obliget.
+          </p>
+          <p xml:id="szthvi-a88030-d1e4416">
+            <lb ed="#P" n="59"/>6. Praeceptum fidei obligat ad credendum
+            <lb ed="#P" n="60"/>in principio usus rationis moraliter sumpto,
+            <lb ed="#P" n="61"/>vel conversionis ad fidem. — An etiam post 
+            il<lb break="no" ed="#P" n="62"/>lud tempus, et quando teneatur quis, actus 
+            ft<lb break="no" ed="#P" n="63"/>dei elicere em praecepto ipsius fidei. — Ulterius
+            <lb ed="#P" n="64"/>ergo ex parte ipsius fidei designari potest hoc
+            <lb ed="#P" n="65"/>tempus, ut imprimis sit ipsum initium 
+            Chris<lb break="no" ed="#P" n="66"/>tanae vitae, ita ut moraliter loquendo statim
+            <lb ed="#P" n="67"/>in ipso instio obliget ; quod potest ita 
+            expli<lb break="no" ed="#P" n="68"/>cari. Nam si loquimur de homine adulto qui
+            <lb ed="#P" n="69"/>antea non credebat, ille, quam primum audit
+            <lb ed="#P" n="70"/>sufficienter fidem, tenetur statim, et sine 
+            mo<lb break="no" ed="#P" n="71"/>ra vel dilatione, actum fidei exercere. 
+            Con<lb break="no" ed="#P" n="72"/>sentiunt communiter in designando hoc 
+            tem<lb break="no" ed="#P" n="73"/>pore Theologi, praesertim recentiores, qui de
+            <lb ed="#P" n="74"/>hoc puncto expressius disputarunt: Azor.,
+            <lb ed="#P" n="75"/>libro 8 Instit. moral., cap. 27, quaest. 8; 
+            Va<lb break="no" ed="#P" n="76"/>lent. 2. 2, disp. 1, quaest. 2, puncto 5, S 
+            Su<lb break="no" ed="#P" n="77"/>perest secunda quaeestio ; Sanch., libro 2 
+            Deca<lb break="no" ed="#P" n="78"/>log., cap. 1, numer. 2, et alii. Probatur tum
+            <lb ed="#P" n="79"/>ex supra dictis, quia hoc debetur auctoritati
+            <lb ed="#P" n="80"/>Dei revelantis, et moralis dilatio in illa 
+            oc<lb break="no" ed="#P" n="81"/>casione est quaedam virtualis dubitatio, et ad
+            <lb ed="#P" n="82"/>quamdam duritiem cordis pertinere incipit;
+            <lb ed="#P" n="83"/>tum etiam quia actus fidei tunc est 
+            necessa<lb break="no" ed="#P" n="84"/>rius ut homo possit baptizari, et fieri 
+            mem<lb break="no" ed="#P" n="85"/>brum Ecclesiae, et capax sacramentorum ; ad
+            <lb ed="#P" n="86"/>hoc autem tenetur homo, statim ac moraliter
+            <lb ed="#P" n="87"/>potest, ut constat ex ipsa Christi institutione,
+            <lb ed="#P" n="88"/>et rectae etiam vitae directione in ordine ad
+            <lb ed="#P" n="89"/>suum finem. Si vero loquamur de homine in
+            <lb ed="#P" n="90"/>pueritia baptizato, ille cum pervenit ad 
+            aeta<lb break="no" ed="#P" n="91"/>tem adultam, tenetur etiam statim, moraliter
+            <lb ed="#P" n="92"/>semper loquendo, ut dixi, actum fidei 
+            exerce<lb break="no" ed="#P" n="93"/>re, ut se et omnia sua possit in Deum 
+            ordi<lb break="no" ed="#P" n="94"/>nare : hoc non aliunde probatur, nisi quia
+            <lb ed="#P" n="95"/>non potest commodius tempus assignari, et
+            <lb ed="#P" n="96"/>quia illud est valde opportunum, et moraliter
+            <lb ed="#P" n="97"/>necessarium ad bonam institutionem vitae
+            <lb ed="#P" n="98"/>Christianae; potestque hoc declarari ex illa
+            <lb ed="#P" n="99"/>celebri opinione divi Thomae 1. 2, quaest. 89,
+            <lb ed="#P" n="100"/>art. 6, quod puer, perveniens ad usum 
+            ratio<lb break="no" ed="#P" n="101"/>nis, ten-tur statim se convertere in Peum 
+            fi<lb break="no" ed="#P" n="102"/>nem naturalcm, et ex pura lege naturali ; si
+            <lb ed="#P" n="103"/>enim illu, statim, prudenter explicetur, id
+            <lb ed="#P" n="104"/>est, ut non metaphysice restringatur ad 
+            pri<lb break="no" ed="#P" n="105"/>mum instans, sed ad moralem quamdam «
+            u<lb break="no" ed="#P" n="106"/>rationem brevem, sententia est valde 
+            consen<lb break="no" ed="#P" n="107"/>tanea rationi : igitur, servata proportione,
+            <lb ed="#P" n="108"/>idem dicendum est in homine Christiano in
+            <lb ed="#P" n="109"/>ordine ad finem supernaturalem, quem sola
+            <lb ed="#P" n="110"/>fides sufficienter proponit. Post illud vero
+            <pb ed="#P" n="378"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>tempus, si homo servavit praeceptum, et 
+            fi<lb break="no" ed="#P" n="2"/>dem exercuit, raro, vel fortasse nunquam 
+            oc<lb break="no" ed="#P" n="3"/>currit dicta obligatio exercendi actus fidei,
+            <lb ed="#P" n="4"/>nisi quando tentatio aliqua contra ipsam 
+            fi<lb break="no" ed="#P" n="5"/>dem, vel interna, vel externa, occurrit, cui
+            <lb ed="#P" n="6"/>per actum fidei resistere necesse sit, quia tunc
+            <lb ed="#P" n="7"/>illa necessitas non est extrinseca. sed 
+            ipsius<lb break="no" ed="#P" n="8"/>met fidei. Et ad hoc pertinet tempus in quo
+            <lb ed="#P" n="9"/>necessarium fuerit confiteri fidem, praecipue
+            <lb ed="#P" n="10"/>coram tyranno; verisimile etiam est in 
+            arti<lb break="no" ed="#P" n="11"/>culo mortis iterum recurrere hanc 
+            obligatio<lb break="no" ed="#P" n="12"/>nem propter periculum, et in hoc etiam 
+            no<lb break="no" ed="#P" n="13"/>biscum sentiunt Valent., Sanchez et Azor,
+            <lb ed="#P" n="14"/>supra citati. In aliis vero temporibus vitae
+            <lb ed="#P" n="15"/>sufficienter impletur hoc praeceptum , 
+            exer<lb break="no" ed="#P" n="16"/>cendo alios actus religionis, charitatis, aut
+            <lb ed="#P" n="17"/>spei, quia regulariter non fiunt sine usu 
+            fi<lb break="no" ed="#P" n="18"/>dei; et haec de prima obligatione.
+          </p>
+          <p xml:id="szthvi-a88030-d1e4575">
+            <lb ed="#P" n="19"/>7. Eaponitur prieceptum addiscendi fidem.
+            <lb ed="#P" n="20"/>— Preeceptum fidei obligat ad tenendum 
+            me<lb break="no" ed="#P" n="21"/>anoria mpysteria fidei, quee sunt in pracepto.—
+            <lb ed="#P" n="22"/>Circa aliam obligationem addiscendi fidem,
+            <lb ed="#P" n="23"/>supponendum est postulari a fidelibus ut
+            <lb ed="#P" n="24"/>sciant illas res fidei quas credere tenentur,
+            <lb ed="#P" n="25"/>ita ut memoria illas retineant quantum in 
+            ip<lb break="no" ed="#P" n="26"/>sis est. Hoc docent manifeste Concilia supra
+            <lb ed="#P" n="27"/>citata, praesertim Rhemense; cap. 1, et 
+            Mo<lb break="no" ed="#P" n="28"/>guntinum, cap. 45; et Augustinus, lib. de
+            <lb ed="#P" n="29"/>Fide et Operibus, cap. 6 et 9, et lib. de Fide
+            <lb ed="#P" n="30"/>et Symbolo, a principio, et Sermonibus in 
+            vi<lb break="no" ed="#P" n="31"/>gilias Paschae et Pentecostes, et omnes 
+            Docto<lb break="no" ed="#P" n="32"/>res. Ratio est, quia merito postulatur ab 
+            ho<lb break="no" ed="#P" n="33"/>mine Christiano ut sit paratus ad exercendam
+            <lb ed="#P" n="34"/>vel profitendam fidem suam, quantum 
+            opor<lb break="no" ed="#P" n="35"/>tuerit. Circa hanc etiam obhgationem duplex
+            <lb ed="#P" n="36"/>dubitatio occurrit. Prima est, de qua 
+            me<lb break="no" ed="#P" n="37"/>moria hoc intelligendum sit, an tantum de
+            <lb ed="#P" n="38"/>memoria rerum, vel etiam de memoria 
+            ver<lb break="no" ed="#P" n="39"/>borum ; sed prioris affirmativa resolutio certa
+            <lb ed="#P" n="40"/>est, quia illa est maxime necessaria ad usum
+            <lb ed="#P" n="41"/>fidei, et de illa maxime loquuntur Concilia
+            <lb ed="#P" n="42"/>et Doctores.
+          </p>
+          <p xml:id="szthvi-a88030-d1e4630">
+            <lb ed="#P" n="43"/>8. Quid de memoria verborum dicendum.—
+            <lb ed="#P" n="44"/>De posteriori vero sunt opiniones. Nam 
+            Me<lb break="no" ed="#P" n="45"/>dina, supra, et alter Medina, Codice de 
+            Ora<lb break="no" ed="#P" n="46"/>tione, cap. decimo, partem negantem tenent,
+            <lb ed="#P" n="47"/>quia neque illa memoria est per se 
+            necessa<lb break="no" ed="#P" n="48"/>ria, nec invenitur sufficienter praecepta.
+            <lb ed="#P" n="49"/>Contrarium vero sensit Paludanus , dicta
+            <lb ed="#P" n="50"/>dist. 15, quaestione 5, et sequitur Navar.,
+            <lb ed="#P" n="51"/>dicto cap. 11, et in lib. de Oratione, ad cap. 4
+            <lb ed="#P" n="52"/>de Consecratione dist. 1. c. 20. Et potest 
+            fun<lb break="no" ed="#P" n="53"/>dari maxime in dicto Concilio Rhemensi, et
+            <lb ed="#P" n="54"/>dari potest ratio, quia haec memoria 
+            verbo<lb break="no" ed="#P" n="55"/>rum est necessaria communi populo, et ad
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>conservandam memoriam rerum, et ad 
+            pro<lb break="no" ed="#P" n="57"/>fitendam fidem , quando oportuerit. In hoc
+            <lb ed="#P" n="58"/>puncto unum est certum, scilicet non esse
+            <lb ed="#P" n="59"/>obligationem gravem retinendi memoria 
+            ver<lb break="no" ed="#P" n="60"/>ba Symboli, vel praeceptorum, ta ut sit 
+            pec<lb break="no" ed="#P" n="61"/>catum mortale hoc omittere. Ita explicat
+            <lb ed="#P" n="62"/>suam opinionem Navar. supra ; et ratio esse
+            <lb ed="#P" n="63"/>potest, quia vel de praecepto non satis 
+            con<lb break="no" ed="#P" n="64"/>stat, quia nec ab aliquo Pontifice, nec in 
+            ali<lb break="no" ed="#P" n="65"/>quo Coucilio generali latum invenitur; vel
+            <lb ed="#P" n="66"/>quia alii canones, qui de hoc loquuntur, de
+            <lb ed="#P" n="67"/>substantia mysteriorum swufficienter 
+            intelli<lb break="no" ed="#P" n="68"/>guntur ; vel certe quia materia illa levis est,
+            <lb ed="#P" n="69"/>si praecise in verbis vel in eorum ordine 
+            sista<lb break="no" ed="#P" n="70"/>tur. Probahile autem est, si ex pura 
+            negli<lb break="no" ed="#P" n="71"/>gentia hoc omittatur, non carere aliqua culpa
+            <lb ed="#P" n="72"/>saltem veniali, ut Navar. etiam dicit, quia
+            <lb ed="#P" n="73"/>praeter canones, qui hoc insinuant juxta 
+            com<lb break="no" ed="#P" n="74"/>munem usum Ecclesiae, talis negligentia 
+            cen<lb break="no" ed="#P" n="75"/>setur aliquo modo culpabilis, et in aliis 
+            ali<lb break="no" ed="#P" n="76"/>quando scandalum generat. Si vero quis 
+            me<lb break="no" ed="#P" n="77"/>diocrem diligentiam adhibeat, et nihilominus
+            <lb ed="#P" n="78"/>ob naturalem defectum vel incapacitatem
+            <lb ed="#P" n="79"/>verba retinere non possit, facile poterit ab
+            <lb ed="#P" n="80"/>omni culpa excusari.
+          </p>
+          <p xml:id="szthvi-a88030-d1e4718">
+            <lb ed="#P" n="81"/>9. Dubium. — Solutio. — Aliud breve 
+            du<lb break="no" ed="#P" n="82"/>bium est, quia de habitibus non dantur
+            <lb ed="#P" n="83"/>praecepta, sed de actibus liberis; at vero 
+            me<lb break="no" ed="#P" n="84"/>moria est quid habituale; corsistit enim in
+            <lb ed="#P" n="85"/>aectu primo, et permanet etiam quando non
+            <lb ed="#P" n="86"/>operamur ; quomodo ergo potest hoc 
+            prae<lb break="no" ed="#P" n="87"/>ceptum ad memoriam obligare ? Respondetur
+            <lb ed="#P" n="88"/>praeceptum quidem non obligare immediate
+            <lb ed="#P" n="89"/>ad habitualem perfectionem, obligare tamen
+            <lb ed="#P" n="90"/>ad actus quibus habitus comparantur et 
+            con<lb break="no" ed="#P" n="91"/>servantur. Sic enim habere gratiam 
+            habitua<lb break="no" ed="#P" n="92"/>lem non est proxima materia praecepti, et 
+            ni<lb break="no" ed="#P" n="93"/>hilominus, quatenus per contritionem 
+            compa<lb break="no" ed="#P" n="94"/>ratur, et per peccatum deperditur, obligatur
+            <lb ed="#P" n="95"/>homo ut se disponat ad gratiam, et ut caveat
+            <lb ed="#P" n="96"/>ne illam amittat, postquam eam est 
+            conse<lb break="no" ed="#P" n="97"/>cutus. Sic ergo in praesenti non praecipitur
+            <lb ed="#P" n="98"/>immediate ipsa memoria habitualis, seu 
+            qua<lb break="no" ed="#P" n="99"/>tenus consistit in actu primo, sed praecipitur
+            <lb ed="#P" n="100"/>diligentia necessaria ad acquirendam vel 
+            con<lb break="no" ed="#P" n="101"/>servandam illam, quia necessaria est ad 
+            con<lb break="no" ed="#P" n="102"/>venientem vitae institutionem, et ad fidei
+            <lb ed="#P" n="103"/>usum. Et hinc intelligitur id, quod praecipue
+            <lb ed="#P" n="104"/>intendimus , nempe quando et ad quos actus
+            <lb ed="#P" n="105"/>hoc praeceptum quoad hanc partem obliget ;
+            <lb ed="#P" n="106"/>per se enim et immediate non obligat ad 
+            ip<lb break="no" ed="#P" n="107"/>sum supernaturalem actum fidei, vel ad 
+            exer<lb break="no" ed="#P" n="108"/>citium ejus; haec enim obigatio jam explicata
+            <lb ed="#P" n="109"/>est; sed obligat ad quamdam praeviam 
+            aispo<lb break="no" ed="#P" n="110"/>sitionem, seu praeparationem quasi physicam
+            <pb ed="#P" n="379"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ad illum actum qui consistit in 
+            apprehen<lb break="no" ed="#P" n="2"/>sione , seu applicatione objecti, et ideo 
+            im<lb break="no" ed="#P" n="3"/>mediate obligat hoc praeceptum ad eam 
+            dili<lb break="no" ed="#P" n="4"/>gentiam faciendam, quae sufficiat ad 
+            acqui<lb break="no" ed="#P" n="5"/>rendas et ad retinendas species talium rerum
+            <lb ed="#P" n="6"/>aut verborum. Ad hanc autem diligentiam
+            <lb ed="#P" n="7"/>obligatur homo quam primum potest, quia
+            <lb ed="#P" n="8"/>est necessaria ad omnem usum fidei; 
+            post<lb break="no" ed="#P" n="9"/>quam vero homo acquisivit hanc notoan ;
+            <lb ed="#P" n="10"/>tenebitur postea aliquos actus interdum 
+            ite<lb break="no" ed="#P" n="11"/>rare, quantum illi necessarium fuerit, ne res
+            <lb ed="#P" n="12"/>ille memoria excidant. Unde fit ut talis 
+            obli<lb break="no" ed="#P" n="13"/>gatio non sit aequalis in omnibus, sed esse
+            <lb ed="#P" n="14"/>poterit major vel minor, seu frequentior in
+            <lb ed="#P" n="15"/>uno quam in alio, juxta cujusque 
+            capacita<lb break="no" ed="#P" n="16"/>tem et necessitatem.
+          </p>
+        </div>
+        <div xml:id="szthvi-a88030-Dd1e4826">
+          <head xml:id="szthvi-a88030-Hd1e4828">Sectio 6</head>
+          <head xml:id="szthvi-a88030-Hd1e4830" type="question-title">Utrum obligatio hujus praecepti sit aequalis in omnibus fidelibus</head>
+          <p xml:id="szthvi-a88030-d1e4833">
+            <lb ed="#P" n="17"/>SECTIO VI.
+            <lb ed="#P" n="18"/>Utrum obligatio hujus praecepti sit aequalis
+            <lb ed="#P" n="19"/>in omnibus fidelibus.
+          </p>
+          <p xml:id="szthvi-a88030-d1e4842">
+            <lb ed="#P" n="20"/>1. Praecepti negativi obligatio equalis est
+            <lb ed="#P" n="21"/>in omnibus. — Materia hujus dubitationis, ut
+            <lb ed="#P" n="22"/>ex ejus discursu constabit, non est hujus loci
+            <lb ed="#P" n="23"/>propria, sed ad materiam Je statibus magis
+            <lb ed="#P" n="24"/>pertinet ; tamen, quia caeteri Doctores illam
+            <lb ed="#P" n="25"/>hic attingunt, et est moralis, raroque de 
+            sta<lb break="no" ed="#P" n="26"/>tibus in scholis tractatur, brevissime illam
+            <lb ed="#P" n="27"/>expediemus. Supponimus autem non esse
+            <lb ed="#P" n="28"/>sermonem de obiigatione negativa seu 
+            priva<lb break="no" ed="#P" n="29"/>tiva hujus praecepti ; nam haec sine dubio
+            <lb ed="#P" n="30"/>de se aequalis est omnibus fidelibus ; nam
+            <lb ed="#P" n="31"/>omnes tenentur aequali certitudine credere,
+            <lb ed="#P" n="32"/>quae omnem dubitationem deliberatam 
+            ex<lb break="no" ed="#P" n="33"/>cludat, et aequaliter tenentur omnem errorem
+            <lb ed="#P" n="34"/>contra fidem cavere. Dico autem, aequaliter,
+            <lb ed="#P" n="35"/>quantum ad substantiam obligationis et 
+            prae<lb break="no" ed="#P" n="36"/>cepti ; nam quoad circumstantias, ratione
+            <lb ed="#P" n="37"/>officii vel docirinae, poterit esse in uno 
+            gra<lb break="no" ed="#P" n="38"/>vior obligatio, quam in alio. Item non est
+            <lb ed="#P" n="39"/>quaestio de obligatione quasi hypothetica, qua,
+            <lb ed="#P" n="40"/>supposita sufficiente propositione fidei, 
+            crede<lb break="no" ed="#P" n="41"/>re tenemur. Nam haec oligatio etiam est eadem
+            <lb ed="#P" n="42"/>in omnibus , quamvis in ipsa propositione
+            <lb ed="#P" n="43"/>possit esse inaequalitas, quando uni plura 
+            re<lb break="no" ed="#P" n="44"/>velantur seu proponuntur, quam alteri. 
+            So<lb break="no" ed="#P" n="45"/>lum ergo superest quaestio de obligatione ad
+            <lb ed="#P" n="46"/>habendam et procurandam notitiam explic
+            <lb ed="#P" n="47"/>tam mysteriorum fidei.
+          </p>
+          <p xml:id="szthvi-a88030-d1e4905">
+            <lb ed="#P" n="48"/>2. Error haereticorum. — Calvini 
+            fundamen<lb break="no" ed="#P" n="49"/>tum. — in quo puncto referri potest imprimis
+            <lb ed="#P" n="50"/>error haereticorum hujus temporis, dicentium
+            <lb ed="#P" n="51"/>quemlibet fidelium, quantumvis simplicem,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="52"/>et laicum, teneri ad scienda omnia mysteria
+            <lb ed="#P" n="53"/>fidei, et ad legendam Scripturam, ut inde
+            <lb ed="#P" n="54"/>possit intelligere quae sibi credenda sint. Unde
+            <lb ed="#P" n="55"/>Calvinus irridebat distinctionem 
+            Theologo<lb break="no" ed="#P" n="56"/>rum, qua usi sumus de fide explicita et 
+            impli<lb break="no" ed="#P" n="57"/>cita, quia fidem implicitam dicebat potius esse
+            <lb ed="#P" n="58"/>ignorantiam quamdam, ideoque nihil conferre
+            <lb ed="#P" n="59"/>ad salutem. lta refert Gregorius de Valent., in
+            <lb ed="#P" n="60"/>suo tertio tom., disp. 1, quaest. 2, punct. 3.
+            <lb ed="#P" n="61"/>Verumtamen hi pue imponunt hominibus
+            <lb ed="#P" n="62"/>onus importabile, et destruunt fidem, 
+            quate<lb break="no" ed="#P" n="63"/>nus unumquemmque hominem faciunt regulam
+            <lb ed="#P" n="64"/>suae fidei, quod alibi a nobis impugnatum est.
+          </p>
+          <p xml:id="szthvi-a88030-d1e4948">
+            <lb ed="#P" n="65"/>3. Assertio catholica:. preceptum fiei 
+            ec<lb break="no" ed="#P" n="66"/>plicite non omnes eque obl gat. — Sit ergo
+            <lb ed="#P" n="67"/>certum non omnes fideles teneri aequaliter
+            <lb ed="#P" n="68"/>ad explicitam notitiam fidei habendam. Hoc
+            <lb ed="#P" n="69"/>patet primo, quia nullibi in Seriptura talis
+            <lb ed="#P" n="70"/>obligatio imponitur omnibus fidelibus, sed
+            <lb ed="#P" n="71"/>solum illa quam in superioribus esplicuimus,
+            <lb ed="#P" n="72"/>ut ex locis ibidem allegatis constat. Secundo,
+            <lb ed="#P" n="73"/>idem probatur, quia non omnia membra 
+            Ec<lb break="no" ed="#P" n="74"/>clesiae sunt aequalia, ut dixit Paulus, ad Rom.
+            <lb ed="#P" n="75"/>12: Non omnia membra eundem actum habent.
+            <lb ed="#P" n="76"/>Nam si totum (inquit) corpus esset oculus, ubi
+            <lb ed="#P" n="77"/>essct auditus ? ac si diceret non omnia membra
+            <lb ed="#P" n="78"/>Ecclesiae obligari ad aequaliter videndum; ergo
+            <lb ed="#P" n="79"/>neque omnes obligantur ad aequalem fidei 
+            no<lb break="no" ed="#P" n="80"/>tiam. Tertio, hinc dixit Augustinus, contra
+            <lb ed="#P" n="81"/>Epistolam Fundamenti, c. 4: Turbam fidelium
+            <lb ed="#P" n="82"/>non intelligendi vivacitas, sed credendi 
+            simpli<lb break="no" ed="#P" n="83"/>citas tutissimam facit ; et inlib. de Fide et
+            <lb ed="#P" n="84"/>Symbolo, c. 1, dicit in illo contineri illa quae
+            <lb ed="#P" n="85"/>satis sunt insipientibus et rudibus; quod etiam
+            <lb ed="#P" n="86"/>dixit Cyrillus Hierosoly mitanus, catech. 5, 
+            ad<lb break="no" ed="#P" n="87"/>dens, et merito, non posse omnes fideles esse
+            <lb ed="#P" n="88"/>in Scripturis versatos. Est etiam apud 
+            scholas<lb break="no" ed="#P" n="89"/>ticos de hac veritate celebris doctrina 
+            Grego<lb break="no" ed="#P" n="90"/>rii, in 2 Moral., cap. 25, circa illa verba Job
+            <lb ed="#P" n="91"/>1 : Boces arabant, et asinge pascebantur juata
+            <lb ed="#P" n="92"/>eos ; ubi per boves dicit significari ministros
+            <lb ed="#P" n="93"/>Ecclesiae, per asinos vero communem 
+            ple<lb break="no" ed="#P" n="94"/>bem ; et ad ministros dicit pertinere 
+            perfectio<lb break="no" ed="#P" n="95"/>nem fidei et doctrinae, ad simplices vero 
+            fide<lb break="no" ed="#P" n="96"/>les pasci ex eorum doctrina. Ratio denique
+            <lb ed="#P" n="97"/>est manifesta, quia communis plebs fidelium
+            <lb ed="#P" n="98"/>neque est capax pcrfectae intelligentiae 
+            myste<lb break="no" ed="#P" n="99"/>riorum fidei, neque per se potest Scripturam
+            <lb ed="#P" n="100"/>intelligere, aut ejus studio vacare. Unde ex
+            <lb ed="#P" n="101"/>contrario errore infinita confusio et dissensio
+            <lb ed="#P" n="102"/>inter ipsos fideles oriretur, ut in ipsis 
+            haereti<lb break="no" ed="#P" n="103"/>cis satis docuit exp rientia.
+          </p>
+          <p xml:id="szthvi-a88030-d1e5035">
+            <lb ed="#P" n="104"/>4. Ad quam fidei notitiam teneantur fideles
+            <lb ed="#P" n="105"/>laici eu precepto. — Ad fundamentum Calvini
+            <lb ed="#P" n="106"/>in n. 2. — Est ergo assertio Catholica, non
+            <pb ed="#P" n="380"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>obligari omnes credentes ad aequalem 
+            cogni<lb break="no" ed="#P" n="2"/>tionem rerum fidei; tt autem hanc 
+            assertio<lb break="no" ed="#P" n="3"/>nem magis in particulari breviter explicemus,
+            <lb ed="#P" n="4"/>distinguamus omnes credentes in duas classes,
+            <lb ed="#P" n="5"/>laicorum scilicet et clericorum. De laicis 
+            ge<lb break="no" ed="#P" n="6"/>neraliter et sine distinctione dicimus, non
+            <lb ed="#P" n="7"/>obligari ad fidem magis explicitam quam in
+            <lb ed="#P" n="8"/>superioribus sectionibus explicata est, quia
+            <lb ed="#P" n="9"/>nec invenitur praeceptum eis impositum, unde
+            <lb ed="#P" n="10"/>haec obligatio oriatur, neque etiam ratione
+            <lb ed="#P" n="11"/>ofticit vel muners ad hoc tenentur, quia cura
+            <lb ed="#P" n="12"/>rerum supernaturalium ad eos non pertinet;
+            <lb ed="#P" n="13"/>inter ea vero quae supernaturalia sunt, 
+            maxi<lb break="no" ed="#P" n="14"/>me computatur doctrina fidei, ejusque 
+            decla<lb break="no" ed="#P" n="15"/>ratio aut defensio; ei ideo in his quae 
+            perti<lb break="no" ed="#P" n="16"/>nent ad perfectam intelligentiam mysteriorum
+            <lb ed="#P" n="17"/>fidei, potius tenentur laici implicite eredere
+            <lb ed="#P" n="18"/>quod Ecclesia credit, et ita suo muneri 
+            satis<lb break="no" ed="#P" n="19"/>faciunt. Et quamvis haec fides implicita 
+            ali<lb break="no" ed="#P" n="20"/>quam ignorantiam includat, non tamen 
+            no<lb break="no" ed="#P" n="21"/>xiam, quia non est de rebus necessariis ad
+            <lb ed="#P" n="22"/>justitiam, negue propterea illa fides inutilis
+            <lb ed="#P" n="23"/>est, ut objiciebat Calvinus, quia et praeservat
+            <lb ed="#P" n="24"/>a periculis errorum, et subjicit mentem 
+            pro<lb break="no" ed="#P" n="25"/>ximae fidei regulae nobis traditae, quae est in
+            <lb ed="#P" n="26"/>Eeclesia.
+          </p>
+          <p xml:id="szthvi-a88030-d1e5105">
+            <lb ed="#P" n="27"/>5. Ad quam fidei notitiam habendam 
+            tenean<lb break="no" ed="#P" n="28"/>tur ecclesiastici. — De altera vero parte 
+            fide<lb break="no" ed="#P" n="29"/>lium, generaliter dicendum est ecclesiasticum
+            <lb ed="#P" n="30"/>ordinem obligari ad majorem magisque 
+            ex<lb break="no" ed="#P" n="31"/>plicitam cognitionem rerum fidei. lta docent
+            <lb ed="#P" n="32"/>Scholastici in tertio; distinctione vigesima
+            <lb ed="#P" n="33"/>quinta, et divus Thomas 2. 2, quaestione 2,
+            <lb ed="#P" n="34"/>artic. 6, et latius in additionibus ad tertiam
+            <lb ed="#P" n="35"/>partem, quaestione trigesima sexta, artic. 2;
+            <lb ed="#P" n="36"/>et probari potest ex illo Malachiae 2: Labia
+            <lb ed="#P" n="37"/>sacerdotis custodunt scientium, et legem Dei
+            <lb ed="#P" n="38"/>requirent de ore ejus; et Ezechiel. 44: psi
+            <lb ed="#P" n="39"/>docebunt, etc. Et ideo in sacerdotibus 
+            peculia<lb break="no" ed="#P" n="40"/>riter reprehenditur et aggravatur ignorantia,
+            <lb ed="#P" n="41"/>Jerem. 2: Sacerdotes non dixerunt ubi est 
+            Do<lb break="no" ed="#P" n="42"/>minus, et tenentes legem nescierunt me. Unde
+            <lb ed="#P" n="43"/>Symmachus Papa, in epistola ad Laurentium,
+            <lb ed="#P" n="44"/>Mediolanensem Episcopum, sic inquit : 
+            Filis<lb break="no" ed="#P" n="45"/>simus reputandus est si non pracedat scientia
+            <lb ed="#P" n="46"/>et sanctitate, qui honore preestantior est. Et
+            <lb ed="#P" n="47"/>habetur capite Filissimus, prima, quaest. 1.
+            <lb ed="#P" n="48"/>Ilem docet Gregorius in citato loco, et libro
+            <lb ed="#P" n="49"/>primo Pastoralis, cap. 1. Ratio vero clara est,
+            <lb ed="#P" n="50"/>quia ad ecclesiasticos pertinet docere laicos,
+            <lb ed="#P" n="51"/>et illuminare illos de rebus fidei; ergo ad 
+            ma<lb break="no" ed="#P" n="52"/>jorem cognitionem earum tenentur. Deinde
+            <lb ed="#P" n="53"/>quod Petrus ait, 1 Canon., c. 3: Parati 
+            ratio<lb break="no" ed="#P" n="54"/>nem reddere ejus, que in nobis est fidei, 
+            maxi<lb break="no" ed="#P" n="55"/>me pertinet ad ecclesiasticum statum ; ad id
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>autem necessaria est major doctrina, ut per
+            <lb ed="#P" n="57"/>se est manifestum : ergo, etc.
+          </p>
+          <p xml:id="szthvi-a88030-d1e5177">
+            <lb ed="#P" n="58"/>6. An obligatio sciendi mysteria fidei sit
+            <lb ed="#P" n="59"/>equalis in omnibus ecclesiasticis. — Quae 
+            obli<lb break="no" ed="#P" n="60"/>gatio sit in sacerdotibus simplicibus.—GQuee in
+            <lb ed="#P" n="61"/>parochis.—eStalim vero occurrit inquirendum,
+            <lb ed="#P" n="62"/>an haec obligatio sit aequalis in omnibus 
+            eccle<lb break="no" ed="#P" n="63"/>siasticis, vel quomodo sit accommodanda vel
+            <lb ed="#P" n="64"/>distribuenda. Ad hoc breviter cum divo 
+            Tho<lb break="no" ed="#P" n="65"/>ma supra respondetur, non esse aequalem
+            <lb ed="#P" n="66"/>hanc obligationem in omnibus, quia non 
+            om<lb break="no" ed="#P" n="67"/>ncs habent aequale munus. Distipgui ergo 
+            po<lb break="no" ed="#P" n="68"/>test status in tres gradus. Primus est 
+            simpli<lb break="no" ed="#P" n="69"/>cium clericorum usque ad sacerdotes, qui 
+            di<lb break="no" ed="#P" n="70"/>cuntur simplices, quia curam animarum non
+            <lb ed="#P" n="71"/>habent, secundus parochorum ; iertius 
+            epis<lb break="no" ed="#P" n="72"/>coporum. De simplicibus sacerdotibus regula
+            <lb ed="#P" n="73"/>est, non teneri ad fidem magis explicitam,
+            <lb ed="#P" n="74"/>quaxm sit aliorum fidelium, his tamen 
+            exce<lb break="no" ed="#P" n="75"/>ptis quae ad suum munus obeundum, utique
+            <lb ed="#P" n="76"/>ad conficiendum sacramentum, et similia, 
+            per<lb break="no" ed="#P" n="77"/>tinent. lta D. Thomas supra. Et ratio est, quia
+            <lb ed="#P" n="78"/>neque ex vi fidei invenitur speciale 
+            praece<lb break="no" ed="#P" n="79"/>ptum illis impositum ; ex vi autem muneris
+            <lb ed="#P" n="80"/>satis est, ut eam cognitionem habeant, quae
+            <lb ed="#P" n="81"/>ad suum munus recte exequendum est 
+            neces<lb break="no" ed="#P" n="82"/>saria: haec enim obligatio quasi naturalis est,
+            <lb ed="#P" n="83"/>et major non est imposita. Secundo, de 
+            paro<lb break="no" ed="#P" n="84"/>chis dicendum est majorem quidem 
+            cogni<lb break="no" ed="#P" n="85"/>tionem in eis postulari, tamen ex eadem 
+            ra<lb break="no" ed="#P" n="86"/>dice et proportione ; nam, ut D. Thomas 
+            su<lb break="no" ed="#P" n="87"/>pra dicit, habent potestatem, non tantum in
+            <lb ed="#P" n="88"/>corpus Christi verum, sed etiam in corpus
+            <lb ed="#P" n="89"/>Christi mysticum. Et ratione hujus 
+            posterio<lb break="no" ed="#P" n="90"/>ris potestatis habent etiam majorem 
+            obliga<lb break="no" ed="#P" n="91"/>tionem, quia tenentur quoad doctrinam 
+            pas<lb break="no" ed="#P" n="92"/>cere gregem suum, et quoad mores tenentur
+            <lb ed="#P" n="93"/>etiam sacramentum confessionis ministrare,
+            <lb ed="#P" n="94"/>et ex utroque capite tenentur ad majorem
+            <lb ed="#P" n="95"/>doctrinam et cognitionem : nam, ut dicitur
+            <lb ed="#P" n="96"/>Matth. 15: Sà cecus ceco ducatum praestet,
+            <lb ed="#P" n="97"/>ambo in foveam cadent. De qua re videri 
+            pos<lb break="no" ed="#P" n="98"/>sunt Capitula de ipsis sacerdotibus, 
+            distinc<lb break="no" ed="#P" n="99"/>tione 38; et cap. Omnes utriusque semus, de
+            <lb ed="#P" n="100"/>Poenitentiis et remissionibus.
+          </p>
+          <p xml:id="szthvi-a88030-d1e5273">
+            <lb ed="#P" n="101"/>7. In episcopis major scientia mysteriorum
+            <lb ed="#P" n="102"/>fidei et morum requiritur. — Tandem episcopi
+            <lb ed="#P" n="103"/>obligantur sine dubio ad majorem cognitionem
+            <lb ed="#P" n="104"/>rerum fidei et morum, ita ut per se possint et
+            <lb ed="#P" n="105"/>difficultates communes intelligere, et fidem 
+            de<lb break="no" ed="#P" n="106"/>fendere, si opus sit. Unde de episcopo dicitur
+            <lb ed="#P" n="107"/>a Paulo ad Titum primo : Oportet episcopum
+            <lb ed="#P" n="108"/>esse justum, amplectentem eum qui secundum
+            <lb ed="#P" n="109"/>doctrinam est, fidelem sermonem , ut possit
+            <lb ed="#P" n="110"/>ex kortari, et eos quà contradicunt arguere. Et
+            <pb ed="#P" n="381"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ita etiam docent communiter sacri canones, ut
+            <lb ed="#P" n="2"/>apud Gratianum videri potest, distinctione
+            <lb ed="#P" n="3"/>vigesima tertia, trigesima sexta, et trigesima
+            <lb ed="#P" n="4"/>octava; eet septimam Synodum, sessione 
+            ul<lb break="no" ed="#P" n="5"/>tima, capit. secundo; et Concilium 
+            Toleta<lb break="no" ed="#P" n="6"/>num undecimum, in principio; et Concilium
+            <lb ed="#P" n="7"/>Lateranense sub Alexandro IlII; habetur in
+            <lb ed="#P" n="8"/>capite Cum in cunctis, De electione, et in
+            <lb ed="#P" n="9"/>Concilio Lateranensi, sub Leone X, sessione
+            <lb ed="#P" n="10"/>nona ; ac denique in Tridentino , sessione
+            <lb ed="#P" n="11"/>septima, capite primo, et sessione vigesima
+            <lb ed="#P" n="12"/>secunda , capit. secundo de Reformatione.
+            <lb ed="#P" n="13"/>Ratio vero est, quia episcopi succedunt 
+            Apos<lb break="no" ed="#P" n="14"/>tolis, quibus maxime dictum est : Docete omnes
+            <lb ed="#P" n="15"/>gentes; item quia hac ratione ad epigcopos
+            <lb ed="#P" n="16"/>pertinet defendere fidem, et habere etiam
+            <lb ed="#P" n="17"/>suffragium in Conciliis, in quibus de rebus
+            <lb ed="#P" n="18"/>fidei definiendis tractatur. Denique quia 
+            ne<lb break="no" ed="#P" n="19"/>cessarium fuit in Ecclesia esse aliquos, ad
+            <lb ed="#P" n="20"/>quos ex officio pertineat exacta quaedam 
+            co<lb break="no" ed="#P" n="21"/>gnitio rerum fidei, ut possit sine errore 
+            con<lb break="no" ed="#P" n="22"/>servari; ergo maxime hoc pertinet ad gradum
+            <lb ed="#P" n="23"/>episcoporum. Dices satis esse ut episcopi, per
+            <lb ed="#P" n="24"/>se, vel per aiios, possint hoc munus supplere;
+            <lb ed="#P" n="25"/>ergo in rigore non obligantur ad tantam 
+            co<lb break="no" ed="#P" n="26"/>gnitionem rerum fidei. Respondetur hoc
+            <lb ed="#P" n="27"/>adjutorium esse per accidens; ipsi autem per
+            <lb ed="#P" n="28"/>se obligantur, et quamvis interdum possint
+            <lb ed="#P" n="29"/>excusari propter occurrentes causas, vel 
+            ratio<lb break="no" ed="#P" n="30"/>nes, ab illa perfectione doctrinae quae per se 
+            lo<lb break="no" ed="#P" n="31"/>quendo necessaria est, non tamen ab illa 
+            co<lb break="no" ed="#P" n="32"/>gnitione quae sufficiens sit, juxta locorum et
+            <lb ed="#P" n="33"/>temporum opportunitates, ad suum munus
+            <lb ed="#P" n="34"/>digne implendum; de qua re, Deo dante, in
+            <lb ed="#P" n="35"/>opere de Ordine dicendum erit. Nam ex 
+            dis<lb break="no" ed="#P" n="36"/>cursu facto constat verum esse, quod supra
+            <lb ed="#P" n="37"/>dixi, hanc obligationnem non esse propriam
+            <lb ed="#P" n="38"/>fidei, sed justitiae, seu officii.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

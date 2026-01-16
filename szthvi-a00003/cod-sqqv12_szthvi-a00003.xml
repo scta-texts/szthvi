@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prooemium</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Prooemium</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="7"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-a00003"><!-- t1-pro1 -->
+        <head xml:id="szthvi-a00003-Hd1e101">Prooemium</head>
+        <p xml:id="szthvi-a00003-d1e103">
+          <pb ed="#P" n="7"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>TRACTATUS DE FIDE.
+          <lb ed="#P" n="2"/>PROOEMIUM.
+        </p>
+        <p xml:id="szthvi-a00003-d1e114">
+          <lb ed="#P" n="3"/>Post tractatum de Gratia, convenienti ordine sequitur ut de virtute fidei 
+          dissera<lb break="no" ed="#P" n="4"/>mus. Est enim gratia, secundum essentiam suam, forma quaedam principalis sui 
+          or<lb break="no" ed="#P" n="5"/>dinis, quae per virtutes infusas, tanquam per facultates suas operatur. Inter has autem
+          <lb ed="#P" n="6"/>virtutes primum locum obtinet fides, non dignitatis, major enim est charitas, 1 ad
+          <lb ed="#P" n="7"/>Corinth. 13; sed generationis et ordinis, nam est fundamentum et basis totius 
+          aedi<lb break="no" ed="#P" n="8"/>ficii spiritualis, propter quod substantia rerum sperandarum dicitur, ad Hebr. 11.
+          <lb ed="#P" n="9"/>Et ideo in ordine etiam doctrinae primum locum obtinet inter virtutes infusas et 
+          Theo<lb break="no" ed="#P" n="10"/>logales. Disputant autem de hac virtute Theologi cum Magistro, in 3, d. 23, 24 et
+          <lb ed="#P" n="11"/>25 ; copiosius, et meliori methodo divus Thomas 2. 2, a q. 1 usque ad 16; Alex.
+          <lb ed="#P" n="12"/>Alens., 3 p., q. 64, alias 74. Multa etiam de hac virtute attingunt, qui his temporibus
+          <lb ed="#P" n="13"/>contra haereticos scripserunt, maxime ubi tractant de fide justificante; praesertim
+          <lb ed="#P" n="14"/>hoffensis, art. 1 contra Lutherum; et Albertus Pighius, controvers. 2; et 
+          Stapleto<lb break="no" ed="#P" n="15"/>nius, libr. 8 de Justificatione, et toto opere de Demonstratione principiorum fidei;
+          <lb ed="#P" n="16"/>et Driedo, de Dogmatibus fidei; Bellarminus, tomo A4, controversia tertia generali.
+          <lb ed="#P" n="17"/>Michael Medina etiam integrum scripsit opus de recta in Deum fide. Antiqui etiam
+          <lb ed="#P" n="18"/>Patres plures tractatus et libros de fide nobis reliquerunt ; nam Damascenus 
+          qua<lb break="no" ed="#P" n="19"/>tuor libros de fide scripsit; Augustinus de fide et Symbolo, et alium de fide contra
+          <lb ed="#P" n="20"/>Manichaeos, et alium de utilitate credendi ; et Theod., serm. 1 de Curationibus ad
+          <lb ed="#P" n="21"/>Graecos. Si quis autem recte consideret, Patres in his operibus, non tam de ipsa 
+          vir<lb break="no" ed="#P" n="22"/>tute fidei, quam de mysteris religionis et fidei Christianae disputant ; quomodo multi
+          <lb ed="#P" n="23"/>etiam alii scripserunt varia opera pro fide Christiana, et contra idola, aliosque errores
+          <lb ed="#P" n="24"/>infidelium,; ut Justinus, Cyprianus, Tertullianus et alii. Nos autem in praesenti, non
+          <lb ed="#P" n="25"/>in hoc sensu de fide tractamus, id est, de mysteriis fidei, hoc enim totius Theologiae
+          <lb ed="#P" n="26"/>negotium est; sed de ipsa virtute, qua credimus mysteria fidei, disputamus, ut ex
+          <lb ed="#P" n="27"/>sequenti disputatione plenius constabit. Dividimus autem hunc tractatum in duas
+          <lb ed="#P" n="28"/>partes : unam speculativam, moralem alteram.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

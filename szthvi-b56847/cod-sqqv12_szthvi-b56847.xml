@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prooemium</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Prooemium</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="634"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-b56847"><!-- l3-pro -->
+        <head xml:id="szthvi-b56847-Hd1e101">Prooemium</head>
+        <p xml:id="szthvi-b56847-d1e103">
+          <cb ed="#P" n="c"/>
+          <lb ed="#P" n="19"/>TRACTATUS TERTIUS
+          <lb ed="#P" n="20"/>DE CHARITATE.
+        </p>
+        <p xml:id="szthvi-b56847-d1e112">
+          <cb ed="#P" n="d"/>
+          <lb ed="#P" n="21"/>Quoniam charitatis acceptio multiplex est, tum in sacra Pagina, tum apud 
+          Theo<lb break="no" ed="#P" n="22"/>logos, potiores hic recensere oportet, ut quae hujus loci sit propria seligamus. Primo
+          <lb ed="#P" n="23"/>enim sumitur pro ipso Deo, prout est objectum amoris benevolentise, juxta illud 1
+          <lb ed="#P" n="24"/>Joan. 4: Deus charitas est ; qui manet in charitate, in Deo manet. Secundo, pro
+          <lb ed="#P" n="25"/>actu dilectionis vel Dei erga nos, juxta illud Jeremiae 31 : In charitate perpetua
+          <lb ed="#P" n="26"/>dilexi te, vel nostri erga Deum; et haec acceptio communior est, et magis hujus loci
+          <lb ed="#P" n="27"/>propria, et in ea charitatem definit Augustinus, lib. 3 de Doctrina, cap. 10, cum
+          <lb ed="#P" n="28"/>dicit : Charitatem voco, motum animt ad fruendum Deo propter ipsum, et se, 
+          at<lb break="no" ed="#P" n="29"/>que proximum propter Deum. Tertio tandem sumitur pro habitu supernaturali ,
+          <lb ed="#P" n="30"/>qui est virtus Theologalis voluntatem elevans, et inclinans ad amandum Deum
+          <lb ed="#P" n="31"/>amore benevolentiae supernaturali, quae est maxime propria charitatis acceptio;
+          <lb ed="#P" n="32"/>de ea enim praecipue Theologi disputant, et in eo sensu passim eam usurpavit D.
+          <lb ed="#P" n="33"/>Paulus , 1 Corinthiorum 13 : Nunc autem manent tria hec, etc. Major autem
+          <lb ed="#P" n="34"/>horum charitas ; et Rom. 5: Charitas Dei diffusa est in cordibus nostris.
+        </p>
+        <p xml:id="szthvi-b56847-d1e147">
+          <lb ed="#P" n="35"/>De charitate ergo, juxta traditas acceptiones, post fidem et spem disserunt 
+          Theo<lb break="no" ed="#P" n="36"/>logi cum Magistro, in 3, a distinct. 27 usque ad 37, sed copiosius et accuratius D.
+          <lb ed="#P" n="37"/>Thomas 2. 2, a quaest. 23 usque ad 44, non quia merito sit aut perfectione inferior,
+          <lb ed="#P" n="38"/>cum Apostolus eam caeteris praeferat, Major horum charitas, sed quia generatione
+          <lb ed="#P" n="39"/>posterior. Nam sicut generationem praeit alteratio, sic fidei et spei motus hominem
+          <lb ed="#P" n="40"/>disponunt ad justitiam, juxta Tridenünum, sess. 6. cap. 7; quae justiiia vel in 
+          cha<lb break="no" ed="#P" n="41"/>ritate ipsa consistit, vel certe, quod oranino probabilius credo, charitas illius est 
+          prae<lb break="no" ed="#P" n="42"/>cipua affectio, ut in materia de Gratia dictum est.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

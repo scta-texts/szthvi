@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prooemium</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Prooemium</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="597"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-b48032"><!-- l2-pro -->
+        <head xml:id="szthvi-b48032-Hd1e101">Prooemium</head>
+        <p xml:id="szthvi-b48032-d1e103">
+          <cb ed="#P" n="d"/>
+          <lb ed="#P" n="37" type="fixed=597"/>TRACTATUS SECUNDUS DE SPE.
+        </p>
+        <p xml:id="szthvi-b48032-d1e110">
+          <lb ed="#P" n="38"/>Cum objecti notitia ejusdem appetitionem antecedat, huic de spe tractatu,
+          <lb ed="#P" n="39"/>fuit necessario tractatus de fide praemittendus. Verum, sicut fidem spes supponit,
+          <lb ed="#P" n="40"/>quia per illam hujus objectum dignoscitur, ita et quae de spe est tractatio,
+          <lb ed="#P" n="41"/>charitatis tractationem praecedit, ut omnes etiam merito et Patres, et 
+          Theo<lb break="no" ed="#P" n="42"/>logi observarunt, secuti D. Paulum, qui, 1 ad Corinth. 13, virtutes 
+          theo<lb break="no" ed="#P" n="43"/>logicas enumerans, post fidem, spem ante charitatem medio in loco constituit ;
+          <lb ed="#P" n="44"/>unde Tridentinum, sess. 6, cap. 7, justificationem describens, motum spei prius
+          <pb ed="#P" n="598"/>
+        </p>
+        <p xml:id="szthvi-b48032-d1e130">
+          <lb ed="#P" n="1"/>explicavit, et dilectionis supernaturalis principium esse supposuit. Et ratio est,
+          <lb ed="#P" n="2"/>tum quia, ut disputatione sequenti, sectione sexta, ostendetur, spes inter fidem
+          <lb ed="#P" n="3"/>et charitatem medium obtnet dignitatis locum; tum maxime quia secundum se
+          <lb ed="#P" n="4"/>prior est amor concupiscentiae, ad quem, juxta Divum Thomam, spes pertinet,
+          <lb ed="#P" n="5"/>quam amicitiae, qui est proprius charitatis. Unde Christus Dominus, Matthaei 22,
+          <lb ed="#P" n="6"/>amorem pnostri, dilectionis proximi regulam constituit : Diliges proximum tuum
+          <lb ed="#P" n="7"/>sicut te ipsum. De hac igitur spei virtute duas instituemus disputationes, quarum
+          <lb ed="#P" n="8"/>prima speculativa erit, in qua materiam spei discutiemus, explicando objectum,
+          <lb ed="#P" n="9"/>tam materiale quam formale; deinde ejus actus, ac distinctionem a charitate;
+          <lb ed="#P" n="10"/>item causas, tandemque durationem ac corruptionem ; sic enim tota illa speculatio
+          <lb ed="#P" n="11"/>absolvetur. Altera disputatio erit moralis, rimirum de praecepto spei, qualenam
+          <lb ed="#P" n="12"/>sit, ac quantum et quando obhget, et consequenter de peccato desperationis, spei
+          <lb ed="#P" n="13"/>contrario. Disserunt de hac virtute Theologi cum Magistro, in 3, a distinct. 26,
+          <lb ed="#P" n="14"/>cum divo Thoma 2. 2, quaest. 16 et sequentibus. |
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

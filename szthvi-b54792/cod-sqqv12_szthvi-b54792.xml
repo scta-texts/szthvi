@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 2</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 2</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="624"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-b54792"><!-- l2-d2 -->
+        <head xml:id="szthvi-b54792-Hd1e101">Disputatio 2</head>
+        <head xml:id="szthvi-b54792-Hd1e103" type="question-title">Moralis de spe</head>
+        <p xml:id="szthvi-b54792-d1e106">
+          <lb ed="#P" n="101"/>DISPUTATIO II.
+          <lb ed="#P" n="102"/>MORALIS DE SPE.
+        </p>
+        <p xml:id="szthvi-b54792-d1e113">
+          <lb ed="#P" n="103"/>Virtus spei nullum proprium habet 
+          eaterio<lb break="no" ed="#P" n="104"/>rem actun. — Materia moralis hujus virtutis
+          <lb ed="#P" n="105"/>brevior est quam in reliquis; unde Doctores
+          <lb ed="#P" n="106"/>omnes pauca dicunt. Ratio esse videtur, quia
+          <lb ed="#P" n="107"/>haec virtus nullum proprium habet exterio-
+          <pb ed="#P" n="625"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>rem actum, sed omnino operatur interius.
+          <lb ed="#P" n="2"/>Quod si aliquando influit in actum 
+          exterio<lb break="no" ed="#P" n="3"/>rem, est juvando alias potentias, seu virtutes,
+          <lb ed="#P" n="4"/>ut, verbi gratia, patientiam in tolerando, et
+          <lb ed="#P" n="5"/>sic de aliis; quare nullum habet proprium
+          <lb ed="#P" n="6"/>praeceptum quod cadat in actum exteriorem;
+          <lb ed="#P" n="7"/>praecepta vero quae spectant ad actus 
+          interio<lb break="no" ed="#P" n="8"/>res, et pauca sunt, et raro obligant.
+        </p>
+        <div xml:id="szthvi-b54792-Dd1e148">
+          <head xml:id="szthvi-b54792-Hd1e150">Sectio 1</head>
+          <head xml:id="szthvi-b54792-Hd1e152" type="question-title">Quaenam dentur praecepta de spe</head>
+          <p xml:id="szthvi-b54792-d1e155">
+            <lb ed="#P" n="9"/>SECTIO I.
+            <lb ed="#P" n="10"/>Quaenam dentur praecepta de spe.
+          </p>
+          <p xml:id="szthvi-b54792-d1e162">
+            <lb ed="#P" n="11"/>1. Prima conclusio. — Dico primo: 
+            prae<lb break="no" ed="#P" n="12"/>cepto divino affirmativo tenetur homo sperare
+            <lb ed="#P" n="13"/>in Deo, vel a Deo beatitudinem aeternam,
+            <lb ed="#P" n="14"/>remissionem peccatorum, et alia necessaria.
+            <lb ed="#P" n="15"/>Haec conclusio est certa de fide, ad Roman. 
+            de<lb break="no" ed="#P" n="16"/>cimo quinto : Ut per patientiam et 
+            consolatio<lb break="no" ed="#P" n="17"/>nem Scripturarum spem habceamus ; ei 
+            Ec<lb break="no" ed="#P" n="18"/>cles. 2: Sperate in eo; idem habetnur Psal. 4
+            <lb ed="#P" n="19"/>et 61, ad Heb. 6, 8, 10 et 13. Verum est, in
+            <lb ed="#P" n="20"/>his et similipus locis, non esse verbum quod
+            <lb ed="#P" n="21"/>expresse videatur continere vim praecepti;
+            <lb ed="#P" n="22"/>tamen, ut D. Thomas 2. 2, q. 22, art. 1, 
+            no<lb break="no" ed="#P" n="23"/>tavit, pro ratione materiae sufficienter 
+            propo<lb break="no" ed="#P" n="24"/>nitur praeceptum illo modo; nam quia spes,
+            <lb ed="#P" n="25"/>ait, post fidem est quasi fundamentum 
+            spiri<lb break="no" ed="#P" n="26"/>tualis vitae, seu potius principium, praeceptum
+            <lb ed="#P" n="27"/>ejus est quodammodo praeambulum ad legem,
+            <lb ed="#P" n="28"/>et fundamentum aliorum praeceptorum, et
+            <lb ed="#P" n="29"/>ideo non tam proponitur per modum praecepti,
+            <lb ed="#P" n="30"/>quam per modum promissionis; nam qui 
+            pro<lb break="no" ed="#P" n="31"/>mittit, hoc ipso praecipit sperare promissa.
+            <lb ed="#P" n="32"/>Unde Augustinus, tract. 83, ait, preceptum
+            <lb ed="#P" n="33"/>esse nolis sperare multa, scilicet, que 
+            promis<lb break="no" ed="#P" n="34"/>sa sunt. Denique actus omnis, qui est 
+            me<lb break="no" ed="#P" n="35"/>dium necessarium ad salutem cadit in 
+            prae<lb break="no" ed="#P" n="36"/>ceptum, ut patet ex materia de fide '; sed
+            <lb ed="#P" n="37"/>actus spei est medium necessarium ad 
+            salu<lb break="no" ed="#P" n="38"/>tem ut ostendimus in materia de gratia.
+          </p>
+          <p xml:id="szthvi-b54792-d1e225">
+            <lb ed="#P" n="39"/>2. Dubium primum circa conclusionem. — De
+            <lb ed="#P" n="40"/>necessitate per accidens implendi hoc preeceptum.
+            <lb ed="#P" n="41"/>— Sed explicanda sunt dubia aliqua circa 
+            po<lb break="no" ed="#P" n="42"/>sitam conclusionem: primum, pro quo 
+            tem<lb break="no" ed="#P" n="43"/>pore hoc praeceptum obliget, nam cum sit
+            <lb ed="#P" n="44"/>affirmans, certum est non obligare pro 
+            sem<lb break="no" ed="#P" n="45"/>per; et cum ipsum praeceptum expresse non
+            <lb ed="#P" n="46"/>determinet tempus, recurrendum videtur ad
+            <lb ed="#P" n="47"/>articulum necessitatis, qui vix potest in 
+            pro<lb break="no" ed="#P" n="48"/>posito designari. Sed advertendum est hanc
+            <lb ed="#P" n="49"/>necessitatem posse esse vel per se, vel ex ra-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="50"/>tione extrinseca : hoc secundo modo obligabit
+            <lb ed="#P" n="51"/>hoc praeceptum, quando fuerit necessarium
+            <lb ed="#P" n="52"/>sperare vel ad debite orandum, vel ad 
+            vincen<lb break="no" ed="#P" n="53"/>dam tentationem, vel ad aliquid simile; in
+            <lb ed="#P" n="54"/>quibus tamen occasionibus saepe non erit 
+            ne<lb break="no" ed="#P" n="55"/>cessarium formalem actum spel elicere; sed
+            <lb ed="#P" n="56"/>satis erit in ipso effectu debite id facere, in
+            <lb ed="#P" n="57"/>quo virtualiter inclucitur spes. ut efficaciter
+            <lb ed="#P" n="58"/>petere, vel dolere de peccato, vel aliquid 
+            si<lb break="no" ed="#P" n="59"/>mile. Interdum tamen propter dispositionem
+            <lb ed="#P" n="60"/>hominis, vel occurrentes difficultates, 
+            neces<lb break="no" ed="#P" n="61"/>sarium erit formalem actum spei elicere.
+          </p>
+          <p xml:id="szthvi-b54792-d1e281">
+            <lb ed="#P" n="62"/>3. De necessitate per se quorumdam 
+            placi<lb break="no" ed="#P" n="63"/>tum rejicitur. — Vera sententia statuitur. —
+            <lb ed="#P" n="64"/>De necessitate per se, aliqui negant unquam
+            <lb ed="#P" n="65"/>occurrere in hac virtute, quia ejus actus, 
+            in<lb break="no" ed="#P" n="66"/>quiunt. non est per se ncecessarius, sed 
+            pro<lb break="no" ed="#P" n="67"/>pter alios tantum, ut erigatur animus ad 
+            pro<lb break="no" ed="#P" n="68"/>grediendum in via virtutis ; sed hoc est negare
+            <lb ed="#P" n="69"/>speciale praeceptum hujus virtutis; nam si
+            <lb ed="#P" n="70"/>ipsa nunquam per se obligat, ergo semper
+            <lb ed="#P" n="71"/>obligatio oritur ex praeceptis aliarum 
+            virtu<lb break="no" ed="#P" n="72"/>tum. Item ergo omissio spei nunquam est
+            <lb ed="#P" n="73"/>speciale peccatum contra spem. Nam quando
+            <lb ed="#P" n="74"/>obligatio exercendi aliquem actum unius 
+            vir<lb break="no" ed="#P" n="75"/>tutis oritur tantum ex necessitate alterius, tota
+            <lb ed="#P" n="76"/>malitia omissionis est tantum contra illam
+            <lb ed="#P" n="77"/>virtutem, ex qua nascitur obligatio, ut constat
+            <lb ed="#P" n="78"/>ex materia de charitate et de peccatis; ergo
+            <lb ed="#P" n="79"/>tollitur praeceptum spei. Unde falsum etiam
+            <lb ed="#P" n="80"/>est actus spei non esse per se, sed propter alias
+            <lb ed="#P" n="81"/>virtutes tantum ; nam amor, et efticax 
+            inten<lb break="no" ed="#P" n="82"/>tio beatitudinis supernaturalis per se sunt
+            <lb ed="#P" n="83"/>nobis maxime necessaria. Denique magis 
+            vi<lb break="no" ed="#P" n="84"/>detur esse propter alias virtutes fides, quam
+            <lb ed="#P" n="85"/>spes, et nihilominus fides habet suum tempus
+            <lb ed="#P" n="86"/>per se; dico ergo, ut de charitate et de 
+            poeni<lb break="no" ed="#P" n="87"/>tentia resolvi solet, hoc tempus non posse 
+            de<lb break="no" ed="#P" n="88"/>signari positive. et omnino determinate, sed
+            <lb ed="#P" n="89"/>quasi negative et confuse; tenetur enim homo
+            <lb ed="#P" n="90"/>aliquando in vita spem exercere; quod vero
+            <lb ed="#P" n="91"/>illud sit nunc vel postea, relinquitur hominis
+            <lb ed="#P" n="92"/>arbitrio. Item negative possumus dicere, 
+            te<lb break="no" ed="#P" n="93"/>neri hominem non diu difterre hujusmodi
+            <lb ed="#P" n="94"/>actus post perfectam propositionem 
+            beatitu<lb break="no" ed="#P" n="95"/>dinis, vel ejus apprehensionem. Denique ita
+            <lb ed="#P" n="96"/>tenetur exercere hos actus, ut ratione illorum
+            <lb ed="#P" n="97"/>sit bene dispositus ad bene operandum, et 
+            vi<lb break="no" ed="#P" n="98"/>tandum peccata ; quod moraliter praestari
+            <lb ed="#P" n="99"/>recte non potest, nisi ab homine bene 
+            spe<lb break="no" ed="#P" n="100"/>rante.
+          </p>
+          <p xml:id="szthvi-b54792-d1e368">
+            <lb ed="#P" n="101"/>4. Secundum dubium. — Secundo, dubitari
+            <lb ed="#P" n="102"/>potest qui actus contineantur sub hoc 
+            prae<lb break="no" ed="#P" n="103"/>cepto. D. Thomas numerat spem et timorem;
+            <lb ed="#P" n="104"/>sed crediderim sub spe comprehendere omnes
+            <pb ed="#P" n="626"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>actus quibus prosequimur bonum 
+            superna<lb break="no" ed="#P" n="2"/>turale; et sub timore, omnes quibus fugimus
+            <lb ed="#P" n="3"/>malum contrarium, sive sint amoris, sive 
+            de<lb break="no" ed="#P" n="4"/>siderii, sive odii; non quod necessarium sit
+            <lb ed="#P" n="5"/>semper omnes hos actus exercere, sed quod
+            <lb ed="#P" n="6"/>singuli possint interdum cadere sub 
+            praecep<lb break="no" ed="#P" n="7"/>tum; vel certe, quod occurrente necessitate
+            <lb ed="#P" n="8"/>praecepti, uno, vel altero illorum sufficienter
+            <lb ed="#P" n="9"/>satisfaciamus praecepto. Quia vero nomine spei
+            <lb ed="#P" n="10"/>indicatur etficax intentio beatitudinis, et 
+            no<lb break="no" ed="#P" n="11"/>mine fim«eris fuga efficax poenae aeternae, ideo
+            <lb ed="#P" n="12"/>in his actibus explicatur praeceptum.
+          </p>
+          <p xml:id="szthvi-b54792-d1e410">
+            <lb ed="#P" n="13"/>D. Tertium dubium. — Tertio, peti potest
+            <lb ed="#P" n="14"/>quas res sperare teneamur. hespondetur, si de
+            <lb ed="#P" n="15"/>necessitate medii sit sermo, oportcre saltem
+            <lb ed="#P" n="16"/>confuse sperare aliquam retributionem 
+            super<lb break="no" ed="#P" n="17"/>naturalem, ut colligitur ex Paulo, ad Hebr.
+            <lb ed="#P" n="18"/>10 et 11. Item oportet sperare remissionem
+            <lb ed="#P" n="19"/>peccatorum, ut patet ex Tridentino, et ex 
+            su<lb break="no" ed="#P" n="20"/>pradictis; denique sperare oportet quidquid
+            <lb ed="#P" n="21"/>necessarium est ad salutem ; sed de his bonis
+            <lb ed="#P" n="22"/>potest esse implicita et explicita spes, s!cut
+            <lb ed="#P" n="23"/>fides, ut suo loco dictum est. Unde eodem
+            <lb ed="#P" n="24"/>modo est de utraque loquendum, proportione
+            <lb ed="#P" n="25"/>servata.
+          </p>
+          <p xml:id="szthvi-b54792-d1e441">
+            <lb ed="#P" n="26"/>6. Quartum dubium. — Primum 
+            argumen<lb break="no" ed="#P" n="27"/>tum pro parte affirnante. — Secundum. —
+            <lb ed="#P" n="28"/>Tertium. — Quarto, dubitar potest an hoc
+            <lb ed="#P" n="29"/>praeceptum sit aliquo modo naturale. Certum
+            <lb ed="#P" n="30"/>est enim praeceptum hoc, ut a nobis est 
+            expli<lb break="no" ed="#P" n="31"/>catum, simpliciter esse supernaturale homini,
+            <lb ed="#P" n="32"/>quamvis sit connaturale gratiae, propter quod
+            <lb ed="#P" n="33"/>locum habuit omni tempore, etiam in lege
+            <lb ed="#P" n="34"/>naturae. Dubium vero est an, loquendo de
+            <lb ed="#P" n="35"/>pura naturali ratione, sicut obligatur homo
+            <lb ed="#P" n="36"/>ad inquirendam et tenendam veram 
+            cognitio<lb break="no" ed="#P" n="37"/>nem de vero Deo, et amandum Deum ut finem
+            <lb ed="#P" n="38"/>naturae super omnia, ita obligetur ad 
+            speran<lb break="no" ed="#P" n="39"/>dum ab illo aliquod bonum, et timendum
+            <lb ed="#P" n="40"/>malum. De qua re apud Scholasticos nihil 
+            in<lb break="no" ed="#P" n="41"/>venio : Clemens tamen Alexandrinus, 1. 4
+            <lb ed="#P" n="42"/>Strom., in fine, et l. 5, in principio, rezert 
+            an<lb break="no" ed="#P" n="43"/>tiquos philosophos cognovisse et commendasse
+            <lb ed="#P" n="44"/>spem praemiorum post mortem. Confirmatur
+            <lb ed="#P" n="45"/>primo; nam tenentur omnes lege naturae
+            <lb ed="#P" n="46"/>bene sentire de divina providentia, et ad eam
+            <lb ed="#P" n="47"/>spectat redlere virtuti praemium, et vitiis
+            <lb ed="#P" n="48"/>poenam ; ergo ipsa ratio naturalis obligat 
+            ali<lb break="no" ed="#P" n="49"/>quo modo ad haec sperandum et timendum.
+            <lb ed="#P" n="50"/>Secundo, hoc est unum ex mediis maxime
+            <lb ed="#P" n="51"/>necessariis, et ut omnes alliciantur ad 
+            prae<lb break="no" ed="#P" n="52"/>standum cultum Deo, auctori naturae, ad quod
+            <lb ed="#P" n="53"/>lege naturae tenentur, et ad alia vitanla 
+            pec<lb break="no" ed="#P" n="54"/>cata, virtutemque exercendam. Denique, non
+            <lb ed="#P" n="55"/>dubito quin teneretur homo lege naturae ten-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>dere in Deum ut ultimum finem, in eoque 
+            po<lb break="no" ed="#P" n="57"/>nere suam beatitudinem, illamque intendere
+            <lb ed="#P" n="58"/>per debita media, quae sunt munera spei, ut
+            <lb ed="#P" n="59"/>ex supra dictis patet.
+          </p>
+          <p xml:id="szthvi-b54792-d1e519">
+            <lb ed="#P" n="60"/>7. Secunda conclusio.— Dico secundo : cum
+            <lb ed="#P" n="61"/>hoc praecepto affirmativo conjunctum est 
+            ne<lb break="no" ed="#P" n="62"/>gativum praeceptum non exercendi actum 
+            con<lb break="no" ed="#P" n="63"/>trarium spei. Ita D. Thomas, citata q. 22,
+            <lb ed="#P" n="64"/>art. 1, ad 3, ubi reddit rationem, quare 
+            in<lb break="no" ed="#P" n="65"/>terdum haec negativa praecepta non explicite
+            <lb ed="#P" n="66"/>tradantur; quia ubi ipsa affirmativa praecepta
+            <lb ed="#P" n="67"/>sunt in tanta obligatione, ut per se contineant
+            <lb ed="#P" n="68"/>rationem debiti, intelliguntur per eadem 
+            pro<lb break="no" ed="#P" n="69"/>hiberi omnia quae illi obhgationt repugnant.
+            <lb ed="#P" n="70"/>Unde ratio conclusionis est, quia omnes actus,
+            <lb ed="#P" n="71"/>qui sunt contrarii spei, sunt intrinsece mali
+            <lb ed="#P" n="72"/>malitia contraria spei; ergo prohibiti 
+            prae<lb break="no" ed="#P" n="73"/>cepto spei, quod, cum negativum sit, pro 
+            sem<lb break="no" ed="#P" n="74"/>per obligat.
+          </p>
+        </div>
+        <div xml:id="szthvi-b54792-Dd1e556">
+          <head xml:id="szthvi-b54792-Hd1e558">Sectio 2</head>
+          <head xml:id="szthvi-b54792-Hd1e560" type="question-title">Utrum desperatio sit actus spei contrarius, et ejus praecepto prohibitus</head>
+          <p xml:id="szthvi-b54792-d1e563">
+            <lb ed="#P" n="75"/>SECTIO II
+            <lb ed="#P" n="76"/>Utrum desperatio sit actus spei contrarius, et
+            <lb ed="#P" n="77"/>ejus praecepto prohibitus.
+          </p>
+          <p xml:id="szthvi-b54792-d1e572">
+            <lb ed="#P" n="78"/>1. Prima conclusio. — Almnagyni placitum
+            <lb ed="#P" n="79"/>contra conclusionem. — Rejicitur. — Dico 
+            pri<lb break="no" ed="#P" n="80"/>mo: desperatio est actus directe contrarius
+            <lb ed="#P" n="81"/>spei. Conclusio est communis, et videtur per
+            <lb ed="#P" n="82"/>se nota, primo, ex ipsa significatione 
+            termi<lb break="no" ed="#P" n="83"/>norum ; secundo, quia in appetitu sensitivo
+            <lb ed="#P" n="84"/>spes et desperatio sunt passiones contrariae, ut
+            <lb ed="#P" n="85"/>patet ex 1. 2, quaest. 23, art. 2, et q. 40, art.
+            <lb ed="#P" n="86"/>4. Sed nihilominus contrarium videtur 
+            senti<lb break="no" ed="#P" n="87"/>re Almaynus, in suis Moralibus, cap. de Spe;
+            <lb ed="#P" n="88"/>dicit enim desperationcm esse judicium 
+            intel<lb break="no" ed="#P" n="89"/>lectus, nimirum : /mpossibile est me consequi
+            <lb ed="#P" n="90"/>hoc bonum, vel simpliciter, vel ex aliqua 
+            suppo<lb break="no" ed="#P" n="91"/>sitione, ita ut omnino determinate judicem:
+            <lb ed="#P" n="92"/>Non consequar ; unde fit spem et 
+            desperatio<lb break="no" ed="#P" n="93"/>nem non esse contrarias, quia sunt actus 
+            di<lb break="no" ed="#P" n="94"/>versarum potentiarum. Caeterum falsa 
+            loqui<lb break="no" ed="#P" n="95"/>tur Almaynus; nam ahud est quod in 
+            intel<lb break="no" ed="#P" n="96"/>lectu supponitur desperationi, aliud id quod
+            <lb ed="#P" n="97"/>est formaliter ipsa desperatio; ad illud 
+            pri<lb break="no" ed="#P" n="98"/>mum pertinere credo illud judicium, cum
+            <lb ed="#P" n="99"/>quo certe non potest esse spes, nam spes est
+            <lb ed="#P" n="100"/>de futuro bono; ergo, s bonum judicatur
+            <lb ed="#P" n="101"/>simpliciter nunquam futurum , non potest
+            <lb ed="#P" n="102"/>sperari. Item cum tali judicio non potest esse
+            <lb ed="#P" n="103"/>eflicax ct absoluta intentio finis , seu boni
+            <lb ed="#P" n="104"/>consequendi ; ergo neque spes.
+          </p>
+          <p xml:id="szthvi-b54792-d1e633">
+            <lb ed="#P" n="105"/>2. Explicautur dicta contra Almaymum. —
+            <lb ed="#P" n="106"/>Corollariwmn ex wunc dictis, desperationem posse
+            <lb ed="#P" n="107"/>sine heeresi committi. —Intelligitur autem hoc
+            <lb ed="#P" n="108"/>de firmo et absoluto judicio ; nam si esset qua-
+            <pb ed="#P" n="627"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>si dubium, veluti contingens ad utrumlibet,
+            <lb ed="#P" n="2"/>cum iilo posset aliqua spes consistere. Ipsa 
+            ta<lb break="no" ed="#P" n="3"/>men formalis desperatio ncn est ipsum 
+            judi<lb break="no" ed="#P" n="4"/>cium, sed est fuga quaedam appetitus ab illo
+            <lb ed="#P" n="5"/>bono prosequendo, quod judicatum est 
+            impos<lb break="no" ed="#P" n="6"/>sibile, vel nunquam obtinendum ; unde fieri
+            <lb ed="#P" n="7"/>posset. existente illo judicio, voluntatem non
+            <lb ed="#P" n="8"/>desperare, quia non necessitatur a judicio;
+            <lb ed="#P" n="9"/>ut licet quis judicaret se non fore salvandum,
+            <lb ed="#P" n="10"/>posset nihilominus dicere: Quod possum 
+            facce<lb break="no" ed="#P" n="11"/>re, faciam ; et quamvis ille in illo temerario
+            <lb ed="#P" n="12"/>judicio peccaret etiam contra spem, propter
+            <lb ed="#P" n="13"/>periculum desperationis cvi se exponit, 
+            ta<lb break="no" ed="#P" n="14"/>men formaliter non desperaret. Unde neque
+            <lb ed="#P" n="15"/>fortasse amitteret virtutem spei, sicut non 
+            per<lb break="no" ed="#P" n="16"/>dit fidem qui se exponit periculo haeresis,
+            <lb ed="#P" n="17"/>quandin non errat. Quae quidem speculative
+            <lb ed="#P" n="18"/>vera sunt; moraliter tamen non possunt isti
+            <lb ed="#P" n="19"/>actus separari. Hinc optime intelligitur 
+            quo<lb break="no" ed="#P" n="20"/>modo desperatio posset haberi sine haeresi.
+            <lb ed="#P" n="21"/>Nam si oriatur ex hoc judicio: Deus non 
+            re<lb break="no" ed="#P" n="22"/>mittet mihi peccata, quidquid ego faciam, tunc
+            <lb ed="#P" n="23"/>judicium est haereticum, et committuntur 
+            si<lb break="no" ed="#P" n="24"/>mul duo peccata; si vero oriatur ex hoc 
+            ju<lb break="no" ed="#P" n="25"/>dicio: Ego de facto non salvabor, sive id 
+            judi<lb break="no" ed="#P" n="26"/>cetur practice, sive speculative, desperatio
+            <lb ed="#P" n="27"/>esse potest sine infidelitate; quia iliud 
+            judi<lb break="no" ed="#P" n="28"/>cium formaliter non est contrarium fidei,
+            <lb ed="#P" n="29"/>quamvis practice videatur contrarium 
+            pro<lb break="no" ed="#P" n="30"/>missionibus spei et efficacitati gratiae.
+          </p>
+          <p xml:id="szthvi-b54792-d1e715">
+            <lb ed="#P" n="31"/>3. Secunda conclusio. — Dico secundo: haec
+            <lb ed="#P" n="32"/>desperatio per se mala est, et prohibita 
+            prae<lb break="no" ed="#P" n="33"/>cepto spei. Haec conclusio patet ex fine 
+            sectio<lb break="no" ed="#P" n="34"/>nis praecedentis. Constat etiam sub hac 
+            prohi<lb break="no" ed="#P" n="35"/>bitione contineri odium, et tristitiam 
+            contra<lb break="no" ed="#P" n="36"/>riam actibus spei supra numeratis; omni enim
+            <lb ed="#P" n="37"/>virtuti, ad quam spectat amare, desiderare, et
+            <lb ed="#P" n="38"/>gaudere, possunt, secundum actus hos omnes,
+            <lb ed="#P" n="39"/>assignari contrarii actus, nam eadem est ratio
+            <lb ed="#P" n="40"/>contrariorum. Quocirca amori concupiscentiae
+            <lb ed="#P" n="41"/>Dei contrarium est odium, quo non proprie
+            <lb ed="#P" n="42"/>ipsi Deo in se aliquod malum quis velit, sed
+            <lb ed="#P" n="43"/>quo Deum a se avertat, ita ut noht in ilio 
+            con<lb break="no" ed="#P" n="44"/>stituere suam felicitatem. Dices: hic amor
+            <lb ed="#P" n="45"/>concupiscentiae fertur in Deum ut bonum 
+            pro<lb break="no" ed="#P" n="46"/>prium; nemo autem potest habere odio Deum
+            <lb ed="#P" n="47"/>ut bonum proprium. Respondetur verum esse,
+            <lb ed="#P" n="48"/>si particula, ut, reduplicet rationem, sub qua;
+            <lb ed="#P" n="49"/>si vero solum designet rem odio habitam, 
+            po<lb break="no" ed="#P" n="50"/>test quis, vel ex ira, vel ex nimio amore 
+            crea<lb break="no" ed="#P" n="51"/>turarum, odisse Deum, qui estsummum bonum
+            <lb ed="#P" n="52"/>suum, ut explicatur clare in hoc actu: Folo
+            <lb ed="#P" n="53"/>potius in re alia quam in Deo ponere felicitatem
+            <lb ed="#P" n="54"/>meam ; ac similiter intelligi potest tristitia 
+            con<lb break="no" ed="#P" n="55"/>iraria spei.
+          </p>
+          <p xml:id="szthvi-b54792-d1e772">
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>4. Dubium unum circa hanc conclusionem.
+            <lb ed="#P" n="57"/>— Dicta tria. — Sed petes quanta sit 
+            hu<lb break="no" ed="#P" n="58"/>jus peccati gravitas. Respondeo primo esse
+            <lb ed="#P" n="59"/>mortale ex suo genere. Hoc per se patet, cum
+            <lb ed="#P" n="60"/>materia virtutis Theologicae de se sit 
+            gravissi<lb break="no" ed="#P" n="61"/>ma, atque adeo et peccata illi adversantia.
+            <lb ed="#P" n="62"/>Secundo, esse gravius quam caetera peccata
+            <lb ed="#P" n="63"/>contraria virtutibus moralibus, ut constat ex
+            <lb ed="#P" n="64"/>nobilitate spei. et ex ratione D. Thomae, q. 20,
+            <lb ed="#P" n="65"/>art. 3. Nam in hoc peccato aversio a Deo est
+            <lb ed="#P" n="66"/>quasi directe voluntaria : habet enim hoc 
+            pro<lb break="no" ed="#P" n="67"/>prium appetitus vitae, ut directe per actum
+            <lb ed="#P" n="68"/>proprium possit se avertere ab aiiquo objecto,
+            <lb ed="#P" n="69"/>ut per odium, tristitiam, etc. Et in talibus
+            <lb ed="#P" n="70"/>actibus aversio ipsa est per se intenta ; unde
+            <lb ed="#P" n="71"/>quando est aversio a Deo, est ex suo genere
+            <lb ed="#P" n="72"/>gravissima. Tertio, si peccatum hoc 
+            compare<lb break="no" ed="#P" n="73"/>tur proportionaliter et ex genere cum peccatis
+            <lb ed="#P" n="74"/>contra charitatem, est minus grave quam illa,
+            <lb ed="#P" n="75"/>ut tractatu sequenti, disp. 6, constabit.
+          </p>
+          <p xml:id="szthvi-b54792-d1e820">
+            <lb ed="#P" n="76"/>5. Quartum dictum ex D. Thoma. — Non
+            <lb ed="#P" n="77"/>admittitur in quodam sensu. — In altero sensu
+            <lb ed="#P" n="78"/>approbatur. — Quarto, si comparetur cum 
+            in<lb break="no" ed="#P" n="79"/>fidelitate, D. Thomas simpliciter docet 
+            infide<lb break="no" ed="#P" n="80"/>litatem esse gravius peccatum desperatione,
+            <lb ed="#P" n="81"/>quamvis ex parte nostra dicat desperationem
+            <lb ed="#P" n="82"/>esse periculosiorem, et magis irremediabilem.
+            <lb ed="#P" n="83"/>Arbitror tamen aliqua peceata spei contraria,
+            <lb ed="#P" n="84"/>quae supra diximus comprehendi sub hoc 
+            pec<lb break="no" ed="#P" n="85"/>cato, esse graviora infidelitate. Nam revera
+            <lb ed="#P" n="86"/>illud odium Dei, quod opponitur amori 
+            con<lb break="no" ed="#P" n="87"/>cupiscentiae ejusdem, est ex suo genere 
+            gra<lb break="no" ed="#P" n="88"/>vius peccatum infidelitate vel haeresi: primo,
+            <lb ed="#P" n="89"/>quia est magis directa et formalior aversio a
+            <lb ed="#P" n="90"/>Deo ; secundo, quia immediate attingit Deum,
+            <lb ed="#P" n="91"/>infidelitas vero mediante actu nostro; tertio,
+            <lb ed="#P" n="92"/>culpa est immediate in voluntate ; ergo ea est
+            <lb ed="#P" n="93"/>suo genere gravior, quae per se corrumpit 
+            ma<lb break="no" ed="#P" n="94"/>jorem honestatem voluntatis; sed virtus spei
+            <lb ed="#P" n="95"/>perfectior est quam fides, saltem ut fides est
+            <lb ed="#P" n="96"/>in voluntate, atque adeo in genere virtutis, ut
+            <lb ed="#P" n="97"/>diximus disput. 1, sect. 6; ergo summum 
+            pec<lb break="no" ed="#P" n="98"/>catum contrarium spei est majus maximo 
+            pec<lb break="no" ed="#P" n="99"/>cato fidei contrario; illud autem est odium
+            <lb ed="#P" n="100"/>dictum ; quare erit gravius peccato 
+            infidel<lb break="no" ed="#P" n="101"/>tatis. Loquendo vero de proprio actu 
+            despe<lb break="no" ed="#P" n="102"/>rationis, qui non oriatur ex odio Dei, sed ex
+            <lb ed="#P" n="103"/>taedio, vel alia tentatione ob quam aliquis
+            <lb ed="#P" n="104"/>desistit voluntarie a prosecutione 
+            beatitudi<lb break="no" ed="#P" n="105"/>nis, tanquam a re impossibili, vel nunquam
+            <lb ed="#P" n="106"/>futura, probabile est infidelitatem, e: maxime
+            <lb ed="#P" n="107"/>haeresi m, esse gravius peccatum tali 
+            despera<lb break="no" ed="#P" n="108"/>tione, propter rationem D. Thomse, quia, 
+            sci<lb break="no" ed="#P" n="109"/>licet, tals infidelitas magis repugnat Deo
+            <lb ed="#P" n="110"/>quam haec desperatio. Nam illa pugnat di-
+            <pb ed="#P" n="628"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>recte cum veritate; haec non ita directe cum
+            <lb ed="#P" n="2"/>omnipotentia vel misericordia, quia non
+            <lb ed="#P" n="3"/>fundatur in defectu omnipotentiae vel 
+            mise<lb break="no" ed="#P" n="4"/>ricordiae Dei, sed fortasse oritur ex nimia 
+            ap<lb break="no" ed="#P" n="5"/>prehensione proprii defectus; et si interdum
+            <lb ed="#P" n="6"/>oritur ex mala existimatione de Deo, 
+            suppo<lb break="no" ed="#P" n="7"/>nit judicium erroneum, et inde accipit suam
+            <lb ed="#P" n="8"/>maximam gravitatem. Et huc etiam faciunt
+            <lb ed="#P" n="9"/>quae supra diximus de gravitate infidelitatis !:
+            <lb ed="#P" n="10"/>quando autem D. Thomas excipit odium Det,
+            <lb ed="#P" n="11"/>dicens illud esse gravius infidelitate, 
+            intelli<lb break="no" ed="#P" n="12"/>gendus est de omni odio, etiam contrario
+            <lb ed="#P" n="13"/>amori concupiscentiae.
+          </p>
+          <p xml:id="szthvi-b54792-d1e931">
+            <lb ed="#P" n="14"/>6. Dubium aterum expenditur in casu 
+            veve<lb break="no" ed="#P" n="15"/>late reprol ationis proprie. — Neganda 
+            pre<lb break="no" ed="#P" n="16"/>dicti casus possililitas de potestate ordinaria.
+            <lb ed="#P" n="17"/>— Ultimo, dubitari potest an haec desperatio
+            <lb ed="#P" n="18"/>sit ita intrinsece mala, ut nunquam possit
+            <lb ed="#P" n="19"/>licere. Ratio dubitandi oritur ex vulgari casu,
+            <lb ed="#P" n="20"/>si Deus alicui revelaret ipsum esse 
+            repro<lb break="no" ed="#P" n="21"/>bum ; ille enim posset tunc licite desperare.
+            <lb ed="#P" n="22"/>Quidam negant casum esse possibilem, etiam
+            <lb ed="#P" n="23"/>de potentia absolnta, id est, alicui talem 
+            re<lb break="no" ed="#P" n="24"/>velationem ab:olutam fieri ; ita 
+            Bonaventu<lb break="no" ed="#P" n="25"/>ra, in primo, dist. 48, circa litteram ; inclinat
+            <lb ed="#P" n="26"/>ibi Gregorius, quaest. uitima, paulo ante fin.
+            <lb ed="#P" n="27"/>Et D. Thomas, ibidem, art. 4, ad secundum,
+            <lb ed="#P" n="28"/>dicit illam positionem esse quasi 
+            impossibi<lb break="no" ed="#P" n="29"/>lem. Idem habet Dion. Richelius, dialogo de
+            <lb ed="#P" n="30"/>Judicio anima, art. 5, qui refert Alens. et
+            <lb ed="#P" n="31"/>Guillelm. Antisiodorensem. Ratio est , quia,
+            <lb ed="#P" n="32"/>etsi considerando nudam potentiam Dei, non
+            <lb ed="#P" n="33"/>involvat contradictionem, facere talem 
+            reve<lb break="no" ed="#P" n="34"/>lationem, tamen, considerata simul Dei 
+            boni<lb break="no" ed="#P" n="35"/>tate et sapientia, his attributis repugnat. 
+            Pri<lb break="no" ed="#P" n="36"/>mo, quia talis revelatio ad nihil boni potest
+            <lb ed="#P" n="37"/>esse utilis, ac potest esse occasio multorum
+            <lb ed="#P" n="38"/>malorum, praecipue in homine viatore. 
+            Secun<lb break="no" ed="#P" n="39"/>do, constituere viatorem in eo statu ut non
+            <lb ed="#P" n="40"/>possit conari ad suum finem ultimum 
+            conse<lb break="no" ed="#P" n="41"/>quendum , videtur esse praeter ordinem 
+            sa<lb break="no" ed="#P" n="42"/>pientiae et providentiae Dei ; at per eam 
+            reve<lb break="no" ed="#P" n="43"/>lationem constitueretur homo in hujusmodi
+            <lb ed="#P" n="44"/>statu. Tertio, sequuntur quaedam veluti 
+            im<lb break="no" ed="#P" n="45"/>plicantia ; nam ille posset licite velle suam
+            <lb ed="#P" n="46"/>damnationem ; in hoc enim se conformaret
+            <lb ed="#P" n="47"/>voluntati Dei, et alias non posset licite , quia
+            <lb ed="#P" n="48"/>hoc esset velle omnia peccata. Quae 
+            argumen<lb break="no" ed="#P" n="49"/>ta saltem probant hujusmodi revelationem,
+            <lb ed="#P" n="50"/>si ordinario modo fieret, intelligendam esse
+            <lb ed="#P" n="51"/>non in sensu absoluto, sed comminatorio et
+            <lb ed="#P" n="52"/>conditionato. Ita divus Thomas, quaest. 23 de
+            <lb ed="#P" n="53"/>Veritate, articulo 8, ad secundum ; Major, in
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="54"/>tertio, distinctione 26, quaestione tertia, et
+            <lb ed="#P" n="55"/>alii. Ratio est, quia haec revelatio admittit 
+            ta<lb break="no" ed="#P" n="56"/>lem sensum, et in sacra Scriptura 
+            revelatio<lb break="no" ed="#P" n="57"/>nes hujusmodi intelliguntur regulariter isto
+            <lb ed="#P" n="58"/>modo, ct magis est consentaneum 
+            providen<lb break="no" ed="#P" n="59"/>tiae Dei et sapientiae, ut ita revelet quam alio
+            <lb ed="#P" n="60"/>modo. At vero, simpliciter et de absoluta 
+            po<lb break="no" ed="#P" n="61"/>tentia loquendo, negandum non est quin 
+            pos<lb break="no" ed="#P" n="62"/>set Deus id dicere absolute, et affirmare, imo
+            <lb ed="#P" n="63"/>evidenter alicui ostendere se id absolute 
+            affir<lb break="no" ed="#P" n="64"/>mare. Ita D. Thomas, et Major supra, et 
+            Ga<lb break="no" ed="#P" n="65"/>briel, lectionibus sexagesima octava et 
+            sexa<lb break="no" ed="#P" n="66"/>gesima nona in Canonem. Ratio est, quia
+            <lb ed="#P" n="67"/>hoc neque includit apertam contradictionem,
+            <lb ed="#P" n="68"/>nec mahtiam. Deinde, Deus jam in communi
+            <lb ed="#P" n="69"/>revelavit. Antichristum esse reprobum ; dicit
+            <lb ed="#P" n="70"/>euim sacra Scriptura esse filium perditionis,
+            <lb ed="#P" n="71"/>et tempore Antichristi posset alicul revelari
+            <lb ed="#P" n="72"/>illum esse Antichristum ; ergo eadem ratione
+            <lb ed="#P" n="73"/>posset eidem Antichristo id revelari ; imo, qui
+            <lb ed="#P" n="74"/>talem revelationem suscepit, posset eam 
+            suffi<lb break="no" ed="#P" n="75"/>cienter proponere, si Deus vellet.
+          </p>
+          <p xml:id="szthvi-b54792-d1e1070">
+            <lb ed="#P" n="76"/>7. In casu jam admisso, opinio prima in
+            <lb ed="#P" n="77"/>dubio proposito. — Citari solet Victoria ex 
+            ma<lb break="no" ed="#P" n="78"/>nuscriptis.— Impugnatur primo. — Secundo.
+            <lb ed="#P" n="79"/>— Tpertio. — Posito ergo casu, quidam 
+            opi<lb break="no" ed="#P" n="80"/>nantur teneri eum hominem adhuc ad 
+            speran<lb break="no" ed="#P" n="81"/>dum, quia antea tenebatur, et revelauo non
+            <lb ed="#P" n="82"/>abstulit praeceptum, et praeterea potest 
+            imple<lb break="no" ed="#P" n="83"/>re; nam ad sperandum satis est objectum 
+            se<lb break="no" ed="#P" n="84"/>cundum se esse possibile, et ita judicari. 
+            Ve<lb break="no" ed="#P" n="85"/>rum , si loquamur de vera spe beatitudinis
+            <lb ed="#P" n="86"/>aeternae, non credo veram esse opinionem,
+            <lb ed="#P" n="87"/>quia tali homini esset impossibile sperare, 
+            si<lb break="no" ed="#P" n="88"/>cut intendere efficaciter consecutionem 
+            beati<lb break="no" ed="#P" n="89"/>tudinis. Nam voluntas sequitur judicium 
+            ra<lb break="no" ed="#P" n="90"/>tionis; ergo non potest absoluto et efticaci
+            <lb ed="#P" n="91"/>actu tendere in id, quod simpliciter judicat
+            <lb ed="#P" n="92"/>non esse futurum. Adde quia hic et nunc, 
+            po<lb break="no" ed="#P" n="93"/>sitis illis conditionibus, judicatur impossibile
+            <lb ed="#P" n="94"/>sperare; voluntas autem, etsi per velleitatem
+            <lb ed="#P" n="95"/>feratur in objectum secundum se, tamen 
+            se<lb break="no" ed="#P" n="96"/>cundum actum efficacem tendit in objectum,
+            <lb ed="#P" n="97"/>ut hic et nunc possibile futurum. Tertió, ita
+            <lb ed="#P" n="98"/>se haberet homo ille ad suam beatitudinem
+            <lb ed="#P" n="99"/>sicut nos nunc ad reprobos in confuso; sed
+            <lb ed="#P" n="100"/>nos non possumus sperare vel efficaciter 
+            desi<lb break="no" ed="#P" n="101"/>derare beatitudinem reprobis. Unde 
+            Augusti<lb break="no" ed="#P" n="102"/>nus, 21 de Civitate, c. 15, ait, si certo 
+            scire<lb break="no" ed="#P" n="103"/>mus qui essent reprobi, non posse nos pro 
+            sa<lb break="no" ed="#P" n="104"/>lute aeterna eorum orare. Et 11 Genes. ad
+            <lb ed="#P" n="105"/>litteram, cap. 17 et 18, ait primum Angelum
+            <lb ed="#P" n="106"/>non praescivisse suum casum, quia non posset
+            <lb ed="#P" n="107"/>perseverantiam sperare; et idem dicit, capite ;
+            <lb ed="#P" n="108"/>octavo, de primo homine, et libro de Corre-
+            <pb ed="#P" n="629"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ptione et gratia; Anselmus, de Casu diaboli,
+            <lb ed="#P" n="2"/>capite 21. Dices: Paulus habebat revelationem
+            <lb ed="#P" n="3"/>suae salutis, et timebat suam damnationem;
+            <lb ed="#P" n="4"/>ergo et e contra poterit quis habere 
+            revelatio<lb break="no" ed="#P" n="5"/>nem de sua damnatione, et salutem non 
+            de<lb break="no" ed="#P" n="6"/>sperare. Et confirmatur, nam ille homo potest
+            <lb ed="#P" n="7"/>simpliciter salvari; ergo et potest sperare. 
+            Re<lb break="no" ed="#P" n="8"/>spondetur Paulum non proprie timuisse 
+            pec<lb break="no" ed="#P" n="9"/>cata mortalia, sed venialia ; et praeterea, circa
+            <lb ed="#P" n="10"/>occasiones quae poterant inducere ad 
+            peccan<lb break="no" ed="#P" n="11"/>dum mortaliter, ita se gerebat ac si timeret,
+            <lb ed="#P" n="12"/>quia sciebat per illa media implendam esse
+            <lb ed="#P" n="13"/>revelationem, quam habebat de sua 
+            praedesti<lb break="no" ed="#P" n="14"/>natione, scilicet, castigando corpus suum, etc.
+            <lb ed="#P" n="15"/>Ad confirmationem, dicito in sensu diviso 
+            il<lb break="no" ed="#P" n="16"/>lum posse salvari, non vero in composito; vel
+            <lb ed="#P" n="17"/>melius, licet judicet esse possibile, tamen 
+            ju<lb break="no" ed="#P" n="18"/>dicat illud possibile certissime nunquam 
+            futu<lb break="no" ed="#P" n="19"/>rum; et hoc judicium repugnat spei, ut dictum
+            <lb ed="#P" n="20"/>est.
+          </p>
+          <p xml:id="szthvi-b54792-d1e1192">
+            <lb ed="#P" n="21"/>8. Vera resolutio dubii tripartita. — Dico
+            <lb ed="#P" n="22"/>igitur cum communiori sententia, primo, 
+            il<lb break="no" ed="#P" n="23"/>lum non teneri ad sperandum, non quia 
+            pro<lb break="no" ed="#P" n="24"/>prie sit ablatum praeceptum, sed quia ratione
+            <lb ed="#P" n="25"/>status est ablata potestas; unde pro eo 
+            tempo<lb break="no" ed="#P" n="26"/>re non obligatur. Unde fit solum carentiam
+            <lb ed="#P" n="27"/>spei beatitudinis non esse intrinsece malam,
+            <lb ed="#P" n="28"/>quod intelligo de spe beatitudinis, et de omni
+            <lb ed="#P" n="29"/>illa quae repugnaret cum revelatione. Unde
+            <lb ed="#P" n="30"/>addo secundo illum hominem posse sperare
+            <lb ed="#P" n="31"/>auxilium necessarium ad aliqua bona opera,
+            <lb ed="#P" n="32"/>et ad vitanda singula peccata; hoc enim non
+            <lb ed="#P" n="33"/>repugnat revelationi. Unde falsum est quod
+            <lb ed="#P" n="34"/>supra Gabriel dixit, posse hominem in eo casu
+            <lb ed="#P" n="35"/>licite velle peccare; cst enim aperta 
+            implica<lb break="no" ed="#P" n="36"/>tio; si enim velle peccare non esset illi malum,
+            <lb ed="#P" n="37"/>profecto neque peccare, quia actus, vel 
+            effec<lb break="no" ed="#P" n="38"/>tus non habet majorem malitiam quam 
+            vo<lb break="no" ed="#P" n="39"/>luntas illius; ergo jam non vellet peccare; et
+            <lb ed="#P" n="40"/>alias vellet, quia ita ponitur, et quia vellet
+            <lb ed="#P" n="41"/>actus intrinsece malos; nullo ergo modo id
+            <lb ed="#P" n="42"/>tunc liceret, quia et objecta per se mala sunt,
+            <lb ed="#P" n="43"/>et ille homo sciret se posse illa vitare, et 
+            auxi<lb break="no" ed="#P" n="44"/>lium Dei ad hoc ipsum sibi non defuturum.
+            <lb ed="#P" n="45"/>Tertio, addi potest, illum non posse nec 
+            de<lb break="no" ed="#P" n="46"/>bere proprie et positive desperare de 
+            miseri<lb break="no" ed="#P" n="47"/>cordia Dei : primo, quia non necessitatur 
+            pro<lb break="no" ed="#P" n="48"/>prie ad desperandum ; ergo potest non elicere
+            <lb ed="#P" n="49"/>talem actum, et alias ille actus desperationis
+            <lb ed="#P" n="50"/>nullam haberet honestatem; ergo, etc. Deinde
+            <lb ed="#P" n="51"/>ille homo, quamvis deberet credere se fore
+            <lb ed="#P" n="52"/>damnandum , simul tamen credere deberet
+            <lb ed="#P" n="53"/>non ex defectu misericordiae divinae, sed ex
+            <lb ed="#P" n="54"/>suo defectu fore damnandum ; ergo non posset
+            <lb ed="#P" n="55"/>proprie desperare de Deo. Denique ille non
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>posset odio habere beatitudinem et Deum, nec
+            <lb ed="#P" n="57"/>desiderare carere illa; ergo deberet potius 
+            de<lb break="no" ed="#P" n="58"/>siderare, et conari ad faciendum quod inse est.
+            <lb ed="#P" n="59"/>Similis quaestio alibi tractatur, an possit quis
+            <lb ed="#P" n="60"/>orare pro illo quem divinitus novit reprobum
+            <lb ed="#P" n="61"/>esse, aut ejus desperare salutem, quae, servata
+            <lb ed="#P" n="62"/>proportione erit decidenda juxta nunc wadita
+            <lb ed="#P" n="63"/>(videatur auctor, l. 1 de Orat., c. 15).
+          </p>
+        </div>
+        <div xml:id="szthvi-b54792-Dd1e1291">
+          <head xml:id="szthvi-b54792-Hd1e1293">Sectio 3</head>
+          <head xml:id="szthvi-b54792-Hd1e1295" type="question-title">Utrum praesumptio sit peccatum spei contrarium</head>
+          <p xml:id="szthvi-b54792-d1e1298">
+            <lb ed="#P" n="64"/>SECTIO III.
+            <lb ed="#P" n="65"/>Utrum praesumptio sit peccatum spei 
+            contra<lb break="no" ed="#P" n="66"/>rium.
+          </p>
+          <p xml:id="szthvi-b54792-d1e1307">
+            <lb ed="#P" n="67"/>1. Presumptionis significata ex parte 
+            intel<lb break="no" ed="#P" n="68"/>lectus. — Item significata aia ex parte 
+            vouwn<lb break="no" ed="#P" n="69"/>tatis.— Praesumptio quadam significatione ad
+            <lb ed="#P" n="70"/>intellectum refertur, alia ad voluntatern; in
+            <lb ed="#P" n="71"/>priori, interdum significat quamdam 
+            aestima<lb break="no" ed="#P" n="72"/>tionem de propria excellentia, ct est species
+            <lb ed="#P" n="73"/>superbiae. Aliquando significat judicium circa
+            <lb ed="#P" n="74"/>facta aliorum ex conjecturis sumptum, ve! 
+            te<lb break="no" ed="#P" n="75"/>mere datum, vel ex timore conceptum, quo
+            <lb ed="#P" n="76"/>pacto dicitur Sapientiae 17: Semper preesumit
+            <lb ed="#P" n="77"/>sua perturbata conscientia ; nonnunquam vero
+            <lb ed="#P" n="78"/>significat conjecturas ipsas, seu probahilitatem
+            <lb ed="#P" n="79"/>quae est in aliquo facto ad ferendum judicium,
+            <lb ed="#P" n="80"/>quae significatio preesumptionis est valdc 
+            usur<lb break="no" ed="#P" n="81"/>pata a jurisperitis, et hoc modo distinguunt
+            <lb ed="#P" n="82"/>triplicem praesumptionem, vehementem , seu
+            <lb ed="#P" n="83"/>ciolentam, probabilem, et levem. Praesumptio,
+            <lb ed="#P" n="84"/>ut refertur ad voluntatem, in genere significat
+            <lb ed="#P" n="85"/>quemdam animi motum ad aliquid agendum,
+            <lb ed="#P" n="86"/>quod excedit agentis facultatem ; et quidem,
+            <lb ed="#P" n="87"/>si excessus sit non respectu potestatis quasi
+            <lb ed="#P" n="88"/>executivae, sed respectu legis et juris debiti,
+            <lb ed="#P" n="89"/>praesumptio consistit in hoc, quod quis, 
+            co<lb break="no" ed="#P" n="90"/>gnita voluntate superioris, vel cognita lege,
+            <lb ed="#P" n="91"/>eam transgredi praesumit; quomodo dicitur
+            <lb ed="#P" n="92"/>saepe in jure positivo: Si quis presumpserit,
+            <lb ed="#P" n="93"/>etc. Et hoc modo non est speciale vitium, sed
+            <lb ed="#P" n="94"/>circumstantia quaedam generalis ad legis 
+            con<lb break="no" ed="#P" n="95"/>temptum pertinens, quam quis sciens et videns
+            <lb ed="#P" n="96"/>sine metu aut vi transgreditur, quae 
+            significa<lb break="no" ed="#P" n="97"/>tio notanda est ad intelligenda multa jura,
+            <lb ed="#P" n="98"/>praesertim in titulo de Usuris; sed ad praesens
+            <lb ed="#P" n="99"/>nihil spectat. Alio modo praesumptio dicitur
+            <lb ed="#P" n="100"/>motus quo aliquis aggreditur id quod superat
+            <lb ed="#P" n="101"/>vires suas. Et si hoc sit in maieria virtutum
+            <lb ed="#P" n="102"/>moralium, solet assignari speciale vitium 
+            prae<lb break="no" ed="#P" n="103"/>sumptionis, de quo non est hic agendi locus,
+            <lb ed="#P" n="104"/>nam quodammodo videtur illud vitium 
+            gene<lb break="no" ed="#P" n="105"/>rale ; si enim sit in materia fortitudinis, 
+            vide<lb break="no" ed="#P" n="106"/>tur coincidere cum audacia et temeritate; si in
+            <lb ed="#P" n="107"/>materia honoris, videtur specialiter opponi
+            <pb ed="#P" n="630"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>magnanimitati. Sed de hoc legatur D. Thomas
+            <lb ed="#P" n="2"/>2. 2. quaest. 130. Si vero hic excessus sit in
+            <lb ed="#P" n="3"/>materia spei theologalis, ut est beatitudo, 
+            gra<lb break="no" ed="#P" n="4"/>tia, supernaturale auxilium, ponitur speciale
+            <lb ed="#P" n="5"/>vitium contrarium huic virtuti; pam, licet 
+            in<lb break="no" ed="#P" n="6"/>terdum sumatur in bonam partem pro 
+            excel<lb break="no" ed="#P" n="7"/>lenti quadam fiducia, ut Judith 6: Non 
+            dere<lb break="no" ed="#P" n="8"/>linquis presumentes de te; et cap. 9: Exaudi
+            <lb ed="#P" n="9"/>me miseram deprecantem, et de tua venia 
+            prae<lb break="no" ed="#P" n="10"/>suentom, tamen frequentius in malam 
+            dech<lb break="no" ed="#P" n="11"/>nat partem, et significat inordinatum motum
+            <lb ed="#P" n="12"/>circa bona supernaturalia.
+          </p>
+          <p xml:id="szthvi-b54792-d1e1429">
+            <lb ed="#P" n="13"/>2. Prima conclusio de praesumptione huyus
+            <lb ed="#P" n="14"/>loci propria. — Primus modus presumptionis.
+            <lb ed="#P" n="15"/>— D. Thomas exponitur.— Secundus 
+            preesum<lb break="no" ed="#P" n="16"/>ptionis modus.— Tertius. — Quartus.— 
+            Quin<lb break="no" ed="#P" n="17"/>tus. — Qua posita significatione, dico primo
+            <lb ed="#P" n="18"/>hanc praesumptionem esse pravam, et virtuti
+            <lb ed="#P" n="19"/>spei ac praecepto ccontrariam. Est certa 
+            con<lb break="no" ed="#P" n="20"/>clusio, Ecclesiast. 18: Vidi presumptionem
+            <lb ed="#P" n="21"/>cordis eorum, quoniam mala est; patetque ex
+            <lb ed="#P" n="22"/>interpretatione nominis. Item explicatur 
+            assi<lb break="no" ed="#P" n="23"/>guando varios modos hujus praesumptionis.
+            <lb ed="#P" n="24"/>Primus est, si quis speret consequi 
+            beatitudi<lb break="no" ed="#P" n="25"/>nem, vel remissionem peccatorum propriis
+            <lb ed="#P" n="26"/>viribus; est praesumptio Pelagiana, et 
+            com<lb break="no" ed="#P" n="27"/>mitti non otest sine illa haeresi. Quamvis 
+            di<lb break="no" ed="#P" n="28"/>vus Thomas judicet hunc modum 
+            praesum<lb break="no" ed="#P" n="29"/>ptionis esse contra magnanimiiatem, id tamen
+            <lb ed="#P" n="30"/>est intelligenlum, quando versatur in rebus
+            <lb ed="#P" n="31"/>aliis, vcl actionibus quae non spectant ad 
+            bo<lb break="no" ed="#P" n="32"/>num animae; nam si in his rebus versetur,
+            <lb ed="#P" n="33"/>videtur directe opponi spet, ex cujus praecepto
+            <lb ed="#P" n="34"/>tenetur aliquis haec bona sperare a Deo, cui
+            <lb ed="#P" n="35"/>praecepto est directe contrarius ille modus
+            <lb ed="#P" n="36"/>praesumptionis. Secundus est, si quis indebito
+            <lb ed="#P" n="37"/>ordine speret aut veht supernaturalia, aut 
+            re<lb break="no" ed="#P" n="38"/>missionem peccatt sine poeuitentia, gloriam
+            <lb ed="#P" n="39"/>sine meritis, excellentem sanctitatem tepide
+            <lb ed="#P" n="40"/>operando ; et haec est Lutherana praesumptio,
+            <lb ed="#P" n="41"/>quae vix potest committi graviter sine tali 
+            hae<lb break="no" ed="#P" n="42"/>resi; et spei aperte repugnat, ad quam spectat
+            <lb ed="#P" n="43"/>non solum digna, sed etiam digne sperare de
+            <lb ed="#P" n="44"/>Deo. Tertius est, si quis speret a Deo speciale
+            <lb ed="#P" n="45"/>auxilium ad res illicitas, ut ad peccandum, vel
+            <lb ed="#P" n="46"/>ad sumendam vindictam de inimico, in quam
+            <lb ed="#P" n="47"/>incidunut Calvinistae, ut qui ita tribuunt Deo
+            <lb ed="#P" n="48"/>negationem Petri, sicut conversionem Pauli.
+            <lb ed="#P" n="49"/>Quartns est, si quis speret a Deo 
+            supernatura<lb break="no" ed="#P" n="50"/>lia bona praeter ordinem divinae providentiae,
+            <lb ed="#P" n="51"/>ut si quis speraret se habiturum tantam 
+            glo<lb break="no" ed="#P" n="52"/>riam, quantam habet Beata Virgo, in quam
+            <lb ed="#P" n="53"/>etiam praesumptionem incidit Lutherus; sed
+            <lb ed="#P" n="54"/>est contra spem, nam illa nititur potentia Dei
+            <lb ed="#P" n="55"/>ordinata, et promissionibus ejus; unde quam-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>vis, qui illa praesumit, videatur magna 
+            spera<lb break="no" ed="#P" n="57"/>re de Deo, tamen quatenus invertit ordinem
+            <lb ed="#P" n="58"/>divina sapientiae, indigne sentit de Deo, et
+            <lb ed="#P" n="59"/>pervertit ordinem sperandi. Derique huc 
+            spec<lb break="no" ed="#P" n="60"/>tat spes illorum qui, cum diu peccatis 
+            perse<lb break="no" ed="#P" n="61"/>verent, tam facilem sperant futuram veniam,
+            <lb ed="#P" n="62"/>et tam certam ac si nihil peccarent; hoc etiam
+            <lb ed="#P" n="63"/>est contra debitum ordinem spei; nam, licet
+            <lb ed="#P" n="64"/>interdum ex fragilitate delinquere ob spem
+            <lb ed="#P" n="65"/>veniae possit non es:e praesumptio, imo 
+            ali<lb break="no" ed="#P" n="66"/>quantulum minuere peccatum, inde tamen
+            <lb ed="#P" n="67"/>occasionem perseverandi in peccato sumere,
+            <lb ed="#P" n="68"/>quoddam est praesumptionis genus.
+          </p>
+          <p xml:id="szthvi-b54792-d1e1556">
+            <lb ed="#P" n="69"/>3. Secunda conclusio. — Observatio prima
+            <lb ed="#P" n="70"/>gro conclusione.— Observatio secunda. —Dico
+            <lb ed="#P" n="71"/>secundo : praesumptio mortale peccatum est, et
+            <lb ed="#P" n="72"/>gravissimum ex genere suo. Patet, quia est
+            <lb ed="#P" n="73"/>contra grave praeceptum, et contra 
+            perfectissi<lb break="no" ed="#P" n="74"/>mam virtutem, magnumque affert 
+            nocumen<lb break="no" ed="#P" n="75"/>tum ; imo divus Thomas 2. 2, quaest. 21, 
+            ar<lb break="no" ed="#P" n="76"/>tic. 1, ait esse peccatum in Spiritum Sanctum,
+            <lb ed="#P" n="77"/>quia directe ponit impedimentum gratiae 
+            Spi<lb break="no" ed="#P" n="78"/>ritus Sancti; addit vero, in art. 2, esse minus
+            <lb ed="#P" n="79"/>peccatum desperatione, quia desperatio est
+            <lb ed="#P" n="80"/>magis directe contra divinam misericordiam,
+            <lb ed="#P" n="81"/>praesumptio magis contra justitiam. 
+            Adver<lb break="no" ed="#P" n="82"/>tendum vero primo est, in omnibus quidem
+            <lb ed="#P" n="83"/>dictis modis inveniri gravitatem, sed tres 
+            prio<lb break="no" ed="#P" n="84"/>res gravissimos esse, et inter eos tertius 
+            vide<lb break="no" ed="#P" n="85"/>tur primum locum habere, qui est maxime
+            <lb ed="#P" n="86"/>contra Dei bonitatem. Deinde secundus, qui est
+            <lb ed="#P" n="87"/>contra debitam de Deo existimationem, ut D.
+            <lb ed="#P" n="88"/>Thomas ait. In aliis duobus facilius esse potest
+            <lb ed="#P" n="89"/>culpa levis. Advertendum secundo, hoc 
+            pecca<lb break="no" ed="#P" n="90"/>tum formaliter et expresse vix committi sine
+            <lb ed="#P" n="91"/>infidelitate, nisi quis, retinendo in genere 
+            fi<lb break="no" ed="#P" n="92"/>dem, practice putaret Deum secum 
+            usurumsin<lb break="no" ed="#P" n="93"/>gulari privilegio; tunc enim es:e posset 
+            prae<lb break="no" ed="#P" n="94"/>sumptuosus, et non haereticus ; item virtute. et
+            <lb ed="#P" n="95"/>quasi in actu exercito posset quis contrahere
+            <lb ed="#P" n="96"/>hanc malitiam, ut in quinto modo supra 
+            assi<lb break="no" ed="#P" n="97"/>gnato, et videtur etiam proprie praesumptio
+            <lb ed="#P" n="98"/>ex nimio defectu timoris, de quo Proverb. 14:
+            <lb ed="#P" n="99"/>Stutus transilit, et confidit. Addit praeterea
+            <lb ed="#P" n="100"/>divus Thomas, quaest. 130. artic. 2, ad 1, non
+            <lb ed="#P" n="101"/>solum esse hanc praesumptionem contra 
+            timo<lb break="no" ed="#P" n="102"/>rem servilem, sed etiam contra charitatem, et
+            <lb ed="#P" n="103"/>timorem filialem. Quod intelligo non 
+            forma<lb break="no" ed="#P" n="104"/>liter, sed ex parte matcriae, quia avertit 
+            ho<lb break="no" ed="#P" n="105"/>minem ab illis bonis ex quibus amicitia Dei
+            <lb ed="#P" n="106"/>pendet, et indebite illa obtinerc praesumit.
+          </p>
+          <p xml:id="szthvi-b54792-d1e1641">
+            <lb ed="#P" n="107"/>4. Primum corollarium ex dictis.— Ex 
+            qui<lb break="no" ed="#P" n="108"/>bus obiter intelligitur an hoc vitium corrumpat
+            <lb ed="#P" n="109"/>spem. Dico enim primum et secundum 
+            mo<lb break="no" ed="#P" n="110"/>dum praesumptionis corrumpere spem;, non
+            <pb ed="#P" n="631"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>solum quia regulariter supponunt 
+            infidelita<lb break="no" ed="#P" n="2"/>tem, sed etiam quia destruunt formale 
+            objec<lb break="no" ed="#P" n="3"/>tum spei, et reddunt hominem indispositum
+            <lb ed="#P" n="4"/>ad actus spei; qui enim sperat suis viribus,
+            <lb ed="#P" n="5"/>nihil cogitat de bonis supernaturalibus; qui
+            <lb ed="#P" n="6"/>etiam sperat contra debitum ordinem 
+            divina<lb break="no" ed="#P" n="7"/>rum promissionum, destruit fundamentum et
+            <lb ed="#P" n="8"/>rationem spei infusae ; tamen peccatum 
+            prae<lb break="no" ed="#P" n="9"/>sumptionis, prout communiter committi solet,
+            <lb ed="#P" n="10"/>nimirum potius in actu exercito et virtualiter
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="11"/>quam formaliter, non destruit virtutem spei,
+            <lb ed="#P" n="12"/>quia est peccatum imperfectum in suo ordine,
+            <lb ed="#P" n="13"/>nec reddit omnino inhalilem hominem ad
+            <lb ed="#P" n="14"/>actum spei, ut in simili diximus in materia
+            <lb ed="#P" n="15"/>de haeresi. Tandem constat ex dictis hoc 
+            vi<lb break="no" ed="#P" n="16"/>tium genere suo oriri ex superbia et vana
+            <lb ed="#P" n="17"/>gloria, ut D. Thomas docet supra, a. 4, ex
+            <lb ed="#P" n="18"/>Gregorio, 34 Moral., cap. 31, quamvis oriri
+            <lb ed="#P" n="19"/>etiam possit ex aliis imperfectionibus, et vitiis,
+            <lb ed="#P" n="20"/>ut per se constat.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

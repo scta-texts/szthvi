@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 4</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 4</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="659"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-b63116"><!-- l3-d4 -->
+        <head xml:id="szthvi-b63116-Hd1e101">Disputatio 4</head>
+        <head xml:id="szthvi-b63116-Hd1e103" type="question-title">De virtute misericordiae</head>
+        <p xml:id="szthvi-b63116-d1e106">
+          <lb ed="#P" n="30"/>DISPUTATIO IV.
+          <lb ed="#P" n="31"/>DE VIRTUTE MISERICORDIAE.
+        </p>
+        <p xml:id="szthvi-b63116-d1e113">
+          <lb ed="#P" n="32"/>De misericordia proxime post virtutem 
+          cha<lb break="no" ed="#P" n="33"/>ritatis disserimus, tum quia charitati est valde
+          <lb ed="#P" n="34"/>affinis, tum etiam quia ab ea consecutione
+          <lb ed="#P" n="35"/>quadam procedit ; eadem enim charitas, sicut
+          <lb ed="#P" n="36"/>superius diximus, amicitia est Dei simul et
+          <lb ed="#P" n="37"/>proximi ; ubi vero amicitia est, ibi morali
+          <lb ed="#P" n="38"/>quadam consecutione miseriarum compassio,
+          <lb ed="#P" n="39"/>easque sublevandi desiderium consurgit. De
+          <lb ed="#P" n="40"/>misericordia D. Thomas 2. 2, q. 30, et ibi
+          <lb ed="#P" n="41"/>Thomistae.
+        </p>
+        <div xml:id="szthvi-b63116-Dd1e137">
+          <head xml:id="szthvi-b63116-Hd1e139">Sectio 1</head>
+          <head xml:id="szthvi-b63116-Hd1e141" type="question-title">Quod sit objectum materiale misericordie</head>
+          <p xml:id="szthvi-b63116-d1e144">
+            <lb ed="#P" n="42"/>SECTIO I.
+            <lb ed="#P" n="43"/>Quod sit objectum materiale misericordie.
+          </p>
+          <p xml:id="szthvi-b63116-d1e151">
+            <lb ed="#P" n="44"/>1. Misericordia quid significet. — In 
+            mate<lb break="no" ed="#P" n="45"/>rialài objecto misericordie quatuor spectari
+            <lb ed="#P" n="46"/>possunt. — Misericordia, si consideremus 
+            no<lb break="no" ed="#P" n="47"/>minis impositionem, significat affectum 
+            quem<lb break="no" ed="#P" n="48"/>dam, seu compassionem alienae miseriae ; 
+            ta<lb break="no" ed="#P" n="49"/>men, considerando id ad quod praecipue si-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="50"/>gnificandum imponitur, significat voluntatem
+            <lb ed="#P" n="51"/>sublevandi, alienam miseriam, de qua 
+            distin<lb break="no" ed="#P" n="52"/>ctione Theologi, 4, distinct. 46; ibi Scotus,
+            <lb ed="#P" n="53"/>Hichardus, Durandus et alii, cum D. Thoma
+            <lb ed="#P" n="54"/>2. 2, quaest. 30, et 1 part., quaest. 21, art. 3;
+            <lb ed="#P" n="55"/>quocirca in objecto materiali misericordiae,
+            <lb ed="#P" n="56"/>quatuor possunt spectari: persona cujus 
+            misc<lb break="no" ed="#P" n="57"/>ria sublevatur ; miseria cui subvenitur; 
+            suble<lb break="no" ed="#P" n="58"/>vatio ipsa, nam licet haec sit quasi actus 
+            exte<lb break="no" ed="#P" n="59"/>rior misericordiae, tamen in virtutibus 
+            mora<lb break="no" ed="#P" n="60"/>libus ipsa actio exterior objective sumpta 
+            ha<lb break="no" ed="#P" n="61"/>bet rationem objecti, respectu virtutis 
+            interio<lb break="no" ed="#P" n="62"/>ris et actuum elicitorum. Quarto, spectari 
+            po<lb break="no" ed="#P" n="63"/>test illa compassio quae est sensibilis passio,
+            <lb ed="#P" n="64"/>nam pertinebit ad hanc virtutem ponere in
+            <lb ed="#P" n="65"/>illa mediocritatem, et ex hac parte materia
+            <lb ed="#P" n="66"/>hujus virtutis erit passio, sicut et aliae virtutes
+            <lb ed="#P" n="67"/>quae versantur circa passiones.
+          </p>
+          <p xml:id="szthvi-b63116-d1e208">
+            <lb ed="#P" n="68"/>2. Circa primum. — Miseria quid ? — Circa
+            <lb ed="#P" n="69"/>primum , quaeri potest quas personas sublevet
+            <lb ed="#P" n="70"/>haec virtus. Respondetur inclinare ad omnes
+            <lb ed="#P" n="71"/>ad quas inclinat charitas, supposita miseriae
+            <lb ed="#P" n="72"/>capacitate. Prima pars constat, quia haec 
+            vir<lb break="no" ed="#P" n="73"/>tus vel est charitas, vel intime oritur ex 
+            cha<lb break="no" ed="#P" n="74"/>ritate ; unde sicut per charitatem diligimus
+            <lb ed="#P" n="75"/>omnem eum qui est capax amicitiae, ita per
+            <lb ed="#P" n="76"/>misericordiam misereri possumus omnis ecjus
+            <lb ed="#P" n="77"/>qui est capax miseriae. Per secundam 
+            parti<lb break="no" ed="#P" n="78"/>culam excluditur primo Deus, secundo Beati,
+            <lb ed="#P" n="79"/>ut sic, quamvis secundum se illae personae 
+            Bea<lb break="no" ed="#P" n="80"/>torum possint pertinere ad misericordiam.
+            <lb ed="#P" n="81"/>Tertio, irrationales creaturae, in quibus 
+            pro<lb break="no" ed="#P" n="82"/>prie non est miseria, quae nihil aliud est quam
+            <lb ed="#P" n="83"/>malum aliquod simpliciter involuntarium 
+            vo<lb break="no" ed="#P" n="84"/>luntati rationali. Objicies primo: Deus 
+            mise<lb break="no" ed="#P" n="85"/>retur omnium rerum, etiam irrationalium.
+            <lb ed="#P" n="86"/>Secundo, homines interdum commoventur, et
+            <lb ed="#P" n="87"/>quidem secundum rationem, ex miscria 
+            alicu<lb break="no" ed="#P" n="88"/>jus bruti. Hlud tamen misereri Dei solum est
+            <lb ed="#P" n="89"/>benefacere omnibus; hic autem motus 
+            ratio<lb break="no" ed="#P" n="90"/>nalis naturae per se non spectat ad aliquam
+            <lb ed="#P" n="91"/>virtutem, nisi referatur vel ad Deum, vel ad
+            <lb ed="#P" n="92"/>bonum aliquod crcaturarum rationalium, vel
+            <lb ed="#P" n="93"/>ad aliquod motivum extrinsecum virtutis.
+          </p>
+          <p xml:id="szthvi-b63116-d1e268">
+            <lb ed="#P" n="94"/>3. An erga nos ac nostros sit misericordia ?
+            <lb ed="#P" n="95"/>— D. Thomas negat. — HEaplicatur tamen. —
+            <lb ed="#P" n="96"/>Excipit praeterea divus Thomas, secunda 
+            se<lb break="no" ed="#P" n="97"/>cundae, quaestione trigesima, articulo primo,
+            <lb ed="#P" n="98"/>ad secundum, ipsummet qui misericordia 
+            mo<lb break="no" ed="#P" n="99"/>vetur ; non enim vult propriam miseriam esse
+            <lb ed="#P" n="100"/>materiam misericordia, sed alienam. Rursus
+            <lb ed="#P" n="101"/>excipit parentes et cognatos, nam hi sunt 
+            ve<lb break="no" ed="#P" n="102"/>Iuti unum cum eo qu: miscretur. Sed haec 
+            in<lb break="no" ed="#P" n="103"/>telligenda sunt de misericordia, ut attenditur
+            <lb ed="#P" n="104"/>in illa quaedam pertectio ratione cujus alieua
+            <pb ed="#P" n="660"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>miseria tanquam propria reputatur, et etiam
+            <lb ed="#P" n="2"/>quaedam difficultas propter quam superandam
+            <lb ed="#P" n="3"/>requiritur maxime haec virtus ; alioquin nulla
+            <lb ed="#P" n="4"/>est ratio propter quam haec virtus ita sit ad 
+            al<lb break="no" ed="#P" n="5"/>terum, ut non possit versari circa pareutes et
+            <lb ed="#P" n="6"/>circa se, juxta illud Ecclesiast. 30: Miserere
+            <lb ed="#P" n="7"/>anime tue, quod verissime dictum esse 
+            testa<lb break="no" ed="#P" n="8"/>tur Augustinus, in Enchiridio, cap. 26. Nam
+            <lb ed="#P" n="9"/>subvenire propriis miseriis est honestum;
+            <lb ed="#P" n="10"/>ergo objectum virtutis ; ergo misericordiae !.
+            <lb ed="#P" n="11"/>Dices esse charitatis vel pietatis. Respondetur
+            <lb ed="#P" n="12"/>quid simile dici posse de aliis proximis, ut 
+            vi<lb break="no" ed="#P" n="13"/>debimus ; si est ergo aliud motivum circa
+            <lb ed="#P" n="14"/>alios proximos, illud accommodari potest circa
+            <lb ed="#P" n="15"/>parentes et seipsum, ut sectione sequenti 
+            pa<lb break="no" ed="#P" n="16"/>tebit. Et licet demus propter hos solos non
+            <lb ed="#P" n="17"/>fuisse necessariam hanc virtutem, tamen illa
+            <lb ed="#P" n="18"/>propter alios posita, ex quadam redundantia
+            <lb ed="#P" n="19"/>se extendit ad omnes, in quibus ejus objectum
+            <lb ed="#P" n="20"/>locum habet, qvia licet non sit difficile tibi
+            <lb ed="#P" n="21"/>ipsi misereri, esset tamen diffizile recte et 
+            ra<lb break="no" ed="#P" n="22"/>tionabiliter misereri, non tantum defectum,
+            <lb ed="#P" n="23"/>sed etiam excessum vitando.
+          </p>
+          <p xml:id="szthvi-b63116-d1e349">
+            <lb ed="#P" n="24"/>4. Circa secundum propositum in num. 1.
+            <lb ed="#P" n="25"/>— D. Thomas quo sensu dixit culpam non esse
+            <lb ed="#P" n="26"/>iseriam. — Circa secundum, notandum est
+            <lb ed="#P" n="27"/>primo omnem miseriam rationalis ereaturae
+            <lb ed="#P" n="28"/>pertinere ad materiam hujus virtutis ; est 
+            au<lb break="no" ed="#P" n="29"/>tem miseria malum involuntarium : unde si
+            <lb ed="#P" n="30"/>quis malum aliquod sub ratione boni 
+            volunta<lb break="no" ed="#P" n="31"/>rie patiatur, non est propriae muisericordiae
+            <lb ed="#P" n="32"/>materia. Unde Sanctus Thomas inquit 
+            cul<lb break="no" ed="#P" n="33"/>pam, ut sic, non esse objectum misericordiae,
+            <lb ed="#P" n="34"/>neque habere rationem miseriae, quia non est
+            <lb ed="#P" n="35"/>malum involuntarium, sed voluntarium ; quod
+            <lb ed="#P" n="36"/>intelligitur formaliter quatenus voluntaria est,
+            <lb ed="#P" n="37"/>nam alia ratione et ipsa culpa, et hoc quod
+            <lb ed="#P" n="38"/>est, esse voluntariam, est magna miseria, et
+            <lb ed="#P" n="39"/>objectum summe miserabile, quatenus, 
+            scili<lb break="no" ed="#P" n="40"/>cet, repugnat naturae rectitudini, et rationalis
+            <lb ed="#P" n="41"/>voluntatis commodo et inclinationi. Inferes:
+            <lb ed="#P" n="42"/>ergo hac ratione culpa, quatenus est divina
+            <lb ed="#P" n="43"/>injuria, poterit esse objectum misericordiae,
+            <lb ed="#P" n="44"/>atque adeo versabitur circa Deum 
+            misericor<lb break="no" ed="#P" n="45"/>dia. Neganda est illatio; quia culpa nullo
+            <lb ed="#P" n="46"/>modo est miseria Dei; nullum enim malum
+            <lb ed="#P" n="47"/>intrinsecum affert Deo, neque ei est sim]Mliciter
+            <lb ed="#P" n="48"/>involuntaria, sed permissa saltem ; posset enim
+            <lb ed="#P" n="49"/>impedire, si vellet. .
+          </p>
+          <p xml:id="szthvi-b63116-d1e408">
+            <lb ed="#P" n="50"/>5. Circa tertium, eod mum. 4 positum. —
+            <lb ed="#P" n="51"/>Quomodo mortuum sepelire ad müsericordiam
+            <lb ed="#P" n="52"/>spectat. — Circa tertium, advertendura cst sub-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>venire proximo, objective seu in esse 
+            appeti<lb break="no" ed="#P" n="54"/>bilis esse proximam materiam misericordiae ;
+            <lb ed="#P" n="55"/>quod si postea exerceatur, est actus exierior
+            <lb ed="#P" n="56"/>misericordiae ; quod quidem opus subveniendi
+            <lb ed="#P" n="57"/>proximo dicitur eleemosyna, et charitati ac
+            <lb ed="#P" n="58"/>misericordiae tribuitur a D. Thoma 2. 2, 
+            quae<lb break="no" ed="#P" n="59"/>stione 32, articulo 2, et Augustino, vel quia
+            <lb ed="#P" n="60"/>charitas et misericordia idem sunt, vel quia ita
+            <lb ed="#P" n="61"/>conjunctae sunt, ut fere semper charitas 
+            impe<lb break="no" ed="#P" n="62"/>ret actum, quem misericordia amat et exercet.
+            <lb ed="#P" n="63"/>Interdum etiam tribuitur a Patribus aliis 
+            vir<lb break="no" ed="#P" n="64"/>tutibus, ut liberalitati et justitiae, sed 
+            impro<lb break="no" ed="#P" n="65"/>prie et metaphorice. Secundo, advertendum
+            <lb ed="#P" n="66"/>est hoc opus multa sub se continere, quae ad
+            <lb ed="#P" n="67"/>duo capita revocantur, spiritualium et 
+            tempo<lb break="no" ed="#P" n="68"/>ralium eleemosynarum, de quibus spirituales,
+            <lb ed="#P" n="69"/>suo genere, perfectiores sunt, cum materia et
+            <lb ed="#P" n="70"/>finis earum sit excellentior, et necessitas per
+            <lb ed="#P" n="71"/>se loquendo major, circa quos actus in genere
+            <lb ed="#P" n="72"/>solum est notaudum, respectu habitus 
+            miseri<lb break="no" ed="#P" n="73"/>cordiae, solum differre materialiter; nam omnes
+            <lb ed="#P" n="74"/>iuducere possunt idem objectum motivum. 
+            Ad<lb break="no" ed="#P" n="75"/>vertendum item est inter illos quosdam 
+            pro<lb break="no" ed="#P" n="76"/>xime exerceri per alias virtutes, ut oratio per
+            <lb ed="#P" n="77"/>religionem, correctio vel consilium per 
+            pru<lb break="no" ed="#P" n="78"/>dentiam vel scientiam; sunt vero materia 
+            hu<lb break="no" ed="#P" n="79"/>jus virtutis, ut induunt propriam ejus 
+            hone<lb break="no" ed="#P" n="80"/>statem, quam infra explicabimus. Solum
+            <lb ed="#P" n="81"/>superest exponamus quomcdo ad materiam
+            <lb ed="#P" n="82"/>misericordiae spectet sepelire mortuum, cum
+            <lb ed="#P" n="83"/>corpus mortuum non sit capax miseriae. 
+            Re<lb break="no" ed="#P" n="84"/>spondetur ibi sine dubio reperiri sufficientem
+            <lb ed="#P" n="85"/>miseriam proximi ; nam, licet proximus cujus
+            <lb ed="#P" n="86"/>corpus sepulturae traditur, revera non sit jam,
+            <lb ed="#P" n="87"/>tamen ipse quodammodo manet in memoriis
+            <lb ed="#P" n="88"/>hominum, et corpus illud ordinem habet ad
+            <lb ed="#P" n="89"/>animam, cui gratum est illud obsequium,
+            <lb ed="#P" n="90"/>quod per se etiam potest recundare in bonum
+            <lb ed="#P" n="91"/>animae, propter orationes et suffragia quae in
+            <lb ed="#P" n="92"/>locis sacris fiunt.
+          </p>
+          <p xml:id="szthvi-b63116-d1e506">
+            <lb ed="#P" n="93"/>6. Circa quartum ibi propositum. — Quos
+            <lb ed="#P" n="94"/>interiores actus habeat misericordia. — Quem
+            <lb ed="#P" n="95"/>vendicent prioritatis ordinem. — Probabilis 
+            re<lb break="no" ed="#P" n="96"/>sponsio. — Circa quartum, simul explicandum
+            <lb ed="#P" n="97"/>est et quomodo misericordia versetur etiam
+            <lb ed="#P" n="98"/>circa illam passionem, et quos actus interiores
+            <lb ed="#P" n="99"/>habeat, quia haec conjuncta sunt. Duo igitur
+            <lb ed="#P" n="100"/>videntur praecipue hujus virtutis actus, 
+            scili<lb break="no" ed="#P" n="101"/>cet, illa compassio, quae est displicentia 
+            mise<lb break="no" ed="#P" n="102"/>riae alicujus, et voluntas subveniendi ; et 
+            in<lb break="no" ed="#P" n="103"/>telligi potest uterque et in appetitu sensitivo
+            <lb ed="#P" n="104"/>per modum passionis, et in voluntate per 
+            mo<lb break="no" ed="#P" n="105"/>dum actus simplicis, ut per se constat. Sed
+            <lb ed="#P" n="106"/>quaeres quis horum actuum sit prior et causa
+            <lb ed="#P" n="107"/>alterius; ac tristitiam esse priorem probatur ;
+            <pb ed="#P" n="661"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ideo enim conatur quis depellere miseriam
+            <lb ed="#P" n="2"/>quam videt in fratre, quia displicet, et dolet
+            <lb ed="#P" n="3"/>quod in eo sit. In contrarium vero est quia illa
+            <lb ed="#P" n="4"/>displicentia est actus fugiendi malum ; omnis
+            <lb ed="#P" n="5"/>autem actus appetitus, qui est fuga mali, 
+            sup<lb break="no" ed="#P" n="6"/>ponit appetitum bonum, sicut recessus a 
+            ter<lb break="no" ed="#P" n="7"/>mino a quo, supponit accessum ad terminum
+            <lb ed="#P" n="8"/>ad quem. Utrumque fortasse est probabile:
+            <lb ed="#P" n="9"/>unde si dicatur primum, dicendum 
+            consequen<lb break="no" ed="#P" n="10"/>ter est, eam tristitiam supponere aliquam
+            <lb ed="#P" n="11"/>conjunctionem, vel per naturam, vel per 
+            affe<lb break="no" ed="#P" n="12"/>ctum inter eum qui miseretur et cui 
+            misere<lb break="no" ed="#P" n="13"/>tur, neque oportebit alium actum elicitum ab
+            <lb ed="#P" n="14"/>appetitu antecedere istam displicentiam et
+            <lb ed="#P" n="15"/>compassionem, nisi tortasse amorem.
+          </p>
+          <p xml:id="szthvi-b63116-d1e578">
+            <lb ed="#P" n="16"/>7. Altera probabilior. — Nihilominus 
+            pro<lb break="no" ed="#P" n="17"/>babilius est, per se et ex natura rei loquendo,
+            <lb ed="#P" n="18"/>antecedere voluntatem aliquam, seu 
+            appeti<lb break="no" ed="#P" n="19"/>tum, quod proximus careat miseria, si proprie
+            <lb ed="#P" n="20"/>considerentur hi actus, ut inorales sunt et 
+            stu<lb break="no" ed="#P" n="21"/>diosi. Primo, quia illa trisiitia habet, quod sit
+            <lb ed="#P" n="22"/>moralis et bona, ab aliqua voluntate cui 
+            ad<lb break="no" ed="#P" n="23"/>jungitur, nam ab illa habet ut sit voluntaria;
+            <lb ed="#P" n="24"/>et in universum omnis tristitia et delectatio,
+            <lb ed="#P" n="25"/>quia sunt veluti passiones quaedam, non per se
+            <lb ed="#P" n="26"/>habent bonitatem vel maiitiam, sed ratione
+            <lb ed="#P" n="27"/>actuum quibus conjunguntur. Secundo, quia
+            <lb ed="#P" n="28"/>per se primo ad finem atque ad honestatem
+            <lb ed="#P" n="29"/>misericordiae non est necessaria illa tristitia,
+            <lb ed="#P" n="30"/>sed voluntas vel appetitus boni proximi. 
+            Ter<lb break="no" ed="#P" n="31"/>tio, quia hoc bonum est honestum, et per se
+            <lb ed="#P" n="32"/>appetibile. etsi nulla tristitia antecedere 
+            intel<lb break="no" ed="#P" n="33"/>ligatur, ut in Deo et Beatis patet. Quocirca ita
+            <lb ed="#P" n="34"/>exponi potest ordo inter hos actus, ut, cognita
+            <lb ed="#P" n="35"/>miseria proximi, primum quis appetat et velit
+            <lb ed="#P" n="36"/>commodum proximi, atque adeo ut careat illa
+            <lb ed="#P" n="37"/>miseria ; quod si voluntas est efficax, et adest
+            <lb ed="#P" n="38"/>facultas, sequetur statim voluntas, seu usus
+            <lb ed="#P" n="39"/>sublevandi ; si vero facultas deest, saltem 
+            se<lb break="no" ed="#P" n="40"/>quetur desiderium, et huic voluntati 
+            conjun<lb break="no" ed="#P" n="41"/>cta est illa tristitia, qui ordo ex dictis satis
+            <lb ed="#P" n="42"/>patet, et ex generali doctrina de actibus 
+            vo<lb break="no" ed="#P" n="43"/>luntatis, in 1. 2.
+          </p>
+          <p xml:id="szthvi-b63116-d1e641">
+            <lb ed="#P" n="44"/>8. Corollarium primum ea dictis. — 
+            Secun<lb break="no" ed="#P" n="45"/>dum. — Tertium. — Ex quibus intelligitur 
+            pri<lb break="no" ed="#P" n="46"/>mum in Deo et Beatis misericordiam habcre
+            <lb ed="#P" n="47"/>locum, non solum quoad effectum, sed ctiam
+            <lb ed="#P" n="48"/>quoad affectum et rationem formalem, ut S.
+            <lb ed="#P" n="49"/>Thomas 2. 2, quaest. 30, art. 4, sentit, et 
+            spe<lb break="no" ed="#P" n="50"/>cialiter de Deo, 1 p., quaest. 21, art. 1, 
+            quam<lb break="no" ed="#P" n="51"/>vis in eis non habeat locum tristitia ; nam
+            <lb ed="#P" n="52"/>haec imperfectionem dicit; misericordia vero
+            <lb ed="#P" n="53"/>nequaquam, licet impositio nominis sumpta
+            <lb ed="#P" n="54"/>sit ab aliquo affectu qui in nobis est cum 
+            im<lb break="no" ed="#P" n="55"/>perfectione ; et ita usurpatur ab Augustino, 9
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>de Civitate, c. 5; Damasceno, 2 Fidei, c. 14;
+            <lb ed="#P" n="57"/>Aristotele, 2 Rhetor. ad Theodect., c. 8. 
+            Se<lb break="no" ed="#P" n="58"/>cundo intelligitur, pro materia de praeceptis in
+            <lb ed="#P" n="59"/>dispntatione sequenti, per se primo in hac
+            <lb ed="#P" n="60"/>virtute esse necessariam voluntatem 
+            suble<lb break="no" ed="#P" n="61"/>vandi, reliqua esse quasi concomitantia ; unde
+            <lb ed="#P" n="62"/>in hunc actum cadit praeceptum , in reliquis
+            <lb ed="#P" n="63"/>vero quatenus esse possunt necessarii ad hunc
+            <lb ed="#P" n="64"/>actum. Tertio intelligitur quomodo illa passio
+            <lb ed="#P" n="65"/>miseriae in nobis reducatur ad mediocritatem
+            <lb ed="#P" n="66"/>per hanc virtutem; etenim misericordia per se
+            <lb ed="#P" n="67"/>primo inclinat ad illam voluntatem honestam,
+            <lb ed="#P" n="68"/>quam diximus ; ex consequenti vero 
+            modera<lb break="no" ed="#P" n="69"/>tur illam passionem, nimirum, ut tanta sit et
+            <lb ed="#P" n="70"/>talis, quanta et qualis necessaria est et 
+            con<lb break="no" ed="#P" n="71"/>veniens ad prompte et delectabiliter exercen
+            <lb ed="#P" n="72"/>dam voluntatem illam honestam.
+          </p>
+        </div>
+        <div xml:id="szthvi-b63116-Dd1e711">
+          <head xml:id="szthvi-b63116-Hd1e713">Sectio 2</head>
+          <head xml:id="szthvi-b63116-Hd1e715" type="question-title">Quid sit objectum formale motivum misericordiae, et an sit virtus a charitate distincta</head>
+          <p xml:id="szthvi-b63116-d1e718">
+            <lb ed="#P" n="73"/>SECTIO II.
+            <lb ed="#P" n="74"/>Quid sit objectum formale motivum 
+            misericor<lb break="no" ed="#P" n="75"/>diae, et an sit virtus a charitate distincta.
+          </p>
+          <p xml:id="szthvi-b63116-d1e727">
+            <lb ed="#P" n="76"/>1. Tria supponuntur. — In praecedenti 
+            se<lb break="no" ed="#P" n="77"/>ctione, explicavimus objectum materiale et
+            <lb ed="#P" n="78"/>actum misericordiae, propter eorum 
+            conjun<lb break="no" ed="#P" n="79"/>ctionem ; hic exponemus simul objectum 
+            for<lb break="no" ed="#P" n="80"/>male et habitum, quia conjuncta sunt; prius
+            <lb ed="#P" n="81"/>vero nonnulla supponenda sunt : primum est,
+            <lb ed="#P" n="82"/>objectum formale hujus virtutis esse aliquid
+            <lb ed="#P" n="83"/>honestum ; sunt enim actus misericordiae, et
+            <lb ed="#P" n="84"/>ejus materia, rationi consentanea, ac sub 
+            ho<lb break="no" ed="#P" n="85"/>nesta ratione appeti possunt. Secundum est.
+            <lb ed="#P" n="86"/>illis actibus generari habitum qui sit virtus
+            <lb ed="#P" n="87"/>vera, quia actus illi sunt difficiles ac honesti
+            <lb ed="#P" n="88"/>per se primo et ex objecto. Tertium est, hanc
+            <lb ed="#P" n="89"/>virtutem praecipue esse in voluntate, primo,
+            <lb ed="#P" n="90"/>quia de omni virtute ita censuimus 1. 2; 
+            se<lb break="no" ed="#P" n="91"/>cundo, quia praecipue refertur ad alterum;
+            <lb ed="#P" n="92"/>tertio quia voluntas non est satis propensa ad
+            <lb ed="#P" n="93"/>succurrendum aliorum miseriis. Non est tamen
+            <lb ed="#P" n="94"/>negandum generari in nobis in appetitu 
+            sensi<lb break="no" ed="#P" n="95"/>tivo aliquem habitum, quo disponatur ad 
+            coo<lb break="no" ed="#P" n="96"/>perandum voluntati, atque adeo ad 
+            miseren<lb break="no" ed="#P" n="97"/>dum ; atque id constat ex generali doctrina de
+            <lb ed="#P" n="98"/>Virtutibus, in 1. 2; tum etiam quia hic 
+            proce<lb break="no" ed="#P" n="99"/>dunt rationes factae de voluntate; solum est
+            <lb ed="#P" n="100"/>differentia, quod in voluntate insuper reperiri
+            <lb ed="#P" n="101"/>possit misericordia infusa.
+          </p>
+          <p xml:id="szthvi-b63116-d1e786">
+            <lb ed="#P" n="102"/>2. Coincidere misericordiam cum charitate,
+            <lb ed="#P" n="103"/>arguitur multipliciter. — His positis, superest
+            <lb ed="#P" n="104"/>jam exponamus quod sit objectum formale
+            <lb ed="#P" n="105"/>hujus virtutis, atque adeo quae sit haec virtus
+            <lb ed="#P" n="106"/>in specie, quod optime praestabitur in 
+            compa<lb break="no" ed="#P" n="107"/>ratione ad charitatem, etenim videtur ab illa
+            <pb ed="#P" n="662"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>663 DISPUT.
+            <lb ed="#P" n="2"/>non distingui. Primo, quia si spectes 
+            prima<lb break="no" ed="#P" n="3"/>rium finem vel actum hujus virtutis, ille est
+            <lb ed="#P" n="4"/>subvenire miseriae ; hic autem actus est 
+            bene<lb break="no" ed="#P" n="5"/>ficentia quaedam ; benefacere autem proprius
+            <lb ed="#P" n="6"/>actus charitatis est ; nam intrinsece et 
+            imme<lb break="no" ed="#P" n="7"/>diate oritur ex bene velle. Item charitas, quae
+            <lb ed="#P" n="8"/>inclinat ad benefaciendum, maxime iuclinat
+            <lb ed="#P" n="9"/>ad benefaciendum indigenti. Rursus 
+            beneface<lb break="no" ed="#P" n="10"/>re anico cum non indiget, est actus charitatis;
+            <lb ed="#P" n="11"/>ergo multo magis cum indiget. Ad haec, deficere
+            <lb ed="#P" n="12"/>in hoc actu subveniendi est plane deficere in
+            <lb ed="#P" n="13"/>ipso amore; ergo e contrario, etc. Tandemsi 
+            ac<lb break="no" ed="#P" n="14"/>tum tristitiae vel compassionis spectes, ille 
+            ne<lb break="no" ed="#P" n="15"/>cessario revocandus est ad amorem ; nam 
+            tris<lb break="no" ed="#P" n="16"/>titia de malo oritur ex odio ipsius mali, et
+            <lb ed="#P" n="17"/>odium ex amore boni ejusdem subjecti ; unde
+            <lb ed="#P" n="18"/>ct gaudium de bono proximi est actus 
+            charita<lb break="no" ed="#P" n="19"/>tis; et e contrario tristitia de bono proximi
+            <lb ed="#P" n="20"/>immediate est contra charitatem.
+          </p>
+          <p xml:id="szthvi-b63116-d1e850">
+            <lb ed="#P" n="21"/>3. Prima sententia id affir nans. — Propter
+            <lb ed="#P" n="22"/>haec esse potest prima sententia, quae affirmat
+            <lb ed="#P" n="23"/>misericordiam esse charitatem inadaequate
+            <lb ed="#P" n="24"/>conceptam, et applicatam ad proximum 
+            indi<lb break="no" ed="#P" n="25"/>gentem, et inclinantem ad benefaciendum illi,
+            <lb ed="#P" n="26"/>et ut sic vocari misericordiam. Haec sententia
+            <lb ed="#P" n="27"/>potest tribui D. Thomae 2. 2, q. 30, qui, 
+            nu<lb break="no" ed="#P" n="28"/>merans misericordiam inter effectus charitatis,
+            <lb ed="#P" n="29"/>non est credendus voluisse numerare omnes
+            <lb ed="#P" n="30"/>actus a charitate imperatos; oportuisset enim
+            <lb ed="#P" n="31"/>ut numeraret omnes virtutes; ergo intelligit
+            <lb ed="#P" n="32"/>de actu ipso elicito; et articulo secundo ad
+            <lb ed="#P" n="33"/>primum indicat in Deo idem esse amare et 
+            mi<lb break="no" ed="#P" n="34"/>sereri.
+          </p>
+          <p xml:id="szthvi-b63116-d1e883">
+            <lb ed="#P" n="35"/>4. Vera sententia negans, cum D. Thoma et
+            <lb ed="#P" n="36"/>aliis. — Nihilominus contraria sententia est
+            <lb ed="#P" n="37"/>communis: divi Thomae, citata quaestione 
+            tri<lb break="no" ed="#P" n="38"/>gesima, articulo tertio et quarto, et 
+            quaestio<lb break="no" ed="#P" n="39"/>ne trigesima secunda, artieulo primo, ubi alii
+            <lb ed="#P" n="40"/>Theologi. Probatur conclusio solvendo 
+            ratio<lb break="no" ed="#P" n="41"/>nes factas, et explicando simul motivum 
+            hu<lb break="no" ed="#P" n="42"/>jus virtutis. Concludunt enim rationes factae,
+            <lb ed="#P" n="43"/>quasi materialiter posse charitatem sub suo
+            <lb ed="#P" n="44"/>motivo efficere omnem externum actum,
+            <lb ed="#P" n="45"/>quem facit misericordia, atque adeo versari
+            <lb ed="#P" n="46"/>circa totam materiam ejus. Dices charitatem
+            <lb ed="#P" n="47"/>posse aliquo modo dolere de miseria proximi,
+            <lb ed="#P" n="48"/>non tamen subvenire nisi per misericordiam.
+            <lb ed="#P" n="49"/>Contra, nam hoc gratis dicitur, et oppositum
+            <lb ed="#P" n="50"/>concludunt rationes factae, et patet ex vi et
+            <lb ed="#P" n="51"/>cffiracia charitatis, quae non verbo, sed opere
+            <lb ed="#P" n="52"/>diligit; non tamen concludunt dictae rationes,
+            <lb ed="#P" n="53"/>in assignata materia et actibus misericordiae
+            <lb ed="#P" n="54"/>solum inveniri motivum honestum charitatis.
+            <lb ed="#P" n="55"/>Nam praeter illud potest reperiri aliud, quod ad
+            <lb ed="#P" n="56"/>misericordiam pertinet, et per quod misericor-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="57"/>dia a charitate distinguatur ; motivum enim
+            <lb ed="#P" n="58"/>charitatis est ratio amicitiae, et illud etiam 
+            de<lb break="no" ed="#P" n="59"/>bet esse proximum mctivum in beneficentia,
+            <lb ed="#P" n="60"/>quae est immediate a charitate ; tamen, 
+            seclu<lb break="no" ed="#P" n="61"/>sa amicitiae ratione, hoc ipsum, quod est 
+            sub<lb break="no" ed="#P" n="62"/>venire rationali naturae indigenti, est per se
+            <lb ed="#P" n="63"/>honestum, et consentaneum rationi ; et ablata
+            <lb ed="#P" n="64"/>omni consideratione amicitiae et amoris, talis
+            <lb ed="#P" n="65"/>miseria per se movet hominem ad honestam
+            <lb ed="#P" n="66"/>compassionem ; et hoc motivum potest per se
+            <lb ed="#P" n="67"/>pertinere ad aliquam virtutem, et eam 
+            voca<lb break="no" ed="#P" n="68"/>mus misericordiam. Et confirmatur, quia licet
+            <lb ed="#P" n="69"/>charitas possit suo motivo formali praestare ea
+            <lb ed="#P" n="70"/>quae ad alias virtutes pertinent , ut patet iu
+            <lb ed="#P" n="71"/>poenitentia, religione, liberalitate, etc., 
+            nihi<lb break="no" ed="#P" n="72"/>lominus ponuntur hae virtutes propter 
+            specia<lb break="no" ed="#P" n="73"/>lia motiva formalia ; ergo idem pariter 
+            cen<lb break="no" ed="#P" n="74"/>sendum erit in virtute misericordiae ; quod
+            <lb ed="#P" n="75"/>tandem sic explicatur, nam charitas respicit
+            <lb ed="#P" n="76"/>proximum ut bonum , et, ut sic, communicat
+            <lb ed="#P" n="77"/>cum eo bona; at vero misericordia respicit
+            <lb ed="#P" n="78"/>ut miserum, et quodammodo quasi indignum
+            <lb ed="#P" n="79"/>benevolentia , in quo est specialis difficultas ,
+            <lb ed="#P" n="80"/>et maxima quaedam honestas in illa 
+            vin<lb break="no" ed="#P" n="81"/>cenda.
+          </p>
+        </div>
+        <div xml:id="szthvi-b63116-Dd1e991">
+          <head xml:id="szthvi-b63116-Hd1e993">Sectio 3</head>
+          <head xml:id="szthvi-b63116-Hd1e995" type="question-title">In quo gradu perfectionis sit virtus misericordiae</head>
+          <p xml:id="szthvi-b63116-d1e998">
+            <lb ed="#P" n="82"/>SECTIO III.
+            <lb ed="#P" n="83"/>In quo gradu perfectionis sit virtus 
+            miseri<lb break="no" ed="#P" n="84"/>cordiae.
+          </p>
+          <p xml:id="szthvi-b63116-d1e1007">
+            <lb ed="#P" n="85"/>1. Misericordia est inferior virtutibus 
+            Theo<lb break="no" ed="#P" n="86"/>logicis. — Misericordia commendationibus
+            <lb ed="#P" n="87"/>ipsae etiam sacrae Litterae redundant ; ex als
+            <lb ed="#P" n="88"/>vero scriptoribus legi possunt, quos citat 
+            Cli<lb break="no" ed="#P" n="89"/>chtov., in Damascen., libro secundo Fidei
+            <lb ed="#P" n="90"/>Orthod.. capite decimo quarto. Hoc vero loco
+            <lb ed="#P" n="91"/>solum comparaio facienda est cum 
+            Theolo<lb break="no" ed="#P" n="92"/>gicis virtutibus; nam de reliquis hactenus non
+            <lb ed="#P" n="93"/>est institutus sermo, quare nequit cum illis
+            <lb ed="#P" n="94"/>commode comparari. Si igitur comparetur
+            <lb ed="#P" n="95"/>misericordia cum Theologicis virtutibus, 
+            con<lb break="no" ed="#P" n="96"/>stat ab eis superari in perfectione. Ita divus
+            <lb ed="#P" n="97"/>Thomas, secunda secundae, articulo quarto
+            <lb ed="#P" n="98"/>quaestionis 30. Primo, nam Theologicis 
+            virtuti<lb break="no" ed="#P" n="99"/>bus immediatc conjungimur ultimo fini. 
+            Se<lb break="no" ed="#P" n="100"/>cundo, oarum objecta et actus sunt 
+            perfec<lb break="no" ed="#P" n="101"/>tiora ; objectum enim est Deus, quom 
+            imme<lb break="no" ed="#P" n="102"/>diate attingunt actus earum.
+          </p>
+          <p xml:id="szthvi-b63116-d1e1049">
+            <lb ed="#P" n="103"/>2. Opponitur locus D. Thoma. — Cajetani
+            <lb ed="#P" n="104"/>erplicaio. — Rejicitur multipliciter. — Sed
+            <lb ed="#P" n="105"/>hanc veritatem, per se facilem, reddidit 
+            ob<lb break="no" ed="#P" n="106"/>scuram Sanctus Thomas, articulo quarto 
+            ci<lb break="no" ed="#P" n="107"/>tato, dicens misericordiam secundum se esse
+            <lb ed="#P" n="108"/>maximam virtutem ; et cum illo addito 
+            vide<lb break="no" ed="#P" n="109"/>tur eam praeferre charitati, quamvis in ordine
+            <pb ed="#P" n="663"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ad habentem, sen secundum nos, perfectior
+            <lb ed="#P" n="2"/>sit charitas. In qua doctrina explicanda, 
+            in<lb break="no" ed="#P" n="3"/>quit Cajetanus, considerare virtutem aliquam
+            <lb ed="#P" n="4"/>secundum se, esse considerare perfectionem
+            <lb ed="#P" n="5"/>ejus abstrahendo omnem habitudinem ad 
+            ob<lb break="no" ed="#P" n="6"/>jectum et subjectum, et sic consideratam 
+            mi<lb break="no" ed="#P" n="7"/>sericordiam esse perfectiorem charitate, 
+            quam<lb break="no" ed="#P" n="8"/>vis in Deo dicatur melior, quia charitatem 
+            in<lb break="no" ed="#P" n="9"/>cludit. Quae neque vere, neque consequenter
+            <lb ed="#P" n="10"/>dicta sunt. Primum enim impossibile est 
+            con<lb break="no" ed="#P" n="11"/>siderare perfectionem virtutis praeciso ordine
+            <lb ed="#P" n="12"/>ad objectum : hoc enim ablato, neque manet
+            <lb ed="#P" n="13"/>species virtutis, neque ulla distinctio; nulla
+            <lb ed="#P" n="14"/>ergo fieri potest comparatio. Item perfectio
+            <lb ed="#P" n="15"/>virtutis ex actibus pensatur, actus vero in 
+            ai<lb break="no" ed="#P" n="16"/>quo objecto versatur. Unde neque ipse 
+            Caje<lb break="no" ed="#P" n="17"/>tanus potuit explicare perfectionem 
+            miseri<lb break="no" ed="#P" n="18"/>cordiae, nisi in ordine ad actus et objecta.
+            <lb ed="#P" n="19"/>Deinde si misericordia praecise sumpta, 
+            ne<lb break="no" ed="#P" n="20"/>que in Deo neque in nobis est perfectior, ubi
+            <lb ed="#P" n="21"/>obtinet illam excellentiam? Tandem quod
+            <lb ed="#P" n="22"/>ultimo dicit, non defendit D. Thomam, nam
+            <lb ed="#P" n="23"/>eadem ratione in nobis misericordia erit 
+            per<lb break="no" ed="#P" n="24"/>fectior charitate, quatenus eam includit.
+          </p>
+          <p xml:id="szthvi-b63116-d1e1124">
+            <lb ed="#P" n="25"/>3. Aliorum Thomistarum expostio.— 
+            Ob<lb break="no" ed="#P" n="26"/>jectionà satisfit. —Aliter igitur explicatur dicta
+            <lb ed="#P" n="27"/>distinctio , misericordiam secundum se 
+            consi<lb break="no" ed="#P" n="28"/>deratam, nihil aliud esse quam m:sericordiam
+            <lb ed="#P" n="29"/>abstractam ab omni imperfectione quam 
+            ha<lb break="no" ed="#P" n="30"/>bct ex creaturis, et ab omni perfectione 
+            ex<lb break="no" ed="#P" n="31"/>trinseca, sel solum secundum illam quam
+            <lb ed="#P" n="32"/>habet ex propria ratione formal ; et hoc 
+            sen<lb break="no" ed="#P" n="33"/>su videtur velle divus Thomas misericordiam
+            <lb ed="#P" n="34"/>esse meliorem charitate; quia misericordia
+            <lb ed="#P" n="35"/>secundum se dicit virtutem sublevativam 
+            mi<lb break="no" ed="#P" n="36"/>seriae ; ergo misericordia summa in sua 
+            ra<lb break="no" ed="#P" n="37"/>tione dicit virtutem sublevativam omnis 
+            mi<lb break="no" ed="#P" n="38"/>seriae; ergo actum purum infinite perfectum
+            <lb ed="#P" n="39"/>ac potentem. Quapropter haec virtus dicitur
+            <lb ed="#P" n="40"/>maxime propria Dei, et opera misericordiae
+            <lb ed="#P" n="41"/>dicuntur superare reliqua, Psal. 114. Dices 
+            ne<lb break="no" ed="#P" n="42"/>que misericordiam Dei posse sublevare omnem
+            <lb ed="#P" n="43"/>meseriam, quia non potest a creatura auferre
+            <lb ed="#P" n="44"/>omnem imperfectionem. Respondetur 
+            simplici<lb break="no" ed="#P" n="45"/>ter posse auferre omnem miseriam, quae 
+            au<lb break="no" ed="#P" n="46"/>ferri potest. et hoc satis est ut talis 
+            misericor<lb break="no" ed="#P" n="47"/>dia requirat infinitam perfectionem 
+            simpi<lb break="no" ed="#P" n="48"/>citer.
+          </p>
+          <p xml:id="szthvi-b63116-d1e1179">
+            <lb ed="#P" n="49"/>4. Rejicitur promima eapositio, et ostenditur
+            <lb ed="#P" n="50"/>multipliciter charitatem simpliciter preecellere
+            <lb ed="#P" n="51"/>msericordie. — Haec sententia defenditur a
+            <lb ed="#P" n="52"/>multis Thomistis, sed non placet. Unce censeo
+            <lb ed="#P" n="53"/>charitatem , comparatam secundum se cum
+            <lb ed="#P" n="54"/>misericordia, esse simpliciter meliorem, 
+            at<lb break="no" ed="#P" n="55"/>que adeo in Deo comparando attributa eo
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>modo quo a nobis distinguuntur, excellentius
+            <lb ed="#P" n="57"/>attributum esse charitatem. Primo, quia est
+            <lb ed="#P" n="58"/>fons misericordiae. Secundo, quia etiam ipsi
+            <lb ed="#P" n="59"/>Deo melius est summo amore sibi conjungi,
+            <lb ed="#P" n="60"/>quam aliorum misereri. Tertio, quia melius
+            <lb ed="#P" n="61"/>est objectum charitatis, et ejus actus. Quarto,
+            <lb ed="#P" n="62"/>quia id excellentiee, quod videtur esse in 
+            mi<lb break="no" ed="#P" n="63"/>sericordia, eminentiori modo est in charitate;
+            <lb ed="#P" n="64"/>nam sicut misericordia est sublevativa 
+            mise<lb break="no" ed="#P" n="65"/>riae, ita charitas benefactiva ; unde charitas in
+            <lb ed="#P" n="66"/>suo conceptu summe perfecta est, et 
+            infini<lb break="no" ed="#P" n="67"/>te communicativa omnis perfectionis ; quod
+            <lb ed="#P" n="68"/>etiam requirit actum purum et infinitam 
+            po<lb break="no" ed="#P" n="69"/>tentiam. Praeterea in hoc excellit charitas,
+            <lb ed="#P" n="70"/>quia non solum ad externam 
+            communicatio<lb break="no" ed="#P" n="71"/>nem, sed ad eam etiam quae intra Deum est,
+            <lb ed="#P" n="72"/>inclinat. Unde non solum communicat 
+            per<lb break="no" ed="#P" n="73"/>fectionem finitam in infinitum, sed etiam
+            <lb ed="#P" n="74"/>perfectionem simpliciter infinitam per 
+            pro<lb break="no" ed="#P" n="75"/>cessiones ad intra; nam, licet illae non sint a
+            <lb ed="#P" n="76"/>voluntate libera, sunt tamen rropensioni 
+            ip<lb break="no" ed="#P" n="77"/>sius voluntatis consentanea; et ea quae est
+            <lb ed="#P" n="78"/>per amorem. est a charitate, quamvis per 
+            mo<lb break="no" ed="#P" n="79"/>dum naturae influente.
+          </p>
+          <p xml:id="szthvi-b63116-d1e1251">
+            <lb ed="#P" n="80"/>5. Quo sensu D. Thomas misericordiam 
+            prae<lb break="no" ed="#P" n="81"/>ferat charitati. — Ad divum igitur Thomam
+            <lb ed="#P" n="82"/>respondetur, non simpliciter, sed secundum
+            <lb ed="#P" n="83"/>quid praetulisse misericorliam charitati, eas
+            <lb ed="#P" n="84"/>secundum se considerando; quia charitas
+            <lb ed="#P" n="85"/>per se non dicit rationem superioris , sed
+            <lb ed="#P" n="86"/>est inter aequales: at misericordia . quia
+            <lb ed="#P" n="87"/>respicit miseriam , secundum se importat
+            <lb ed="#P" n="88"/>quamdam excellentiam, praecipue si 
+            intel<lb break="no" ed="#P" n="89"/>ligatur perfecta, et poteus perficere actum
+            <lb ed="#P" n="90"/>suum ; et quia hoc non requirit misericordia
+            <lb ed="#P" n="91"/>secundum nos, ant pront in nobis est, ideo, ut
+            <lb ed="#P" n="92"/>sic, nullo modo dicit superare charitatem. 
+            At<lb break="no" ed="#P" n="93"/>que hinc etiam fit ut per se Deo conveniat,
+            <lb ed="#P" n="94"/>aliis quasi per accidens; et praecipue id 
+            dici<lb break="no" ed="#P" n="95"/>tur comparando misericordiam ad interitum
+            <lb ed="#P" n="96"/>et punitionem, quia misereri oritur ab 
+            intrin<lb break="no" ed="#P" n="97"/>seco ex visceribus Dei, punire vero ab 
+            extrin<lb break="no" ed="#P" n="98"/>seco ex hominum meritis. Sed quaeres an 
+            sal<lb break="no" ed="#P" n="99"/>tem respectu fidei et spei misericordia 
+            sccun<lb break="no" ed="#P" n="100"/>dum se dici possit perfectior. Respondetur sine
+            <lb ed="#P" n="101"/>dubio superare illas in hoc, quod in proprio
+            <lb ed="#P" n="102"/>conceptu non includit imperfectionem , sed
+            <lb ed="#P" n="103"/>perfectionem simpliciter; fides vero er spes,
+            <lb ed="#P" n="104"/>propter modum tendendi in objectum, dicunt
+            <lb ed="#P" n="105"/>imperfectionem , et non possunt esse in Deo
+            <lb ed="#P" n="106"/>formaliter, in quo non solum a-misericordia,
+            <lb ed="#P" n="107"/>sed etiam a justitia et omnibus perfectionibus
+            <lb ed="#P" n="108"/>simpliciter superantur ; nihilominus tamen in
+            <lb ed="#P" n="109"/>nobis perfectiores sunt fides et spes, quia illa
+            <lb ed="#P" n="110"/>misericordiae ratio contracta est ad imperfec-
+            <pb ed="#P" n="664"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>tum statum, et aliunde illae excedunt in 
+            ob<lb break="no" ed="#P" n="2"/>jecti dignitate.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

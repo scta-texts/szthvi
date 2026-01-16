@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 15</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 15</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="399"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-a98000"><!-- l1-d15 -->
+        <head xml:id="szthvi-a98000-Hd1e101">Disputatio 15</head>
+        <head xml:id="szthvi-a98000-Hd1e103" type="question-title">De peccatis fidelium contra internum praeceptum fidei</head>
+        <p xml:id="szthvi-a98000-d1e106">
+          <lb ed="#P" n="80"/>DISPUTATIO XV.
+          <lb ed="#P" n="81"/>DE PECCATIS FIDELIUM CONTRA INTERNUM 
+          PRAECE<lb break="no" ed="#P" n="82"/>PTUM FIDEI.
+        </p>
+        <p xml:id="szthvi-a98000-d1e115">
+          <lb ed="#P" n="83"/>1. Quotuplex peccatum contra fidem 
+          inter<lb break="no" ed="#P" n="84"/>nam committi possit. —In preecedenti 
+          disputa<lb break="no" ed="#P" n="85"/>tione, propter materiae brevitatem et 
+          commo<lb break="no" ed="#P" n="86"/>ditatem simul disi de praecepto exterioris 
+          con<lb break="no" ed="#P" n="87"/>fessionis fidei, et de peccatis quibus violatur;
+          <lb ed="#P" n="88"/>in prioribus autem disputationibus, quamvis
+          <lb ed="#P" n="89"/>praecepta de interna fide explicuerim, tamen
+          <lb ed="#P" n="90"/>tractatum de peccatis contrariis, quia longam
+          <lb ed="#P" n="91"/>disputationem postulant, in hunc locum 
+          re<lb break="no" ed="#P" n="92"/>servavi. Peccatum autem contra fidem 
+          inter<lb break="no" ed="#P" n="93"/>nam duplex in genere distingui potest. Unum
+          <lb ed="#P" n="94"/>est ita repugnans ipsi fidei ut illam excludat,
+          <lb ed="#P" n="95"/>quod generali nomine infidelitas appellatur.
+          <lb ed="#P" n="96"/>Aliud est quod fidem non excludit; et 
+          hujus<lb break="no" ed="#P" n="97"/>modi vocamus peccatum, quod in homine 
+          fi<lb break="no" ed="#P" n="98"/>deli esse potest non solum divise (ut sic 
+          di<lb break="no" ed="#P" n="99"/>cam), sed etiam composite : nam primum
+          <lb ed="#P" n="100"/>peccatum infidelitatis etiam ab homine fideli
+          <lb ed="#P" n="101"/>committi potest; sic enim contingit fidelem
+          <lb ed="#P" n="102"/>hominem in haeresim labi, non tamen 
+          reti<lb break="no" ed="#P" n="103"/>nendo fidem, et ideo dicimus fidelem posse
+          <lb ed="#P" n="104"/>infidelitatem committere, non in sensu 
+          com<lb break="no" ed="#P" n="105"/>posito (ut aiunt), sed in diviso; nam qui erat
+          <lb ed="#P" n="106"/>fidelis potest infidelis fieri, amittit tamen fi-
+          <pb ed="#P" n="400"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>dem. Nunc autem peccata fidelium vocamus
+          <lb ed="#P" n="2"/>ea, quae sine amissione fidei, ac proinde in
+          <lb ed="#P" n="3"/>sensu composito in homine fideli esse possunt.
+          <lb ed="#P" n="4"/>Et de iis in praesenti disputatione tractamus,
+          <lb ed="#P" n="5"/>quia materia brevis est, ut postea latissimam
+          <lb ed="#P" n="6"/>materiam de infidelitate disputemus. Denique
+          <lb ed="#P" n="7"/>juxta duas obligationes praecepti fidei supra
+          <lb ed="#P" n="8"/>declaratas, affirmativam, scilicet, et 
+          negati<lb break="no" ed="#P" n="9"/>vam, dupliciter potest fidelis contra 
+          praece<lb break="no" ed="#P" n="10"/>ptum fidei peccare, scilicet, omittendo et 
+          com<lb break="no" ed="#P" n="11"/>mittendo, quae duo genera peccatorum 
+          brevi<lb break="no" ed="#P" n="12"/>ter explicabimus.
+        </p>
+        <div xml:id="szthvi-a98000-Dd1e200">
+          <head xml:id="szthvi-a98000-Hd1e202">Sectio 1</head>
+          <head xml:id="szthvi-a98000-Hd1e204" type="question-title">Quibus modis contra internum fidei praeceptum per omissionem peccatur, et specialiter de ignorantia</head>
+          <p xml:id="szthvi-a98000-d1e207">
+            <lb ed="#P" n="13"/>SECTIO I.
+            <lb ed="#P" n="14"/>Quibus modis contra internum fidei praeceptum
+            <lb ed="#P" n="15"/>per omissionem peccatur, et specialiter de
+            <lb ed="#P" n="16"/>ignorantia.
+          </p>
+          <p xml:id="szthvi-a98000-d1e218">
+            <lb ed="#P" n="17"/>1. Prima assertio : grave peccatum 
+            inter<lb break="no" ed="#P" n="18"/>dum committitur omittendo internum fidei 
+            ac<lb break="no" ed="#P" n="19"/>tun. — Ex praecepto fidei affirmativo duplex
+            <lb ed="#P" n="20"/>oritur obligatio, ut supra etiam dixi: una est
+            <lb ed="#P" n="21"/>ad exercendum debito tempore actum fidei;
+            <lb ed="#P" n="22"/>alia est ad sciendam materiam fidei, ut 
+            pos<lb break="no" ed="#P" n="23"/>sit suo tempore actus fidei circa illam 
+            exer<lb break="no" ed="#P" n="24"/>ceri, et contrarius actus vitari. Primo ergo
+            <lb ed="#P" n="25"/>dicendum est, interdum peccari graviter 
+            con<lb break="no" ed="#P" n="26"/>tra fidei obligationem, omittendo interiorem
+            <lb ed="#P" n="27"/>actum fidei quoad exercitium ejus; de hac 
+            as<lb break="no" ed="#P" n="28"/>sertione, seu de hoc genere peccati vix 
+            ali<lb break="no" ed="#P" n="29"/>quid in doctoribus invenitur, fortasse quia
+            <lb ed="#P" n="30"/>hoc peccatum nimis occultum est, tam 
+            ratio<lb break="no" ed="#P" n="31"/>ne actus interni cui opponitur, quam ratione
+            <lb ed="#P" n="32"/>temporis pro quo praeceptum fidet obligat ad
+            <lb ed="#P" n="33"/>exercitium actus, quod difficile designatur,
+            <lb ed="#P" n="34"/>ut supra etiam dixi, disp. 13, sectione 5,
+            <lb ed="#P" n="35"/>num. 6; vel etiam quia hoc peccatum raro
+            <lb ed="#P" n="36"/>committitur, ita ut sit speciale contra hoc
+            <lb ed="#P" n="37"/>praeceptum, quia obligatio exercendi actum
+            <lb ed="#P" n="38"/>fidei frequentius oritur ex aliis virtutibus, 
+            re<lb break="no" ed="#P" n="39"/>ligionis, peenitentiae, aut similium. Unde etiam
+            <lb ed="#P" n="40"/>fortasse factum est ut hoc peccatum non 
+            ba<lb break="no" ed="#P" n="41"/>beat speciale nomen impositum, quia revera
+            <lb ed="#P" n="42"/>non est ignorantia , de qua communiter 
+            lo<lb break="no" ed="#P" n="43"/>quuntur Doctores, nec est simpliciter carentia
+            <lb ed="#P" n="44"/>fidei, sed solum quidam non usus ejus pro
+            <lb ed="#P" n="45"/>certo temporis articulo.
+          </p>
+          <p xml:id="szthvi-a98000-d1e283">
+            <lb ed="#P" n="46"/>2. Hoc peccatum omissionis fidei est 
+            spe<lb break="no" ed="#P" n="47"/>ciale, et mortale em genere.—Sed nihilominus
+            <lb ed="#P" n="48"/>negari non potest quin hoc sit speciale 
+            pecca<lb break="no" ed="#P" n="49"/>tum omissionis contrarium fidei, et ex 
+            gene<lb break="no" ed="#P" n="50"/>re suo mortale. Probatur, quia certum est
+            <lb ed="#P" n="51"/>praeceptum fidei obligare ad exercitium sui
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="52"/>actus, ut supra visum est. Certum est etiam
+            <lb ed="#P" n="53"/>posse hominem voluntarie non exercere 
+            ta<lb break="no" ed="#P" n="54"/>lem actum tempore debito, quia hoc ex 
+            li<lb break="no" ed="#P" n="55"/>bertate hominis pendet ; ergo tunc illa 
+            omis<lb break="no" ed="#P" n="56"/>sio erit speciale peccatum contra virtutem
+            <lb ed="#P" n="57"/>fidei, quia est transgressio specialis praecepti
+            <lb ed="#P" n="58"/>ejus, et privatio moralis honesti actus tunc
+            <lb ed="#P" n="59"/>debiti. Quia vero hoc peccatum mere 
+            inter<lb break="no" ed="#P" n="60"/>num est, non habet peculiarem poenam 
+            im<lb break="no" ed="#P" n="61"/>positam, quia de hoc defectu constare 
+            Eccle<lb break="no" ed="#P" n="62"/>siae non potest, nisi quando simul peccatur in
+            <lb ed="#P" n="63"/>confessione fidei, et tunc non habet aliam
+            <lb ed="#P" n="64"/>poenam, nisi quae pro peccato commisso circa
+            <lb ed="#P" n="65"/>confessionem fidei imposita est. Unde circa
+            <lb ed="#P" n="66"/>hoc peccati genus nihil aliud notandum 
+            oc<lb break="no" ed="#P" n="67"/>currit ; nam ad cognoscendum illud, vel 
+            mul<lb break="no" ed="#P" n="68"/>tiplicationem ejus, solum sunt consideranda
+            <lb ed="#P" n="69"/>quae de tempore hujus obhgationis superius
+            <lb ed="#P" n="70"/>diximus, sect. 5 citata.
+          </p>
+          <p xml:id="szthvi-a98000-d1e343">
+            <lb ed="#P" n="71"/>3. Secunda assertio : peccatum grave est
+            <lb ed="#P" n="72"/>ignorare articulos fidei. quos em pracepto
+            <lb ed="#P" n="73"/>scire tenemur. — Quando possit esse solum
+            <lb ed="#P" n="74"/>ceniale. — Secundo, dicendum est etiam 
+            pec<lb break="no" ed="#P" n="75"/>cari graviter ignorando articulos fidei, quos
+            <lb ed="#P" n="76"/>ex praecepto scire tenemur, idque 
+            intelligen<lb break="no" ed="#P" n="77"/>dum est de tota materia quae sub praeceptum
+            <lb ed="#P" n="78"/>fidei cadit. Haec est assertio communis Doc
+            <lb ed="#P" n="79"/>torum, et certa. Ita Sylvester, verbo Scientia,
+            <lb ed="#P" n="80"/>numero unico; Angelus et Tabien., ibidem;
+            <lb ed="#P" n="81"/>Navar., capite 11, num. 22 ; Medin., libro 
+            se<lb break="no" ed="#P" n="82"/>cundo Summ., capite 7; ct Tolet. libro auarto
+            <lb ed="#P" n="83"/>Summae, capite 2, numero 10, et alii. 
+            Proba<lb break="no" ed="#P" n="84"/>tur, quia contra omne praeceptum 
+            affirma<lb break="no" ed="#P" n="85"/>tivum peccatur voluntarie omittendo actum
+            <lb ed="#P" n="86"/>ejus ; sed praeceptum fidei affirmativum vere
+            <lb ed="#P" n="87"/>obligat ad sciendam materiam fidei, cui 
+            scien<lb break="no" ed="#P" n="88"/>tiae per modum omissionis opponitur 
+            ignoran<lb break="no" ed="#P" n="89"/>tia, quam vocant negationis seu privationis,
+            <lb ed="#P" n="90"/>de qua nuuc loquimur; ergo talis ignorantia
+            <lb ed="#P" n="91"/>est speciale peccatum omissionis contra 
+            praecep<lb break="no" ed="#P" n="92"/>tum fidei. Unde etiam constat hoc peccatum esse
+            <lb ed="#P" n="93"/>mortale ex genere suo, ut omnes etiam docent.
+            <lb ed="#P" n="94"/>Et ratio est, quia praeceptum est gravissimum,
+            <lb ed="#P" n="95"/>et de re valde necessaria ad salutem; gravitas
+            <lb ed="#P" n="96"/>autem peccati ex gravitate materiae et 
+            prae<lb break="no" ed="#P" n="97"/>cepti judicanda est. Dico autem ex genere suo,
+            <lb ed="#P" n="98"/>quia intra suam speciem est mortale ; in 
+            in<lb break="no" ed="#P" n="99"/>dividuo autem potest esse veniale, vel ex levi
+            <lb ed="#P" n="100"/>negligentia , seu imperfecta deliberatione ,
+            <lb ed="#P" n="101"/>juxta ea quae paulo post dicam; vel ex levitate
+            <lb ed="#P" n="102"/>materiae, juxta supra dicta, disputatione 13.
+            <lb ed="#P" n="103"/>Nam ignorare, verbi gratia, substantiam 
+            mys<lb break="no" ed="#P" n="104"/>teriorum symboli, vel aliquid ex praecipuis
+            <lb ed="#P" n="105"/>illorum, materia gravis est; nescire autem
+            <lb ed="#P" n="106"/>ipsum Symbolum memoriter, vel ordinem
+            <pb ed="#P" n="401"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>articuli, vel Orationem Dominicam, vel etiam
+            <lb ed="#P" n="2"/>unum articulum minoris momenti, ut 
+            des<lb break="no" ed="#P" n="3"/>censum ad inferos, non est grave peccatum,
+            <lb ed="#P" n="4"/>quia illa materia communiter gravis non 
+            cen<lb break="no" ed="#P" n="5"/>setur; sicut etiam nescire signo crucis uti ad
+            <lb ed="#P" n="6"/>se signandum more Ecclesiae consueto, 
+            aliqua<lb break="no" ed="#P" n="7"/>lis certe culpa est. non tamen gravis, ut 
+            qui<lb break="no" ed="#P" n="8"/>dam nimis rigorose censent; erit ergo ad
+            <lb ed="#P" n="9"/>summum peccatum veniale, ut bene Sanchez
+            <lb ed="#P" n="10"/>cum aliis dixit, dicto libro secundo, cap. 3,
+            <lb ed="#P" n="11"/>num. 14; et juxta haec de ahis judicandum.
+          </p>
+          <p xml:id="szthvi-a98000-d1e452">
+            <lb ed="#P" n="12"/>4. Ignorantia articulorum fidei , quomodo
+            <lb ed="#P" n="13"/>sit speciale peccatum. —Duo vero supersunt
+            <lb ed="#P" n="14"/>explicanda circa hanc posteriorem 
+            assertio<lb break="no" ed="#P" n="15"/>nem. Primum est, quomodo possit haec 
+            igno<lb break="no" ed="#P" n="16"/>rantia esse speciale peccatum. Et ratio 
+            dubi<lb break="no" ed="#P" n="17"/>tandi est, primo, quia ignorantia non est
+            <lb ed="#P" n="18"/>omissio actus, sed habitus carentia ; 
+            pecca<lb break="no" ed="#P" n="19"/>tum autem omissionis esse debet in 
+            omissio<lb break="no" ed="#P" n="20"/>ne actus ; nam, s:cut habitus non potest esse
+            <lb ed="#P" n="21"/>peccatum commissionis ( quia de non 
+            haben<lb break="no" ed="#P" n="22"/>do habitu nullum est praceptum ), ita nec
+            <lb ed="#P" n="23"/>carentia habitus potest esse peccatum 
+            omis<lb break="no" ed="#P" n="24"/>sionis, ideoque peccatum definitur per actum,
+            <lb ed="#P" n="25"/>et D. Thomas addidit sub actu comprehendi
+            <lb ed="#P" n="26"/>carentiam actus. Secundo, quia ahas 
+            sequere<lb break="no" ed="#P" n="27"/>tur eum, qui aliquo tempore ignorat res 
+            fi<lb break="no" ed="#P" n="28"/>dei, continuo toto illo tempore peccare, quia
+            <lb ed="#P" n="29"/>continuo ignorat. Consequens est aperte 
+            fal<lb break="no" ed="#P" n="30"/>sum ; ergo. Tertio, quia videtur sequi eum,
+            <lb ed="#P" n="31"/>qui ignorat particulares articulos fidei, plura
+            <lb ed="#P" n="32"/>peccata committere , quia habet particuiares
+            <lb ed="#P" n="33"/>ignorantias ; privationes enim juxta pcsitivas
+            <lb ed="#P" n="34"/>formas multiplicantur; sed ilie particulares
+            <lb ed="#P" n="35"/>veritates ignorat ; ergo particulares 
+            ignoran<lb break="no" ed="#P" n="36"/>tias habet ; ergo plura peccata committit.
+            <lb ed="#P" n="37"/>Quarto, quia si ignorantia est peccatum, erit
+            <lb ed="#P" n="38"/>in intellectu; unde si sit in materia fidei,
+            <lb ed="#P" n="39"/>erit quidem ejus carentia ; ergo erit 
+            quae<lb break="no" ed="#P" n="40"/>dam infidelitas; sed nulla infidelitas potest
+            <lb ed="#P" n="41"/>esse simul cum fide; ergo nec tale peccatum
+            <lb ed="#P" n="42"/>potest esse in homine fideli.
+          </p>
+          <p xml:id="szthvi-a98000-d1e522">
+            <lb ed="#P" n="43"/>D. An ignorantia secundum se sit 
+            pecca<lb break="no" ed="#P" n="44"/>tum. — In quo subjecto sit peccatum 
+            ignoran<lb break="no" ed="#P" n="45"/>tie. — In qua carentia foraliter consistat
+            <lb ed="#P" n="46"/>hec ignorantia. — Hae objectiones 
+            proponun<lb break="no" ed="#P" n="47"/>tur, ut, per occasionem earum, nonnulia, quae
+            <lb ed="#P" n="48"/>ad hoc peccatum pertinent, explicemus. in
+            <lb ed="#P" n="49"/>prima petitur generalis quaestio, an 
+            ignoran<lb break="no" ed="#P" n="50"/>tia secundum se sit peccatum, vel tantum 
+            pro<lb break="no" ed="#P" n="51"/>pter antecedentem negligentiam , ipsa vero
+            <lb ed="#P" n="52"/>ignorantia potius sit eliectus peccati. Quam
+            <lb ed="#P" n="53"/>dubitationem tractant Theologi, prima 
+            secun<lb break="no" ed="#P" n="54"/>dae, quaestione 76, articulo 2, et in 2 sentent.,
+            <lb ed="#P" n="55"/>dist. 22, ubi Durandus, quaestione 2, docet
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>peccatum ignorantiae consistere in sola 
+            negli<lb break="no" ed="#P" n="57"/>gentia ; et favet non parum D. Thomas dicto
+            <lb ed="#P" n="58"/>articulo 2, ubi etiam Conradus et Cajetanus.
+            <lb ed="#P" n="59"/>Et late defendit hanc sententiam Vasquez ibi,
+            <lb ed="#P" n="60"/>disputatione 118, capite 2; et Corduba, in
+            <lb ed="#P" n="61"/>Quaestionario, lib. 2, quaest. 6. Praecipua ratio
+            <lb ed="#P" n="62"/>est supra facta, quod ignorantia est privatio
+            <lb ed="#P" n="63"/>habitus. Alii nihilominus docent ignorantiam
+            <lb ed="#P" n="64"/>secundum se esse peccatum , quod videtur
+            <lb ed="#P" n="65"/>esse communius Doctorum, quos dicti auctores
+            <lb ed="#P" n="66"/>late referunt, et potest suaderi, quia 
+            pecca<lb break="no" ed="#P" n="67"/>tum ignorantiae est in intellectu, negligentia
+            <lb ed="#P" n="68"/>autem non est in intellectu, sed in voluntate.
+            <lb ed="#P" n="69"/>Tamen, ut existimo, haec controversia facile
+            <lb ed="#P" n="70"/>componi potest, si in verbo ignorantia non
+            <lb ed="#P" n="71"/>sit aequivocatio. Advertendum est ergo, ex
+            <lb ed="#P" n="72"/>divo Thoma, in illo articulo secundo, ad 
+            ter<lb break="no" ed="#P" n="73"/>tium, quod sicut peccatum commissionis non
+            <lb ed="#P" n="74"/>est tantum in actu voluntatis, sed etiam in
+            <lb ed="#P" n="75"/>actu exteriori volito, et prohibito, ita 
+            omis<lb break="no" ed="#P" n="76"/>sionis peccatum, quod extra voluntatem 
+            con<lb break="no" ed="#P" n="77"/>summatur, non est tantum in voluntate, sed
+            <lb ed="#P" n="78"/>etiam in carentia actus praecepti; et ideo
+            <lb ed="#P" n="79"/>tale peecatum, ut est externum, id est, exira
+            <lb ed="#P" n="80"/>voluntatem, in ea potentia est subjective ad
+            <lb ed="#P" n="81"/>quam pertinet actus praeceptus, licet 
+            causau<lb break="no" ed="#P" n="82"/>ter sit in voluntate, ut de ignorantia expresse
+            <lb ed="#P" n="83"/>disit D. Thomas, in 9, dist. 29 quast 2
+            <lb ed="#P" n="84"/>art. 1, ad primum. Quamvis ergo formale
+            <lb ed="#P" n="85"/>peccatum ignorantia sit in voluntate 
+            igno<lb break="no" ed="#P" n="86"/>randi, exterba autem omissio, quae est 
+            pro<lb break="no" ed="#P" n="87"/>prium peccatum ignorantia, in alia potentia
+            <lb ed="#P" n="88"/>esse debet. Et hinc recte concluditur 
+            igno<lb break="no" ed="#P" n="89"/>rantiam esse in intellectu tanquam in 
+            subjec<lb break="no" ed="#P" n="90"/>to, et hoc recte docet posterior sententia.
+            <lb ed="#P" n="91"/>Addendum vero utterius est, hoc peccatum
+            <lb ed="#P" n="92"/>formaliter non consisterc in carentia 
+            habitua<lb break="no" ed="#P" n="93"/>lis scientiae ; nam, ut recte dixit divus 
+            Tho<lb break="no" ed="#P" n="94"/>mas, in 2, ubi supra ad secundum et tertium,
+            <lb ed="#P" n="95"/>hoc peccatum actuale est, et ideo debet 
+            con<lb break="no" ed="#P" n="96"/>sistere in privatione actus, non in carentia
+            <lb ed="#P" n="97"/>habitus. Praeterea, supra diximus, disp. 13,
+            <lb ed="#P" n="98"/>sect. 5, num. 9, praeceptum sciendi res fidei
+            <lb ed="#P" n="99"/>non dari de habituali scientia seu memoria,
+            <lb ed="#P" n="100"/>sed de actibus quibus illa acquiritur; 
+            pecca<lb break="no" ed="#P" n="101"/>tum autem omissionis consistit in carentia
+            <lb ed="#P" n="102"/>ejus, quod praeceptum est; ergo haec 
+            omis<lb break="no" ed="#P" n="103"/>sio, quae est ignorantia, in carentia actus 
+            con<lb break="no" ed="#P" n="104"/>sistit ; in hoc ergo recte dixit prior sententia.
+            <lb ed="#P" n="105"/>Ex his vero tandem concluditur hoc 
+            pecca<lb break="no" ed="#P" n="106"/>tum formaliter esse ignorantiam quamdam
+            <lb ed="#P" n="107"/>actualem, quae vocari solet inscitia, quia est
+            <lb ed="#P" n="108"/>carentia illorum actuum intellectus, qui ad
+            <lb ed="#P" n="109"/>scientiam, seu cognitionem fidei necessarii
+            <lb ed="#P" n="110"/>sunt. Et hoc modo dixit D. Thomas in prima
+            <pb ed="#P" n="402"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>secundae, dicto articulo secundo, ad tertium,
+            <lb ed="#P" n="2"/>ignorantiam, quae est peccatum, consistere in
+            <lb ed="#P" n="3"/>negligentia, vel inscitia. Ex quibus duobus
+            <lb ed="#P" n="4"/>hoc secundum mihi magis placet ; quia 
+            igno<lb break="no" ed="#P" n="5"/>rantia pertinet proprie ad intellectum, 
+            ne<lb break="no" ed="#P" n="6"/>gligentia enim, ut dixi, magis videtur 
+            spec<lb break="no" ed="#P" n="7"/>tare ad voluntatem, vel ad aliquas actiones
+            <lb ed="#P" n="8"/>corporis necessarias ad considerationem 
+            men<lb break="no" ed="#P" n="9"/>tis, quarum omissio tunc nomen negligentiae
+            <lb ed="#P" n="10"/>meretur, quando voluntaria est.
+          </p>
+          <p xml:id="szthvi-a98000-d1e700">
+            <lb ed="#P" n="11"/>6. An semper is peccet, qui sua culpa 
+            igno<lb break="no" ed="#P" n="12"/>rat quod scire tenetur. — lu secunda 
+            objectio<lb break="no" ed="#P" n="13"/>ne, petitur an semper peccet is qui culpabiliter
+            <lb ed="#P" n="14"/>ignorat. Ad quod respo ;det D. Thomas, 
+            quaes<lb break="no" ed="#P" n="15"/>tione tertia de Malo, articulo primo, ad 
+            duo<lb break="no" ed="#P" n="16"/>decimum, non semper peccare, quod est 
+            evi<lb break="no" ed="#P" n="17"/>dens. Primo, quia non semper talis homo 
+            co<lb break="no" ed="#P" n="18"/>gitat nec advertit seignorare ; sine advertentia
+            <lb ed="#P" n="19"/>autem non est peccatum, utique actnale. 
+            Dein<lb break="no" ed="#P" n="20"/>de licet proaliquo tempore advertat, non 
+            sem<lb break="no" ed="#P" n="21"/>per pro eolem tempore tenetur occupari in
+            <lb ed="#P" n="22"/>addiscenda fide, quia praeceptum discendi,
+            <lb ed="#P" n="23"/>quod affirmativum est, non obligat semper, et
+            <lb ed="#P" n="24"/>pro semper, sed temporibus opportunis; ac 
+            de<lb break="no" ed="#P" n="25"/>nique fieri potest ut occurrat tempus et 
+            co<lb break="no" ed="#P" n="26"/>gitatio obligationis, et desit doctor, et tunc
+            <lb ed="#P" n="27"/>etiam homo non peccabit propter 
+            impoten<lb break="no" ed="#P" n="28"/>tiam discendi. Si tamen haec tria occurrant,
+            <lb ed="#P" n="29"/>et nihilominus homo sit negligens, tunc actu.
+            <lb ed="#P" n="30"/>peccabit ; et quoties id omiserit, toties 
+            pec<lb break="no" ed="#P" n="31"/>cata multiplicabit, si inter unum et aliud 
+            pec<lb break="no" ed="#P" n="32"/>catum moralis interruptio intercesserit, sicut
+            <lb ed="#P" n="33"/>dicere solent Theologi de peccato non 
+            res<lb break="no" ed="#P" n="34"/>tituendi, seu de retentione rei alienae, et 
+            simi<lb break="no" ed="#P" n="35"/>libus.
+          </p>
+          <p xml:id="szthvi-a98000-d1e757">
+            <lb ed="#P" n="36"/>7. Utrum peccatum ignorantie rerum fidei
+            <lb ed="#P" n="37"/>multiplicetur ad multiplicationem materiee.—
+            <lb ed="#P" n="38"/>In tertia objectione, petitur an haec peccata
+            <lb ed="#P" n="39"/>multiplicentur ex parte materiae, quia multa
+            <lb ed="#P" n="40"/>sunt quae ignorantur. Ad quod breviter 
+            res<lb break="no" ed="#P" n="41"/>pondeo, si hoc peccatum consideretur praecise,
+            <lb ed="#P" n="42"/>ut est contra praeceptum fidei, non 
+            multipli<lb break="no" ed="#P" n="43"/>cari ex hoc capite, quia praeceptum est unum,
+            <lb ed="#P" n="44"/>et tota illa materia per modum unius 
+            praecipi<lb break="no" ed="#P" n="45"/>tur; et ideo omissio etiam est una, quae potest
+            <lb ed="#P" n="46"/>essc gravior, vel minus gravis, juxta 
+            exten<lb break="no" ed="#P" n="47"/>sionem materiae. Est optimum exemplum in
+            <lb ed="#P" n="48"/>praecepto recitandi septem horas canonicas;
+            <lb ed="#P" n="49"/>nam omissio illarum unum est peccatum,
+            <lb ed="#P" n="50"/>juxta communem sententiam, propter 
+            ratio<lb break="no" ed="#P" n="51"/>nem dictam; ita ergo est in praesenti. Dixi
+            <lb ed="#P" n="52"/>autem: Ut preecise est contra preeceptum (idei ;
+            <lb ed="#P" n="53"/>nam si per ordinem ad alias virtutes 
+            ignoran<lb break="no" ed="#P" n="54"/>tia hujus vei illius rei sit peccatum, sic juxta
+            <lb ed="#P" n="55"/>diversitatem virtutum poterunt multiplicari
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>peccata, quia tunc etiam praecepta 
+            multipli<lb break="no" ed="#P" n="57"/>cantur, ut ex praecepto castitatis tenetur quis
+            <lb ed="#P" n="58"/>scire fornicationem esse malam ; ex praecepto
+            <lb ed="#P" n="59"/>vero justitiae, furtum esse malum, et sic de
+            <lb ed="#P" n="60"/>caeteris.
+          </p>
+          <p xml:id="szthvi-a98000-d1e816">
+            <lb ed="#P" n="61"/>8. Quomodo ignorantia fidei distinguatur
+            <lb ed="#P" n="62"/>a peccato infidelitatis. — In quarta objectione,
+            <lb ed="#P" n="63"/>postulatur quomodo differat hoc peccatum a
+            <lb ed="#P" n="64"/>peccato infidelitatis ; potest enim aliquis 
+            co<lb break="no" ed="#P" n="65"/>gitare, distingui tanquam omissionem a 
+            com<lb break="no" ed="#P" n="66"/>missione, quia hoc peccatum consistit in 
+            igno<lb break="no" ed="#P" n="67"/>rantia negationis, ut diximus ; infidelitas 
+            au<lb break="no" ed="#P" n="68"/>tem videtur consistere in ignorantia pravae
+            <lb ed="#P" n="69"/>dispositionis, seu erroris. Sed non est 
+            adae<lb break="no" ed="#P" n="70"/>quata distinctio, quia potest dari infidelitas,
+            <lb ed="#P" n="71"/>quae sit etiam cmissio, unde distingui possunt
+            <lb ed="#P" n="72"/>tanquam omissio partialis et totalis. Sed 
+            con<lb break="no" ed="#P" n="73"/>tra hoc procedit ohjectio facta, quia tune haec
+            <lb ed="#P" n="74"/>omissio esset quaedam infidelitas saltem 
+            par<lb break="no" ed="#P" n="75"/>tialis. Unde dicendum videtur distingui haec
+            <lb ed="#P" n="76"/>duo, quia infidehtas directe et formaliter 
+            op<lb break="no" ed="#P" n="77"/>ponitur ipsi fidei, unde privat honestate 
+            cre<lb break="no" ed="#P" n="78"/>dendi et pia affectione ad fidem certam et
+            <lb ed="#P" n="79"/>infallibilem : haec vero ignorantia, de qua
+            <lb ed="#P" n="80"/>loquimur , non opponitur directe fidei, sed
+            <lb ed="#P" n="81"/>cuidam praeparationi ad fidem ( ut sic dicam)
+            <lb ed="#P" n="82"/>scilicet , scientiae , seu apprehensioni 
+            mate<lb break="no" ed="#P" n="83"/>riae, quae necessaria est ad usum fidei, et ideo
+            <lb ed="#P" n="84"/>formaliter non excludit piam affectionem ad
+            <lb ed="#P" n="85"/>fidem, ut talis est, neque etiam tollit 
+            certi<lb break="no" ed="#P" n="86"/>tudinem ac firmitatem circa ea quae sciuntur
+            <lb ed="#P" n="87"/>et creduntur, et ideo talis ignorantia nulla 
+            in<lb break="no" ed="#P" n="88"/>fidelitas est.
+          </p>
+          <p xml:id="szthvi-a98000-d1e880">
+            <lb ed="#P" n="89"/>9. An ignorantia mysteriorum fidei possit esse
+            <lb ed="#P" n="90"/>in homine fideli invincibilis. —Prima sententia
+            <lb ed="#P" n="91"/>negat.— Probatur primo.— Secundo.— Tertio.
+            <lb ed="#P" n="92"/>— Secundo explicandum est, an haec 
+            ignoran<lb break="no" ed="#P" n="93"/>tia in homine fideli possit esse invincibihs, et
+            <lb ed="#P" n="94"/>a culpa excusari. Aliqui Theologi sentiunt,
+            <lb ed="#P" n="95"/>nunquam posse hanc ignorantiam excusari a
+            <lb ed="#P" n="96"/>peccato: D. Bonaventura, in 3, distinct. 25, 
+            ar<lb break="no" ed="#P" n="97"/>ticulo primo, quaesticne tertia; Gabriel, 
+            arti<lb break="no" ed="#P" n="98"/>culo secundo, post quintam conclusionem ; et
+            <lb ed="#P" n="99"/>Durandus, quaestione prima ; idemque sentiunt
+            <lb ed="#P" n="100"/>Sylvester, et Angel., verbo 7/gnorantia; et
+            <lb ed="#P" n="101"/>tenuit etiam Gloss., in capite primo de 
+            Sum<lb break="no" ed="#P" n="102"/>ma Trinitate, in sexto, verbo 7gnorantia. 
+            Fun<lb break="no" ed="#P" n="103"/>damentum est, quia unusquisque tenetur scire
+            <lb ed="#P" n="104"/>ea quae ad suum statum pertinent, nec in illis
+            <lb ed="#P" n="105"/>cadere potest ignorantia invincibilis; sed haec
+            <lb ed="#P" n="106"/>scientia rerum fidei, de qua tractamus, pertinet
+            <lb ed="#P" n="107"/>ad statum Christianum, quem nullus fidelis
+            <lb ed="#P" n="108"/>ignorare potest ; ergo ncque etiam potest 
+            excu<lb break="no" ed="#P" n="109"/>sari de ignorantia illarum rerum, quae ad hunc
+            <lb ed="#P" n="110"/>statum generaliter pertinent. Secundo, quia si
+            <pb ed="#P" n="403"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>homo faciat quod in se est, Deus illuminabit
+            <lb ed="#P" n="2"/>illum, vel providebit modum quo ignorantiam
+            <lb ed="#P" n="3"/>depellat. Propter quam rationem aliqui 
+            existi<lb break="no" ed="#P" n="4"/>mant etiam in infidelibus non posse hanc 
+            igno<lb break="no" ed="#P" n="5"/>rantiam esse invincibilem ; ergo multo minus
+            <lb ed="#P" n="6"/>esse poterit in fidelibus. Tertio, quia articuli
+            <lb ed="#P" n="7"/>tidei solemni ritu celebrantur ab Ecclesia, et
+            <lb ed="#P" n="8"/>feruntur in ore omnium; quomodo ergo 
+            pos<lb break="no" ed="#P" n="9"/>sunt ab aliquo fideli invincibiliter ignorari?
+            <lb ed="#P" n="10"/>Propter quam rationem videtur in hanc 
+            sen<lb break="no" ed="#P" n="11"/>tentiam inclinasse D. Thomas, 1 ad Corinth.
+            <lb ed="#P" n="12"/>11, lect. 4.
+          </p>
+          <p xml:id="szthvi-a98000-d1e961">
+            <lb ed="#P" n="13"/>10. Resolutio quaestionis affirmativa. — 
+            Ni<lb break="no" ed="#P" n="14"/>hilominus dicenium est hanc ignorantiam 
+            ali<lb break="no" ed="#P" n="15"/>quando esse posse inculpabilem. Ita sentiunt
+            <lb ed="#P" n="16"/>communiter moderni scriptores: Navar., 
+            ca<lb break="no" ed="#P" n="17"/>pite undecimo, numero 22; Vasquez, Azor, et
+            <lb ed="#P" n="18"/>alii, quos retert et sequitur Sanchez, libro 
+            se<lb break="no" ed="#P" n="19"/>cundo, capite tertio, num. 20. Ratio est, quia
+            <lb ed="#P" n="20"/>ignorantia non est culpa, nisi sit voluntaria;
+            <lb ed="#P" n="21"/>haee autem etiam in homine fideli potest esse
+            <lb ed="#P" n="22"/>multis modis involuntaria circa unum vel 
+            alte<lb break="no" ed="#P" n="23"/>rum fidei articulum, vel etiam circa plures.
+            <lb ed="#P" n="24"/>Primo, quia ipsamet obligatio sciendi tales 
+            ar<lb break="no" ed="#P" n="25"/>ticulos potest ignorari; fieri enim potest ut
+            <lb ed="#P" n="26"/>multi fideles nunquam fuerint de hac 
+            obliga<lb break="no" ed="#P" n="27"/>tione edocti, neque in eorum mentem talis 
+            co<lb break="no" ed="#P" n="28"/>gnitio ascenderit, quod est optimum signum
+            <lb ed="#P" n="29"/>ignorantiae invincibilis ; ignorata vero 
+            obliga<lb break="no" ed="#P" n="30"/>tione sciendi, consequenter excusatur a culpa
+            <lb ed="#P" n="31"/>neglgentia discendi, et consequenter etiam
+            <lb ed="#P" n="32"/>ignorantia. Secundo, fieri potest ut aliquis
+            <lb ed="#P" n="33"/>sciens obligationem caruerit doctore, etiamsi
+            <lb ed="#P" n="34"/>illum diligenter quaesiverit, de qua diligentia,
+            <lb ed="#P" n="35"/>quanta esse debeat, prudenti arbitrio 
+            relin<lb break="no" ed="#P" n="36"/>quendum est, et fieri optime potest ut talis 
+            ho<lb break="no" ed="#P" n="37"/>mo judicet prudenter se fecisse quod moraliter
+            <lb ed="#P" n="38"/>poterat. Tertio, saepe contingit ut, licet aliquis
+            <lb ed="#P" n="39"/>habeat doctorem, propter incapacitatem non
+            <lb ed="#P" n="40"/>addiscat, neque percipiat ea quae traduntur;
+            <lb ed="#P" n="41"/>quam excusationem aliqui admittere recusant,
+            <lb ed="#P" n="42"/>quia cum fides sit necessaria ut medium, non
+            <lb ed="#P" n="43"/>videtur admittenda incapacitas ejus in aliquo
+            <lb ed="#P" n="44"/>homine adulto. Dico tamen in multis esse
+            <lb ed="#P" n="45"/>posse sufficientem et maximam excusationem,
+            <lb ed="#P" n="46"/>praesertim in rebus obscurioribus fidei, quod
+            <lb ed="#P" n="47"/>ipsa experientia satis docet. Neque tota fides
+            <lb ed="#P" n="48"/>quae praecipitur est necessaria necessitate 
+            me<lb break="no" ed="#P" n="49"/>dii: imo, ut supra dixi, aliqua sunt necessaria
+            <lb ed="#P" n="50"/>necessitate medii, quae non semper in re 
+            pos<lb break="no" ed="#P" n="51"/>tulantur,. sed sufficere possunt in voto. Unde,
+            <lb ed="#P" n="52"/>licet verum sit nullum adultum esse 
+            incapa<lb break="no" ed="#P" n="53"/>cem totius fidei actualis, nihilominus multa
+            <lb ed="#P" n="54"/>mysteria fidei possunt aliquibus esse ita 
+            obscu<lb break="no" ed="#P" n="55"/>ra ad percipiendum, ut facile in illorum igno-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>rantia a culpa excusentur. Et hinc fortasse 
+            ali<lb break="no" ed="#P" n="57"/>qui excusant ab hac culpa omnes pueros ante
+            <lb ed="#P" n="58"/>pubertatem, et ideo dicunt pro illo tempore
+            <lb ed="#P" n="59"/>non obligari hoc praecepto; sed non es: vera
+            <lb ed="#P" n="60"/>regula, nec fundata in jure, nec est juxta 
+            con<lb break="no" ed="#P" n="61"/>suetudinem Ecclesiae, ideoque non potest aetas
+            <lb ed="#P" n="62"/>assignari, sed capacitas prudenti judicio 
+            spec<lb break="no" ed="#P" n="63"/>tanda est.
+          </p>
+          <p xml:id="szthvi-a98000-d1e1076">
+            <lb ed="#P" n="64"/>11. Solvuntur argumenta. — Ad primum.—
+            <lb ed="#P" n="65"/>Ad secundum.— Ad tertium.— Uud facile 
+            pa<lb break="no" ed="#P" n="66"/>tet responsio ad rationes contrariae sentontiae.
+            <lb ed="#P" n="67"/>Ad primam., dicitur aliquando posse cadere
+            <lb ed="#P" n="68"/>ignorantiam invincibilem in his quae 
+            perti<lb break="no" ed="#P" n="69"/>nent ad statum, quia vel obligatio earum 
+            re<lb break="no" ed="#P" n="70"/>rum potest etiam ignorari, ut dixi, vel exaliis
+            <lb ed="#P" n="71"/>capitibus jam insinuatis, quod maxime 
+            acci<lb break="no" ed="#P" n="72"/>dere potest in hominibus rasticis et 
+            simplici<lb break="no" ed="#P" n="73"/>bus, ut est communis turba fidelium. Ad 
+            se<lb break="no" ed="#P" n="74"/>cundam, dicitur etiam falsam esse illam 
+            sen<lb break="no" ed="#P" n="75"/>tentiam de infidelibus, ut iufra dicemus, et 
+            il<lb break="no" ed="#P" n="76"/>lam regulam de faciente quod in se est, non
+            <lb ed="#P" n="77"/>habere hic locum, quia haec scientia, de qua
+            <lb ed="#P" n="78"/>iractamus, non est necessaria simpliciter ad
+            <lb ed="#P" n="79"/>salutem necessitate medii iu re ipsa adhibendi,
+            <lb ed="#P" n="80"/>ui dixi. Ad tertiam, dico recte illo argumento
+            <lb ed="#P" n="81"/>probari hanc ignorantiam raram esse, 
+            praeser<lb break="no" ed="#P" n="82"/>tim iuter Christianos, qui in communitate 
+            et<lb break="no" ed="#P" n="83"/>dehum vivunt, et communiter iustruuntur; in
+            <lb ed="#P" n="84"/>quo sensu locutus est ibi D. Thomas; non 
+            ta<lb break="no" ed="#P" n="85"/>men probat talem excusationem esse absolutc
+            <lb ed="#P" n="86"/>impossibilem.
+          </p>
+        </div>
+        <div xml:id="szthvi-a98000-Dd1e1130">
+          <head xml:id="szthvi-a98000-Hd1e1132">Sectio 2</head>
+          <head xml:id="szthvi-a98000-Hd1e1134" type="question-title">An possit esse in homine fideli peccatum commissionis contra hoc praeceptum fidei</head>
+          <p xml:id="szthvi-a98000-d1e1137">
+            <lb ed="#P" n="87"/>SECTIO II
+            <lb ed="#P" n="88"/>An possit esse in homine fideli peccatum 
+            com<lb break="no" ed="#P" n="89"/>missionis contra hoc praeceptum fidei.
+          </p>
+          <p xml:id="szthvi-a98000-d1e1146">
+            <lb ed="#P" n="90"/>1. Richardi opinio de peccato commissionis
+            <lb ed="#P" n="91"/>contra praecepta fidei. Richardus in secundo,
+            <lb ed="#P" n="92"/>distinct. 22, articulo secundo, quaest. secunda,
+            <lb ed="#P" n="93"/>etiam in ipsa ignorantia distinguit peccatum
+            <lb ed="#P" n="94"/>omissionis et commissionis : nam ignorantiam
+            <lb ed="#P" n="95"/>affectatam, commissionem vocat; 
+            ignoran<lb break="no" ed="#P" n="96"/>tiam autem crassam aut supinam, omissionem
+            <lb ed="#P" n="97"/>appellat ; utique distinguens illa duo 
+            pecca<lb break="no" ed="#P" n="98"/>torum genera ex actu voluntatis. Nos autem
+            <lb ed="#P" n="99"/>supponimus potius distingui commissionem
+            <lb ed="#P" n="100"/>ab omissione ex actu volito, quam ex actu
+            <lb ed="#P" n="101"/>volendi ; nam omittere sacrum, etiamsi 
+            direc<lb break="no" ed="#P" n="102"/>to voluntatis actu sit voluntarium, peccatum
+            <lb ed="#P" n="103"/>omissionis est, ut suppono ex 1. 2, ideoque
+            <lb ed="#P" n="104"/>in praesenti omnem ignorantiam negationis,
+            <lb ed="#P" n="105"/>quomodocunque voluntaria sit, omissionem
+            <lb ed="#P" n="106"/>appellamus; peccatum ergo commissionis
+            <pb ed="#P" n="404"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>contra fidem solum esse potest in ignorantia,
+            <lb ed="#P" n="2"/>quam appellant pravae dispositionis, et in actu
+            <lb ed="#P" n="3"/>positivo intellectus consistit : duplex autem
+            <lb ed="#P" n="4"/>potest esse in praesenti, scilicet, vel aliquis 
+            er<lb break="no" ed="#P" n="5"/>ror contra fidem, vel deliberata dubitatio
+            <lb ed="#P" n="6"/>fidei ; nam haec etiam vel formaliter, vel 
+            vir<lb break="no" ed="#P" n="7"/>tualiter includit assensum de incertitudine
+            <lb ed="#P" n="8"/>fidei.
+          </p>
+          <p xml:id="szthvi-a98000-d1e1207">
+            <lb ed="#P" n="9"/>2. Ratio dubitandi pro parte negativa 
+            quaes<lb break="no" ed="#P" n="10"/>tionis. — Hinc ergo nascitur ratio dubitandi
+            <lb ed="#P" n="11"/>in praesenti puncto; aut enim judicium 
+            con<lb break="no" ed="#P" n="12"/>tra veritatem vel contra certitudinem fidei,
+            <lb ed="#P" n="13"/>est voluntarium, vel involuntarium : si 
+            in<lb break="no" ed="#P" n="14"/>voluntarium, nullum est peccatum, ac 
+            proin<lb break="no" ed="#P" n="15"/>de, etiamsi sit in homine fideli, non potest
+            <lb ed="#P" n="16"/>dici peceatum ejus, nisi valde materialiter;
+            <lb ed="#P" n="17"/>si vero sit voluntarium , erit quidem 
+            pec<lb break="no" ed="#P" n="18"/>catum commissionis contra fidem, non 
+            ta<lb break="no" ed="#P" n="19"/>men erit hominis fidelis : quia, ut supra dixi,
+            <lb ed="#P" n="20"/>illud vocamus peccatum fidelis hominis, quod
+            <lb ed="#P" n="21"/>non constituit illum formaliter infidelem, 
+            ne<lb break="no" ed="#P" n="22"/>que fidem expellit; hoc autem peccatum per
+            <lb ed="#P" n="23"/>se ac formaliter facit hominem infidelem,
+            <lb ed="#P" n="24"/>quia fidem expellit ; ad expellendam enim 
+            fi<lb break="no" ed="#P" n="25"/>dem unus actus erroris sufficit, ut communiter
+            <lb ed="#P" n="26"/>asseritur, et in superioribus tactum est.
+          </p>
+          <p xml:id="szthvi-a98000-d1e1250">
+            <lb ed="#P" n="27"/>3. Prima assertio : cum peccato 
+            commis<lb break="no" ed="#P" n="28"/>sionis contra fidem stare potest fides in homine
+            <lb ed="#P" n="29"/>fideli — Nihilominus dicendum est posse in
+            <lb ed="#P" n="30"/>homine habente fidem, et retinente illam, 
+            in<lb break="no" ed="#P" n="31"/>veniri peccatum contra praeceptum fidei per
+            <lb ed="#P" n="32"/>errorem positivum commissum, quod in hac
+            <lb ed="#P" n="33"/>materia peccatum commissionis appellamus.
+            <lb ed="#P" n="34"/>Haec assertio latius probanda est iufra 
+            tractan<lb break="no" ed="#P" n="35"/>do de haeresi, et ibi constabit esse communem
+            <lb ed="#P" n="36"/>Scholasticorum. Nunc ergo probatur breviter
+            <lb ed="#P" n="37"/>ex dictis in sectione praecedenti, quia fidelis
+            <lb ed="#P" n="38"/>potest ignorare culpabiliter aliquas veritates
+            <lb ed="#P" n="39"/>fidei : ergo cum illa ignorantia potest vel de
+            <lb ed="#P" n="40"/>ilis dubitare, vel etiam contrariis 
+            proposi<lb break="no" ed="#P" n="41"/>tiouibus assentire, quia quod ignoratur potest
+            <lb ed="#P" n="42"/>etiam incertum judicari, et contrarium potest
+            <lb ed="#P" n="43"/>sub aliqua ratione apparente vel humana 
+            au<lb break="no" ed="#P" n="44"/>ctcritate repraesentari, et ideo potest homo 
+            as<lb break="no" ed="#P" n="45"/>sentire : tunc autem ille assensus non est sine
+            <lb ed="#P" n="46"/>aliqua culpa; ergo ex culpabili ignorantia
+            <lb ed="#P" n="47"/>procedit. Est ergo illud peccatum commissio
+            <lb ed="#P" n="48"/>nis; nam, licet ignorantia sit omissio, operari
+            <lb ed="#P" n="49"/>ex Ignorantia est commissio; hoc ergo 
+            pecca<lb break="no" ed="#P" n="50"/>tum in homine fideli inveniri potest ; tale 
+            au<lb break="no" ed="#P" n="51"/>tem peccaturm non suflicit ad excludendam
+            <lb ed="#P" n="52"/>lidem, quia non estex pertinacia, sed ex 
+            igno<lb break="no" ed="#P" n="53"/>rantia, vel inadvertentia culpabili, et ideo
+            <lb ed="#P" n="54"/>non est haeresis, seu infidelitas propria, quae
+            <lb ed="#P" n="55"/>sola fidem excludit. Potest ergo hoc peccatum
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>commissionis inveniri in homine fideli, 
+            re<lb break="no" ed="#P" n="57"/>tenta fide.
+          </p>
+          <p xml:id="szthvi-a98000-d1e1322">
+            <lb ed="#P" n="58"/>A. An possit dari error in fide in homine
+            <lb ed="#P" n="59"/>fideli sine ulla culpa.—Opinio Altisiodorensis.
+            <lb ed="#P" n="60"/>— Aliorum sententia.— Inquiri etiam potest,
+            <lb ed="#P" n="61"/>an e contrario possit talis error inveniri in
+            <lb ed="#P" n="62"/>homine fideli sine ulla culpa. Nam Altisiodor.;
+            <lb ed="#P" n="63"/>libro 3 Summ., tract. 3, capite 2, quaestione
+            <lb ed="#P" n="64"/>tertia, circa finem, simpliciter negat; et 
+            po<lb break="no" ed="#P" n="65"/>tuit fundari, quia si talis error procedit ex
+            <lb ed="#P" n="66"/>ignorantia vincibili, peccatum est, ut diximus;
+            <lb ed="#P" n="67"/>si vero procedit ex ignorantia inculpabili,
+            <lb ed="#P" n="68"/>etiam hoc modo non excusatur a culpa 
+            cujus<lb break="no" ed="#P" n="69"/>dam temeritatis, quia magna imprudentia est
+            <lb ed="#P" n="70"/>in rebus divinis et supernaturalibus judicium
+            <lb ed="#P" n="71"/>ferre sine suflicienti illarum notitia. Et 
+            con<lb break="no" ed="#P" n="72"/>firmatur, quia, priusquam homo judicet de
+            <lb ed="#P" n="73"/>ejusmodi rebus, debet quod in se est faccre,
+            <lb ed="#P" n="74"/>et diligentiam adhiberc ut veritatem 
+            assequa<lb break="no" ed="#P" n="75"/>tur; si autem hoc faciat, Deus illum errare
+            <lb ed="#P" n="76"/>non permittet. Ali distinguunt inter actus
+            <lb ed="#P" n="77"/>fidei, quos omnes fideles scire tenentur, et
+            <lb ed="#P" n="78"/>alias res fidei, quas subtilitates fidei appellant;
+            <lb ed="#P" n="79"/>ei in prioribus negant posse fidelem errare
+            <lb ed="#P" n="80"/>sine culpa, in posterioribus autem concedunt.
+            <lb ed="#P" n="81"/>lta sumi potest ex D. Thoma 2. 2, quaest. 2,
+            <lb ed="#P" n="82"/>art. 6, ad secundum; et Cajetano, ibidem;
+            <lb ed="#P" n="83"/>Sylvest., verbo Fides, quaest. 4, num. 6. Hi
+            <lb ed="#P" n="84"/>tamen auctores partem affirmantem de 
+            sub<lb break="no" ed="#P" n="85"/>tilitatibus fidei expresse docent; quia vero de
+            <lb ed="#P" n="86"/>ilis specialiter loquuntur, alteram partem
+            <lb ed="#P" n="87"/>negantem indicare videntur.
+          </p>
+          <p xml:id="szthvi-a98000-d1e1390">
+            <lb ed="#P" n="88"/>5. Secunda in ordine assertio. — Mihi alia
+            <lb ed="#P" n="89"/>distinctione utendum occurrit; aut enim 
+            ho<lb break="no" ed="#P" n="90"/>mini fideli nunquam fuit aligua veritas ita
+            <lb ed="#P" n="91"/>sufficienter proposita, ut per fidem infusam
+            <lb ed="#P" n="92"/>illam credere potuerit et debuerit ; vel de 
+            fac<lb break="no" ed="#P" n="93"/>to illam credidit, aut habuit ejusmodi 
+            propo<lb break="no" ed="#P" n="94"/>sitionem suflicientem fidei aliquando. Dico
+            <lb ed="#P" n="95"/>igitur posse fidelem sine culpa aliquando 
+            er<lb break="no" ed="#P" n="96"/>rare circa veritatem fidei nunquam sibi satis
+            <lb ed="#P" n="97"/>propositam; hoc imprimis certum est in 
+            subti<lb break="no" ed="#P" n="98"/>litatibus fidei, id est, in omnibus quae non 
+            te<lb break="no" ed="#P" n="99"/>nentur fideles ex praecepto scire. Probatur,
+            <lb ed="#P" n="100"/>quia haec invincibiliter ignorantur, ut per sc
+            <lb ed="#P" n="101"/>patet, et stante illa ignorantia, potest 
+            occur<lb break="no" ed="#P" n="102"/>rere ratio vel auctoritas, quae probabiiter et
+            <lb ed="#P" n="103"/>sine temeritate hominem decipiat, ut 
+            contin<lb break="no" ed="#P" n="104"/>git in quacumque materia non evidenti; ergo
+            <lb ed="#P" n="105"/>in tali assensu nulla tunc erit culpa, quia
+            <lb ed="#P" n="106"/>ignorantia invincibilis tunc excusat a culpa
+            <lb ed="#P" n="107"/>contra fidem ; motivum autem occurrens 
+            ex<lb break="no" ed="#P" n="108"/>cusat a temeritate judicii, et ita solvitur ratio
+            <lb ed="#P" n="109"/>Altisiodorensis. Nec in his rebus (ut dixi) est
+            <lb ed="#P" n="110"/>regula certa, quod Deus errare non permittat
+            <pb ed="#P" n="405"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>eum qui diligentiam facit; nulla enim extat
+            <lb ed="#P" n="2"/>de hoc promissio, et convincitur aperte, quia
+            <lb ed="#P" n="3"/>Sancti interdum errarunt in rebus ad fidem
+            <lb ed="#P" n="4"/>pertinentibus, quas postea Ecclesia definivit,
+            <lb ed="#P" n="5"/>ut de Cypriano et aliis constat. Et hinc 
+            sequi<lb break="no" ed="#P" n="6"/>tur idem posse contingere circa aliquem 
+            arti<lb break="no" ed="#P" n="7"/>culum fidei, licet rarius, et in hominibus 
+            rn<lb break="no" ed="#P" n="8"/>dioribus et omnino indoctis. Probatur, quia
+            <lb ed="#P" n="9"/>in eis potest esse aliquando ignorantia 
+            invin<lb break="no" ed="#P" n="10"/>cibilis, ut dixi; ergo etiam possunt alia 
+            con<lb break="no" ed="#P" n="11"/>currere, quae illum actum in talibus personis
+            <lb ed="#P" n="12"/>a peccato excusent, quia illud solum pendet
+            <lb ed="#P" n="13"/>ex facto contingente; imo interdum evenire
+            <lb ed="#P" n="14"/>potest ; et saepe forte accidit, ut homo 
+            rusti<lb break="no" ed="#P" n="15"/>cus, audiens explicationem alicujus articuli
+            <lb ed="#P" n="16"/>fidei, loco veritatis errorem concipiat, a quo
+            <lb ed="#P" n="17"/>sine dubio per ignorantiam, seu per 
+            quam<lb break="no" ed="#P" n="18"/>dam incapacitatem excusatur.
+          </p>
+          <p xml:id="szthvi-a98000-d1e1486">
+            <lb ed="#P" n="19"/>6. Tertia assertio. — Deinde addo circa ea
+            <lb ed="#P" n="20"/>quae saltem sufficienter proposita sunt, vel
+            <lb ed="#P" n="21"/>credita ex vera fide, et Ecclesiae auctoritate,
+            <lb ed="#P" n="22"/>non posse hominem inculpabiliter errare, aut
+            <lb ed="#P" n="23"/>dubitare cum deliberatione, nisi fortasse ita
+            <lb ed="#P" n="24"/>fuerit oblitus prioris cognitionis, ac si 
+            nun<lb break="no" ed="#P" n="25"/>quam illam habuisset. Hoc posterius 
+            manifes<lb break="no" ed="#P" n="26"/>tum est, quia, intercedente tali oblivione,
+            <lb ed="#P" n="27"/>praecedens cognitio nihil confert, et ideo idem
+            <lb ed="#P" n="28"/>judieium est de tali homine ac de alio, qui
+            <lb ed="#P" n="29"/>scmper caruit illa cognitione. Ratio autem
+            <lb ed="#P" n="30"/>prioris partis est, quia, ut Paulus ait, ad 
+            Ga<lb break="no" ed="#P" n="31"/>lat. 1 : Ftiamsi Angelus de calo evangelizet,
+            <lb ed="#P" n="32"/>contra id quod ex fide semel creditum est,
+            <lb ed="#P" n="33"/>non est illi credendum; per quam 
+            exaggera<lb break="no" ed="#P" n="34"/>tionem significare voluit Paulus, propter 
+            rul<lb break="no" ed="#P" n="35"/>lam auctoritatem vel rationem recedendum
+            <lb ed="#P" n="36"/>esse ab eo, quod semel creditum est. Item
+            <lb ed="#P" n="37"/>quia, ut dicit Joan., 1 Canon., capite 3: Qui
+            <lb ed="#P" n="38"/>credit in Filium Dei, habet testimonium Dei in
+            <lb ed="#P" n="39"/>se ; contra testimonium autem Dei nihil credi
+            <lb ed="#P" n="40"/>notest sine culpa; ergo qui hoc testimonium
+            <lb ed="#P" n="41"/>semel habuit, nunquam potest ab illo sine
+            <lb ed="#P" n="42"/>culpa recedere. Denique, qui semel credit, ita
+            <lb ed="#P" n="43"/>debet esse affectus, ut certissimus sit, illud
+            <lb ed="#P" n="44"/>quo4 credit, non posse esse falsum; ergo
+            <lb ed="#P" n="45"/>Beri non potest ut postea aliquando sine 
+            cul<lb break="no" ed="#P" n="46"/>pa erret circa illud quod semel credidit. 
+            Ne<lb break="no" ed="#P" n="47"/>que in hoc admittenda est aliqua exceptio, 
+            ne<lb break="no" ed="#P" n="48"/>que aliquis casus in quo liceat, propter 
+            quo<lb break="no" ed="#P" n="49"/>rumcumque hominum auctoritatem, a 
+            veri<lb break="no" ed="#P" n="50"/>tate semel credita recedere, aut de illa 
+            dubi<lb break="no" ed="#P" n="51"/>tare, cum Dei et Ecclesia auctoritas omni
+            <lb ed="#P" n="52"/>humanae auctoritati praeferenda sit. 
+            Difficul<lb break="no" ed="#P" n="53"/>tates vero, quae hic occurrere poterant, infra
+            <lb ed="#P" n="54"/>in materia de haeresi tractabuntur.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

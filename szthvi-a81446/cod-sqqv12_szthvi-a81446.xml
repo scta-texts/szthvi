@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prooemium</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Prooemium</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="334"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-a81446"><!-- t1-pro2 -->
+        <head xml:id="szthvi-a81446-Hd1e101">Prooemium</head>
+        <p xml:id="szthvi-a81446-d1e103">
+          <pb ed="#P" n="334"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>TRACTATUS DE FIDE
+          <lb ed="#P" n="2"/>PARS SECUNDA MORALIS.
+          <lb ed="#P" n="3"/>PROOEMIUM.
+        </p>
+        <p xml:id="szthvi-a81446-d1e116">
+          <lb ed="#P" n="4"/>Unaquaeque virtus et propriam habet naturam atque essentiam, et principium est
+          <lb ed="#P" n="5"/>activum alicujus honestae moralisque operationis; et ideo integra uniuscujusque
+          <lb ed="#P" n="6"/>virtutis doctrina duas partes requirit : unam, quae merito speculativa dici potest,
+          <lb ed="#P" n="7"/>quia essentiam, et proprietates, objectum, actum, et habitum virtutis contemplatur;
+          <lb ed="#P" n="8"/>alteram vero practicam et moralem, quia non solum de his rebus tractat, quae a
+          <lb ed="#P" n="9"/>nobis fiunt, sed etiam modo practico et utili ad mores dirigendos procedit. Igitur de
+          <lb ed="#P" n="10"/>virtute fidei priorem partem hactenus tractavimus. Nunc vero posteriorem 
+          aggredi<lb break="no" ed="#P" n="11"/>mur, in qua tria praecipue capita a nobis tractanda sunt. Primum erit de praeceptis
+          <lb ed="#P" n="12"/>fidei, et eorum obligatione, ac quando et quomodo implenda sint. Secundum erit de
+          <lb ed="#P" n="13"/>vitiis et peccatis huic virtuti contrariis, sive sint omissionis, sive commissionis, ubi
+          <lb ed="#P" n="14"/>dicendum erit de ignorantia et de infidelitate, tam in genere quam secundum species
+          <lb ed="#P" n="15"/>ejus. Tertiun. caput erit de poenis. praesertim ecclesiasticis, quae propter haec peccata,
+          <lb ed="#P" n="16"/>praesertim haeresim, incurruntur vel imponuntur, et quo ordine et modo imponendae
+          <lb ed="#P" n="17"/>sint. Prius vero quam primum caput aggrediamur, quia praeceptum fidei supponit
+          <lb ed="#P" n="18"/>necessitatem ejus, quatenus est medium ad salutem, ante doctrinam de praecepto
+          <lb ed="#P" n="19"/>de necessitate hac dicendum est; est enim quasi fundamentum totius materiae moralis
+          <lb ed="#P" n="20"/>ad virtutem fidei pertinentis ; postea vero caetera prosequemur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

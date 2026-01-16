@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 11</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 11</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="322"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-a78746"><!-- l1-d11 -->
+        <head xml:id="szthvi-a78746-Hd1e101">Disputatio 11</head>
+        <head xml:id="szthvi-a78746-Hd1e103" type="question-title">De conciliis</head>
+        <p xml:id="szthvi-a78746-d1e106">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="54"/>DISPUTATIO XI.
+          <lb ed="#P" n="55"/>DE CONCILIIS.
+        </p>
+        <p xml:id="szthvi-a78746-d1e115">
+          <lb ed="#P" n="56"/>1. Cogendi concilia ratio a Christo manavit.
+          <lb ed="#P" n="57"/>— Est quoque consentaneum lwmnini naturali.
+          <lb ed="#P" n="58"/>— Duo, sicut in superioribus, in disputatione
+          <lb ed="#P" n="59"/>hac explicanda occurrunt. Alterum, quid 
+          Con<lb break="no" ed="#P" n="60"/>cilium sit, et quomodo congregari debeat et
+          <lb ed="#P" n="61"/>confirmari; alterum, quam auctoritatem in
+          <lb ed="#P" n="62"/>suis habeat definitionibus. Porro circa nomen
+          <lb ed="#P" n="63"/>Concilii et varia ejus genera, videantur quae
+          <lb ed="#P" n="64"/>in disputatione quinta, sect. 7, notata sunt.
+          <lb ed="#P" n="65"/>Solum de tertio genere addendum Concilia
+          <lb ed="#P" n="66"/>generalia potissimum ad generales causas et
+          <lb ed="#P" n="67"/>dogmata fidei definienda congregari, quam
+          <lb ed="#P" n="68"/>consuetudinem ab Apostolis initium habuisse
+          <lb ed="#P" n="69"/>ex 15 cap. Act. constat, ex quo intelligimus,
+          <lb ed="#P" n="70"/>rationem hanc congregandi Concilia a Christo
+          <lb ed="#P" n="71"/>Domino manasse, atque ad hoc accommodari
+          <lb ed="#P" n="72"/>solent verba illa Matth. 18: Ubi fuerint duo,
+          <lb ed="#P" n="73"/>vel tres congregati in nomine meo, ili sum ego.
+          <lb ed="#P" n="74"/>Patetque ex Concilio Chalcedonensi, 
+          actio<lb break="no" ed="#P" n="75"/>ne 1; Conciiio Tolet. 15; Coelestino, in 
+          episto<lb break="no" ed="#P" n="76"/>la quadam ante Concilium Ephes. Nec enim
+          <lb ed="#P" n="77"/>placet quod Pighius, lib. 6 Hierarch., c. 1,
+          <lb ed="#P" n="78"/>sentit, congregationem horum Conciliorum
+          <lb ed="#P" n="79"/>esse ex humana institutione, nisi fortasse 
+          in<lb break="no" ed="#P" n="80"/>telligat quantum ad tempus et ordinationem;
+          <lb ed="#P" n="81"/>vel quia fortasse non est simpliciter ex 
+          prae<lb break="no" ed="#P" n="82"/>cepto divino ut haec Concilia congregentur.
+          <lb ed="#P" n="83"/>Nam potestas et ratio illa congregandi a jure
+          <lb ed="#P" n="84"/>divino sine dubio habet originem, ut latius
+          <lb ed="#P" n="85"/>dicemus ; quin potius, supposita fide, et 
+          ins<lb break="no" ed="#P" n="86"/>titutione Ecclesia a Christo facta, ejusque
+          <lb ed="#P" n="87"/>gubernatione, quasi naturalis ratio dictat 
+          ta<lb break="no" ed="#P" n="88"/>lium Conciliorum celebrationem; est enim
+          <lb ed="#P" n="89"/>naturale homini in gravissimis rebus 
+          multo<lb break="no" ed="#P" n="90"/>rum sententias et consilia expectare.
+        </p>
+        <p xml:id="szthvi-a78746-d1e193">
+          <lb ed="#P" n="91"/>2. Concilia congregandi cause varie.— Ex
+          <lb ed="#P" n="92"/>quibus etiam intelligi potest ejusmodi 
+          Conci<lb break="no" ed="#P" n="93"/>liorum necessitas, quae multiplex esse potest.
+          <lb ed="#P" n="94"/>Primo, extirpatio grassantis haeresis vel 
+          schis<lb break="no" ed="#P" n="95"/>matis, quod interdum graviter Eeclesiam 
+          pre<lb break="no" ed="#P" n="96"/>mit, ut ex citato Actorum 15 colligitur; 
+          se<lb break="no" ed="#P" n="97"/>cundo, definitiones vel declarationes fidei toti
+          <lb ed="#P" n="98"/>Ecclesiae necessariae, quae recte fiunt 
+          conve<lb break="no" ed="#P" n="99"/>nientibus totius christiani orbis capitibus; 
+          ter<lb break="no" ed="#P" n="100"/>tio, communium legum condendarum ratio,
+          <lb ed="#P" n="101"/>convenientibus enim ex totius orbis partibus
+          <lb ed="#P" n="102"/>episcopis ac legatis, melius constat quid 
+          omni<lb break="no" ed="#P" n="103"/>bus Ecclesiis expediat. Denique ad similes alias
+          <pb ed="#P" n="323"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>generales, vel gravissimas causas tractandas
+          <lb ed="#P" n="2"/>pernecessaria sunt universalia Concilia, ubi
+          <lb ed="#P" n="3"/>multorum deliberatione melius illae 
+          definiun<lb break="no" ed="#P" n="4"/>tur, ut dicitur cap. Prudentia de Officio deleg.,
+          <lb ed="#P" n="5"/>cap. De quibus, d. 10, quae omnia videre licet
+          <lb ed="#P" n="6"/>in Conciliis generalibus hactenus congregatis;
+          <lb ed="#P" n="7"/>quae in principio Ecclesiae post Apostolos per
+          <lb ed="#P" n="8"/>aliquot annos celebrari non potuerunt, propter
+          <lb ed="#P" n="9"/>imperatorum et principum contradictiones et
+          <lb ed="#P" n="10"/>persecutiones. Unde tunc temporis Pontifices
+          <lb ed="#P" n="11"/>per epistolas solum decretales necessitatibus
+          <lb ed="#P" n="12"/>Ecclesiae praesto erant.
+        </p>
+        <p xml:id="szthvi-a78746-d1e255">
+          <lb ed="#P" n="13"/>3. Concilia generalia recensentur.—
+          Postmo<lb break="no" ed="#P" n="14"/>dum vero a temporibus Constantini, 
+          intro<lb break="no" ed="#P" n="15"/>duci coeperunt Nicaenum I contra Arrium;
+          <lb ed="#P" n="16"/>Constantinop. I contra Macedonium ; 
+          Ephesi<lb break="no" ed="#P" n="17"/>num contra Nestorium ; Chalcedonense contra
+          <lb ed="#P" n="18"/>Eutichen. ; Constantin. II, contra Petrum 
+          An<lb break="no" ed="#P" n="19"/>tiochenum, et reliquias Nestorianorum ; 
+          Con<lb break="no" ed="#P" n="20"/>stantin. III, contra Monotelitas ; Nicaenum Il,
+          <lb ed="#P" n="21"/>contra Iconomac.; octavus Synodus quae est
+          <lb ed="#P" n="22"/>etiam Constantin. VIII, contra Photium, 
+          Icono<lb break="no" ed="#P" n="23"/>mac.; et Lateranense sub Innocentio III, pro
+          <lb ed="#P" n="24"/>reformanda Ecclesia ; Lugdunense sub 
+          Grego<lb break="no" ed="#P" n="25"/>rio X pro unionc Ecclesiae Graecae, et 
+          reforma<lb break="no" ed="#P" n="26"/>tione universalis Ecclesiae ; Lugdunense aliud,
+          <lb ed="#P" n="27"/>sub Innocentio IV, contra Federicum, 
+          impe<lb break="no" ed="#P" n="28"/>ratorem schismaticum ; Constantiense, ad 
+          tol<lb break="no" ed="#P" n="29"/>lendum schisma competitorum trium, qui se
+          <lb ed="#P" n="30"/>Pontifices appellabant ; Basiliense, ad 
+          restau<lb break="no" ed="#P" n="31"/>randam disciplinam Ecclesiae, quod tamen ad
+          <lb ed="#P" n="32"/>debitum finem non pervehit; Florentinum,
+          <lb ed="#P" n="33"/>pro unione Ecclesia Orientalis; ac denique
+          <lb ed="#P" n="34"/>Tridentinum, contra Lutheranam haeresim,
+          <lb ed="#P" n="35"/>aliasque plures, et ad Ecclesiae universalis
+          <lb ed="#P" n="36"/>mores reparandos. Atque haec sunt potissima
+          <lb ed="#P" n="37"/>Concilia generalia, ex quibus satis colligitur
+          <lb ed="#P" n="38"/>finis et necessitas ea congregandi, et talis 
+          ali<lb break="no" ed="#P" n="39"/>qua ceprehenditur in caeteris, quae in 
+          Eccle<lb break="no" ed="#P" n="40"/>sia fuerunt coacta, et haec de quaestione an
+          <lb ed="#P" n="41"/>est, videntur satis. Sequitur dicendum quid
+          <lb ed="#P" n="42"/>hoc Concilium sit, vel ex quibus partibus 
+          con<lb break="no" ed="#P" n="43"/>stare debeat.
+        </p>
+        <div xml:id="szthvi-a78746-Dd1e325">
+          <head xml:id="szthvi-a78746-Hd1e327">Sectio 1</head>
+          <head xml:id="szthvi-a78746-Hd1e329" type="question-title">Utrum ad concilia generalia debeant soli episcopi convenire</head>
+          <p xml:id="szthvi-a78746-d1e332">
+            <lb ed="#P" n="44"/>SECTIO 1.
+            <lb ed="#P" n="45"/>Utrum ad Concilia generalia debeant soli 
+            epis<lb break="no" ed="#P" n="46"/>copi convenire.
+          </p>
+          <p xml:id="szthvi-a78746-d1e341">
+            <lb ed="#P" n="47"/>1. Constat, variis rationibus et titulis varios
+            <lb ed="#P" n="48"/>etiam homines ad hujusmodi Concilia vocari
+            <lb ed="#P" n="49"/>posse, alios quidem qui Patres congregatos
+            <lb ed="#P" n="50"/>tuentur, et seditiones omnes vitandas cu-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="51"/>rant; sic vocari possunt saeculares principes,
+            <lb ed="#P" n="52"/>aut legati, vel duces eorum. Alios, ut negotia
+            <lb ed="#P" n="53"/>tractent, vel sui rationem in Concilio reddant;
+            <lb ed="#P" n="54"/>sic vocari possunt non solum principes 
+            saecu<lb break="no" ed="#P" n="55"/>lares, sed etiam haeretici schismatici, et 
+            cu<lb break="no" ed="#P" n="56"/>jusvis conditionis homines. Alios, ut 
+            discu<lb break="no" ed="#P" n="57"/>tiant res tractandas, sintque a consiliis ipsis
+            <lb ed="#P" n="58"/>Patribus : sic vocari solent sapientes cujusque
+            <lb ed="#P" n="59"/>conditionis vel dignitatis viri. Alios denique
+            <lb ed="#P" n="60"/>tanquam propria membra Concilium 
+            consti<lb break="no" ed="#P" n="61"/>tuentia, qui ex officio vendicant activa 
+            suffra<lb break="no" ed="#P" n="62"/>gia in Concilii definitionibus et statutis; atque
+            <lb ed="#P" n="63"/>hi sunt qui proprie conveniunt, et de quibus
+            <lb ed="#P" n="64"/>instituitur disputatio.
+          </p>
+          <p xml:id="szthvi-a78746-d1e385">
+            <lb ed="#P" n="65"/>2. Prima sententia hereticorum. — Eorun
+            <lb ed="#P" n="66"/>fundamentum. — Confirmatur primo. — 
+            Se<lb break="no" ed="#P" n="67"/>cundo.— Tertio. — In qua, prima sententia
+            <lb ed="#P" n="68"/>haereticorum judicium fidei tribuit non 
+            mi<lb break="no" ed="#P" n="69"/>nus laicis quam ecclesiasticis, feminis quam
+            <lb ed="#P" n="70"/>viris, indoctis quam doctis. Fundamentum
+            <lb ed="#P" n="71"/>est, quia sola universalis Ecclesia habet 
+            pri<lb break="no" ed="#P" n="72"/>vilegium non errandi in file, et ideo nisi
+            <lb ed="#P" n="73"/>tota Ecclesia conveniat, judicium non erit
+            <lb ed="#P" n="74"/>infallibile : omnes autem numerati membra
+            <lb ed="#P" n="75"/>sunt universalis Ecclesiae. Confirmatur primo,
+            <lb ed="#P" n="76"/>quia certitudo hujus judicii non est ex sexu vel
+            <lb ed="#P" n="77"/>ex humana doctrina, sed ex Spiritus Sancti
+            <lb ed="#P" n="78"/>inspiraione; omnes autem recensiti doceri
+            <lb ed="#P" n="79"/>possunt a Spiritu Sancto, si velint. 
+            Confirma<lb break="no" ed="#P" n="80"/>tur secundo , quoniam fideles esse debent
+            <lb ed="#P" n="81"/>ita in fide instructi, ut possint rationem 
+            red<lb break="no" ed="#P" n="82"/>dere suae fidei, 1 Petri 3. Et Christus Dominus
+            <lb ed="#P" n="83"/>omnibus fidelibus dicit : Serutamini 
+            Scriptu<lb break="no" ed="#P" n="84"/>ras, Joan. 5. Tandem huic errori favere 
+            vi<lb break="no" ed="#P" n="85"/>detur Nicolaus Papa, in cap. Ubinam , 96
+            <lb ed="#P" n="86"/>d., ubi Glossa verbo Pertinet, in illum 
+            inch<lb break="no" ed="#P" n="87"/>nat.
+          </p>
+          <p xml:id="szthvi-a78746-d1e438">
+            <lb ed="#P" n="88"/>3. Secunda sententia et ejus ratio. — 
+            Confir<lb break="no" ed="#P" n="89"/>matur.— Secundo.— Secunda sententia, quae
+            <lb ed="#P" n="90"/>praecedentem moderatur, ait non omnes 
+            qui<lb break="no" ed="#P" n="91"/>dem laicos, sed primarios quosdam viros el
+            <lb ed="#P" n="92"/>Doctores debere vocari, ut ex omnibus 
+            condi<lb break="no" ed="#P" n="93"/>tionibus et statibus hominum aliqui 
+            conve<lb break="no" ed="#P" n="94"/>niant, et ut quae ad omnes spectant, ab omnibus
+            <lb ed="#P" n="95"/>approbentur, juxta regulam juris cap. Quod
+            <lb ed="#P" n="96"/>omnes, de Reguls juris, in 6. Confirmatur,
+            <lb ed="#P" n="97"/>cur enim si laici doctiores sint quam 
+            sacerdo<lb break="no" ed="#P" n="98"/>tes, excludantur a judicio quod ex scientia
+            <lb ed="#P" n="99"/>et doctrina maxime pendet? Confirmatur
+            <lb ed="#P" n="100"/>secundo exemplis : nam Moyses laicus in
+            <pb ed="#P" n="324"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>causis fidei judicavit ; David et Salomon 
+            sa<lb break="no" ed="#P" n="2"/>cras litteras scripserunt; in antiquioribus
+            <lb ed="#P" n="3"/>Conciliis laici aderant et subscribebant :
+            <lb ed="#P" n="4"/>in Concilio quidem Chalcedon. viri patricii,
+            <lb ed="#P" n="5"/>consules et senatores in omnibus fere 
+            actio<lb break="no" ed="#P" n="6"/>nibus inter legatos Pontificis, et patriarchas
+            <lb ed="#P" n="7"/>sedent, et munera judicum exercent, apud
+            <lb ed="#P" n="8"/>Niceph., libro 15, cap. 16. In sexta Synodo,
+            <lb ed="#P" n="9"/>actione prima, imperator praesidere dicitur,
+            <lb ed="#P" n="10"/>quod servatur fere in toto illo Concilio. Et
+            <lb ed="#P" n="11"/>in octava Synodo similiter praeest Dasilius
+            <lb ed="#P" n="12"/>Imperator cum multis patriciis, et in 
+            eis<lb break="no" ed="#P" n="13"/>dem conciliis laici subscriburt : imo 
+            Ba<lb break="no" ed="#P" n="14"/>silius Imperator, cum rogaretur subscribere,
+            <lb ed="#P" n="15"/>ait : Tranguillissimum imperium nostrum 
+            se<lb break="no" ed="#P" n="16"/>cutum pracedentes imperatores , 
+            Constanti<lb break="no" ed="#P" n="17"/>num, Theodosium, Martianum, vult 
+            descri<lb break="no" ed="#P" n="18"/>Dere, ex quo intelligimus alios idem fecisse:
+            <lb ed="#P" n="19"/>denique in concilio Toletano IlI et 
+            Arausi<lb break="no" ed="#P" n="20"/>cano reperimus laicos subscripsisse.
+          </p>
+          <p xml:id="szthvi-a78746-d1e516">
+            <lb ed="#P" n="21"/>4. Tertia sententia. — Tertia sententia 
+            ne<lb break="no" ed="#P" n="22"/>gat quidem necessarium esse, laicos ad 
+            con<lb break="no" ed="#P" n="23"/>cilium generale convenire, affirmat tamen
+            <lb ed="#P" n="24"/>posse a Pontifice vocari, ac ferendi suffragii
+            <lb ed="#P" n="25"/>facultate donari. Ita Waldens., lib. 2 
+            Doctri<lb break="no" ed="#P" n="26"/>nal. fidei, c. 19, quem Cano, 1.2, c. 7, et l.
+            <lb ed="#P" n="27"/>4, c. 4, conclus. A, refellit.
+          </p>
+          <p xml:id="szthvi-a78746-d1e534">
+            <lb ed="#P" n="28"/>5. Quarta sententia.—CQuarta sententia 
+            ex<lb break="no" ed="#P" n="29"/>cludit universim laicos a concilio, non tamen
+            <lb ed="#P" n="30"/>sacerdotes omnes, non episcopos, non abbates;
+            <lb ed="#P" n="31"/>nam religiosi, praecipue Generales familiae
+            <lb ed="#P" n="32"/>cujusque, et similes ali, de jure videntur 
+            per<lb break="no" ed="#P" n="33"/>tinere ad Concilium. Unde usus obtinuit ut
+            <lb ed="#P" n="34"/>convocentur, quemadmodum factum videmus
+            <lb ed="#P" n="35"/>in Dullis Julii HII, et Pii IV, convocationis ad
+            <lb ed="#P" n="36"/>Concilium Tridentinum, et ex cap. Adrianus,
+            <lb ed="#P" n="37"/>63 d.
+          </p>
+          <p xml:id="szthvi-a78746-d1e558">
+            <lb ed="#P" n="38"/>6. Prima assertio de fide. — Dico primo:
+            <lb ed="#P" n="39"/>non est de ratione generalis Concilii, ut 
+            om<lb break="no" ed="#P" n="40"/>nia omnino Ecclesiae membra ad illud 
+            conve<lb break="no" ed="#P" n="41"/>niant. Est de fide, et fere evidens in lumine
+            <lb ed="#P" n="42"/>naturali , partimque probata in superioribus,
+            <lb ed="#P" n="43"/>ubi ostendimus in Ecclesia esse ordinem 
+            hie<lb break="no" ed="#P" n="44"/>rarchicum, et alios esse pastores et doctores,
+            <lb ed="#P" n="45"/>alios qui pascantur ac doceantur : aperte hoc
+            <lb ed="#P" n="46"/>confirmat exemplum Apostolorum, Actorum
+            <lb ed="#P" n="47"/>15, atque usus posteriorum Conciliorum, quae
+            <lb ed="#P" n="48"/>illud sunt imitata. Praeterca, tam numerosa
+            <lb ed="#P" n="49"/>congregatio esset prorsus in possibilis; unde
+            <lb ed="#P" n="50"/>ab haereticis malitiose conficta est, ut 
+            auctori<lb break="no" ed="#P" n="51"/>tatem Conciliorum destruant, excogitato 
+            im<lb break="no" ed="#P" n="52"/>possibili modo illa congregandi. Ad haec, 
+            ra<lb break="no" ed="#P" n="53"/>tioni etiam naturali adversatur, ut foeminae et
+            <lb ed="#P" n="54"/>idiotae homines , qui nihil noverunt de 
+            tradi<lb break="no" ed="#P" n="55"/>tionihus Ecclesia, nihil de difficultatibus fidei,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>de Sanctorum explicationibus et Pontificum
+            <lb ed="#P" n="57"/>decretis, et aliis qua omnino necessaria sunt
+            <lb ed="#P" n="58"/>ad judicium ferendum in rebus gravissimis,
+            <lb ed="#P" n="59"/>quinetiam prudentia carent necessaria ad
+            <lb ed="#P" n="60"/>condendas leges, et universam Ecclesiam 
+            gu<lb break="no" ed="#P" n="61"/>bernandam, ut, inquam, in generali Concilio
+            <lb ed="#P" n="62"/>judices, doctores, et legislatores 
+            constituan<lb break="no" ed="#P" n="63"/>tur. Quamvis enim Concilium praecipue 
+            Spiri<lb break="no" ed="#P" n="64"/>tus Sancti auxilio et inspiratione perficiendum
+            <lb ed="#P" n="65"/>sit, attamen idem Spiritus Sanctus dictat ut
+            <lb ed="#P" n="66"/>homines prudenti et rationabili modo 
+            proce<lb break="no" ed="#P" n="67"/>dant ; itaque conclusio haec evidentior est
+            <lb ed="#P" n="68"/>quam ut probatione indigeat, et ex sequenti
+            <lb ed="#P" n="69"/>amplius patescet.
+          </p>
+          <p xml:id="szthvi-a78746-d1e632">
+            <lb ed="#P" n="70"/>7. Secunda assertio de fide. — Probatur 
+            pri<lb break="no" ed="#P" n="71"/>n.o eg Scriptura. — Dico ergo secundo: nullus
+            <lb ed="#P" n="72"/>laicus est necessario ad Concilium vocandus,
+            <lb ed="#P" n="73"/>ut judex sit et suffragium ferat. Est de fide:
+            <lb ed="#P" n="74"/>primo, ex Scriptura docente munus esse 
+            sacer<lb break="no" ed="#P" n="75"/>dotum Scripturam sacranr et doctrinam fidei
+            <lb ed="#P" n="76"/>explicare, ac tradere laicis ; cujus rei multa
+            <lb ed="#P" n="77"/>testimonia adducta sunt in superioribus; nunc
+            <lb ed="#P" n="78"/>breviter ex Testamento veteri ostenditur,
+            <lb ed="#P" n="79"/>Ezech. 44: Sacerdotes Levitae populum meum
+            <lb ed="#P" n="80"/>docebunt, etc. ; Aggsei secundo : nterroga
+            <lb ed="#P" n="81"/>Sacerdotes legem ; Malach. secundo : Labia
+            <lb ed="#P" n="82"/>Sacerdotis custodient scientiam , et legem 
+            re<lb break="no" ed="#P" n="83"/>quirent ec ore ejus ; Exod. 19: Veniam ad te,
+            <lb ed="#P" n="84"/>ut audiat me populus, et credat tibi in 
+            perpe<lb break="no" ed="#P" n="85"/>tuum ; Deuter. 17: $2 ambiguum judicium,
+            <lb ed="#P" n="86"/>etc., venies ad Sacerdotes. Idem constat ex
+            <lb ed="#P" n="87"/>Testamento novo, ad Ephes. 4: Quosdam dedit
+            <lb ed="#P" n="88"/>Apostolos , alios pastores et Doctores ; Actor.
+            <lb ed="#P" n="89"/>20 : In quo Spiritus Sanctus posuit vos 
+            Eis<lb break="no" ed="#P" n="90"/>copos regere Fcclesiam Dei; Matth. 5: Fos
+            <lb ed="#P" n="91"/>estis lua mundi ; et c. ult.: Euntes docete, etc.;
+            <lb ed="#P" n="92"/>et Luc. 10 : Qui vos audit, e audit ; et alis,
+            <lb ed="#P" n="93"/>quibus supra, disputat. 9, sect. 5, num. 3. 
+            os<lb break="no" ed="#P" n="94"/>tendimus Ecclesiae regimen ad laicos minime
+            <lb ed="#P" n="95"/>pertinere.
+          </p>
+          <p xml:id="szthvi-a78746-d1e691">
+            <lb ed="#P" n="96"/>8. Probatur secundo ex Conciliis general.—
+            <lb ed="#P" n="97"/>Secundo, probatur ex traditione, quae primum
+            <lb ed="#P" n="98"/>sumi potest ex Conciliis omnibus generalibus.
+            <lb ed="#P" n="99"/>Nam Actor. 15, Apostoli ipsi cum presbyteris
+            <lb ed="#P" n="100"/>conveniunt et detiniunt; reliqua multitudo
+            <lb ed="#P" n="101"/>audit et obedit. In Nicaeno I, soli Episcopi
+            <lb ed="#P" n="102"/>318 judicant et definiunt ; et Imperator 
+            Con<lb break="no" ed="#P" n="103"/>stantinus fatetur fidei defensionem ad se non
+            <lb ed="#P" n="104"/>pertinere, et humiliorem locum sibi deligit.
+            <lb ed="#P" n="105"/>Ita Eusebius, lib. 3 de vita Constantini 
+            Hufi<lb break="no" ed="#P" n="106"/>nus, lib. 1, cap. 2; Socrates, lib. 1, cap. 8;
+            <lb ed="#P" n="107"/>Thcodoret., lib. 1, cap. 7. In Chalced., actione
+            <lb ed="#P" n="108"/>prima , et in Ephes. primo, soli episcopi 
+            con<lb break="no" ed="#P" n="109"/>veniunt, dant suflragia et subscribuntur; et
+            <lb ed="#P" n="110"/>in 8 Synodo, canon. 17, expresse rejiciuntur
+            <pb ed="#P" n="325"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>asserentes Concilia non posse congregari 
+            abs<lb break="no" ed="#P" n="2"/>que sacularibus principibus , idque contra
+            <lb ed="#P" n="3"/>canones et perpetuam Ecclesiae consuetudinem
+            <lb ed="#P" n="4"/>esse dicitur. Idem constat ex Synodis aliis
+            <lb ed="#P" n="5"/>usque ad Tridentinum. Ejusdem traditionis
+            <lb ed="#P" n="6"/>testes sunt Pontifices Clemens I, epistola 5,
+            <lb ed="#P" n="7"/>habetur cap. Relatum, 35 d. ; et lib. 10 
+            Reco<lb break="no" ed="#P" n="8"/>gnit., habetur documentum hoc Clementi a
+            <lb ed="#P" n="9"/>sancto Petro esse relictum. Nicolaus I, 
+            Episco<lb break="no" ed="#P" n="10"/>pus , ad Michaelem imperatorem ; Gelasius,
+            <lb ed="#P" n="11"/>epistola ad Anastasium August.
+          </p>
+          <p xml:id="szthvi-a78746-d1e755">
+            <lb ed="#P" n="12"/>9. Item ex imperatoribus.— Tertio: eadem
+            <lb ed="#P" n="13"/>consuetudo seu traditio colligi potest ex dictis
+            <lb ed="#P" n="14"/>et factis imperatorum ac principum 
+            saecula<lb break="no" ed="#P" n="15"/>rium. De Constantino jam diximus ; simile
+            <lb ed="#P" n="16"/>quid fecisse Theodosium constat ex epistolis
+            <lb ed="#P" n="17"/>ejus ad Concilium Ephes., cap. Satis, d. 96,
+            <lb ed="#P" n="18"/>et apud Socratem et Theodoretum supra, et
+            <lb ed="#P" n="19"/>Evagrium, lib. 1, cap. 4. De Valentiniano 
+            re<lb break="no" ed="#P" n="20"/>fert simile quippiam Sozom., lib. 6, cap. 7;
+            <lb ed="#P" n="21"/>Basilius imperator, in 8 Synodo, actione 10,
+            <lb ed="#P" n="22"/>negat et ad se, et ad ullum laicum pertinere
+            <lb ed="#P" n="23"/>ecclesiastica negotia tractare , Evagr., lib. 3,
+            <lb ed="#P" n="24"/>cap. 4, et Liberatus, lib. 2 Breviarii, cap. 16.
+            <lb ed="#P" n="25"/>In quarta etiam Romana Synodo, sub 
+            Sym<lb break="no" ed="#P" n="26"/>macho, refertur similis confessio Theodorici,
+            <lb ed="#P" n="27"/>regis ariani. Et Victor, lib. 29 Persecut. 
+            Van<lb break="no" ed="#P" n="28"/>dal., adducit aliud ex Hunerico rege. Extat
+            <lb ed="#P" n="29"/>etiam de hac re optima epistola Pulcheriae 
+            Au<lb break="no" ed="#P" n="30"/>gustae inter praeambulas ad Concilium 
+            Chalce<lb break="no" ed="#P" n="31"/>donense. Denique Justinus imperator, in 8
+            <lb ed="#P" n="32"/>Synodo, in causis fidei et religionis , 
+            impe<lb break="no" ed="#P" n="33"/>riale judicium sacerdotum judicio submitti
+            <lb ed="#P" n="34"/>pronuntiat.
+          </p>
+          <p xml:id="szthvi-a78746-d1e807">
+            <lb ed="#P" n="35"/>10. 7tem ex Patribus. — Quarto tandem 
+            ea<lb break="no" ed="#P" n="36"/>dem traditio constat ex Patribus: Ignatio,
+            <lb ed="#P" n="37"/>Episcopo ad Smirnen. ; Dionysio, epist. 8 ad
+            <lb ed="#P" n="38"/>Demophil. Tertullianus etiam, de 
+            Praescriptio<lb break="no" ed="#P" n="39"/>ne, late irridet haereticos qui laicis attribuunt
+            <lb ed="#P" n="40"/>haec sacerdotalia munera ; Ambrosius optime,
+            <lb ed="#P" n="41"/>epistola 34 contra Maxen.; Chrysostomus 
+            li<lb break="no" ed="#P" n="42"/>bro 3 de Sacerdotio, et homil. 4 de Verbis
+            <lb ed="#P" n="43"/>Isai.; Augustinus, epistol. 48, et 166 et 167;
+            <lb ed="#P" n="44"/>Cyrillus, epist. 4; Athanasius, epistola ad 
+            soli<lb break="no" ed="#P" n="45"/>tariam vitam agentes, ubi refert verba Osii
+            <lb ed="#P" n="46"/>Cordub. ad Constant. imperatorem : Nec te
+            <lb ed="#P" n="47"/>immisceas ecclesiasticis, nec nolis in hoc 
+            ge<lb break="no" ed="#P" n="48"/>nere praecipe, sed a nobis disce ; Cyprianus,
+            <lb ed="#P" n="49"/>lib. 4, epist. 9; Basilius, in Regul. contract.,
+            <lb ed="#P" n="50"/>in 276; Nazianzenus, oratione 6, 14 et 17, 
+            ha<lb break="no" ed="#P" n="51"/>betur cap. Suscepistis, d. 10.
+          </p>
+          <p xml:id="szthvi-a78746-d1e846">
+            <lb ed="#P" n="52"/>11. Probatur tandem ratione. — Ultimo
+            <lb ed="#P" n="53"/>tandem ratione arguitur. Nam definitiones
+            <lb ed="#P" n="54"/>Conciliorum, tum quae ad fidem, tum quae ad
+            <lb ed="#P" n="55"/>mores spectant, ad quamdam potestatem ju-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>risdictionis pertinent, sive eam habeat 
+            Con<lb break="no" ed="#P" n="57"/>cilium a Deo immediate concessam, sive a
+            <lb ed="#P" n="58"/>Papa delegatam : sed potestas jurisdictionis
+            <lb ed="#P" n="59"/>Ecclesiae non ad laicos, sed ad sacerdotes per
+            <lb ed="#P" n="60"/>se spectat, ut supra ostensum est ; ergo, eic.
+            <lb ed="#P" n="61"/>Rationes etiam pro praecedenti conclusione
+            <lb ed="#P" n="62"/>adductae, hanc confirmant non leviter.
+          </p>
+          <p xml:id="szthvi-a78746-d1e875">
+            <lb ed="#P" n="63"/>12. Tertia assertio bipartita. — Unde pars
+            <lb ed="#P" n="64"/>una probetur. — Probatur altera, primo 
+            auc<lb break="no" ed="#P" n="65"/>Loritate. — Dico tertio : soli Episcopi per se
+            <lb ed="#P" n="66"/>et necessario sunt ad Concilia generalia 
+            con<lb break="no" ed="#P" n="67"/>vocandi, ut in illis judices sint; item 
+            Prima<lb break="no" ed="#P" n="68"/>tes et superiores omnes : de Cardinalibus 
+            in<lb break="no" ed="#P" n="69"/>fra dicemus, a num. 15. Pars ergo affirmativa
+            <lb ed="#P" n="70"/>conclusionis, hoc scilicet pertinere ad 
+            Episco<lb break="no" ed="#P" n="71"/>pos, patet satis ex adductis in praecedenti 
+            con<lb break="no" ed="#P" n="72"/>clusione et superioribus in materia de 
+            Eccle<lb break="no" ed="#P" n="73"/>sia. Vide d. 16, 17 et 18 decreti, et alia quae
+            <lb ed="#P" n="74"/>in hancrem allegat Hosius in Confess. Polon.,
+            <lb ed="#P" n="75"/>cap. 24, S Neque vero. Negativa vero pars,
+            <lb ed="#P" n="76"/>nimirum alios praeter Episcopos non esse per
+            <lb ed="#P" n="77"/>se et simpliciter necessarios, fere aperte 
+            defi<lb break="no" ed="#P" n="78"/>nitur in 8 Synodo, cap. 17, et in actione 10
+            <lb ed="#P" n="79"/>extat oratio Basilii imperatoris, ubi de hac
+            <lb ed="#P" n="80"/>re optime disserit, sicut et Theodosius, in
+            <lb ed="#P" n="81"/>epistola ad Cyrillum Alexandrinum ; estque
+            <lb ed="#P" n="82"/>quarta inter epistolas Cyrilli. Et probatur 
+            pri<lb break="no" ed="#P" n="83"/>mo ex ipso usu Actor. 15: cum Apostolis 
+            con<lb break="no" ed="#P" n="84"/>venerunt presbyteri, id est episcopi. Ita enim
+            <lb ed="#P" n="85"/>in primitiva Ecclesia nominabantur, tanquam
+            <lb ed="#P" n="86"/>seniores et majori honore digni, ut alias etiam
+            <lb ed="#P" n="87"/>observavimus, et in materia de ordine notari
+            <lb ed="#P" n="88"/>solet. Unde 1 Petri 3 seniores monentur ut
+            <lb ed="#P" n="89"/>pascant gregem, quod est munus Episcopi, ut
+            <lb ed="#P" n="90"/>habetur Actor. 20. Imo vero licet cum 
+            Apos<lb break="no" ed="#P" n="91"/>tolis alii convenerint in illo Concilio, tamen
+            <lb ed="#P" n="92"/>solos Apostolos legimus sententiam dixisse
+            <lb ed="#P" n="93"/>et definivisse, ut notat Turrecremat., lib. 3,
+            <lb ed="#P" n="94"/>cap. 14; Sander. lib. 2 Monarch., cap. 7. De
+            <lb ed="#P" n="95"/>Concilio Nicaen. id satis per se liquet. In 
+            Chal<lb break="no" ed="#P" n="96"/>cedonensi, actione 1, frequentia sunt verba:
+            <lb ed="#P" n="97"/>Synodus Episcoporum est, non clericorum,
+            <lb ed="#P" n="98"/>superfluos foras mitte; quae proferuntur in
+            <lb ed="#P" n="99"/>quosdam monachos qui interesse curabant et
+            <lb ed="#P" n="100"/>judicare ; atque ibidem quidam Marti., 
+            Ab<lb break="no" ed="#P" n="101"/>bas, seu Archimandrita : Non est, inquit,
+            <lb ed="#P" n="102"/>mewun subscribere, sed Episcoporum. In octava
+            <lb ed="#P" n="103"/>Synodo, actione 14, dicitur, solos antistites
+            <lb ed="#P" n="104"/>debere convenire in Conciliis. Ad haec in
+            <lb ed="#P" n="105"/>omnibus fere Conciliis soli subscribunt 
+            Epis<lb break="no" ed="#P" n="106"/>copi ; quod si aliquando admittuntur alii ad
+            <lb ed="#P" n="107"/>subscribendum, addi solet nonnihil quo 
+            deno<lb break="no" ed="#P" n="108"/>tetur illos non definiendo subscripsisse, sed
+            <lb ed="#P" n="109"/>consentiendo definitis : itaque Episcopi 
+            sim<lb break="no" ed="#P" n="110"/>pliciter pronunciant : Subscripsi, vel etiam:
+            <pb ed="#P" n="326"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>Definiens subscripsi. Alii vero non ita, sed, utin
+            <lb ed="#P" n="2"/>Concilio Arausicano II habetur de quibusdam
+            <lb ed="#P" n="3"/>presbyteris , consentientes subscripserunt, ad
+            <lb ed="#P" n="4"/>quem modum aliquando subscribit imperator,
+            <lb ed="#P" n="5"/>ut patet in sexta Synodo, actione 12. Vide
+            <lb ed="#P" n="6"/>Eusebium, 1. 4 Histor., cap. 22. Huc accedunt
+            <lb ed="#P" n="7"/>testimonia Patrum, Marcellini Papae, epistola
+            <lb ed="#P" n="8"/>secunda ; Leonis TI, in epistola nona (quae 
+            po<lb break="no" ed="#P" n="9"/>tius est Flaviani), et in 13, 15, 16, 17, 23 et 53.
+            <lb ed="#P" n="10"/>88, 91; Irenaei, lib. 3, cap. 3; Augustini,
+            <lb ed="#P" n="11"/>contra Faustum, libr. 33, cap. 6, libr. 6 de
+            <lb ed="#P" n="12"/>Baptism., cap. 35, et libro contra Donatistas,
+            <lb ed="#P" n="13"/>post collationem, cap. 15, et in breviculo
+            <lb ed="#P" n="14"/>collat. dei tertiae, et in epistola 119, cap. 19,
+            <lb ed="#P" n="15"/>et epistola 152. Quibus locis Concilia 
+            deno<lb break="no" ed="#P" n="16"/>minantur episcopalia, eo quod ex Episcopis
+            <lb ed="#P" n="17"/>per se coalescant.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1023">
+            <lb ed="#P" n="18"/>13. Probatur secundo rationibus. — Prima
+            <lb ed="#P" n="19"/>ratio. — Secunda ratio. — Rationes breviter
+            <lb ed="#P" n="20"/>hae sunt. Prima, quia soli Episcopi sunt 
+            Pas<lb break="no" ed="#P" n="21"/>tores Ecclesiae ex officio. Unde Augustinus,
+            <lb ed="#P" n="22"/>epist. 59 ad Paulin., in quaest. 4, Pastores et
+            <lb ed="#P" n="23"/>Doctores , ad Ephes. 4, idem valere intelligit.
+            <lb ed="#P" n="24"/>Quod si distinguamus Pastores a Doctoribus,
+            <lb ed="#P" n="25"/>ut alii distinguunt, certe dicendum esset 
+            Doc<lb break="no" ed="#P" n="26"/>tores non docere, nisi ex commissione 
+            Pasto<lb break="no" ed="#P" n="27"/>rum, juxta illud Jeremiae 31 : Da?o pastores,
+            <lb ed="#P" n="28"/>qui pascant vos scientia et doctrina. Unde ad
+            <lb ed="#P" n="29"/>Doctores spectabit doctrinam tradere a 
+            Pasto<lb break="no" ed="#P" n="30"/>ribus definitam ; Pastorum autem est 
+            discer<lb break="no" ed="#P" n="31"/>nere pascua, quamvis consilio Doctorum uti
+            <lb ed="#P" n="32"/>deheant. Vide Canum, de Locis, lib. 4, cap. 4.
+            <lb ed="#P" n="33"/>Secunda, quia Episcopi sunt proprii 
+            successo<lb break="no" ed="#P" n="34"/>res Apostolorum, et quasi primates ac capita
+            <lb ed="#P" n="35"/>Ecclesiae ; in omni autem bene instituta 
+            re<lb break="no" ed="#P" n="36"/>publica ad optimates pertinet eam regere, eti
+            <lb ed="#P" n="37"/>quasi ad comitia publica congregari; 
+            iidem<lb break="no" ed="#P" n="38"/>que censentur rempuhlicam totam 
+            repraesen<lb break="no" ed="#P" n="39"/>tare. Unde Aristoteles ait civitatem id 
+            maxi<lb break="no" ed="#P" n="40"/>me esse, quod est in ea principale : sic igitur
+            <lb ed="#P" n="41"/>congregatio universalis Episcoporum 
+            sufficien<lb break="no" ed="#P" n="42"/>ter universalem Ecclesiam repraesentat, juxta
+            <lb ed="#P" n="43"/>illud Matth. 18: Dic Hcclesie ; si enim ibi
+            <lb ed="#P" n="44"/>privatus pastor dicitur Ecclesia privata et 
+            par<lb break="no" ed="#P" n="45"/>ticularis, quia, scilicet, tota Ecclesia in suo
+            <lb ed="#P" n="46"/>Episcopo, quasi in capite, continetur et 
+            reprae<lb break="no" ed="#P" n="47"/>sentatur, quod etiam recte Cyprianus, lib. 4,
+            <lb ed="#P" n="48"/>epist. 9, inculcat, et scripserat Pius I in sua
+            <lb ed="#P" n="49"/>epistola 2 decretali, ad finem, simili plane
+            <lb ed="#P" n="50"/>modo universalis congregatio Episcoporum 
+            to<lb break="no" ed="#P" n="51"/>tam Ecclesiam universalem sufficienter 
+            reprae<lb break="no" ed="#P" n="52"/>sentabit. Unde Augustinus, primo de 
+            Baptis<lb break="no" ed="#P" n="53"/>mo contra Donatist., cap. 18, plenariam 
+            Con<lb break="no" ed="#P" n="54"/>cilii sententiam vocat totius Ecclesiae 
+            consen<lb break="no" ed="#P" n="55"/>sionem ; et Athanasius, epistola de Gestis
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>Synodi Arimin., asseverat universum orbem
+            <lb ed="#P" n="57"/>in Concilio Nicaeno coactum fuisse, cum 
+            so<lb break="no" ed="#P" n="58"/>lum 318 episcopi convenissent ; et Leo, 
+            epis<lb break="no" ed="#P" n="59"/>tola 24 et 26, idem Concilium vocat totius
+            <lb ed="#P" n="60"/>mundi; et in 8 Synodo, actione 5, dicitur:
+            <lb ed="#P" n="61"/>Loquere, Photi, totus mundus hic est ; 
+            similis<lb break="no" ed="#P" n="62"/>que est modus loquendi Scriptura ; Exod. 19,
+            <lb ed="#P" n="63"/>dicit Dominus Moysi : Heec annuntiabis filis
+            <lb ed="#P" n="64"/>Israel ; et infra : Venit Moyses, et convocavit
+            <lb ed="#P" n="65"/>majores populi, etc.; 3 Regum 8: Congregati
+            <lb ed="#P" n="66"/>sunt omnes majores; ac paulo post : Rex omni
+            <lb ed="#P" n="67"/>HFecclesie Israel benediait, omnis enim 
+            Hocle<lb break="no" ed="#P" n="68"/>sia Israel stabat, etc.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1138">
+            <lb ed="#P" n="69"/>14. Tertia ratio. — Quarta ratio. — 
+            Ter<lb break="no" ed="#P" n="70"/>tia ratio. Concilium generale requirit 
+            univer<lb break="no" ed="#P" n="71"/>salem jurisdictionem, nam qui conveniunt,
+            <lb ed="#P" n="72"/>judices fidei sunt et morum ; sed episcopi 
+            pro<lb break="no" ed="#P" n="73"/>prie habent hanc jurisdictionem in Eecclesia :
+            <lb ed="#P" n="74"/>ergo. Major ostenditur, quia Concilium 
+            defi<lb break="no" ed="#P" n="75"/>nit et judicat quid sit tenendum in Eeclesia.
+            <lb ed="#P" n="76"/>Unde omnes Episcopi, qui conveniunt, 
+            sub<lb break="no" ed="#P" n="77"/>scribunt tanquam judices, ut patet etiam ex
+            <lb ed="#P" n="78"/>modo loquendi Conciliorum: Pracipimnus, 
+            con<lb break="no" ed="#P" n="79"/>stituimus, etc., mandamus, decernimus, etc.;
+            <lb ed="#P" n="80"/>in Concilio Nicano, cap. 3, et in 
+            Chalcedo<lb break="no" ed="#P" n="81"/>nensi, epistola ad Leonem : Decretis tuis 
+            nos<lb break="no" ed="#P" n="82"/>trum honora judiciumn ; ev in epistolis Leonis
+            <lb ed="#P" n="83"/>51 et 59; de quo vide D. Thomam, Quodlib. 5,
+            <lb ed="#P" n="84"/>art. 3, et Quodlib. 6, art. 6; Cano, libr. 5,
+            <lb ed="#P" n="85"/>cap. 5; Soto, in 4, distinct. 20, quaest. 1, art.
+            <lb ed="#P" n="86"/>4, ad secundum ; Turrecremata, et alii supra.
+            <lb ed="#P" n="87"/>Minor vero patet, tum ex sexta Synodo, 
+            ac<lb break="no" ed="#P" n="88"/>Uone 11, et septima Synodo, cap. 19, et 
+            Con<lb break="no" ed="#P" n="89"/>cilio Coloni. provinciali, quod alia citat ; tum
+            <lb ed="#P" n="90"/>etiam ex Actorum 15, ubi Jacobus sententiam
+            <lb ed="#P" n="91"/>suam profert tanquam judex; ac praeterca
+            <lb ed="#P" n="92"/>constat ex dictis, solos Episcopos esse 
+            succes<lb break="no" ed="#P" n="93"/>sores Apostolorum, atque adeo in illis 
+            praeci<lb break="no" ed="#P" n="94"/>pue residere jurisdictionem ad Ecclesiam 
+            gu<lb break="no" ed="#P" n="95"/>bernandam. Ultimo argumentor : si praeter
+            <lb ed="#P" n="96"/>Episcopos, alii prorsus requirerentur in 
+            Conci<lb break="no" ed="#P" n="97"/>Iio, vel illi essent omnes omnino Sacerdotes,
+            <lb ed="#P" n="98"/>vel Parochi, vel fortasse alii. Hoc ultimum
+            <lb ed="#P" n="99"/>dicendum non est, cuimn nulla ratione 
+            mons<lb break="no" ed="#P" n="100"/>trari valeat cur hi potius quam illi omnino
+            <lb ed="#P" n="101"/>necessarii sint ; primum autem est 
+            absurdissi<lb break="no" ed="#P" n="102"/>mum ; tum quia impossibile est omnes 
+            Sacer<lb break="no" ed="#P" n="103"/>dotes et Parochos, imo nec majorem eorum
+            <lb ed="#P" n="104"/>partem ad Concilium generale convenire ; tum
+            <lb ed="#P" n="105"/>etiam, quia regulariter idonei non sunt ad 
+            ju<lb break="no" ed="#P" n="106"/>dicandum de rebus fidei, nec idoneos esse ad
+            <lb ed="#P" n="107"/>munus vel dignitatem eorum spectat, sed suis
+            <lb ed="#P" n="108"/>episcopis obnixe parere, sacramentaque posse
+            <lb ed="#P" n="109"/>parochianis ministrare.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1230">
+            <lb ed="#P" n="110"/>15. Objicitur quadrupliciter contra assertio-
+            <pb ed="#P" n="327"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>nem. — Objicies, primo hinc sequi Cardinales
+            <lb ed="#P" n="2"/>non pertinere ad Concilium, si Episcopi 
+            for<lb break="no" ed="#P" n="3"/>tasse non sint, quia nullam habent 
+            potesta<lb break="no" ed="#P" n="4"/>tem jurisdictionis. Secundo, idem 
+            argumen<lb break="no" ed="#P" n="5"/>tum est de Episcopis titularibus, seu 
+            annulari<lb break="no" ed="#P" n="6"/>bus, ut appellant. Tertio, e contrario, Abbates
+            <lb ed="#P" n="7"/>nonnulli sunt qui immediate subsunt 
+            Aposto<lb break="no" ed="#P" n="8"/>licae Sedi jurisdictionemque habent 
+            episcopa<lb break="no" ed="#P" n="9"/>lem; illi ergo erunt de ne:essitate Concilii
+            <lb ed="#P" n="10"/>generalis. Quarto, nullus Episcopus habet 
+            ju<lb break="no" ed="#P" n="11"/>risdictionem in universalem Ecclesiam, nec
+            <lb ed="#P" n="12"/>omnes simul, nisi a Papa illam recipiant, quam
+            <lb ed="#P" n="13"/>proinde concedere posset quibus vellet; si 
+            er<lb break="no" ed="#P" n="14"/>go illam aliis concederet, non essent Episcopi
+            <lb ed="#P" n="15"/>de necessitate Concilii ; imo hinc videtur 
+            se<lb break="no" ed="#P" n="16"/>qui ' non esse membra aliqua Ecclesiae 
+            deter<lb break="no" ed="#P" n="17"/>minate necessaria ad Concilinm, sed id totum
+            <lb ed="#P" n="18"/>pendere ex voluntate Pontificis, qui suam 
+            po<lb break="no" ed="#P" n="19"/>testatem committit quibus vult, quod maxime
+            <lb ed="#P" n="20"/>procedit apud opinantes, episcopos non esse
+            <lb ed="#P" n="21"/>judices in Concilio , sed consiliarios 
+            Ponti<lb break="no" ed="#P" n="22"/>ficis.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1287">
+            <lb ed="#P" n="23"/>16. Pro allatis objectionibus primuwm 
+            pronun<lb break="no" ed="#P" n="24"/>tiatum.—Ad has objectiones, primo 
+            conceden<lb break="no" ed="#P" n="25"/>dum praerogativam ferendi suffragii in 
+            Con<lb break="no" ed="#P" n="26"/>cilio generali non adeo esse Episcoporum 
+            pro<lb break="no" ed="#P" n="27"/>priam, ut nequeat Pontifex eam aliis 
+            commu<lb break="no" ed="#P" n="28"/>nicare, si expedire censuerit (quamvis quia
+            <lb ed="#P" n="29"/>Episcoporum dignitas jure divino fuit 
+            institu<lb break="no" ed="#P" n="30"/>ta, ad Episcopos quasi ordinario jure 
+            perti<lb break="no" ed="#P" n="31"/>neat, ut ad generale Concilium convocentur),
+            <lb ed="#P" n="32"/>ut tenet communis sententia ; et ratio est,
+            <lb ed="#P" n="33"/>quia actus jurisdictionis, illi praecipue qui ad
+            <lb ed="#P" n="34"/>externum regimen Ecclesia ordinantur, 
+            com<lb break="no" ed="#P" n="35"/>municari possunt per Pontificem quibusvis
+            <lb ed="#P" n="36"/>ecclesiasticis personis capacibus talis 
+            jurisdic<lb break="no" ed="#P" n="37"/>tionis; sunt autem capaces, etiam non 
+            Episco<lb break="no" ed="#P" n="38"/>pi. nam actus qui in Concilio exercentur per
+            <lb ed="#P" n="39"/>se et intrinsece non pendent a consecratione
+            <lb ed="#P" n="40"/>episcopali.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1329">
+            <lb ed="#P" n="41"/>17. Secundum pronuntiatum. — Hinc 
+            sc<lb break="no" ed="#P" n="42"/>cundo probabilius est Cardinales nunc ex jure
+            <lb ed="#P" n="43"/>ordinario pertinere ad generale Concilium, 
+            si<lb break="no" ed="#P" n="44"/>ve id habeant a jure divino, sive Pontificio,
+            <lb ed="#P" n="45"/>quod etiam pendet ex illa quaestione, an 
+            Car<lb break="no" ed="#P" n="46"/>dinalium dignitas sit jure humano introducta,
+            <lb ed="#P" n="47"/>ut vult Scotüus, in 4, distinct. 24, quaest. 2,
+            <lb ed="#P" n="48"/>art. 4; Victor., relectione secunda de Potestate
+            <lb ed="#P" n="49"/>Ecclesiae, quaest. 2, num. 24; vel divino, ut
+            <lb ed="#P" n="50"/>tenet Turrecremata, lib. 1, cap. 8, et plures
+            <lb ed="#P" n="51"/>alii ; quidquid vero de hoc sit, jam Doctores
+            <lb ed="#P" n="52"/>omnes citati conveniunt Cardinales habere
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>suffragium definitivum in Concilio, ut latius
+            <lb ed="#P" n="54"/>prosequitur Turrecremata, lib. 3, cap. 14*.
+            <lb ed="#P" n="55"/>Ratio vero est, quia jam ex usu et concessione
+            <lb ed="#P" n="56"/>Pontificum, praeferuntur Cardinales Episcopis,
+            <lb ed="#P" n="57"/>in his quae episcopalis consecratio essentialiter
+            <lb ed="#P" n="58"/>non fundat ; tum etiam quia in suis titulis 
+            ha<lb break="no" ed="#P" n="59"/>bent jurisdictionem episcopalem, cap. 7is qui,
+            <lb ed="#P" n="60"/>de Majoritate et obedientia. Unde in Concilio
+            <lb ed="#P" n="61"/>Lateranensi, sub Leone X, ante Episcopos 
+            sub<lb break="no" ed="#P" n="62"/>scribunt Cardinales.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1381">
+            <lb ed="#P" n="63"/>18. Tertium pronuntiatum. — Quartum. —
+            <lb ed="#P" n="64"/>Quintum. — Sextum. — Ad falsas sententias
+            <lb ed="#P" n="65"/>a numn.2 allatas.—Tertio, Generales ordinum
+            <lb ed="#P" n="66"/>ex consuetudine et concessione Pontificum 
+            ha<lb break="no" ed="#P" n="67"/>bent suffragium, quamvis ex jure communi
+            <lb ed="#P" n="68"/>non oporteret illos vocare. Quarto, de 
+            Abbati<lb break="no" ed="#P" n="69"/>bus non viget talis aliqua consuetudo, nec
+            <lb ed="#P" n="70"/>Pontifices illis hoc concesserunt, nec eorum
+            <lb ed="#P" n="71"/>dignitas talis est, ut putandum sit jure 
+            divi<lb break="no" ed="#P" n="72"/>no hoc a ipsos pertinere, et quamvis aliis in
+            <lb ed="#P" n="73"/>rebus videatur eorum jurisdictio similis 
+            epis<lb break="no" ed="#P" n="74"/>copali, non tamen in omnibus, quia id ex jure
+            <lb ed="#P" n="75"/>humano descendit ; videatur Jacobatius ? 
+            re<lb break="no" ed="#P" n="76"/>ferens multos, libro secundo, capite secundo,
+            <lb ed="#P" n="77"/>versiculo Dubium tamen est ; Alban., prima
+            <lb ed="#P" n="78"/>parte de Concil., cap. 16. Quinto, Episcopi
+            <lb ed="#P" n="79"/>annulares vocari sine dubio possunt ad 
+            Conci<lb break="no" ed="#P" n="80"/>lium, et habere suffragia; per se vero id 
+            mini<lb break="no" ed="#P" n="81"/>me necessarium est, quia jurisdictione carent
+            <lb ed="#P" n="82"/>episeopali. Et ita habet usus. Sexto, de aliis
+            <lb ed="#P" n="83"/>laicis probabilius est non posse Pontificem eis
+            <lb ed="#P" n="84"/>concedere suffragium in Concilio generali,
+            <lb ed="#P" n="85"/>quanquam doctissimi sint ; quod quidem non
+            <lb ed="#P" n="86"/>est adeo certum; attamen traditio Ecclesiae id
+            <lb ed="#P" n="87"/>satis confirmat ; nunquam enim id factum
+            <lb ed="#P" n="88"/>legimus , cujus ratio est, quia jure saltem 
+            or<lb break="no" ed="#P" n="89"/>dinario capaces non sunt jurisdictionis 
+            Eecle<lb break="no" ed="#P" n="90"/>siae, ut alibi traditur ?: ferre autem suffragium
+            <lb ed="#P" n="91"/>in Concilio non tantum scientiae, sed etiam 
+            ju<lb break="no" ed="#P" n="92"/>risdictionis est actus. Vide Hosium, in 
+            Con<lb break="no" ed="#P" n="93"/>fessione Polonica, capite vigesimo quarto. Et
+            <lb ed="#P" n="94"/>per haec satis patet responsio ad objectiones
+            <lb ed="#P" n="95"/>omnes , et ad argumenta haeresum et 
+            senten<lb break="no" ed="#P" n="96"/>tiarum quas in principio quaestionis 
+            retu<lb break="no" ed="#P" n="97"/>limus.
+          </p>
+        </div>
+        <div xml:id="szthvi-a78746-Dd1e1460">
+          <head xml:id="szthvi-a78746-Hd1e1462">Sectio 2</head>
+          <head xml:id="szthvi-a78746-Hd1e1464" type="question-title">Utrum, ut concilium generale sit, oporteat omnes ecclesiae episcopos, etiam romauum, ad illud vocari et convenire</head>
+          <p xml:id="szthvi-a78746-d1e1467">
+            <pb ed="#P" n="328"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>SECTIO II.
+            <lb ed="#P" n="2"/>Utrum, ut Concilium generale sit, oporteat
+            <lb ed="#P" n="3"/>omnes Ecclesiae Episcopos, etiam 
+            Roma<lb break="no" ed="#P" n="4"/>uum, ad illud vocari et convenire.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1483">
+            <lb ed="#P" n="5"/>1. Difficultas hujus quaestionis in eo est,
+            <lb ed="#P" n="6"/>quod si tantus personarum conventus 
+            requi<lb break="no" ed="#P" n="7"/>ratur ad Concilium generale, pauca aut 
+            for<lb break="no" ed="#P" n="8"/>tasse nullum ex celebratis hactenus in 
+            Ec<lb break="no" ed="#P" n="9"/>clesia Conciliis, dicendum erit generale, quia
+            <lb ed="#P" n="10"/>vix unquam reperiemus omnes omnino 
+            Ec<lb break="no" ed="#P" n="11"/>clesiae Episcopos ad illud convenisse ; si vero
+            <lb ed="#P" n="12"/>neccesse sit majorem saltem partem 
+            Episco<lb break="no" ed="#P" n="13"/>porum cogi, multa etiam Concilia non erunt
+            <lb ed="#P" n="14"/>generalia existimanda, quae communi 
+            Eccle<lb break="no" ed="#P" n="15"/>siae consensu generalia judicantur ; vel si 
+            sa<lb break="no" ed="#P" n="16"/>tis fuerit magnam aliquam partem 
+            Episco<lb break="no" ed="#P" n="17"/>porum convenire, fere nihil dffferet 
+            Conci<lb break="no" ed="#P" n="18"/>lium generale a provinciali vel nationali, cui
+            <lb ed="#P" n="19"/>auctoritas Pontificis adjuncta est. De hac 
+            por<lb break="no" ed="#P" n="20"/>ro quaestione latius Turrecremata, lib. 3, c.
+            <lb ed="#P" n="21"/>16 ; et Cano, lib. 5, cap. 3, et alir.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1522">
+            <lb ed="#P" n="22"/>2. Prima assertio. — Dico tamen breviter
+            <lb ed="#P" n="23"/>primo: ad Concilium generale, per se 
+            neces<lb break="no" ed="#P" n="24"/>sarium est, ut convocatio ipsa generalis sit,
+            <lb ed="#P" n="25"/>id est, ut omnes Episcopi Ecclesiae, qui 
+            pas<lb break="no" ed="#P" n="26"/>tores sunt et jurisdictionem habent, quoad
+            <lb ed="#P" n="27"/>fieri possit, convocentur ; suadetur primo ex
+            <lb ed="#P" n="28"/>ipso nomine generalis Concilii ; secundo,
+            <lb ed="#P" n="29"/>quia id Concilium repraesentat universalem
+            <lb ed="#P" n="30"/>Ecclesiam , ut dicitur in Concilio Constant.,
+            <lb ed="#P" n="31"/>sessione 5, approbaturque a Martino V, ac
+            <lb ed="#P" n="32"/>constat ex adductis sectione praecedenti, ex
+            <lb ed="#P" n="33"/>Leone, Augustino, Athanasio, et aliis 
+            Patri<lb break="no" ed="#P" n="34"/>bus, atque etiam ex Gregorio, cap. Sicut, d.
+            <lb ed="#P" n="35"/>15; et Pelagio, in cap. Confidimus, 21, quaest.
+            <lb ed="#P" n="36"/>1;de quo videri possunt latissime Hosius, de
+            <lb ed="#P" n="37"/>Confessione Polonica, cap. 24; Cano, lib. 5,
+            <lb ed="#P" n="38"/>et Soto, distinctione decima octava , quaest.
+            <lb ed="#P" n="39"/>1, art. 4, ad secundum ; Castro, primo de 
+            Hae<lb break="no" ed="#P" n="40"/>reticorum punitione, cap. 6; et Vega, libro
+            <lb ed="#P" n="41"/>primo super Tridentinum, cap. quinto ; ergo
+            <lb ed="#P" n="42"/>per se necesse est ut in eo conveniant, vel
+            <lb ed="#P" n="43"/>saltem convocentur omnia Ecclesiae capita.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1573">
+            <lb ed="#P" n="44"/>3. Objectio diluitur. — Dices : ergo si talis
+            <lb ed="#P" n="45"/>convocatio aliqua ratione impediatur , non
+            <lb ed="#P" n="46"/>poterit fieri generale Concilium, atque adeo
+            <lb ed="#P" n="47"/>in potestate cujusque tyranuni sita erit 
+            Con<lb break="no" ed="#P" n="48"/>cilii generalis cclebratio. Respondeo idco 
+            ad<lb break="no" ed="#P" n="49"/>didisse me, quoad fieri possit. Quinetiam 
+            ne<lb break="no" ed="#P" n="50"/>cesse non erit convocationem ad aures 
+            sin<lb break="no" ed="#P" n="51"/>gulorum pervenire, sed ex intentione vocan-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="52"/>tis generalem esse, ac per se ad omnes 
+            refer<lb break="no" ed="#P" n="53"/>ri ; non oportebit etiam omnes in particulari
+            <lb ed="#P" n="54"/>vocari, sed satis erit patriarchis , vel 
+            prima<lb break="no" ed="#P" n="55"/>tibus, aut provinciis omnibus edictum 
+            Con<lb break="no" ed="#P" n="56"/>cilii generalis congregandi promulgari, ut 
+            om<lb break="no" ed="#P" n="57"/>nes sigillatim conveniant, vel eos mittant
+            <lb ed="#P" n="58"/>nomine omnium, qui patriarchae aut primati,
+            <lb ed="#P" n="59"/>aut etiam provinciali Concilio sufficere 
+            vide<lb break="no" ed="#P" n="60"/>buntur. Ita Turrecrem. et alii supra; 
+            vide<lb break="no" ed="#P" n="61"/>turque satis rationabile, ut ex dicendis etiam
+            <lb ed="#P" n="62"/>patebit.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1619">
+            <lb ed="#P" n="63"/>4. Secunda assertio. — Dico secundo : vt
+            <lb ed="#P" n="64"/>Concilium generale sit, non oportet omnes
+            <lb ed="#P" n="65"/>Ecclesiae universalis Episcopos, imo nec 
+            ma<lb break="no" ed="#P" n="66"/>jorem eorum partem re ipsa congregari. Est
+            <lb ed="#P" n="67"/>certa ex ratione dubii in principio posita ; 
+            et<lb break="no" ed="#P" n="68"/>enim secunda Synodus generalis, prima 
+            Con<lb break="no" ed="#P" n="69"/>stantinopolitana, universalis censctur, et una
+            <lb ed="#P" n="70"/>earum quae quatuor Evangeliis comparatur,
+            <lb ed="#P" n="71"/>capite primo et secundo, distinctione 15; cum
+            <lb ed="#P" n="72"/>tamen solum convenerint 150 episcopi inter
+            <lb ed="#P" n="73"/>500, et eo amplius qui tunc in Ecclesia 
+            vive<lb break="no" ed="#P" n="74"/>bant, ut sumitur tum ex historiis, tum ex
+            <lb ed="#P" n="75"/>co quod ante plures annos convenerint ad
+            <lb ed="#P" n="76"/>Concilium Nicoenum 318 Patres; praeterea ex
+            <lb ed="#P" n="77"/>Leone Papa, epist. 42 et 50, et epistol. 52,
+            <lb ed="#P" n="78"/>quae est Episcoporum quorumdam ad ipsum,
+            <lb ed="#P" n="79"/>constat ad Concilium Chalcedonense ( quod
+            <lb ed="#P" n="80"/>alterum est ex quatuor illis primis ), ex toto
+            <lb ed="#P" n="81"/>Occidente solos legatos Romani Pontificis 
+            con<lb break="no" ed="#P" n="82"/>venisse ; et in septima Synodo, in epistola
+            <lb ed="#P" n="83"/>Orientalium episcoporum ad Caesarium, 
+            epis<lb break="no" ed="#P" n="84"/>copum Constantinopolitanum, quae habetur
+            <lb ed="#P" n="85"/>actione 3, dicitur nihil derogari auctoritati
+            <lb ed="#P" n="86"/>Concilii generalis ex absentia trium 
+            patriar<lb break="no" ed="#P" n="87"/>chalium sedium, ac etiam plurimorum 
+            Epis<lb break="no" ed="#P" n="88"/>coporum qui sub illis sunt. Confirmatur, quia
+            <lb ed="#P" n="89"/>saepe est impossibile tot Episcopos convenire
+            <lb ed="#P" n="90"/>in Concilium propter bella, aut tyrannos, aut
+            <lb ed="#P" n="91"/>similia incommoda. Ratio vero a priori est,
+            <lb ed="#P" n="92"/>quia generale Concilium non tam re quam
+            <lb ed="#P" n="93"/>repraesentatione , et quadam quodammodo
+            <lb ed="#P" n="94"/>auctoritate , dicitur universalem Ecclesiam
+            <lb ed="#P" n="95"/>continere ; potest autem habere hanc 
+            gene<lb break="no" ed="#P" n="96"/>ralem repraesentationem et auctoritatem ,
+            <lb ed="#P" n="97"/>quamvis non omnes Episcopi, nec major 
+            eo<lb break="no" ed="#P" n="98"/>rum pars conveniat, ut ostendetur ; ergo, etc.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1700">
+            <lb ed="#P" n="99"/>5. Tertia assertio bipartita.— Prior pars
+            <lb ed="#P" n="100"/>ostenditur.— Dico tertio : ut Concilium 
+            gene<lb break="no" ed="#P" n="101"/>rale sit, duo praecipue necessaria sunt: unum
+            <lb ed="#P" n="102"/>est praesentia Papae per se vel per suos legatos;
+            <lb ed="#P" n="103"/>alterum, ut ex aliis Episcopis ea multitudo
+            <lb ed="#P" n="104"/>conveniat, quae vel omnes comprehendat, vel
+            <lb ed="#P" n="105"/>saltem repraesentet, et vicem absentium 
+            su<lb break="no" ed="#P" n="106"/>beat. Hanc conclusionem indicant auctores
+            <pb ed="#P" n="329"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>supra citati, et Jacobat., lib. 5, art. 7, et 
+            AI<lb break="no" ed="#P" n="2"/>ban., cap. 7 et 21, colligiturque ex ordine
+            <lb ed="#P" n="3"/>servato in omnibus pene generalibus Concilis.
+            <lb ed="#P" n="4"/>Prioris partis ratio est, quoniam si auctoritas
+            <lb ed="#P" n="5"/>Episcopi Romani non interveniat, deerit in
+            <lb ed="#P" n="6"/>Concilio caput, atque adeo potestas in 
+            uni<lb break="no" ed="#P" n="7"/>versam Fcclesiam, quae in ipso maxime 
+            resi<lb break="no" ed="#P" n="8"/>det : usus autem et traditio Ecclesiae docet
+            <lb ed="#P" n="9"/>hanc praesentiam sufficienter fieri per legatos,
+            <lb ed="#P" n="10"/>quod qua ratione intelligendum sit, et quae
+            <lb ed="#P" n="11"/>difficultas in eo occurrere possit, sectione 
+            se<lb break="no" ed="#P" n="12"/>quenti explicabitur, et aliqua ex parte dictum
+            <lb ed="#P" n="13"/>est supra, disput. 5, sect. 7.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1752">
+            <lb ed="#P" n="14"/>6. Ostenditur posterior. — Secunda vero
+            <lb ed="#P" n="15"/>pars assertionis liquet etiam ex usu Ecclesiae,
+            <lb ed="#P" n="16"/>imo et cujuslibet reipublicae generaliumque
+            <lb ed="#P" n="17"/>congregationum; quando enim primates 
+            om<lb break="no" ed="#P" n="18"/>nes et capita convenire non possunt, alii aliis
+            <lb ed="#P" n="19"/>suas vices tribuunt, ut quod ab his fuerit 
+            de<lb break="no" ed="#P" n="20"/>cretum, ab omnibus definitum esse censeatur.
+            <lb ed="#P" n="21"/>Tandem hoc postulat ipsa veluti naturalis 
+            con<lb break="no" ed="#P" n="22"/>ditio rerum humanarum, quae alio modo 
+            trac<lb break="no" ed="#P" n="23"/>tari non possunt ; unde moraliter idem 
+            judi<lb break="no" ed="#P" n="24"/>catur, multos nomine et potestate omnium
+            <lb ed="#P" n="25"/>convenire, ac omnes ad unum interesse.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1781">
+            <lb ed="#P" n="26"/>7. Quastiunculae satisfit triplici efato. —
+            <lb ed="#P" n="27"/>Petes hoc loco, quidnam requiratur ut qui
+            <lb ed="#P" n="28"/>conveniunt, omnium nomine congregati 
+            cen<lb break="no" ed="#P" n="29"/>seantur eosque repraesentent ? Respondeo 
+            pri<lb break="no" ed="#P" n="30"/>mo non esse habendam rationem 
+            Episcopo<lb break="no" ed="#P" n="31"/>rum, qui Summo Pontifici non obediunt;
+            <lb ed="#P" n="32"/>nam, licet illi simpliciter sint membra verae
+            <lb ed="#P" n="33"/>Ecclesiae, ut disputatione nona, sectione 
+            pri<lb break="no" ed="#P" n="34"/>ma, a numero decimo tertio, tractatum est,
+            <lb ed="#P" n="35"/>attamen ob schisma divisi ab ea sunt; non
+            <lb ed="#P" n="36"/>sunt igitur Concilio generali necessarii, nec
+            <lb ed="#P" n="37"/>regulariter vocandi, nisi forte ut resipiscant.
+            <lb ed="#P" n="38"/>Secundo, qui Episcopi obedientes Pontifici
+            <lb ed="#P" n="39"/>vocari non possunt commode de facto propter
+            <lb ed="#P" n="40"/>impedimentum aliquod, vel convocationem
+            <lb ed="#P" n="41"/>ignorant, vel venire ipsi non possunt, nec 
+            ali<lb break="no" ed="#P" n="42"/>quem suo nomine mittere, tenentur suo juri
+            <lb ed="#P" n="43"/>cedere, ac consentire, ut alii eorum locum 
+            te<lb break="no" ed="#P" n="44"/>neant, et ita eos velle presumendum est. 
+            Ter<lb break="no" ed="#P" n="45"/>tio si aliqui ob malitium venire ipsi nolint, aut
+            <lb ed="#P" n="46"/>alios mittere, qui conveniunt, praecipue ex 
+            Ro<lb break="no" ed="#P" n="47"/>mani Pontificis auctoritate, declarare possunt
+            <lb ed="#P" n="48"/>se vices omnium subire, et alios, qui venire 
+            no<lb break="no" ed="#P" n="49"/>lIunt, suffragii jure esse privatos, vel certe 
+            in<lb break="no" ed="#P" n="50"/>vitos etiam et coactos suas vices praesentibus
+            <lb ed="#P" n="51"/>committere. Unde tandem fit ut tota haec 
+            re<lb break="no" ed="#P" n="52"/>praesentatio universalis Concilii potissimum
+            <lb ed="#P" n="53"/>pendeat ex legitima ipsius declaratione, et 
+            prae<lb break="no" ed="#P" n="54"/>cipue Romani Pontificis, qui a principio 
+            in<lb break="no" ed="#P" n="55"/>tendit Concilium generale congregare: et eo
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>modo congregatio evadit generalis, prout 
+            po<lb break="no" ed="#P" n="57"/>test commode ; tuncque ipsum Concilium 
+            auc<lb break="no" ed="#P" n="58"/>toritative declarat Episcopos ibi congregatos
+            <lb ed="#P" n="59"/>locum omnium caeterorum tenere, atque adeo
+            <lb ed="#P" n="60"/>generale Concilium in eis sufficienter 
+            con<lb break="no" ed="#P" n="61"/>sistere.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1864">
+            <lb ed="#P" n="62"/>8. quarta assertio.— Dico quarto : quaedam
+            <lb ed="#P" n="63"/>sunt Concilia generalia non simpliciter, ad
+            <lb ed="#P" n="64"/>quae scilicet non vocantur Episcopi totius 
+            or<lb break="no" ed="#P" n="65"/>bis, sed cujusdam nationis, praesentibus 
+            lega<lb break="no" ed="#P" n="66"/>tis Romani Pontificis, atque adeo quae quoad
+            <lb ed="#P" n="67"/>potestatem et auctoritatem generalia sunt ob
+            <lb ed="#P" n="68"/>praesentiam Pontificis, licet non quoad 
+            con<lb break="no" ed="#P" n="69"/>vocationem ; ita patet ex usu, nam in Africa
+            <lb ed="#P" n="70"/>hujusmodi fuit Concilium Milevitanum, cui
+            <lb ed="#P" n="71"/>praefuit Anselmus, Romanse sedis legatus:
+            <lb ed="#P" n="72"/>nonnulla etiam Concilia Toletana, ut patet ex
+            <lb ed="#P" n="73"/>epistola prima Gregorii ad Leandrum, et 
+            epis<lb break="no" ed="#P" n="74"/>tol. 92 Leonis Papae ad Turibium ; multa
+            <lb ed="#P" n="75"/>item Romana, quae generalia dici solent, quo
+            <lb ed="#P" n="76"/>sensu ait Nicolaus I, epistola ad Michaelem
+            <lb ed="#P" n="77"/>imperatorem, in casu Marcellini Papae 
+            con<lb break="no" ed="#P" n="78"/>gregatum fuisse Concilium omnium 
+            Episco<lb break="no" ed="#P" n="79"/>porum, cum tamen centum octoginta solum
+            <lb ed="#P" n="80"/>convenerint ex patriarchatu Romano, ut refert
+            <lb ed="#P" n="81"/>Platina; sic etiam Concilium Nicaenum 
+            habe<lb break="no" ed="#P" n="82"/>tur primum generale, et 
+            Constantinopolita<lb break="no" ed="#P" n="83"/>num primum dicitur secundum generale,
+            <lb ed="#P" n="84"/>quamvis et inter ea fuerit celebratum 
+            Conci<lb break="no" ed="#P" n="85"/>lium Romanum, quod praedicto modo 
+            gene<lb break="no" ed="#P" n="86"/>rale secundum quid appellatur, et ante 
+            Nicae<lb break="no" ed="#P" n="87"/>num alia similia fuerint celebrata, ut de 
+            tem<lb break="no" ed="#P" n="88"/>pore Marcellini dictum est; et de tempore
+            <lb ed="#P" n="89"/>Cornelii refert Eusebius, libro sexto, capite
+            <lb ed="#P" n="90"/>quadragesimo tertio. Itaque Nicaenum fuit
+            <lb ed="#P" n="91"/>primum inter generalia simpliciter, prout
+            <lb ed="#P" n="92"/>praecedentibus conclusionibus descripta sunt;
+            <lb ed="#P" n="93"/>exceptis tamen Conciliis Apostolorum, quae
+            <lb ed="#P" n="94"/>quatuor fuisse dicuntur, vel, ut alii volunt,
+            <lb ed="#P" n="95"/>quinque, quamvis illud quod Actorum decimo
+            <lb ed="#P" n="96"/>quinro refertur, sit celebrius et magis in 
+            mo<lb break="no" ed="#P" n="97"/>dum Concilii congregatum. Vide Jacobatium,
+            <lb ed="#P" n="98"/>libro primo, S Sed nunc, etc., et Albanum,
+            <lb ed="#P" n="99"/>l. 1 de Conciliis, capite primo.
+          </p>
+        </div>
+        <div xml:id="szthvi-a78746-Dd1e1950">
+          <head xml:id="szthvi-a78746-Hd1e1952">Sectio 3</head>
+          <head xml:id="szthvi-a78746-Hd1e1954" type="question-title">Ad quem spectet concilium generale congregare atque in illo praesidere, ejusque decreta confirmare</head>
+          <p xml:id="szthvi-a78746-d1e1957">
+            <lb ed="#P" n="100"/>SECTIO III
+            <lb ed="#P" n="101"/>Ad quem spectet Concilium generale congregare
+            <lb ed="#P" n="102"/>atque in illo praesidere, ejusque decreta 
+            con<lb break="no" ed="#P" n="103"/>firmare.
+          </p>
+          <p xml:id="szthvi-a78746-d1e1968">
+            <lb ed="#P" n="104"/>1. De quibus conciliis sit questio. — 
+            Suppo<lb break="no" ed="#P" n="105"/>no quaestionem esse de Conciliis, quae 
+            congre<lb break="no" ed="#P" n="106"/>gantur ad definiendas res fidei vel morum,
+            <lb ed="#P" n="107"/>aut leges ferendas quae universam Ecclesiam
+            <pb ed="#P" n="330"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>obligent ; haec euim proprie, et per se 
+            loquen<lb break="no" ed="#P" n="2"/>do, sunt Concilia universalia, idque dico, ut
+            <lb ed="#P" n="3"/>pratermittam eventus quibus, praecedenti 
+            dis<lb break="no" ed="#P" n="4"/>putatione, diximus posse congregari universae
+            <lb ed="#P" n="5"/>Ecclesiae Episcopos sine Papae auctoritate, 
+            ve<lb break="no" ed="#P" n="6"/>luti si sedes vacaret, Cardinalesque 
+            neglige<lb break="no" ed="#P" n="7"/>rent convenire ad electionem; vel si Papa
+            <lb ed="#P" n="8"/>haereticus fieret, admonitusque non 
+            resipisce<lb break="no" ed="#P" n="9"/>ret, ac nollet Concilium cogi; vel denique si
+            <lb ed="#P" n="10"/>universale schisma grassaretur, et nullus esset
+            <lb ed="#P" n="11"/>Pontifex certus; nam talia Concilia nonnisi
+            <lb ed="#P" n="12"/>secundum quid generalia sunt, cum capite
+            <lb ed="#P" n="13"/>careant. Unde per se non habent potestatem
+            <lb ed="#P" n="14"/>in universam Ecclesiam, nec causam aliam
+            <lb ed="#P" n="15"/>tractare possunt, quam cujus gratia 
+            congre<lb break="no" ed="#P" n="16"/>gantur, scilicet, ut Papam eligant, vel 
+            haere<lb break="no" ed="#P" n="17"/>ticum declarent ; quod si aliud quidpiam 
+            ag<lb break="no" ed="#P" n="18"/>grediantur, et errare possunt, et auctoritatem
+            <lb ed="#P" n="19"/>non habent obligandi ; quae omnia, et ex 
+            su<lb break="no" ed="#P" n="20"/>perioribus satis probari possunt, et ex his quae
+            <lb ed="#P" n="21"/>jam dicemus. Vide Cajetanum, opusculo primo
+            <lb ed="#P" n="22"/>de Auctoritate Papae, capite 16; 
+            Turrecrema<lb break="no" ed="#P" n="23"/>tam, libro 3, capite 8; Pighium, libro 6, 
+            ca<lb break="no" ed="#P" n="24"/>pite 18; Jacobatium, libro tertio, articulo
+            <lb ed="#P" n="25"/>primo. Omissis ergo his extraordinariis 
+            con<lb break="no" ed="#P" n="26"/>gregationibus,
+          </p>
+          <p xml:id="szthvi-a78746-d1e2040">
+            <lb ed="#P" n="27"/>2. Prima assertio tripartita. — Ostenditur
+            <lb ed="#P" n="28"/>prima pars em congruentüs. — Dico primo:
+            <lb ed="#P" n="29"/>potestas ordinaria cogendi Concilium generale
+            <lb ed="#P" n="30"/>in uno aliquo Principe Ecclesiae debet residere,
+            <lb ed="#P" n="31"/>qui non est imperator, vel alius princeps 
+            sae<lb break="no" ed="#P" n="32"/>cularis, sed Romanus Pontifex. Prima pars
+            <lb ed="#P" n="33"/>solum ex congruentiis ostendi potest; nam
+            <lb ed="#P" n="34"/>efficacioribus argumentis disputanda est simul
+            <lb ed="#P" n="35"/>cum tertia. Probatur ergo, quia cum 
+            Concilio<lb break="no" ed="#P" n="36"/>rum congregatio sit maxime necessaria 
+            Ec<lb break="no" ed="#P" n="37"/>clesiae, ut et usus et ratio satis ostendit, 
+            opor<lb break="no" ed="#P" n="38"/>tuit hanc Conciliorum ordinariam 
+            congrega<lb break="no" ed="#P" n="39"/>tionem posse optima ratione et ordinate fieri;
+            <lb ed="#P" n="40"/>ergo oportuit potestatem vocandi ad hoc 
+            Con<lb break="no" ed="#P" n="41"/>cilium in uno aliquo residere, alias magna
+            <lb ed="#P" n="42"/>esset confusio, si hujusmodi res singulorum
+            <lb ed="#P" n="43"/>principum Ecclesiae judicio relinquerentur;
+            <lb ed="#P" n="44"/>sequerentur enim facile scandala, seditiones
+            <lb ed="#P" n="45"/>ct similia, quae accidisse jam scimus in 
+            mul<lb break="no" ed="#P" n="46"/>tis Conciliabulis ab haereticis ac schismaticis
+            <lb ed="#P" n="47"/>coactis. Nec vero poterat convenienter haec
+            <lb ed="#P" n="48"/>potestas multis committi ; nam vel 
+            committe<lb break="no" ed="#P" n="49"/>retur divisim, et hoc manifestam pareret 
+            con<lb break="no" ed="#P" n="50"/>fusionem ac dissensionem, quia darentur 
+            qua<lb break="no" ed="#P" n="51"/>si duo capita in uno corpore; vel 
+            committe<lb break="no" ed="#P" n="52"/>retur conjunctim, quod etiam dici non potest,
+            <lb ed="#P" n="53"/>cum nulla sit plurium hominum multitudo,
+            <lb ed="#P" n="54"/>ad quam hic actus possit spectare; nam 
+            maxi<lb break="no" ed="#P" n="55"/>me poneretur tota Episcoporum collectio, quae
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>plane inepta esset, quia ea potestas residere
+            <lb ed="#P" n="57"/>debet in uno aliquo. qui omnibus Episcopis
+            <lb ed="#P" n="58"/>imperet ; congregatio autem Episcoporum
+            <lb ed="#P" n="59"/>nequit singulis Episcopis imperare, nisi prius
+            <lb ed="#P" n="60"/>ipsa sit legitime congregata. Atque hoc etiam
+            <lb ed="#P" n="61"/>confirmant omnia supra adducta de Ecclesiae
+            <lb ed="#P" n="62"/>monarchia. S
+          </p>
+          <p xml:id="szthvi-a78746-d1e2124">
+            <lb ed="#P" n="63"/>3. Secunda pars ostenditur primo. — 
+            Se<lb break="no" ed="#P" n="64"/>cunda vero conclusionis pars constat ex 
+            om<lb break="no" ed="#P" n="65"/>nibus, per quae supra ostendimus spiritualem
+            <lb ed="#P" n="66"/>potestatem gubernandi Ecclesiam non 
+            reside<lb break="no" ed="#P" n="67"/>re in laicis neque principibus saecularibus;
+            <lb ed="#P" n="68"/>potestas autem congregandi Concilium 
+            spi<lb break="no" ed="#P" n="69"/>ritualis cst, et directe spectans ad Ecclesiae
+            <lb ed="#P" n="70"/>regimen. Secundo, probari potest 
+            confessioni<lb break="no" ed="#P" n="71"/>bus et testimoniis ipsorum imperatorum, quae
+            <lb ed="#P" n="72"/>supra adduximus; et ex Valentiniano 
+            re<lb break="no" ed="#P" n="73"/>fert optimum testimonium Sozomenus, lib. 6
+            <lb ed="#P" n="74"/>Histor., cap. 7. Tertio ex usu, et consuetudine
+            <lb ed="#P" n="75"/>Ecclesiae. Videatur Sanderus, libr. 2 
+            Mo<lb break="no" ed="#P" n="76"/>narch., cap. 2 et 3; Pighius, lib. 5.
+          </p>
+          <p xml:id="szthvi-a78746-d1e2157">
+            <lb ed="#P" n="77"/>4. Haplicatur pars tertia. — Est de fide,
+            <lb ed="#P" n="78"/>et suadetur ex dictis. — Tertia pars 
+            conclu<lb break="no" ed="#P" n="79"/>sionis explicatur ', sensus enim illius est, 
+            so<lb break="no" ed="#P" n="80"/>lum Romanum Pontificem posse praecipere
+            <lb ed="#P" n="81"/>omnibus Ecclesiae Episcopis, ut certo loco et
+            <lb ed="#P" n="82"/>tempore ad Concilium generale conveniant,
+            <lb ed="#P" n="83"/>itemque solum illud Concilium , quod ejus
+            <lb ed="#P" n="84"/>praecepto et voluntate cogitur , esse 
+            legiti<lb break="no" ed="#P" n="85"/>mum, atque habere auctoritatem tractandi de
+            <lb ed="#P" n="86"/>rebus fidei, et morum universalis Ecclesiae; in
+            <lb ed="#P" n="87"/>hoc sensu conclusio est de fide simpliciter,
+            <lb ed="#P" n="88"/>quam auctores supra citati late probant, et
+            <lb ed="#P" n="89"/>eam docet D. Thomas secunda secundae, 
+            quaes<lb break="no" ed="#P" n="90"/>tione prima , articulo decimo, et quaestione
+            <lb ed="#P" n="91"/>decima de Potentia, articulo quarto, ad 
+            deci<lb break="no" ed="#P" n="92"/>mum tertium ; ad probationem vero 
+            suffice<lb break="no" ed="#P" n="93"/>rent ea, quibus supra ostendimus solum 
+            Pon<lb break="no" ed="#P" n="94"/>tificem Summum habere a Christo Domino
+            <lb ed="#P" n="95"/>potestatem in universam Ecclesiam ; nam 
+            in<lb break="no" ed="#P" n="96"/>de evidenter sequitur et illum habere 
+            potes<lb break="no" ed="#P" n="97"/>tatem, et nullum habere praeter ipsum.
+          </p>
+          <p xml:id="szthvi-a78746-d1e2205">
+            <lb ed="#P" n="98"/>5. Item ex Pontificum testimonüis 
+            proba<lb break="no" ed="#P" n="99"/>tur. — Sed probatur praeterea primo, variis
+            <lb ed="#P" n="100"/>testimoniis, Marcellini Papae, Epistola prima
+            <lb ed="#P" n="101"/>ad Antiochenae Ecclesiae Episcopos, ubi sic ait:
+            <lb ed="#P" n="102"/>Simul Apostoli et successores, inspirante 
+            Do<lb break="no" ed="#P" n="103"/>mino, constituerunt ut nulla Sgynodus fieret
+            <lb ed="#P" n="104"/>praeter Romani Pontificis auctoritatem ; quod
+            <lb ed="#P" n="105"/>refertur can. 17 ^postolorum , de quo vide
+            <lb ed="#P" n="106"/>Turrian., lib. 1 contra Centuriat. , cap. 22.
+            <lb ed="#P" n="107"/>Idem Marcell. , epistola ad Maxen., et habe-
+            <pb ed="#P" n="331"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>tur cap. 1, distinct. 17 , doeet provincialia
+            <lb ed="#P" n="2"/>Concilia posse congregari sine auctoritate 
+            Pa<lb break="no" ed="#P" n="3"/>pae. non tamen generalia regulariter, id est
+            <lb ed="#P" n="4"/>canonice et legitime; idem Julius I, epistola
+            <lb ed="#P" n="5"/>prima ; Gelasius II, epistola prima; Felix II
+            <lb ed="#P" n="6"/>epistola ad Synodum Alexandrinam ; latius
+            <lb ed="#P" n="7"/>Nicolaus, epistola prima ad Michaelem 
+            Impe<lb break="no" ed="#P" n="8"/>ratorem. Item Damasus Papa, epist. 3 ad
+            <lb ed="#P" n="9"/>Stephan., et in rescripto ad Episcopos 
+            Mauri<lb break="no" ed="#P" n="10"/>tania; habetur, 17 d., cap. Fuic soli ; et 
+            Sym<lb break="no" ed="#P" n="11"/>machus Papa cum Synodo Romana 3 et 4.
+          </p>
+          <p xml:id="szthvi-a78746-d1e2257">
+            <lb ed="#P" n="12"/>6. Ex Conciliis. — Can. Nicenus non 
+            ex<lb break="no" ed="#P" n="13"/>tans a multis memoratur. — Secundo, idem
+            <lb ed="#P" n="14"/>definivit Concilium Nicanum [; Canon tamen
+            <lb ed="#P" n="15"/>hac de re editus non extat inter viginti quos
+            <lb ed="#P" n="16"/>nunc habemus; illius vero meminit 
+            Athana<lb break="no" ed="#P" n="17"/>sius cum Synodo Alexandrina , epistola ad
+            <lb ed="#P" n="18"/>Felicem II: Scinnus, aiunt, ab omnibus in 
+            Ni<lb break="no" ed="#P" n="19"/>cena sSqnodo concorditer constitutum , non
+            <lb ed="#P" n="20"/>esse Concilia celebranda, non Episcopos 
+            dam<lb break="no" ed="#P" n="21"/>nandos absque Romani Pontificis sententia ;
+            <lb ed="#P" n="22"/>idem refert Julius I, loco supra citato, et in
+            <lb ed="#P" n="23"/>epistol. 2; et Damas., dicta epistola ad 
+            Ste<lb break="no" ed="#P" n="24"/>phanum; refertur etiam idem canon a Leonel,
+            <lb ed="#P" n="25"/>epistola ad Theodos. imperatorem, et a 
+            Gela<lb break="no" ed="#P" n="26"/>sio I, in tomo de Vinculo anathematis, et in
+            <lb ed="#P" n="27"/>epistola ad Ebpiscopos Dardania ; adducitur
+            <lb ed="#P" n="28"/>deinde a Niceph., lib. 9, cap. 5, et in 10 
+            scri<lb break="no" ed="#P" n="29"/>bit Eusebium Nicomediensem congregasse
+            <lb ed="#P" n="30"/>Concilium, cui non interfnit Julius, nec ejus
+            <lb ed="#P" n="31"/>legatus : Cum tamen, inquit, ecclesiastico 
+            ca<lb break="no" ed="#P" n="32"/>none sancitum sit, non debere Ecclesiam 
+            prae<lb break="no" ed="#P" n="33"/>ter sententiam Romani Pontificis synodice,
+            <lb ed="#P" n="34"/>aut conciliariter congregari, qui canon 
+            eccle<lb break="no" ed="#P" n="35"/>siasticus certe nullus alius esse potest, nisi
+            <lb ed="#P" n="36"/>vel a Pontifice Summo, vel a Concilio 
+            Nicae<lb break="no" ed="#P" n="37"/>no editus, quia tunc nullum erat aliud 
+            ge<lb break="no" ed="#P" n="38"/>nerale Concilium congregatum post 
+            Aposto<lb break="no" ed="#P" n="39"/>lorum tempora. Eodem modo Socrates, lib. 4,
+            <lb ed="#P" n="40"/>Tripart.. cap. 9, scribit hoc haberi ex regula
+            <lb ed="#P" n="41"/>ecclesiastica ; et rursum, lib. 2 histor. suae,
+            <lb ed="#P" n="42"/>cap. 8 et 17 ; Sozom., lib. 3, cap. 10 et 11.
+            <lb ed="#P" n="43"/>Hanc eamdem summi Pontificis potestatem
+            <lb ed="#P" n="44"/>agnoscunt Patres in 7 Synodo, actione 6, et
+            <lb ed="#P" n="45"/>in 8 Synodo, actione 1 et 7 ; Concilium 
+            Late<lb break="no" ed="#P" n="46"/>ranense, sub Leone X, sess. 11; tria Conci'ia
+            <lb ed="#P" n="47"/>Africana in Epistola ad Damas. ; et Synodus
+            <lb ed="#P" n="48"/>Romanorum sub Damaso. Vide Trifart., 15.
+            <lb ed="#P" n="49"/>c. 19, et plura alia in 16 et 17 d. decreti.
+          </p>
+          <p xml:id="szthvi-a78746-d1e2342">
+            <lb ed="#P" n="50"/>7. Tertio ex derogatione Conciliorum sine 
+            auc<lb break="no" ed="#P" n="51"/>toritate Pontificum coactorum.— ltem ex praai.
+            <lb ed="#P" n="52"/>— Tertio, plura Conciliabula, tametsi ex 
+            ma<lb break="no" ed="#P" n="53"/>gna Episcoporum multitudine coacta, hoc solo
+            <lb ed="#P" n="54"/>nomine sufficienter abrogantur, quod absque
+            <lb ed="#P" n="55"/>Summi Pontificis auctoritate congregata sint,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>Id primum patet ex Conciliabulo Ariminensi
+            <lb ed="#P" n="57"/>500 Episcoporum, vi et potentia Constantini
+            <lb ed="#P" n="58"/>imperatoris congregatorum , quod Damasus
+            <lb ed="#P" n="59"/>Papa, epistol. 5, cum Concilio 90 
+            Episcopo<lb break="no" ed="#P" n="60"/>rum, non alia ratione reprobat, quam quia
+            <lb ed="#P" n="61"/>Romani Pontificis non expectavit decretum ;
+            <lb ed="#P" n="62"/>idem praestitit Gelasius Papa cum Synodo 70
+            <lb ed="#P" n="63"/>Episcoporum. Idemque fuit tunc universalis
+            <lb ed="#P" n="64"/>Ecclesiae sensus, ut refert Niceph., lib. 11,
+            <lb ed="#P" n="65"/>cap. 31, et effectus rem comprobavit; nam
+            <lb ed="#P" n="66"/>propterea a vero erravit illud Conciliabulum.
+            <lb ed="#P" n="67"/>Simile exemplum visitur in coetu 338 
+            Epis<lb break="no" ed="#P" n="68"/>coporum, qui sub Leone III, imperatore, 
+            ima<lb break="no" ed="#P" n="69"/>ginum usum damnavit, ac reprobatur in 7
+            <lb ed="#P" n="70"/>Synodo, actione 6, quia Romanum 
+            Pontifi<lb break="no" ed="#P" n="71"/>cem auctorem non habuit : quod etiam docet
+            <lb ed="#P" n="72"/>Adrianus I, epistola ad Tarasium. In secunda
+            <lb ed="#P" n="73"/>quoque Synodo Ephesina, Dioscorus Alexand.
+            <lb ed="#P" n="74"/>Leonem Papam excommunicavit, cujus 
+            ta<lb break="no" ed="#P" n="75"/>men acia pradatoria dicuntur a Patribus
+            <lb ed="#P" n="76"/>Graecis, et in 8 Synodo vocantur Latrocinia,
+            <lb ed="#P" n="77"/>et in Concilio Chalcedonensi prorsus 
+            impro<lb break="no" ed="#P" n="78"/>bantur, hoc titulo, quod sine auctoritate 
+            Ro<lb break="no" ed="#P" n="79"/>mani Pontificis fierent; sunt et alia similla
+            <lb ed="#P" n="80"/>multa, de quibus legito Waldensem, libr. 2
+            <lb ed="#P" n="81"/>Doctrin. fidei, cap. 19; et Turrecremat.,
+            <lb ed="#P" n="82"/>Iib. 3, cap. 18.
+          </p>
+          <p xml:id="szthvi-a78746-d1e2418">
+            <lb ed="#P" n="83"/>8. Ostenditur consuetudine. — Quarto 
+            pos<lb break="no" ed="#P" n="84"/>sumus argumentari ex usu et consuetudine
+            <lb ed="#P" n="85"/>Ecclesiae; ita enim observatum est in 
+            omni<lb break="no" ed="#P" n="86"/>bus Conciliis generalibus, quae in Ecclesia 
+            ha<lb break="no" ed="#P" n="87"/>bent auctoritatem, a Concilio Nicano usque
+            <lb ed="#P" n="88"/>ad Tridentinum.
+          </p>
+          <p xml:id="szthvi-a78746-d1e2435">
+            <lb ed="#P" n="89"/>9. Secunda assertio de fide. — Probatur.
+            <lb ed="#P" n="90"/>— Dico jam secundo : in generali Concilio,
+            <lb ed="#P" n="91"/>solus Romanus Pontifex per se, aut per
+            <lb ed="#P" n="92"/>legatos suos, qui locum ejus subeant, 
+            praesi<lb break="no" ed="#P" n="93"/>dere debet. Conclusio est certa de fide, quam
+            <lb ed="#P" n="94"/>omnia adducta satis confirmant ; nam si Papa
+            <lb ed="#P" n="95"/>caput Ecclesiae est, certe ille praesidere debet
+            <lb ed="#P" n="96"/>corpori, et nemo alius. Sed confirmant id
+            <lb ed="#P" n="97"/>etiam Pontifices supra citati, praecipue Leo I,
+            <lb ed="#P" n="98"/>Julius I, et Nicolaus I, qui docent in Concilio
+            <lb ed="#P" n="99"/>etiam Nicaeno id fuisse confirmatum ; et 
+            exem<lb break="no" ed="#P" n="100"/>plo ejusdem Concilii constat Osium, 
+            Vincen<lb break="no" ed="#P" n="101"/>tium et Victorem, loco Romani Pontiticis in
+            <lb ed="#P" n="102"/>eo praesedisse, et primos omnium 
+            subscripsis<lb break="no" ed="#P" n="103"/>se. Idem exemplum habemus in secunda 
+            Sy<lb break="no" ed="#P" n="104"/>nodo, ut patet ex Epistola Damasi ad ipsam;
+            <lb ed="#P" n="105"/>et ex libro nono Tripart., 24. De 3 Synodo,
+            <lb ed="#P" n="106"/>licet ex parte interierint ejus acta, tamen ex
+            <lb ed="#P" n="107"/>his quae extant, satis colligitur Cyrillum ut
+            <lb ed="#P" n="108"/>legatum Sedis Apostolicae praefuisse; eodem
+            <lb ed="#P" n="109"/>modo in 4 Synodo Chalcedonensi Paschasius
+            <lb ed="#P" n="110"/>cum aliis praeest, atque ita inquit ; Pascha-
+            <pb ed="#P" n="332"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>sius, vice Beatissimi ac Apostolice 
+            universa<lb break="no" ed="#P" n="2"/>lis Ecclesie Pape, sancte Synodo praesidens,
+            <lb ed="#P" n="3"/>subscripsit ; idem facit in 5 Synodo Menas,
+            <lb ed="#P" n="4"/>legatus Papae, atque adeo in 6, 7, et aliis, et
+            <lb ed="#P" n="5"/>ex earum actis, et supra adductis satis 
+            con<lb break="no" ed="#P" n="6"/>stare potest. Specialiter in octava, sic 
+            subscri<lb break="no" ed="#P" n="7"/>bit legatus : Ego Donatus, Dei gratia 
+            Episco<lb break="no" ed="#P" n="8"/>pus Hostiens., locum obtinens domini me
+            <lb ed="#P" n="9"/>Adriani, Pontificis et universalis Pape, huic
+            <lb ed="#P" n="10"/>sancta et universali Synodo prasens ad 
+            vo<lb break="no" ed="#P" n="11"/>luntatem ejusdem, etc. Ex quibus omnibus
+            <lb ed="#P" n="12"/>sufficiens traditio hujus rei colligitur ; et ratio
+            <lb ed="#P" n="13"/>praeter omnia adducta id confirmat, quia 
+            vi<lb break="no" ed="#P" n="14"/>delicet necesse est aliquem praeesse in 
+            Conci<lb break="no" ed="#P" n="15"/>lio generali, ut caput totius corporis; alias
+            <lb ed="#P" n="16"/>servari non posset conveniens ordo, sed 
+            ma<lb break="no" ed="#P" n="17"/>gna potius confusio esset in Conciliis; ergo
+            <lb ed="#P" n="18"/>praerogativa haec concedenda est, maxime illi
+            <lb ed="#P" n="19"/>qui caput est totius Ecclesiae.
+          </p>
+          <p xml:id="szthvi-a78746-d1e2531">
+            <lb ed="#P" n="20"/>10. Objectio contra proaime ostensa. — 
+            Op<lb break="no" ed="#P" n="21"/>pones in plerisque Conciliis haberi , 
+            praese<lb break="no" ed="#P" n="22"/>disse imperatores, ut patet tum ex apertis
+            <lb ed="#P" n="23"/>verbis; in sexta enim Synodo sic legitur:
+            <lb ed="#P" n="24"/>Preesidente püssimo imperatore, etc., ut 
+            vi<lb break="no" ed="#P" n="25"/>dere est actione prima, et 11 ac 18; simile
+            <lb ed="#P" n="26"/>quid legimus in octava Synodo; tum etiam
+            <lb ed="#P" n="27"/>ex loci dignitate, nam saepe vel ipsi, vel viri
+            <lb ed="#P" n="28"/>patricii eorum locum tenentes, in medio 
+            se<lb break="no" ed="#P" n="29"/>dent ; legati vero Sedis Apostolicae ad 
+            dexte<lb break="no" ed="#P" n="30"/>ram, et interdum ad sinistram, ut patet ex
+            <lb ed="#P" n="31"/>eisdem 6 et 8 Synodis, et ex historia 
+            Con<lb break="no" ed="#P" n="32"/>cilii Chalcedonensis , quam refert Niceph.,
+            <lb ed="#P" n="33"/>lib. 15, cap. 4. Fatemur quidem interdum
+            <lb ed="#P" n="34"/>imperatores vel seculares magistratus eam
+            <lb ed="#P" n="35"/>loci dignitatem usurpasse, non tam jure
+            <lb ed="#P" n="36"/>quam poitcntia ; negamus tamen, proprie 
+            lo<lb break="no" ed="#P" n="37"/>quendo, praefuisse Conciliis, sed tantum 
+            af<lb break="no" ed="#P" n="38"/>fuisse ut nulli tumultus fierent, et ut 
+            Con<lb break="no" ed="#P" n="39"/>cilia majori quadam exteriori auctoritate et
+            <lb ed="#P" n="40"/>dignitate celebrarentur; de qua re satis 
+            mul<lb break="no" ed="#P" n="41"/>ta diximus sect. 1, ostendentes laicos minime
+            <lb ed="#P" n="42"/>pertinere ad Concilium generale, tantum 
+            ab<lb break="no" ed="#P" n="43"/>est ut illi debeant praesidere; ubi etiam 
+            os<lb break="no" ed="#P" n="44"/>tendimus, Constantinum, et alios principes et
+            <lb ed="#P" n="45"/>imperatores digniorem locum in Conciliis
+            <lb ed="#P" n="46"/>usurpasse noluisse. Videantur multa 96 d.,
+            <lb ed="#P" n="47"/>cap. os ad finem, et cap. Satis, cum 
+            simi<lb break="no" ed="#P" n="48"/>libus.
+          </p>
+          <p xml:id="szthvi-a78746-d1e2596">
+            <lb ed="#P" n="49"/>11. Tertia assertio de fide.—Ostenditur 
+            va<lb break="no" ed="#P" n="50"/>rüs ezemplis. — Dico tertio : ad Romanum
+            <lb ed="#P" n="51"/>Pontificem spectat, definitiones et leges a
+            <lb ed="#P" n="52"/>Concilio generali factas confirmare. Est certa
+            <lb ed="#P" n="53"/>de fide, qua ex omnibus supra dictis satis
+            <lb ed="#P" n="54"/>probata videtur; breviter tamen ostenditur.
+            <lb ed="#P" n="55"/>Priro, traditione et usu Ecclesiae, nam Ni-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>caenum Concilium I per epistolam petiit a
+            <lb ed="#P" n="57"/>Sylvestro, gesta sua ut confirmaret, quo
+            <lb ed="#P" n="58"/>nostra (inquiunt) regula fixos possit habere
+            <lb ed="#P" n="59"/>gradus, idque obtinuit, ut patet ex rescripto
+            <lb ed="#P" n="60"/>Sylvestri ad Concilium ; idem fecit 
+            Chalcedo<lb break="no" ed="#P" n="61"/>nensis Synodus, actione 3, et in allocutione
+            <lb ed="#P" n="62"/>ad Martianum Imperatorem rogat ut curet
+            <lb ed="#P" n="63"/>Synodum Sedis Petri auctoritate roborari;
+            <lb ed="#P" n="64"/>quam confirmationem Leo Papa distulit, 
+            pro<lb break="no" ed="#P" n="65"/>pter quaedam privilegia Constantinopolitanae
+            <lb ed="#P" n="66"/>Ecclesiae tributa ; intercedente vero 
+            Valenti<lb break="no" ed="#P" n="67"/>niano imperatore, et scribente ad Leonem,
+            <lb ed="#P" n="68"/>judicium Ecclesiarum Orientis suspensum
+            <lb ed="#P" n="69"/>esse circa decreta Concilii Chalcedonensis,
+            <lb ed="#P" n="70"/>neque a Sede Apostolica esse confirmata,
+            <lb ed="#P" n="71"/>Leo tandem confirmavit ob privilegia Anatolio
+            <lb ed="#P" n="72"/>concessa, ut patet in epist. 56, 57, 58 Leonis,
+            <lb ed="#P" n="73"/>ex Gelasio, tomo de Anathematis vinculo, qui
+            <lb ed="#P" n="74"/>agens de hac Synodo inquit: Totum in sedis
+            <lb ed="#P" n="75"/>apostolice situm est potestate, et ita quod
+            <lb ed="#P" n="76"/>firmavit in Synodo sedes Apostolica, robur
+            <lb ed="#P" n="77"/>obtinuit ; quod refutavit, habere non potuit 
+            fir<lb break="no" ed="#P" n="78"/>mitatem. Praeterea quinta Synodus confirmata
+            <lb ed="#P" n="79"/>fuit a Vigilio, ut scribit Nicephor., lib. 17,
+            <lb ed="#P" n="80"/>cap. 27; sexta Synodus a Leone Papa; 
+            Con<lb break="no" ed="#P" n="81"/>cilium Constantiense a Martino V; 
+            Triden<lb break="no" ed="#P" n="82"/>tinum a Pio IV. Si vero in aliquibus non 
+            ex<lb break="no" ed="#P" n="83"/>tat expressa confirmatio, causa est quia omnia
+            <lb ed="#P" n="84"/>ih eis facta sunt ex Sedis Apostolicae 
+            praes<lb break="no" ed="#P" n="85"/>cripto; unde confirmatione minime opus
+            <lb ed="#P" n="86"/>habuerunt, ut videre est in secunda et tertia
+            <lb ed="#P" n="87"/>et aliis Synodis. Atque ita intelligendum quod
+            <lb ed="#P" n="88"/>Gregorius ait, lib. 6, epistol. 31, ex Concilio
+            <lb ed="#P" n="89"/>Constantinopolitano V. damnationem 
+            Mace<lb break="no" ed="#P" n="90"/>donit recipi ab Ecclesia, quia nimirum facta
+            <lb ed="#P" n="91"/>fuerat ex praescripto Damasi; canones vero
+            <lb ed="#P" n="92"/>omnes non recipi, quia nec fuerant ex 
+            ordi<lb break="no" ed="#P" n="93"/>natione Pontificis, nec ab illo confirmati.
+            <lb ed="#P" n="94"/>Quod idem colligitur ex Concilio 
+            Chalcedo<lb break="no" ed="#P" n="95"/>nensi, actione 5, et Gelasio Papa supra, Epist.
+            <lb ed="#P" n="96"/>5 ad Episcopos Dardaniae; et ad idem facit
+            <lb ed="#P" n="97"/>epistola Concilii Ephesini ad Nestorium, et
+            <lb ed="#P" n="98"/>Agathonis Papae ad sextam Synodum; facit
+            <lb ed="#P" n="99"/>et Innocentius I, Epistol. 25, et quas 
+            citavi<lb break="no" ed="#P" n="100"/>mus ex Leone. Vide Hosium, lib. 2 contra
+            <lb ed="#P" n="101"/>Brentium, circa finem. Confirmari hoc 
+            am<lb break="no" ed="#P" n="102"/>plius potest ex historiis Pauli, qui Petrum
+            <lb ed="#P" n="103"/>adiit, ut cam eo conferret Evangelium ejusque
+            <lb ed="#P" n="104"/>auctoritate apud Ecclesiam confirmaretur ,
+            <lb ed="#P" n="105"/>quod notarunt Tertullianus, libr. 4 contra
+            <lb ed="#P" n="106"/>Marcionem, et Hierony m., Epist. ad 
+            Augusti<lb break="no" ed="#P" n="107"/>num ; habetur undecima inter Epist. Aug. ;
+            <lb ed="#P" n="108"/>Augustinus, 1. 28, contra Faust., c. 4, et simile
+            <lb ed="#P" n="109"/>est quod Marci Evangelium prius Petrus 
+            pro<lb break="no" ed="#P" n="110"/>bavit, quam Ecclesiae traderetur, ut refert Eu-
+            <pb ed="#P" n="333"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>sebius, lib. 2, cap. 15 in Clemente, et Papia,
+            <lb ed="#P" n="2"/>et Hierony mus, de Viris illustribus, in Marco.
+            <lb ed="#P" n="3"/>Confirmatur item ex Eugenio IV in Concilio
+            <lb ed="#P" n="4"/>Florentino, in decretis unionis, ubi docet 
+            Ro<lb break="no" ed="#P" n="5"/>manam Ecclesiam, omnes universales Synodos
+            <lb ed="#P" n="6"/>auctoritate Episcopi Romani legitime 
+            congre<lb break="no" ed="#P" n="7"/>gatas, et celebratas, ac confirmatas recipere,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="8"/>quasi diceret : Et non alias. Denique supra
+            <lb ed="#P" n="9"/>ostensum late est quemlibet damnatum etiam
+            <lb ed="#P" n="10"/>haereseos posse appellare ad Apostolicam 
+            Se<lb break="no" ed="#P" n="11"/>dem, quod signum est tale judicium indigere
+            <lb ed="#P" n="12"/>confirmatione illius Sedis. Vide Turrecremata,
+            <lb ed="#P" n="13"/>lib. 3, cap. 47.
+          </p>
+          <p xml:id="szthvi-a78746-d1e2770">
+            <cb ed="#P" n="c"/>
+            <lb ed="#P" n="14"/>Atque haec de priori parte earum quas auctor initio totius disputationis proposuit;
+            <lb ed="#P" n="15"/>posteriorem vero censummus omttendam, eo quod abunde in disput. 5, sect. 7, fuerit
+            <lb ed="#P" n="16"/>explicata, viderique possunt Joannes Arboreus, lib. 5 Theosophie, cap. 6; Salmer., in
+            <lb ed="#P" n="17"/>Acta Apostolorum, a tract. 19; Bellarm., tom. 2, toto libr. 2 de Conciliorum 
+            auctort<lb break="no" ed="#P" n="18"/>tate, qui rem hanc erudite et copiose pertractarunt; praeter alios quos refert Azor.,
+            <lb ed="#P" n="19"/>tom. 2, lib. 4, cap. 13, ad finem.
+          </p>
+          <p xml:id="szthvi-a78746-d1e2788">
+            <lb ed="#P" n="20"/>FINIS PRILE PARTIS TRACTATUS DE FIDE.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

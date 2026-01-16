@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 12</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 12</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="733"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-b81977"><!-- l3-d12 -->
+        <head xml:id="szthvi-b81977-Hd1e101">Disputatio 12</head>
+        <head xml:id="szthvi-b81977-Hd1e103" type="question-title">De schismate</head>
+        <p xml:id="szthvi-b81977-d1e106">
+          <lb ed="#P" n="18"/>DISPUTATIO XII.
+          <lb ed="#P" n="19"/>DE SCHISMATE.
+        </p>
+        <p xml:id="szthvi-b81977-d1e113">
+          <lb ed="#P" n="20"/>Divus Thomas 2. 2, q. 37 et 38, explicuit
+          <lb ed="#P" n="21"/>dissensionem et laesionem pacis, quae consistit
+          <lb ed="#P" n="22"/>in judiciis, et voluntatibus, et verbis; nunc
+          <lb ed="#P" n="23"/>cum eodem, in quaest. 39, explicandum est
+          <lb ed="#P" n="24"/>quomodo laedatur pax et conjunctio 
+          animo<lb break="no" ed="#P" n="25"/>rum per exteriora facta. Et quoniam pax 
+          con<lb break="no" ed="#P" n="26"/>sistat in conjunctione et unione, sciendum est
+          <lb ed="#P" n="27"/>duplicem externam conjunctionem posse inter
+          <lb ed="#P" n="28"/>homines considerari. Alia est spiritualis, quae
+          <lb ed="#P" n="29"/>si perfecta sit, pertinet ad ordinem 
+          superna<lb break="no" ed="#P" n="30"/>turalem ; alia est quasi temporalis et mere 
+          na<lb break="no" ed="#P" n="31"/>turalis ; prior esse debet inter membra 
+          Eeccle<lb break="no" ed="#P" n="32"/>siae, haec posterior inter omnes homines; illi
+          <lb ed="#P" n="33"/>opponitur schisma, huie bellum, sub quo 
+          se<lb break="no" ed="#P" n="34"/>ditionem et rixam comprehendimus ; de 
+          qui<lb break="no" ed="#P" n="35"/>bus tantum dicendum superest.
+        </p>
+        <p xml:id="szthvi-b81977-d1e150">
+          <lb ed="#P" n="36"/>(Hac de re egit etiam Auctor contra 
+          Jaco<lb break="no" ed="#P" n="37"/>bum, Angliae Regem, lib. 1, cap. 21, et tomo
+          <lb ed="#P" n="38"/>quinto in 3 partem, disp. 21, sectione2, a
+          <lb ed="#P" n="39"/>num. 12; disp. 23, sect. 3, a num. 4; disput.
+          <lb ed="#P" n="40"/>43, sect. 2, num. 7; Sanch., lib. 2 in 
+          Decalo<lb break="no" ed="#P" n="41"/>gum, cap. 36, qui plures adducit; Joannes 
+          Jo<lb break="no" ed="#P" n="42"/>vinianus integrum de schismate edidit 
+          Opu<lb break="no" ed="#P" n="43"/>sculum; novissime Farinacius, in tractatu de
+          <lb ed="#P" n="44"/>Haeresi, quaestione 187.)
+        </p>
+        <div xml:id="szthvi-b81977-Dd1e173">
+          <head xml:id="szthvi-b81977-Hd1e175">Sectio 1</head>
+          <head xml:id="szthvi-b81977-Hd1e177" type="question-title">Utrum schisma sit speciale peccatum contra charitatem</head>
+          <p xml:id="szthvi-b81977-d1e180">
+            <lb ed="#P" n="45"/>SECTIO I.
+            <lb ed="#P" n="46"/>Utrum schisma sit speciale peccatum contra
+            <lb ed="#P" n="47"/>charitatem.
+          </p>
+          <p xml:id="szthvi-b81977-d1e189">
+            <lb ed="#P" n="48"/>1. Notatio prima, de schismatis nomine. —
+            <lb ed="#P" n="49"/>Notatio secunda, de conjunctione quam schis-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="50"/>ma. dissolvit. —Schisma , ut notavit Isidor.,
+            <lb ed="#P" n="51"/>8 Etymologiarum, c. 3, divisionem significat, a
+            <lb ed="#P" n="52"/>graeco verbo cyito ortum habens; unde 
+            no<lb break="no" ed="#P" n="53"/>men hoc generale est, potestque in bonam vel
+            <lb ed="#P" n="54"/>in malam partem sumi. Unde Joan. 9: 
+            Schis<lb break="no" ed="#P" n="55"/>ma factum est inter eos ; tamen appropriatum
+            <lb ed="#P" n="56"/>est ad significandum peccatum illorum qui
+            <lb ed="#P" n="57"/>Ecclesiam, quae unica esse debet, scindere 
+            co<lb break="no" ed="#P" n="58"/>nantur, de quo est in Decretalibus titulus de
+            <lb ed="#P" n="59"/>schismaticis extra; et in 6, ct 24, quaest. 1.
+            <lb ed="#P" n="60"/>Secundo, ut propria hujus vitii ratio 
+            expona<lb break="no" ed="#P" n="61"/>tur, supponendum est ex materia de fide,
+            <lb ed="#P" n="62"/>disput. nona, Christi Ecclesiam esse unicam
+            <lb ed="#P" n="63"/>tantum et visibilem, atque adeo ad sui 
+            per<lb break="no" ed="#P" n="64"/>fectionem requirere non interiorem tantum,
+            <lb ed="#P" n="65"/>sed exteriorem etiam conjunctionem 
+            menmbro<lb break="no" ed="#P" n="66"/>rum inter se, et cum suo capite visibili, et 
+            Vi<lb break="no" ed="#P" n="67"/>cario Christi in terris, quae conjunctio exterior
+            <lb ed="#P" n="68"/>sine dubio fit per opera obedientiae, 
+            religio<lb break="no" ed="#P" n="69"/>nis, et similia. Haec igitur Ecclesia, quamvis
+            <lb ed="#P" n="70"/>revera non possit recipere divisionem in duas,
+            <lb ed="#P" n="71"/>ui recte docet Pelagius Papa, in cap. 1, et
+            <lb ed="#P" n="72"/>Cyprianus, cap. Loquitur Dominus, 24, quaest.
+            <lb ed="#P" n="73"/>1, possunt tamen Ecclesiae membra se ab illa
+            <lb ed="#P" n="74"/>dividere, et hoc est facere schisma.
+          </p>
+          <p xml:id="szthvi-b81977-d1e252">
+            <lb ed="#P" n="75"/>2. Schisma duplici modo contingit. —
+            <lb ed="#P" n="76"/>Schisma hoc potest in Papam cadere. — 
+            Ac<lb break="no" ed="#P" n="77"/>cidere vero potest schisma non tantum per
+            <lb ed="#P" n="78"/>haeresim, sed etiam sine illa, ut quando 
+            ali<lb break="no" ed="#P" n="79"/>quis fidem retinendo non vult in suis 
+            actioni<lb break="no" ed="#P" n="80"/>bus et modo religionis unitatem Ecclesiae 
+            te<lb break="no" ed="#P" n="81"/>nere; et hoc dupliciter, primo separando sea
+            <lb ed="#P" n="82"/>capite Ecclesiae, ut dicitur in cap. Non vos,
+            <lb ed="#P" n="83"/>23, quaest. 5, ubi Glossa ait schisma esse non
+            <lb ed="#P" n="84"/>habere caput Romanum Pontificem, non 
+            qui<lb break="no" ed="#P" n="85"/>dem negando Romanum Plontificem esse 
+            ca<lb break="no" ed="#P" n="86"/>put Ecclesiae, nam jam hoc esset schisma
+            <lb ed="#P" n="87"/>conjunctum haeresi, sed vel temere negando
+            <lb ed="#P" n="88"/>hunc in particulari, vel ita se gerendo cum
+            <lb ed="#P" n="89"/>illo, ac si caput non esset, ut si quis vellet 
+            si<lb break="no" ed="#P" n="90"/>ne ejus auctoritate Concilium generale 
+            con<lb break="no" ed="#P" n="91"/>gregare, aut Antipapam eligere; et hic est
+            <lb ed="#P" n="92"/>usitatior modus. Secundus modus est, si ita
+            <lb ed="#P" n="93"/>se separet quis a reliquo corpore Eeclesise, ut
+            <lb ed="#P" n="94"/>nolit cum illo communicare in 
+            sacramento<lb break="no" ed="#P" n="95"/>rum participatione, cujus rei exemplum 
+            ha<lb break="no" ed="#P" n="96"/>bemus ex Epiphanio, in secta Meletii, quae
+            <lb ed="#P" n="97"/>est 68; ille enim dissentiens a Petro 
+            Alexan<lb break="no" ed="#P" n="98"/>drino, suo patriarcha, se ab illo in omnibus
+            <lb ed="#P" n="99"/>sacrificiis separavit, et de schismate notatus
+            <lb ed="#P" n="100"/>est, cum tamen inter eos nulla dissensio in
+            <lb ed="#P" n="101"/>fidei doctrina intercederet, ut Epiphanius 
+            tes<lb break="no" ed="#P" n="102"/>tatur. Et hoc secundo modo posset Papa esse
+            <lb ed="#P" n="103"/>schismaticus, si nollet tenere cum toto 
+            Eccle<lb break="no" ed="#P" n="104"/>siae corpore unionem et conjunctionem quam
+            <pb ed="#P" n="734"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>debet, ut si tentaret totam Ecclesiam 
+            excom<lb break="no" ed="#P" n="2"/>municare, aut si vellet omnes ecclesiasticas
+            <lb ed="#P" n="3"/>caeremonias apostohca traditione firmatas
+            <lb ed="#P" n="4"/>evertere, quod notavit Cajetanus, 2. 2, q. 39;
+            <lb ed="#P" n="5"/>et Turrecrem. latius, l. 4, c. 11. An vero
+            <lb ed="#P" n="6"/>schismatici non haeretici dicendi sint membra
+            <lb ed="#P" n="7"/>Ecclesiae, suo loco dictum est. (Vide 
+            aucto<lb break="no" ed="#P" n="8"/>rem, tr. de Fide, disp. 9, sect. 1, a n. 13)
+          </p>
+          <p xml:id="szthvi-b81977-d1e342">
+            <lb ed="#P" n="9"/>3. Arguitur pro parte negativa primo. —
+            <lb ed="#P" n="10"/>Contra D. Thomae responsionem instatur. —
+            <lb ed="#P" n="11"/>Arguitur secundo. — Replicatur contra 
+            res<lb break="no" ed="#P" n="12"/>ponsum Cajetawi. — Jam igitur sic explicato
+            <lb ed="#P" n="13"/>schismate, constat per se esse quid malum,
+            <lb ed="#P" n="14"/>et a Deo prohibitum ; superest exponamus,
+            <lb ed="#P" n="15"/>quam malitiam habeat, et an specialem contra
+            <lb ed="#P" n="16"/>charitatem. Ratio dubitandi est, quia hoc 
+            pec<lb break="no" ed="#P" n="17"/>catum, si sit per dissensionem a capite, fit
+            <lb ed="#P" n="18"/>per inobedientiam ; si per divisionem a 
+            cor<lb break="no" ed="#P" n="19"/>pore, fit vel per injuriam, vel per 
+            superstitio<lb break="no" ed="#P" n="20"/>sum cultum religionis; ergo haec malitia 
+            sem<lb break="no" ed="#P" n="21"/>per erit contra obedientiam, vel alias virtutes,
+            <lb ed="#P" n="22"/>non specialiter contra charitatem. Nec 
+            satis<lb break="no" ed="#P" n="23"/>facit quod D. Thomas respondet, schisma non
+            <lb ed="#P" n="24"/>esse quamcumque incbedientiam, sed cum
+            <lb ed="#P" n="25"/>contumacia; nam hoc non variat in eadem
+            <lb ed="#P" n="26"/>malitia, sed fortasse auget in eadem speie, ut
+            <lb ed="#P" n="27"/>patet in eo qui formaliter non vult obedire.
+            <lb ed="#P" n="28"/>Item quia in excommunicato est 
+            inobedien<lb break="no" ed="#P" n="29"/>tia cum contumacia, et tamen non est 
+            schis<lb break="no" ed="#P" n="30"/>maticus. Augetur secundo difficultas , quia
+            <lb ed="#P" n="31"/>potest quis non esse charitate conjunctus cum
+            <lb ed="#P" n="32"/>aliis Ecclesiae membris, et non esse 
+            schisma<lb break="no" ed="#P" n="33"/>ticus; ergo schisma non opponitur 
+            conjunc<lb break="no" ed="#P" n="34"/>iioni quam effhicit charitas; ergo non est 
+            pec<lb break="no" ed="#P" n="35"/>catum speciale oppositum charitati. 
+            Respon<lb break="no" ed="#P" n="36"/>det Cajetanus esse effectum charitatis illam
+            <lb ed="#P" n="37"/>conjunctionem ; tamen posse esse informem
+            <lb ed="#P" n="38"/>aliquando; sed hoc habet locum in effectu 
+            im<lb break="no" ed="#P" n="39"/>perato a charitate, ut est, verbi gratia, 
+            elee<lb break="no" ed="#P" n="40"/>mosyna, in qua Cajetanus ponit exemplum,
+            <lb ed="#P" n="41"/>non vero in elicito; ergo hic effectus non est
+            <lb ed="#P" n="42"/>elicitus, nec formalis charitatis, sed alterius
+            <lb ed="#P" n="43"/>virtutis ; atque adeo schisma immediate 
+            ori<lb break="no" ed="#P" n="44"/>tur contra illam, et non contra charitatem.
+            <lb ed="#P" n="45"/>Advertendum est dupliciter posse aliquem 
+            fa<lb break="no" ed="#P" n="46"/>cere schisma. Uno modo directe intendendo
+            <lb ed="#P" n="47"/>divisionem Excclesiae ; secundo, solum quasi
+            <lb ed="#P" n="48"/>indirecte, intendendo, verbi gratia, 
+            domina<lb break="no" ed="#P" n="49"/>tum, potestatem, et similia.
+          </p>
+          <p xml:id="szthvi-b81977-d1e433">
+            <lb ed="#P" n="50"/>4. Prima conclusio de schismate directe 
+            in<lb break="no" ed="#P" n="51"/>tento. — Dico primo : si schisma sit per se
+            <lb ed="#P" n="52"/>directe intentum, est peccatum specialiter
+            <lb ed="#P" n="53"/>charitati contrarium. Ita divus Thomas, quaest.
+            <lb ed="#P" n="54"/>39, art. 1, et sumitur ex Paulo, ad Ephesics
+            <lb ed="#P" n="55"/>quarto : Supportantes invicem em charitate,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>solliciti servare unitatem spiritus in vinculo
+            <lb ed="#P" n="57"/>pacis, etc., et 1 Cor. 12: Non sit schisma in
+            <lb ed="#P" n="58"/>corpore, etc., et ad Coloss. 2 : Inflatus sensus
+            <lb ed="#P" n="59"/>carnis suee, et non tenens caput, em quo totum
+            <lb ed="#P" n="60"/>corpus, per neaus et conjunctiones 
+            submanis<lb break="no" ed="#P" n="61"/>tratum, et constructum, crescit in augmentum
+            <lb ed="#P" n="62"/>Dei ; et ex Augustino, libro de Fide et 
+            sym<lb break="no" ed="#P" n="63"/>boio, capite decimo : Schismatici , inquit,
+            <lb ed="#P" n="64"/>discissionibus iniquis a fraterna charitate
+            <lb ed="#P" n="65"/>dissiliunt, etc. hatio est, nam tale peccatum
+            <lb ed="#P" n="66"/>est directe contra honestatem charitatis. Nam
+            <lb ed="#P" n="67"/>licet illa voluntas possit ex variis motivis
+            <lb ed="#P" n="68"/>procedere, ut ex invidia, vel odio, tamen |
+            <lb ed="#P" n="69"/>hoc est remote et extrinsece; proxime ve- |
+            <lb ed="#P" n="70"/>ro et intrinsece habet malitiam contrariam
+            <lb ed="#P" n="71"/>fini et effectui charitatis; quod ita 
+            confir<lb break="no" ed="#P" n="72"/>mo et explico, nam unitas Ecclesiae revera
+            <lb ed="#P" n="73"/>est quia supernaturale, non tantum ad 
+            cre<lb break="no" ed="#P" n="74"/>dendum, sed etiam ad amandum, et 
+            efticaci<lb break="no" ed="#P" n="75"/>ter, quod in me est, faciendum ; unde velle
+            <lb ed="#P" n="76"/>perfecte, et efficaciter tenere perfectam 
+            Eccle<lb break="no" ed="#P" n="77"/>siae unitatem, et esse cum ea conjunctum, ut
+            <lb ed="#P" n="78"/>membrum cum corpore suo, actus est 
+            super<lb break="no" ed="#P" n="79"/>naturalis, si fit ut oportet, et charitatis ; unde
+            <lb ed="#P" n="80"/>ad Ephes. 4 tribuitur Spiritui Sancto : 
+            Soli<lb break="no" ed="#P" n="81"/>citi servare unitatem spiritus in vinculo pacis;
+            <lb ed="#P" n="82"/>ubi Glossa - /d est, unitatem ecclesiasticam,
+            <lb ed="#P" n="83"/>quam causat Spiritus Sanctus. Unde Paulus
+            <lb ed="#P" n="84"/>subdit : Unum corpus, unus spiritus ; et idem
+            <lb ed="#P" n="85"/>colligitur ex 1 ad Corinth. 12. Verum est 
+            si<lb break="no" ed="#P" n="86"/>milem voluntatem posse alia ratione pertinere
+            <lb ed="#P" n="87"/>ad alias virtutes, ut velle tenere unitatem 
+            fi<lb break="no" ed="#P" n="88"/>dei cum omnibus Ecclesiae membris, ad fidem
+            <lb ed="#P" n="89"/>spectat; velle esse conjunctum cum Summo
+            <lb ed="#P" n="90"/>Pontifice, tanquam subditum cum superiore,
+            <lb ed="#P" n="91"/>est virtutis obedientiae ; velle autem absolute et
+            <lb ed="#P" n="92"/>simpliciter servare ecclesiasticam pacem, et
+            <lb ed="#P" n="93"/>spiritualem membrorum conjunctionem, est
+            <lb ed="#P" n="94"/>intrinsece munus charitatis : quia virtutis
+            <lb ed="#P" n="95"/>amicitiae est velle conservare 
+            communicatio<lb break="no" ed="#P" n="96"/>nem et conjunctionem debitam cun amicis ;
+            <lb ed="#P" n="97"/>charitas autem est amicitia spiritualis Ex quo
+            <lb ed="#P" n="98"/>tandem fit charitatem ipsam per se obligare
+            <lb ed="#P" n="99"/>ad eam voluntatem et conjunctionem, quia
+            <lb ed="#P" n="100"/>non solum est bona, sed maxime necessaria,
+            <lb ed="#P" n="101"/>cujus contrarium maxima incommoda affert
+            <lb ed="#P" n="102"/>Ecclesiae ; ergo velle, praecipue directe, tollere
+            <lb ed="#P" n="103"/>ab Ecclesia istam conjunctionem et unitatem,
+            <lb ed="#P" n="104"/>est directe contra charitatem.
+          </p>
+          <p xml:id="szthvi-b81977-d1e557">
+            <lb ed="#P" n="105"/>5. Schisma, vel in affectu tantum, vel etiam
+            <lb ed="#P" n="106"/>in effectu. — Sed advertendum est ulterius,
+            <lb ed="#P" n="107"/>dupliciter posse aliquem velle hanc ipsam 
+            di<lb break="no" ed="#P" n="108"/>visionem, vel quasi affective, tantum illam
+            <lb ed="#P" n="109"/>desiderando, vel effective, reipsa exequendo.
+            <lb ed="#P" n="110"/>Hoc secundum sine dubio est quod constituit
+            <pb ed="#P" n="735"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>proprie schismaticum ; tamen de priori modo,
+            <lb ed="#P" n="2"/>Cajetanus supra vult non pertinere ad 
+            schis<lb break="no" ed="#P" n="3"/>ma, sed ad odium vel invidiam, quia ille non
+            <lb ed="#P" n="4"/>est schismaticus. Sed, quod ad rem attinet,
+            <lb ed="#P" n="5"/>malitia illorum actuum ejusdem est speciei,
+            <lb ed="#P" n="6"/>quia in omnibus est eadem deformitas, licet
+            <lb ed="#P" n="7"/>in modo appetendi sit diversitas. Sicut, in
+            <lb ed="#P" n="8"/>universum , ip omni voluntate simplici in
+            <lb ed="#P" n="9"/>irtentione et electione respectu ejusdem, est
+            <lb ed="#P" n="10"/>malitia ejusdem vitii, licet diversimode 
+            par<lb break="no" ed="#P" n="11"/>ticipata. Quod vero spectat ad modum 
+            lo<lb break="no" ed="#P" n="12"/>quendi, verum est non dici schismaticum,
+            <lb ed="#P" n="13"/>nisi qui actu se separat ab Ecclesia, quia haec
+            <lb ed="#P" n="14"/>denominatio magis sumitur ab actu 
+            consum<lb break="no" ed="#P" n="15"/>mato exterius. Sicut non dicitur homicida,
+            <lb ed="#P" n="16"/>nisi qui actu interficit.
+          </p>
+          <p xml:id="szthvi-b81977-d1e612">
+            <lb ed="#P" n="17"/>6. Ad argumentum primum in n. 4. — Ad
+            <lb ed="#P" n="18"/>secundum. — Objiciuntur Ambrosius, et 
+            Au<lb break="no" ed="#P" n="19"/>gustinus, et Sylvester. — Eaplicantur. —Et
+            <lb ed="#P" n="20"/>quoad hanc conclusionem facile patet 
+            solu<lb break="no" ed="#P" n="21"/>tio ad difficultatem positam, nam, ut demus
+            <lb ed="#P" n="22"/>hanc separationem ab Ecclesia non fieri sine
+            <lb ed="#P" n="23"/>mixtione alterius vitii, ut haeresis, 
+            superstitio<lb break="no" ed="#P" n="24"/>nis, vel injuriae, tamen, sicut Aristoteles dixit,
+            <lb ed="#P" n="25"/>5 Ethic., c. 2: Qui furatur ut maechetur, 
+            ma<lb break="no" ed="#P" n="26"/>gis est meeclus quam fur, ita in proposito, qui
+            <lb ed="#P" n="27"/>tale vitium committit propter efficiendum
+            <lb ed="#P" n="28"/>schisma , magis est schismaticus, quamvis
+            <lb ed="#P" n="29"/>utramque malitiam contrahat. Ad secundum,
+            <lb ed="#P" n="30"/>facile dicitur quod, quamvis existens in 
+            pec<lb break="no" ed="#P" n="31"/>cato mortali possit retinere conjunctionem
+            <lb ed="#P" n="32"/>membri cum Ecclesia, hinc tamen non fit illud
+            <lb ed="#P" n="33"/>non esse sub praeceptum charitatis; neque
+            <lb ed="#P" n="34"/>etiam fit quod velle talem effectum voluntate
+            <lb ed="#P" n="35"/>absoluta et perfecta, non sit charitatis, 
+            quam<lb break="no" ed="#P" n="36"/>vis similem actum imperfectum possit habere
+            <lb ed="#P" n="37"/>peccator ex auxilio Dei. Objici tamen potest,
+            <lb ed="#P" n="38"/>quod Ambrosius ait, cap. Adzocavi, 24, 
+            quaes<lb break="no" ed="#P" n="39"/>tione 1, schisma esse contrarium fidei, unde
+            <lb ed="#P" n="40"/>negat in schismaticis esse fidem; idem 
+            Au<lb break="no" ed="#P" n="41"/>gustinus, 2 contra Crescon., capite 4. Unde
+            <lb ed="#P" n="42"/>Sylvest., in Summa, verbo Schisma, dicit esse
+            <lb ed="#P" n="43"/>speciem haeresis. Sed haec sano modo 
+            intelli<lb break="no" ed="#P" n="44"/>genda sunt. Videntur enim omnes loqui de
+            <lb ed="#P" n="45"/>schismate in famosiori significatu, vel ut 
+            fre<lb break="no" ed="#P" n="46"/>quentius accidit, quod videtur voluisse 
+            indi<lb break="no" ed="#P" n="47"/>care Augustinus, haeresim, scilicet, fere 
+            sem<lb break="no" ed="#P" n="48"/>per initium sumere ab aliquo schismate vel
+            <lb ed="#P" n="49"/>dissensione; paulatim vero, si dissensio 
+            cres<lb break="no" ed="#P" n="50"/>cat et duret, pervenire ad haeresim.
+          </p>
+          <p xml:id="szthvi-b81977-d1e688">
+            <lb ed="#P" n="51"/>1. Quod schisma indirecte intertum 
+            nul<lb break="no" ed="#P" n="52"/>lum sit, arguitur ex D. Thoma. —Confirmatur
+            <lb ed="#P" n="53"/>primo. — Confirmatur secundo.— Superest 
+            ex<lb break="no" ed="#P" n="54"/>plicandum an haec malitia contrahatur ex illo
+            <lb ed="#P" n="55"/>alio secundo modo, per indirectam volunta-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>tem. Nam D. Thomas, quaest. illa 39, art. 1,
+            <lb ed="#P" n="57"/>in corp., et ad 1, videtur negare. Et 
+            confirma<lb break="no" ed="#P" n="58"/>tur, quia alias omne peccatum contra 
+            proxi<lb break="no" ed="#P" n="59"/>mum haberet specialem malitiam charitati
+            <lb ed="#P" n="60"/>contrariam. Nam omne tale peccatum de se
+            <lb ed="#P" n="61"/>dissolvit amicitiam. Item fieret ut qui 
+            pertur<lb break="no" ed="#P" n="62"/>baret unitatem reipublicae, vel cujusvis 
+            com<lb break="no" ed="#P" n="63"/>munitatis, excitando tumultus, vel qui 
+            discor<lb break="no" ed="#P" n="64"/>dias seminaret. committeret peccatum 
+            schis<lb break="no" ed="#P" n="65"/>matis, quia illud etiam esset oppositum 
+            chari<lb break="no" ed="#P" n="66"/>tati ; quod tamen non videtur dicendum.
+          </p>
+          <p xml:id="szthvi-b81977-d1e727">
+            <lb ed="#P" n="67"/>8. BSecunda conclusio adstruens schisma 
+            in<lb break="no" ed="#P" n="68"/>directum. — Cajetanus assentit. — Hos 
+            re<lb break="no" ed="#P" n="69"/>fert et segquitur Sanchez supra, mumm. 5. —
+            <lb ed="#P" n="70"/>Nihilominus dico secundo: ad contrahendam
+            <lb ed="#P" n="71"/>propriam malitiam schismatis, non oportet
+            <lb ed="#P" n="72"/>directe intendere divisionem ab Ececclesia ,
+            <lb ed="#P" n="73"/>sed satis est velle id per quod separetur quis
+            <lb ed="#P" n="74"/>ab Ecclesia, vel efficit divisionem in illa,
+            <lb ed="#P" n="75"/>sive id sit directe praevidendo, sive 
+            culpabili<lb break="no" ed="#P" n="76"/>ter ignorando. Ita sentit Cajetanus hic, in
+            <lb ed="#P" n="77"/>summa, verbo Schisma, et alii non pauci.
+            <lb ed="#P" n="78"/>Colligiturque ex communi modo loquendi
+            <lb ed="#P" n="79"/>Patrum et canonum. Vocant enim 
+            schismati<lb break="no" ed="#P" n="80"/>cos, omnes qui dicto modo dividunt Ecclesiam,
+            <lb ed="#P" n="81"/>quamvis non directe intendant, quod raro 
+            ac<lb break="no" ed="#P" n="82"/>cidit. Et ratione patet a simil ex dictis de
+            <lb ed="#P" n="83"/>scandalo, disputation. 10, section. 2; nam ad
+            <lb ed="#P" n="84"/>committendam aliquam malitiam in 
+            morali<lb break="no" ed="#P" n="85"/>bus, sufficit voluntarium indirectum, 
+            praeci<lb break="no" ed="#P" n="86"/>pue quando circumstantia aut effectus secutus
+            <lb ed="#P" n="87"/>non est quid generale omnibus peccatis, sed
+            <lb ed="#P" n="88"/>speciale quid, ut est in proposito. Ex quo fit,
+            <lb ed="#P" n="89"/>haereticum, praeter malitiam haeresis, 
+            incur<lb break="no" ed="#P" n="90"/>rere malitiam schismatis, propter speciale 
+            de<lb break="no" ed="#P" n="91"/>trimentum quod infert Ecclesiae, contra 
+            chari<lb break="no" ed="#P" n="92"/>tatem illi debitam. Et idem est de aliis, qui
+            <lb ed="#P" n="93"/>per quodcumque vitium efliciunt schisma. Ex
+            <lb ed="#P" n="94"/>quo ulterius intelligitur, cum schisma 
+            com<lb break="no" ed="#P" n="95"/>muniter hoc secundo modo potius quam primo
+            <lb ed="#P" n="96"/>committatur, hanc malitiam treqnentius esse
+            <lb ed="#P" n="97"/>veluti circumstantiam alterius vitii, quam
+            <lb ed="#P" n="98"/>peccatum per se distinctum. Quamvis, quia
+            <lb ed="#P" n="99"/>ipsa gravissima est, magis denominet actum
+            <lb ed="#P" n="100"/>et peccatorem, quam alia malitia quae ex 
+            ob<lb break="no" ed="#P" n="101"/>jecto per se intento sumitur.
+          </p>
+          <p xml:id="szthvi-b81977-d1e806">
+            <lb ed="#P" n="102"/>9. Ad D. Thomam in n. 1. — Ad primam
+            <lb ed="#P" n="103"/>conclusionem. — Ad secundam. — Nec 
+            contra<lb break="no" ed="#P" n="104"/>rium hujus conclusionis voluit D. Thomas;
+            <lb ed="#P" n="105"/>intelligendus est enim vel generaliter de 
+            in<lb break="no" ed="#P" n="106"/>tentione formali aut virtuali, vel certe 
+            loqui<lb break="no" ed="#P" n="107"/>tur de primaria, et quasi per se specie peccati,
+            <lb ed="#P" n="108"/>ut dixi in scandalo. Neque est simile de aliis
+            <lb ed="#P" n="109"/>peccatis contra proximum, quia haec 
+            circum<lb break="no" ed="#P" n="110"/>stantia schismatis non est communis omnibus
+            <pb ed="#P" n="736"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>peccatis in proximum. Sed quaeres (quod in
+            <lb ed="#P" n="2"/>secunda confirmatione tangebatur) an tale 
+            pec<lb break="no" ed="#P" n="3"/>catum sit semper contra unitatem universalis
+            <lb ed="#P" n="4"/>Ecclesiae, an vero possit esse contra unitatem
+            <lb ed="#P" n="5"/>specialem, verbi gratia, privatae 
+            congregatio<lb break="no" ed="#P" n="6"/>nis et religionis. Respondetur, dividere corpus,
+            <lb ed="#P" n="7"/>in quo debet esse specialis aliqua conjunctio,
+            <lb ed="#P" n="8"/>temere et irrationabiliter, sine dubio esse 
+            ma<lb break="no" ed="#P" n="9"/>lum, et contra charitatem specialiter, quia
+            <lb ed="#P" n="10"/>charitas inclinat et obligat ad talem pacem
+            <lb ed="#P" n="11"/>et spiritualem unitatem servandam. Unde si
+            <lb ed="#P" n="12"/>quis directe tale damnum intenderet in 
+            proxi<lb break="no" ed="#P" n="13"/>mis, sine dubio peccaret specialiter contra 
+            cha<lb break="no" ed="#P" n="14"/>ritatem ; idem ergo est si indirecte id faciat,
+            <lb ed="#P" n="15"/>juxta dicta. Haec autem malitia nonnisi ad
+            <lb ed="#P" n="16"/>schisma revocari potest, et consonat Pauli 1
+            <lb ed="#P" n="17"/>ad Corinth. 1: Ft non sint in vobis schismata.
+            <lb ed="#P" n="18"/>Ubi D. Thomas ait schismata proprie esse,
+            <lb ed="#P" n="19"/>quando vel ob diversam fidei confessionem,
+            <lb ed="#P" n="20"/>vel ob diversas sententias de agendis, homines
+            <lb ed="#P" n="21"/>unius collegii in diversas separantur partes;
+            <lb ed="#P" n="22"/>tamen hoc peccatum est diminutum in ratione
+            <lb ed="#P" n="23"/>schismatis; nam quia spiritualis conjunctio
+            <lb ed="#P" n="24"/>totius Ecclesiae est primaria, ad quam omnes
+            <lb ed="#P" n="25"/>aliae referuntur, ideo schisma, proprie dictum,
+            <lb ed="#P" n="26"/>est tantum quando aliquis facit divisionem
+            <lb ed="#P" n="27"/>universalem ab Ecclesia ; et de hoc loquuntur
+            <lb ed="#P" n="28"/>jura, cum de schismate faciunt mentionem.
+            <lb ed="#P" n="29"/>10. Tertia conclusio tripartita. — Dico 
+            ter<lb break="no" ed="#P" n="30"/>tio : haec malitia ex Suo genere mortalis est,
+            <lb ed="#P" n="31"/>et gravissima, minor tamen quam malitia
+            <lb ed="#P" n="32"/>haeresis. Prior pars per se nota est ex dictis,
+            <lb ed="#P" n="33"/>eamque explicat D. Thomas 2. 2, q. 39, art.
+            <lb ed="#P" n="34"/>2. Secundam ita explicat D. Thomas ibid., ad
+            <lb ed="#P" n="35"/>tertium, hanc mahtiam esse gravissimam 
+            om<lb break="no" ed="#P" n="36"/>nium, quae sunt erga proximum, ratione 
+            gra<lb break="no" ed="#P" n="37"/>vissimi damni, quod infert Ecclesiae in 
+            maxi<lb break="no" ed="#P" n="38"/>amis bonis. Praeterea hoc verificatur maxime,
+            <lb ed="#P" n="39"/>quando fit intentione directa; sic enim 
+            inclu<lb break="no" ed="#P" n="40"/>dit odium, quod, ut supra dixi, disputatione
+            <lb ed="#P" n="41"/>sexta, sect. 2, n. 1, secundum se est 
+            maxi<lb break="no" ed="#P" n="42"/>mum eorum qua sunt contra proximum.
+            <lb ed="#P" n="43"/>Ultima pars intelligitur etiam ex genere, et
+            <lb ed="#P" n="44"/>praecise distinguendo et comparando malitias.
+            <lb ed="#P" n="45"/>Nam malitia haeresis ex suo genere est contra
+            <lb ed="#P" n="46"/>Deum directe, schisma vero contra 
+            proxi<lb break="no" ed="#P" n="47"/>mum; alioquin si comparemus peccatum
+            <lb ed="#P" n="48"/>haeresis, ut includit etiam malitiam 
+            schisma<lb break="no" ed="#P" n="49"/>tis, manifestum est esse majus, sicut totum
+            <lb ed="#P" n="50"/>est majus sua parte ; omnia vero intelliguntur
+            <lb ed="#P" n="51"/>ex genere, nam ex circumstantiis saepe 
+            schis<lb break="no" ed="#P" n="52"/>ma potest superare haeresim, quia potest 
+            af<lb break="no" ed="#P" n="53"/>ferre majora damna; quapropter haec peccata
+            <lb ed="#P" n="54"/>seepe aequiparantur a Patribus, et multa 
+            ha<lb break="no" ed="#P" n="55"/>bentur in Decretis, 24, quaest. 2. Videri potest
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>Turrecr., lib. 4, c. 5 et 6; Castro, de Justa
+            <lb ed="#P" n="57"/>punit., lib. 4, cap. 2; Joan. Jovinianus, in
+            <lb ed="#P" n="58"/>nupero Opusculo de schismate, c. 3.
+          </p>
+          <p xml:id="szthvi-b81977-d1e960">
+            <lb ed="#P" n="59"/>11. Grassante schismate, quid agendum. —
+            <lb ed="#P" n="60"/>Quid vero faciendum sit tempore schismalis,
+            <lb ed="#P" n="61"/>agit late Turrecr., in c. 14. Et nonnihil 
+            Caje<lb break="no" ed="#P" n="62"/>tanus hic, et in Summa, verbo Sehisma. Sed
+            <lb ed="#P" n="63"/>breviter dico, si sit aliquis certus Papa de quo
+            <lb ed="#P" n="64"/>prudenter dubitari non possit, illi est 
+            adhae<lb break="no" ed="#P" n="65"/>rendum, et qui aliis favent, sunt schismatici.
+            <lb ed="#P" n="66"/>Si vero Papa sit dubius, ita ut non possit 
+            pru<lb break="no" ed="#P" n="67"/>denter cognosci, nulli est adhaerendum, quia
+            <lb ed="#P" n="68"/>revera nullus eorum habet jus verum in 
+            Ec<lb break="no" ed="#P" n="69"/>clesia acquisitum. Quapropter si contrarium
+            <lb ed="#P" n="70"/>fiat, schisma fovetur, et hac etiam ex parte
+            <lb ed="#P" n="71"/>peccari potest hoc peccato. Addendum vero
+            <lb ed="#P" n="72"/>est, plebem satisfacere sequendo suos 
+            pasto<lb break="no" ed="#P" n="73"/>res, et doctores Catholicos, quando aliter non
+            <lb ed="#P" n="74"/>potest eis constare veritas.
+          </p>
+        </div>
+        <div xml:id="szthvi-b81977-Dd1e998">
+          <head xml:id="szthvi-b81977-Hd1e1000">Sectio 2</head>
+          <head xml:id="szthvi-b81977-Hd1e1002" type="question-title">Quae sint poenae schismaticorum</head>
+          <p xml:id="szthvi-b81977-d1e1005">
+            <lb ed="#P" n="75"/>SECTIO II.
+            <lb ed="#P" n="76"/>Quae sint poenae schismaticorum.
+          </p>
+          <p xml:id="szthvi-b81977-d1e1012">
+            <lb ed="#P" n="77"/>1. Prima conclusio.— Dico primo, 
+            schisma<lb break="no" ed="#P" n="78"/>ticos esse ipso facto excommunicatos, saltem
+            <lb ed="#P" n="79"/>in Bulla Coenae, quamvis de jure communi res
+            <lb ed="#P" n="80"/>non sit adeo clara; nam in cap. De Liguribus,
+            <lb ed="#P" n="81"/>23, quaest. 9, solum dicitur esse 
+            excommuni<lb break="no" ed="#P" n="82"/>candos; sed in cap. Licet, extra, de electione,
+            <lb ed="#P" n="83"/>excommunicantur ipso jure schismatici, 
+            spe<lb break="no" ed="#P" n="84"/>cialiter in electione Pontificis. Et in cap. 
+            pri<lb break="no" ed="#P" n="85"/>mo, extra, de Schismaticis, fertur etiam 
+            ex<lb break="no" ed="#P" n="86"/>communicatio jure; sed videtur loqui de
+            <lb ed="#P" n="87"/>schismaticis haereticis ; tamen in cap. Nulii,
+            <lb ed="#P" n="88"/>distinct. 19, videtur fieri generaliter 
+            excom<lb break="no" ed="#P" n="89"/>municatio contra omnues. In cap. etiam 7n 
+            no<lb break="no" ed="#P" n="90"/>mine Domini, 93 distinct., additur depositionis
+            <lb ed="#P" n="91"/>poena, scilicet imponenda ; non euim 
+            incurri<lb break="no" ed="#P" n="92"/>tur ipso jure.
+          </p>
+          <p xml:id="szthvi-b81977-d1e1049">
+            <lb ed="#P" n="93"/>2. Secunda conclusio. — Dico secundo: 
+            pu<lb break="no" ed="#P" n="94"/>niri possunt schismatici omnibus fere poenis
+            <lb ed="#P" n="95"/>haereticorum, atque adeo reges privari reguis,
+            <lb ed="#P" n="96"/>etc. Tamen de facto nullam poenam incurrunt
+            <lb ed="#P" n="97"/>ante condemnationem ; neque principi 
+            schis<lb break="no" ed="#P" n="98"/>matici, si haeretici non sint, privantur sua 
+            ju<lb break="no" ed="#P" n="99"/>risdictione, donec condemnentur, quia nulla
+            <lb ed="#P" n="100"/>est talis poena lata contra ipsos; nam omnia
+            <lb ed="#P" n="101"/>jura continentia has poenas loquuntur de 
+            hae<lb break="no" ed="#P" n="102"/>reticis; et haec est communis sententia, etsi
+            <lb ed="#P" n="103"/>Panorm. et alii, in cap. Cum non ab homine, de
+            <lb ed="#P" n="104"/>Judiciis, senserint contrarium.
+          </p>
+          <p xml:id="szthvi-b81977-d1e1079">
+            <lb ed="#P" n="105"/>J. Dico tertio : schismatici ita sunt privati
+            <lb ed="#P" n="106"/>spirituali potestate sicut haeretici ; unde 
+            po<lb break="no" ed="#P" n="107"/>testate ordinis non privantur, et stando in
+            <pb ed="#P" n="737"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>jure divino, neque potestate iurisdictionis, aut
+            <lb ed="#P" n="2"/>beneficus ecclesiasticis, ut a fortiori patet de
+            <lb ed="#P" n="3"/>peenis haereticorum ; tamen ipso jure, de jure
+            <lb ed="#P" n="4"/>positivo, privantur dignitatibus, beneficiis,
+            <lb ed="#P" n="5"/>atque adeo bonis ecclesiasticis, in dicto cap.
+            <lb ed="#P" n="6"/>lyulli, distinct. 19; et hoc modo dicit Glossa,
+            <lb ed="#P" n="7"/>cap. 1 deSchismat.: Feclesiam, quee habet E 
+            pis<lb break="no" ed="#P" n="8"/>copum haereticum aut schismaticum, vacare 
+            in<lb break="no" ed="#P" n="9"/>telligitur ; quod dictum Turrecremata, libro
+            <lb ed="#P" n="10"/>2. cap. 102, extendit ad Summum Pontificem;
+            <lb ed="#P" n="11"/>sed quicquid sit de Papa haeretico, de quo alias
+            <lb ed="#P" n="12"/>dixi !, tamen de pure schismatico id omnino
+            <lb ed="#P" n="13"/>est falsum, quia extra casum haeresis nullus
+            <lb ed="#P" n="14"/>unquam dixit, ipso jure divino Papam 
+            pri<lb break="no" ed="#P" n="15"/>vari sua dignitate; imo et in casu haresis
+            <lb ed="#P" n="16"/>illud falsum est; jure autem humano privari
+            <lb ed="#P" n="17"/>non potest extra eum casum, ut ipsemet late
+            <lb ed="#P" n="18"/>docet, libro 2, cap. 93, et in materia de fide
+            <lb ed="#P" n="19"/>ostenditur ; quare, certum sit Papam nullam
+            <lb ed="#P" n="20"/>ex dictis poenis incurrere, quia neque ipse se
+            <lb ed="#P" n="21"/>potest excommunicare, neque Ecclesia potest
+            <lb ed="#P" n="22"/>illum punire, quamvis jure defensionis possit
+            <lb ed="#P" n="23"/>illus conatibus resistere, ut late Turrecr.,
+            <lb ed="#P" n="24"/>cap. 102; et Cajetan., de auctoritate Papae;
+            <lb ed="#P" n="25"/>et Cano, cap. 22; et Castro, lib. 2 de 
+            Puni<lb break="no" ed="#P" n="26"/>tione haereticor., cap. 2.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

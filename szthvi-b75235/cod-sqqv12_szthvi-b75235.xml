@@ -1,0 +1,1719 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 9</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 9</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="706"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-b75235"><!-- l3-d9 -->
+        <head xml:id="szthvi-b75235-Hd1e101">Disputatio 9</head>
+        <head xml:id="szthvi-b75235-Hd1e103" type="question-title">De ordine circa personas servando in praecepto charitatis et misericordiae</head>
+        <p xml:id="szthvi-b75235-d1e106">
+          <lb ed="#P" n="88"/>DISPUTATIO IX
+          <lb ed="#P" n="89"/>DE ORDINE CIRCA PERSONAS SERVANDO IN 
+          PRAE<lb break="no" ed="#P" n="90"/>CEPTO CHARITATIS ET MISERICORDIAE.
+        </p>
+        <p xml:id="szthvi-b75235-d1e115">
+          <lb ed="#P" n="91"/>Consecutio hujus disputationis ; recole 
+          ini<lb break="no" ed="#P" n="92"/>liwn sectionis 4, disp. 1. — De hac re disputat
+          <lb ed="#P" n="93"/>divus Thomas variis in locis, ut 2. 2, 
+          quaes<lb break="no" ed="#P" n="94"/>tion. 26, et 31, articul. 3, et 32, articul. 9, et
+          <lb ed="#P" n="95"/>44, articul. 6. Sed commodius in hoc uno 
+          ex<lb break="no" ed="#P" n="96"/>pedietur ; explicata enim substantia horum
+          <lb ed="#P" n="97"/>praeceptorum , facilius intelligetur ordo; et
+          <lb ed="#P" n="98"/>quia misericordia non habet locum erga Deum,
+          <lb ed="#P" n="99"/>et amor illi debitus essentialiter includit 
+          ordi<lb break="no" ed="#P" n="100"/>nem quem jam exposuimus, disputat. 2, 
+          sec<lb break="no" ed="#P" n="101"/>tion. 3, ostendendo Deum esse super omnia 
+          dili<lb break="no" ed="#P" n="102"/>gendum, ideo solum comparabimus et 
+          diligen<lb break="no" ed="#P" n="103"/>tem ad se, et ad alios proximos, et ipsos 
+          pro<lb break="no" ed="#P" n="104"/>ximos inter se; et quia hic ordo positus est in
+          <lb ed="#P" n="105"/>appretiatione, qui a nobis fere explicari non
+          <lb ed="#P" n="106"/>potest nisi per actus et beneficia externa, ideo
+          <lb ed="#P" n="107"/>recte explicatur simul ordo in amore, et in
+          <pb ed="#P" n="707"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>beneficentia seu misericordia , comparando
+          <lb ed="#P" n="2"/>nimirum hos actus ad varias necessitates 
+          ho<lb break="no" ed="#P" n="3"/>minum, tam in spiritualibus bonis quam in
+          <lb ed="#P" n="4"/>temporalibus.
+        </p>
+        <div xml:id="szthvi-b75235-Dd1e167">
+          <head xml:id="szthvi-b75235-Hd1e169">Sectio 1</head>
+          <head xml:id="szthvi-b75235-Hd1e171" type="question-title">Utrum in bonis spiritualibus teneatur homo magis sibi providere quam alteri</head>
+          <p xml:id="szthvi-b75235-d1e174">
+            <lb ed="#P" n="5"/>SECTIO I.
+            <lb ed="#P" n="6"/>Utrum in bonis spiritualibus teneatur homo
+            <lb ed="#P" n="7"/>magis sibi providere quam alteri.
+          </p>
+          <p xml:id="szthvi-b75235-d1e183">
+            <lb ed="#P" n="8"/>1. Ratio dubitandi pro alterutra parte. —
+            <lb ed="#P" n="9"/>Ratio dubii est, quia interdum licet 
+            spiritua<lb break="no" ed="#P" n="10"/>le bonum proximi praeferre bono proprio:
+            <lb ed="#P" n="11"/>multi enim spiritualia etiam detrimenta 
+            pa<lb break="no" ed="#P" n="12"/>tiuntur, ut aliis prosint, et hoc esx charitate;
+            <lb ed="#P" n="13"/>veluti cum religiosus a vacando divinae 
+            con<lb break="no" ed="#P" n="14"/>templationi cessat, ut ignorantem instruat. In
+            <lb ed="#P" n="15"/>contrarium vero est, quia supra vidimus, 
+            dis<lb break="no" ed="#P" n="16"/>put. 1, sect. 4, num. S, charitatem potius ad
+            <lb ed="#P" n="17"/>sut dilectionem quam aiiorum inclinare. Pro
+            <lb ed="#P" n="18"/>resolutione , advertendum spiritualia mala,
+            <lb ed="#P" n="19"/>vel detrimenta quaedam esse intrinsece 
+            contra<lb break="no" ed="#P" n="20"/>ria charitati; mortalia quidem peccata 
+            simpli<lb break="no" ed="#P" n="21"/>citer, venialia vero secundum quid. Aliud est
+            <lb ed="#P" n="22"/>detrimentum magis accidentarium, sed 
+            quo<lb break="no" ed="#P" n="23"/>dammodo etiam intrinsecum, ut charitatem
+            <lb ed="#P" n="24"/>esse remissam, etc. Aliud denique est omnino
+            <lb ed="#P" n="25"/>extrinsecum , ut est carere spirituali 
+            dilec<lb break="no" ed="#P" n="26"/>tione , et dulcedine, retardari ab ingressu
+            <lb ed="#P" n="27"/>beatitudinis.
+          </p>
+          <p xml:id="szthvi-b75235-d1e229">
+            <lb ed="#P" n="28"/>2. Prima conclusio. — Dico primo: 
+            simpli<lb break="no" ed="#P" n="29"/>citer tenetur homo se magis in spiritualibus
+            <lb ed="#P" n="30"/>diligere, et propriis ejusmodi necessitatibus
+            <lb ed="#P" n="31"/>subvenire, quam aliorum. Ita divus Thomas
+            <lb ed="#P" n="32"/>2. 2. q. 26, art. 4 et 13; et alii, cum Magist.,
+            <lb ed="#P" n="33"/>in 3, dist. 18 et 19. Ratio est, quia praeceptum
+            <lb ed="#P" n="34"/>charitatis fundatur in inclinatione charitatis;
+          </p>
+          <p xml:id="szthvi-b75235-d1e248">
+            <lb ed="#P" n="35"/>sed charitas magis inclinat ad se, ut disp. 1,
+          </p>
+          <p xml:id="szthvi-b75235-d1e253">
+            <lb ed="#P" n="36"/>in 4 et 5 sect. visum est; ergo maxime in
+            <lb ed="#P" n="37"/>spiritualibus bonis. Nam haec etiam sunt 
+            ma<lb break="no" ed="#P" n="38"/>gis necessaria, et magis propria, et intrinseca
+            <lb ed="#P" n="39"/>ipsi charitati. Secundo, in extrema necessitate
+            <lb ed="#P" n="40"/>spirituali potius debet homo sibi subvenire
+            <lb ed="#P" n="41"/>quam aliis ; ergo similiter in aliis ordinaris.
+            <lb ed="#P" n="42"/>Antecedens patet, quia potius debet homo sibi
+            <lb ed="#P" n="43"/>velle beatitudinem aeternam, quam aliis; item
+            <lb ed="#P" n="44"/>quia potius debet velle se amare Deum, quam
+            <lb ed="#P" n="45"/>ut ament alii, quia hoc continetur quasi in 
+            in<lb break="no" ed="#P" n="46"/>trinseca et primaria inclinatione charitatis.
+          </p>
+          <p xml:id="szthvi-b75235-d1e279">
+            <lb ed="#P" n="47"/>3. Objicitur primo contra conclusionem. —
+            <lb ed="#P" n="48"/>Besponsio. — Objicitur secundo. — Diluitur
+            <lb ed="#P" n="49"/>ex D. Thoma. — Oppones primo : nam bonum
+            <lb ed="#P" n="50"/>commune in eodem ordine praeferendum est
+            <lb ed="#P" n="51"/>privato, quia se habent ut totum et pars ; ergo
+            <lb ed="#P" n="52"/>saltem bonum commune spirituale multorum
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>est magis diligendum quam proprium, atque
+            <lb ed="#P" n="54"/>adeo similis necessitas praeferenda propriae, ut
+            <lb ed="#P" n="55"/>in simili casu patet in temporalibus. Neganda
+            <lb ed="#P" n="56"/>tamen est consequentia propter duplicem 
+            dif<lb break="no" ed="#P" n="57"/>ferentiam inter temporalia et spiritualia ; nam
+            <lb ed="#P" n="58"/>in temporalibus saepe est medium necessarium
+            <lb ed="#P" n="59"/>ad tuendum bonum commune, pati malum
+            <lb ed="#P" n="60"/>proprium ; in spiritualibus vero minime, quia
+            <lb ed="#P" n="61"/>si quis ordinate subveniat communi 
+            necessi<lb break="no" ed="#P" n="62"/>tati, vel bono spirituali, hoc ipso se amat in
+            <lb ed="#P" n="63"/>spiritualibus. Secundo, quia spirituale bonum
+            <lb ed="#P" n="64"/>respicit Deum, et malum illi contrarium est
+            <lb ed="#P" n="65"/>quodammodo contra Deum, atque adeo non
+            <lb ed="#P" n="66"/>est committendum propter ullum bonum 
+            crea<lb break="no" ed="#P" n="67"/>turae. Oppones secundo : charitas magis 
+            dili<lb break="no" ed="#P" n="68"/>git quod magis cedit in gloriam Dei; sed 
+            ma<lb break="no" ed="#P" n="69"/>jor Dai gloria est ut plures homines sint beati,
+            <lb ed="#P" n="70"/>vel etiam sanctiores sint quam ego ipse : ergo
+            <lb ed="#P" n="71"/>etc. Respondetur ex divo Thoma 2. 2, quaest.
+            <lb ed="#P" n="72"/>26, art. 3, charitatem non magis diligere id
+            <lb ed="#P" n="73"/>quod objective est major gloria, sed id quod
+            <lb ed="#P" n="74"/>est quasi etfective major gloria ; id est, id 
+            ma<lb break="no" ed="#P" n="75"/>cis amat quo magis gloriticat Dcum ipse
+            <lb ed="#P" n="76"/>amans, non quicumque alius; item id magis
+            <lb ed="#P" n="77"/>amat charitas, quod Deus vult me magis 
+            ama<lb break="no" ed="#P" n="78"/>re; Deus autem vult me magis amare meam
+            <lb ed="#P" n="79"/>sanctitatem quam alienam, quantacumque illa
+            <lb ed="#P" n="80"/>sit, et ego ita amando magis glorifico Deum
+            <lb ed="#P" n="81"/>quam alio modo, quia hoc ipso ego magis amo
+            <lb ed="#P" n="82"/>ipsum ; quare, etc.
+          </p>
+          <p xml:id="szthvi-b75235-d1e362">
+            <lb ed="#P" n="83"/>4. Objicitur tertio.— Responsio prima quoad
+            <lb ed="#P" n="84"/>locum Pauli, de quo erudite Cornelus a Lapude
+            <lb ed="#P" n="85"/>et Benedictus Justinianus, ib. —Oppones 
+            ter<lb break="no" ed="#P" n="86"/>tio ex Paulo, ad Roman. 9 : Optabam ego esse
+            <lb ed="#P" n="87"/>anathema a Christo pro fratribus meis, ubi
+            <lb ed="#P" n="88"/>Paulus desiderabat perpetuo carere 
+            beatitu<lb break="no" ed="#P" n="89"/>dine aeterna propter bonum Judaeorum ; 
+            prae<lb break="no" ed="#P" n="90"/>ferebat ergo spirituale bonum aliorum 
+            pro<lb break="no" ed="#P" n="91"/>prio et maximo. Antecedens patet ex littera,
+            <lb ed="#P" n="92"/>cum communi explicatione Doctorum, 
+            Atha<lb break="no" ed="#P" n="93"/>nasi, Theodoreti, Theophilacti, et maxime
+            <lb ed="#P" n="94"/>Chrysostomi , homilia 2 et 3 de Laudibus
+            <lb ed="#P" n="95"/>Pauli, et aliis in locis ; idemque tradunt alii
+            <lb ed="#P" n="96"/>Patres : simils est locus Exodi 32: Dimitte
+            <lb ed="#P" n="97"/>cis hanc noram, aut dele me de libro tuo, quem
+            <lb ed="#P" n="98"/>scripsisti, scilicet, praedestinationis ad vitam
+            <lb ed="#P" n="99"/>eeternam, ut exponit Ambrosius, libro tertio,
+            <lb ed="#P" n="100"/>de Spiritu Sancto, capite undecimo ; indicat
+            <lb ed="#P" n="101"/>Basilius in Quaestionibus longioribus, 
+            quaes<lb break="no" ed="#P" n="102"/>tione tertia ; et Cassian., collat. 17, capite 
+            vi<lb break="no" ed="#P" n="103"/>cesimo scxto. Ad primum locum, respondetur
+            <lb ed="#P" n="104"/>primo non loqui Paulum de desiderio ex 
+            cha<lb break="no" ed="#P" n="105"/>ritate, sed potius ex errore et ignorantia, non
+            <lb ed="#P" n="106"/>quam tunc habebat, quando id scribebat, sed
+            <lb ed="#P" n="107"/>quam habuerat antequam Christum cognoscce-
+            <pb ed="#P" n="708"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ret ; intendit enim eo loco confirmare se non
+            <lb ed="#P" n="2"/>ex odio Judaeorum , sed ex amore, contra 
+            eo<lb break="no" ed="#P" n="3"/>rum duritiem praedicare, et hoc confirmat 
+            ju<lb break="no" ed="#P" n="4"/>rans se valde dolere de eorum errore et statu
+            <lb ed="#P" n="5"/>perdito ; et confirmat, quia similiter cx eodem
+            <lb ed="#P" n="6"/>amore aniequam illuminaretur, praedicabat
+            <lb ed="#P" n="7"/>contra Christum, et volebat esse anathema ab
+            <lb ed="#P" n="8"/>illo. Ita Ambrosius et Hieronymus, Glossa 
+            in<lb break="no" ed="#P" n="9"/>terlinea. et ordiuaria, Anselmus, Hugo 
+            Car<lb break="no" ed="#P" n="10"/>din., D. Thomas 2. 2, quaest. 27, art. 8, ad
+            <lb ed="#P" n="11"/>primum. Dices : si Paulus loqueretur de 
+            tem<lb break="no" ed="#P" n="12"/>pore suae infidelitatis, non esset cur tanta
+            <lb ed="#P" n="13"/>exaggeratione loqueretur, nam id facile credi
+            <lb ed="#P" n="14"/>posset : item non est verisimile ex amore 
+            Ju<lb break="no" ed="#P" n="15"/>daeorum fuisse ante persecutum Christum.
+            <lb ed="#P" n="16"/>Occurrendum tamen interponere Paulum 
+            ex<lb break="no" ed="#P" n="17"/>aggerationem istam, ad persuadendum 
+            prae<lb break="no" ed="#P" n="18"/>sentem affectum amoris erga Judaeos, et 
+            quan<lb break="no" ed="#P" n="19"/>to dolore afficeretur propter eorum malum;
+            <lb ed="#P" n="20"/>praeter itum vero tempus commemorat, ut 
+            ve<lb break="no" ed="#P" n="21"/>risimilius faciat quod nunc jurat. Et 
+            confir<lb break="no" ed="#P" n="22"/>mat hoc vis illius verbi optabam, et non, opto.
+            <lb ed="#P" n="23"/>Falsum est etiam Paulum, cum persequebatur
+            <lb ed="#P" n="24"/>Ecclesiam, id non fecisse ex amore suorum;
+            <lb ed="#P" n="25"/>nam Actor. 22, et ad Galat. 1, dicit se id 
+            fe<lb break="no" ed="#P" n="26"/>cisse, ut aemulatorem legis et religionis suae.
+          </p>
+          <p xml:id="szthvi-b75235-d1e479">
+            <lb ed="#P" n="27"/>5. Altera loci Pauli eapositio.—MNon 
+            satis<lb break="no" ed="#P" n="28"/>facit. — Tertia eapositio. — Non omnino 
+            pla<lb break="no" ed="#P" n="29"/>cet. — Apud Rüibadineiram , lib. 3 de Vita B.
+            <lb ed="#P" n="30"/>Ignatii. — Secundo respondetur, admittendo
+            <lb ed="#P" n="31"/>loqui de praesenti desiderio , illud anathema
+            <lb ed="#P" n="32"/>non significare carentiam beatitudinis, neque
+            <lb ed="#P" n="33"/>aliquod spirituale malum, sed posse 
+            signifi<lb break="no" ed="#P" n="34"/>care mortem corporalem, ut videre est in 
+            Pa<lb break="no" ed="#P" n="35"/>gnino, et in Thesauro linguae sanctae, verbo
+            <lb ed="#P" n="36"/>Aram ; et hoc loco exponit Hieronymus, q.
+            <lb ed="#P" n="37"/>9 ad Algasiam , et idem tradunt alii Patres.
+            <lb ed="#P" n="38"/>Solum obstat illa particula a Christo, ut 
+            no<lb break="no" ed="#P" n="39"/>tavit Adamus eo loco, nam nisi detorquendo
+            <lb ed="#P" n="40"/>litteram non potest conjungi cum morte 
+            cor<lb break="no" ed="#P" n="41"/>porali. Tertio ergo admittamus desiderasse
+            <lb ed="#P" n="42"/>Paulum carentiam beatitudinis , non 
+            perpe<lb break="no" ed="#P" n="43"/>tuam tamerr, sed ad tempus, quantum 
+            Judaeo<lb break="no" ed="#P" n="44"/>rum saluti esset necessaria. Ita divus Thomas
+            <lb ed="#P" n="45"/>2. 9., quaest. 27, artic. 8, ad 1. Eamdem 
+            ex<lb break="no" ed="#P" n="46"/>positionem habent Magister et Bonaventura,
+            <lb ed="#P" n="47"/>in 3 , distinction. 19; Lyranus, et Haymo
+            <lb ed="#P" n="48"/>in Paulum ; Arboreus, lib. 14, cap. 17 
+            Theo<lb break="no" ed="#P" n="49"/>sophiae. Solum vero obstat, quia ad id 
+            asse<lb break="no" ed="#P" n="50"/>rendum, non erat necessaria tanta 
+            exaggera<lb break="no" ed="#P" n="51"/>tio, nam erat res facilis, ut patet ex eodem
+            <lb ed="#P" n="52"/>ad Philip. 1: Coarctor autem e duobus, 
+            desi<lb break="no" ed="#P" n="53"/>derium habens dissolvi, et esse cum Christo ;
+            <lb ed="#P" n="54"/>per manere aulem in carne necessarium propter
+            <lb ed="#P" n="55"/>tos. Alii quoque Sancti minus perfecti illam
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>voluntatem habuerunt, ut legimus de sancto
+            <lb ed="#P" n="57"/>Martino, qui apud Sulpitium, cum jam 
+            evo<lb break="no" ed="#P" n="58"/>candus esset ad coelestem gloriam, testabatur:
+            <lb ed="#P" n="59"/>Domine, si adhuc populo tuo sum necessarius,
+            <lb ed="#P" n="60"/>non recuso laborem ; quod ipsum ad praesens
+            <lb ed="#P" n="61"/>institutum perpendit Bernardus, in sermone
+            <lb ed="#P" n="62"/>de Beati Martini laudibus. Neque absimile 
+            le<lb break="no" ed="#P" n="63"/>gimus de B P. N. Ignatio.
+          </p>
+          <p xml:id="szthvi-b75235-d1e564">
+            <lb ed="#P" n="64"/>6. Quarta expositio. — Responsio ejusdem
+            <lb ed="#P" n="65"/>tertie objectionis quoad locum Haodi. — 
+            Ca<lb break="no" ed="#P" n="66"/>preo'us redarguitur. — Quarto ergo, demus
+            <lb ed="#P" n="67"/>esse sermonem de carentia perpetuae 
+            beatitu<lb break="no" ed="#P" n="68"/>dinis ; tamen si ita esponamus, non est 
+            putan<lb break="no" ed="#P" n="69"/>dum habuisse Paulum tale desiderium 
+            abso<lb break="no" ed="#P" n="70"/>lutum, quia revera non fuisset bonum; non
+            <lb ed="#P" n="71"/>enim talis carentia erat medium ad salutem
+            <lb ed="#P" n="72"/>aliorum. Item talis carentia non poterat esse
+            <lb ed="#P" n="73"/>siue carentia charitatis; ergo desiderare 
+            il<lb break="no" ed="#P" n="74"/>lam esset hanc virtutem non desiderare, quod
+            <lb ed="#P" n="75"/>est intrinsece malum Dices, posse unum ab
+            <lb ed="#P" n="76"/>alio praescindi, quia de potentia absoluta 
+            pos<lb break="no" ed="#P" n="77"/>suut separari. Contra, nam, saltem de facto,
+            <lb ed="#P" n="78"/>non licebat id velle. Item de potentia 
+            abso<lb break="no" ed="#P" n="79"/>luta potest Deus privare me charitate sine
+            <lb ed="#P" n="80"/>peccato : ideone licet id desiderare? Igitur
+            <lb ed="#P" n="81"/>exponendum est sermonem fuisse per 
+            exagge<lb break="no" ed="#P" n="82"/>rationem quamdam, ita ut sensus sit, si 
+            opor<lb break="no" ed="#P" n="83"/>teret, et esset necessarium, id optarem, ita ut
+            <lb ed="#P" n="84"/>verbum optabam , non significet desiderium
+            <lb ed="#P" n="85"/>praesens vel praeteritum, sed quasi potentiale,
+            <lb ed="#P" n="86"/>seu quod posset haberi. Hic autem actus non
+            <lb ed="#P" n="87"/>potest dici inordinatus, quia revera non est
+            <lb ed="#P" n="88"/>affectus carendi beatitudine , sed modus 
+            lo<lb break="no" ed="#P" n="89"/>quendi ad explicandam vim charitatis, et 
+            po<lb break="no" ed="#P" n="90"/>test deservire ad excitandam illam ; 
+            consi<lb break="no" ed="#P" n="91"/>derat enim homo gratiam et gloriam, ut sunt
+            <lb ed="#P" n="92"/>bona propria, salutem vero proximorum, ut
+            <lb ed="#P" n="93"/>cedit in quamdam majorem gloriam Dei, et sic
+            <lb ed="#P" n="94"/>ait se optare carere his propriis bonis propter
+            <lb ed="#P" n="95"/>majorem gloriam Dei; et ad hunc effectum 
+            si<lb break="no" ed="#P" n="96"/>gnificandum utitur illo desiderio conditionato,
+            <lb ed="#P" n="97"/>sicut Augustinus, ut vulgo celebratur, vellet
+            <lb ed="#P" n="98"/>potius (id quod est) Deum ipsum quam se
+            <lb ed="#P" n="99"/>Deum esse, non e contrario, si hoc possibile
+            <lb ed="#P" n="100"/>fingeretur. Dices licere eodem modo habere
+            <lb ed="#P" n="101"/>hunc actum : 5i esset major gloria Dei, 
+            pec<lb break="no" ed="#P" n="102"/>catum commitlerem pro salute mundi. 
+            Nega<lb break="no" ed="#P" n="103"/>tur tamen consequentia, quia talis actus 
+            di<lb break="no" ed="#P" n="104"/>recte involvit injuriam in Deum, quia 
+            pecca<lb break="no" ed="#P" n="105"/>tum majus malum est respectu Dei, quam
+            <lb ed="#P" n="106"/>respectu peccatoris; unde ibi non 
+            compara<lb break="no" ed="#P" n="107"/>tur malum proprium cum bono divino, sed
+            <lb ed="#P" n="108"/>cum malo Dei. Eisdem fere modis potest 
+            ex<lb break="no" ed="#P" n="109"/>poni alterum testimonium, quod multas etiam
+            <lb ed="#P" n="110"/>patitur expositiones , quia illud verbum, d
+            <pb ed="#P" n="709"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>libro, est valde aequivocum ; utcumque autcem
+            <lb ed="#P" n="2"/>sit, illa fuit petitio ex magna confidentia, quae
+            <lb ed="#P" n="3"/>oriebatur ex charitate ; unde non desideravit
+            <lb ed="#P" n="4"/>Moyses deleri de libro illo, sed loquitur ad
+            <lb ed="#P" n="5"/>Deum, sicut loqui solet amicus 
+            confidentissi<lb break="no" ed="#P" n="6"/>mus: Jel hoc fac, cel interfice me; ita 
+            Gre<lb break="no" ed="#P" n="7"/>gorius, 20 Moralium, c. 8; Hieronymus, ep.
+            <lb ed="#P" n="8"/>ad Gaudentiam ; vel aliter: Fac hoc, aut dele
+            <lb ed="#P" n="9"/>me de mumero lujusmodi privatorum et 
+            prin<lb break="no" ed="#P" n="10"/>cipum, ut Cajetanus ibi; vel dele me de tua
+            <lb ed="#P" n="11"/>memoria , quod inter amicos dici solet , 
+            am<lb break="no" ed="#P" n="12"/>plius ne recorderis mei, ut Euthym. , Ps. 68
+            <lb ed="#P" n="13"/>et 719 exposuit. Atque ex hactenus traditis 
+            in<lb break="no" ed="#P" n="14"/>tell'gi potest minus recte Capreol., in 3, d.
+            <lb ed="#P" n="15"/>21, q. 1, art. 35, ad argumentum contra 
+            ter<lb break="no" ed="#P" n="16"/>tiam conclusionem, putasse licere nobis velle
+            <lb ed="#P" n="17"/>carere gratia, si id utile judicaretur ad 
+            bo<lb break="no" ed="#P" n="18"/>num commune spirituale.
+          </p>
+          <p xml:id="szthvi-b75235-d1e713">
+            <lb ed="#P" n="19"/>7. Secunda conclusio. — Objectio 
+            multiplici<lb break="no" ed="#P" n="20"/>ter soltitur. — Dico secundo: secundum 
+            or<lb break="no" ed="#P" n="21"/>dinem charitatis nullus tenetur, neque potest
+            <lb ed="#P" n="22"/>subvenire aliis cum eo proprio spirituali 
+            de<lb break="no" ed="#P" n="23"/>trimento, quod culpam includit. Est certa et
+            <lb ed="#P" n="24"/>communis, apud D. Thomam 2. 2, q. 43, art.
+            <lb ed="#P" n="25"/>1; Soto, 5 de Just., q. 1, art. 6. Colligitur ex
+            <lb ed="#P" n="26"/>Rom. 3: Non sunt facienda mala, etc.; et
+            <lb ed="#P" n="27"/>Matth. 16: Qvid prodest homini, si universum
+            <lb ed="#P" n="28"/>mundun lucretur, anime vero sue 
+            detrimen<lb break="no" ed="#P" n="29"/>hum pntiatur. Ratio est, quia culpa includit
+            <lb ed="#P" n="30"/>Dei offensam , quae vitanda est plusquam
+            <lb ed="#P" n="31"/>omnia mala creaturarum. Dices: fieri posset
+            <lb ed="#P" n="32"/>ut aliena majora peccata vitentur minimo
+            <lb ed="#P" n="33"/>quodam levi peccato proprio. Respondetur
+            <lb ed="#P" n="34"/>quemque teneri absolute, ac sine ullo respectu
+            <lb ed="#P" n="35"/>ad bona alia, vitare culpam. Deinde culpa non
+            <lb ed="#P" n="36"/>est medium per se ordinatum ad tollendas
+            <lb ed="#P" n="37"/>alias culpas, et si hoc interdum sequi per 
+            acci<lb break="no" ed="#P" n="38"/>dens possit, neque reddit actum honestum,
+            <lb ed="#P" n="39"/>ut ex 1. 2 liquet. Tandem implicat peccatum
+            <lb ed="#P" n="40"/>esse eligendum ordine charitatis quocumque
+            <lb ed="#P" n="41"/>tine : nam si est peccatum, est contra rectam
+            <lb ed="#P" n="42"/>rationem ; ergo non licet. Si autem est 
+            secun<lb break="no" ed="#P" n="43"/>dum ordinem charitatis eligendum , ergo 
+            li<lb break="no" ed="#P" n="44"/>cet. Fieri quidem interdum potest ut quod
+            <lb ed="#P" n="45"/>alias non liceret, in casu talis necessitatis 
+            li<lb break="no" ed="#P" n="46"/>ceat id vero solum potest evenire, quando
+            <lb ed="#P" n="47"/>res non est intrinsece mala.
+          </p>
+          <p xml:id="szthvi-b75235-d1e778">
+            <lb ed="#P" n="48"/>8. Corollarium ea praecedenti conclusione.
+            <lb ed="#P" n="49"/>—Ex hac conclusione, sequitur contra 
+            So<lb break="no" ed="#P" n="50"/>tum, libro 5 de Justitia, q. 1, artic. 6, ante
+            <lb ed="#P" n="51"/>6 conclusionem , nemini licere propter 
+            alo<lb break="no" ed="#P" n="52"/>rum salutem exponere se moral periculo
+            <lb ed="#P" n="53"/>peccandi mortaliter, ex illa regula Ecclesiast.,
+            <lb ed="#P" n="54"/>capit. 3: Qui amat periculum, peribit in lo.
+            <lb ed="#P" n="55"/>Nam in moralibus idem est committere, et
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>exponere se morali periculo committendi ;
+            <lb ed="#P" n="57"/>quod maxime verum est, quando periculum
+            <lb ed="#P" n="58"/>est in determinata materia, in qua aliquis
+            <lb ed="#P" n="59"/>fragilem se expertus est. Si vero in confuso,
+            <lb ed="#P" n="60"/>non potest certa regula tradi , sed pro 
+            ra<lb break="no" ed="#P" n="61"/>tione necessitatis et pericul pensanda res
+            <lb ed="#P" n="62"/>erit ; si vero sit periculum de veniali, non
+            <lb ed="#P" n="63"/>est admodum scrupulose agenlum, quamvis
+            <lb ed="#P" n="64"/>semper oporteat cavere num, ratione 
+            peri<lb break="no" ed="#P" n="65"/>culi cui aliquis hic et nunc se exponit, 
+            cen<lb break="no" ed="#P" n="66"/>seatur peccare venialiter; nam hoc nunquam
+          </p>
+          <p xml:id="szthvi-b75235-d1e824">
+            <lb ed="#P" n="67"/>9. Tertia conclusio. — Dico tertio: illud
+            <lb ed="#P" n="68"/>etiam spirituale detrimentum, quod licet 
+            cul<lb break="no" ed="#P" n="69"/>pam non includat, minuit tamen substantian:
+            <lb ed="#P" n="70"/>ipsius charitatis, seu impedit potius 
+            augmen<lb break="no" ed="#P" n="71"/>tum ejus et meritorum , non est secundum
+            <lb ed="#P" n="72"/>ordinem charitatis eligibile propter aiiorum
+            <lb ed="#P" n="73"/>salutem. Probatur , quia tale deirimentum
+            <lb ed="#P" n="74"/>non est per se ordinatum ad aliorum salutem,
+            <lb ed="#P" n="75"/>nec per se est amabile. Secundo , charitas
+            <lb ed="#P" n="76"/>maxime inclinat ad sui perfectionem ; ergo
+            <lb ed="#P" n="77"/>non inclinat ad id quod hanc perfectionem
+            <lb ed="#P" n="78"/>impedit. Objicies: nam saepe tenetur quis ex
+            <lb ed="#P" n="79"/>charitate non assumere statum religionis, ut
+            <lb ed="#P" n="80"/>subveniat aliis, cum qua obligatione est 
+            ne<lb break="no" ed="#P" n="81"/>cessario conjunctum illud detrimentum; sed
+            <lb ed="#P" n="82"/>charitas magis inclinat ad id quod est 
+            prae<lb break="no" ed="#P" n="83"/>ceptum , quam ad caetera, quia magis amat
+            <lb ed="#P" n="84"/>conservationem suam, quam suum 
+            augmen<lb break="no" ed="#P" n="85"/>tum: ergo, etc. Respondetur verum esse 
+            in<lb break="no" ed="#P" n="86"/>terdum charitatem magis inclinare ad actus,
+            <lb ed="#P" n="87"/>qui ex genere suo sunt minus perfecti, 
+            quan<lb break="no" ed="#P" n="88"/>do sunt magis necessarii ; tamen hanc 
+            obli<lb break="no" ed="#P" n="89"/>gationem per se non repugnare cum majori
+            <lb ed="#P" n="90"/>augmento et perfectione charitatis ; quia
+            <lb ed="#P" n="91"/>exercendo illos actus cum majori puritate,
+            <lb ed="#P" n="92"/>intensione, et affectu charitatis, potest 
+            quis<lb break="no" ed="#P" n="93"/>piam magis mereri, si velit ; quod si quis id
+            <lb ed="#P" n="94"/>non faciat , non ex impedimento praecepti,
+            <lb ed="#P" n="95"/>sed ex sua fragilitate nascetur. Itaque hoc
+            <lb ed="#P" n="96"/>detrimentum permitti interdum potest, 
+            etiam<lb break="no" ed="#P" n="97"/>si moraliter sit certum fore eventurum.
+          </p>
+          <p xml:id="szthvi-b75235-d1e894">
+            <lb ed="#P" n="98"/>10. Quaestiuncula. -Expeditur.—Sed quid,
+            <lb ed="#P" n="99"/>si necessitas proximi non sit tanta, ut homo
+            <lb ed="#P" n="100"/>ex praecepto obligetur ad subveniendum illi?
+            <lb ed="#P" n="101"/>licebitne permittere illud detrimentum 
+            pro<lb break="no" ed="#P" n="102"/>pter bonum alterius? Respondendum, si quis
+            <lb ed="#P" n="103"/>sic faciat, per se loquendo non peccare, quia
+            <lb ed="#P" n="104"/>non obligamur ex praecepto ad vitandum 
+            ejus<lb break="no" ed="#P" n="105"/>modi detrimentum; tamen si verum sit esse
+            <lb ed="#P" n="106"/>iliud periculum proprii detrimenti, nunquam
+            <lb ed="#P" n="107"/>credo esse in consilio, sed potius contrarium.
+            <lb ed="#P" n="108"/>Ratio est, quia cum non sit praeceptum, ut
+            <lb ed="#P" n="109"/>supponitur, cessat necessitas, et ita charitas
+            <pb ed="#P" n="710"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>sine illa subventione potest bene conservari;
+            <lb ed="#P" n="2"/>supposita autem conservatione, maxime 
+            incli<lb break="no" ed="#P" n="3"/>nat ad sui augmentum. Confirmatur, ram si
+            <lb ed="#P" n="4"/>ilud esset consilium, procederet ex ordine
+            <lb ed="#P" n="5"/>charitatis ; ergo illud eligere esset optimus
+            <lb ed="#P" n="6"/>charitatis actus; ergo illo actu maxime 
+            auge<lb break="no" ed="#P" n="7"/>retur charitas ; ergo falsum erat ex illa 
+            actio<lb break="no" ed="#P" n="8"/>ne minus augendam forte charitatem. 
+            Quocir<lb break="no" ed="#P" n="9"/>ca ad ferendum judicium, an homo vere se
+            <lb ed="#P" n="10"/>exponat tali periculo, prudenter sunt omnes
+            <lb ed="#P" n="11"/>actus et circumstantiae considerandae; et 
+            quan<lb break="no" ed="#P" n="12"/>do quis vere ex intentione charitatis movetur,
+            <lb ed="#P" n="13"/>nec certo cognovit se exponere periculo, nihil
+            <lb ed="#P" n="14"/>est timendum.
+          </p>
+          <p xml:id="szthvi-b75235-d1e957">
+            <lb ed="#P" n="15"/>11. Quarta conclusio exemplis et ratione 
+            os<lb break="no" ed="#P" n="16"/>tenditur. — Dico quarto : illud detrimentum,
+            <lb ed="#P" n="17"/>quod est mere extrinsecum et accidentale, 
+            in<lb break="no" ed="#P" n="18"/>terdum eligi solet propter salutem aliorum.
+            <lb ed="#P" n="19"/>Haec iis sententiis, seu exemplis Sanctorum,
+            <lb ed="#P" n="20"/>quae n. 4 et seq. attulimus, confirmatur. 
+            Acce<lb break="no" ed="#P" n="21"/>dit, quia seepe hoc est medium necessarium,
+            <lb ed="#P" n="22"/>vel certe necessario conjunctum cum tali 
+            me<lb break="no" ed="#P" n="23"/>dio ad salutem aliorum, nec alias pugnat cum
+            <lb ed="#P" n="24"/>ipsa charitate, neque cum illius augmento;
+            <lb ed="#P" n="25"/>ergo interdum licite, imo laudabiliter eligi
+            <lb ed="#P" n="26"/>potest.
+          </p>
+        </div>
+        <div xml:id="szthvi-b75235-Dd1e988">
+          <head xml:id="szthvi-b75235-Hd1e990">Sectio 2</head>
+          <head xml:id="szthvi-b75235-Hd1e992" type="question-title">An homo debeat proximo potius in spiritualibus subvenire quam sibi in corporalibus</head>
+          <p xml:id="szthvi-b75235-d1e995">
+            <lb ed="#P" n="27"/>SECTIO II.
+          </p>
+          <p xml:id="szthvi-b75235-d1e1000">
+            <lb ed="#P" n="28"/>An homo debeat proximo potius in spiritualibus
+            <lb ed="#P" n="29"/>subvenire quam sibi in corporalibus.
+          </p>
+          <p xml:id="szthvi-b75235-d1e1007">
+            <lb ed="#P" n="30"/>1. Prima conclusio. — Ex dictis sectione
+            <lb ed="#P" n="31"/>praecedenti, constat debere hominem sibi 
+            po<lb break="no" ed="#P" n="32"/>tius in spiritualibus subvenire, quam proximo
+            <lb ed="#P" n="33"/>in corporalibus; et ideo, omissa hac 
+            compara<lb break="no" ed="#P" n="34"/>tione, sermo erit de aliis. Dico primo, 
+            simpli<lb break="no" ed="#P" n="35"/>citer loquendo, teneri hominem magis diligere
+            <lb ed="#P" n="36"/>proximum in spiritualibus, quam se in 
+            corpo<lb break="no" ed="#P" n="37"/>ralibus: ita D. Thomas 2. 2, quaest. 26, art. 5,
+            <lb ed="#P" n="38"/>et Theologi communiter in 3, dist. ? aut 29;
+            <lb ed="#P" n="39"/>vel etiam citato artic. 5. Ratio est, quia 
+            chari<lb break="no" ed="#P" n="40"/>tas maxime inclinat ad id quod sccundum se
+            <lb ed="#P" n="41"/>est maxime amabile; secundum rectam vero
+            <lb ed="#P" n="42"/>rationem, magis amabilis est anima proximi
+            <lb ed="#P" n="43"/>quam corpus proprium, in eaque magis 
+            giori<lb break="no" ed="#P" n="44"/>ficari poterit Deus quam in corpore proprio,
+            <lb ed="#P" n="45"/>et consortium cjus in beatitudine est majus
+            <lb ed="#P" n="46"/>bonum quam sit gloria corporis, et aliunde ex
+            <lb ed="#P" n="47"/>detrimento corporis nihil diminuitur 
+            spiritua<lb break="no" ed="#P" n="48"/>le bonum animae; ergo hic ordo cadit in 
+            ordi<lb break="no" ed="#P" n="49"/>ne charitatis; ergo sub praecepto: nam ordo
+            <lb ed="#P" n="50"/>actuum charitatis non minus est necessarius
+            <lb ed="#P" n="51"/>quam singularis actus.
+          </p>
+          <p xml:id="szthvi-b75235-d1e1058">
+            <lb ed="#P" n="52"/>2. Secunda conclusio. —Objicitur em Augus-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>tino.— Solvitur.— Dico secundo : ratione 
+            hu<lb break="no" ed="#P" n="54"/>jus praecepti, tenetur homo subvenire proximo
+            <lb ed="#P" n="55"/>existenti in extrema necessitate spirituali,
+            <lb ed="#P" n="56"/>etiam cum evidenti periculo mortis. Ita divus
+            <lb ed="#P" n="57"/>Thomas, art. illo 5, ad 3; Gabriel, lectione 74
+            <lb ed="#P" n="58"/>in Canon.; Navarr., capite 24, num. 9. 
+            Proba<lb break="no" ed="#P" n="59"/>tur ex Seriptura, 1 Joan. 3: Nos debemus pro
+            <lb ed="#P" n="60"/>fratribus animas ponere, quem locum ad hoc
+            <lb ed="#P" n="61"/>institutum ponderat Augustinus, lib. de 
+            Men<lb break="no" ed="#P" n="62"/>dacio, c. 6, dicens : Temporalem vitam suam
+            <lb ed="#P" n="63"/>pro eterna proaimi non dubitabit Christianus
+            <lb ed="#P" n="64"/>amittere; et Joannis 24: Hoc est praeceptum
+            <lb ed="#P" n="65"/>meum, ut diligatis invicem, sicut dilesi vos;
+            <lb ed="#P" n="66"/>ita vero nos dilexit, ut vitam corporalem 
+            de<lb break="no" ed="#P" n="67"/>derit pro vita spirituali nostrorum omnium.
+            <lb ed="#P" n="68"/>Ratio est, quia hic ordo cadit sub praeceptum,
+            <lb ed="#P" n="69"/>ut ostensum est; ergo maxime in extrema 
+            ne<lb break="no" ed="#P" n="70"/>cessitate. Oppones : nam Augustinus, tract. 6
+            <lb ed="#P" n="71"/>in Joan., ait, perdere vitam pro fratribus, esse
+            <lb ed="#P" n="72"/>perfecte charitatis, ad quam perfectionem 
+            pro<lb break="no" ed="#P" n="73"/>ficit quis per alia opera charitatis ; ubi indicat
+            <lb ed="#P" n="74"/>hoc tantum esse consilium. Respondetur 
+            for<lb break="no" ed="#P" n="75"/>tasse intelligi de perfectione essentiali 
+            chari<lb break="no" ed="#P" n="76"/>tatis, vel certe loqui de ea dispositione qua
+            <lb ed="#P" n="77"/>quis paratus est subvenire proximo, non solum
+            <lb ed="#P" n="78"/>in extrema, sed etiam in minori necessitate,
+            <lb ed="#P" n="79"/>non obstante periculo vitae ; hoc enmm tantum
+            <lb ed="#P" n="80"/>in consilio est.
+          </p>
+          <p xml:id="szthvi-b75235-d1e1126">
+            <lb ed="#P" n="81"/>3. Dubium ea conclusione diluitur exemplo
+            <lb ed="#P" n="82"/>triplici. — At inquies, quae potest hic esse
+            <lb ed="#P" n="83"/>extrema necessitas; videtur enim nulla esse
+            <lb ed="#P" n="84"/>posse, cum spiritualis vita pendeat ex 
+            vo<lb break="no" ed="#P" n="85"/>luntate. Respondetur primo, in parvulo 
+            mo<lb break="no" ed="#P" n="86"/>ribundo ante usum rationis, quem ego jure
+            <lb ed="#P" n="87"/>possum baptizare, non tamen possum sine
+            <lb ed="#P" n="88"/>mortis periculo, ejusmodi necessitatem 
+            in<lb break="no" ed="#P" n="89"/>veniri; quem casum negat Sotus, in 
+            relec<lb break="no" ed="#P" n="90"/>tione de secreto, membro secundo, quaestione
+            <lb ed="#P" n="91"/>secunda, post sextam conclusionem, sed non
+            <lb ed="#P" n="92"/>video qua ratione, quia nullus potest esse 
+            evi<lb break="no" ed="#P" n="93"/>dentior casus conclusionis positae : unde 
+            Na<lb break="no" ed="#P" n="94"/>varr. supra illum admittit. Dices, ut Sotus
+            <lb ed="#P" n="95"/>etiam indicat, illam non esse extremam 
+            neces<lb break="no" ed="#P" n="96"/>sitatem per se, sed per accidens, ex malitia
+            <lb ed="#P" n="97"/>alicujus tyranni. Hoc tamen parum refert,
+            <lb ed="#P" n="98"/>quia charitati impertinens est unde oriatur
+            <lb ed="#P" n="99"/>necessitas, solumque refert an sit necessitas;
+            <lb ed="#P" n="100"/>quin potius illa necessitas est per se ex natura
+            <lb ed="#P" n="101"/>hominis et fragilitate, periculum autem 
+            per<lb break="no" ed="#P" n="102"/>dendi vitam propriam est per accidens ex 
+            ma<lb break="no" ed="#P" n="103"/>Ilitia tyranni. Secundo potest esse necessitas
+            <lb ed="#P" n="104"/>haec in adulto, ut si sciam existentem in 
+            pec<lb break="no" ed="#P" n="105"/>cato tali fore interficiendum, ipso dormiente
+            <lb ed="#P" n="106"/>vel nihil cogitante; tunc enim cum periculo
+            <lb ed="#P" n="107"/>vitae corporalis illi subvenire teneor. Tertio,
+            <pb ed="#P" n="711"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>idem censeo, si aliquis sit in periculo aeternae
+            <lb ed="#P" n="2"/>mortis, quod moraliter, si a me non juvetur,
+            <lb ed="#P" n="3"/>difficillime vitare potest, licet alias simplieiter
+            <lb ed="#P" n="4"/>possit ratione libertatis, et gratiae quam Deus
+            <lb ed="#P" n="5"/>non denegat. Ratio est, quia in re gravissima,
+            <lb ed="#P" n="6"/>pro materiae qualitate, haec est extrema 
+            neces<lb break="no" ed="#P" n="7"/>sitas; ut si videam hominem, qui diu vixit in
+            <lb ed="#P" n="8"/>consuetudine peccandi, mori sine sacramento
+            <lb ed="#P" n="9"/>confessionis, debeo, si possum, illum audire,
+            <lb ed="#P" n="10"/>quamvis simpliciter possit pcer contrionem
+            <lb ed="#P" n="11"/>salvari; et similes alii casus ejusmodi 
+            neces<lb break="no" ed="#P" n="12"/>sitatis spiritualis adduci possunt. (Recensentur
+            <lb ed="#P" n="13"/>nonnulli a Valent., t. 3. disp. 4, punct. 3, post
+            <lb ed="#P" n="14"/>D assert., ver. Sed illustrabitur.)
+          </p>
+          <p xml:id="szthvi-b75235-d1e1222">
+            <lb ed="#P" n="15"/>4. Tertia conclusio. — Prima ewcepto 
+            con<lb break="no" ed="#P" n="16"/>clusionis .— Secunda exceptio, de qua vide 
+            auc<lb break="no" ed="#P" n="17"/>torem in tom. de Ponit., disput. 32, sect. 4, et
+            <lb ed="#P" n="18"/>latius disp. 44, sect. 3. — Dico tertio: extra
+            <lb ed="#P" n="19"/>casum extremae necessitatis, non obligat 
+            cha<lb break="no" ed="#P" n="20"/>ritas per se ad subveniendum privato proximo
+            <lb ed="#P" n="21"/>cum periculo morali mortis corporis. Est 
+            com<lb break="no" ed="#P" n="22"/>munis cum D. Thoma, pro prima conclusione
+            <lb ed="#P" n="23"/>citato, in responsione ad 3; Navarr., cap. 24
+            <lb ed="#P" n="24"/>num. 12, et aliorum. hatio est, quia exira 
+            ca<lb break="no" ed="#P" n="25"/>sum periculi extremae necessitatis spiritualis
+            <lb ed="#P" n="26"/>non est maxima necessitas; ergo neque 
+            obli<lb break="no" ed="#P" n="27"/>gamur ad perdendum summum corporale 
+            bo<lb break="no" ed="#P" n="28"/>num, ut illi subveniamus. Et eadem ratione
+            <lb ed="#P" n="29"/>non teneor subvenire cum periculo mortis, ei
+            <lb ed="#P" n="30"/>qui sua sponte se exponit periculo 
+            damnatio<lb break="no" ed="#P" n="31"/>nis; ut si aliquis peccanco mortaliter velit me
+            <lb ed="#P" n="32"/>occidere, possum me defendere, etiam alterum
+            <lb ed="#P" n="33"/>interficiendo, licet sciam fore damnandum,
+            <lb ed="#P" n="34"/>quia ille ipse non est in necessitate, sed in 
+            vo<lb break="no" ed="#P" n="35"/>luntaria malitia. Similiter si periculum 
+            proxi<lb break="no" ed="#P" n="36"/>mi tantum esset peccandi mortaliter, 
+            habitu<lb break="no" ed="#P" n="37"/>rus tamen esset postea tempus poenitentiae,
+            <lb ed="#P" n="38"/>non obligor cum periculo vitae subvenire, ut
+            <lb ed="#P" n="39"/>vitet illud peccatum; quia absolute est 
+            volun<lb break="no" ed="#P" n="40"/>tarium, et est damnum reparabile. Item etiam
+            <lb ed="#P" n="41"/>spes proficiendi non semper est certa, quae 
+            ta<lb break="no" ed="#P" n="42"/>men in hac materia maxime attendenda est,
+            <lb ed="#P" n="43"/>ut quis obligetur ad se exponendum tali 
+            peri<lb break="no" ed="#P" n="44"/>culo. Egt in conclusione de privata personae
+            <lb ed="#P" n="45"/>necessitate, quia si loquamur de bono 
+            commu<lb break="no" ed="#P" n="46"/>ni, probabile est sufficere gravem necessitatem
+            <lb ed="#P" n="47"/>spiritualem et communem, ut homo teneatur
+            <lb ed="#P" n="48"/>illi subvenire, etiam cum periculo vitae,
+            <lb ed="#P" n="49"/>quamvis alii etiam oppositum judicent. Ratio
+            <lb ed="#P" n="50"/>est, quia moraliter non est necessitas talis in
+            <lb ed="#P" n="51"/>communitate, quin respectu personarum 
+            pri<lb break="no" ed="#P" n="52"/>vatarum sit extrema, ita ut revera in illis 
+            ha<lb break="no" ed="#P" n="53"/>beat effectum. Item, quia in tali necessitate
+            <lb ed="#P" n="54"/>fere est semper in gravi periculo religio 
+            chris<lb break="no" ed="#P" n="55"/>tiana et honor ejus; ut si sciam haeresim proae-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>dicandam esse in hoc populo ab haereticis, 
+            te<lb break="no" ed="#P" n="57"/>neor illis me opponere, etiam cum periculo,
+            <lb ed="#P" n="58"/>et sic de aliis. Dixi etiam per se, seu vi solius
+            <lb ed="#P" n="59"/>charitatis, nam si interveniat obligatio 
+            justi<lb break="no" ed="#P" n="60"/>tie, et ex officio, ut in episcopo et parocho,
+            <lb ed="#P" n="61"/>non solum in extrema, sed etiam in gravi 
+            obli<lb break="no" ed="#P" n="62"/>gabit, ut D. Thomas citato artic. 5, docet, et
+            <lb ed="#P" n="63"/>infra in eadem 2. 2, quaest. 185, artic. 5, et
+            <lb ed="#P" n="64"/>tradunt ahli scholastici communiter , atque
+            <lb ed="#P" n="65"/>etiam Patres non raro. Batio est, quia ratione
+            <lb ed="#P" n="66"/>officil et stipendii ad hoc obligatur, et 
+            inter<lb break="no" ed="#P" n="67"/>venit quasi pactum inter oves et pastores, ut
+            <lb ed="#P" n="68"/>illae alant pastorem, hic vero subveniat illis,
+            <lb ed="#P" n="69"/>quando maxime indigent; sicut etiam dux
+            <lb ed="#P" n="70"/>maxime tenetur adesse exercitui in periculo
+            <lb ed="#P" n="71"/>et conflictu, et magistratus saecularis tenetur
+            <lb ed="#P" n="72"/>defendere civem innocentem in gravi 
+            necessi<lb break="no" ed="#P" n="73"/>tate, cum suo periculo, ratione oflicii.
+          </p>
+          <p xml:id="szthvi-b75235-d1e1355">
+            <lb ed="#P" n="74"/>5. Quarta assertio bimembris.—bico 
+            quar<lb break="no" ed="#P" n="75"/>to: In gravi necessitate proximi , obligat
+            <lb ed="#P" n="76"/>charitas, etiam postposita aliqua necessitate
+            <lb ed="#P" n="77"/>corporali propria, seu cum aliquo damno 
+            tem<lb break="no" ed="#P" n="78"/>porali proprio. Extra casum vero talis 
+            neces<lb break="no" ed="#P" n="79"/>sitatis , non est gravis obligatio. Utrumque
+            <lb ed="#P" n="80"/>patet, quia gravis necessitas in rebus 
+            spiritua<lb break="no" ed="#P" n="81"/>libus est gravis momenti ; ergo secunium
+            <lb ed="#P" n="82"/>ordinem charitatis praeferenda est in proximo
+            <lb ed="#P" n="83"/>alicui gravi damno temporali proprio. 
+            Opor<lb break="no" ed="#P" n="84"/>tet autem ad talem obligationem comparare
+            <lb ed="#P" n="85"/>gravitatem necessitatis spiritualis, cum 
+            gra<lb break="no" ed="#P" n="86"/>vitate damni temporalis, quod certe non 
+            po<lb break="no" ed="#P" n="87"/>test definiri in universali, sed in particulari
+            <lb ed="#P" n="88"/>prndenter judicandum est, servata rerum
+            <lb ed="#P" n="89"/>proportione. Secunda pars probatur ex ilio
+            <lb ed="#P" n="90"/>principio , quia praecepta affirmativa solum
+            <lb ed="#P" n="91"/>obligant in articulo necessitatis. Esset autem
+            <lb ed="#P" n="92"/>laudabile interdum id facere, quia bonum
+            <lb ed="#P" n="93"/>spirituale proximi de se est majus quam 
+            tem<lb break="no" ed="#P" n="94"/>porale proprium ; unde illud praeferre erit
+            <lb ed="#P" n="95"/>consentaneum charitati ; non tamen semper
+            <lb ed="#P" n="96"/>quicquid est consentaneum charitati, est in
+            <lb ed="#P" n="97"/>pracepto. Addo etiam hoc intelligi ex vi 
+            so<lb break="no" ed="#P" n="98"/>lius charitatis, nam si accedat obhgatio 
+            jus<lb break="no" ed="#P" n="99"/>titiae , quae potest intercedere, etiam quando
+            <lb ed="#P" n="100"/>non est necessitas subditorum, est tamen 
+            ma<lb break="no" ed="#P" n="101"/>gna utilitas ; nam ad hanc procurandam 
+            obli<lb break="no" ed="#P" n="102"/>gat officium, etiam cum aliquo detrimento
+            <lb ed="#P" n="103"/>corporali , quamvis non vitae, sed inferioris
+            <lb ed="#P" n="104"/>ordinis, quod totum in particulari per 
+            pru<lb break="no" ed="#P" n="105"/>dentiam ponderandum est.
+          </p>
+        </div>
+        <div xml:id="szthvi-b75235-Dd1e1428">
+          <head xml:id="szthvi-b75235-Hd1e1430">Sectio 3</head>
+          <head xml:id="szthvi-b75235-Hd1e1432" type="question-title">Utrum in temporalibus teneatur homo sibi potius quam proximo subvenire</head>
+          <p xml:id="szthvi-b75235-d1e1435">
+            <pb ed="#P" n="712"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>SECTIO III.
+            <lb ed="#P" n="2"/>Utrum in temporalibus teneatur homo sibi 
+            po<lb break="no" ed="#P" n="3"/>tius quam proximo subvenire.
+          </p>
+          <p xml:id="szthvi-b75235-d1e1448">
+            <lb ed="#P" n="4"/>1. Prima conclusio communis cum D. Thoma
+            <lb ed="#P" n="5"/>probatur multipliciter.—Questiuncula 
+            resolvi<lb break="no" ed="#P" n="6"/>iur —bico primo: communi bono tenetur 
+            ho<lb break="no" ed="#P" n="7"/>mo in temporalibus potius quam sibi 
+            subve<lb break="no" ed="#P" n="8"/>nire. Est communis cum D. Thoma 2. 2, q. 26,
+            <lb ed="#P" n="9"/>a. 4. Ratio est, quia commune bonum 
+            praefe<lb break="no" ed="#P" n="10"/>rendum est privato, cum sit universalius. Item
+            <lb ed="#P" n="11"/>homo quivis privatus est pars boni communis;
+            <lb ed="#P" n="12"/>pars autem debet praeferre bonum totius
+            <lb ed="#P" n="13"/>proprio bono; tandem tenetur civis vitam
+            <lb ed="#P" n="14"/>exponere evidenti periculo, ut defendat 
+            civi<lb break="no" ed="#P" n="15"/>tatem, vel principem, vel aliam similem 
+            per<lb break="no" ed="#P" n="16"/>sonam, quando ab illa censetur pendere 
+            com<lb break="no" ed="#P" n="17"/>mune bonum:: quare, etc. Quaeres an ratione
+            <lb ed="#P" n="18"/>hujus ordinis teneatur homo, propter gravem
+            <lb ed="#P" n="19"/>necessitatem reipublicae, constituere se in 
+            ex<lb break="no" ed="#P" n="20"/>tremo periculo, an solum propter extremam.
+            <lb ed="#P" n="21"/>Respondetur vix posse in communi bono 
+            gra<lb break="no" ed="#P" n="22"/>vem necessitatem distingui ab extrema, 
+            sal<lb break="no" ed="#P" n="23"/>tem multorum ; tamen si revera sit praecise
+            <lb ed="#P" n="24"/>gravis, et non extrema, non credo obligari
+            <lb ed="#P" n="25"/>sub praecepto, quamvis sit opus consilii: et
+            <lb ed="#P" n="26"/>ita intelligo Richardum in 4, distinct. 
+            deci<lb break="no" ed="#P" n="27"/>ma quinta, art. 2, quaest. 5; et Sylvest., verbo
+            <lb ed="#P" n="28"/>Hleemosyna, numero secundo, ubi videntur
+            <lb ed="#P" n="29"/>contradicere conclusioni positae, cum dicant
+            <lb ed="#P" n="30"/>exponere vitam pro bono communi non esse
+            <lb ed="#P" n="31"/>praeceptum , sed consilium , quod non est
+            <lb ed="#P" n="32"/>probabile, nisi extra casum extremae 
+            necessi<lb break="no" ed="#P" n="33"/>tatis. Ratio est , quia non est aequalis 
+            necessi<lb break="no" ed="#P" n="34"/>tas, et alias jus ad tuendam vitam propriam
+            <lb ed="#P" n="35"/>est maxime connaturale.
+          </p>
+          <p xml:id="szthvi-b75235-d1e1520">
+            <lb ed="#P" n="36"/>2. Secunda conclusio ostenditur. — Dico 
+            se<lb break="no" ed="#P" n="37"/>cindo : in quacumque porporali necessitate
+            <lb ed="#P" n="38"/>potest homo licite sibi potius subvenire quam
+            <lb ed="#P" n="39"/>alteri privato. Haec conclusio clara est ex illo:
+            <lb ed="#P" n="40"/>Diliges proaimum tuwm sicut teipsum ; non
+            <lb ed="#P" n="41"/>ergo tenetur diligere plus quam se 
+            proxi<lb break="no" ed="#P" n="42"/>mum. Solum notandum est hoc procedere in
+            <lb ed="#P" n="43"/>eodem genere bonorum , et necessitatum ;
+            <lb ed="#P" n="44"/>secus vero est si varientur, uti si proximus
+            <lb ed="#P" n="45"/>sit in necessitate vitae, ego vero in minori 
+            ne<lb break="no" ed="#P" n="46"/>cessitate. Si vero comparentur necessitates
+            <lb ed="#P" n="47"/>inaequales, vel bona inaequalia, servandae sunt
+            <lb ed="#P" n="48"/>regulae supra datae in materia de 
+            Eleemosy<lb break="no" ed="#P" n="49"/>na, disput. 7, sect. 3 et 4.
+          </p>
+          <p xml:id="szthvi-b75235-d1e1554">
+            <lb ed="#P" n="50"/>3. Conclusio tertia. — Dico tertio : non 
+            te<lb break="no" ed="#P" n="51"/>netur homo in necessitate etiam extrema vitae,
+            <lb ed="#P" n="52"/>sibi semper potius subvenire quam proximo
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>alicui, verbi gratia, amico. Sententia est 
+            com<lb break="no" ed="#P" n="54"/>munis, Soti, lib. 5 de Just., quaest. 1; Victor.,
+            <lb ed="#P" n="55"/>Relect. de Homicid., a num. 24, et aliornm,
+            <lb ed="#P" n="56"/>cum divo Thom. 2. 2, quaest. 26, art. 4 ad2;
+            <lb ed="#P" n="57"/>et apud Magist., 3, distinct. 29. Item Cordub.,
+            <lb ed="#P" n="58"/>l. 1, quaest. 38, ad 4. Confirmatur autem tum
+            <lb ed="#P" n="59"/>ex veteribus philosophis, qui non raro ita 
+            do<lb break="no" ed="#P" n="60"/>cent; ut videre est apud Ciceronem in Laelio;
+            <lb ed="#P" n="61"/>et in Partitionibus, apud Valerium Maximum,
+            <lb ed="#P" n="62"/>lib. 4, cap. 7, ubi plura congerit exempla 
+            eo<lb break="no" ed="#P" n="63"/>rum, qui vitam pro amicorum incolumitate,
+            <lb ed="#P" n="64"/>ponere non dubitarunt ; tum etiam ex 
+            Patri<lb break="no" ed="#P" n="65"/>bus, Ambrosio , tertio Officiorum, cap. 22;
+            <lb ed="#P" n="66"/>Lactantio, lib. 3, c. 18; Augustino, 4 Confes.,
+            <lb ed="#P" n="67"/>cap. 6, et in lib. de Amicitia, capit. 2; et 
+            Hie<lb break="no" ed="#P" n="68"/>ronymo in capit. 7 Michaeae. Ratio est, quia
+            <lb ed="#P" n="69"/>licet homo nunquam possit se occidere, non
+            <lb ed="#P" n="70"/>tamen semper, et omni medio, et ratione 
+            te<lb break="no" ed="#P" n="71"/>netur servare vitam, etiam postponendo 
+            vi<lb break="no" ed="#P" n="72"/>tam proximi, praecipue amici, vel patris, etc.
+            <lb ed="#P" n="73"/>Quod de patre vix negabit quisquam ; sed fere
+            <lb ed="#P" n="74"/>eadem est ratio de amico fideli, cui nulla est
+            <lb ed="#P" n="75"/>comparatio, et quem possum honeste aestima -
+            <lb ed="#P" n="76"/>re sicut meipsum. Unde Proverb. 12: Qui 
+            ne<lb break="no" ed="#P" n="77"/>gligit dammum propter amicum, justus est ; et
+            <lb ed="#P" n="78"/>sequenti conclusione magis id consiabit. Hinc
+            <lb ed="#P" n="79"/>vero.
+          </p>
+          <p xml:id="szthvi-b75235-d1e1624">
+            <lb ed="#P" n="80"/>4. Quarta conclusio. — In quibus terminis
+            <lb ed="#P" n="81"/>sit indubitata. — Dico quarto : potest quis 
+            si<lb break="no" ed="#P" n="82"/>ne peccato mortali in necessitate etiam 
+            ex<lb break="no" ed="#P" n="83"/>trema sc postponere, ut simili necessitati 
+            cu<lb break="no" ed="#P" n="84"/>jusvis alterius proximi etiam extranci 
+            subve<lb break="no" ed="#P" n="85"/>niat. Advertendum pro conclusione est, nos
+            <lb ed="#P" n="86"/>loqui considerata propria sola ratione 
+            chari<lb break="no" ed="#P" n="87"/>tatis ; nam secus est si intercedat obligatio 
+            al<lb break="no" ed="#P" n="88"/>terius virtutis, ut justitiae, vel pietatis, ut si
+            <lb ed="#P" n="89"/>st paterfamilias, qui ex officio tenetur 
+            pro<lb break="no" ed="#P" n="90"/>videre, et se conservare pro filiis et familia ;
+            <lb ed="#P" n="91"/>tenetur enim potius vitam suam conservare,
+            <lb ed="#P" n="92"/>quam hominis privati, quia non potest 
+            cede<lb break="no" ed="#P" n="93"/>re juri suo. Praeterea stando in obligatione
+            <lb ed="#P" n="94"/>charitatis, conclusio indubitata est, quando
+            <lb ed="#P" n="95"/>periculum et necessitas est bonorum fortunae,
+            <lb ed="#P" n="96"/>quorum homo est dominus, quia hac bona
+            <lb ed="#P" n="97"/>potest quis contemnere propter bonum finem,
+            <lb ed="#P" n="98"/>praecipue si non sequatur detrimentum in 
+            bo<lb break="no" ed="#P" n="99"/>nis altioris ordinis.
+          </p>
+          <p xml:id="szthvi-b75235-d1e1670">
+            <lb ed="#P" n="100"/>5. In difficilioribus terminis etiam 
+            proba<lb break="no" ed="#P" n="101"/>tur. —Difficultas ergo est praecipue in vita
+            <lb ed="#P" n="102"/>conservanda, cujus bomo non est dominus, et
+            <lb ed="#P" n="103"/>de hoc probatur conclusio; quia potest homo
+            <lb ed="#P" n="104"/>se exponere periculo moraliter probabili 
+            cor<lb break="no" ed="#P" n="105"/>poralis mortis, ut subveniat proximo; ergo
+            <lb ed="#P" n="106"/>licitum erit illam velle, cum in moralibus pro
+            <lb ed="#P" n="107"/>eodem reputentur periculum et res ipsa. Se-
+            <pb ed="#P" n="713"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>cundo, possum licite perdere membrum 
+            cor<lb break="no" ed="#P" n="2"/>poris, ne proximus occidatur; ergo et vitam.
+            <lb ed="#P" n="3"/>Patet consequentia, quia sicut non sum 
+            do<lb break="no" ed="#P" n="4"/>minus vitae, ita neque membrorum corporis,
+            <lb ed="#P" n="5"/>et quia mutilatio in membro principali quasi
+            <lb ed="#P" n="6"/>aequiparatur morti; unde non tenetur homo
+            <lb ed="#P" n="7"/>illam pati ut vitam servet. Tertio, ut 
+            praece<lb break="no" ed="#P" n="8"/>denti conclusione ostendimus, non teneor
+            <lb ed="#P" n="9"/>semper et ubique conscrvare vitam, sed 
+            pro<lb break="no" ed="#P" n="10"/>pter bonum finem possum eam amittere ; 
+            at<lb break="no" ed="#P" n="11"/>qui servare vitam proximi, etiam aequalis 
+            ex<lb break="no" ed="#P" n="12"/>tranei, est honestus finis, et ibi intercedit 
+            ho<lb break="no" ed="#P" n="13"/>nestas fortitudinis et charitatis; ergo, etc.
+            <lb ed="#P" n="14"/>Unde confirmatur, nam charitas est amicitia
+            <lb ed="#P" n="15"/>ad omnes homines perfectior, quam sit omnis
+            <lb ed="#P" n="16"/>amicitia humana ; sed in latitudine amicitiae
+            <lb ed="#P" n="17"/>humanae licet pati mortem ne amicus 
+            patia<lb break="no" ed="#P" n="18"/>tur, ut superiori conclusione diximus; ergo
+            <lb ed="#P" n="19"/>etiam propter conjunctionem charitatis. 
+            Tan<lb break="no" ed="#P" n="20"/>dem vel in conservatione vitae attenditur 
+            bo<lb break="no" ed="#P" n="21"/>num proprium, et tali bono, ut sic, potest
+            <lb ed="#P" n="22"/>unusquisque cedere ; vel ponum reipublicae,
+            <lb ed="#P" n="23"/>vel Dei, cujus est vita, et in hoc etiam vita
+            <lb ed="#P" n="24"/>proximi est aequale bonum; ergo in casu quem
+            <lb ed="#P" n="25"/>tractamus, non pervertitur ordo charitatis.
+            <lb ed="#P" n="26"/>Hinc infert Victoria non teneri aliquem 
+            occi<lb break="no" ed="#P" n="27"/>dere alium ut se defendat , sed posse 
+            permit<lb break="no" ed="#P" n="28"/>tere ut se occidat, quod alii etiam Theologi
+            <lb ed="#P" n="29"/>probarunt. (In his est Molina tract. 3de Just.,
+            <lb ed="#P" n="30"/>disp. 14, concl. 3).
+          </p>
+          <p xml:id="szthvi-b75235-d1e1759">
+            <lb ed="#P" n="31"/>6. Conclusionem non admittunt Durandus
+            <lb ed="#P" n="32"/>et Paludanus. — Horum fundamentum. —
+            <lb ed="#P" n="33"/>Confirmatur secundo. — Ad praeedictum 
+            fun<lb break="no" ed="#P" n="34"/>damentum inepta responsio. —Contra 
+            conclu<lb break="no" ed="#P" n="35"/>sionem hanc tenet Durandus in 4, distinet.
+            <lb ed="#P" n="36"/>17, q. 6; et Paludanus, q. 1, art. 6, et melius
+            <lb ed="#P" n="37"/>distinct. 15, q. 3, n. 13, ubi divus Thomas,
+            <lb ed="#P" n="38"/>quaest. 2, art. 1, dicit esse contra ordinem
+            <lb ed="#P" n="39"/>charitatis dare alteri extreme indigenti , id
+            <lb ed="#P" n="40"/>quo ego etiam extreme indigeo; idem 
+            indi<lb break="no" ed="#P" n="41"/>cat 2. 2, quaest. 32, art. 6 cet 9, quaest. 64,
+            <lb ed="#P" n="42"/>art. 7, atque nonnulli ex recentioribus !; 
+            tra<lb break="no" ed="#P" n="43"/>dideratque Augustinus, in libro de Mendacio,
+            <lb ed="#P" n="44"/>c. 6 Ratio est, quia ex ordine charitatis, 
+            cae<lb break="no" ed="#P" n="45"/>teris paribus, magis inclinatur homo ad sui
+            <lb ed="#P" n="46"/>dilectionem quam alterius, et quia est sibi
+            <lb ed="#P" n="47"/>magis conjunctus, et quia inclinatio et lex
+            <lb ed="#P" n="48"/>charitatis est consentanea naturae recte 
+            insti<lb break="no" ed="#P" n="49"/>tuiae; secundum rectam autem rationem ,
+            <lb ed="#P" n="50"/>amicabilia ad alterum oriuntur ex 
+            amicabili<lb break="no" ed="#P" n="51"/>Dus ad se, ut scripsit Aristoteles, 9 Ethic.,
+            <lb ed="#P" n="52"/>cap. 4, initio. Confirmatur primo, quia magis
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>est unicuique demandata cura tuendae vitae
+            <lb ed="#P" n="54"/>propria quam aliena. Secundo, quia tunc
+            <lb ed="#P" n="55"/>moraliter aliquis se occideret, quia se privaret
+            <lb ed="#P" n="56"/>medio necessario ad vitam conservandam. Ad
+            <lb ed="#P" n="57"/>rationem hanc pro Durando et Paludano 
+            al<lb break="no" ed="#P" n="58"/>latam, quidam respondent, in illo casu non
+            <lb ed="#P" n="59"/>tantum praeferre aliquem vitam alterius vitae
+            <lb ed="#P" n="60"/>propria, sed simul etiam exercere officium
+            <lb ed="#P" n="61"/>virtutis: nam exercet actum misericordiae et
+            <lb ed="#P" n="62"/>fortitudinis ; sed haec solutio petit principium,
+            <lb ed="#P" n="63"/>nam de hoc est quaestio, an sit illud officium
+            <lb ed="#P" n="64"/>virtutis. Item quia sibi etiam subvenire est
+            <lb ed="#P" n="65"/>officium charitatis.
+          </p>
+          <p xml:id="szthvi-b75235-d1e1840">
+            <lb ed="#P" n="66"/>7. Vera responsio. — Ad primam 
+            confirma<lb break="no" ed="#P" n="67"/>tionem. — Ad secundam confirmationem. —
+            <lb ed="#P" n="68"/>Dicendum est ergo, caeteris paribus, non esse
+            <lb ed="#P" n="69"/>dubium quin secundum ordinem charitatis
+            <lb ed="#P" n="70"/>sit melius subvenire sibi, quam aliis. Unde
+            <lb ed="#P" n="71"/>si hac aequalitate existente, sine alia ratione,
+            <lb ed="#P" n="72"/>quis permitteret suam extremam necessitatem
+            <lb ed="#P" n="73"/>propter alienam, fortasse minus bene faceret,
+            <lb ed="#P" n="74"/>et forsan peccaret, non tamen, ut credo,
+            <lb ed="#P" n="75"/>mortaliter, quia ordo charitatis, quando non
+            <lb ed="#P" n="76"/>est magnus excessus, potest praetermitti sine
+            <lb ed="#P" n="77"/>mortali, et censetur res levis, et solum hoc
+            <lb ed="#P" n="78"/>sibi voluit Augustinus illo c. 6; et divus 
+            Tho<lb break="no" ed="#P" n="79"/>mas, in locis citatis. Si tamen non est 
+            aequa<lb break="no" ed="#P" n="80"/>litas, et est aliqua ratio honesta ad 
+            praeferen<lb break="no" ed="#P" n="81"/>dam vitam proximi, ut major aliqua utihtas,
+            <lb ed="#P" n="82"/>vel certe ratio gratitudinis, ac intimae 
+            amici<lb break="no" ed="#P" n="83"/>tiae, nullum erit peccatum, et interdum 
+            for<lb break="no" ed="#P" n="84"/>tasse erit opus virtutis excellentioris. Unde ad
+            <lb ed="#P" n="85"/>primam confirmationem , respondeo 
+            praece<lb break="no" ed="#P" n="86"/>ptum charitatis obligare etiam ad 
+            conservan<lb break="no" ed="#P" n="87"/>dam vitam propriam, et proximi; ad 
+            compa<lb break="no" ed="#P" n="88"/>rationem autem illam non obligat sub 
+            mor<lb break="no" ed="#P" n="89"/>tali; et cum sit affirmativum, etiam non pro
+            <lb ed="#P" n="90"/>semper obligat. Ad secundam negatur 
+            seque<lb break="no" ed="#P" n="91"/>la, quia non satis est posse conservare vitam,
+            <lb ed="#P" n="92"/>sed oportet etiam teneri, ut censeatur se 
+            occi<lb break="no" ed="#P" n="93"/>dere, qui medium necessarium omittit. Ubi
+            <lb ed="#P" n="94"/>advertendum est cavendum esse, ne 
+            interce<lb break="no" ed="#P" n="95"/>dat positiva actio, qua aliquis cooperetur 
+            di<lb break="no" ed="#P" n="96"/>recte suae morti, ut revera censeretur 
+            morali<lb break="no" ed="#P" n="97"/>ter cooperari, illamque velle, qui absque 
+            ma<lb break="no" ed="#P" n="98"/>jori bono, sed tantum ad tuendam vitam
+            <lb ed="#P" n="99"/>eequalis vel inferioris personae, extra 
+            pericu<lb break="no" ed="#P" n="100"/>lum vitae positus, certissimae morti se dederet.
+            <lb ed="#P" n="101"/>Exemplum vulgare est de duobus naufragis,
+            <lb ed="#P" n="102"/>quorum alter posset tabulam accipere, in qua
+            <lb ed="#P" n="103"/>vitam tueretur; licite enim alteri tabulam 
+            re<lb break="no" ed="#P" n="104"/>linqueret. Non ita vero si jam ipse tabulae 
+            in<lb break="no" ed="#P" n="105"/>sedisset, quia eo pacto non solum sibi non
+            <lb ed="#P" n="106"/>prospiceret, sed directe se projiceret in mare,
+            <lb ed="#P" n="107"/>ac adeo positive cooperaretur suae neci; quod
+            <pb ed="#P" n="714"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>non satis animadvertunt aliqui nostrae 
+            con<lb break="no" ed="#P" n="2"/>clusioni adhaerentes , dum in allato 
+            exem<lb break="no" ed="#P" n="3"/>plo utrumque casum aequiparant, cum longe
+            <lb ed="#P" n="4"/>aliud sit utrumque pariter periclitari, aut 
+            al<lb break="no" ed="#P" n="5"/>terum tantum, alrero jam beneficio tabulae in
+            <lb ed="#P" n="6"/>tuto sufficienter posito. Unde exemplum aliud
+            <lb ed="#P" n="7"/>etiam vulgare de pane inter duos extreme illo
+            <lb ed="#P" n="8"/>indigentes, priori tantum casui de naufragis,
+            <lb ed="#P" n="9"/>non posteriori aequiparatur, ut consideranti
+            <lb ed="#P" n="10"/>patebit, cum in tali casu neuter eorum sit 
+            ad<lb break="no" ed="#P" n="11"/>huc extra periculum, sed ambo, ut 
+            supponi<lb break="no" ed="#P" n="12"/>tur, exireme famescunt.
+          </p>
+        </div>
+        <div xml:id="szthvi-b75235-Dd1e1965">
+          <head xml:id="szthvi-b75235-Hd1e1967">Sectio 4</head>
+          <head xml:id="szthvi-b75235-Hd1e1969" type="question-title">Quomodo inter proximos sit servandus ordo charitatis</head>
+          <p xml:id="szthvi-b75235-d1e1972">
+            <lb ed="#P" n="13"/>SECTIO IV.
+            <lb ed="#P" n="14"/>Quomodo inter proximos sit servandus ordo
+            <lb ed="#P" n="15"/>charitatis.
+          </p>
+          <p xml:id="szthvi-b75235-d1e1981">
+            <lb ed="#P" n="16"/>1. Quatuor suppositiones. — Differunt de
+            <lb ed="#P" n="17"/>hoc puncto D. Thomas 2. 2, q. 26, et Theologi
+            <lb ed="#P" n="18"/>alii in 3, distinctione 29. Pro quo suppono
+            <lb ed="#P" n="19"/>primum, comparationem fieri inter privatas
+            <lb ed="#P" n="20"/>personas, nam de bono communi jam diximus
+            <lb ed="#P" n="21"/>esse praeferendum proprio, et consequenter
+            <lb ed="#P" n="22"/>etiam bono cujusvis proximi privati. 
+            Secun<lb break="no" ed="#P" n="23"/>do, suppono duas esse in proximis 
+            conside<lb break="no" ed="#P" n="24"/>randas conditiones, quae ad hune ordinem
+            <lb ed="#P" n="25"/>spectant, scilicet, sanctitas et conjunctio,
+            <lb ed="#P" n="26"/>nam charitas primario inclinat ad sanctiores,
+            <lb ed="#P" n="27"/>ut Deo conjunctos, ratione secundi inclinat
+            <lb ed="#P" n="28"/>ad conjunctos ; sibi diligenti. Suppono tertio
+            <lb ed="#P" n="29"/>hanc conjunctionem cum diligente esse 
+            va<lb break="no" ed="#P" n="30"/>riam. Alia est conjunctio naturalis, sub qua
+            <lb ed="#P" n="31"/>comprehendo omnem illam quae est 
+            consan<lb break="no" ed="#P" n="32"/>guinitatis, et al illam reducitur. Alia est 
+            hu<lb break="no" ed="#P" n="33"/>mana, sub qua includo omnem eam quae 
+            fun<lb break="no" ed="#P" n="34"/>datur in humana aliqua societate, vel 
+            amici<lb break="no" ed="#P" n="35"/>tia, aut patria. Tertia est spiritualis, in qua
+            <lb ed="#P" n="36"/>distingui solent praecipue duo gradus. Primus
+            <lb ed="#P" n="37"/>est inter patrem et filium spiritualem : 
+            dici<lb break="no" ed="#P" n="38"/>tur autem spiritualis pater, vel qui alium in
+            <lb ed="#P" n="39"/>Christo genuit per baptismum, vel 
+            praedica<lb break="no" ed="#P" n="40"/>tionem ; aut qui ex officio est pastor animae.
+            <lb ed="#P" n="41"/>Alius gradus est inter fratres, qui intercedit
+            <lb ed="#P" n="42"/>inter homines fideles rationes fidei, et 
+            specia<lb break="no" ed="#P" n="43"/>lius inter eos qui eodem religionis vinculo
+            <lb ed="#P" n="44"/>sunt conjuncti. Quarto, suppono accidere 
+            ali<lb break="no" ed="#P" n="45"/>quando duos proximos sese mutuo excedere
+            <lb ed="#P" n="46"/>in his conjunctionibus, velin genere, vel in
+            <lb ed="#P" n="47"/>gradu. Item interdum in uno sunt multae 
+            ra<lb break="no" ed="#P" n="48"/>tiones diligendi, in alio una aequivalens ; 
+            in<lb break="no" ed="#P" n="49"/>terdum etiam conjunctio est major, sed 
+            ne<lb break="no" ed="#P" n="50"/>cessitas minor. Quo fit ut ad intelligendam
+            <lb ed="#P" n="51"/>obligationem ordinis, non una aut altera 
+            tan<lb break="no" ed="#P" n="52"/>tum conditio, sed omnes, quae occurrunt, sint
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>pensandae, et ideo vix potest generalis regula
+            <lb ed="#P" n="54"/>tradi, quae in individuo sit semper servanda ;
+            <lb ed="#P" n="55"/>quas ergo trademus, intelligendae sunt ex suo
+            <lb ed="#P" n="56"/>genere et caeteris paribus.
+          </p>
+          <p xml:id="szthvi-b75235-d1e2075">
+            <lb ed="#P" n="57"/>2. Prima conclusio communis, ejusque ratio.
+            <lb ed="#P" n="58"/>— Dico primo praeceptum charitatis et 
+            mise<lb break="no" ed="#P" n="59"/>ricordiae obligare ad servandum ordinem in
+            <lb ed="#P" n="60"/>dilectione, seu in subventione proximorum.
+            <lb ed="#P" n="61"/>Est communis cum D. Thom. 2. 2, quaest. 44,
+            <lb ed="#P" n="62"/>art. 8; et apud Magist., 3, dist. 27 et 29, 
+            eam<lb break="no" ed="#P" n="63"/>que docent Patres, dum illud Cantic. 2: 
+            Oz<lb break="no" ed="#P" n="64"/>dinavit in me charitatem, communiter 
+            expo<lb break="no" ed="#P" n="65"/>nunt de hoc charitatis ordine, aiuntque non
+            <lb ed="#P" n="66"/>solum esse convenientem, sed etiam debitum.
+            <lb ed="#P" n="67"/>Videri possunt Augustinus, 15 de Civitat.,
+            <lb ed="#P" n="68"/>c. 22; Origenes, homilia 2 ex duabus in Cant.
+            <lb ed="#P" n="69"/>Nissen., hom. 4; Theodoret., Gloss. , et divus
+            <lb ed="#P" n="70"/>Thom. in eumdem locum. hatio est, quia hic
+            <lb ed="#P" n="71"/>o.do est consentaneus inclinationi charitatis;
+            <lb ed="#P" n="72"/>ergo cadit sub praeceptum. Unde intelligitur
+            <lb ed="#P" n="73"/>hanc obligationem genere suo gravem esse,
+            <lb ed="#P" n="74"/>quia nascitur ex gravissimo praecepto, et quia
+            <lb ed="#P" n="75"/>materia semper est gravis, et valde necessaria
+            <lb ed="#P" n="76"/>ad bonam conservationem hominum. Dico 
+            au<lb break="no" ed="#P" n="77"/>tem genere suo, quia interdum potest esse 
+            ve<lb break="no" ed="#P" n="78"/>niale ex levitate materiae; in quo est 
+            notan<lb break="no" ed="#P" n="79"/>dum levitatem materiae non esse pensandam
+            <lb ed="#P" n="80"/>ex detrimento, vel ex quantitate eleemosynae,
+            <lb ed="#P" n="81"/>verbi gratia, quae uni adimitur ut detur 
+            al<lb break="no" ed="#P" n="82"/>teri, sed etiam ex excessu in conjunctione,
+            <lb ed="#P" n="83"/>ratione ordinis; nam si differentia inter duos
+            <lb ed="#P" n="84"/>sit minima trangressio ordinis, erit venialis,
+            <lb ed="#P" n="85"/>quamvis fortasse ea de causa alius proximus
+            <lb ed="#P" n="86"/>grave damnum patiatur, quia licet illud in ae
+            <lb ed="#P" n="87"/>sit grave, non tamen comparatum cum alio,
+            <lb ed="#P" n="88"/>et deinde, quia ratio culpae ibi oritur ex 
+            in<lb break="no" ed="#P" n="89"/>versione ordinis, et illa transgressio ordinis
+            <lb ed="#P" n="90"/>exigua est.
+          </p>
+          <p xml:id="szthvi-b75235-d1e2152">
+            <lb ed="#P" n="91"/>3. Conclusionem quidam olim non 
+            admitte<lb break="no" ed="#P" n="92"/>bant.— Contra camdem opponitur. — Diluitur.
+            <lb ed="#P" n="93"/>— Contra hanc conclusionem tenuerunt 
+            ali<lb break="no" ed="#P" n="94"/>qui ex antiquis, ut in 3 sent., dist. 29, refert
+            <lb ed="#P" n="95"/>Magister, et post illum divus Thomas 2. 2,
+            <lb ed="#P" n="96"/>quaest. 26, in corpori; dicebant enim debere
+            <lb ed="#P" n="97"/>nos omnes proximos in affectu aeque diligere,
+            <lb ed="#P" n="98"/>quamvis in effectu non oporteat omnibus
+            <lb ed="#P" n="99"/>eeqne benefacere, sed neque loquebantur 
+            con<lb break="no" ed="#P" n="100"/>sequenter, neque cum fundamento. Argues
+            <lb ed="#P" n="101"/>tamen , nam si diligam proximum quantum
+            <lb ed="#P" n="102"/>debeam, etiamsi alterum diligam plus quam
+            <lb ed="#P" n="103"/>debeo, nulli eorum facio injuriam, nec alicui
+            <lb ed="#P" n="104"/>alteri; ergo pervertere ordinem non est 
+            ma<lb break="no" ed="#P" n="105"/>Ium. Argumentum est divi Thomae 2. 2,
+            <lb ed="#P" n="106"/>quaestionc 44, artic. 8, in quo multum 
+            labo<lb break="no" ed="#P" n="107"/>rat Cajetanus. Verum hoc argumentum proce-
+            <pb ed="#P" n="715"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>dit de intensivo, aut etiam objectivo amore,
+            <lb ed="#P" n="2"/>non de appretiatione, de qua loquimur, nam
+            <lb ed="#P" n="3"/>implicat me diligere aliquem quantum debeo,
+            <lb ed="#P" n="4"/>et diligere alium appretiative, qui non est ita
+            <lb ed="#P" n="5"/>diligibilis secundum se, atque adeo 
+            pecca<lb break="no" ed="#P" n="6"/>minose, pervertendo scilicet charitatis 
+            ordi<lb break="no" ed="#P" n="7"/>nem. Hoc patet ex effectu in ipsa 
+            misericor<lb break="no" ed="#P" n="8"/>dia, quae non obligat ad hunc ordinem, nisi
+            <lb ed="#P" n="9"/>supposita obligatione subveniendi multis, 
+            si<lb break="no" ed="#P" n="10"/>quidem ordo nonnisi inter multos visitur; et
+            <lb ed="#P" n="11"/>cum non possum omnibus subvenire, sed 
+            al<lb break="no" ed="#P" n="12"/>teri solum, tunc sane non possum diligere,
+            <lb ed="#P" n="13"/>quantum debeo, alterum illorum, qui magis
+            <lb ed="#P" n="14"/>est diligibilis, nisi praeferendo eum alteri; et
+            <lb ed="#P" n="15"/>ita in eo casu argumentum implicat 
+            contra<lb break="no" ed="#P" n="16"/>dictionem in antecedente ; quamvis extra
+            <lb ed="#P" n="17"/>illum casum possit quis majora beneficia 
+            fa<lb break="no" ed="#P" n="18"/>cere ei quem minus tenetur diligere, quia ille
+            <lb ed="#P" n="19"/>excessus non tam pertinet ad appretiationem
+            <lb ed="#P" n="20"/>quam ad objectivum amorem.
+          </p>
+          <p xml:id="szthvi-b75235-d1e2239">
+            <lb ed="#P" n="21"/>4. Secunda conclusio. — Dico secundo : 
+            cae<lb break="no" ed="#P" n="22"/>teris paribus, tenemur praeferre eos qui nobis
+            <lb ed="#P" n="23"/>sunt conjuncti, his qui sunt alieni. Hatio 
+            su<lb break="no" ed="#P" n="24"/>mitur ex priori conclusione. Nam inter hos
+            <lb ed="#P" n="25"/>reperitur ratio ordinis; idem sumitur ex 1
+            <lb ed="#P" n="26"/>Timoth. 5 : Si quis suorum, et mazxime 
+            do<lb break="no" ed="#P" n="27"/>mesticorum curam non habet, est infideli 
+            de<lb break="no" ed="#P" n="28"/>terior ; Augustinus, 1 de Doctrina Christiana,
+            <lb ed="#P" n="29"/>c. 98: His potissimwm consulendum, qui 
+            stric<lb break="no" ed="#P" n="30"/>Ltius Libi junguntur. Sed advertendum est hoc
+            <lb ed="#P" n="31"/>intelligi in eodem genere bonorum, vel 
+            ne<lb break="no" ed="#P" n="32"/>cessitatum, nimirum comparando spirituale
+            <lb ed="#P" n="33"/>ad spirituale; si enim mutetur comparatio,
+            <lb ed="#P" n="34"/>magis teneor subvenire spirituali necessitati
+            <lb ed="#P" n="35"/>gravi exteri hominis, quam corporali gravi
+            <lb ed="#P" n="36"/>alicujus conjuncti, ut patet ex dictis ; ac 
+            simi<lb break="no" ed="#P" n="37"/>liter agendo de utraque extrema.
+          </p>
+          <p xml:id="szthvi-b75235-d1e2278">
+            <lb ed="#P" n="38"/>5. Tertia conclusio per se aperta. — 
+            Pri<lb break="no" ed="#P" n="39"/>mum dubium circa hanc conclusionem. — Pars
+            <lb ed="#P" n="40"/>posterior probatur a quibusdam tripliciter. —
+            <lb ed="#P" n="41"/>D:co tertio : inter conjunctos eodem ordine
+            <lb ed="#P" n="42"/>conjunctionis, illi praeferendi sunt qui sunt
+            <lb ed="#P" n="43"/>magis conjuncti, ut inter consanguineos, 
+            pa<lb break="no" ed="#P" n="44"/>ter, inter amicos, fidelior et antiquior. 
+            Con<lb break="no" ed="#P" n="45"/>clusio per se quidem patet, sed dubiis 
+            se<lb break="no" ed="#P" n="46"/>quentibus fiet illustrior. Primum est, an in
+            <lb ed="#P" n="47"/>eodem genere debeat homo potius subvenire
+            <lb ed="#P" n="48"/>patri an filio. Divus Thomas, secunda 
+            secun<lb break="no" ed="#P" n="49"/>dae, quaest. 26, art. 9, non respondet 
+            simpli<lb break="no" ed="#P" n="50"/>citer, sed dicit ex parte objecti magis 
+            diligen<lb break="no" ed="#P" n="51"/>dum esse patrem, quia est filii principium;
+            <lb ed="#P" n="52"/>ex parte vero subjecti, magis esse filium 
+            dili<lb break="no" ed="#P" n="53"/>gendum. Et ex ratione divi Thomae, videtur
+            <lb ed="#P" n="54"/>hoc secundum simpliciter affirmandum ; nam
+            <lb ed="#P" n="55"/>Blius est magis conjunctus, cum sit quasi pars
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>patris. Item amor filii est diuturnior et 
+            anti<lb break="no" ed="#P" n="57"/>quior. Item cura providendi magis cornvenit
+            <lb ed="#P" n="58"/>patri respectu filii, quam e contra. Et banc
+            <lb ed="#P" n="59"/>partem sequi videntur Bonaventura et 
+            Ga<lb break="no" ed="#P" n="60"/>briel, loco citato apud Magistrum ; et Altisiod.,
+            <lb ed="#P" n="61"/>lib. 3 Sum., tract. 3, c. 5; Buridan., 8 
+            Ethi<lb break="no" ed="#P" n="62"/>corum, q. 16, et lib. 9, q. 3.
+          </p>
+          <p xml:id="szthvi-b75235-d1e2337">
+            <lb ed="#P" n="63"/>6. Pars prior magis probatur quadruplici
+            <lb ed="#P" n="64"/>rntione. — Exponitur D. Thomas pro 
+            contra<lb break="no" ed="#P" n="65"/>ria parte adductus in mum. 5. — Contraria
+            <lb ed="#P" n="66"/>sententia est simpliciter verior, quam habet
+            <lb ed="#P" n="67"/>Magister in tertio, distinctione illa 29, divus
+            <lb ed="#P" n="68"/>Thomas, et alii ibi. Ratio est primo, quia 
+            be<lb break="no" ed="#P" n="69"/>neficia a patre accepta sunt maxima. 
+            Secun<lb break="no" ed="#P" n="70"/>do, amor ad patrem est similis amori Dei,
+            <lb ed="#P" n="71"/>amor ad filhum est similis amori sui ipsius.
+            <lb ed="#P" n="72"/>Unde in Decalogo, post praecepta spectantia
+            <lb ed="#P" n="73"/>ad Deum, ponitur praeceptum circa parentes.
+            <lb ed="#P" n="74"/>Tertio, gravior impietas est interficere 
+            pa<lb break="no" ed="#P" n="75"/>trem quam filium. Quarto, quia quoad 
+            con<lb break="no" ed="#P" n="76"/>junctionem etiam est quaedam inaequalitas :
+            <lb ed="#P" n="77"/>nam si filius est veluti pars patris, pater est
+            <lb ed="#P" n="78"/>ut totum respectu filii; ergo inclinatio patris
+            <lb ed="#P" n="79"/>ad totum est major, et sicut bonum totius
+            <lb ed="#P" n="80"/>praefertur bono partis, ita bonum patris bono
+            <lb ed="#P" n="81"/>filii. Neque divus Thomas, in citato artic. 9,
+            <lb ed="#P" n="82"/>contrarium sentit, ut observanti patebit. 
+            No<lb break="no" ed="#P" n="83"/>tandum tamen est in hoc, et multis articulis
+            <lb ed="#P" n="84"/>hujus quaest. 16, divum Thomam non solum
+            <lb ed="#P" n="85"/>explicare quid homo agere teneatur, sed
+            <lb ed="#P" n="86"/>etiam quid facilius agat. Nam saepe haec duo
+            <lb ed="#P" n="87"/>non conjunguntur; sic ergo ait fibum magis
+            <lb ed="#P" n="88"/>debere amare patrem, quia excellentia objecti
+            <lb ed="#P" n="89"/>est simpliciter major, tamen ex alis 
+            circum<lb break="no" ed="#P" n="90"/>stantiis facilius patrem amare filium. Ex quo
+            <lb ed="#P" n="91"/>aliqui inferunt, ut refert divus Thomas, in 3,
+            <lb ed="#P" n="92"/>distinctione 29, quaest. unica, artic. 7, 
+            incli<lb break="no" ed="#P" n="93"/>nationem naturae hominum magis inclinare
+            <lb ed="#P" n="94"/>ad fillum quam ad patrem ; charitatem vero
+            <lb ed="#P" n="95"/>corrigere hunc defectum naturalem. Et 
+            for<lb break="no" ed="#P" n="96"/>iasse ex appetitu sensitivo id potest 
+            procede<lb break="no" ed="#P" n="97"/>re, quia hic appetitus fertur magis ad id quod
+            <lb ed="#P" n="98"/>est sensibilius, magisque apparet sensibus
+            <lb ed="#P" n="99"/>praesens, et delectabile. Tamen loquendo de
+            <lb ed="#P" n="100"/>suprema voluntatis inclinatione non est ita;
+            <lb ed="#P" n="101"/>nam haec semper est major ad id quod est
+            <lb ed="#P" n="102"/>magis honestum et rationi consentaneum ; et
+            <lb ed="#P" n="103"/>ordo positus, non solum fidei, sed rationi 
+            na<lb break="no" ed="#P" n="104"/>turali consentaneus est. Ex quibus patet 
+            res<lb break="no" ed="#P" n="105"/>ponsio ad fundamentum prioris sententiae.
+          </p>
+          <p xml:id="szthvi-b75235-d1e2433">
+            <lb ed="#P" n="106"/>7. Ad tertiam confirmationem in eodem ,
+            <lb ed="#P" n="107"/>n.5.— Ad ultimam vero confirmationem,
+            <lb ed="#P" n="108"/>respondetur extra casum necessitatis teneri
+            <lb ed="#P" n="109"/>hominem ex officio magis providere filio
+            <lb ed="#P" n="110"/>quam patri; tamen urgente necessitate prae-
+            <pb ed="#P" n="716"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ferendum esse patrem ob rationes dictas, et
+            <lb ed="#P" n="2"/>quia providere in necessariis est maxima 
+            quae<lb break="no" ed="#P" n="3"/>dam pars honoris patri debiti, ut notat 
+            Hie<lb break="no" ed="#P" n="4"/>ronymus, Matth. 15. Quaeres de qua 
+            necessi<lb break="no" ed="#P" n="5"/>tate sit hoc intelligendum. hespondetur 
+            pri<lb break="no" ed="#P" n="6"/>mo in extrema semper id esse verum. 
+            Secun<lb break="no" ed="#P" n="7"/>do, si filius sit jam emancipatus, et extra 
+            tu<lb break="no" ed="#P" n="8"/>telam patris, esse quoque verum in 
+            quacum<lb break="no" ed="#P" n="9"/>que aequali necessitate, quia jam 
+            quodammo<lb break="no" ed="#P" n="10"/>do complevit munus suum thesaurizando 
+            fi<lb break="no" ed="#P" n="11"/>lio, qua ablata, in caeteris pater est superior;
+            <lb ed="#P" n="12"/>tamen si filius est sub cura patris, extra 
+            ex<lb break="no" ed="#P" n="13"/>tremam necessitatem, caeteris paribus, ili
+            <lb ed="#P" n="14"/>subveniendum esse ratione dictae obligationis
+            <lb ed="#P" n="15"/>ex officio, et quia quicquid tunc pater 
+            acqui<lb break="no" ed="#P" n="16"/>rit, acquirit filio.
+          </p>
+          <p xml:id="szthvi-b75235-d1e2485">
+            <lb ed="#P" n="17"/>8. Secundum dubium circa eamdem 
+            conclu<lb break="no" ed="#P" n="18"/>sionem utrimque discutitur et resolvitur. —
+            <lb ed="#P" n="19"/>Secundum dubium est, in hoc ordine quis sit
+            <lb ed="#P" n="20"/>praeferendus pater an mater. Mater quidem
+            <lb ed="#P" n="21"/>certius cognoscitur, magis amat filios, plus
+            <lb ed="#P" n="22"/>patitur in eorum educatione, et educatione ipsa
+            <lb ed="#P" n="23"/>familiarius tractatur et diuturnius. E contra,
+            <lb ed="#P" n="24"/>pater est praecipua causa generationis, et ad
+            <lb ed="#P" n="25"/>eum magis spectat providentia et cura 
+            filio<lb break="no" ed="#P" n="26"/>rum, et suis laboribus illos alit, unde major
+            <lb ed="#P" n="27"/>honor et reverentia illi debetur. Quare, 
+            omni<lb break="no" ed="#P" n="28"/>bus pensatis, pater est praeferendus. Ita D.
+            <lb ed="#P" n="29"/>Thomas, art. 10, Magister supra ; fortasse 
+            ta<lb break="no" ed="#P" n="30"/>men hic ordo non obligat ad mortale.
+          </p>
+          <p xml:id="szthvi-b75235-d1e2519">
+            <lb ed="#P" n="31"/>9. Tertium dubium expeditur. — Tertium
+            <lb ed="#P" n="32"/>est, an in hoc ordine praeferendus sit noster
+            <lb ed="#P" n="33"/>benefactor, an beneficiatus, hoc est, cujus 
+            su<lb break="no" ed="#P" n="34"/>mus benefactores. Respondetur cum div. 
+            Tho<lb break="no" ed="#P" n="35"/>ma, art. 12, in corp., et ad secundum, 
+            praefe<lb break="no" ed="#P" n="36"/>rendum esse benefactorem. Ratio est, quia ille
+            <lb ed="#P" n="37"/>amor est magis debitus, et similior nostro
+            <lb ed="#P" n="38"/>amori erga Deum. Addit tamen amorem erga
+            <lb ed="#P" n="39"/>eum qui suscipit beneficium, esse majorem et
+            <lb ed="#P" n="40"/>excellentiorem, quia in illo quasi seipsum 
+            ho<lb break="no" ed="#P" n="41"/>mo respicit, et suum bonum, et quia nobilius
+            <lb ed="#P" n="42"/>est dare quam accipere, juxta Paulum, Actor.
+            <lb ed="#P" n="43"/>20; nam illud est amicitiae honestae, hoc 
+            quo<lb break="no" ed="#P" n="44"/>dammodo concupiscentiae ; propter quod 
+            bene<lb break="no" ed="#P" n="45"/>facerejucundius est quam beneficium accipere.
+            <lb ed="#P" n="46"/>At enim licet sit facilius diligere beneficiatum,
+            <lb ed="#P" n="47"/>non inde tamen infertur major obligatio illum
+            <lb ed="#P" n="48"/>diligendi.
+          </p>
+          <p xml:id="szthvi-b75235-d1e2561">
+            <lb ed="#P" n="49"/>10. Quarta conclusio bipartita. — bDico
+            <lb ed="#P" n="50"/>quarto : inter eos qui diverso conjunctionis
+            <lb ed="#P" n="51"/>genere conjuncti sunt, in rebus pertinentibus,
+            <lb ed="#P" n="52"/>et propriis singularum conjunctionum, 
+            praefe<lb break="no" ed="#P" n="53"/>rendi sunt illa conjunctione conjuncti; tamen
+            <lb ed="#P" n="54"/>simpliciter illi sunt praeferendi in aliis bonis,
+            <lb ed="#P" n="55"/>quorum conjunctio est major. Prior pars sumi-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>tur ex divo Thoma, quaest. 26. art. 8. Et 
+            sen<lb break="no" ed="#P" n="57"/>sus ejus est, ex unaquaque conjunctione oriri
+            <lb ed="#P" n="58"/>peculiarem obligationem ad quaedam officia,
+            <lb ed="#P" n="59"/>ut inter cives ad res civiles, inter milites ad
+            <lb ed="#P" n="60"/>res militares ; nam in unaquaque conjunctione
+            <lb ed="#P" n="61"/>hujusmodi, praeferendi sunt illi in his officiis
+            <lb ed="#P" n="62"/>qui hoc modo sunt conjuncti. Ratio est, quia
+            <lb ed="#P" n="63"/>omnis amicitia fundatur in conjunctione 
+            ali<lb break="no" ed="#P" n="64"/>qua, et communicatione; ergo in bonis et rebus
+            <lb ed="#P" n="65"/>ad aliquam conjunctionem pertinentibus 
+            prae<lb break="no" ed="#P" n="66"/>ferendi sunt corjuncti. Exempla etiam dicta
+            <lb ed="#P" n="67"/>facile id manifestant. Posterior pars in genere
+            <lb ed="#P" n="68"/>patet ex dictis, quia sicut simpliciter ad 
+            sim<lb break="no" ed="#P" n="69"/>pliciter, ita magis ad magis, et quia in eodem
+            <lb ed="#P" n="70"/>genere conjunctionis praeferuntur magis 
+            con<lb break="no" ed="#P" n="71"/>juncti ; ergo etiam in diverso. Sed obseurum
+            <lb ed="#P" n="72"/>est exponere quae conjunctio alteri praeferenda
+            <lb ed="#P" n="73"/>sit, quod planum faciam aliquot dubiis.
+          </p>
+          <p xml:id="szthvi-b75235-d1e2620">
+            <lb ed="#P" n="74"/>11. Prima dubitatio circa precedentem 
+            con<lb break="no" ed="#P" n="75"/>clusionem. — Vera resolutio quoad necessitates
+            <lb ed="#P" n="76"/>corporales cum D. Thoma. — Item quoad 
+            sgn<lb break="no" ed="#P" n="77"/>rituales, quae colligitur etiam ex D. Thoma. —
+            <lb ed="#P" n="78"/>Primum igitur est an conjunctio naturalis sit
+            <lb ed="#P" n="79"/>praeferenda spirituali. Prius vero comparemus
+            <lb ed="#P" n="80"/>in eodem gradu, id est, an pater naturalis
+            <lb ed="#P" n="81"/>patri spirituali, filius filio, frater fratri. Et
+            <lb ed="#P" n="82"/>omissis opinionibus, mihi videtur naturalem
+            <lb ed="#P" n="83"/>conjunctionem esse praeferendam, atque adeo
+            <lb ed="#P" n="84"/>in extrema necessitate potius providendum
+            <lb ed="#P" n="85"/>esse patri carnali quam spirituali, et quidem
+            <lb ed="#P" n="86"/>in his quae sunt necessaria ad conservationem
+            <lb ed="#P" n="87"/>naturae. Conclusio est D. Thomae, art. 8, et
+            <lb ed="#P" n="88"/>consentiunt omnes, quia in hoc gerere 
+            con<lb break="no" ed="#P" n="89"/>junctio naturalis est major, et quoad hoc 
+            ob<lb break="no" ed="#P" n="90"/>servatio hujus ordinis ad mortale obligat. Et
+            <lb ed="#P" n="91"/>idem est de comparatione filiorum, atque
+            <lb ed="#P" n="92"/>etiam de fratribus, licet non cum tanta 
+            obliga<lb break="no" ed="#P" n="93"/>tione. Derebus autem spiritualibus res est 
+            ma<lb break="no" ed="#P" n="94"/>gis dubia, sed colligitur ex D. Thoma, art. 7.
+            <lb ed="#P" n="95"/>Ratio est, quia haec naturalis conjnuncetio,
+            <lb ed="#P" n="96"/>quamvis in ordine videatur inferior spiritualt,
+            <lb ed="#P" n="97"/>tamen in suo genere est maxima. Deinde est
+            <lb ed="#P" n="98"/>antiquissima et immutabilis, quia ab intrinseco
+            <lb ed="#P" n="99"/>provenit; spiritualis vero est valde extrinseca,
+            <lb ed="#P" n="100"/>facileque mutatur ; deinde bereficium a patre
+            <lb ed="#P" n="101"/>susceptum regulariter est majus, scilic^t, vita,
+            <lb ed="#P" n="102"/>quae est fundamentum bonorum omnium, et
+            <lb ed="#P" n="103"/>educatio usque a usum rationis. Tandem quia
+            <lb ed="#P" n="104"/>naturalis obligatio, quae est ad subveniendum
+            <lb ed="#P" n="105"/>parentibus, non solum est in bonis corporis, sed
+            <lb ed="#P" n="106"/>maxime in bonis animae. Unde haec officia non
+            <lb ed="#P" n="107"/>sunt extra latitudinem illius conjunctionis;
+            <lb ed="#P" n="108"/>ergo non potest superari haec obligatio 
+            natura<lb break="no" ed="#P" n="109"/>lis ab alia positiva, et quasi imposita ab 
+            homi<lb break="no" ed="#P" n="110"/>nibus.
+          </p>
+          <p xml:id="szthvi-b75235-d1e2703">
+            <pb ed="#P" n="717"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>13. Exceptio Cajetani, nisi extra casum
+            <lb ed="#P" n="2"/>extrema necessitatis intelligatur, multis modis
+            <lb ed="#P" n="3"/>excluditur. — Atque hinc constat idem 
+            dicen<lb break="no" ed="#P" n="4"/>dum esse de comparatione facta ad filics,
+            <lb ed="#P" n="5"/>carnalem et spiritualem , licet Cajetanus illo
+            <lb ed="#P" n="6"/>articulo 8 oppositum sentiat. Fundatur, quia
+            <lb ed="#P" n="7"/>pater tenetur providere filio spirituali ex 
+            jus<lb break="no" ed="#P" n="8"/>titia, naturali vero tantum ex charitate; et
+            <lb ed="#P" n="9"/>videtur D. Thomas ibi ad secundum idem 
+            do<lb break="no" ed="#P" n="10"/>cere, citans Ambrosium, 1 Officior., c. 7. 
+            Res<lb break="no" ed="#P" n="11"/>pondetur loqui sanctum Doctorem extra casum
+            <lb ed="#P" n="12"/>extremae necessitatis; tunc enim major est 
+            ha<lb break="no" ed="#P" n="13"/>benda cura filii spiritualis ratione officii, sicut
+            <lb ed="#P" n="14"/>dicebamus etiam in primo dubio praecedentis
+            <lb ed="#P" n="15"/>conclusionis ; secus vero est in extrema 
+            neces<lb break="no" ed="#P" n="16"/>sitate, in qua omnia quodammodo efficiuntur
+            <lb ed="#P" n="17"/>communia. Et ideo cessat oblgatio justitiae,
+            <lb ed="#P" n="18"/>ut patet comparando in ea necessitate patrem
+            <lb ed="#P" n="19"/>cum creditore, cui ex justitia aliquid debeo;
+            <lb ed="#P" n="20"/>item obligatio pietatis major interdum est
+            <lb ed="#P" n="21"/>quam justitiae, et nonnunquam etiam 
+            chari<lb break="no" ed="#P" n="22"/>tatis, ut patet de obligatione subveniendi 
+            sibi<lb break="no" ed="#P" n="23"/>ipsi. Et confirmatur, nam debet servari 
+            pro<lb break="no" ed="#P" n="24"/>portio; ergo si filius maxime obligatur ad
+            <lb ed="#P" n="25"/>patrem naturalem, ita etiam e contrario pater
+            <lb ed="#P" n="26"/>ad filium. Item quia providere filio in bonis
+            <lb ed="#P" n="27"/>animae non est extra obligationem paterni
+            <lb ed="#P" n="28"/>muneris ; et aliae rationes facile afferri 
+            appli<lb break="no" ed="#P" n="29"/>carique possunt.
+          </p>
+          <p xml:id="szthvi-b75235-d1e2773">
+            <lb ed="#P" n="30"/>13. Temperatur proxima doctrina. — Addo
+            <lb ed="#P" n="31"/>tamen, quando spiritualis conjunctio est valde
+            <lb ed="#P" n="32"/>perfecta, non esse peccatum saltem mortale
+            <lb ed="#P" n="33"/>illam praeferre conjunctioni naturali, quia 
+            re<lb break="no" ed="#P" n="34"/>vera excessus et ordo est valde dubius, et
+            <lb ed="#P" n="35"/>utrinque sunt rationes. Hinc patet, si 
+            compa<lb break="no" ed="#P" n="36"/>remus has conjunctiones in gradibus diversis
+            <lb ed="#P" n="37"/>(in quo vix potest dici aliquid generaliter 
+            cer<lb break="no" ed="#P" n="38"/>tum), tamen regulariter quemdam 
+            superio<lb break="no" ed="#P" n="39"/>rem gradum unius conjunctionis posse 
+            prae<lb break="no" ed="#P" n="40"/>ferri gradui conjunctionis alterius. Tandem
+            <lb ed="#P" n="41"/>colligitur ex dictis, conjunctionem 
+            consangui<lb break="no" ed="#P" n="42"/>nitatis ex suo genere esse majorem aliis 
+            con<lb break="no" ed="#P" n="43"/>junctionibus humanis, quia est magis 
+            intrin<lb break="no" ed="#P" n="44"/>seca, immobilior, et antiquior, et in majoribus
+            <lb ed="#P" n="45"/>beneficiis fundata.
+          </p>
+          <p xml:id="szthvi-b75235-d1e2810">
+            <lb ed="#P" n="46"/>14. Secunda dubitatio circa eamdem 
+            con<lb break="no" ed="#P" n="47"/>clusionem, et rationes pro prima parte 
+            nega<lb break="no" ed="#P" n="48"/>liva. — Rationes pro parte affirmativa. —
+            <lb ed="#P" n="49"/>Sed hinc oritur secundum dubium, an 
+            conjun<lb break="no" ed="#P" n="50"/>ctio amicitiae interdum possit esse tanta, ut
+            <lb ed="#P" n="51"/>possit praeferri naturali, etiam paternae. Prima
+            <lb ed="#P" n="52"/>sententia negat, posse id unquam licere; ita
+            <lb ed="#P" n="53"/>D. Thomas, q. 26, art. 9, et q. 31, art. 3, ad
+            <lb ed="#P" n="54"/>3; et cum Magistro. in tertio, distinct. 19,
+            <lb ed="#P" n="55"/>art. 1, favet Aristoteles, 8 Ethicorum, cap. 8,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>et lib. 9, cap. 2. Ratio est, quia nullum 
+            hu<lb break="no" ed="#P" n="57"/>manum beneficium comparari potest cum vita
+            <lb ed="#P" n="58"/>a parentibus donata. Dices : fieri potest ut
+            <lb ed="#P" n="59"/>moraliter eadem vita ab alio amico donata sit,
+            <lb ed="#P" n="60"/>qui se mortis periculo exposuit, ut mc a simili
+            <lb ed="#P" n="61"/>periculo liberaret. Sed contra, quia pater est
+            <lb ed="#P" n="62"/>causa per se meae vitae, alter vero per 
+            acci<lb break="no" ed="#P" n="63"/>dens. Secundo, pater dedit initium primum
+            <lb ed="#P" n="64"/>vivendi, alter perseverantiam, quod est 
+            faci<lb break="no" ed="#P" n="65"/>lius. Unde fit tertio ut a patre habeam quasi
+            <lb ed="#P" n="66"/>vitam immortalem, in anima saltem, ab altero
+            <lb ed="#P" n="67"/>vero solum liberer a morte corporis. Tandem
+            <lb ed="#P" n="68"/>pater non solum dedit vitam, sed etiam 
+            edu<lb break="no" ed="#P" n="69"/>cavit, instruxit, etc. Et confirmatur ex 
+            incli<lb break="no" ed="#P" n="70"/>natione naturae, quae ad patrem est maxima.
+            <lb ed="#P" n="71"/>Fecunda sententia dicit interdum non solum
+            <lb ed="#P" n="72"/>licere, sed etiam esse in praecepto mutare
+            <lb ed="#P" n="73"/>hunc ordinem, praeferre, scilicet, vitam 
+            ali<lb break="no" ed="#P" n="74"/>cujus vitae patris. Patet primo in dicto casu,
+            <lb ed="#P" n="75"/>si aliquis suo periculo et labore me liberavit a
+            <lb ed="#P" n="76"/>morte corporis, ac praeterea contulit multa
+            <lb ed="#P" n="77"/>beneficia, et maximum amorem. Ita sensisse
+            <lb ed="#P" n="78"/>quemdam Gerardum refert Buridanus, 9 
+            Ethi<lb break="no" ed="#P" n="79"/>corum, q. 3.
+          </p>
+          <p xml:id="szthvi-b75235-d1e2889">
+            <lb ed="#P" n="80"/>15. Resolutio per tria pronuntiata. — Tria
+            <lb ed="#P" n="81"/>in hoc dubio breviter pronuntio : primum,
+            <lb ed="#P" n="82"/>genere suo, et absolute loquendo, patrem esse
+            <lb ed="#P" n="83"/>praeferendum omnibus aliis ; loquimur vero
+            <lb ed="#P" n="84"/>de privatis personis, non de communi bono.
+            <lb ed="#P" n="85"/>Patet ex fundamento, et auctoribus primae
+            <lb ed="#P" n="86"/>sententiae. Secundum, nunquam obligari me
+            <lb ed="#P" n="87"/>ad subveniendum alteri in extrema 
+            necessita<lb break="no" ed="#P" n="88"/>te, praetermittendo patrem in simili positum,
+            <lb ed="#P" n="89"/>quia jus paternum est summum in humanis
+            <lb ed="#P" n="90"/>juribus. Unde infero, si pater vellet injuste
+            <lb ed="#P" n="91"/>occidere innocentem , non teneri me 
+            defen<lb break="no" ed="#P" n="92"/>dere innocentem, si non possum alias quam
+            <lb ed="#P" n="93"/>patrem necando; imo regulariter nec fratrem
+            <lb ed="#P" n="94"/>aut amicum, quia licet tenear defendere, non
+            <lb ed="#P" n="95"/>tamen cum tanta jactura. Quod idem suo modo
+            <lb ed="#P" n="96"/>est, si jactura etiam esset in pecuniis. Quin
+            <lb ed="#P" n="97"/>etiam Almaynus in 3, d. 29, q. 1, putat 
+            nemi<lb break="no" ed="#P" n="98"/>nem obligari ad interficiendum aliquem pro
+            <lb ed="#P" n="99"/>tuenda vita alterius privatae persona, quod
+            <lb ed="#P" n="100"/>certe, intra legem charitatis stando, est 
+            pro<lb break="no" ed="#P" n="101"/>babile, quia hominis interfectio est actio valde
+            <lb ed="#P" n="102"/>repugnans inclinationi naturae : unde non 
+            vi<lb break="no" ed="#P" n="103"/>detur ordo charitatis cum tanto rigore 
+            obiiga<lb break="no" ed="#P" n="104"/>re. Tertium pronuntiatum, in aliquo casu
+            <lb ed="#P" n="105"/>posse filium praeferri patri in extrema 
+            neces<lb break="no" ed="#P" n="106"/>sitate. Et primo, si pater aggrediatur 
+            inno<lb break="no" ed="#P" n="107"/>centem filium, possum licite defendere illum,
+            <lb ed="#P" n="108"/>etiam interfieiendo patrem, si aliter non 
+            pos<lb break="no" ed="#P" n="109"/>sum, quia pater abutitur jure suo, neque iunc
+            <lb ed="#P" n="110"/>est in necessitate, sed in deordinatissima vo-
+            <pb ed="#P" n="718"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>luntate. Secundo, fortasse etiam amicitia cum
+            <lb ed="#P" n="2"/>aliquo posset esse tanta, et beneficia adeo
+            <lb ed="#P" n="3"/>egregia mihi collata, ut possem eum praeferre
+            <lb ed="#P" n="4"/>patri sine peccato, maxime si pater, postquam
+            <lb ed="#P" n="5"/>dedit vitam, vel nulla, vel pauca alia 
+            bene<lb break="no" ed="#P" n="6"/>ficia contulerit, vel si male functus est officio
+            <lb ed="#P" n="7"/>cum filio. Ita censuit probabile Victoria, in
+            <lb ed="#P" n="8"/>Manuscript. ad quaest. 26 D. Thomae, in 
+            se<lb break="no" ed="#P" n="9"/>cunda secundae. Ratio est, quia in omnibus
+            <lb ed="#P" n="10"/>virtutibus, licet una sit suo genere major
+            <lb ed="#P" n="11"/>altera, in individuo actus inferioris potest esse
+            <lb ed="#P" n="12"/>interdum melior quam superioris. Idem ergo
+            <lb ed="#P" n="13"/>potest accidere in pietate comparata cum 
+            ami<lb break="no" ed="#P" n="14"/>citia, cum Ecclesiast. 6 dicatur : Amico fideli
+            <lb ed="#P" n="15"/>nihit est comparabile ; et Proverbiorum 18,
+            <lb ed="#P" n="16"/>praefertur fratri; et Ambrosius, lib. 3 de 
+            Offi<lb break="no" ed="#P" n="17"/>ciis, c. 16, ait in rebus Inumanis nihil esse 
+            pul<lb break="no" ed="#P" n="18"/>chrius amicitia. Idem etiam constat si 
+            com<lb break="no" ed="#P" n="19"/>paremus amicum cum filio.
+          </p>
+          <p xml:id="szthvi-b75235-d1e3004">
+            <lb ed="#P" n="20"/>16. Tertia dubitatio resolvitur communiter
+            <lb ed="#P" n="21"/>cum D. Thoma. — Tertium dubium est, 
+            com<lb break="no" ed="#P" n="22"/>parando parentem cum conjuge, quis 
+            praefe<lb break="no" ed="#P" n="23"/>rendus sit. Divus Thomas 2. 2, quaest. 26,
+            <lb ed="#P" n="24"/>art. 11, simphrciter dicit praeferendum esse
+            <lb ed="#P" n="25"/>parentem, quamvis saepe conjux soleat diligi
+            <lb ed="#P" n="26"/>intensius : et ita sentiunt omnes communiter,
+            <lb ed="#P" n="27"/>propter summam obligationem quam quisque
+            <lb ed="#P" n="28"/>habet ad parentes. Sed videtur obstare illud
+            <lb ed="#P" n="29"/>Genes., 2 cap.: Quamobrem velinquet homo
+            <lb ed="#P" n="30"/>patrem suwmn et matrem suam, et adhavebit
+            <lb ed="#P" n="31"/>ucori sue, quod praeceptum probavit Christus,
+            <lb ed="#P" n="32"/>Matth. 19. Quapropter Lipoma, Genes. 2,
+            <lb ed="#P" n="33"/>oppositum indicat, dum citat Rupertum 
+            dicen<lb break="no" ed="#P" n="34"/>tem, conjunctionem conjugis esse omnium
+            <lb ed="#P" n="35"/>maximam et fortissimam; et Hugonem, 
+            privi<lb break="no" ed="#P" n="36"/>legium dilectionis fuisse ad uxorem 
+            transla<lb break="no" ed="#P" n="37"/>tum. Citare quoque poterat Procopium, eo
+            <lb ed="#P" n="38"/>loco Genes. : Cum secundum muptias genus
+            <lb ed="#P" n="39"/>humanum consistere oporteat, vecte et 
+            neces<lb break="no" ed="#P" n="40"/>sario uaor antefertur parentibus ; et libr. 3
+            <lb ed="#P" n="41"/>Esdrae, cap. 4 dicitur: Homo diliget umorem
+            <lb ed="#P" n="42"/>suam magis quam patrem et matrem. Verum
+            <lb ed="#P" n="43"/>neque liber canonicus est, neque dicitur in eo
+            <lb ed="#P" n="44"/>quid fieri debeat, sed quid frequentius fiat.
+            <lb ed="#P" n="45"/>Unde prior opinio est probabilior simpliciter
+            <lb ed="#P" n="46"/>propter dicta in praecedenti dubio. Et sensus
+            <lb ed="#P" n="47"/>loci Genesis est, quoad habitationem quidem
+            <lb ed="#P" n="48"/>et mutuam societatem, relinquendum esse 
+            pa<lb break="no" ed="#P" n="49"/>trem, etc. Ita exponunt Rupertus et divus
+            <lb ed="#P" n="50"/>Thomas, art. 11, ad primum, et lectione 10
+            <lb ed="#P" n="51"/>ad Ephes. 5; eodemque modo accipiendus
+            <lb ed="#P" n="52"/>Procopius.
+          </p>
+          <p xml:id="szthvi-b75235-d1e3078">
+            <lb ed="#P" n="53"/>17. Ultima dubitatio empeditur a Cajetano.
+            <lb ed="#P" n="54"/>— Sed quaerit Cajetanus, in articulo 12, an
+            <lb ed="#P" n="55"/>conjux sit praeferendus filio; cui respondet
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>simpliciter esse praeferendum. hatio ejus est,
+            <lb ed="#P" n="57"/>quia est nobilius objectum; est enim 
+            comprin<lb break="no" ed="#P" n="58"/>cipium generationis, filius tantum effectus.
+            <lb ed="#P" n="59"/>Sed magis urget pro Cajetan., quod vincuium
+            <lb ed="#P" n="60"/>matrimonii inducat magnam quamdam 
+            obli<lb break="no" ed="#P" n="61"/>gationem ; nam ex duobus facit quasi unum.
+            <lb ed="#P" n="62"/>Arbitror tamen in his omnibus tam parvam
+            <lb ed="#P" n="63"/>inaequalitatem esse in ordine diligendorum,
+            <lb ed="#P" n="64"/>ut vix unquam sit obligatio ad mortale. 
+            Ad<lb break="no" ed="#P" n="65"/>dit Cajetanus, ex parte diligentis magis diligi
+            <lb ed="#P" n="66"/>saepe filium, propter majorem conjunctionem;
+            <lb ed="#P" n="67"/>sed experientia videtur docere oppositum;
+            <lb ed="#P" n="68"/>nam regulariter magis curat et amat conjux
+            <lb ed="#P" n="69"/>bonum alterius conjugis, quam filii; et revera
+            <lb ed="#P" n="70"/>conjunctio vel non est minor, et fortasse 
+            ma<lb break="no" ed="#P" n="71"/>jor, ideoque et amor est antiquior, et 
+            familia<lb break="no" ed="#P" n="72"/>ritas.
+          </p>
+          <p xml:id="szthvi-b75235-d1e3126">
+            <lb ed="#P" n="73"/>18. Quinta conclusio D. Thome et aliorum,
+            <lb ed="#P" n="74"/>in 2. 2, q. 96, art. 1. — Dico quinto 
+            princi<lb break="no" ed="#P" n="75"/>paliter : inter non conjunctos, per se loquendo,
+            <lb ed="#P" n="76"/>praeferendi sunt meliores, justi peccatoribus.
+            <lb ed="#P" n="77"/>Ita D. Thomas citandus, et omnes alii 
+            com<lb break="no" ed="#P" n="78"/>muniter de his comparationibus tractantes;
+            <lb ed="#P" n="79"/>nam ratione majoris sanctitatis homines sunt
+            <lb ed="#P" n="80"/>Deo similiores et conjunctiores; sunt etiam
+            <lb ed="#P" n="81"/>objecta nobihlora, et magis proportionata 
+            cha<lb break="no" ed="#P" n="82"/>ritati; ergo, etc. Contrarium tamen sentit
+            <lb ed="#P" n="83"/>monachus quidam apud Almayn., tract. 1
+            <lb ed="#P" n="84"/>Moral., cap. 8, ad finem, dicens in extrema
+            <lb ed="#P" n="85"/>necessitate potius subveniendum esse existenti
+            <lb ed="#P" n="86"/>in peccato quam justo, quia est in majori
+            <lb ed="#P" n="87"/>periculo, unde et magis indiget. Sed per se
+            <lb ed="#P" n="88"/>loguendo, ut ibidem Almayn. addit, non ita
+            <lb ed="#P" n="89"/>est; interdum tamen, si esset certum hunc
+            <lb ed="#P" n="90"/>justum fortasse salvandum, si moriatur;
+            <lb ed="#P" n="91"/>alium vero in peccato existentem esse 
+            condem<lb break="no" ed="#P" n="92"/>nandum; si autem supervivat aliquam esse
+            <lb ed="#P" n="93"/>spem salutis, erit fortasse consultius illi 
+            pro<lb break="no" ed="#P" n="94"/>videre, paecipue si hic et nunc jam minus
+            <lb ed="#P" n="95"/>sui compos non possit moraliter ad Deum 
+            con<lb break="no" ed="#P" n="96"/>verti. Si enim possit, certe non erit in 
+            necessi<lb break="no" ed="#P" n="97"/>tate spiritual.
+          </p>
+          <p xml:id="szthvi-b75235-d1e3183">
+            <lb ed="#P" n="98"/>19. Queaestiuncula circa preecedentem 
+            conctu<lb break="no" ed="#P" n="99"/>sionem.—Quid primo dicat D. Thomas.—Quid
+            <lb ed="#P" n="100"/>dicat secundo. — Propria formalis resolutio. —
+            <lb ed="#P" n="101"/>E'st juzta ipsum D. Thomam. — Dubium 
+            ta<lb break="no" ed="#P" n="102"/>men est, si comparemus sanctiores alienos cum
+            <lb ed="#P" n="103"/>conjunctioribus minus sanctis, quinam sint
+            <lb ed="#P" n="104"/>praeferendi. Divus Thomas hanc 
+            comparatio<lb break="no" ed="#P" n="105"/>nem facit in illo articulo 7, tam in ordine 
+            ob<lb break="no" ed="#P" n="106"/>jectivi amoris, quam intensivi vel appretiativi,
+            <lb ed="#P" n="107"/>aitque objective meliores esse magis 
+            diligen<lb break="no" ed="#P" n="108"/>dos, quia habent in se majus bonum. Quod
+            <lb ed="#P" n="109"/>cgo intelligo de amore absoluto secundum
+            <lb ed="#P" n="110"/>praesentem justitiam ; nam si loquamur de de-
+            <pb ed="#P" n="719"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>siderio in ordine ad futurum tempus, et 
+            futu<lb break="no" ed="#P" n="2"/>ram justitiam, aliud est sentiendum, ut statim
+            <lb ed="#P" n="3"/>explicabimus. Dicit praeterea conjunctiores 
+            in<lb break="no" ed="#P" n="4"/>tensius amari quam sanctiores, ubi non tam
+            <lb ed="#P" n="5"/>explicat obligationem, quam id quod de facto
+            <lb ed="#P" n="6"/>accidit, et facilius fit. Absolute ergo loquendo
+            <lb ed="#P" n="7"/>de obligatione quae, ut saepe dixi, cadit in 
+            ap<lb break="no" ed="#P" n="8"/>pretiationem tantum, simpliciter dicendum
+            <lb ed="#P" n="9"/>est conjunctiores esse praeferendos, non solum
+            <lb ed="#P" n="10"/>in corporalibus, sed etiam in spiritualibus 
+            ne<lb break="no" ed="#P" n="11"/>cessitatibus, et bonis. Prima pars de 
+            corpora<lb break="no" ed="#P" n="12"/>libus bonis est certa sine controversia, quia
+            <lb ed="#P" n="13"/>isti sunt in magis propinqua conjunctione ad
+            <lb ed="#P" n="14"/>diligentem, et quasi ejusdem ordinis. Secunda
+            <lb ed="#P" n="15"/>vero probatur ex supra dictis : nam ita se 
+            ha<lb break="no" ed="#P" n="16"/>bent sanctiores, sicut illi qui sunt spiritualiter
+            <lb ed="#P" n="17"/>conjuncti. Secundo, quia licet alius sit 
+            sanc<lb break="no" ed="#P" n="18"/>tior, possum, ac debeo magis desiderare et
+            <lb ed="#P" n="19"/>procurare ut mcus pater perveniat ad illam
+            <lb ed="#P" n="20"/>sanctitatem, quam ut ille sanctior in ea 
+            sanc<lb break="no" ed="#P" n="21"/>titate duret, ut indicat divus Thomas, art. 7.
+            <lb ed="#P" n="22"/>Atqui hoc est illum magis ir spiritualibus 
+            di<lb break="no" ed="#P" n="23"/>ligere. Tertio, quia charitas perficit naturam:
+            <lb ed="#P" n="24"/>sed natura, etiam honesta inclinatione, magis
+            <lb ed="#P" n="25"/>inclinat in propinquos quam in melicres; 
+            er<lb break="no" ed="#P" n="26"/>go, etc. Atque ita sentit divus Thomas, quaest.
+            <lb ed="#P" n="27"/>32. art. 9. ad 2.
+          </p>
+          <p xml:id="szthvi-b75235-d1e3277">
+            <lb ed="#P" n="28"/>20. Contrarium opinatur Gabriel, et alii 
+            ve<lb break="no" ed="#P" n="29"/>lati a Bonaventura, art. 4, q. 5. — Ejus 
+            funda<lb break="no" ed="#P" n="30"/>mentun, et confirmatur decisio auctoris.—
+            Con<lb break="no" ed="#P" n="31"/>trarium vero tenet Gabr. in 3, distinct. 29,
+            <lb ed="#P" n="32"/>art. 2, conclus. 7; et Magister ibi, ac divus
+            <lb ed="#P" n="33"/>Thomas et Bonaventura dubii videntur; favet
+            <lb ed="#P" n="34"/>Ambrosius, 1 de Officiis, cap. 30: Si omnibus
+            <lb ed="#P" n="35"/>debetur müisericordia, tamen justo amplius.
+            <lb ed="#P" n="36"/>Idemque interdum usurpant alii Patres. Ratio
+            <lb ed="#P" n="37"/>est, quia sanctiores sunt conjunctiores Deo, et
+            <lb ed="#P" n="38"/>objecta nobiliora. Confirmatur, nam magis
+            <lb ed="#P" n="39"/>diliguntur a Deo; ergo et a nobis magis sunt
+            <lb ed="#P" n="40"/>diligendi. Respondetur per se loquendo 
+            prio<lb break="no" ed="#P" n="41"/>rem sententiam esse veram, atque adeo in casu
+            <lb ed="#P" n="42"/>extremae necessitatis spiritualis potius 
+            subve<lb break="no" ed="#P" n="43"/>niendum patri etiam peccatori, quam alicui
+            <lb ed="#P" n="44"/>justo extraneo, quia revera est major obligatio.
+            <lb ed="#P" n="45"/>Tamen fortasse in casu aliquo tantus posset
+            <lb ed="#P" n="46"/>essc excessus sanctitatis, tanta corruptio 
+            alte<lb break="no" ed="#P" n="47"/>rius conjuncti, et tam parva spes fructus et
+            <lb ed="#P" n="48"/>emendae, ut posset merito praeferri sanctior,
+            <lb ed="#P" n="49"/>et m hoc casu loquitur Prosper, libr. 3 de Vita
+            <lb ed="#P" n="50"/>contemplativa, cap. 15; et Ambrosius aliique
+            <lb ed="#P" n="51"/>Patres intelligendi sunt, caeteris paribus.
+          </p>
+          <p xml:id="szthvi-b75235-d1e3333">
+            <lb ed="#P" n="52"/>21. Notationes circa fuudamentum Gabrielis.
+            <lb ed="#P" n="53"/>—dSatisfit jam dicto fundamento. — Ratio 
+            ve<lb break="no" ed="#P" n="54"/>ro facta a Gabriele petit ut explicemus 
+            difficul<lb break="no" ed="#P" n="55"/>tatem quamdam, communem iis omnibus quae
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>in hac quaestione diximus : cum charitas per
+            <lb ed="#P" n="57"/>se primo tendat in Deum, quid est quod ordo
+            <lb ed="#P" n="58"/>charitatis in dilectione proximorum magis
+            <lb ed="#P" n="59"/>pendet ex conjunctione cum diligente, quam
+            <lb ed="#P" n="60"/>ex conjunctione ad Deum, vel in participatione
+            <lb ed="#P" n="61"/>divinae bonitatis? In quo advertendum est
+            <lb ed="#P" n="62"/>primo, variis modis amari proximum propter
+            <lb ed="#P" n="63"/>Deum ex charitate, ut supra dixi; sed unus,
+            <lb ed="#P" n="64"/>ex quo maxime pendet ordo, est quia 
+            aman<lb break="no" ed="#P" n="65"/>di sunt proximi, quantum et quomodo vult
+            <lb ed="#P" n="66"/>Deus ut amentur. Unde illi magis diligendi
+            <lb ed="#P" n="67"/>sunt in hoc ordine, quos Deus vult magis a
+            <lb ed="#P" n="68"/>nobis diligi. Unde secundo est considerandum,
+            <lb ed="#P" n="69"/>quoniam gratia naturam perficit, illa, quae 
+            se<lb break="no" ed="#P" n="70"/>cundum rectam rationem naturalem sunt 
+            ma<lb break="no" ed="#P" n="71"/>gis diligibilia, simplieiter et secundum 
+            ordi<lb break="no" ed="#P" n="72"/>nem charitatis esse magis diligepda. Non 
+            loqui<lb break="no" ed="#P" n="73"/>mur autem de ratione naturali omnimoda,
+            <lb ed="#P" n="74"/>sed ut per fidem elevata. Hinc tertio 
+            adverten<lb break="no" ed="#P" n="75"/>dum, quod licet ratio diligendi sit Deus, tamen
+            <lb ed="#P" n="76"/>conjunctio ad diligentem est quasi mensura
+            <lb ed="#P" n="77"/>et regula ad cognoscendas personas, quibus et
+            <lb ed="#P" n="78"/>amari et procurari magis debent a nobis bona
+            <lb ed="#P" n="79"/>etiam supernaturalia. Unde, licet majus 
+            super<lb break="no" ed="#P" n="80"/>naturale secundum se sit magis diligibile,
+            <lb ed="#P" n="81"/>tamen persona mihi magis conjuncta magis est
+            <lb ed="#P" n="82"/>a me diligenda quam extranea, etiamsi haec
+            <lb ed="#P" n="83"/>habeat actu illud bonum, illa vero sit tantum
+            <lb ed="#P" n="84"/>capax ejus, cum spe tamen obtinendi illud;
+            <lb ed="#P" n="85"/>nam si de conjunctioribus nulla esset spes,
+            <lb ed="#P" n="86"/>praeferendi sine dubio essent sanctiores; sed
+            <lb ed="#P" n="87"/>in via nunquam deficit haec spes. Ad rationem
+            <lb ed="#P" n="88"/>ergo respondetur, sanctiores secundum 
+            prae<lb break="no" ed="#P" n="89"/>sentem statum esse objecta digniora, et ideo
+            <lb ed="#P" n="90"/>quodam amore complacentia posse magis
+            <lb ed="#P" n="91"/>amari; nihilominus propinquioribus 
+            carenti<lb break="no" ed="#P" n="92"/>bus illo bono, posse nos illud practice magis
+            <lb ed="#P" n="93"/>desiderare et procurare, et quoad hoc non 
+            pen<lb break="no" ed="#P" n="94"/>det major amor ex perfectione objecti 
+            secun<lb break="no" ed="#P" n="95"/>dum praesentem statum, sed ex conjunctione,
+            <lb ed="#P" n="96"/>et aliis circumstantiis, ut diximus.
+          </p>
+          <p xml:id="szthvi-b75235-d1e3435">
+            <lb ed="#P" n="97"/>22. Ad confirmationem pro Gabriele.— 
+            Ha<lb break="no" ed="#P" n="98"/>ponitur doctrina quedam D. Thome cui alii
+            <lb ed="#P" n="99"/>consentiwnt. — Unde ad confirmationem, 
+            res<lb break="no" ed="#P" n="100"/>pondetur Deum interdum velle, me magis 
+            di<lb break="no" ed="#P" n="101"/>ligere aliquem, quem ipse minus diligit, ut
+            <lb ed="#P" n="102"/>patet in dilectione mei. Et praeterea, licet 
+            se<lb break="no" ed="#P" n="103"/>cundum praesentem justitiam extraneus justus
+            <lb ed="#P" n="104"/>magis diligatur a Deo, tamen secundum 
+            futu<lb break="no" ed="#P" n="105"/>ram ignoratur, et ideo in ordine ad illam 
+            pos<lb break="no" ed="#P" n="106"/>sum, et debeo diligere magis propinquum. 
+            At<lb break="no" ed="#P" n="107"/>que hinc intelligitur solutio quaedam divi 
+            Tho<lb break="no" ed="#P" n="108"/>mae, secunda secundae, quaest. 26, artic. 13;
+            <lb ed="#P" n="109"/>dicit enim hunc ordinem charitatis manere in
+            <lb ed="#P" n="110"/>patria; mutari tamen quoad hoc, quod ibi
+            <pb ed="#P" n="720"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>simpliciter magis diliguntur sanctiores, quam
+            <lb ed="#P" n="2"/>illi qui fuerunt conjunctiores in via. Ratio est,
+            <lb ed="#P" n="3"/>quia tunc cessabit provisio in via necessaria,
+            <lb ed="#P" n="4"/>et subjectio, ratione cujus charitas in via 
+            in<lb break="no" ed="#P" n="5"/>clinabat ad diligendum magis conjunctiores;
+            <lb ed="#P" n="6"/>quod etiam explicatur ex dictis. Nam si in via
+            <lb ed="#P" n="7"/>nulla esset spes de spirituali profectu 
+            propin<lb break="no" ed="#P" n="8"/>quorum, simpliciter essent meliores 
+            praeferen<lb break="no" ed="#P" n="9"/>di, ut dictum est; sed jam ibi cessat omnis
+            <lb ed="#P" n="10"/>spes, et charitas est in termino; ergo. 
+            Confir<lb break="no" ed="#P" n="11"/>matur, quia etiam tunc vinculum charitatis
+            <lb ed="#P" n="12"/>est summe perfectum, et prorsus immobile;
+            <lb ed="#P" n="13"/>et cum divo Thoma in hoc sentiunt Albertus,
+            <lb ed="#P" n="14"/>in 3, distinct..29, ubi Gabriel, dubio 1; 
+            Alen<lb break="no" ed="#P" n="15"/>sis, 3 part., q. 31, art. 2.
+          </p>
+          <p xml:id="szthvi-b75235-d1e3505">
+            <lb ed="#P" n="16"/>23. Contra sentit Durandus.— Ad primum.
+            <lb ed="#P" n="17"/>— Ad secundum. — Ad tertium. — Durandus
+            <lb ed="#P" n="18"/>vero, in tertio, distinct. 31, q. 6, contradicit,
+            <lb ed="#P" n="19"/>sed sine probatione. Pro quo arguitur in hunc
+            <lb ed="#P" n="20"/>modum : una virtus unum habet ordinem ; est
+            <lb ed="#P" n="21"/>autem eadem charitas viae et patriae; ergo
+            <lb ed="#P" n="22"/>nulla est in proposito differentia. Secundo,
+            <lb ed="#P" n="23"/>quia obligatio ad fratrem manet in patria,
+            <lb ed="#P" n="24"/>quia non destruit, sed perficit naturam. 
+            Tan<lb break="no" ed="#P" n="25"/>dem ibi etiam diligit aliquis seipsum magis
+            <lb ed="#P" n="26"/>quam sanctiores, ut fatetur divus Thomas;
+            <lb ed="#P" n="27"/>ergo et sibi conjunctos. ÀAd primum 
+            responde<lb break="no" ed="#P" n="28"/>tur, variato statu, posse variari ordinem in
+            <lb ed="#P" n="29"/>eadem virtute, quia variantur circumstantiae,
+            <lb ed="#P" n="30"/>et consequenter honestas et dictamen rationis,
+            <lb ed="#P" n="31"/>atque adco inclinatio virtutis, quae tamen 
+            mu<lb break="no" ed="#P" n="32"/>tatio non est formalis propric, sed materialis,
+            <lb ed="#P" n="33"/>et ex mutatione in ipsis objectis nascitur. 
+            Un<lb break="no" ed="#P" n="34"/>de ad secundum dico illam obligationem vinci
+            <lb ed="#P" n="35"/>in eo statu a summa conjunctione charitatis,
+            <lb ed="#P" n="36"/>quae non est contraria naturae, sed superat
+            <lb ed="#P" n="37"/>illam, saltem quando est in statu summe 
+            per<lb break="no" ed="#P" n="38"/>fecto. Ad ultimum, neganda est consequentia,
+            <lb ed="#P" n="39"/>nam dilectio sui immediate conjungitur cum
+            <lb ed="#P" n="40"/>dilectione Dei, non vero dilectio aliorum,
+            <lb ed="#P" n="41"/>etiamsi conjunct sint. Unde comparando 
+            pro<lb break="no" ed="#P" n="42"/>ximos inter se, illi diliguntur magis qui sunt
+            <lb ed="#P" n="43"/>Deo conjunctiores ; comparando vero illos cum
+            <lb ed="#P" n="44"/>diligente, non ille magis diligitur qui est Deo
+            <lb ed="#P" n="45"/>conjunctior, sed ille cujus amor magis 
+            inse<lb break="no" ed="#P" n="46"/>parabiiiter conjungitur cum Dei amore, et hic
+            <lb ed="#P" n="47"/>est amor sui ipsius. A qua tamen regula 
+            exci<lb break="no" ed="#P" n="48"/>pitur solus Christus Dominus, qui licet 
+            proxi<lb break="no" ed="#P" n="49"/>mus sit, quia est homo, tamen, quia non est
+            <lb ed="#P" n="50"/>purus proximus, sed Deus homo, ideo magis
+            <lb ed="#P" n="51"/>debet diligi quam caeteri; nam Christus 
+            sim<lb break="no" ed="#P" n="52"/>pliciter diligendus est aeque ac Deus; Christus
+            <lb ed="#P" n="53"/>vero, ut homo (id est, vita hominis in Deo),
+            <lb ed="#P" n="54"/>minus quidem diligendus est quam ipse Deus
+            <lb ed="#P" n="55"/>secundum se, tamen magis quam nos ipsi;
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>quia etiam illa vita et illud bonum est infinitae
+            <lb ed="#P" n="57"/>excellentiae et dignitatis, ratione unionis. Item
+            <lb ed="#P" n="58"/>quia jure redemptionis est quasi universale
+            <lb ed="#P" n="59"/>bonum, cui debet homo quidquid est, et a quo
+            <lb ed="#P" n="60"/>suo modo pendet, de qua re in materia de 
+            In<lb break="no" ed="#P" n="61"/>carnatione.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

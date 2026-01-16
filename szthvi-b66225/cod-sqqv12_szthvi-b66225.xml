@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 6</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 6</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="671"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-b66225"><!-- l3-d6 -->
+        <head xml:id="szthvi-b66225-Hd1e101">Disputatio 6</head>
+        <head xml:id="szthvi-b66225-Hd1e103" type="question-title">De peccatis contrariis his praeceptis</head>
+        <p xml:id="szthvi-b66225-d1e106">
+          <lb ed="#P" n="46"/>DISPUTATIO VI.
+          <lb ed="#P" n="47"/>DE PECCATIS CONTRARIIS HIS PRAECEPTIS.
+        </p>
+        <p xml:id="szthvi-b66225-d1e113">
+          <lb ed="#P" n="48"/>Antequam accedamus ad praecepta quae 
+          ver<lb break="no" ed="#P" n="49"/>santur circa actus exteriores, dicemus de 
+          mo<lb break="no" ed="#P" n="50"/>dis quibus interius peccatur contra haec 
+          prae<lb break="no" ed="#P" n="51"/>cepta, quae versantur in actibus internis;
+          <lb ed="#P" n="52"/>contra quae duobus modis in genere peccari
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="53"/>potest, vel omittendo, et de hoc nihil 
+          occur<lb break="no" ed="#P" n="54"/>rit dicendum; supposita enim cognitione 
+          prae<lb break="no" ed="#P" n="55"/>cepti affirmativi, et temporis, ac modi quo
+          <lb ed="#P" n="56"/>obligat, omissio per se solum addit 
+          privatio<lb break="no" ed="#P" n="57"/>nem ; alius modus est committendo, de quo
+          <lb ed="#P" n="58"/>agendum erit.
+        </p>
+        <div xml:id="szthvi-b66225-Dd1e142">
+          <head xml:id="szthvi-b66225-Hd1e144">Sectio 1</head>
+          <head xml:id="szthvi-b66225-Hd1e146" type="question-title">Utrum odium dei sit peccatum omnium maximum</head>
+          <p xml:id="szthvi-b66225-d1e149">
+            <lb ed="#P" n="59"/>SECTIO I.
+            <lb ed="#P" n="60"/>Utrum odium Dei sit peccatum omnium
+            <lb ed="#P" n="61"/>maximum.
+          </p>
+          <p xml:id="szthvi-b66225-d1e158">
+            <lb ed="#P" n="62"/>1. Odium quid sit. — Odium abominationis.
+            <lb ed="#P" n="63"/>— Odium ini nicitie. — Odium, ut a nobis
+            <lb ed="#P" n="64"/>explicari potest, est velle alteri malum, ut
+            <lb ed="#P" n="65"/>malum sit illi; qui actus formaliter magis
+            <lb ed="#P" n="66"/>est desiderium quoddam indicans formaliter
+            <lb ed="#P" n="67"/>odium, quod in quadam aversione voluntatis
+            <lb ed="#P" n="68"/>consistit; sicut enim amor est pondus, vel
+            <lb ed="#P" n="69"/>vinculum cum re amata, ex quo sequitur 
+            de<lb break="no" ed="#P" n="70"/>siderium boni illius, si sit amor benevolentiae,
+            <lb ed="#P" n="71"/>vel desiderium quo appetimus illam rem 
+            no<lb break="no" ed="#P" n="72"/>bis, si sit amor concupiscentiae , ita odium est
+            <lb ed="#P" n="73"/>quidam actus quo aliquis voluntarie 
+            disjun<lb break="no" ed="#P" n="74"/>gitur in affectu amandi; quod dupliciter 
+            con<lb break="no" ed="#P" n="75"/>ungit, vel considerando alium ut habet 
+            ordi<lb break="no" ed="#P" n="76"/>nem ad nos, et est nobis infestus; ex quo
+            <lb ed="#P" n="77"/>sequitur ut desideremus illi malum illud, quod
+            <lb ed="#P" n="78"/>sufficiens est ut illum a nobis separemus. et
+            <lb ed="#P" n="79"/>hoc odium pertinet ad concupiscentiam, et
+            <lb ed="#P" n="80"/>solet dici abominationis; aliquando contingit
+            <lb ed="#P" n="81"/>voluntatem averti ab alio in se, et inde velle
+            <lb ed="#P" n="82"/>illi omne malum simpliciter, et hoc est 
+            pro<lb break="no" ed="#P" n="83"/>prium odium inimicitiae, sed regulariter ducit
+            <lb ed="#P" n="84"/>originem ex priori, juxta illud Sapient. 2:
+            <lb ed="#P" n="85"/>Circumveniamus justum, quoniam contrarius
+            <lb ed="#P" n="86"/>est operibus nostris.
+          </p>
+          <p xml:id="szthvi-b66225-d1e215">
+            <lb ed="#P" n="87"/>2. Objectio. — Solutio. — Dices : 
+            quomo<lb break="no" ed="#P" n="88"/>do voluntas potest velle malum, sub 
+            ratio<lb break="no" ed="#P" n="89"/>ne mali, etiam alteri? Dici posset odisse non
+            <lb ed="#P" n="90"/>esse velle, sed nolle potius; dico tamen etiam
+            <lb ed="#P" n="91"/>odium includere positivam voluntatem, qua
+            <lb ed="#P" n="92"/>appetimus alteri malum; ut autem malum
+            <lb ed="#P" n="93"/>alteri velimus, non oportet in illo quaerere
+            <lb ed="#P" n="94"/>rationem boni, sed potius mali : nam sicut
+            <lb ed="#P" n="95"/>amamus alicui bonum quia bonus est, vel
+            <lb ed="#P" n="96"/>quia ipsum amare bonum est, ita volumus
+            <lb ed="#P" n="97"/>alicui malum, quia malus aliquomodo est. Ex
+            <lb ed="#P" n="98"/>quo recte dixit D. Thomas 2. 2, quaest. 34,
+            <lb ed="#P" n="99"/>art. 1, odium Dei, si solum praecise 
+            conside<lb break="no" ed="#P" n="100"/>retur id quod in Deo est, non esse possibile,
+            <lb ed="#P" n="101"/>ideoque non posse haberi a vidente Deum,
+            <lb ed="#P" n="102"/>quia in Deo secundum se nulla est ratio mali;
+            <lb ed="#P" n="103"/>tamen per relationem ad effectus potest sub
+            <lb ed="#P" n="104"/>aliqua ratione mai apprehendi, scilicet puni-
+            <pb ed="#P" n="672"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>toris, etc. Et sic potest odio haberi vel 
+            abomi<lb break="no" ed="#P" n="2"/>nationis, si quis velit Deum carere potestate
+            <lb ed="#P" n="3"/>puniendi, vel inimicitiae, si quis velit Deum
+            <lb ed="#P" n="4"/>non esse. Addo ulterius, in odio necessarium
+            <lb ed="#P" n="5"/>esse ut saltem ipsum odisse apprehendatur, ut
+            <lb ed="#P" n="6"/>aliquo modo bonum odienti, quia in ipsomet
+            <lb ed="#P" n="7"/>odio includitur positivus appetitus, qui 
+            opor<lb break="no" ed="#P" n="8"/>tet ut sit sub aliqua ratione boni; et hinc fit
+            <lb ed="#P" n="9"/>ut qui videt Deum, etsi videret aliquo 
+            tem<lb break="no" ed="#P" n="10"/>pore sibi Deum aliquid mali facturum, tamen
+            <lb ed="#P" n="11"/>non posse eum odio habere : quia quandiu
+            <lb ed="#P" n="12"/>Deum videt, nec judicare potest eum dignum
+            <lb ed="#P" n="13"/>aliquo odio, neque sibi esse bonum, Deum 
+            su<lb break="no" ed="#P" n="14"/>besse alicui malo; neque denique tunc esse
+            <lb ed="#P" n="15"/>sibi bonum talem actum odii elicere.
+          </p>
+          <p xml:id="szthvi-b66225-d1e294">
+            <lb ed="#P" n="16"/>3. Prima conclusio de fide. — Secunda
+            <lb ed="#P" n="17"/>communis. — Dico primo: hoc odium 
+            pecca<lb break="no" ed="#P" n="18"/>tum est ex genere suo mortale. Est de fide,
+            <lb ed="#P" n="19"/>Numer. 10: Dissipentur inimici tui et fugiant
+            <lb ed="#P" n="20"/>qui oderunt te; et Deuteron. 32: His qui 
+            ode<lb break="no" ed="#P" n="21"/>runt me retribuam ; item Joannis, 15 : 
+            Odo<lb break="no" ed="#P" n="22"/>runt me, et Patrem mewn. Dico secundo: hoc
+            <lb ed="#P" n="23"/>odium ex genere suo maximum est omnium
+            <lb ed="#P" n="24"/>peccatorum. Est communis, primo, quia est
+            <lb ed="#P" n="25"/>contra maximam virtutem, et praeceptum.
+            <lb ed="#P" n="26"/>Secundo, alia peccata mortalia sunt, quia hoc
+            <lb ed="#P" n="27"/>participant, ut constat ex 1. 2. Nam ratio 
+            pec<lb break="no" ed="#P" n="28"/>cati imortalis consistit in aversione a Deo,
+            <lb ed="#P" n="29"/>quod in aliis est indirecte; in hoc autem 
+            di<lb break="no" ed="#P" n="30"/>recte. Dico ex genere, quia in individuo, 
+            pro<lb break="no" ed="#P" n="31"/>pter circumstantias, alia peccata possunt esse
+            <lb ed="#P" n="32"/>graviora, et in ipso odio Dei potest unum esse
+            <lb ed="#P" n="33"/>majus alio; odium enim inimicitiae 
+            simplici<lb break="no" ed="#P" n="34"/>ter majus est odio abominationis tantum,
+            <lb ed="#P" n="35"/>quamvis hoc odium semper includat virtute
+            <lb ed="#P" n="36"/>aliud respectu Dei, quia nullum vel minimum
+            <lb ed="#P" n="37"/>malum potest esse in Deo, quin omnino 
+            des<lb break="no" ed="#P" n="38"/>trueretur Deus.
+          </p>
+          <p xml:id="szthvi-b66225-d1e346">
+            <lb ed="#P" n="39"/>4. Objectio. — Solutio. — Sed contra:
+            <lb ed="#P" n="40"/>odium Dei oritur ex amore sui; ergo majus
+            <lb ed="#P" n="41"/>peccatum erit ille amor, cum sit radix. Ad
+            <lb ed="#P" n="42"/>haec, hoc peccatum unam tantum habet 
+            mali<lb break="no" ed="#P" n="43"/>tiam, scilicet, directae aversionis; aliud duas,
+            <lb ed="#P" n="44"/>aversionis et conversionis. Hespondetur in
+            <lb ed="#P" n="45"/>moralibus saepe effectum esse gravius 
+            pecca<lb break="no" ed="#P" n="46"/>tum, quam causam ex qua oritur, per se 
+            con<lb break="no" ed="#P" n="47"/>sideratam ; ut cum quis interficit ut furetur,
+            <lb ed="#P" n="48"/>gravius peccatum est homicidium quam 
+            fur<lb break="no" ed="#P" n="49"/>tum ; dico autem per se, quia si consideretur
+            <lb ed="#P" n="50"/>ut causa, induit inalitiam effectus : sic ergoin
+            <lb ed="#P" n="51"/>proposito, ille amor ex quo nasci potest odium
+            <lb ed="#P" n="52"/>Dei, per se non est tam malum, sicut ipsum
+            <lb ed="#P" n="53"/>odium, etsi ex libertate voluntatis inducat
+            <lb ed="#P" n="54"/>ad pessimum effectum, cujus malitiam proinde
+            <lb ed="#P" n="55"/>participat. Ad confirmationem, primum haec
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>malitia directae aversionis per se superat duas
+            <lb ed="#P" n="57"/>alias simul sumptas. Deinde sicut in aliis 
+            pec<lb break="no" ed="#P" n="58"/>catis est directe malitia conversionis, et 
+            indi<lb break="no" ed="#P" n="59"/>recte aversionis, ita, e contrario, in hoc est
+            <lb ed="#P" n="60"/>directe malitia aversionis, indirecte vero 
+            con<lb break="no" ed="#P" n="61"/>versionis, nempe illius boni commutabilis, ex
+            <lb ed="#P" n="62"/>quo tale odium nascitur, et ideo tale peccatum
+            <lb ed="#P" n="63"/>est omnium maximum ex genere suo.
+          </p>
+        </div>
+        <div xml:id="szthvi-b66225-Dd1e407">
+          <head xml:id="szthvi-b66225-Hd1e409">Sectio 2</head>
+          <head xml:id="szthvi-b66225-Hd1e411" type="question-title">Quale peccatum sit odium proximi</head>
+          <p xml:id="szthvi-b66225-d1e414">
+            <lb ed="#P" n="64"/>SECTIO II.
+            <lb ed="#P" n="65"/>Quale peccatum sit odium proximi.
+          </p>
+          <p xml:id="szthvi-b66225-d1e421">
+            <lb ed="#P" n="66"/>1. Prima conclusio. — Secunda. — Tertia.
+            <lb ed="#P" n="67"/>— Quarta. — Dico primo: est peccatum 
+            mor<lb break="no" ed="#P" n="68"/>tale suo genere; patet ex dictis disputatione
+            <lb ed="#P" n="69"/>praecedenti. Dico secundo : hoc peccatum 
+            spe<lb break="no" ed="#P" n="70"/>ciale est distinctum a caeteris; tum quia 
+            oppo<lb break="no" ed="#P" n="71"/>nitur singulari virtuti et praecepto; tum quia
+            <lb ed="#P" n="72"/>odium Dei est speciale peccatum: ergo et hoc.
+            <lb ed="#P" n="73"/>Dico tertio : hoc peccatum genere suo est
+            <lb ed="#P" n="74"/>maximum eorum quae sunt contra proximum.
+            <lb ed="#P" n="75"/>Ita D. Thomas 2. 2, quaest. 34, articulo quarto,
+            <lb ed="#P" n="76"/>et expositores ibi. Ratio es!, quia avertit 
+            or<lb break="no" ed="#P" n="77"/>nino et directe voluntatem a proximo; unde
+            <lb ed="#P" n="78"/>ita se habet ad caetera peccata in proximum,
+            <lb ed="#P" n="79"/>sicut odium Dei ad caetera peccata in Deum;
+            <lb ed="#P" n="80"/>quare utriusque est eadem ratio. Dico quarto:
+            <lb ed="#P" n="81"/>nihilominus odium proximi non ponitur 
+            vi<lb break="no" ed="#P" n="82"/>tium capitale: sic resolvit idem D. Thomas in
+            <lb ed="#P" n="83"/>art. 5. Ratio est, quia capitaie vitium dicitur,
+            <lb ed="#P" n="84"/>quod frequenter est radix aliorum; non est
+            <lb ed="#P" n="85"/>autem hujusmodi hoc odium, sed potius est
+            <lb ed="#P" n="86"/>quasi extremum malum ex aliis ortum; sed
+            <lb ed="#P" n="87"/>jam generato, multa ex eo procedunt : oritur
+            <lb ed="#P" n="88"/>autem hoc vitium interdum ex ira, interdum
+            <lb ed="#P" n="89"/>ex concupiscentia; sed praecipue, ut advertit
+            <lb ed="#P" n="90"/>divus Thomas 2. 2,.quaestione 34, articulo 6,
+            <lb ed="#P" n="91"/>oritur ex invidia, quae maxime est affinis odio,
+            <lb ed="#P" n="92"/>nam est tristitia de bono proximi; velle autem
+            <lb ed="#P" n="93"/>malum et tristari de bono sunt valde 
+            con<lb break="no" ed="#P" n="94"/>juncta. Dices, potius ex odio oriri invidiam;
+            <lb ed="#P" n="95"/>nam tristitia de bono alieno supponit odium.
+            <lb ed="#P" n="96"/>Respondetur invidiam, seu tristitiam illam
+            <lb ed="#P" n="97"/>oriri ex odio illius mali, quo quis censet se
+            <lb ed="#P" n="98"/>affici ex excellentia proximi, non tamen ex
+            <lb ed="#P" n="99"/>odio ipsius proximi.
+          </p>
+          <p xml:id="szthvi-b66225-d1e497">
+            <lb ed="#P" n="100"/>2. Dubium primum : utrum odium proximi
+            <lb ed="#P" n="101"/>sit praeceptum unius speciei. —Sed supersunt
+            <lb ed="#P" n="102"/>nonnulla dubia explicanda. Primum est, an
+            <lb ed="#P" n="103"/>hoc odium sit peccatum unius speciei vel 
+            plu<lb break="no" ed="#P" n="104"/>rium. Respondetur , quamvis consideratum
+            <lb ed="#P" n="105"/>hoc per modum vitii habitualis possit dici
+            <lb ed="#P" n="106"/>unum, credo tamen continerc sub se multas
+            <lb ed="#P" n="107"/>peccatorum species, idque duobus modis prin-
+            <pb ed="#P" n="673"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>cipalibus, nimirum ex parte motivi, sub quo
+            <lb ed="#P" n="2"/>proximus odio habetur, aut ex parte mali
+            <lb ed="#P" n="3"/>quod illi volumus ; prior modus contingit,
+            <lb ed="#P" n="4"/>quando proximus habetur odio vel per se,
+            <lb ed="#P" n="5"/>aliamve ob causam, quae inter me et ipsum
+            <lb ed="#P" n="6"/>intercessit, vel quia est quid Dei; et haec duo
+            <lb ed="#P" n="7"/>odia videntur habere deformitates specie 
+            dis<lb break="no" ed="#P" n="8"/>tinctas, licet secundum videatur magis esse
+            <lb ed="#P" n="9"/>contra charitatem Dei, quamvis proprie sit
+            <lb ed="#P" n="10"/>contrarium illi actui, quo amatur proximus
+            <lb ed="#P" n="11"/>immediate propter Deum, ac tale viletur 
+            es<lb break="no" ed="#P" n="12"/>se odium quod daemones habent contra 
+            ho<lb break="no" ed="#P" n="13"/>mines. Posteriori modo haec odia differre
+            <lb ed="#P" n="14"/>etiam possunt specifice ; nam, ut ait divus
+            <lb ed="#P" n="15"/>Thomas, secunda secundae, quaest. 30, art. 2,
+            <lb ed="#P" n="16"/>voluntas distinguit pro ratione bonorum 
+            di<lb break="no" ed="#P" n="17"/>versissima mala.
+          </p>
+          <p xml:id="szthvi-b66225-d1e559">
+            <lb ed="#P" n="18"/>3. Contrarium Cajetani placitum. — 
+            Refel<lb break="no" ed="#P" n="19"/>litur. — Respondet Cajetanus oppositum 
+            sen<lb break="no" ed="#P" n="20"/>Uens, illo articulo sexto, in responsione ad
+            <lb ed="#P" n="21"/>ultimum, odium versari circa malum, ut sic,
+            <lb ed="#P" n="22"/>et ideo esse unum; velle autem mala in 
+            parti<lb break="no" ed="#P" n="23"/>culari non esse odii, sed injustitiae, vel 
+            simi<lb break="no" ed="#P" n="24"/>lis vitii. Sed contra. Nam amor non tantum
+            <lb ed="#P" n="25"/>vult bonum in communi, sed descendit ad
+            <lb ed="#P" n="26"/>particularia : oppositorum autem eadem est
+            <lb ed="#P" n="27"/>ratio. Item velle proximo aeternam mortem,
+            <lb ed="#P" n="28"/>est summum odium, et tamen non spectat ad
+            <lb ed="#P" n="29"/>aliquod vitium in particulari. Confirmatur
+            <lb ed="#P" n="30"/>primo : nam velle proximo aeterpbam mortem
+            <lb ed="#P" n="31"/>aut temporalem pcer se videntur habere 
+            defor<lb break="no" ed="#P" n="32"/>mitates diversae rationis: nam per se 
+            pri<lb break="no" ed="#P" n="33"/>vant bonitate diversae rationis. Et confirmatur
+            <lb ed="#P" n="34"/>secundo: nam afficere proximum injuria in
+            <lb ed="#P" n="35"/>vita, vel in fama, sunt peccata specie diversa
+            <lb ed="#P" n="36"/>contra justitiam, propter materiae 
+            diversita<lb break="no" ed="#P" n="37"/>tem ; ergo pari modo efficient diversitatem in
+            <lb ed="#P" n="38"/>odio. Denique, quod ad mores spectat , non
+            <lb ed="#P" n="39"/>dubito quin talis diversitas sit aperienda in
+            <lb ed="#P" n="40"/>confessione. Sed contra, quia D. Thomas 2. 2,
+            <lb ed="#P" n="41"/>quaest. 34, art. 2, dicit omnia mala cadere
+            <lb ed="#P" n="42"/>sub unum vitium odii, sicut omnes colores
+            <lb ed="#P" n="43"/>sub una potentia. Respondetur primo inde
+            <lb ed="#P" n="44"/>non haberi quod Cajetanus intendit, nam 
+            vi<lb break="no" ed="#P" n="45"/>sus non tantum videt colorem sub communi
+            <lb ed="#P" n="46"/>ratione, sed etiam sub ratione albi et nigri,
+            <lb ed="#P" n="47"/>etc. ; ergo similiter. Deinde in hoc solum 
+            po<lb break="no" ed="#P" n="48"/>test haberi, hoc vitium per modum habitus
+            <lb ed="#P" n="49"/>esse unum, non vero in ratione actus.
+          </p>
+          <p xml:id="szthvi-b66225-d1e631">
+            <lb ed="#P" n="50"/>5. Dubium secundum: quomodo 
+            distingua<lb break="no" ed="#P" n="51"/>tur odium ab injustitia interiori, et ab 
+            appe<lb break="no" ed="#P" n="52"/>titu vindictee. — Secundum dubium est, 
+            quo<lb break="no" ed="#P" n="53"/>modo distinguatur hoc vitium ab injustitia 
+            in<lb break="no" ed="#P" n="54"/>teriori, et ab appetitu vindictae. Respondetur
+            <lb ed="#P" n="55"/>odium, ut sic, abstrahere ab omni actione in-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>juriosa, quam respicit voluntas injusta: 
+            ver<lb break="no" ed="#P" n="57"/>bi gratia, qui vult mortem proximi non a se
+            <lb ed="#P" n="58"/>inferendam, sed absolute ut malum ejus, 
+            ha<lb break="no" ed="#P" n="59"/>bet odium ; quando autem vult ipse inferre,
+            <lb ed="#P" n="60"/>est injustitia, quae interdum imperari potest
+            <lb ed="#P" n="61"/>ab alio, quam ab odio ipsius interficientis.
+            <lb ed="#P" n="62"/>Rursus odium appetit malum proximi 
+            simpli<lb break="no" ed="#P" n="63"/>cite, et sine ulla mensura ; at vero vindicta
+            <lb ed="#P" n="64"/>respicit delictum et commensurationem cum
+            <lb ed="#P" n="65"/>illo. Unde appetitus vindictae, ut sic, non est
+            <lb ed="#P" n="66"/>intrinsece malus, si per debita media et 
+            legi<lb break="no" ed="#P" n="67"/>timam potestatem intendatur, quare non 
+            ha<lb break="no" ed="#P" n="68"/>bet malitiam, nisi in injustitiam vel odium 
+            de<lb break="no" ed="#P" n="69"/>clinet, quod facile fit ; odium vero per se et
+            <lb ed="#P" n="70"/>ex objecto habet intrinsecam malitiam.
+          </p>
+          <p xml:id="szthvi-b66225-d1e681">
+            <lb ed="#P" n="71"/>5. Dulium tertium : an odium habeat 
+            ac<lb break="no" ed="#P" n="72"/>tum eateriorem. — Tertium dubium, an hoc
+            <lb ed="#P" n="73"/>vitium habeat actum exteriorem? 
+            Responde<lb break="no" ed="#P" n="74"/>tur illum habere, sicut habet amor; 
+            frequen<lb break="no" ed="#P" n="75"/>ter tamen habet illum conjunctum cum 
+            in<lb break="no" ed="#P" n="76"/>justitia, quia actiones, quibus facimus malum
+            <lb ed="#P" n="77"/>proximo, semper sunt injuriosa ; et si 
+            infe<lb break="no" ed="#P" n="78"/>rantur ex odio, utramque malitiam 
+            partici<lb break="no" ed="#P" n="79"/>pant ; et interdum potest separari ab injuria,
+            <lb ed="#P" n="80"/>ut si quis ex odio scandalizet proximum, aut
+            <lb ed="#P" n="81"/>consulat malum. Et juxta solutionem dubii
+            <lb ed="#P" n="82"/>hujus, puniuntur interdum in jure actiones
+            <lb ed="#P" n="83"/>exteriores ex odio procedentes. Unde cum D.
+            <lb ed="#P" n="84"/>Thomas, quaestione 34, articulo quarto, 
+            indi<lb break="no" ed="#P" n="85"/>cat odium veraari in corde, non omnino 
+            ne<lb break="no" ed="#P" n="86"/>gat actum exteriorem, sed explicat id quod
+            <lb ed="#P" n="87"/>primarium est in hoc vitio.
+          </p>
+        </div>
+        <div xml:id="szthvi-b66225-Dd1e721">
+          <head xml:id="szthvi-b66225-Hd1e723">Sectio 3</head>
+          <head xml:id="szthvi-b66225-Hd1e725" type="question-title">Utrum accidia sit speciale vitium contra charitatem</head>
+          <p xml:id="szthvi-b66225-d1e728">
+            <lb ed="#P" n="88"/>SECTIO III.
+            <lb ed="#P" n="89"/>Utrum accidia sit speciale vitium contra
+            <lb ed="#P" n="90"/>charitatem.
+          </p>
+          <p xml:id="szthvi-b66225-d1e737">
+            <lb ed="#P" n="91"/>1. Accidia quid ? — Prima conclusio. — 
+            Ac<lb break="no" ed="#P" n="92"/>cidia, ut notat Damascenus, libro secundo,
+            <lb ed="#P" n="93"/>capite decimo quarto, significat tristitiam, et
+            <lb ed="#P" n="94"/>communiter sumitur in malam partem, unde
+            <lb ed="#P" n="95"/>est tristitia de bono vero et honesto; et D.
+            <lb ed="#P" n="96"/>Thomas 2. 2, quaestione trigesima quinta,
+            <lb ed="#P" n="97"/>addit esse tristitiam de bono divino. Qua 
+            no<lb break="no" ed="#P" n="98"/>minis significatione posita, dico primo 
+            aeci<lb break="no" ed="#P" n="99"/>diam esse peccatum contra charitatem, et
+            <lb ed="#P" n="100"/>praeceptum ejus. Patet, quia oppositum 
+            gau<lb break="no" ed="#P" n="101"/>dium de bono divino est actus charitatis ;
+            <lb ed="#P" n="102"/>ergo.
+          </p>
+          <p xml:id="szthvi-b66225-d1e766">
+            <lb ed="#P" n="103"/>2. Objectio. — Solutio. — Dices : sicut hoc
+            <lb ed="#P" n="104"/>gaudium non aliter praecipitur quam 
+            praece<lb break="no" ed="#P" n="105"/>pto amoris, nec morahter videtur habere 
+            ho<lb break="no" ed="#P" n="106"/>nestatem distinctam, ita hoc peccatum non
+            <lb ed="#P" n="107"/>erit distinctum ab odio. Propter hoc dico, hoc
+            <pb ed="#P" n="674"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>vitium non esse tristitiam de bono intrinseco,
+            <lb ed="#P" n="2"/>quod Deus in se habet, haec enim revocatur
+            <lb ed="#P" n="3"/>ad odium; sed de bono extrinseco honoris,
+            <lb ed="#P" n="4"/>etc., et hoc non per se in malum Dei, quia
+            <lb ed="#P" n="5"/>hoc etiam esset odium, sed ut praestandum
+            <lb ed="#P" n="6"/>ab eo qui accidia afficitur, quatenus 
+            appre<lb break="no" ed="#P" n="7"/>hendit hoc onerosum sibi. Ita Cajetanus, et
+            <lb ed="#P" n="8"/>sumitur ex Divo Thoma supra, articulo 3, ad
+            <lb ed="#P" n="9"/>secundum , ubi dicit accidiam esse de bono
+            <lb ed="#P" n="10"/>spirituali proprio, propter laborem corporalem
+            <lb ed="#P" n="11"/>adjunctum, quod in idem redit. Confirmatur,
+            <lb ed="#P" n="12"/>nam gaudium charitatis delectatur non solum
+            <lb ed="#P" n="13"/>de bono Dei in se, sed etiam de amicitia 
+            ho<lb break="no" ed="#P" n="14"/>minis cum Deo, et de mutuis officiis quae ex
+            <lb ed="#P" n="15"/>ea nascuntur; ergo tristitia de eadem 
+            ami<lb break="no" ed="#P" n="16"/>citia, quatenus nos obligat ad obsequia Dei,
+            <lb ed="#P" n="17"/>est contraria charitati et praecepto ejus; et haec
+            <lb ed="#P" n="18"/>est accidia : id quod sentit D. Thomas. citata
+            <lb ed="#P" n="19"/>quaest. 35, cum ait accidiam opponi illi 
+            gau<lb break="no" ed="#P" n="20"/>dio charitatis, quod est de bonis divinis, quae
+            <lb ed="#P" n="21"/>communicantur ipsi homini, quatenus 
+            one<lb break="no" ed="#P" n="22"/>rosa apprehenduntur ; et eodem modo 
+            intelli<lb break="no" ed="#P" n="23"/>gendus quaest. 36, art. 4.
+          </p>
+          <p xml:id="szthvi-b66225-d1e835">
+            <lb ed="#P" n="24"/>3. Corollarium primum.— Corollarium 
+            se<lb break="no" ed="#P" n="25"/>cunduin. — Tertium. — Hinc constat hunc
+            <lb ed="#P" n="26"/>actum esse prohibitum praecepto negativo
+            <lb ed="#P" n="27"/>charitatis incluso in affirmativo, quo 
+            praecipi<lb break="no" ed="#P" n="28"/>mur amare Deum, et velle retinere amicitiam
+            <lb ed="#P" n="29"/>cum eo; intelligitur etiam accidiam non sumi
+            <lb ed="#P" n="30"/>hic, prout regulariter significare potest 
+            quam<lb break="no" ed="#P" n="31"/>dam remissionem in omnibus actibus ortam
+            <lb ed="#P" n="32"/>ex quadam tristitia, quae ex difficultate 
+            appre<lb break="no" ed="#P" n="33"/>hensa in quavis virtute oriri potest ; nam illa
+            <lb ed="#P" n="34"/>non est speciale vitium, sed generale, quod
+            <lb ed="#P" n="35"/>per omnia vagatur. Ultimo, intelligitur posse
+            <lb ed="#P" n="36"/>etiam hujusmodi accidiam specialem versari
+            <lb ed="#P" n="37"/>circa proximum , ut si quis doleret de amicitia
+            <lb ed="#P" n="38"/>cum proximis propter obligationes quae inde
+            <lb ed="#P" n="39"/>oriuntur, quamvis hic modus rarussit; et ideo
+            <lb ed="#P" n="40"/>illius fortasse non meminit D. Thomas.
+          </p>
+          <p xml:id="szthvi-b66225-d1e874">
+            <lb ed="#P" n="41"/>4. Secunda conclusio. — Dico secundo hoc
+            <lb ed="#P" n="42"/>peccatum gunere suo esse mortale; est D. 
+            Tho<lb break="no" ed="#P" n="43"/>mae, quaestione 23, art. 3, et aliorum 
+            commu<lb break="no" ed="#P" n="44"/>nis. Patet, quia directe repugnat amicitiae Dei,
+            <lb ed="#P" n="45"/>unde post Dei odium obtinet secundum locum.
+            <lb ed="#P" n="46"/>Saepe tamen est veniale, vel propter 
+            indelibe<lb break="no" ed="#P" n="47"/>rationem, vel certe quia non pervenit ad 
+            tan<lb break="no" ed="#P" n="48"/>tam malitiam, ut absolute fugiat affectu 
+            in<lb break="no" ed="#P" n="49"/>teriori omnino spiritualem communicationem
+            <lb ed="#P" n="50"/>cum Deo, sed sit leve taedium sine periculo
+            <lb ed="#P" n="51"/>transgrediendi grave praeceptum. Quid si 
+            ali<lb break="no" ed="#P" n="52"/>quis haberet deliberatam accidiam non 
+            sim<lb break="no" ed="#P" n="53"/>pliciter beneficii Dei, aut boni spiritualis, sed
+            <lb ed="#P" n="54"/>fortasse destatu perfectionis, ita tamen ut 
+            pa<lb break="no" ed="#P" n="55"/>ratus esset implere quod promisit, et tantum
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>sibi displiceret, ac doleret fecisse 
+            promissio<lb break="no" ed="#P" n="57"/>nem ? Respondetur : non est peccatum 
+            mor<lb break="no" ed="#P" n="58"/>tale per se, quia cum illo actu durat voluntas
+            <lb ed="#P" n="59"/>absoluta divina amicitias, et servandi omnia
+            <lb ed="#P" n="60"/>praecepta ; est tamen ex ohjecto peccatum 
+            ve<lb break="no" ed="#P" n="61"/>niale et grave, et saepe poterit esse mortale,
+            <lb ed="#P" n="62"/>ratione adjuncti periculi.
+          </p>
+          <p xml:id="szthvi-b66225-d1e926">
+            <lb ed="#P" n="63"/>5. Tertia conclusio. — Dico tertio : merito
+            <lb ed="#P" n="64"/>hoc vitium inter septem capitalia numeratur,
+            <lb ed="#P" n="65"/>est enim radix multorum peccatorum ; ita D.
+            <lb ed="#P" n="66"/>Thomas supra, art. 4, et alii communiter.
+            <lb ed="#P" n="67"/>Dices : imo non generatur, nisi post magnam
+            <lb ed="#P" n="68"/>consuetudinem peccandi. Respondetur id 
+            ve<lb break="no" ed="#P" n="69"/>rum esse de accidia consummata et perfecta ;
+            <lb ed="#P" n="70"/>tamen levis quaedam quasi inchoata accidia
+            <lb ed="#P" n="71"/>facillime generatur ; et hoc satis est ad vitium
+            <lb ed="#P" n="72"/>capitale, ut patet in vana gloria. Vide 
+            Grego<lb break="no" ed="#P" n="73"/>rium, lib. 31 Moral., cap. 17, paulo post 
+            me<lb break="no" ed="#P" n="74"/>dium, et Cassian., lib. 10 Institut.
+          </p>
+        </div>
+        <div xml:id="szthvi-b66225-Dd1e956">
+          <head xml:id="szthvi-b66225-Hd1e958">Sectio 4</head>
+          <head xml:id="szthvi-b66225-Hd1e960" type="question-title">Utrum invidia, emulatio et nemesis sint vitia contraria dilectioni proximi</head>
+          <p xml:id="szthvi-b66225-d1e963">
+            <lb ed="#P" n="75"/>SECTIO IV.
+            <lb ed="#P" n="76"/>Utrum invidia, emulatio et nemesis sint vitia
+            <lb ed="#P" n="77"/>contraria dilectioni proximi.
+          </p>
+          <p xml:id="szthvi-b66225-d1e972">
+            <lb ed="#P" n="78"/>1. Primus modus tristitie, emulatio. —
+            <lb ed="#P" n="79"/>Tristitia de bono proximi varia et multiplex
+            <lb ed="#P" n="80"/>est : alia orta ex odio, alia ex appetitu 
+            vindi<lb break="no" ed="#P" n="81"/>ctae, alia ex eo quod bona proximi vel mihi vel
+            <lb ed="#P" n="82"/>aliis nocent; et de harum honestate et 
+            turpi<lb break="no" ed="#P" n="83"/>tudine satis patet ex dictis. Praeter hos modos,
+            <lb ed="#P" n="84"/>invenitur triplex modus tristitiae de bonis 
+            pro<lb break="no" ed="#P" n="85"/>ximi. Primus est, quando quis tristatur de 
+            bo<lb break="no" ed="#P" n="86"/>no alterius, quia ipse caret illo, et haec est
+            <lb ed="#P" n="87"/>aemulatio, ex Aristotele, secundo Rhetor., cap.
+            <lb ed="#P" n="88"/>11. Et de hac dicendum est primo, non esse
+            <lb ed="#P" n="89"/>intrinsece malam, quia ratio ejus non est
+            <lb ed="#P" n="90"/>aliena commoditas, sed est proprie carentia.
+            <lb ed="#P" n="91"/>Solum est advertendum hanc proprie habere
+            <lb ed="#P" n="92"/>locum in bonis externis, quae minuuntur in
+            <lb ed="#P" n="93"/>uno, cum augentur in alio; et ideo, sicut 
+            appe<lb break="no" ed="#P" n="94"/>titus horum bonorum non est per se malus,
+            <lb ed="#P" n="95"/>ita neque tristitia de eorum carentia; atque
+            <lb ed="#P" n="96"/>adeo neque haec aemulatio, quamvis sine dubio
+            <lb ed="#P" n="97"/>malam habeat speciem. In bonis autem 
+            spiri<lb break="no" ed="#P" n="98"/>tualibus, quae omnibus possunt esse communia,
+            <lb ed="#P" n="99"/>illa aemulatio potest esse bona, quia est 
+            prae<lb break="no" ed="#P" n="100"/>cipue de propria imperfectione ad aliorum
+            <lb ed="#P" n="101"/>perfectionem comparata ; nam de ipsa 
+            perfe<lb break="no" ed="#P" n="102"/>ctione nunquam potest esse bona tristitia. Vide
+            <lb ed="#P" n="103"/>Hieronymum, ad Galat. 5; et Cajetanum, verbo
+            <lb ed="#P" n="104"/>4Emnulatio.
+          </p>
+          <p xml:id="szthvi-b66225-d1e1033">
+            <lb ed="#P" n="105"/>2. Secundus modus, nemesis. — D. Thomas
+            <lb ed="#P" n="106"/>negat. — Aliorum opinio affirmat. — Prima
+            <lb ed="#P" n="107"/>ratio hujus opinionis. — Secunda. — Judicium
+            <pb ed="#P" n="675"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>auctoris. — Secundo, potest esse tristitia de
+            <lb ed="#P" n="2"/>bono alicujus, solum quia est indignus illo,
+            <lb ed="#P" n="3"/>quam supra Aristoteles vocavit nemesim ; et
+            <lb ed="#P" n="4"/>de hactristitia, controversum est an sit honesta
+            <lb ed="#P" n="5"/>necne. Nam D. Thomas, quaest. 36, art. 2,
+            <lb ed="#P" n="6"/>sentit esse prohibitam et malam : primo, quia
+            <lb ed="#P" n="7"/>in Scriptura reprehenditur, Psalm. 36: Noli
+            <lb ed="#P" n="8"/>amulari in malignantibus. Secundo, quia haec
+            <lb ed="#P" n="9"/>temporalia bona, de quibus maxime potest
+            <lb ed="#P" n="10"/>esse tristitia. sunt quasi nihil comparatione
+            <lb ed="#P" n="11"/>eeternorum. Tertio, quia dantur ex Dei 
+            provi<lb break="no" ed="#P" n="12"/>dentia, cui videtur derogare haec tristitia. In
+            <lb ed="#P" n="13"/>contrarium vero est, quia Aristoteles, capite
+            <lb ed="#P" n="14"/>illo 11, libro secundo Rhetor., vocat hanc 
+            tri<lb break="no" ed="#P" n="15"/>stiuam justam, et rationi consonam. Et 
+            Caje<lb break="no" ed="#P" n="16"/>tanus, in illo art. 2, ait se non videre in hoc
+            <lb ed="#P" n="17"/>actu rationem peccati. Et favet D. Thomas,
+            <lb ed="#P" n="18"/>quaest. illa 36, art. 3, ad 2, et art. 4 Ad haec,
+            <lb ed="#P" n="19"/>consentaneum est rationi velle dignis justa
+            <lb ed="#P" n="20"/>praemia ; ergo nolle indignis; ergo tristari si
+            <lb ed="#P" n="21"/>illa accipiant; haec enim mutuo se 
+            consequun<lb break="no" ed="#P" n="22"/>tur. Securdo, quia quae D. Thomas adducit
+            <lb ed="#P" n="23"/>non urgent; Scriptura enim non simphrciter
+            <lb ed="#P" n="24"/>damnat hanc tristitiam, sed prohibet ne 
+            occa<lb break="no" ed="#P" n="25"/>sione ejus moveamur ad imitandum inimicos,
+            <lb ed="#P" n="26"/>juxta illud ejusdem Psalmi : Noli emular, ut
+            <lb ed="#P" n="27"/>maligneris. Damnatur etiam haec indignatio, si
+            <lb ed="#P" n="28"/>referatur ad divinam providentiam, quod 
+            ta<lb break="no" ed="#P" n="29"/>men non semper videtur verum. Nam sicut
+            <lb ed="#P" n="30"/>fas est dolere de poenis justorum, et in hoc non
+            <lb ed="#P" n="31"/>fit injuria divina providentiae, ita similiter in
+            <lb ed="#P" n="32"/>proposito. Et ratio est, quia non semper 
+            tene<lb break="no" ed="#P" n="33"/>mur conformari divinae providentiae in volito
+            <lb ed="#P" n="34"/>materiali. Quo exemplo etiam apparet nihil
+            <lb ed="#P" n="35"/>referre ut temporalia bona non sint magni
+            <lb ed="#P" n="36"/>momenti, quia saltem aliquid boni habent, 
+            si<lb break="no" ed="#P" n="37"/>cut eorum contraria habent aliquid mali; qua
+            <lb ed="#P" n="38"/>ratione licet tristari de illis, si accidant justis
+            <lb ed="#P" n="39"/>hominibus. Et eadem ratione licet tristari de
+            <lb ed="#P" n="40"/>prosperitate malorum, si sit injuriosa bonis et
+            <lb ed="#P" n="41"/>justis. Circa hoc respondetur, in illo objecto
+            <lb ed="#P" n="42"/>duo posse considerari, et materiale objectum,
+            <lb ed="#P" n="43"/>scilicet indignum prosperari, et rationem 
+            do<lb break="no" ed="#P" n="44"/>lendi de hoc objecto. Si materiale ohjectum
+            <lb ed="#P" n="45"/>spectemus, non dubium est cuin sub aliqua
+            <lb ed="#P" n="46"/>ratione honesta possit de illo esse tristitia, ut
+            <lb ed="#P" n="47"/>est illa ratio quam modo dicebamus, nempe si
+            <lb ed="#P" n="48"/>inde sequitur detrimentum aliorum 
+            proximo<lb break="no" ed="#P" n="49"/>rum. lItem certum est circa idem objectum
+            <lb ed="#P" n="50"/>posse versari tristitiam pravam ex motivo
+            <lb ed="#P" n="51"/>extrinseco, ut ex odio. Difficultas vero est, si
+            <lb ed="#P" n="52"/>ratio talis tristitiae sit sola iudignitas proximi.
+          </p>
+          <p xml:id="szthvi-b66225-d1e1160">
+            <lb ed="#P" n="53"/>2. Secunda conclusio circa secundum modum
+            <lb ed="#P" n="54"/>tristitie.— Dico secundo indignitatem proximi
+            <lb ed="#P" n="55"/>non esse sufticientem ad dolendum de bono il-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>lius. Primo, quia tristitia de aliquo bono non
+            <lb ed="#P" n="57"/>potest esse per se honesta, nisi objectum illud
+            <lb ed="#P" n="58"/>sit per se malum. Nam sicut nihil honeste 
+            ama<lb break="no" ed="#P" n="59"/>tur propter se, nisi honestum, ita neque e
+            <lb ed="#P" n="60"/>contrario ; sed indignum hominem habere 
+            bo<lb break="no" ed="#P" n="61"/>na temporalia, non est per se malum. Secundo,
+            <lb ed="#P" n="62"/>quia non licet hujusmodi proximo velle 
+            ma<lb break="no" ed="#P" n="63"/>lum, nec dolere de illius bono; nam ejusdem
+            <lb ed="#P" n="64"/>rationis haec sunt. Tertio, si aliqua ratio 
+            hone<lb break="no" ed="#P" n="65"/>sti hic esse potest, maxime justitiae vindic. tivae
+            <lb ed="#P" n="66"/>ratio, vel distributivae, ut Aristoteles insinuat.
+            <lb ed="#P" n="67"/>Sed haec ratio derogaret providentiae Dei, nam
+            <lb ed="#P" n="68"/>poneret in illo quamdam injustitiam, cum 
+            ta<lb break="no" ed="#P" n="69"/>men Deus, in temporalium bonorum et 
+            malo<lb break="no" ed="#P" n="70"/>rum distributione, non semper servet justitiae
+            <lb ed="#P" n="71"/>distributivae rationem ; quia haec sunt infima
+            <lb ed="#P" n="72"/>bona, quae saepe dantur in praemium alicujus
+            <lb ed="#P" n="73"/>operis boni, si quid tale est in hujusmodi 
+            ho<lb break="no" ed="#P" n="74"/>minibus, vel ut sint instrumenta motiva 
+            vir<lb break="no" ed="#P" n="75"/>tutum, vel propter aliqua alia occulta judicia
+            <lb ed="#P" n="76"/>Del; et similiter Deus in hac vita non punit
+            <lb ed="#P" n="77"/>peccata, neque his bonis praemiat bona opera
+            <lb ed="#P" n="78"/>justorum ; ergo non est ulla honesta ratio ad
+            <lb ed="#P" n="79"/>hujusmodi tristitiam. Dices: Quam malitiam
+            <lb ed="#P" n="80"/>habet, et contra quam virtutem? Respondetur
+            <lb ed="#P" n="81"/>participare malitiam odii proximi, et 
+            inter<lb break="no" ed="#P" n="82"/>dum malitiam affectus nimii erga temporalia;
+            <lb ed="#P" n="83"/>si tamen non perveniat ad absolutum odium
+            <lb ed="#P" n="84"/>proximi, neque sit contra providentiam Dei,
+            <lb ed="#P" n="85"/>raro erit peccatum mortale.
+          </p>
+          <p xml:id="szthvi-b66225-d1e1236">
+            <lb ed="#P" n="86"/>4. Tertius modus tristitie, invidia. — 
+            Ter<lb break="no" ed="#P" n="87"/>tia tristitia potest esse de bono proximi, solo
+            <lb ed="#P" n="88"/>hoc titulo, quod illius excellentia deprimit
+            <lb ed="#P" n="89"/>meam ; et haec est propria invidia, quae non
+            <lb ed="#P" n="90"/>dolet de excellentia proximi, quia propter 
+            il<lb break="no" ed="#P" n="91"/>lam ego aliquo bono caream, sed solum quia
+            <lb ed="#P" n="92"/>obscurat meam pertectionem; et ideo dixerunt
+            <lb ed="#P" n="93"/>Aristoteles, et divus Thomas secunda secundae,
+            <lb ed="#P" n="94"/>quaestione trigesima sexta, articulo primo, ad
+            <lb ed="#P" n="95"/>secundum, invidiam non esse inter multum
+            <lb ed="#P" n="96"/>dispares, sed fundari in aequalitate quadam,
+            <lb ed="#P" n="97"/>quia quando personae sunt diversorum 
+            gra<lb break="no" ed="#P" n="98"/>duum, excellentia unius non apprehenditur, ut
+            <lb ed="#P" n="99"/>deprimens excellentiam alterius ; quod facile
+            <lb ed="#P" n="100"/>tamen accidit inter aequales. Et hinc etiam fit
+            <lb ed="#P" n="101"/>invidiam oriri ex pusillanimitate conjuncta
+            <lb ed="#P" n="102"/>cum superbia ; superbia enim effticit appetitum
+            <lb ed="#P" n="103"/>inordinatum excellentia ; pusillanimitas vero
+            <lb ed="#P" n="104"/>facit ut excellentia alterius apprehendatur ut
+            <lb ed="#P" n="105"/>nimium excedens, vel quae habeatur in magna
+            <lb ed="#P" n="106"/>sestimatione.
+          </p>
+          <p xml:id="szthvi-b66225-d1e1284">
+            <lb ed="#P" n="107"/>5. Tertia conclusio circa invidiam. — Et
+            <lb ed="#P" n="108"/>de hac dico tertio esse peccatum genere suo
+            <lb ed="#P" n="109"/>mortale et capitale, charitati proximi 
+            contra<lb break="no" ed="#P" n="110"/>rium. Prima pars patet, quia illa tristitia non
+            <pb ed="#P" n="676"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>oritur ex aliqua ratione honesti, sed ex 
+            inordi<lb break="no" ed="#P" n="2"/>nato appetitu excellentiae. Secunda etiam pars
+            <lb ed="#P" n="3"/>patet, quia hoc est vitium valde humanum,
+            <lb ed="#P" n="4"/>multorumque radix. Quaeres an sit peccatum
+            <lb ed="#P" n="5"/>unius speciei, vel plurium. Respondetur posse
+            <lb ed="#P" n="6"/>esse plurium, sicut de odio dixi ; nam sine 
+            du<lb break="no" ed="#P" n="7"/>bio multo alterius rationis est invidia, si sit de
+            <lb ed="#P" n="8"/>spiritualibus bonis, quam si de temporalibus.
+            <lb ed="#P" n="9"/>Tertia denique pars patet, quia ex genere suo
+            <lb ed="#P" n="10"/>peccatum hoc est contrarium praecepto 
+            cha<lb break="no" ed="#P" n="11"/>ritatis, licet oriatur ex pusillanimitate. Saepe
+            <lb ed="#P" n="12"/>enim accidit unum vitium oriri ex vitio 
+            con<lb break="no" ed="#P" n="13"/>trario uni virtuti, et tamen ipsum esse 
+            contra<lb break="no" ed="#P" n="14"/>rium alteri virtuti ; deinde hoc peccatum facile
+            <lb ed="#P" n="15"/>inducit ad directum odium proximi ; ergo inde
+            <lb ed="#P" n="16"/>facile malitiam induet.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 3</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 3</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="650"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-b60777"><!-- l3-d3 -->
+        <head xml:id="szthvi-b60777-Hd1e101">Disputatio 3</head>
+        <head xml:id="szthvi-b60777-Hd1e103" type="question-title">De habitu charitatis</head>
+        <p xml:id="szthvi-b60777-d1e106">
+          <pb ed="#P" n="650"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>DISPUTATIO III.
+          <lb ed="#P" n="2"/>DE HABITU CHARITATIS.
+        </p>
+        <p xml:id="szthvi-b60777-d1e117">
+          <lb ed="#P" n="3"/>Praecipua charitatis acceptio illa est qua 
+          su<lb break="no" ed="#P" n="4"/>mitur pro habitu, seu virtute, quae ad 
+          aman<lb break="no" ed="#P" n="5"/>dum Deum amore benevolentiae supernaturali
+          <lb ed="#P" n="6"/>inclinat, et quamvis de illa, ut sic, in hac 
+          dispu<lb break="no" ed="#P" n="7"/>tatione sit praesertim agendum, aliqua tamen
+          <lb ed="#P" n="8"/>ad doctrinae complementum de naturali etiam
+          <lb ed="#P" n="9"/>habitu, quo ut auctor natura a creatura 
+          in<lb break="no" ed="#P" n="10"/>tellectuali diligi potest, consequenter sunt 
+          ex<lb break="no" ed="#P" n="11"/>plicanda, aliis hoc loco omissis, de quibus jam
+          <lb ed="#P" n="12"/>late in materia de Gratia.
+        </p>
+        <div xml:id="szthvi-b60777-Dd1e141">
+          <head xml:id="szthvi-b60777-Hd1e143">Sectio 1</head>
+          <head xml:id="szthvi-b60777-Hd1e145" type="question-title">Utrum charitas sit creata virtus in voluntate infusa</head>
+          <p xml:id="szthvi-b60777-d1e148">
+            <lb ed="#P" n="13"/>SECTIO I.
+            <lb ed="#P" n="14"/>Utrum charitas sit creata virtus in voluntate
+            <lb ed="#P" n="15"/>infusa?
+          </p>
+          <p xml:id="szthvi-b60777-d1e157">
+            <lb ed="#P" n="16"/>1. Prima conclusio, de qua vide lib. 6 de
+            <lb ed="#P" n="17"/>Gat., c. 8, n. 9.—Dico primo charitatem esse
+            <lb ed="#P" n="18"/>qualitatem et habitum creatum; loquimur 
+            au<lb break="no" ed="#P" n="19"/>tem de charitate qua Deum diligimus. Est 
+            cer<lb break="no" ed="#P" n="20"/>ta, et vel de fide, vel ita proxima, ut contraria
+            <lb ed="#P" n="21"/>sit erronea, ut constat ex testimoniis 
+            Scriptu<lb break="no" ed="#P" n="22"/>rae, Conciliorum et Patrum adduci solitis 
+            con<lb break="no" ed="#P" n="23"/>tra Magistrum, qui in 1, dist. 17, dixit, 
+            cha<lb break="no" ed="#P" n="24"/>ritatem non aliud esse quam ipsummet 
+            Spiri<lb break="no" ed="#P" n="25"/>tum Sanctum; 1 Cor. 13: Manent fides, spes,
+            <lb ed="#P" n="26"/>charitas, tria haec, etc., ubi charitas, dum 
+            an<lb break="no" ed="#P" n="27"/>numeratur fidei et spei, quas qualitates seu
+            <lb ed="#P" n="28"/>habitus creatos esse nec ipse Magister negat,
+            <lb ed="#P" n="29"/>plane indicatur et ipsa etiam creatum quid
+            <lb ed="#P" n="30"/>esse. Clarius tesiimonium est illud ejusdem
+            <lb ed="#P" n="31"/>Pauli Rom 5: Charitas Dei diffusa est in 
+            cor<lb break="no" ed="#P" n="32"/>dibus nostris per Spiritum Sanctum , ubi satis
+            <lb ed="#P" n="33"/>aperte distinguit charitatem a Spiritu Sancto,
+            <lb ed="#P" n="34"/>tanquam aliquid infusum ab infundente. Post
+            <lb ed="#P" n="35"/>Concilium Arausicanum, can. 4, 6 et 25, 
+            ce<lb break="no" ed="#P" n="36"/>lebre est illud Tridentini, session. 6, cap. 7:
+            <lb ed="#P" n="37"/>Charitas Dei diffunditur in cordibus eorum qui
+            <lb ed="#P" n="38"/>justificantur, el ipsis inheret. kccedunt Patres,
+            <lb ed="#P" n="39"/>Augustinus, lib. de Spiritu et littera, c. 23;
+            <lb ed="#P" n="40"/>Hierony mus, incap. 5, epist. ad Gal. ; 
+            Ambro<lb break="no" ed="#P" n="41"/>sius, lib. 10 epistolarum, 84; Gregorius, lib. 1
+            <lb ed="#P" n="42"/>Moralium, cap. 28. Ratio denique est, quia,
+            <lb ed="#P" n="43"/>cum actus charitatis a nobis eliciantur, 
+            ha<lb break="no" ed="#P" n="44"/>bere debent in nobis principium intrinsecum
+            <lb ed="#P" n="45"/>sibi accommodatum; illud autem est aliqua
+            <lb ed="#P" n="46"/>qualitas, et habitus in nobis inhaerens.
+          </p>
+          <p xml:id="szthvi-b60777-d1e227">
+            <lb ed="#P" n="47"/>2. Secunda conclusio. — Dubium incidens
+            <lb ed="#P" n="48"/>resolvitur. —Dico secundo: hic habitus est vir-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="49"/>tus supernaturalis voluntati infusa. Quae 
+            om<lb break="no" ed="#P" n="50"/>nia satis constant ex materia de gratia !. Sed
+            <lb ed="#P" n="51"/>quaeres an in appetitu sentiente sit aliquis
+            <lb ed="#P" n="52"/>habitus charitatis, suo modo adjunctus illi qui
+            <lb ed="#P" n="53"/>est in voluntate. Respondetur infusum non 
+            es<lb break="no" ed="#P" n="54"/>se, quia appetitus sensitivus non potest efficere
+            <lb ed="#P" n="55"/>actus supernaturales, et praecipue erga Deum;
+            <lb ed="#P" n="56"/>tamen quando voluntas amat, vel delectatur
+            <lb ed="#P" n="57"/>in Deo, potest aliquo modo appetitus 
+            coopera<lb break="no" ed="#P" n="58"/>ri, saltem per actus naturales, quibus 
+            genera<lb break="no" ed="#P" n="59"/>ri potest aliquis habitus; nam potest exercere
+            <lb ed="#P" n="60"/>actus amoris vel gaudii circa Deum suo modo
+            <lb ed="#P" n="61"/>sensibiliter apprehensum, juxta illud Davidis:
+            <lb ed="#P" n="62"/>Cor mewm , et caro mea exultaverunt in Dewm 
+            vi<lb break="no" ed="#P" n="63"/>vum, teste D. Thoma, 1. 2, q. 30, art. 1, ad 1,
+            <lb ed="#P" n="64"/>et 3 p., q. 18, art. 2, ad 1, et q. 85, a. 1. (Vide
+            <lb ed="#P" n="65"/>in tom. 1 de Poen., disp. 3, sect. 3. n. 4)
+          </p>
+          <p xml:id="szthvi-b60777-d1e274">
+            <lb ed="#P" n="66"/>3. Tertia conclusio, de qua D. Thomas2. 2
+            <lb ed="#P" n="67"/>q.23, art. 0, et ibi interpretes. — Dico 
+            ter<lb break="no" ed="#P" n="68"/>tio : charitas est virtus omnium, quae homini
+            <lb ed="#P" n="69"/>in hac vita infunduntur, perfectissima. Est
+            <lb ed="#P" n="70"/>certa, et constat primo ex Scriptura, Matt. 22,
+            <lb ed="#P" n="71"/>ubi Christus, loquens de praecepto charitatis,
+            <lb ed="#P" n="72"/>ait : Hoc est primum, et maximum mandatum ;
+            <lb ed="#P" n="73"/>et 1 Cor. 13: Major autem horwm est 
+            chari<lb break="no" ed="#P" n="74"/>tas ; et ad Coloss. 3: Super omnia charitatem
+            <lb ed="#P" n="75"/>habete, quod est vinculum perfectionis. kt idem
+            <lb ed="#P" n="76"/>Paulus, 1 ad Cor. 12, locuturus de charitate :
+            <lb ed="#P" n="77"/>Adhuc, inquit , excellentiorem viam vobis 
+            de<lb break="no" ed="#P" n="78"/>monstro. Constat secundo ex Patribus, 
+            Au<lb break="no" ed="#P" n="79"/>gustino, l. 15 de Civit., c. 18, et serm. 1 in Ps.
+            <lb ed="#P" n="80"/>113; Leone Papa, serm. de S. Laurentio;
+            <lb ed="#P" n="81"/>Ambrosio, epist. 74; Hieronymo, in c.5 ad
+            <lb ed="#P" n="82"/>Galat., et aliis passim loquentibus de 
+            excel<lb break="no" ed="#P" n="83"/>lentia charitatis inter caeteras virtutes ac 
+            divi<lb break="no" ed="#P" n="84"/>na dona; et quidem si loquamur de moralibus
+            <lb ed="#P" n="85"/>omnibus, sine controversia excedit charitas,
+            <lb ed="#P" n="86"/>cum sit Theologica ; quod si maxime praestat
+            <lb ed="#P" n="87"/>fortitudo ob martyrium, ejus excellentia 
+            ma<lb break="no" ed="#P" n="88"/>nat a charitate. Si vero comparetur cum 
+            vir<lb break="no" ed="#P" n="89"/>tutibus Theologicis, etiam idem constat; et
+            <lb ed="#P" n="90"/>primo de spe, cum perfectiori modo tendat
+            <lb ed="#P" n="91"/>in objectum, scilicet in se, et propter se ; spes
+            <lb ed="#P" n="92"/>vero fundatur in amore concupiscentiae ; de
+            <lb ed="#P" n="93"/>fide etiam probatur, omissis testimoniis 
+            Scri<lb break="no" ed="#P" n="94"/>pturae et Patrum, quia charitas perfectiori 
+            mo<lb break="no" ed="#P" n="95"/>do attingit Deum quam fides : nam tendit in
+            <lb ed="#P" n="96"/>Deum. prout in se est ; fides vero, prout in
+            <lb ed="#P" n="97"/>nobis est. Oppositum sentiunt Lutherani ob
+            <lb ed="#P" n="98"/>praeclaros quosdam effectus, qui tribuuntur
+            <lb ed="#P" n="99"/>fidei in sacra Scriptura et Patribus; sed haec
+            <lb ed="#P" n="100"/>omnia tribuuntur fidei tanquam radici et 
+            fun<lb break="no" ed="#P" n="101"/>damento, ut patet ex Tridentino, sess. 6, c. 8,
+            <pb ed="#P" n="651"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>et ex dictis in materia de gratia. (Vide lib. 8
+            <lb ed="#P" n="2"/>de Grat., c. 17 et 21)
+          </p>
+          <p xml:id="szthvi-b60777-d1e363">
+            <lb ed="#P" n="3"/>4. Objectio. — Quorumdam solutio 
+            obser<lb break="no" ed="#P" n="4"/>vanda.— Vera solutio.—Sed superest 
+            argu<lb break="no" ed="#P" n="5"/>mentum. Nam virtutes intellectus sunt 
+            per<lb break="no" ed="#P" n="6"/>fectiores virtutibus voluntatis, cum 
+            intellec<lb break="no" ed="#P" n="7"/>tus sit perfectior. Unde prudentia excellit 
+            in<lb break="no" ed="#P" n="8"/>ter virtutes morales, et lumen gloriae est 
+            ex<lb break="no" ed="#P" n="9"/>cellentius charitate; propterea quidam dicunt
+            <lb ed="#P" n="10"/>fidem in substantia et entitate praestare 
+            cha<lb break="no" ed="#P" n="11"/>ritati, charitatem vero excellere in esse moris,
+            <lb ed="#P" n="12"/>sicut docet D. Thomas intellectuales virtutes
+            <lb ed="#P" n="13"/>acquisitas esse nobiliores in genere entis,
+            <lb ed="#P" n="14"/>quamvis in genere moris et virtutis excellant
+            <lb ed="#P" n="15"/>virtutes morales : sed erraut. Et sane ratio
+            <lb ed="#P" n="16"/>sumpta ex objecto manifeste id docet. Ad 
+            ar<lb break="no" ed="#P" n="17"/>gumentum igitur, respondeo virtutes 
+            intellec<lb break="no" ed="#P" n="18"/>tus ex genere suo esse nobiliores; non tamen
+            <lb ed="#P" n="19"/>in individuo quamlibet virtutem intellectus
+            <lb ed="#P" n="20"/>praestare cuilibet virtuti voluntatis, sed solum
+            <lb ed="#P" n="21"/>hinc fit supremam virtutem intellectus esse
+            <lb ed="#P" n="22"/>perfectiorem suprema virtute voluntatis, ut
+            <lb ed="#P" n="23"/>lumen gloriae charitate; nec sumi potest 
+            ar<lb break="no" ed="#P" n="24"/>gumentum ex statu patria ad statum viae,
+            <lb ed="#P" n="25"/>quia cognitio patriae essentialiter est perfectior
+            <lb ed="#P" n="26"/>cognitione viae; amores vero solum 
+            acciden<lb break="no" ed="#P" n="27"/>taliter differunt, ut dicemus; et ideo non est
+            <lb ed="#P" n="28"/>etiam simile de prudentia praecipue naturali,
+            <lb ed="#P" n="29"/>quia est excellens et perfectissima in suo 
+            ge<lb break="no" ed="#P" n="30"/>nere, et est regula omnium virtutum; 
+            mora<lb break="no" ed="#P" n="31"/>lium. (De luminis gloriae perfectione majori,
+            <lb ed="#P" n="32"/>in lib. 6 de Grat., c. 13,a n. 8.)
+          </p>
+          <p xml:id="szthvi-b60777-d1e431">
+            <lb ed="#P" n="33"/>5. Primum dubium. — Secundum dubium.
+            <lb ed="#P" n="34"/>Vide lib. 1, de Grat., c. 4et 5.—Sed quaresan
+            <lb ed="#P" n="35"/>charitas non solum sit virtus, sed semper sit in
+            <lb ed="#P" n="36"/>statu virtutis. Respondetur ita esse. Ratio est,
+            <lb ed="#P" n="37"/>quia haec virtus semper habet connexionem
+            <lb ed="#P" n="38"/>cum omnibus sui ordinis. Secundo, semper
+            <lb ed="#P" n="39"/>amat Deum et proximum. Tandem minima
+            <lb ed="#P" n="40"/>charitas semper facit bonum et amicum, et
+            <lb ed="#P" n="41"/>servat omne praeceptum. Quaeres secundo an
+            <lb ed="#P" n="42"/>charitas tribuat esse aliis virtutibus, ita ut sit
+            <lb ed="#P" n="43"/>forma illarum. Respondetur theologice ita
+            <lb ed="#P" n="44"/>loquendum esse, primo, quia charitas refert
+            <lb ed="#P" n="45"/>omnes actus virtutum in ultimum finem, qui
+            <lb ed="#P" n="46"/>in moralibus est quasi forma. Item valor et
+            <lb ed="#P" n="47"/>meritum horum actuum pendet a charitate,
+            <lb ed="#P" n="48"/>quamvis et sic etiam gratia dici possit forma
+            <lb ed="#P" n="49"/>virtutum. Sed objicies: interdum aliae 
+            virtu<lb break="no" ed="#P" n="50"/>tes referunt caeteras in suum finem. Item 
+            re<lb break="no" ed="#P" n="51"/>ligio et poenitentia saepe imperant actum 
+            cha<lb break="no" ed="#P" n="52"/>ritatis, referendo ad finem. Respondetur per
+            <lb ed="#P" n="53"/>accidens et quasi ex operantis libertate posse
+            <lb ed="#P" n="54"/>interdum inferiorem virtutem informare 
+            su<lb break="no" ed="#P" n="55"/>periorem, non simpliciter, sed quoad aliquem
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>actum, et in ordine ad particularem finem.
+            <lb ed="#P" n="57"/>Charitas vero per se, ac natura sua habet
+            <lb ed="#P" n="58"/>istum modum informandi, et praeterea relatio
+            <lb ed="#P" n="59"/>ad ultimum finem, quae suprema est in genere
+            <lb ed="#P" n="60"/>virtutis, ad illam solam spectat.
+          </p>
+        </div>
+        <div xml:id="szthvi-b60777-Dd1e498">
+          <head xml:id="szthvi-b60777-Hd1e500">Sectio 2</head>
+          <head xml:id="szthvi-b60777-Hd1e502" type="question-title">Utrum charitas sit proprie virtus amicitia</head>
+          <p xml:id="szthvi-b60777-d1e505">
+            <lb ed="#P" n="61"/>SECTIO II.
+            <lb ed="#P" n="62"/>Utrum charitas sit proprie virtus amicitia.
+          </p>
+          <p xml:id="szthvi-b60777-d1e512">
+            <lb ed="#P" n="63"/>1. Conditiones amicitie quatuor; de hac
+            <lb ed="#P" n="64"/>humnana amicitia infra, sect. 6. — Ratio 
+            dubi<lb break="no" ed="#P" n="65"/>tandi est, quia conditiones amicitiae 
+            assigna<lb break="no" ed="#P" n="66"/>tae ab Aristotele, 8 et 9 Ethicor., non 
+            conve<lb break="no" ed="#P" n="67"/>niunt in charitatem. Prima est communicatio
+            <lb ed="#P" n="68"/>mutua; at nos cum Deo communicare 
+            nequi<lb break="no" ed="#P" n="69"/>mus, licet ipse possit nobiscum. Secunda est
+            <lb ed="#P" n="70"/>sequalitas ; qui enim multum dissimiles sunt
+            <lb ed="#P" n="71"/>in excellentia, non bene contrahunt 
+            amici<lb break="no" ed="#P" n="72"/>tiam. Unde concludit Aristoteles,in 8 Ethicor.,
+            <lb ed="#P" n="73"/>cap. 7, inter nos et Deum non esse amicitiam.
+            <lb ed="#P" n="74"/>Tertia est singularitas; at charitas omnia
+            <lb ed="#P" n="75"/>complectitur. Quarta est, ut mutuus amor
+            <lb ed="#P" n="76"/>non lateat ; latet autem nos an Deum charitate
+            <lb ed="#P" n="77"/>amemus, vel ab eo amemur.
+          </p>
+          <p xml:id="szthvi-b60777-d1e547">
+            <lb ed="#P" n="78"/>2. Prima conclusio, pro qua vide lib.'1 de
+            <lb ed="#P" n="79"/>Grat., c. 5, et in Relect. de libertate Dei, disp.
+            <lb ed="#P" n="80"/>9. sect. 2, n. 16. — Dico primo : inter justos
+            <lb ed="#P" n="81"/>et Deum est simpliciter amicitia, ut constat
+            <lb ed="#P" n="82"/>ex multis testimoniis Scripturae, Judit. 8:
+            <lb ed="#P" n="83"/>Abraham Dei amicus)effectus est; et Psal.
+            <lb ed="#P" n="84"/>138 : Nimis honorati sunt amici tui, Deus;
+            <lb ed="#P" n="85"/>Cant. 5: Comedite amici ; Sapient. 1 : 
+            Parti<lb break="no" ed="#P" n="86"/>cipes fucti sunt amicitie Dei; Isaiae 44 : Semen
+            <lb ed="#P" n="87"/>Abrahae amici mei; quo respexit Jacob. in sua
+            <lb ed="#P" n="88"/>Canon., cap. 29: Abraham, inquiens, amicus
+            <lb ed="#P" n="89"/>Dei appellatus est ; Lucae 12 : Dico autem 
+            vo<lb break="no" ed="#P" n="90"/>bis amicis meis; ex Joann. 15 : Jam non dico
+            <lb ed="#P" n="91"/>cos servos, sed amicos ; id est, quamvis natura
+            <lb ed="#P" n="92"/>sitis servi, gratia autem, quae excellentior est,
+            <lb ed="#P" n="93"/>facti estis amici. Dices : etiam dicuntur justi
+            <lb ed="#P" n="94"/>filii Dei, et templa Spiritus Sancti, quae non
+            <lb ed="#P" n="95"/>proprie sed metaphorice exponuntur. 
+            Respon<lb break="no" ed="#P" n="96"/>detur singula verba Scripturae esse accipienda
+            <lb ed="#P" n="97"/>in ea proprietate quam patiuntur : sunt ergo
+            <lb ed="#P" n="98"/>justi templa spiritualia, quia in eis Spiritus
+            <lb ed="#P" n="99"/>Sanctus inhabitat ; sunt vero filii per 
+            adoptio<lb break="no" ed="#P" n="100"/>nem , amici per gratiam et benevolentiam
+            <lb ed="#P" n="101"/>mutuam supernaturalem, quae vere et proprie
+            <lb ed="#P" n="102"/>inter Deum et hominem intercedere potest;
+            <lb ed="#P" n="103"/>et hoc ad propriam amicitiam sufficit : unde
+            <lb ed="#P" n="104"/>in Tridentino, sess. S, cap. 1, justi simpliciter
+            <lb ed="#P" n="105"/>vocantur amici.
+          </p>
+          <p xml:id="szthvi-b60777-d1e611">
+            <lb ed="#P" n="106"/>3. Triplea est amicitia.— Perfecta amicitia
+            <lb ed="#P" n="107"/>subdividitur. — Sed ut haec ratione confir-
+            <pb ed="#P" n="652"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>mentur, nonnulla notanda sunt. Primum est,
+            <lb ed="#P" n="2"/>triplicem esse amicitiam : utilem, in qua 
+            ami<lb break="no" ed="#P" n="3"/>cus amatur propter utilitatem amantis; 
+            dele<lb break="no" ed="#P" n="4"/>ctabilem, propter voluptatem ; honestam, in
+            <lb ed="#P" n="5"/>qua amicus per se et propter honestatem
+            <lb ed="#P" n="6"/>amatur : et haec sola est perfecta, et 
+            simplici<lb break="no" ed="#P" n="7"/>ter amicitia, quia haec soia conjungit per 
+            ve<lb break="no" ed="#P" n="8"/>ram benevolentiam. Alterum est ex Aristotele
+            <lb ed="#P" n="9"/>supra, cap. 10, hoc posterius genus amicitiae
+            <lb ed="#P" n="10"/>duplex esse: unum est aequalitatis simpliciter,
+            <lb ed="#P" n="11"/>quod est inter omnino aequales; alterum est
+            <lb ed="#P" n="12"/>excellentia, quod est inter personas quidem
+            <lb ed="#P" n="13"/>habentes communicationem et convenientiam
+            <lb ed="#P" n="14"/>ad unum finem honestum, constitutas tamen
+            <lb ed="#P" n="15"/>in diversa dignitate, inter quas non servatur
+            <lb ed="#P" n="16"/>eequalitas simpliciter, sed proportionalis, quia
+            <lb ed="#P" n="17"/>unusquisque tribuit alteri id amoris, honoris
+            <lb ed="#P" n="18"/>et officii, quod unicuique pro conditione sua
+            <lb ed="#P" n="19"/>convenit. 
+          </p>
+          <p xml:id="szthvi-b60777-d1e663">
+            <lb ed="#P" n="20"/>4. Probatur conclusio primo.—His positis
+            <lb ed="#P" n="21"/>probatur conclusio; primo, inter Deum et nos
+            <lb ed="#P" n="22"/>intercedit mutua benevolentia, quod ex parte
+            <lb ed="#P" n="23"/>Dei constat; amat enim nos ut benefaciat;
+            <lb ed="#P" n="24"/>neque huic amicitiae repugnat quod velit Deus
+            <lb ed="#P" n="25"/>omnia nostra bona referri in gloriam suam;
+            <lb ed="#P" n="26"/>nam est etiam ultimus finis. Ex parte vero 
+            ho<lb break="no" ed="#P" n="27"/>minum , supra ostensum est quod possint
+            <lb ed="#P" n="28"/>Deum ex charitate diligere. Secundo, hic 
+            mu<lb break="no" ed="#P" n="29"/>tuus amor satis constat, non quidem certa et
+            <lb ed="#P" n="30"/>infallibili scientia, dum sumus in hac vita, sed
+            <lb ed="#P" n="31"/>probabiii existimatione, quod in omni 
+            amici<lb break="no" ed="#P" n="32"/>tia sufficit; id vero constat ex variis 
+            Scriptn<lb break="no" ed="#P" n="33"/>rae testimoniis; nam Deus diligentes se diligit,
+            <lb ed="#P" n="34"/>unde, quod Deum diligamus, effectus est 
+            di<lb break="no" ed="#P" n="35"/>vini amoris. Tertio, communicatio ad 
+            amici<lb break="no" ed="#P" n="36"/>tiam necessaria hic etiam non deficit; nam
+            <lb ed="#P" n="37"/>licet inter nudam naturam hominis et 
+            divi<lb break="no" ed="#P" n="38"/>nam non reperiatur, invenitur tamen 
+            suffi<lb break="no" ed="#P" n="39"/>cienter inter homines, per gratiam elevatos ad
+            <lb ed="#P" n="40"/>divinum ordinem, et Deum: sic enim sunt 
+            di<lb break="no" ed="#P" n="41"/>vina consortes natura, et accepti ad eumdem
+            <lb ed="#P" n="42"/>ordinem beatitudinis, quae communicatio 
+            fa<lb break="no" ed="#P" n="43"/>cit aequalitatem, si non simpliciter, saltem
+            <lb ed="#P" n="44"/>excellentiae. Alio modo potest intelligi illa
+            <lb ed="#P" n="45"/>communicatio pro mutua beneficiorum 
+            colla<lb break="no" ed="#P" n="46"/>tione, et haec non est ratio amicitiae ; alias non
+            <lb ed="#P" n="47"/>esset honesta, sed utilis; est tamen effectus
+            <lb ed="#P" n="48"/>qui ex illa oritur ; amicorum enim omnia sunt
+            <lb ed="#P" n="49"/>communina ; hoc autem non deesse ex parte
+            <lb ed="#P" n="50"/>Dei in hac divina amicitia per se constat; 
+            ho<lb break="no" ed="#P" n="51"/>mines autem, etsi non possint conferre 
+            benc<lb break="no" ed="#P" n="52"/>ficia in Deum, tamen, quoad possunt, 
+            prae<lb break="no" ed="#P" n="53"/>bent honorem et gloriam, et proximis 
+            benefa<lb break="no" ed="#P" n="54"/>ciunt. Quarto, amicitia efficit unum, et velut
+            <lb ed="#P" n="55"/>ponit unam animam in duobus corporibus:
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>Qui autem adlueret Domino, unus spiritus est;
+            <lb ed="#P" n="57"/>quare nihil obstat quod ad multos se extendat,
+            <lb ed="#P" n="58"/>quia primario est ad unum, in quo et per
+            <lb ed="#P" n="59"/>quem caetera diliguntur. Quinto, licet vera
+            <lb ed="#P" n="60"/>amicitia non sit propter utilitatem vel 
+            volupta<lb break="no" ed="#P" n="61"/>tem, tamen hos fructus secum affert ; primum,
+            <lb ed="#P" n="62"/>propter communicaticnem; secundum, 
+            pro<lb break="no" ed="#P" n="63"/>pter unionem; et in utroque excedit haec 
+            ami<lb break="no" ed="#P" n="64"/>citia: unde illud: Delicie mee esse cum filiis
+            <lb ed="#P" n="65"/>hominum. Tandem oportet ut vera amicitia
+            <lb ed="#P" n="66"/>sit stabilis ; haec autem de se ita stabilis est, ut
+            <lb ed="#P" n="67"/>sit perpetua ; ex quibus omnibus fit hanc 
+            ami<lb break="no" ed="#P" n="68"/>citiam non solum esse propriam, sed omnium
+            <lb ed="#P" n="69"/>perfectissimam, quia, licet in aequalitate 
+            ali<lb break="no" ed="#P" n="70"/>quando deficiat, tamen in reliquis 
+            conditioni<lb break="no" ed="#P" n="71"/>bus longe multumque superat. (Vide lib. 11de
+            <lb ed="#P" n="72"/>Grat.)
+          </p>
+          <p xml:id="szthvi-b60777-d1e783">
+            <lb ed="#P" n="73"/>5. Secunda conclusio declarando patescit.—
+            <lb ed="#P" n="74"/>Dico secundo: haec amicitia inter nos et Deum
+            <lb ed="#P" n="75"/>ex parte hominis est ipsa charitas; 
+            adverten<lb break="no" ed="#P" n="76"/>dum est ex Aristotele supra, amicitiam 
+            per<lb break="no" ed="#P" n="77"/>fici in mutuo amore; unde si unus amet, non
+            <lb ed="#P" n="78"/>vero redametur, est quidem benevolentia, non
+            <lb ed="#P" n="79"/>vero amicitia. Oportet etiam ut hic mutuus
+            <lb ed="#P" n="80"/>amor non lateat ; nam si ignoretur, esto sit
+            <lb ed="#P" n="81"/>concursus amorum, erit tamen per accidens;
+            <lb ed="#P" n="82"/>at vero amor amicitiae postulat ut sit 
+            alte<lb break="no" ed="#P" n="83"/>rius tanquam redamantis: jam igitur si 
+            ami<lb break="no" ed="#P" n="84"/>citia inter nos et Deum significat totum 
+            inte<lb break="no" ed="#P" n="85"/>grum vinculum, sic est quasi collectivum 
+            no<lb break="no" ed="#P" n="86"/>men, charitatem Dei et nostram 
+            comprehen<lb break="no" ed="#P" n="87"/>dens; si tamen significat id quod ex parte 
+            no<lb break="no" ed="#P" n="88"/>stra nos praestamus in hac amicitia, illud est
+            <lb ed="#P" n="89"/>charitas, quia, ut Aristoteles dixit, lib. 8 
+            Ethi<lb break="no" ed="#P" n="90"/>corum, cap. 8: Amicitia magis est amari,
+            <lb ed="#P" n="91"/>quam amare, charitate vero amamus *. Ex quo
+            <lb ed="#P" n="92"/>intelligitur hoc convenire charitati per se, 
+            ne<lb break="no" ed="#P" n="93"/>que requirere longam consuetudinem, unde
+            <lb ed="#P" n="94"/>etiam in parvulo habet eamdem rationem;
+            <lb ed="#P" n="95"/>quod si non possit in actum prodire, oritur ex
+            <lb ed="#P" n="96"/>indispositione subjecti. Argumenta soluta sunt
+            <lb ed="#P" n="97"/>ex dictis.
+          </p>
+        </div>
+        <div xml:id="szthvi-b60777-Dd1e841">
+          <head xml:id="szthvi-b60777-Hd1e843">Sectio 3</head>
+          <head xml:id="szthvi-b60777-Hd1e845" type="question-title">Utrum charitas sit una et eadem in via et in patria</head>
+          <p xml:id="szthvi-b60777-d1e848">
+            <lb ed="#P" n="98"/>SECTIO III.
+            <lb ed="#P" n="99"/>Utrum charitas sit una et eadem in via et in
+            <lb ed="#P" n="100"/>patria?
+          </p>
+          <p xml:id="szthvi-b60777-d1e857">
+            <lb ed="#P" n="101"/>1. Prima conclusio. — An amoris actus
+            <lb ed="#P" n="102"/>sint iidem in patria et in via. — Negant 
+            ali<lb break="no" ed="#P" n="103"/>qui. — Primum argumentum. — Secundum.
+            <lb ed="#P" n="104"/>— Tertium. — Quartum. — Dico primo,
+            <lb ed="#P" n="105"/>eumdem habitum charitatis, et specie et nu-
+            <pb ed="#P" n="653"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>mero, qui habetur in via, conservari in 
+            pa<lb break="no" ed="#P" n="2"/>tria. Est communis Theologorum, et videtur
+            <lb ed="#P" n="3"/>expressa sententia Pauli, primae ad Corint.
+            <lb ed="#P" n="4"/>13: Charitas munguam excidit ; quod 
+            intelli<lb break="no" ed="#P" n="5"/>gendum necessario est de eadem charitate et
+            <lb ed="#P" n="6"/>specie, et numero: alioquin etiam cognitio et
+            <lb ed="#P" n="7"/>scientia non exciderent. Sed quaeres an idem
+            <lb ed="#P" n="8"/>sit in actibus amoris. Nonnulli Theologi id
+            <lb ed="#P" n="9"/>negant, ut Scotus, in tertio, distinctione 
+            tri<lb break="no" ed="#P" n="10"/>gesima prima , quaestione unica; Lychetus,
+            <lb ed="#P" n="11"/>ibid. ; Capreolus, in primo, distinctione 
+            pri<lb break="no" ed="#P" n="12"/>ma, quaest. tertia, ad tertium Adami contra
+            <lb ed="#P" n="13"/>quartam conclusionem ; Cajetanus , prima
+            <lb ed="#P" n="14"/>pari., q. 82, articul. 2. Contendunt enim
+            <lb ed="#P" n="15"/>Deum clare visum et obscure diversas 
+            indu<lb break="no" ed="#P" n="16"/>cere rationes formales diligibilis objecti. 
+            Pri<lb break="no" ed="#P" n="17"/>mo, quia diversa cognitio Dei, naturalis vel
+            <lb ed="#P" n="18"/>supernaturalis, intellectualis vel imaginaria,
+            <lb ed="#P" n="19"/>parit actus amoris diversos. Secundo, in 
+            pro<lb break="no" ed="#P" n="20"/>posito possunt assignari diversa objecta 
+            for<lb break="no" ed="#P" n="21"/>malia ; nam, sicut in patria uno actn 
+            vide<lb break="no" ed="#P" n="22"/>tur Deus, et tota ejus perfectio, ita adaequate
+            <lb ed="#P" n="23"/>uno actu amatur propter omnem rationem
+            <lb ed="#P" n="24"/>qua amabilis est, licet non totaliter ametur;
+            <lb ed="#P" n="25"/>at in via, quia non concipitur Deus uno actu,
+            <lb ed="#P" n="26"/>nisi sub ratione unius vel alterius attributi,
+            <lb ed="#P" n="27"/>per singulos actus quasi inadaequate amatur.
+            <lb ed="#P" n="28"/>Tertio, amor patriae est necessarius; viae 
+            au<lb break="no" ed="#P" n="29"/>tem liber. Quarto, hi duo amores fuerunt
+            <lb ed="#P" n="30"/>simul in anima Christi ; ergo distincti 
+            spe<lb break="no" ed="#P" n="31"/>cie.
+          </p>
+          <p xml:id="szthvi-b60777-d1e942">
+            <lb ed="#P" n="32"/>2. Prima conclusio affirmativa et 
+            commu<lb break="no" ed="#P" n="33"/>nis. — Ad argumenta opposita. — Dico 
+            se<lb break="no" ed="#P" n="34"/>cundo : charitas viae et patriae una est, non
+            <lb ed="#P" n="35"/>solum quoad habitum, sed etiam quoad 
+            ac<lb break="no" ed="#P" n="36"/>tum. Est communis Theologorum cum 
+            Ma<lb break="no" ed="#P" n="37"/>gistro, in tertio, distinctione trigesima 
+            pri<lb break="no" ed="#P" n="38"/>ma, et D. Thoma. prima secundae, quaestione
+            <lb ed="#P" n="39"/>sexagesima septima, articulo sexto, et favent
+            <lb ed="#P" n="40"/>loca sacrae Sceripturae, et Patrum, qui dicunt
+            <lb ed="#P" n="41"/>charitatem eamdem manere in via et in 
+            pa<lb break="no" ed="#P" n="42"/>ria; nam potius de actibus quam de 
+            habi<lb break="no" ed="#P" n="43"/>tibus loquuntur , atque ita etiam 
+            accipien<lb break="no" ed="#P" n="44"/>dus est Paulus citatus. Ratio est, quia amor,
+            <lb ed="#P" n="45"/>ut sic, nullam imperfectionem essentialem
+            <lb ed="#P" n="46"/>dicit ; ergo tantum differt in accidentali
+            <lb ed="#P" n="47"/>perfectione, quod ita explicatur. Nam ratio
+            <lb ed="#P" n="48"/>formalis objecti in via et in patria est 
+            ea<lb break="no" ed="#P" n="49"/>dem , nempe divina bonitas supernaturalis ;
+            <lb ed="#P" n="50"/>differunt vero hi amores in cognitione talis
+            <lb ed="#P" n="51"/>objecti : ergo solum in conditione sine qua
+            <lb ed="#P" n="52"/>non, et applicatione objecti amabilis. Nec est
+            <lb ed="#P" n="53"/>simile de amore sensitivo vel naturali, quia
+            <lb ed="#P" n="54"/>illius differentia ab amore spirituali vel 
+            super<lb break="no" ed="#P" n="55"/>naturali non sumitur tantum ex cognitione,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>sed ex formali objecto diverso, quia semper
+            <lb ed="#P" n="57"/>diversa ratio boni per has cognitiones 
+            appli<lb break="no" ed="#P" n="58"/>catur, ut in prima secundae ostensum est, et
+            <lb ed="#P" n="59"/>in tractatu de anima, agendo de distinctione
+            <lb ed="#P" n="60"/>potentiarum per objecta. Deinde absentia, vel
+            <lb ed="#P" n="61"/>praesentia objecti amabilis nihil retert ad
+            <lb ed="#P" n="62"/>amorem, quia, ut ex prima secundae constat,
+            <lb ed="#P" n="63"/>amor abstrahit a praesentia et absentia, et
+            <lb ed="#P" n="64"/>tendit in objectum secundum se; illa autem
+            <lb ed="#P" n="65"/>differentiae pertinent ad desiderium et 
+            delec<lb break="no" ed="#P" n="66"/>tationem ; unde desiderium, et spes includunt
+            <lb ed="#P" n="67"/>essentialem imperfectionem, et non manent
+            <lb ed="#P" n="68"/>in patria, amor autem permanet. Imo mihi
+            <lb ed="#P" n="69"/>certe probabilissimum est de facto 
+            Beatissi<lb break="no" ed="#P" n="70"/>mam Virginem in suo transitu actum divini
+            <lb ed="#P" n="71"/>amoris non interrupisse, sed eumdem 
+            nume<lb break="no" ed="#P" n="72"/>ro in patria, quamvis necessario, et majori
+            <lb ed="#P" n="73"/>perfectione continuasse. Et ut ad argumenta
+            <lb ed="#P" n="74"/>opposita respondeamus, imprimis illa 
+            diffe<lb break="no" ed="#P" n="75"/>rentia, quae ex parte objecti sumebatur in 
+            se<lb break="no" ed="#P" n="76"/>cundo argumento, vera non est ; nam in via
+            <lb ed="#P" n="77"/>potest a nobis Deus amari unico actu, non
+            <lb ed="#P" n="78"/>propter hoc vel illud attributum, sed 
+            simpli<lb break="no" ed="#P" n="79"/>citer, quia est summum bonum infinite 
+            per<lb break="no" ed="#P" n="80"/>fectum, et sufficiens ad beandum hominem ;
+            <lb ed="#P" n="81"/>hic ergo amor ejusdem omnino objecti 
+            forma<lb break="no" ed="#P" n="82"/>lis est, atque adeo ejusdem speciei cum amore
+            <lb ed="#P" n="83"/>patriae ; unde potius hinc manet probata
+            <lb ed="#P" n="84"/>nostra conclusio. Quod si unus et idem 
+            habi<lb break="no" ed="#P" n="85"/>tus potest habere actus specie diversos, tunc
+            <lb ed="#P" n="86"/>est quando actus diverso modo participant 
+            ra<lb break="no" ed="#P" n="87"/>tionem formalem objecti; non autem sic est
+            <lb ed="#P" n="88"/>in proposito, et tota differentia est in 
+            acciden<lb break="no" ed="#P" n="89"/>talibus conditionibus, sicut tertio loco 
+            objicie<lb break="no" ed="#P" n="90"/>batur in conditionibus liberis et necessariis,
+            <lb ed="#P" n="91"/>quae eidem actui successive competere valent,
+            <lb ed="#P" n="92"/>ut agendo de moralitate actuum 
+            humano<lb break="no" ed="#P" n="93"/>rum notavimus. Quod vero objiciebatur de
+            <lb ed="#P" n="94"/>Christo, suo loco exponitur.
+          </p>
+          <p xml:id="szthvi-b60777-d1e1084">
+            <lb ed="#P" n="95"/>3. Objectio insurgit. — Ejus resolutio 
+            in<lb break="no" ed="#P" n="96"/>choatur. — Sed dices: si haec vera essent, 
+            fie<lb break="no" ed="#P" n="97"/>ret ut charitas viae posset pervenire ad 
+            tan<lb break="no" ed="#P" n="98"/>tam perfectionem, quantam habet in patria.
+            <lb ed="#P" n="99"/>Respondetur: duplex est perfectio charitatis,
+            <lb ed="#P" n="100"/>una essentialis, quae in eo consistit, ut totum
+            <lb ed="#P" n="101"/>hominis affectum ponat in Deum, tanquam in
+            <lb ed="#P" n="102"/>supernaturalem tinem ultimum , et 
+            conse<lb break="no" ed="#P" n="103"/>quenter excludat omnem affectum peccati
+            <lb ed="#P" n="104"/>mortalis, et in hoc charitas viae et patriae sunt
+            <lb ed="#P" n="105"/>aequales ; imo omnis charitas viae etiam 
+            mi<lb break="no" ed="#P" n="106"/>nima illam habet, ut dicitur primae Joannis
+            <lb ed="#P" n="107"/>secundo et quarto. Alia est perfectio acci-
+            <pb ed="#P" n="654"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>dentalis, quae partim in intensione, partim in
+            <lb ed="#P" n="2"/>vitandis peccatis sita est, et hac ratione solent
+            <lb ed="#P" n="3"/>distingui tres gradus charitatis, incipientium,
+            <lb ed="#P" n="4"/>proficientium et perfectorum; et in hac 
+            per<lb break="no" ed="#P" n="5"/>fectione non est necesse charitatem viae esse
+            <lb ed="#P" n="6"/>aequalem charitati patriae, cum neque omnis
+            <lb ed="#P" n="7"/>charitas viae in hoc sit aqualis: dubium 
+            au<lb break="no" ed="#P" n="8"/>tem esse potest an summa charitas viae 
+            pos<lb break="no" ed="#P" n="9"/>sit in hac perfectione aequari vel minimae 
+            cha<lb break="no" ed="#P" n="10"/>ritati patriae, quod in sectione sequenti 
+            expe<lb break="no" ed="#P" n="11"/>diemus.
+          </p>
+        </div>
+        <div xml:id="szthvi-b60777-Dd1e1144">
+          <head xml:id="szthvi-b60777-Hd1e1146">Sectio 4</head>
+          <head xml:id="szthvi-b60777-Hd1e1148" type="question-title">Utrum aliqua charitas viae possit esse aequalis charitati patriae</head>
+          <p xml:id="szthvi-b60777-d1e1151">
+            <lb ed="#P" n="12"/>SECTIO IV.
+            <lb ed="#P" n="13"/>Utrum aliqua charitas viae possit esse aequalis
+            <lb ed="#P" n="14"/>charitati patriae.
+          </p>
+          <p xml:id="szthvi-b60777-d1e1160">
+            <lb ed="#P" n="15"/>1. Difficultatis ratio. — Sententia Cajetani
+            <lb ed="#P" n="16"/>tribus respondendi modis contenta. — 
+            Repici<lb break="no" ed="#P" n="17"/>tur. — hatio dubii est, quia praeter essentiam
+            <lb ed="#P" n="18"/>maxima perfectio formae est ejus intensio ;
+            <lb ed="#P" n="19"/>sed charitas viae potest esse intensior 
+            chari<lb break="no" ed="#P" n="20"/>tate patriae, vel in eodem, vel saltem in 
+            di<lb break="no" ed="#P" n="21"/>versis subjectis ; nam hae charitates sunt
+            <lb ed="#P" n="22"/>ejusdem rationi:; at charitas viae potest magis
+            <lb ed="#P" n="23"/>ac magis intendi; in qualitatibus autem 
+            ejus<lb break="no" ed="#P" n="24"/>dem rationis, si una semper augeatur, potest
+            <lb ed="#P" n="25"/>pervenire ad alterius quantitatem , eamque
+            <lb ed="#P" n="26"/>superare. Cajetanus igitur, ut huic difficultati
+            <lb ed="#P" n="27"/>satisfaciat, defendatque charitatem viae 
+            nun<lb break="no" ed="#P" n="28"/>quam aequari charitati patriae, multa scripsit
+            <lb ed="#P" n="29"/>in secunda secundae , quaestione vigesima
+            <lb ed="#P" n="30"/>quarta, articulo septimo, et inter alia affert
+            <lb ed="#P" n="31"/>tres modos quibus charitas viae nunquam est
+            <lb ed="#P" n="32"/>ita intensa , ut charitas patriae. Primus est,
+            <lb ed="#P" n="33"/>quod in qualitatibus animae duplex est 
+            inten<lb break="no" ed="#P" n="34"/>sio: una ex parte subjecti seu potentiae 
+            ma<lb break="no" ed="#P" n="35"/>gis conantis, altera ex parte objecti melius
+            <lb ed="#P" n="36"/>propositi, et hanc dicit esse diversaee rationis
+            <lb ed="#P" n="37"/>in charitate viae et patriae, et ideo nunquam
+            <lb ed="#P" n="38"/>posse esse aequalem ; qui modus illi non 
+            pla<lb break="no" ed="#P" n="39"/>cet, quia saltem sequitur in priori intensione
+            <lb ed="#P" n="40"/>posse esse aequalitatem ; sed neque etiam 
+            ve<lb break="no" ed="#P" n="41"/>rus est, quia revera istae non sunt duae 
+            in<lb break="no" ed="#P" n="42"/>tensiones , sed explicant duas radices 
+            inten<lb break="no" ed="#P" n="43"/>sionis, ut patet exemplo Cajetani. Visio enim,
+            <lb ed="#P" n="44"/>quae est intensior, quia visus magis conatur,
+            <lb ed="#P" n="45"/>vel quia objectum propinquius est, ejusdem
+            <lb ed="#P" n="46"/>rationis est, cum efliciat eumdem effectum
+            <lb ed="#P" n="47"/>formalem in visu; et simile est in agentibus
+            <lb ed="#P" n="48"/>naturalibus, quae interdum agunt intensius,
+            <lb ed="#P" n="49"/>quia applicant majorem vim, interdum quia
+            <lb ed="#P" n="50"/>passum minus resistit ; tamen intensio formae
+            <lb ed="#P" n="51"/>semper eadem est; imo , si proprie 
+            loqua<lb break="no" ed="#P" n="52"/>mur, nunquam haec major intensio est sine
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>majori conatu potentiae, quia non posset esse
+            <lb ed="#P" n="54"/>effectus perfectior, nisi causa magis influat ;
+            <lb ed="#P" n="55"/>solum est differentia, quia hic major conatus
+            <lb ed="#P" n="56"/>interdum adhibetur propter excellentiorem
+            <lb ed="#P" n="57"/>virtutem activam, interdum propter 
+            commo<lb break="no" ed="#P" n="58"/>dam objecti applicationem , aut minorem
+            <lb ed="#P" n="59"/>passi resistentiam. Dices: interdum ratione
+            <lb ed="#P" n="60"/>medii vel luminis actus videndi est ita 
+            per<lb break="no" ed="#P" n="61"/>fectus et intensus, ut non possit potentia cum
+            <lb ed="#P" n="62"/>minori lumine, quantumvis conetur , actum
+            <lb ed="#P" n="63"/>ita intensum efficere. Respondeo in potentiis
+            <lb ed="#P" n="64"/>cognoscitivis observanda esse duo: primum
+            <lb ed="#P" n="65"/>est, eas non esse integram potentiam suorum
+            <lb ed="#P" n="66"/>actuum, sed juvari ab objectis et speciebus;
+            <lb ed="#P" n="67"/>unde fit ut objectum ita adjuvet potentiam
+            <lb ed="#P" n="68"/>aliquando producendo speciem imperfectam,
+            <lb ed="#P" n="69"/>ut potentia cum specie minus perfecta 
+            nun<lb break="no" ed="#P" n="70"/>quam possit tam intensum actum efficere,
+            <lb ed="#P" n="71"/>non propter intensionem diversae rationis,
+            <lb ed="#P" n="72"/>sed quia potentia non potest amplius conari,
+            <lb ed="#P" n="73"/>quia non amplius juvatur. Secundum est, in
+            <lb ed="#P" n="74"/>actibus aliud esse claritatem, aliud 
+            intensio<lb break="no" ed="#P" n="75"/>nem, et claritas sape sumitur ex medio; et
+            <lb ed="#P" n="76"/>ideo si illud sit imperfectum, actus non erit
+            <lb ed="#P" n="77"/>tam clarus, quamvis sit tam intensus ; quae
+            <lb ed="#P" n="78"/>tamen duo in actibus voluntatis non habent
+            <lb ed="#P" n="79"/>locum, de quibus modo loquimur.
+          </p>
+          <p xml:id="szthvi-b60777-d1e1306">
+            <lb ed="#P" n="80"/>9. Secundus Cajetani modus. — Declaratur
+            <lb ed="#P" n="81"/>primo. — Secunda conclusio. — Secundus 
+            mo<lb break="no" ed="#P" n="82"/>dus Cajetani est, quia intensiones charitatis in
+            <lb ed="#P" n="83"/>via et in patria sunt omnino diversae rationis,
+            <lb ed="#P" n="84"/>et in patria est altioris ordinis; et ideo, 
+            quan<lb break="no" ed="#P" n="85"/>tumvis intensio viae crescat, nunquam illuc 
+            per<lb break="no" ed="#P" n="86"/>venit. Assumptum dupliciter declarat, primo,
+            <lb ed="#P" n="87"/>quia status viae et patriae sunt diversarum 
+            ra<lb break="no" ed="#P" n="88"/>tionum : unus, naturalis charitati; alter, quasi
+            <lb ed="#P" n="89"/>supernaturalis; unus quasi aetas puerilis, 
+            al<lb break="no" ed="#P" n="90"/>ter virilis; denique sunt via et terminus, quae
+            <lb ed="#P" n="91"/>sunt diversarum rationum. Secundo, quia 
+            cha<lb break="no" ed="#P" n="92"/>ritas patriae altiori et eminentiori modo 
+            conti<lb break="no" ed="#P" n="93"/>net omnes perfectiones charitatis viae, et 
+            ex<lb break="no" ed="#P" n="94"/>cludit omnes imperfectiones, et addit multas
+            <lb ed="#P" n="95"/>perfectiones ; hoc autem est signum perfectio -
+            <lb ed="#P" n="96"/>nis alterius ordinis. Antecedens patet, quia in
+            <lb ed="#P" n="97"/>patria est subjectum altiori modo dispositum,
+            <lb ed="#P" n="98"/>et objectum etiam altiori modo applicatum.
+          </p>
+          <p xml:id="szthvi-b60777-d1e1351">
+            <lb ed="#P" n="99"/>3. Prima conclusio. — Dico primo: charitas
+            <lb ed="#P" n="100"/>viae et patriae habent gradus intensionis 
+            ejus<lb break="no" ed="#P" n="101"/>dem omnino rationis inter se. Probatur 
+            pri<lb break="no" ed="#P" n="102"/>mo; nam vel loquimur de intensione, ut 
+            si<lb break="no" ed="#P" n="103"/>gnificat motum, vel aliquid productum in 
+            qua<lb break="no" ed="#P" n="104"/>litate intensa ; hoc secundo modo, iidem 
+            gra<lb break="no" ed="#P" n="105"/>dus intensionis non solum specie, sed etiam
+            <lb ed="#P" n="106"/>numero, qui erant in via, manent in patria,
+            <lb ed="#P" n="107"/>sive alii ibi addantur, sive non; antecedens
+            <pb ed="#P" n="655"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>patet, quia manet idem numero habitus; 
+            er<lb break="no" ed="#P" n="2"/>go et gradus intensionis; nam hi gradus vel
+            <lb ed="#P" n="3"/>non sunt nisi designatione mentis, vel si re
+            <lb ed="#P" n="4"/>ipsa distinguuntur, sunt quasi partes 
+            entita<lb break="no" ed="#P" n="5"/>tvae illius habitus; ubi autem totum idem
+            <lb ed="#P" n="6"/>numero manet, manent eaedem numero partes.
+            <lb ed="#P" n="7"/>Secundo, effectus formalis charitatis viae et 
+            pa<lb break="no" ed="#P" n="8"/>triae est idem, quia una forma non habet nisi
+            <lb ed="#P" n="9"/>unum effectum formalem, cum ille non sit,
+            <lb ed="#P" n="10"/>nisi adhaesio et informatio formae in subjecto;
+            <lb ed="#P" n="11"/>ergo et intensio est omnino eadem, nam haec
+            <lb ed="#P" n="12"/>non distinguitur ab ipsa forma et effectu ejus;
+            <lb ed="#P" n="13"/>quae ratio generaliter probat, nonnisi unicam
+            <lb ed="#P" n="14"/>rationem intensionis posse intelligi in forma,
+            <lb ed="#P" n="15"/>quae una est, et eidem subjecto tota inhaeret.
+            <lb ed="#P" n="16"/>Tertio, gratia, quae est in essentia animae,
+            <lb ed="#P" n="17"/>eamdem intensionem habet in via et patria,
+            <lb ed="#P" n="18"/>cum illa (utpote distincta a charitate ex 
+            opi<lb break="no" ed="#P" n="19"/>nione etiam Cajetani) non respiciat objectum,
+            <lb ed="#P" n="20"/>unde fingi possit illa duplex intensio; ergo
+            <lb ed="#P" n="21"/>idem erit de charitate, quia gratiae 
+            proportio<lb break="no" ed="#P" n="22"/>natur. Tandem habitus charitatis prius natura
+            <lb ed="#P" n="23"/>intelligitur in se perfectus in Beato, quam 
+            in<lb break="no" ed="#P" n="24"/>telligatur in illo visio Dei; ergo in illo 
+            secun<lb break="no" ed="#P" n="25"/>dum se non est varietas intensionis ; nam si
+            <lb ed="#P" n="26"/>qua est, oritur ex visione; et eaedem rationes
+            <lb ed="#P" n="27"/>procedunt de intensione actus. Quod si de 
+            in<lb break="no" ed="#P" n="28"/>tensione, ut motus quidam est, loquamur,
+            <lb ed="#P" n="29"/>haec in patria nulla est, sed in via fit tota;
+            <lb ed="#P" n="30"/>deinde si qua esset, illa esset proportionata
+            <lb ed="#P" n="31"/>termino, atque adeo ejusdem rationis. Dixi in
+            <lb ed="#P" n="32"/>conclusione inter se, hoc est, comparando 
+            gra<lb break="no" ed="#P" n="33"/>dus in diverso statu viae et patriae, non autem
+            <lb ed="#P" n="34"/>ipsos inter se in eodem statu. Sic enim verum
+            <lb ed="#P" n="35"/>omnino putamus diversae rationis esse, ut in
+            <lb ed="#P" n="36"/>Metaphys. explanatum est. (In Metaphysic.
+            <lb ed="#P" n="37"/>disp. 5, sect. 8, n. 22, et disp. 46, sect. 1,a
+            <lb ed="#P" n="38"/>n. 30.)
+          </p>
+          <p xml:id="szthvi-b60777-d1e1460">
+            <lb ed="#P" n="39"/>4. Secunda conclusio. — Dico secundo: 
+            cha<lb break="no" ed="#P" n="40"/>ritas potest esse intensior in aliquo viatore
+            <lb ed="#P" n="41"/>quam in aliquo comprehensore ; hoc satis 
+            de<lb break="no" ed="#P" n="42"/>terminatur ratione dubitandi initio posita, et
+            <lb ed="#P" n="43"/>idem suadent multa exempla evidentia; 
+            in<lb break="no" ed="#P" n="44"/>tensior enim est charitas in christiano 
+            sanctis<lb break="no" ed="#P" n="45"/>simo, quam in eo qui sola gratia baptismali
+            <lb ed="#P" n="46"/>videt Deum; et idem est de sanctissima 
+            Vir<lb break="no" ed="#P" n="47"/>gine: quam conclusionem de gratia quoque
+            <lb ed="#P" n="48"/>suo loco probabilem statuimus. (Vid. 1. 9de
+            <lb ed="#P" n="49"/>Grat., c. 6, n. 16)
+          </p>
+          <p xml:id="szthvi-b60777-d1e1486">
+            <lb ed="#P" n="50"/>Quid de actu charitatis. — Sed quaeres
+            <lb ed="#P" n="51"/>an procedat conclusio non solum ue habitu,
+            <lb ed="#P" n="52"/>sed etiam de actu. Respondetur de utroque 
+            in<lb break="no" ed="#P" n="53"/>telligendam esse, quia viator potest elicere 
+            ac<lb break="no" ed="#P" n="54"/>tum aeque intensum habitui; et sane de Beata
+            <lb ed="#P" n="55"/>Virgine id certissimum est, ut latius iu suo
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>loco :; actus autem Beati non excedit 
+            latitu<lb break="no" ed="#P" n="57"/>dinem habitus. Oppones: gaudium viae non
+            <lb ed="#P" n="58"/>potest esse ita intensum, ac gaudium patriae ;
+            <lb ed="#P" n="59"/>fundatur enim in spe; spes autem, ratione 
+            obje<lb break="no" ed="#P" n="60"/>cti absentis aliquantulum affligit, unde remittit
+            <lb ed="#P" n="61"/>gaudium. Sed neganda est consequentia, quia
+            <lb ed="#P" n="62"/>gaudium viae habet aliquod impedimentum
+            <lb ed="#P" n="63"/>quod non habet amor. Secundo, nego 
+            antece<lb break="no" ed="#P" n="64"/>dens loquendo de puro gaudio charitatis; illud
+            <lb ed="#P" n="65"/>enim nec est de bono absenti, nec fundatur in
+            <lb ed="#P" n="66"/>spe, quia est de bono quod re ipsa est in Deo;
+            <lb ed="#P" n="67"/>s1 vero sermo sit de gaudio ex spe, 
+            argumen<lb break="no" ed="#P" n="68"/>tum non est ad propositum, quamvis fortasse
+            <lb ed="#P" n="69"/>hoc etiam possit esse intensius, quod attinet
+            <lb ed="#P" n="70"/>ad latitudinem graduum. Unde concluditur
+            <lb ed="#P" n="71"/>falsum esse quod Cajetanus sibi assumebat,
+            <lb ed="#P" n="72"/>vel minimam charitatem patriae includere
+            <lb ed="#P" n="73"/>omnem perfectionem, etiam summae 
+            charita<lb break="no" ed="#P" n="74"/>tis viae, quia non includit omnem 
+            intensio<lb break="no" ed="#P" n="75"/>nem, quae est maxima perfectio.
+          </p>
+          <p xml:id="szthvi-b60777-d1e1547">
+            <lb ed="#P" n="76"/>5. Tertia conclusio.— Dico tertio: 
+            probabi<lb break="no" ed="#P" n="77"/>le est in uno et eodem subjecto chanitatem
+            <lb ed="#P" n="78"/>patria non excedere in intensione summam
+            <lb ed="#P" n="79"/>charitatem quam in via habuit, licet in hac
+            <lb ed="#P" n="80"/>re nihil certi sit. Pendet enim ex duabus
+            <lb ed="#P" n="81"/>quaestionibus, an merita mortificata 
+            revivis<lb break="no" ed="#P" n="82"/>cant?;si enim non reviviscunt, fiet ut in patria
+            <lb ed="#P" n="83"/>non habeat charitatem ita intensam, is qui 
+            te<lb break="no" ed="#P" n="84"/>pide surrexit a peccato, et postmedum obiit ;
+            <lb ed="#P" n="85"/>sed probabilius est reviviscere. Altera est, an
+            <lb ed="#P" n="86"/>augmentum quod respondet actibus remissis,
+            <lb ed="#P" n="87"/>detur statim ; si enim non datur statim, 
+            acci<lb break="no" ed="#P" n="88"/>dit multa merita non esse soluta in hac vita,
+            <lb ed="#P" n="89"/>atque in termino viae vel initio patriae intendi
+            <lb ed="#P" n="90"/>naagis charitatem ; caeterum probabilius est
+            <lb ed="#P" n="91"/>statim dari ?. His opinionibus, ut 
+            probabiliori<lb break="no" ed="#P" n="92"/>bus positis, sequitur, charitatem in eodem non
+            <lb ed="#P" n="93"/>esse intensiorem in patria, quam fuerit in via
+            <lb ed="#P" n="94"/>atque ita sentit Vega, 1. 15 in Trident., c. 15,
+            <lb ed="#P" n="95"/>qui contrarium judicat erroneum ; sed 
+            rigoro<lb break="no" ed="#P" n="96"/>sus putatur, cum id pendeat ex opinionibus;
+            <lb ed="#P" n="97"/>quinimo, positis his quae diximus, et alia
+            <lb ed="#P" n="98"/>opinione Theologica, quae dicit Deum 
+            prae<lb break="no" ed="#P" n="99"/>miare ultra condignum, posset in proposito
+            <lb ed="#P" n="100"/>dici Deum in via augere charitatem, juxta 
+            ri<lb break="no" ed="#P" n="101"/>gorem meritorum; illud autem, quod datur
+            <lb ed="#P" n="102"/>ultra meritum, quia est ex Dei liberalitate, 
+            so<lb break="no" ed="#P" n="103"/>lum dari in ingressu patriae, neque aliter illud
+            <lb ed="#P" n="104"/>fuisse promissum, et hoc posito semper erit in
+            <lb ed="#P" n="105"/>eodem intensior charitas in patria, quam in
+            <pb ed="#P" n="656"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>via. Caeterum, quia hoc etiam sine suffticienti
+            <lb ed="#P" n="2"/>fundamento dicitur , ideo probabilior est 
+            con<lb break="no" ed="#P" n="3"/>clusio posita. Solum addendum est accidere
+            <lb ed="#P" n="4"/>posse charitatem viae esse in continuo 
+            aug<lb break="no" ed="#P" n="5"/>mento intensionis usque ad terminum 
+            exterio<lb break="no" ed="#P" n="6"/>rem viae et interiorem patriae, et tunc necesse
+            <lb ed="#P" n="7"/>est charitatem in illo instanti pervenire ad 
+            ali<lb break="no" ed="#P" n="8"/>quem gradum intensionis, quem non habuit in
+            <lb ed="#P" n="9"/>tota vita ; tamen in illo instanti nihil divisibile
+            <lb ed="#P" n="10"/>illi additum est, sed indivisibilis quidam 
+            ter<lb break="no" ed="#P" n="11"/>minus, et ideo simpliciter non est major ; et
+            <lb ed="#P" n="12"/>haec omnia vera sunt, praecipue de habitu.
+            <lb ed="#P" n="13"/>Nam actus viae fere semper sunt remissiores,
+            <lb ed="#P" n="14"/>licet non repugnet esse aequales.
+          </p>
+          <p xml:id="szthvi-b60777-d1e1649">
+            <lb ed="#P" n="15"/>6. Quarta conclusio. — Dico quarto : charitas
+            <lb ed="#P" n="16"/>patriae excedit in statu quamcumque 
+            charita<lb break="no" ed="#P" n="17"/>tem viae, qua ratione potest dici simpliciter
+            <lb ed="#P" n="18"/>perfectior ; sumitur ex modo loquendi sacrae
+            <lb ed="#P" n="19"/>Scripturae, et Patrum; primae Corint. 13: Cum
+            <lb ed="#P" n="20"/>essem parveulus, loquebar ut parvulus, 
+            sapie<lb break="no" ed="#P" n="21"/>bum ut parvulus, cogitabam ut purvulus ; 
+            post<lb break="no" ed="#P" n="22"/>quam autem factus sum vir, ecacuavi quaee
+            <lb ed="#P" n="23"/>erant parvuli. Ubi Apostolus metaphorica 
+            si<lb break="no" ed="#P" n="24"/>militudine statum viae comparat pueritiae, 
+            sta<lb break="no" ed="#P" n="25"/>tum autem patriae confert aetati perfectae, seu
+            <lb ed="#P" n="26"/>virili, ut significet quantum in perfectione
+            <lb ed="#P" n="27"/>unus alterum excedat. Unde ad Philipp. 3, de
+            <lb ed="#P" n="28"/>seipso dicit : IVon quod acceperim, aut jam
+            <lb ed="#P" n="29"/>perfectus sim, sequor autem s quomodo 
+            com<lb break="no" ed="#P" n="30"/>prehendam. Et Augustinus, quia in libro de
+            <lb ed="#P" n="31"/>Moribus Ecclesiae, charitatem viae vocaverat
+            <lb ed="#P" n="32"/>plenam, in l. 1 Retract.. c. 7, id emendat 
+            di<lb break="no" ed="#P" n="33"/>cens : Melius diceretur sincera quam plena, ne
+            <lb ed="#P" n="34"/>forte putaretur charitatem Dei non futuram
+            <lb ed="#P" n="35"/>esse majorem, quando videbimus facie ad 
+            fa<lb break="no" ed="#P" n="36"/>ciem. Et idem Augustinus, l. 2 Contra 
+            adver<lb break="no" ed="#P" n="37"/>sarium legis et Prophetae, c. 5, explicans illud
+            <lb ed="#P" n="38"/>Matt. 11: Qui autem minor est in regno 
+            calo<lb break="no" ed="#P" n="39"/>rum, major est illo, de regno coeiesti, de quo
+            <lb ed="#P" n="40"/>in fine dicturus est idem Christus : Venite, 
+            be<lb break="no" ed="#P" n="41"/>nedicti Patris mei, percipite regmim, 
+            subjun<lb break="no" ed="#P" n="42"/>git : Ft quia ibi sunt sancti Angeli, quilibet in
+            <lb ed="#P" n="43"/>eis minor, major est utique quolibet sancto et
+            <lb ed="#P" n="44"/>Justo portante corpus quod corrumpitur, et 
+            ag<lb break="no" ed="#P" n="45"/>gravat animam. Et Hierony mus, eadem verba
+            <lb ed="#P" n="46"/>Christi ponderans, in capit. 11 Matth. : JVos,
+            <lb ed="#P" n="47"/>inquit , simpliciter intelligumus quod omnis
+            <lb ed="#P" n="48"/>sanctus, qui jam cum Deao est, major sit illo,
+            <lb ed="#P" n="49"/>qui adhuc consistit in prelio : quae quidem
+            <lb ed="#P" n="50"/>expositio inter caeteras videtur 
+            accommoda<lb break="no" ed="#P" n="51"/>üor. Ratione patet, nam charitas in patria
+            <lb ed="#P" n="52"/>est in statu connaturali, hic vero peregrinatur
+            <lb ed="#P" n="53"/>a Domino, 2 Corint. 5, quod ita intellige:
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="54"/>gratia, quae fons est charitatis, forma quaedam
+            <lb ed="#P" n="55"/>est supernaturalis, per quam divinam naturam
+            <lb ed="#P" n="56"/>altiori modo participamus! ; sicut ergo naturae
+            <lb ed="#P" n="57"/>divinae connaturale est lumen, quo se perpetuo
+            <lb ed="#P" n="58"/>videt, ex quo etiam per se oritur perpetuus
+            <lb ed="#P" n="59"/>amor, et sicut animae rationali debetur 
+            natu<lb break="no" ed="#P" n="60"/>rale lumen intellectus , ex quo oritur vis
+            <lb ed="#P" n="61"/>amandi, ita gratiae per se, et natura sua, ut
+            <lb ed="#P" n="62"/>perfecta sit, debetur lumen quo videtur Deus;
+            <lb ed="#P" n="63"/>et eadem ratione, quasi connaturale est 
+            cha<lb break="no" ed="#P" n="64"/>ritati esse conjunctam huic lumini, et ideo
+            <lb ed="#P" n="65"/>quandiu ab illo sejungitur, est extra proprium
+            <lb ed="#P" n="66"/>statum, idque ex quadam necessitate vel 
+            pri<lb break="no" ed="#P" n="67"/>vilegio, ut daretur locus meritis. Secundo,
+            <lb ed="#P" n="68"/>charitas in patria a nullo potest retardari,
+            <lb ed="#P" n="69"/>neque impediri quominus toto conata feratur
+            <lb ed="#P" n="70"/>in Deum ; secus est in via. Tertio, charitas ibi
+            <lb ed="#P" n="71"/>omnia refert in eum quem summe diligit;
+            <lb ed="#P" n="72"/>unde fit ut omnem inconsiderationem, et 
+            om<lb break="no" ed="#P" n="73"/>nem vel levissimam incuriam excludat; secus
+            <lb ed="#P" n="74"/>est in via. Quarto, si rationem amicitiae 
+            spec<lb break="no" ed="#P" n="75"/>tes, ibi habent omnes ejus conditiones altiori
+            <lb ed="#P" n="76"/>gradu summam conjunctionem , eximiam
+            <lb ed="#P" n="77"/>communicationem, etc. Status igitur, seu 
+            per<lb break="no" ed="#P" n="78"/>fectiones quae ex his omnibus consurgunt, 
+            vo<lb break="no" ed="#P" n="79"/>cantur a D. Thoma, 2. 2, q. 24, art. 7, ad 3,
+            <lb ed="#P" n="80"/>et 3 part., q. 7, a. 11, ad 3, quantitas alterius
+            <lb ed="#P" n="81"/>rationis, quae non potest esse in charitate viae,
+            <lb ed="#P" n="82"/>quia haec omnia intime oriuntur ex visione.
+            <lb ed="#P" n="83"/>1. Corollarium ex quo Cajetani aaioma 
+            re<lb break="no" ed="#P" n="84"/>fellitur. — Hinc colligitur differentia inter
+            <lb ed="#P" n="85"/>dictas perfectiones et intensionem ; nam 
+            in<lb break="no" ed="#P" n="86"/>tensio convenit charitati secundum se, cum
+            <lb ed="#P" n="87"/>quacumque cognitione conjuncta sit; unde
+            <lb ed="#P" n="88"/>haec perfectio utrique statui communis est;
+            <lb ed="#P" n="89"/>aliae vero perfectiones oriuntur praecise ex
+            <lb ed="#P" n="90"/>visione, unde falsum est illud axioma 
+            Caje<lb break="no" ed="#P" n="91"/>tani, omnem perfectionem charitatis esse 
+            di<lb break="no" ed="#P" n="92"/>versae rationis in via et in patria ; solum enim
+            <lb ed="#P" n="93"/>procedit de perfectionibus quae praecise 
+            oriun<lb break="no" ed="#P" n="94"/>tur ex visione Dei. Dices : omnes perfectiones
+            <lb ed="#P" n="95"/>numeratae sunt extrinsecae charitati, sola 
+            au<lb break="no" ed="#P" n="96"/>tem intensio spectat ad ejus substantiam;
+            <lb ed="#P" n="97"/>ergo haec praeponderat reliquis. Respondetur:
+            <lb ed="#P" n="98"/>si metaphysice de perfectione entitativa 
+            lo<lb break="no" ed="#P" n="99"/>quamur, ita est; attamen, loquendo humano
+            <lb ed="#P" n="100"/>modo prout charitas consideratur in ordine ad
+            <lb ed="#P" n="101"/>bonum et convenientem usum suarum 
+            actio<lb break="no" ed="#P" n="102"/>num, dicitur charitas perfectior simpliciter in
+            <lb ed="#P" n="103"/>statu patriae. Objicies : potest esse charitas
+            <lb ed="#P" n="104"/>viae tanta, ac aliis perfectionibus conjuncta, ut
+            <lb ed="#P" n="105"/>confirmationi in gratia, praeservationi ab
+            <pb ed="#P" n="657"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>omni peccato cum magnis auxiliis et 
+            excita<lb break="no" ed="#P" n="2"/>tionibus, etc., ut, omnibus pensatis, etiam
+            <lb ed="#P" n="3"/>humano modo possit perfectior existimari et
+            <lb ed="#P" n="4"/>magis prudenter aestimari, quam remissa 
+            cha<lb break="no" ed="#P" n="5"/>ritas Beati. Durandus, in 1, distinct. 17,
+            <lb ed="#P" n="6"/>quaest. 9, ad 1, indicat de potentia absoluta
+            <lb ed="#P" n="7"/>non repugnare; quod si ita est. plane ita 
+            judi<lb break="no" ed="#P" n="8"/>candum esset de charitate Virginis in via,
+            <lb ed="#P" n="9"/>respectu pueri videntis Deum; tamen quia res
+            <lb ed="#P" n="10"/>est de modo loquendi, loquendum est cum
+            <lb ed="#P" n="11"/>omnibus ex fundamento illius principii, quod
+            <lb ed="#P" n="12"/>quando perfectio est superioris ordinis, 
+            quan<lb break="no" ed="#P" n="13"/>tumvis crescant alia inferioris ordinis, non
+            <lb ed="#P" n="14"/>attingunt ad aequalitatem.
+          </p>
+        </div>
+        <div xml:id="szthvi-b60777-Dd1e1887">
+          <head xml:id="szthvi-b60777-Hd1e1889">Sectio 5</head>
+          <head xml:id="szthvi-b60777-Hd1e1891" type="question-title">Utrum sit aliquis habitus amicitiae acquisitae ergo deum vel proximum</head>
+          <p xml:id="szthvi-b60777-d1e1894">
+            <lb ed="#P" n="15"/>SECTIO V.
+            <lb ed="#P" n="16"/>Utrum sit aliquis habitus amicitiae acquisitae
+            <lb ed="#P" n="17"/>ergo Deum vel proximum.
+          </p>
+          <p xml:id="szthvi-b60777-d1e1903">
+            <lb ed="#P" n="18"/>1. Prima conclusio, pro qua vide l.1 de
+            <lb ed="#P" n="19"/>Grat., c. 30. — Dubii cujusdam dilutio. —
+            <lb ed="#P" n="20"/>Dico primo : per naturales actus dilectionis Dei
+            <lb ed="#P" n="21"/>auctoris naturae potest homo acquirere 
+            habi<lb break="no" ed="#P" n="22"/>tum ad similes actus inclinantem. hatio est,
+            <lb ed="#P" n="23"/>quia licet voluntas habeat naturalem 
+            inclina<lb break="no" ed="#P" n="24"/>tionem ad amandum Deum plus quam se,
+            <lb ed="#P" n="25"/>tamen habet inclinationes alias, quae magnam
+            <lb ed="#P" n="26"/>difficultatem afferunt bono et facili usui illius
+            <lb ed="#P" n="27"/>inclinationis prioris; habitus autem 
+            genera<lb break="no" ed="#P" n="28"/>tur, ubicumque sunt hujusmodi inclinationes
+            <lb ed="#P" n="29"/>quasi se invicem impedientes. Dices : quid si
+            <lb ed="#P" n="30"/>illa difficultas esset jam supcerata per alias 
+            vir<lb break="no" ed="#P" n="31"/>tutes? Respondetur, in statu natura lapsae
+            <lb ed="#P" n="32"/>nunquam ita perfici omnes virtutes et 
+            incli<lb break="no" ed="#P" n="33"/>nationes, ut tollatur omnis difficultas'; in
+            <lb ed="#P" n="34"/>statu vero naturae integrae, essent sublata 
+            om<lb break="no" ed="#P" n="35"/>nia impedimenta, et ideo aliqui putant in eo
+            <lb ed="#P" n="36"/>statu non fuisse necessarium hunc habitum;
+            <lb ed="#P" n="37"/>sed dicendum potius est illam naturae 
+            inte<lb break="no" ed="#P" n="38"/>gritatem inter alia petiisse concursum omnium
+            <lb ed="#P" n="39"/>habituum, quorum homo natura sua est 
+            ca<lb break="no" ed="#P" n="40"/>pax, et qui per^iciunt omnes hominis bonas
+            <lb ed="#P" n="41"/>inclinationes ?. Unde necessarius esset 
+            ha<lb break="no" ed="#P" n="42"/>bitus iste, et ille partim superat illam 
+            difhi<lb break="no" ed="#P" n="43"/>cultatem.
+          </p>
+          <p xml:id="szthvi-b60777-d1e1962">
+            <lb ed="#P" n="44"/>2 Secunda conclusio. — Dico secundo hunc
+            <lb ed="#P" n="45"/>habitum esse virtutem, et perfectissimam 
+            in<lb break="no" ed="#P" n="46"/>ter omnes, quas voluntas suis actibus 
+            acqui<lb break="no" ed="#P" n="47"/>rit; imo si cum virtutibus naturalibus 
+            intel<lb break="no" ed="#P" n="48"/>lectus comparetur, illas tam in genere entis
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="49"/>quam in genere virtutis superare, una excepta
+            <lb ed="#P" n="50"/>sapientia, quae in cognitione perfectissima
+            <lb ed="#P" n="51"/>Dei naturali consistit, et in genere entis 
+            per<lb break="no" ed="#P" n="52"/>fectior est. Tota haec conclusio patet ex dictis
+            <lb ed="#P" n="53"/>de charitate infusa, nam est eadem proportio
+            <lb ed="#P" n="54"/>illius ad virtutes infusas, et hujus ad 
+            acquisi<lb break="no" ed="#P" n="55"/>tas. Neque refert quod philosophi non 
+            memi<lb break="no" ed="#P" n="56"/>nerint hujus virtutis; non enim satis 
+            intel<lb break="no" ed="#P" n="57"/>lexerunt amorem Dei super omnia, vel 
+            con<lb break="no" ed="#P" n="58"/>fuderunt hanc virtutem cum religione.
+          </p>
+          <p xml:id="szthvi-b60777-d1e2000">
+            <lb ed="#P" n="59"/>3. Tertia conclusio. — Dico tertio hanc
+            <lb ed="#P" n="60"/>virtutem respectu Dei esse unam, et eadem
+            <lb ed="#P" n="61"/>potuisse diligi proximum propter Deum. Ratio
+            <lb ed="#P" n="62"/>est, quia objectum formale est unum, quod
+            <lb ed="#P" n="63"/>per se primo applicatur Deo, et secundario
+            <lb ed="#P" n="64"/>applicari potest proximo. Et patet etiam a 
+            si<lb break="no" ed="#P" n="65"/>mili de habitu charitatis.
+          </p>
+          <p xml:id="szthvi-b60777-d1e2018">
+            <lb ed="#P" n="66"/>4. Quarta conclusio. — Dico quarto : hic
+            <lb ed="#P" n="67"/>habitus non habet proprie rationem amicitiae
+            <lb ed="#P" n="68"/>hominis ad Deum finem naturae. Ita loquuntur
+            <lb ed="#P" n="69"/>communiter Theologi; censent enim sine 
+            cha<lb break="no" ed="#P" n="70"/>rtate infusa nullam esse veram amicitiam
+            <lb ed="#P" n="71"/>inter Deum et hominem, quod in hoc siatu
+            <lb ed="#P" n="72"/>per se constat; ubi enim deest charitas 
+            in<lb break="no" ed="#P" n="73"/>fusa, adest peccatum mortale, quod repugnat
+            <lb ed="#P" n="74"/>amicitiae!; at si loquamur de homine in puris
+            <lb ed="#P" n="75"/>naturalibus, posset esse nonnullum dubium,
+            <lb ed="#P" n="76"/>quia esset inter Deum, et hominem mutuus
+            <lb ed="#P" n="77"/>amor. Unde Aristoteles, 8 Ethic., cap. 12,
+            <lb ed="#P" n="78"/>cognoscit amicitiam excellentiae inter nos et
+            <lb ed="#P" n="79"/>Deum ; tamen cap. 7, et 2 Magnorum moral.,
+            <lb ed="#P" n="80"/>cam negaverat, et melius quilem; quia in eo
+            <lb ed="#P" n="81"/>staiu non esset communicatio perfecta in 
+            or<lb break="no" ed="#P" n="82"/>dine ad unum finem honestum ; unde neque
+            <lb ed="#P" n="83"/>esset aequalitas ad amicitiam sufliciens, nam
+            <lb ed="#P" n="84"/>ita se generet tunc Deus proportionaliter
+            <lb ed="#P" n="85"/>cum homine, sicut cum aliis rebus 
+            naturali<lb break="no" ed="#P" n="86"/>bus, atque adeo non ut amicus, sed ut 
+            abso<lb break="no" ed="#P" n="87"/>lute dominus.
+          </p>
+          <p xml:id="szthvi-b60777-d1e2068">
+            <lb ed="#P" n="88"/>5. Quinta conclusio. — Quaestiuncule 
+            re<lb break="no" ed="#P" n="89"/>solutio. — Dico quinto : per actus naturalis
+            <lb ed="#P" n="90"/>amoris honesti erga proximum, etiam 
+            acqui<lb break="no" ed="#P" n="91"/>ritur habitus cujusdam virtutis moralis 
+            incli<lb break="no" ed="#P" n="92"/>nans ad similes actus ; patet supponendo nos
+            <lb ed="#P" n="93"/>loqui de amore benevolentiae unius hominis
+            <lb ed="#P" n="94"/>ad alios, qui amor potest esse honestus, si
+            <lb ed="#P" n="95"/>recta ratione reguletur, imo est fundamentum
+            <lb ed="#P" n="96"/>totius justitiae et pacis. Denique ratio 
+            natu<lb break="no" ed="#P" n="97"/>ralis docet pt, quod mihi volo, idem velim
+            <lb ed="#P" n="98"/>alteri ; nullus autem est qui non velit ab aliis
+            <lb ed="#P" n="99"/>amari. Ad haec, licet hi actus naturales sint ex
+            <lb ed="#P" n="100"/>inclinatione naturae, tamen non sunt omnino
+            <lb ed="#P" n="101"/>faciles, quia amor proprius saepe imped:t valde
+            <pb ed="#P" n="658"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>amorem proximi, et similiter aliae passiones
+            <lb ed="#P" n="2"/>maxime ex tali amore pullulantes; hinc ergo
+            <lb ed="#P" n="3"/>concluditur per hos actus generari habitum qui
+            <lb ed="#P" n="4"/>praestet facilitatem, illumque esse virtutem,
+            <lb ed="#P" n="5"/>cum generetur per actus honestos, et teneat
+            <lb ed="#P" n="6"/>medium inter extrema. Confirmatur a 
+            contra<lb break="no" ed="#P" n="7"/>rio, nam odium proximi generat habitum 
+            pra<lb break="no" ed="#P" n="8"/>vum; ergo expelletur per habitum 
+            contra<lb break="no" ed="#P" n="9"/>rium. Unde etiam fit hunc habitum esse 
+            dis<lb break="no" ed="#P" n="10"/>tinctum specialtter ab aliis, quia generatur
+            <lb ed="#P" n="11"/>per actus habentes specialem honestatem. Sed
+            <lb ed="#P" n="12"/>quaeres an hic habitus sit distinctus ab illo
+            <lb ed="#P" n="13"/>habitu amoris Dei, quem posuimus. 
+            Respon<lb break="no" ed="#P" n="14"/>detur hreviter esse distinctum, ex fundamento
+            <lb ed="#P" n="15"/>posito in disputatione 1, sectione 3, ubi quoad
+            <lb ed="#P" n="16"/>hoc diversam dedimus rationem inter 
+            amo<lb break="no" ed="#P" n="17"/>rem naturalem et supernaturalem.
+          </p>
+        </div>
+        <div xml:id="szthvi-b60777-Dd1e2143">
+          <head xml:id="szthvi-b60777-Hd1e2145">Sectio 6</head>
+          <head xml:id="szthvi-b60777-Hd1e2147" type="question-title">Utrum amicitia humana acquisita sit virtus specialis</head>
+          <p xml:id="szthvi-b60777-d1e2150">
+            <lb ed="#P" n="18"/>SECTIO VI.
+            <lb ed="#P" n="19"/>Utrum amicitia humana acquisita sit virtus
+            <lb ed="#P" n="20"/>specialis.
+          </p>
+          <p xml:id="szthvi-b60777-d1e2159">
+            <lb ed="#P" n="21"/>1. Prima sententia vejicitur. — Secunda
+            <lb ed="#P" n="22"/>sententia. — Tertia sententia. — 
+            Fundamen<lb break="no" ed="#P" n="23"/>tum.—-Primum omnium rejicienda est illa 
+            sen<lb break="no" ed="#P" n="24"/>tentia, qua affirmat esse specialem habitum,
+            <lb ed="#P" n="25"/>negat autem esse specialem virtutem. Nam
+            <lb ed="#P" n="26"/>in objecto et actu hujus amicitiae est specialis
+            <lb ed="#P" n="27"/>honestas et difficultas; et consequenter ipse
+            <lb ed="#P" n="28"/>habitus est studiosus, et specialis virtutis; 
+            at<lb break="no" ed="#P" n="29"/>qu- ita sentiunt Gandavensis, Quodlibeto 10,
+            <lb ed="#P" n="30"/>quaest. 12; Paludanus, in 3, dist. 27, quaest.
+            <lb ed="#P" n="31"/>1; Aureolus, apud Capreolum, quaest. un.;
+            <lb ed="#P" n="32"/>Eustratius, in libro 8 Ethic., cap. 1; Buridan.,
+            <lb ed="#P" n="33"/>ibidem, quaest. 3. Altera tamen sententia 
+            ne<lb break="no" ed="#P" n="34"/>cat esse specialem virtutem, sed quasi quid
+            <lb ed="#P" n="35"/>conseuens omnes. Sic sensit Aristoteles, 8
+            <lb ed="#P" n="36"/>Ethicor., cap. 1; Divus Thomas, 2. 2, quaest.
+            <lb ed="#P" n="37"/>23, art. 3, ad 1, et quaest. 114, art. 1, ad 1;
+            <lb ed="#P" n="38"/>quaest. 2 de Virtutibus, art. 2, ad S8, et in 3,
+            <lb ed="#P" n="39"/>dist. 27, quaest. 2, art. 2, ad 1; ubi 
+            Capreo<lb break="no" ed="#P" n="40"/>lus, quaest. un., art. 3, ad 1 contra 1 concl.;
+            <lb ed="#P" n="41"/>Cajetan., 2. 2, quaest. 23, art. 3. 
+            Fundamen<lb break="no" ed="#P" n="42"/>tum est, quia amicitia supponit honestatem,
+            <lb ed="#P" n="43"/>in qua fundatur ; ergo supporit virtutes; ergo
+            <lb ed="#P" n="44"/>non est specialis virtus, sed quid consequens.
+            <lb ed="#P" n="45"/>Quod ita potest intelligi, nam unaquaeque 
+            vir<lb break="no" ed="#P" n="46"/>tus diligit proximum affectum simili virtute,
+            <lb ed="#P" n="47"/>quia ibi invenit honestatem suam; ergo 
+            om<lb break="no" ed="#P" n="48"/>nes virtutes simul sufficienter amabunt 
+            proxi<lb break="no" ed="#P" n="49"/>mum sub omni ratione honesta.
+          </p>
+          <p xml:id="szthvi-b60777-d1e2224">
+            <lb ed="#P" n="50"/>2. Prima conclusio bipartita. — Ad 
+            funda<lb break="no" ed="#P" n="51"/>mentum tertie sententie. —Dico primo : 
+            habi<lb break="no" ed="#P" n="52"/>tus ille acquisitus, quo amatur proximus amo-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>re naturali honesto, vere habet rationem 
+            ami<lb break="no" ed="#P" n="54"/>citiae humanae, et in hoc sensu haec amicitia
+            <lb ed="#P" n="55"/>dici potest specialis virtus. Prima pars 
+            proba<lb break="no" ed="#P" n="56"/>tur, quia ille habitus pertinet ad amorem 
+            be<lb break="no" ed="#P" n="57"/>nevolentiae inter aequales, inter quos est 
+            sufti<lb break="no" ed="#P" n="58"/>ciens communi;catio, et in his consistit ratio
+            <lb ed="#P" n="59"/>am citiae ; nam si quae aliae rationes 
+            assignan<lb break="no" ed="#P" n="60"/>tur, potius spectant ad perfectum statum 
+            ami<lb break="no" ed="#P" n="61"/>citiae, quam ad essentiam illius habitus, qui
+            <lb ed="#P" n="62"/>dicitur amicitia. Posterior pars constat ex 
+            di<lb break="no" ed="#P" n="63"/>ctis : ostensum est enim hunc habitum esse
+            <lb ed="#P" n="64"/>specialem, et habere propriam honestatem;
+            <lb ed="#P" n="65"/>nec contra hoc procedunt rationes tertiae 
+            sen<lb break="no" ed="#P" n="66"/>tentiae; non enim hic habitus supponit omnes
+            <lb ed="#P" n="67"/>virtutes acquisitas, sel est una earum, et 
+            prae<lb break="no" ed="#P" n="68"/>cipua inter eas quae ad proximum referuntur.
+            <lb ed="#P" n="69"/>Neque obstat quod quaelibet virtus amet suam
+            <lb ed="#P" n="70"/>honestatem ubi est, atque adeo proximum sub
+            <lb ed="#P" n="71"/>ea ratione honesti, quia hoc non spectat ad
+            <lb ed="#P" n="72"/>amicitiae motivum. sed ad specialem 
+            honesta<lb break="no" ed="#P" n="73"/>tem cujusque virtutis; haec autem virtus amat
+            <lb ed="#P" n="74"/>proximum per se, et simpliciter ratione suae
+            <lb ed="#P" n="75"/>naturae. Dices : hic habitus esse potest in eo
+            <lb ed="#P" n="76"/>qui non redamatur; ergo non habet rationem
+            <lb ed="#P" n="77"/>amicitiae. Respondetur imprimis moraliter 
+            ac<lb break="no" ed="#P" n="78"/>cidere non posse, ut sic amanti non 
+            respon<lb break="no" ed="#P" n="79"/>deat redamans, quia hic amor se extendit ad
+            <lb ed="#P" n="80"/>omnes homines, inter quos erunt multi 
+            reda<lb break="no" ed="#P" n="81"/>mantes; et hoc sensu etiam mutuus amor hic
+            <lb ed="#P" n="82"/>non latebit. Deinde respondetur, quamvis 
+            rul<lb break="no" ed="#P" n="83"/>lus esset qui redamaret, solum inde fieri hunc
+            <lb ed="#P" n="84"/>habitum, in uno tantum existentem, non esse
+            <lb ed="#P" n="85"/>completam amicitiam, esse tamen inchoatam
+            <lb ed="#P" n="86"/>ex parte unius extremi; quod satis est ad 
+            ra<lb break="no" ed="#P" n="87"/>Uonem virtutis, quae est amicitia.
+          </p>
+          <p xml:id="szthvi-b60777-d1e2312">
+            <lb ed="#P" n="88"/>3. An idem sit habitus amoris naturalis ad
+            <lb ed="#P" n="89"/>omnes progimos. — Sed superest explicandum
+            <lb ed="#P" n="90"/>an ea specialis amicitia, quae contrahitur inter
+            <lb ed="#P" n="91"/>duos, requirat specialem habitum; quod 
+            pen<lb break="no" ed="#P" n="92"/>det ex alio dubio, an uno et eodem habitu
+            <lb ed="#P" n="93"/>amemus omnes proximos, an vero 
+            multipli<lb break="no" ed="#P" n="94"/>centur hi habitus juxta varias conjunctiones,
+            <lb ed="#P" n="95"/>nimirum, ut unus sit inter patrem et filium;
+            <lb ed="#P" n="96"/>alius inter conjuges; alius vero inter duos
+            <lb ed="#P" n="97"/>amnicos, etc. Nam quod haec omnia habitu 
+            ali<lb break="no" ed="#P" n="98"/>quo fieri possint, illumque esse virtutem, 
+            ex<lb break="no" ed="#P" n="99"/>perientia constat.
+          </p>
+          <p xml:id="szthvi-b60777-d1e2341">
+            <lb ed="#P" n="100"/>4. Secunda conclusio. — Dico secundo: 
+            eo<lb break="no" ed="#P" n="101"/>dem habitu acquisito amantur omnes homines
+            <lb ed="#P" n="102"/>amore naturali et honesto. Probatur, quia in
+            <lb ed="#P" n="103"/>omnibus est una praecipua ratio amandi, quae
+            <lb ed="#P" n="104"/>est communicatio in rationali natura ; quod
+            <lb ed="#P" n="105"/>vero huic adjungatur alia communicatio, non
+            <lb ed="#P" n="106"/>variat rationem formalem hujus amoris, 
+            prae<lb break="no" ed="#P" n="107"/>cipue cum supra dictum sit, in benevolentiae
+            <pb ed="#P" n="659"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>amore conjunctionem non esse rationem
+            <lb ed="#P" n="2"/>amandi, sed conditionem sine qua non. 
+            Con<lb break="no" ed="#P" n="3"/>firmatur a simili de charitate infusa; nam
+            <lb ed="#P" n="4"/>haec, una cum sit, ad omnes tamen proximos
+            <lb ed="#P" n="5"/>se extendit. Secundo, naturale praeceptum 
+            di<lb break="no" ed="#P" n="6"/>ligendi proximum unum est, comprehendens
+            <lb ed="#P" n="7"/>omnes proximos; ergo ejus observatio ad unam
+            <lb ed="#P" n="8"/>virtutem spectat. Tandem virtus amcris 
+            dis<lb break="no" ed="#P" n="9"/>tincta est a particularibus virtutibus, quae 
+            re<lb break="no" ed="#P" n="10"/>spiciunt peculiares obligationes, ut a justitia,
+            <lb ed="#P" n="11"/>]uetate, etc.; et est tanquam principium 
+            uni<lb break="no" ed="#P" n="12"/>versale imperans omnibus illis; ergo erit una.
+            <lb ed="#P" n="13"/>D. Tertia conclusio.— Unde probet ur.—Dbico
+            <lb ed="#P" n="14"/>tertio illam virtutem, qua duo amici inter se
+            <lb ed="#P" n="15"/>specialiter amantur, non esse habitum 
+            distin<lb break="no" ed="#P" n="16"/>ctum ab ipso habitu amandi proximum, sed
+            <lb ed="#P" n="17"/>eumdem magis applicatum, magis 
+            inclinan<lb break="no" ed="#P" n="18"/>tem ad unum quam ad alios, non temere, sed
+            <lb ed="#P" n="19"/>prudenter; nimirum quia in eo reiucet major
+            <lb ed="#P" n="20"/>honestas, ex qua cum hoc contraxit specialem
+            <lb ed="#P" n="21"/>conjunctionem in ordine ad aliquem finem
+            <lb ed="#P" n="22"/>honestum. Haec conclusio sequitur ex 
+            superio<lb break="no" ed="#P" n="23"/>ri, et a simili patet in charitate infusa, quae
+            <lb ed="#P" n="24"/>interdum potest applicari magis ad unum
+            <lb ed="#P" n="25"/>quam ad alium; quia vero haec charitas 
+            ordi<lb break="no" ed="#P" n="26"/>nata est, ideo juxta speciales rationes 
+            hones<lb break="no" ed="#P" n="27"/>tatis et conjunctionis imperat specialia officia
+            <lb ed="#P" n="28"/>cirea hunc hominem amicum, quae cirea
+            <lb ed="#P" n="29"/>alium non imperat.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

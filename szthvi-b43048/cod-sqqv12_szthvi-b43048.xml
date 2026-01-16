@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 23</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 23</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="577"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-b43048"><!-- l1-d23 -->
+        <head xml:id="szthvi-b43048-Hd1e101">Disputatio 23</head>
+        <head xml:id="szthvi-b43048-Hd1e103" type="question-title">De poenis corporalibus haereticorum</head>
+        <p xml:id="szthvi-b43048-d1e106">
+          <lb ed="#P" n="63"/>DISPUTATIO XXIII.
+          <lb ed="#P" n="64"/>DE POENIS CORPORALIBUS HAERETICORUM.
+        </p>
+        <p xml:id="szthvi-b43048-d1e113">
+          <lb ed="#P" n="65"/>Primum genus poenae, carcer. — Secundum,
+          <lb ed="#P" n="66"/>exilium. — Tertium, flagellatio. — Quartum,
+          <lb ed="#P" n="67"/>mors.— Materia hujus disputationis magis ad
+          <lb ed="#P" n="68"/>externum quam ad internum forum pertinet,
+          <lb ed="#P" n="69"/>et ideo hanc poenam brevius quam 
+          praeceden<lb break="no" ed="#P" n="70"/>tem expediemus, illa tantum attingendo, quae
+          <lb ed="#P" n="71"/>vel ad dogmata ftidei, vel ad forum 
+          conscien<lb break="no" ed="#P" n="72"/>tiae aliquo modo pertinuerint. Oportet autem
+          <lb ed="#P" n="73"/>advertere, varias esse has poenas corporales;
+          <lb ed="#P" n="74"/>possunt tamen ad quatuor capita reduci. 
+          Hu<lb break="no" ed="#P" n="75"/>jusmodi sunt poena carceris, non quidem 
+          il<lb break="no" ed="#P" n="76"/>lius carceris, qui per modum custodiae 
+          sen<lb break="no" ed="#P" n="77"/>tentiam praecedit ; nam illa non est poena, sed
+          <lb ed="#P" n="78"/>medium necessarium ad examinationem 
+          cau<lb break="no" ed="#P" n="79"/>sae, et veritatis inquisitionem ; post sententiam
+          <lb ed="#P" n="80"/>vero imponitur per modum poenae vel 
+          tempo<lb break="no" ed="#P" n="81"/>ralis, vel perpetuae, id est ad vitam. Et ceadem
+          <lb ed="#P" n="82"/>ralione non numeramus inter has poenas 
+          tor<lb break="no" ed="#P" n="83"/>turam, quae non est ad supplicium, sed ad 
+          ex<lb break="no" ed="#P" n="84"/>quirendam veritatem infertur. Secunda poena
+          <lb ed="#P" n="85"/>est exilium ; nam inter corporales etiam 
+          com<lb break="no" ed="#P" n="86"/>putatur et maxime cum imponitur adtriremes.
+          <lb ed="#P" n="87"/>Tertia est flagellatio, vel alia similis corporis
+          <lb ed="#P" n="88"/>afflictio. Quarta est poena mortis, quae in jure
+          <lb ed="#P" n="89"/>dici solet ultimum supplicium, et circa hanc
+          <lb ed="#P" n="90"/>praecipue immorari debemus, quia, si haec 
+          fue<lb break="no" ed="#P" n="91"/>rit justa, a fortiori esse poterunt reliquae.
+        </p>
+        <div xml:id="szthvi-b43048-Dd1e174">
+          <head xml:id="szthvi-b43048-Hd1e176">Sectio 1</head>
+          <head xml:id="szthvi-b43048-Hd1e178" type="question-title">Utrum possit ecclesia haereticos mortis supplicio juste punire</head>
+          <p xml:id="szthvi-b43048-d1e181">
+            <lb ed="#P" n="92"/>SECTIO I.
+            <lb ed="#P" n="93"/>Utrum possit Ecclesia haereticos mortis 
+            sup<lb break="no" ed="#P" n="94"/>plicio juste punire.
+          </p>
+          <p xml:id="szthvi-b43048-d1e190">
+            <lb ed="#P" n="95"/>1. Error Donatistarum. — Item Lutheri.—
+            <lb ed="#P" n="96"/>Ljus primum funda nentum. — Secundum ex
+            <lb ed="#P" n="97"/>Matt. 13. — Tertium. — Quartum. Antiqua
+            <lb ed="#P" n="98"/>haeresis fuit, non posse Ecclesiam heereticos
+            <lb ed="#P" n="99"/>poena mortis afficere, neque ad hoc uti auxilio
+            <lb ed="#P" n="100"/>brachii saecularis. Ita senserunt Donatistae, ut
+            <lb ed="#P" n="101"/>ex Augustino, lib. 1 Contra epistol. 
+            Parmc<lb break="no" ed="#P" n="102"/>nian., cap. 7, et lib. 2 Contra litteras Petilia-
+            <pb ed="#P" n="578"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ni, cap. 10, et lib. 2contra Gaudent., cap. 17,
+            <lb ed="#P" n="2"/>et 26, et epist. 48, 50, et aliis constat. In 
+            eo<lb break="no" ed="#P" n="3"/>dem errore fuit Wicleph, ut refertur in 
+            Con<lb break="no" ed="#P" n="4"/>cilio Constantiensi, sess. 15, in artic. ejus 14.
+            <lb ed="#P" n="5"/>Idem asseruit Lutherius, art. 33 per Leonem X
+            <lb ed="#P" n="6"/>damnato; et Augustinus interdum de hac re
+            <lb ed="#P" n="7"/>fuit dubius, non quidem an liceat, sed an 
+            ex<lb break="no" ed="#P" n="8"/>pediat uti hac poena contra haereticos. 
+            Funda<lb break="no" ed="#P" n="9"/>bantur haeretici, quia Christus, Matthaei 7, et
+            <lb ed="#P" n="10"/>Lucae 20, docuit quidem cavendum esse a falsis
+            <lb ed="#P" n="11"/>prophetis, et arcendos esse lupos; nunquam
+            <lb ed="#P" n="12"/>tamen docuit esse interimendos, quin potius
+            <lb ed="#P" n="13"/>Petro prohibuit uti gladio. Secundo, maxime
+            <lb ed="#P" n="14"/>urgent parabolam de zizaniis, Matth. 13, nam
+            <lb ed="#P" n="15"/>in ea dixit Christus non esse eradicanda 
+            zi<lb break="no" ed="#P" n="16"/>zania, ne forte simul eradicetur et triticum;
+            <lb ed="#P" n="17"/>nomine autem zizaniorum haeretici 
+            significan<lb break="no" ed="#P" n="18"/>tur, ut ibi sentiunt Hieronym., Theophyl.
+            <lb ed="#P" n="19"/>Eutym., et Chrysost., homil. 47; et 
+            Augus<lb break="no" ed="#P" n="20"/>tin., in lib. Post collationem contra 
+            Donatis<lb break="no" ed="#P" n="21"/>tas, cap. 6, cum Cyprian., epistol. 51, alias
+            <lb ed="#P" n="22"/>libro tertio, epistola tertia. Tertio 
+            argumen<lb break="no" ed="#P" n="23"/>tantur ex antiqua consuetudine Ecclesiae, 
+            sal<lb break="no" ed="#P" n="24"/>tem negativa, quia nunquam usa est tali 
+            poe<lb break="no" ed="#P" n="25"/>na, sed ad summum exilii, ut ex antiquis
+            <lb ed="#P" n="26"/>Conciliis constat, quae consuetudo fundata fuit
+            <lb ed="#P" n="27"/>in mansuetudine Ecclesiae, cui talis poena 
+            re<lb break="no" ed="#P" n="28"/>pugnat. Quarto, quia Ecclesia non utitur hac
+            <lb ed="#P" n="29"/>ponna contra alios infideles, sed tolerat etiam
+            <lb ed="#P" n="30"/>Judaeos; ergo nec contra haereticos illa uti 
+            de<lb break="no" ed="#P" n="31"/>bet aut potest.
+          </p>
+          <p xml:id="szthvi-b43048-d1e281">
+            <lb ed="#P" n="32"/>9. Prima assertio catholica, quod pro heresi
+            <lb ed="#P" n="33"/>pana mortis justa sit, et ex potestate Ecclesie.
+            <lb ed="#P" n="34"/>— Nihilominns assertio catholica est, 
+            Eccle<lb break="no" ed="#P" n="35"/>siam posse juste punire haereticos poena 
+            mor<lb break="no" ed="#P" n="36"/>tis. Hanc veritatem late defendunt contra 
+            hae<lb break="no" ed="#P" n="37"/>reticos, Roffens., dicto artic. 33 contra 
+            Lu<lb break="no" ed="#P" n="38"/>ther. ; et Eckius, art. 97 contra eumdem; 
+            Bel<lb break="no" ed="#P" n="39"/>larmin., lib. 3de Laicis, cap. 21 et 22; Casiro,
+            <lb ed="#P" n="40"/>lib. 1 de Just. haeret. punit., cap. 9, et lib. 2,
+            <lb ed="#P" n="41"/>cap. 12; Valentia, tomo 3, disp. 1, quaest. 11,
+            <lb ed="#P" n="42"/>punct. 3; Osius, lib. 1contra Brent.; et ex 
+            ju<lb break="no" ed="#P" n="43"/>risperitis, Covarr., lib. 2 Variar., cap. 10, n.
+            <lb ed="#P" n="44"/>10; et Simanc., tit. 46, a num. 44; et alii
+            <lb ed="#P" n="45"/>sectione sequenti refercndi. Et probatur 
+            bre<lb break="no" ed="#P" n="46"/>viter, quia, ut aliqua poena juste infligatur,
+            <lb ed="#P" n="47"/>duo tantum necessaria sunt: primum, ut 
+            poe<lb break="no" ed="#P" n="48"/>na sit proportionata gravitati culpae ; 
+            secun<lb break="no" ed="#P" n="49"/>dum, ut ab habente potestatem et 
+            jurisdictio<lb break="no" ed="#P" n="50"/>nem inferatur: utrumque autem in hac poena
+            <lb ed="#P" n="51"/>invenitur. Consequentia cum majori 
+            eviden<lb break="no" ed="#P" n="52"/>tes sunt; minor superest probanda.
+          </p>
+          <p xml:id="szthvi-b43048-d1e330">
+            <lb ed="#P" n="53"/>3. Probatur quoad justitiam ex Scriptura.
+            <lb ed="#P" n="54"/>— Prior ergo pars de aequitate poenae probari
+            <lb ed="#P" n="55"/>potest imprimis exemplo Dei, qui in veteri
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>Testamento falsos prophetas occidi jussit, 
+            Deu<lb break="no" ed="#P" n="57"/>ter. 13 et 18 ; imo, cap. 17, eamdem poenam
+            <lb ed="#P" n="58"/>tulit contra eos, qui obedire nollent judicio 
+            sa<lb break="no" ed="#P" n="59"/>cerdotis, praesertim in controversiis fidei. Et
+            <lb ed="#P" n="60"/>ita in aliis Scripturae locis laudantur reges,
+            <lb ed="#P" n="61"/>qui hanc poenam executioni mandari fecerunt,
+            <lb ed="#P" n="62"/>ut 3 Reg. 18, et 4 Reg. 10 et 23. In novo 
+            au<lb break="no" ed="#P" n="63"/>tem Testamento, quamvis Christus Dominus
+            <lb ed="#P" n="64"/>id non praeceperit, nec siriles leges tulerit,
+            <lb ed="#P" n="65"/>quia nec caeremoniales, nec judiciales leges
+            <lb ed="#P" n="66"/>Ecclesiae suae reliquit, sed dispositioni ejus
+            <lb ed="#P" n="67"/>caetera praeter substantiam sacramentorum
+            <lb ed="#P" n="68"/>commisit , nihillominus ita de haereticis 
+            locu<lb break="no" ed="#P" n="69"/>tus est, ut eos hac poena dignos esse 
+            ostende<lb break="no" ed="#P" n="70"/>rit. Vocat enim illos fures et latrones ; at vero
+            <lb ed="#P" n="71"/>fures et latrones poena mortis digni sunt. Item
+            <lb ed="#P" n="72"/>vocat eos lupos rapaces, Matthaei septimo, et
+            <lb ed="#P" n="73"/>Luc. vigesimo; lupi autem non tantum 
+            arcen<lb break="no" ed="#P" n="74"/>di sunt a grege, sed etiam occidendi, si fieri
+            <lb ed="#P" n="75"/>possit.
+          </p>
+          <p xml:id="szthvi-b43048-d1e385">
+            <lb ed="#P" n="76"/>4. Item ex usu Ecclesie et Patribus. — 
+            Se<lb break="no" ed="#P" n="77"/>cundo potest haec sententia confirmari 
+            positi<lb break="no" ed="#P" n="78"/>vo usu Ecclesiae satis antiquo, qui ex legibus
+            <lb ed="#P" n="79"/>imperatorum et Pontificum sufficienter 
+            proba<lb break="no" ed="#P" n="80"/>tur ; eas vero in sectione sequenti referemus.
+            <lb ed="#P" n="81"/>Augustinus etiam in locis citatis justitiam hujus
+            <lb ed="#P" n="82"/>poenae defendit, imo et convenientiam ac 
+            utilita<lb break="no" ed="#P" n="83"/>tem, quando alia remedia prius tentata et 
+            ap<lb break="no" ed="#P" n="84"/>plicata non sufficiunt. Et idem sensit 
+            Hierony<lb break="no" ed="#P" n="85"/>mus statim citandus. Sunt etiam nonnulla 
+            an<lb break="no" ed="#P" n="86"/>tiqua exempla hujus poenae; unum videri 
+            po<lb break="no" ed="#P" n="87"/>test in Divo Gregorio, in lib. 1 Dialogorum,
+            <lb ed="#P" n="88"/>cap. 4; aliudapud Nicephor., lib. 18 Historiar.,
+            <lb ed="#P" n="89"/>cap. 4; et aliud in Bernard., serm. 66 in 
+            Can<lb break="no" ed="#P" n="90"/>tica, ubi improbat quod mors lata fuerit sine
+            <lb ed="#P" n="91"/>sufficienti potestate; secus vero, inquit, 
+            fuis<lb break="no" ed="#P" n="92"/>set, si ab eo, qui non sine causa gladium 
+            por<lb break="no" ed="#P" n="93"/>tat, data fuisset.
+          </p>
+          <p xml:id="szthvi-b43048-d1e427">
+            <lb ed="#P" n="94"/>5. Denique ratione. — Tertio probatur 
+            ra<lb break="no" ed="#P" n="95"/>tione eadem pars. Primo, ex gravitate talis
+            <lb ed="#P" n="96"/>delicti; nam sine dubio gravius est quam
+            <lb ed="#P" n="97"/>multa alia, quae justissime ultimo supplicio
+            <lb ed="#P" n="98"/>puniuntur. Secundo, ex qualitate talis delicti,
+            <lb ed="#P" n="99"/>quod maxime nocivum est christianae 
+            reipu<lb break="no" ed="#P" n="100"/>blicae, eamque valde perturbat, ut ex Paulo et
+            <lb ed="#P" n="101"/>ex Sanctis Patribus supra ostendimus, et 
+            expe<lb break="no" ed="#P" n="102"/>rientia ipsa satis docet. Unde Innocentius
+            <lb ed="#P" n="103"/>Papa, epistola 25, exemplum adducit de 
+            me<lb break="no" ed="#P" n="104"/>dico seu chirurgo, qui prius vulneri adhibet
+            <lb ed="#P" n="105"/>fomenta, etc. : At, inquit, si id manens 
+            sa<lb break="no" ed="#P" n="106"/>nari non potest, ferro amputat, ne corpus
+            <lb ed="#P" n="107"/>reliquwm sua tabe corrumpat. Quod excmplum
+            <lb ed="#P" n="108"/>latius tractat Hieronymus ad Galatas 5, circa
+            <lb ed="#P" n="109"/>illa verba : Modicum fermentum totam massam
+            <lb ed="#P" n="110"/>corrumpit ; quorum sensum esse dicit, pauco-
+            <pb ed="#P" n="579"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>rum hominum insidias non esse 
+            contemnen<lb break="no" ed="#P" n="2"/>das; et ita comparat haeresim scintillae, quae,
+            <lb ed="#P" n="3"/>nisi statim opprimatur, in ignem crescit, et
+            <lb ed="#P" n="4"/>omnia devastat ; et ponit exemplum in Ario
+            <lb ed="#P" n="5"/>(et idem fuit in Luthero, et similibus). Unde
+            <lb ed="#P" n="6"/>concludit resecandam esse putridam carnem,
+            <lb ed="#P" n="7"/>ne totum corpus pereat, et refertur in capite
+            <lb ed="#P" n="8"/>Iesecande, vigesima quarta, quaest. 3.
+          </p>
+          <p xml:id="szthvi-b43048-d1e488">
+            <lb ed="#P" n="9"/>6. Deinde probatur assertio quoad 
+            potesta<lb break="no" ed="#P" n="10"/>tem. — Altera pars de potestate generatim
+            <lb ed="#P" n="11"/>probata est supra, disputatione vigesima, 
+            sec<lb break="no" ed="#P" n="12"/>uone tertia, et omnia ibi dicta cum 
+            propor<lb break="no" ed="#P" n="13"/>uüone ad hanc poenam mortis applicari 
+            pos<lb break="no" ed="#P" n="14"/>sunt. Nam ostensum est hanc poenam non
+            <lb ed="#P" n="15"/>solum esse justam, quatenus vindicativa est,
+            <lb ed="#P" n="16"/>sed etiam esse necessariam, quatenus respectu
+            <lb ed="#P" n="17"/>corporis Ecclesiae medicinalis dici potest.
+            <lb ed="#P" n="18"/>Christus autem, instituendo Ecclesiam suam,
+            <lb ed="#P" n="19"/>non defuit illi in necessariis; ergo non 
+            reli<lb break="no" ed="#P" n="20"/>quit illam sine hac potestate, sine qua talis
+            <lb ed="#P" n="21"/>justitia non posset legitime exerceri. Unde
+            <lb ed="#P" n="22"/>merito intelligitur haec potestas inclusa in
+            <lb ed="#P" n="23"/>potestate data Petro, et in verbis quibus illam
+            <lb ed="#P" n="24"/>Christus significavit; ut in loco citato et in
+            <lb ed="#P" n="25"/>alis late ponderavimus, ubi etiam diximus
+            <lb ed="#P" n="26"/>hoc fuisse indicatum in facto Petri, Actorum
+            <lb ed="#P" n="27"/>quinto, ubi ad verbum Petri Ananias et
+            <lb ed="#P" n="28"/>Saphira mortui sunt. Denique ab actu ad
+            <lb ed="#P" n="29"/>potestatem optima est illatio, quando in tali
+            <lb ed="#P" n="30"/>actu non potest tyrannis aut injustitia 
+            prae<lb break="no" ed="#P" n="31"/>sumi ; sed consuetudo Ecclesiae in suis legibus
+            <lb ed="#P" n="32"/>et illarum executione hunc actum exercet et
+            <lb ed="#P" n="33"/>approbat, nec de illa potest quis praesumere,
+            <lb ed="#P" n="34"/>nisi sit haereticus, quod in hoc male faciat;
+            <lb ed="#P" n="35"/>ergo est signum evidens talis potestatis.
+          </p>
+          <p xml:id="szthvi-b43048-d1e549">
+            <lb ed="#P" n="36"/>7. Prima assertio, penes quos sit dicta 
+            po<lb break="no" ed="#P" n="37"/>testas. —Statim vero interrogandum occurrit,
+            <lb ed="#P" n="38"/>quis habeat in Eecclesia hanc potestatem, an
+            <lb ed="#P" n="39"/>magistratus vivilis, vel ecclesiasticus. Nam
+            <lb ed="#P" n="40"/>cum hoc crimen ecclesiasticum sit, ut supra
+            <lb ed="#P" n="41"/>dixi, omnis potestas illud puniendi ad 
+            Eccle<lb break="no" ed="#P" n="42"/>siae pastores pertinere videtur. Aliunde vero
+            <lb ed="#P" n="43"/>poena sanguinis, et praesertim mortis ab 
+            ec<lb break="no" ed="#P" n="44"/>clesiasticis viris aliena videtur. Similem vero
+            <lb ed="#P" n="45"/>quaestionem supra, dicta disputat. 20, 
+            sec<lb break="no" ed="#P" n="46"/>tüone 3, in fine, generaliter tractavi, et ibi
+            <lb ed="#P" n="47"/>dicta ad hanc particularem poenam cum 
+            pro<lb break="no" ed="#P" n="48"/>portione applicanda sunt. Dico ergo hanc 
+            po<lb break="no" ed="#P" n="49"/>testatem aliquo modo pertinere ad utrumque
+            <lb ed="#P" n="50"/>forum ; verumtamen in magistratu 
+            ecclesias<lb break="no" ed="#P" n="51"/>tico, et praesertim in Pontifice esse 
+            principa<lb break="no" ed="#P" n="52"/>liter, et eminenti quodam modo; in regibus
+            <lb ed="#P" n="53"/>autem et imperaturibus, eorumque minisiris,
+            <lb ed="#P" n="54"/>esse veluti proxime, et cum subordinatione ad
+            <lb ed="#P" n="55"/>spiritualem potestatem. Prior pars constat ex
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>usu Ecclesiae, quia haec poena legibus civilibus
+            <lb ed="#P" n="57"/>lata est, et per canones approbatur, ut in
+            <lb ed="#P" n="58"/>sequenti sectione referam. lItem ratione 
+            pro<lb break="no" ed="#P" n="59"/>batur, quia punitio talis delicti, et correctio
+            <lb ed="#P" n="60"/>haereticcrum non tantum ad spirituale bonum,
+            <lb ed="#P" n="61"/>sed etiam ad temporalem pacem reipublicae
+            <lb ed="#P" n="62"/>christianae necessaria est, et ideo utraque 
+            po<lb break="no" ed="#P" n="63"/>testas, in ordine ad finem suum, hujusmodi
+            <lb ed="#P" n="64"/>poenam ferre potest. Et ex hac ratione altera
+            <lb ed="#P" n="65"/>pars confirmatur ; nam temporalis pax 
+            subor<lb break="no" ed="#P" n="66"/>dinata est spirituali bono Ecclesiae; et ideo
+            <lb ed="#P" n="67"/>etiam haec potestas, ut est in principe 
+            saecu<lb break="no" ed="#P" n="68"/>lari, subordinata est spirituali potestati, et in
+            <lb ed="#P" n="69"/>principe temporali est tanquam in exequente,
+            <lb ed="#P" n="70"/>et moto ab alio; in Pontifice vero est 
+            tan<lb break="no" ed="#P" n="71"/>quam in imperante et movente, juxta 
+            decisio<lb break="no" ed="#P" n="72"/>nem Donifacii Papae, in Extravagante Unam
+            <lb ed="#P" n="73"/>sanctam, de Majorit. et obedientia, et 
+            doctri<lb break="no" ed="#P" n="74"/>nam Bernardi de duplici gladio Ecclesia et
+            <lb ed="#P" n="75"/>Ponuficis, spirituali et temporali ; nam 
+            spiri<lb break="no" ed="#P" n="76"/>tualem habet ut per se exercendum, 
+            tempo<lb break="no" ed="#P" n="77"/>ralem vero per alium. Et hoc etiam ostenditur
+            <lb ed="#P" n="78"/>ex modo quo jura hujusmodi poenam ferunt;
+            <lb ed="#P" n="79"/>nam leges civiles illam expresse imponunt, et
+            <lb ed="#P" n="80"/>executioni mandari imperant; leges autem
+            <lb ed="#P" n="81"/>caponicae solum jubent ut haeretici iu casibus
+            <lb ed="#P" n="82"/>ab ipsis designatis saeculari curia tradantur.
+            <lb ed="#P" n="83"/>Unde et in hoc limitant leges civiles, ut infra
+            <lb ed="#P" n="84"/>videbimus, principesque saeculares obligare
+            <lb ed="#P" n="85"/>possunt ut condignam poenam contra 
+            hujus<lb break="no" ed="#P" n="86"/>modi reos ferant, et judices etiam cogere 
+            pos<lb break="no" ed="#P" n="87"/>sunt ut in eis exequendis justitiam servent. Et
+            <lb ed="#P" n="88"/>ita responsum est ad rationem dubitandi pro
+            <lb ed="#P" n="89"/>utraque parte proposita paulo ante.
+          </p>
+          <p xml:id="szthvi-b43048-d1e671">
+            <lb ed="#P" n="90"/>8. Ad fundamenta heereticorum in mun. 1.
+            <lb ed="#P" n="91"/>— Ad secundui fundamentum ibid. — 
+            Instan<lb break="no" ed="#P" n="92"/>tic diluitur. — Superest ut respondeamus ad
+            <lb ed="#P" n="93"/>haereticorum fundamenta. Primum sumebatur
+            <lb ed="#P" n="94"/>ex auctoritate negativa Christi Domini, quod
+            <lb ed="#P" n="95"/>parum urget ; quia licet non praeceperit, satis
+            <lb ed="#P" n="96"/>est quod hoc genus poeuae non prohibuerit.
+            <lb ed="#P" n="97"/>Addimus vero Christum Dominum usum esse
+            <lb ed="#P" n="98"/>generalibus verbis, attendite, cavete, et 
+            simih<lb break="no" ed="#P" n="99"/>bus, quae omnia media necessaria ad cavendos
+            <lb ed="#P" n="100"/>et coercendos haereticos comprehendunt, et
+            <lb ed="#P" n="101"/>ideo etiam possunt ad hanc poenam, quando
+            <lb ed="#P" n="102"/>necessaria fuerit, adaptari. Nam in alio loco
+            <lb ed="#P" n="103"/>dicit Christus palmitem non manentem in
+            <lb ed="#P" n="104"/>ipso, tanquam in vite, abscindendum esse, et
+            <lb ed="#P" n="105"/>iu ignem mittendum, Joan. 15; idemque dicit
+            <lb ed="#P" n="106"/>alibi de arbore mala, qua bonum fructum
+            <lb ed="#P" n="107"/>ferre non potest; quibus parabolis etiam 
+            si<lb break="no" ed="#P" n="108"/>gnificavit Ecclesiae suae quid in hoc negotio
+            <lb ed="#P" n="109"/>agere oporteat. Unde ad secundum, de 
+            para<lb break="no" ed="#P" n="110"/>bola zizaniorum, respondetur imprimis in ea
+            <pb ed="#P" n="580"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>non esse sermonem de solis haereticis, sed in
+            <lb ed="#P" n="2"/>universum de malis hominibus, qui in 
+            Eccle<lb break="no" ed="#P" n="3"/>sia vel in mundo sunt, ut exponunt iidem
+            <lb ed="#P" n="4"/>Patres supra allegati, et ex contextu 
+            para<lb break="no" ed="#P" n="5"/>bolae satis constat ; praesertim quia in fine ejus
+            <lb ed="#P" n="6"/>dicit Christus patremfamilias tempore 
+            mes<lb break="no" ed="#P" n="7"/>sis missurum ministros suos, qui triticum
+            <lb ed="#P" n="8"/>a zizaniis separent; quod alibi explicuit 
+            di<lb break="no" ed="#P" n="9"/>cens, quod tempore judicii mittet Deus 
+            An<lb break="no" ed="#P" n="10"/>gelos suos, et separabunt malos de medio 
+            jus<lb break="no" ed="#P" n="11"/>torum, ubi non tautum dixit haereticos a
+            <lb ed="#P" n="12"/>fidelibus. Igitur vel illa parabola nihil de
+            <lb ed="#P" n="13"/>haereticis probat, vel ex ea colligitur nullos
+            <lb ed="#P" n="14"/>iniquos, et malos esse puniendos, quod 
+            absur<lb break="no" ed="#P" n="15"/>dissimum est. Itaque intentio Christi (ut 
+            indi<lb break="no" ed="#P" n="16"/>cavit Cyprian. epistola quinquagesima prima,
+            <lb ed="#P" n="17"/>et quinquagesima secunda) solum fuit 
+            repri<lb break="no" ed="#P" n="18"/>mere et moderari nimium et indiscretum
+            <lb ed="#P" n="19"/>zelum, vel provocandi iram Dei contra 
+            pec<lb break="no" ed="#P" n="20"/>catores, ut alibi fecit, cum discipulis suis
+            <lb ed="#P" n="21"/>dixit : Nescitis, cujus spiritus estis; vel
+            <lb ed="#P" n="22"/>temere, et sine auctoritate illos persequendi,
+            <lb ed="#P" n="23"/>ut etiam in alio loco indicavit Petro, 
+            praeci<lb break="no" ed="#P" n="24"/>piendo illi ut gladium in vaginam 
+            converte<lb break="no" ed="#P" n="25"/>ret, non tamen prohibuit justam et ordinatam
+            <lb ed="#P" n="26"/>iniquorum punitionem, ut per se notum est.
+            <lb ed="#P" n="27"/>Quia vero haeretici inter malos continentur,
+            <lb ed="#P" n="28"/>et ita in parabola etiam comprehenduntur, ut
+            <lb ed="#P" n="29"/>allegati Patres recte dixerunt, ideo addendum
+            <lb ed="#P" n="30"/>est prohibuisse quidem Christum occisionem
+            <lb ed="#P" n="31"/>haereticorum, quando cognosci non possunt,
+            <lb ed="#P" n="32"/>neque a catholicis discerni. At vero quando
+            <lb ed="#P" n="33"/>sufficienter distinguuntur, et eorum delictum
+            <lb ed="#P" n="34"/>cognoscitur et comprobatur, tunc non habet
+            <lb ed="#P" n="35"/>locum parabola, quia licet ipsi eradicentur,
+            <lb ed="#P" n="36"/>nullum est periculum eradicandi simul et
+            <lb ed="#P" n="37"/>triicum, id est Catholicos, quae fuit ratio
+            <lb ed="#P" n="38"/>Christi Domini in illis verbis: JVe forte 
+            eradi<lb break="no" ed="#P" n="39"/>cantes cizania, eradicetis et triticum. Et ita
+            <lb ed="#P" n="40"/>respondet Augustinus, libro tertio contra 
+            Par<lb break="no" ed="#P" n="41"/>menian., cap. 2, et D. Thomas 2.2, quaest. 10,
+            <lb ed="#P" n="42"/>art. 8, ad 1, et quaest. 11, art. 3, ad 3, et
+            <lb ed="#P" n="43"/>quaest. 108, art. 3, ad 1. Dicet aliquis, quamvis
+            <lb ed="#P" n="44"/>in eo casu non sit periculum aliorum, semper
+            <lb ed="#P" n="45"/>imminere periculum damnationis ejusdem
+            <lb ed="#P" n="46"/>haeretici, qui nunc interfectus damnabitur, et
+            <lb ed="#P" n="47"/>fortasse, si tempus vitae illi concederetur, 
+            con<lb break="no" ed="#P" n="48"/>verteretur et salvaretur. Respondeo imprimis
+            <lb ed="#P" n="49"/>instantiam non habere locum in haereticis
+            <lb ed="#P" n="50"/>poenitentibus, qui interdum ultimo supplicio
+            <lb ed="#P" n="51"/>afficiuntur; nam tunc potius esse potest 
+            pro<lb break="no" ed="#P" n="52"/>babilis spes salutis eorum cum perseverantia
+            <lb ed="#P" n="53"/>in fide usque ad finem vitae. De pertinacibus
+            <lb ed="#P" n="54"/>autem dicendum est, majorem rationem 
+            ha<lb break="no" ed="#P" n="55"/>bendam esse communis boni Ecclesiae, per
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>quam non stat quominus iili convertantur et
+            <lb ed="#P" n="57"/>salventur; unde si sua culpa pereunt, sibi
+            <lb ed="#P" n="58"/>imputent, et fortasse utilius illis est statim
+            <lb ed="#P" n="59"/>mori, quam vivendo multiplicare peccata et
+            <lb ed="#P" n="60"/>errores, et esse causam, ut multi alii pereant.
+          </p>
+          <p xml:id="szthvi-b43048-d1e857">
+            <lb ed="#P" n="61"/>9. Ad tertium ibid. — Ad quartum ibid. —
+            <lb ed="#P" n="62"/>Tertium argumentum sumebatur ex 
+            consue<lb break="no" ed="#P" n="63"/>tudine Ecclesiae, quod etiam est negativum, et
+            <lb ed="#P" n="64"/>ex ea parte infirmum, quia non sumitur ex
+            <lb ed="#P" n="65"/>usu contrario, sed tantum ex non usu, ex quo
+            <lb ed="#P" n="66"/>non potest colligi defectus potestatis, 
+            praeser<lb break="no" ed="#P" n="67"/>tim cum ille non usus non fuerit perpetuus,
+            <lb ed="#P" n="68"/>sed brevis cujusdam temporis, quia non 
+            cogi<lb break="no" ed="#P" n="69"/>tur, qui potestatem habet, illa semper uti, vel
+            <lb ed="#P" n="70"/>etiam non semper commode potest. Quocirca,
+            <lb ed="#P" n="71"/>licet Ecclesia semper habuerit potestatem hane,
+            <lb ed="#P" n="72"/>in principio, quando imperatores et judices
+            <lb ed="#P" n="73"/>laici non erant Christiani, non poterat illa
+            <lb ed="#P" n="74"/>commode uti. Et hac rationc Patres illorum
+            <lb ed="#P" n="75"/>temporum reprehendunt Catholicos, qui 
+            occi<lb break="no" ed="#P" n="76"/>debant haereticos, quia temere et sine 
+            potes<lb break="no" ed="#P" n="77"/>tate faciebant; postea vero imperatores 
+            chris<lb break="no" ed="#P" n="78"/>tiani coeperunt poenis coercere haereticos, et
+            <lb ed="#P" n="79"/>prius levioribus poenis usi sunt ; et quia experti
+            <lb ed="#P" n="80"/>sunt illas non sufficere, tandem ad ultimum
+            <lb ed="#P" n="81"/>remedium, et supplicium pervenerunt, ut mox
+            <lb ed="#P" n="82"/>in sequenti sectione videbimus. Et hoc 
+            mo<lb break="no" ed="#P" n="83"/>do locutus est Augustinus in citatis locis, et
+            <lb ed="#P" n="84"/>tract. 11 in Joan., et epistola 66, et id magis
+            <lb ed="#P" n="85"/>declaravit 2 Retract., c. 5. Solet autem poenam
+            <lb ed="#P" n="86"/>mortis excipere, quia suo tempore nondum
+            <lb ed="#P" n="87"/>erat in usu. Leo autem Papa, in epist. 4, alias
+            <lb ed="#P" n="88"/>91 vel 93, cap. 1, indistincte dixit: Profuit
+            <lb ed="#P" n="89"/>ista districtio ecclesiastice lenitati, quee, etsi
+            <lb ed="#P" n="90"/>ecclesiastico contenta judicio cruentas effugit
+            <lb ed="#P" n="91"/>ultiones, severis tamen constitutionibus 
+            chris<lb break="no" ed="#P" n="92"/>tiaporum principum adyuvatur. Et similia 
+            ha<lb break="no" ed="#P" n="93"/>bet Optatus ; vicinus etiam Augustinus, libro
+            <lb ed="#P" n="94"/>3 contra Parmenian., ubi variis exemplis hoc
+            <lb ed="#P" n="95"/>confirmat. Et simili modo Bernardus, serm.
+            <lb ed="#P" n="96"/>66 in Cantic., cum reprehendisset quosdam,
+            <lb ed="#P" n="97"/>qui propria auctoritate haereticos occidere 
+            ten<lb break="no" ed="#P" n="98"/>tabant, addidit, per eumdem debere fieri, qui
+            <lb ed="#P" n="99"/>non sine causa gladiwm portat. Ultimum 
+            deni<lb break="no" ed="#P" n="100"/>que argumentum sumebatur ex comparatione
+            <lb ed="#P" n="101"/>ad alios infideles; sed responsio est in 
+            prom<lb break="no" ed="#P" n="102"/>ptu, nam si sit sermo de Judaeis et Sarracenis
+            <lb ed="#P" n="103"/>non baptizatis, non est similis ratio, quia illi
+            <lb ed="#P" n="104"/>non sunt subditi juriadictioni ecclesiasticae,
+            <lb ed="#P" n="105"/>sicut sunt haeretici; si vero sermo sit de 
+            Ju<lb break="no" ed="#P" n="106"/>daeis et Sarracenis apostatis a fide, quam in
+            <lb ed="#P" n="107"/>baptismo professi sunt, respondemus eos etiam
+            <lb ed="#P" n="108"/>esse dignos poena mortis, et ita quoad 
+            juris<lb break="no" ed="#P" n="109"/>dictionem Ecclesiae pro haereticis reputari, et
+            <lb ed="#P" n="110"/>hac poena sicut alii puniri.
+          </p>
+        </div>
+        <div xml:id="szthvi-b43048-Dd1e970">
+          <head xml:id="szthvi-b43048-Hd1e972">Sectio 2</head>
+          <head xml:id="szthvi-b43048-Hd1e974" type="question-title">Utrum omnes haeretici secundum ecclesiae leges poena mortis afficiantur</head>
+          <p xml:id="szthvi-b43048-d1e977">
+            <pb ed="#P" n="581"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>SECTIO II.
+            <lb ed="#P" n="2"/>Utrum omnes haeretici secundum Ecclesiae
+            <lb ed="#P" n="3"/>leges poena mortis afficiantur.
+          </p>
+          <p xml:id="szthvi-b43048-d1e990">
+            <lb ed="#P" n="4"/>1. Prima suppositio pro decisione, ez jure
+            <lb ed="#P" n="5"/>civili sumpta. — Item ex canonico. — Diximus
+            <lb ed="#P" n="6"/>de potestate ; dicendum sequitur de actu, et in
+            <lb ed="#P" n="7"/>hoc supponimus primo, poenam mortis 
+            impo<lb break="no" ed="#P" n="8"/>sitam esse haereticis jure positivo. Haec 
+            sup<lb break="no" ed="#P" n="9"/>positio constat primo ex jure civili, in l. 
+            Aria<lb break="no" ed="#P" n="10"/>ni, C. de Haeret., ubi specialiter est sermo de
+            <lb ed="#P" n="11"/>Manichaeis; tamen in l. Quicunque, eodem
+            <lb ed="#P" n="12"/>tit., generaliter fertur his verbis: Ultimo 
+            sup<lb break="no" ed="#P" n="13"/>plicio coerceatur, qui illicita docere tentaverit ;
+            <lb ed="#P" n="14"/>quia vero illud verbum docere. non videtur
+            <lb ed="#P" n="15"/>omnes comprehendere, addit Glossa, in cap.
+            <lb ed="#P" n="16"/>Excommunicamnus, 2, verb. Puniendi, extra
+            <lb ed="#P" n="17"/>de Haeretic., eamdem esse rationem de 
+            addis<lb break="no" ed="#P" n="18"/>centibus, quia illa duo, docere et discere 
+            illici<lb break="no" ed="#P" n="19"/>a, in jure aequiparantur, 1. Culpa, Cod. de
+            <lb ed="#P" n="20"/>Maleficiis. Et eamdem poenam tulisse contra
+            <lb ed="#P" n="21"/>omnes haereticos Michaelem imperatorem, 
+            re<lb break="no" ed="#P" n="22"/>fert Paulus Diaconus, lib. 14 Historiae; et
+            <lb ed="#P" n="23"/>eamdem postea tulit, et magis declaravit 
+            im<lb break="no" ed="#P" n="24"/>perator Fridericus, in leg. Inconsutilem, et in
+            <lb ed="#P" n="25"/>leg. Commissis, quae in fine Directorii, pag. 16
+            <lb ed="#P" n="26"/>editionis anni 1578, referuntur, et paulo 
+            infe<lb break="no" ed="#P" n="27"/>rius magis explicabuntur. Secundo, idem
+            <lb ed="#P" n="28"/>constat ex jure canonico, ut patet ex multis
+            <lb ed="#P" n="29"/>bullis, quibus praedictae leges approbantur et
+            <lb ed="#P" n="30"/>recipiuntur, quae in eodem Directorio 
+            refe<lb break="no" ed="#P" n="31"/>runtur; et ideo in cap. Ad abolenda, S 
+            Pre<lb break="no" ed="#P" n="32"/>senti, dicitur hos haereticos brachio saeculari
+            <lb ed="#P" n="33"/>esse tradendos, debita animadversione 
+            pu<lb break="no" ed="#P" n="34"/>niendos. Et ita Ecclesia non solum approbat
+            <lb ed="#P" n="35"/>illas leges, sed etiam vult ut judices laici 
+            se<lb break="no" ed="#P" n="36"/>cundum illas juste judicent, quando 
+            hujus<lb break="no" ed="#P" n="37"/>modi rei illorum jurisdictioni committuntur,
+            <lb ed="#P" n="38"/>nec possunt laici judices talem poenam 
+            remit<lb break="no" ed="#P" n="39"/>tere, juxta cap. ut Officium, de Haeret., in 6,
+            <lb ed="#P" n="40"/>ut magis explicatur in Bulla Urbani IV, quae
+            <lb ed="#P" n="41"/>incipit Licet, et in Bulla Innocentii IV, quae
+            <lb ed="#P" n="42"/>incipit Statuimus, relatis in Directorio, ubi
+            <lb ed="#P" n="43"/>supra.
+          </p>
+          <p xml:id="szthvi-b43048-d1e1079">
+            <lb ed="#P" n="44"/>2. Secunda suppositio, varios esse gradus
+            <lb ed="#P" n="45"/>hvereticorum. — Secundo, quia haec jura non
+            <lb ed="#P" n="46"/>eodem modo de omnibus haereticis loquuntur,
+            <lb ed="#P" n="47"/>aut illos comprehendunt, ideo ut quaestioni
+            <lb ed="#P" n="48"/>propositae respondeamus, et explicemus qui
+            <lb ed="#P" n="49"/>haeretici et quando poena mortis afficiendi sint,
+            <lb ed="#P" n="50"/>distinguere oportet varios haereticorum 
+            gra<lb break="no" ed="#P" n="51"/>dus. Primo enim distinguere illos possumus
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="52"/>in haeresiarchas, qui etiam dogmatistae dici
+            <lb ed="#P" n="53"/>solent, et alios addiscentes et illis credentes.
+            <lb ed="#P" n="54"/>Deinde quidam ex his haereticis dicuntur 
+            re<lb break="no" ed="#P" n="55"/>lapsi, quia post abjuratam solemniter 
+            haere<lb break="no" ed="#P" n="56"/>sim iterum in eam lapsi sunt. Alii vero sunt
+            <lb ed="#P" n="57"/>simpliciter lapsi in haeresim, sine recidiva
+            <lb ed="#P" n="58"/>post abjurationem. Denique haeretici qui 
+            pu<lb break="no" ed="#P" n="59"/>niuntur, quidam sunt pertinaces, quia post
+            <lb ed="#P" n="60"/>suftficientem instructionzm et admonitionem,
+            <lb ed="#P" n="61"/>factam etiam a judicibus fidei, in suis 
+            errori<lb break="no" ed="#P" n="62"/>bus perseverant. Alii vero sunt qui se 
+            Catho<lb break="no" ed="#P" n="63"/>licos profitentur, sunt tamen impoenitentes,
+            <lb ed="#P" n="64"/>ac proinde de sua conversione vel fide ita
+            <lb ed="#P" n="65"/>suspecti, ut ficti praesumantur ; et hujusmodi
+            <lb ed="#P" n="66"/>sunt qui negant delictum haeresis, de quo
+            <lb ed="#P" n="67"/>convicti sunt, vel etiam qui illud confitentur,
+            <lb ed="#P" n="68"/>sunt tamen in sua eonfessione diminuti, quia
+            <lb ed="#P" n="69"/>vel non omnes errores, de quibus convicti
+            <lb ed="#P" n="70"/>sunt, confitentur, vel complices, de quibus
+            <lb ed="#P" n="71"/>etiam satis copstat, declarare nolunt. Alii 
+            ve<lb break="no" ed="#P" n="72"/>ro sunt et conversi ad fidem, et sufficienter
+            <lb ed="#P" n="73"/>poenitentes, quantum ex signis et confessione
+            <lb ed="#P" n="74"/>illorum intelligi potest.
+          </p>
+          <p xml:id="szthvi-b43048-d1e1152">
+            <lb ed="#P" n="75"/>3. Prima assertio. — Probatur primo. —
+            <lb ed="#P" n="76"/>Primo ergo dicendum est haereticos, qui post
+            <lb ed="#P" n="77"/>sufficientem instructionem, et admonitionem
+            <lb ed="#P" n="78"/>Ecclesiae, et judicium ejus, in suo errore 
+            perti<lb break="no" ed="#P" n="79"/>naces sunt, poena mortis irremissibiliter esse
+            <lb ed="#P" n="80"/>puniendos. Ita docent omnes Doctores, qui
+            <lb ed="#P" n="81"/>de hac materia tractant; Castro, lib. 1 de Just.
+            <lb ed="#P" n="82"/>haeret. punit., cap. 7, et lib. 2, a principio;
+            <lb ed="#P" n="83"/>Repertorium Inquisitor., verb. Horetici, et
+            <lb ed="#P" n="84"/>verb. Pertinaa ; Julius Clarus, lib. 5, S 
+            Here<lb break="no" ed="#P" n="85"/>sis ; Simancas, Institut., titul. 7 et 48; Rojas,
+            <lb ed="#P" n="86"/>tract. de Haeret., part. 2, assert. 25; Covar.,
+            <lb ed="#P" n="87"/>lib. 2 Variar., cap. 10, num. 10; Azor, tom.
+            <lb ed="#P" n="88"/>1, lib. 8, cap. 13, a parag. Ultima pona ; et
+            <lb ed="#P" n="89"/>Penna, in Director., 2 part., commentar. 65,
+            <lb ed="#P" n="90"/>qui alios refert. Probari potest primo ex 
+            anti<lb break="no" ed="#P" n="91"/>quis legibus civilibus, quae hanc paenam 
+            hae<lb break="no" ed="#P" n="92"/>reticis imponunt, nam in aliquibus mandari
+            <lb ed="#P" n="93"/>debet executioni ; ergo maxime in his qui 
+            hae<lb break="no" ed="#P" n="94"/>retici perseverant ; expresse vero, et in 
+            parti<lb break="no" ed="#P" n="95"/>culari hoc sancivit Frider., in dicta l. 
+            7ncon<lb break="no" ed="#P" n="96"/>sutilem. Secuudo, id est manifestum in jure
+            <lb ed="#P" n="97"/>canonico, cap. Ad abolendam. et cap. 
+            Exzcom<lb break="no" ed="#P" n="98"/>municamus, cum aliis, de Haereticis, iu quibus
+            <lb ed="#P" n="99"/>dicitur, eos, qui per sententiam declarantur
+            <lb ed="#P" n="100"/>haeretici, nisi continuo resipiscant, et parati
+            <lb ed="#P" n="101"/>sint ad abjurandos errores, et satisfacieudum
+            <lb ed="#P" n="102"/>Ecclesiae, confestim curiae saeculari tradendos,
+            <lb ed="#P" n="103"/>animadversione debita puniendos, debita 
+            ni<lb break="no" ed="#P" n="104"/>mirum secundum jura civilia, quae est peena
+            <lb ed="#P" n="105"/>mortis, ut visum est. Tertio, est optima ratio,
+            <lb ed="#P" n="106"/>quia isti sunt haeretici, ut sic dicam, in sum-
+            <pb ed="#P" n="582"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>mo gradu, et sunt incorrigibiles, ideoque nulla
+            <lb ed="#P" n="2"/>est de eis spes; ergo non est cur poena 
+            con<lb break="no" ed="#P" n="3"/>digna differatur, nam, ut dixit Symmachus
+            <lb ed="#P" n="4"/>Papa, cum quodam Concilio Romano : Ferro
+            <lb ed="#P" n="5"/>abscindenda sunt vulnera, que fomenta non
+            <lb ed="#P" n="6"/>sentiunt, cap. In canonibus, 11, quaest. 1; et
+            <lb ed="#P" n="7"/>similia habentur 24, quaest. 3, per plura 
+            ca<lb break="no" ed="#P" n="8"/>pita ; imo et Plato, in lib. 9 de Legibus, 
+            di<lb break="no" ed="#P" n="9"/>xit : Quos legistator insanabiles sentit, hos
+            <lb ed="#P" n="10"/>ultimo supplicio afficit, non ignorans istis
+            <lb ed="#P" n="11"/>melius esse mori, quam vivere.
+          </p>
+          <p xml:id="szthvi-b43048-d1e1252">
+            <lb ed="#P" n="12"/>4. Dubiolun quo genere mortis plectantur
+            <lb ed="#P" n="13"/>heretici. — Dubitant autem Doctores de 
+            spe<lb break="no" ed="#P" n="14"/>cie mortis, quia jura illam non determinant.
+            <lb ed="#P" n="15"/>Nihilominus consuetudo Ecclesiae habet, ut
+            <lb ed="#P" n="16"/>isti poena ignis afficiantur; quam esse 
+            anti<lb break="no" ed="#P" n="17"/>quam ostendit Gregorius, 1 Dialogor., cap. 4,
+            <lb ed="#P" n="18"/>ut supra citavi, ejusque exemplum habemus
+            <lb ed="#P" n="19"/>in Concilio Constantiensi, in quo Hieronymus
+            <lb ed="#P" n="20"/>Praga et ossa Joannis Wicleph combusta sunt;
+            <lb ed="#P" n="21"/>et aliud antiquius exemplum sumi potest ex
+            <lb ed="#P" n="22"/>4 Reg. 23; et aliqui hoc voluerunt colligere
+            <lb ed="#P" n="23"/>ex illo Joan. 15 : S quis in me non manserit,
+            <lb ed="#P" n="24"/>et colligent eun, et in ignem mittent. Sed hoc
+            <lb ed="#P" n="25"/>solum per quamdam accommodationem 
+            acci<lb break="no" ed="#P" n="26"/>piendum est. Unde Villadiego, tractat. de 
+            Hae<lb break="no" ed="#P" n="27"/>retic. quaest. 15, num. 4, existimat hujus 
+            poe<lb break="no" ed="#P" n="28"/>nae determinationem nullo jure scripto, sed
+            <lb ed="#P" n="29"/>sola consuetudine introductam esse, quod 
+            for<lb break="no" ed="#P" n="30"/>tasse verum est quoad priorem partem 
+            exclu<lb break="no" ed="#P" n="31"/>sivam, loquendo de legibus in corpore juris
+            <lb ed="#P" n="32"/>contentis; nam extra in dicta lege Friderici
+            <lb ed="#P" n="33"/>ex presse decernitur ut isti vivi comburantur;
+            <lb ed="#P" n="34"/>et hanc legem acceptavit Ecclesia, et ita usu
+            <lb ed="#P" n="35"/>servatur et servandum est, de qua re 
+            vide<lb break="no" ed="#P" n="36"/>ri possunt Farinac., de Haeresi, quaest. 198,
+            <lb ed="#P" n="37"/>num. 4, et quae ex Patribus adducit Arboreus,
+            <lb ed="#P" n="38"/>lib. 8 Theosoph., cap. 9, in 2 p. 
+            assertio<lb break="no" ed="#P" n="39"/>nis.
+          </p>
+          <p xml:id="szthvi-b43048-d1e1315">
+            <lb ed="#P" n="40"/>5. Secunda assertio. — Secundo, dicendum
+            <lb ed="#P" n="41"/>est omnes haereticos impoenitentes, etiamsi
+            <lb ed="#P" n="42"/>exterius se fideles et Catholicos profiteantur,
+            <lb ed="#P" n="43"/>si de haeresi convicti sunt, poena mortis esse
+            <lb ed="#P" n="44"/>afficiendos. Ita docent omnes auctores citati,
+            <lb ed="#P" n="45"/>et Albertin., de Agnoscend. haeret., 
+            quaes<lb break="no" ed="#P" n="46"/>tione 8, et quaestione 34, numer. 54 ; et hojas
+            <lb ed="#P" n="47"/>de Haeret., 1 part., a num. 590, et 2 part..
+            <lb ed="#P" n="48"/>assert. 21, ubi plures alios refert. Et est res
+            <lb ed="#P" n="49"/>certa, et usu recepta, quamvis non cit in jure
+            <lb ed="#P" n="50"/>tam recepta, sicut praecedens. Colligitur 
+            au<lb break="no" ed="#P" n="51"/>tem sufficienter ex dicto cap. Ad abolendam,
+            <lb ed="#P" n="52"/>cum similibus, quatenus dicunt confessum,
+            <lb ed="#P" n="53"/>vel convictum de haeresi, nisi resipiscat, et
+            <lb ed="#P" n="54"/>paratus sit satisfacere Ecclesiae, esse curiae 
+            sae<lb break="no" ed="#P" n="55"/>culari tradendum. Ubi ponderanda est aequi-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>paratio inter convictos, et confessos; nam illi
+            <lb ed="#P" n="57"/>licet non confiteantur, convicti sunt, et alias
+            <lb ed="#P" n="58"/>non resipiscunt, neque ad satisfaciendum 
+            pa<lb break="no" ed="#P" n="59"/>rati sunt, quia nolunt delictum agnoscere ;
+            <lb ed="#P" n="60"/>ergo, sub illa peena et lege comprehenduntur.
+            <lb ed="#P" n="61"/>Et confirmatur primo, quia tales rei in foro
+            <lb ed="#P" n="62"/>Ecclesiae probati sunt haeretici, et non 
+            osten<lb break="no" ed="#P" n="63"/>dunt poenitentiam nec retractationem erroris;
+            <lb ed="#P" n="64"/>ergo merito puniuntur poena eorum qui in
+            <lb ed="#P" n="65"/>haeresi perseverant. Et ideo in eis eadem 
+            spe<lb break="no" ed="#P" n="66"/>cies poenae ignis servatur, non tamen 
+            combu<lb break="no" ed="#P" n="67"/>runtur vivi, propter rationem quam in 
+            se<lb break="no" ed="#P" n="68"/>quenti puncto assignabo. Denique 
+            confirma<lb break="no" ed="#P" n="69"/>tur, quia non possunt absolvi, vel reconciliari
+            <lb ed="#P" n="70"/>Ecclesiae, cum sine confessione non sit 
+            abso<lb break="no" ed="#P" n="71"/>lutio; ergo neque sunt in Ecclesia tolerandi.
+            <lb ed="#P" n="72"/>Et in hoc sunt pejoris conditionis quam 
+            re<lb break="no" ed="#P" n="73"/>lapsi poenitentes; nam his danda sunt 
+            sacra<lb break="no" ed="#P" n="74"/>menta, ut statim dicam; illis autem dari non
+            <lb ed="#P" n="75"/>possunt, quia se indispositos ostendunt.
+          </p>
+          <p xml:id="szthvi-b43048-d1e1398">
+            <lb ed="#P" n="76"/>6. Praecedentis assertionis eatensio ad 
+            di<lb break="no" ed="#P" n="77"/>minutos confitentes. — Placitum Rojas 
+            im<lb break="no" ed="#P" n="78"/>pugnatur. — Unde colligitur hanc 
+            assertio<lb break="no" ed="#P" n="79"/>nem habere locum, non tantum in his qui
+            <lb ed="#P" n="80"/>negant omnes errores quos commiserunt, sed
+            <lb ed="#P" n="81"/>etiam in illis qui diminuti sunt, quosdam
+            <lb ed="#P" n="82"/>confitendo, et alios tacendo, dummodo de illis
+            <lb ed="#P" n="83"/>etiam convicti sint. Et ratio est clara, quia
+            <lb ed="#P" n="84"/>confessio diminuta non est vera confessio, et
+            <lb ed="#P" n="85"/>quia unus error constituit haereticum, et 
+            per<lb break="no" ed="#P" n="86"/>tinacem, si in illo sit contumax, etiamsi alios
+            <lb ed="#P" n="87"/>abjuret; ergo etiam negatio unius erroris
+            <lb ed="#P" n="88"/>constituit impoenitentem. De illo autem qui
+            <lb ed="#P" n="89"/>omnes proprios errores confitetur, negat 
+            au<lb break="no" ed="#P" n="90"/>tem aliorum seu sociorum, quia non vult
+            <lb ed="#P" n="91"/>complices confiteri, Rojas supra, 2 part.,
+            <lb ed="#P" n="92"/>num. 240 et sequenti, negat hunc esse 
+            ha<lb break="no" ed="#P" n="93"/>bendum impoenitentem, vel tradendum curiae
+            <lb ed="#P" n="94"/>saeculari. Fundatur, quia qui suum delictum
+            <lb ed="#P" n="95"/>confitetur, praesumi non debet quod taceat
+            <lb ed="#P" n="96"/>alienum. Contrarium autem usu et praxi 
+            In<lb break="no" ed="#P" n="97"/>quisitorum servatur, et ideo dicendum est, si
+            <lb ed="#P" n="98"/>talis haereticus convictus sit de tali 
+            diminu<lb break="no" ed="#P" n="99"/>tione confessionis, ut saepe contingit per 
+            con<lb break="no" ed="#P" n="100"/>fessiones aliorum complicum, tunc vere 
+            ju<lb break="no" ed="#P" n="101"/>dicari impoenitentem, et ejus poena merito
+            <lb ed="#P" n="102"/>affici. Ratio est, quia et est occultator 
+            haereti<lb break="no" ed="#P" n="103"/>corum, et fovet haereses et errores aliorum,
+            <lb ed="#P" n="104"/>et agit contra debitum suum in causa fidei,
+            <lb ed="#P" n="105"/>et ideo merito judicatur ficte conversus. Si
+            <lb ed="#P" n="106"/>autem non esset convictus, sed solum esset
+            <lb ed="#P" n="107"/>de illo aliqua suspicio, tunc haberet locum
+            <lb ed="#P" n="108"/>opinio Rojas, et hoc tantum probat motivum
+            <lb ed="#P" n="109"/>ejus.
+          </p>
+          <p xml:id="szthvi-b43048-d1e1474">
+            <lb ed="#P" n="110"/>1. Tertia assertio, de relapsis. — Exponitur
+            <pb ed="#P" n="583"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>Repertorium. — Tertio dicendum est 
+            haereti<lb break="no" ed="#P" n="2"/>cos relapsos, etiamsi vere poenitentes se 
+            suffi<lb break="no" ed="#P" n="3"/>cienter ostendant, poena mortis esse 
+            afficien<lb break="no" ed="#P" n="4"/>dos, absque ulla remissione. Ita docent 
+            auc<lb break="no" ed="#P" n="5"/>tores citati, et Repertorium Inquisitor., verb.
+            <lb ed="#P" n="6"/>Paena, et verb. Comburi, ev Penna, dicto 
+            com<lb break="no" ed="#P" n="7"/>ment. 65, secunda parte, et in 3 part., 
+            com<lb break="no" ed="#P" n="8"/>ment. 89 et 92; Farinac., de Haeresi, q. 193,
+            <lb ed="#P" n="9"/>n. 32. Et in hoc est expressa lex Friderici supra
+            <lb ed="#P" n="10"/>citata, quae incipit Commissis, et jura etiam
+            <lb ed="#P" n="11"/>canonica expresse decernunt hos esse 
+            traden<lb break="no" ed="#P" n="12"/>dos brachio saeculari, praeter citata in cap. 
+            Ac<lb break="no" ed="#P" n="13"/>cusatos, et cap. Super eo, de Haeret., in 6. Et
+            <lb ed="#P" n="14"/>ratio est, quia relapsi etiam censentur 
+            incor<lb break="no" ed="#P" n="15"/>rigibiles, et, moraliter loquendo, non speratur
+            <lb ed="#P" n="16"/>emenda, sed potius timetur ne atiis noceant.
+            <lb ed="#P" n="17"/>De specie autem et modo poenae, Repertorium
+            <lb ed="#P" n="18"/>supra affirmat esse vivos comburendos. Sed
+            <lb ed="#P" n="19"/>intelligendum est, si sint pertinaces; nam si
+            <lb ed="#P" n="20"/>ponitentes sint, non sunt in eo animae 
+            peri<lb break="no" ed="#P" n="21"/>culo constituendi, et ideo prius sunt 
+            stran<lb break="no" ed="#P" n="22"/>gulandi, ut habet etiam communis consue
+            <lb ed="#P" n="23"/>tudo.
+          </p>
+          <p xml:id="szthvi-b43048-d1e1533">
+            <lb ed="#P" n="24"/>8. An sit relapsus qui novam heresim ab
+            <lb ed="#P" n="25"/>abjurata commisit. — Adversantes opiniones.
+            <lb ed="#P" n="26"/>— Auctoris decisio. — Haec autem assertio
+            <lb ed="#P" n="27"/>est etiam indubitata, quando haereticus 
+            in<lb break="no" ed="#P" n="28"/>cidit in eumdem errorem quem antea 
+            abju<lb break="no" ed="#P" n="29"/>ravit, etiamsi non fuerit de illo convictus, sed
+            <lb ed="#P" n="30"/>tantum de vehementi abjuraverit; ut habetur
+            <lb ed="#P" n="31"/>in dicto cap. Accusatus, S Cum vero. Item est
+            <lb ed="#P" n="32"/>certa, quando prius in generali abjuravit 
+            om<lb break="no" ed="#P" n="33"/>nes errores fidei contrarios, et postea in 
+            ali<lb break="no" ed="#P" n="34"/>quem incidit. Dubitatio autem nonnulla est,
+            <lb ed="#P" n="35"/>an sit judicandus relapsus in ordine ad 
+            eam<lb break="no" ed="#P" n="36"/>dem poenam, qui unam tantum hacresim 
+            con<lb break="no" ed="#P" n="37"/>tra unum articulum abjuravit, et postea in
+            <lb ed="#P" n="38"/>haeresim contra alium incidit ; nam in hoc
+            <lb ed="#P" n="39"/>sunt opiniones. Partem negantem tenet 
+            Glos<lb break="no" ed="#P" n="40"/>sa Joan. Andrese, in dicto c. Accusatus, et 
+            se<lb break="no" ed="#P" n="41"/>quitur Eymericus, 2 p. Directorii, q.40. 
+            Aflir<lb break="no" ed="#P" n="42"/>mantem autem partem tenet Archidiac., in
+            <lb ed="#P" n="43"/>eodem cap., et sequitur Zanquin., cap. 16;
+            <lb ed="#P" n="44"/>et Villadiego, quaest. 20. Beue tamen 
+            admo<lb break="no" ed="#P" n="45"/>net Penna quaestionem in praxi non esse 
+            ad<lb break="no" ed="#P" n="46"/>modum necessariam, quia semper fit 
+            abjura<lb break="no" ed="#P" n="47"/>tio generalis. Si tamen casus contingeret ,
+            <lb ed="#P" n="48"/>stando in vi rationis, posterior opinio habet
+            <lb ed="#P" n="49"/>magnam probabilitatem; tum quia haereses
+            <lb ed="#P" n="50"/>circa diversas materias in ratione culpae 
+            tan<lb break="no" ed="#P" n="51"/>tum numero differunt, quae sola distinctio non
+            <lb ed="#P" n="52"/>obstat reincidentiae et incorrigibilitati circa
+            <lb ed="#P" n="53"/>idem crimen; tum etiam quia, licet abjuratio
+            <lb ed="#P" n="54"/>unius haeresis formaliter sit specialis, 
+            virtua<lb break="no" ed="#P" n="55"/>liter est generalis, nimirum non recedendi
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>ab Ecclesia, nec contra ejus auctoritatem 
+            sen<lb break="no" ed="#P" n="57"/>tiendi ; nam in hoc conveniunt omnes 
+            hare<lb break="no" ed="#P" n="58"/>ses, et hoc est quod formaliter abjuratur, 
+            ar<lb break="no" ed="#P" n="59"/>gumento cap. ultim. , in fine, 24, quaest. 3,
+            <lb ed="#P" n="60"/>et cap. Fxcommunicamus, 2, de Haeretic.; 
+            si<lb break="no" ed="#P" n="61"/>cut e contrario fides unius articuli est 
+            virtua<lb break="no" ed="#P" n="62"/>lis fides omnium. Nihilominus tamen 
+            ponde<lb break="no" ed="#P" n="63"/>rando verba juris cui standum est, prior 
+            opi<lb break="no" ed="#P" n="64"/>nio videtur probabilior, quia non sine causa
+            <lb ed="#P" n="65"/>in dicto cap. Accusatus, in principio ponitur
+            <lb ed="#P" n="66"/>ila conditio : S postea deliquit in ipsa, et in
+            <lb ed="#P" n="67"/>S 1: Si postea quam hueresim simpliciter, vel
+            <lb ed="#P" n="68"/>generaliter abjuravit ; quae conditio non 
+            im<lb break="no" ed="#P" n="69"/>pletur quando tantum praecessit specialis 
+            ab<lb break="no" ed="#P" n="70"/>juratio, et postea non delinquitur in ipsa, id
+            <lb ed="#P" n="71"/>est, in eadem haeresi.
+          </p>
+          <p xml:id="szthvi-b43048-d1e1643">
+            <lb ed="#P" n="72"/>9. Quarta assertio bipartita. — Ostenditur
+            <lb ed="#P" n="73"/>prima. pars, de varietate. —Quarto, dicendum
+            <lb ed="#P" n="74"/>est de dogmatizantibus et haeresiarchis, rem
+            <lb ed="#P" n="75"/>esse controversam, an recipiendi sint, si vere
+            <lb ed="#P" n="76"/>convertantur, vel nihilominus brachio 
+            saecu<lb break="no" ed="#P" n="77"/>lari tradendi sint. Proprie tamen de illis 
+            lo<lb break="no" ed="#P" n="78"/>quendo, probabilius videtur regulariter esse
+            <lb ed="#P" n="79"/>tradendos brachio saeculari. Dico autem 
+            regu<lb break="no" ed="#P" n="80"/>lariter, quia exceptio aliqua admitti posse 
+            vi<lb break="no" ed="#P" n="81"/>detur. Prima pars constat ex diversitate 
+            opi<lb break="no" ed="#P" n="82"/>nionum, de quibus late Farinac., de Haeresi,
+            <lb ed="#P" n="83"/>quaest. 192, a numero quinto; nam quod isti
+            <lb ed="#P" n="84"/>sint admittendi, indistincte tenet Eymericus,
+            <lb ed="#P" n="85"/>tertia parte, num. 136 et sequentibus, et 
+            in<lb break="no" ed="#P" n="86"/>clinat Penna allegando alios, secunda parte,
+            <lb ed="#P" n="87"/>commentar. 64. Fundantur, quia, cap. Ad
+            <lb ed="#P" n="88"/>abolendam, generaliter dicit docentes et 
+            reci<lb break="no" ed="#P" n="89"/>pientes haereses, si resipiscant tempore 
+            debi<lb break="no" ed="#P" n="90"/>to, et relapsi non sint, esse recipiendos; et
+            <lb ed="#P" n="91"/>idem repetit absolute de publicis haereticis,
+            <lb ed="#P" n="92"/>sub quibus dogmatizantes comprehenduntur,
+            <lb ed="#P" n="93"/>juxta cap. Supger quibusdam , de Verbor. 
+            si<lb break="no" ed="#P" n="94"/>gnific. ; et similis regula indistincte traditur
+            <lb ed="#P" n="95"/>in cap. Uft officium, de Haeretic., in 6; ergo 
+            si<lb break="no" ed="#P" n="96"/>ne adminiculo juris canonici non licet 
+            distin<lb break="no" ed="#P" n="97"/>guere inter magistros et discipulos haeresum.
+            <lb ed="#P" n="98"/>Praesertim cum generalis regula Ecclesiae sit,
+            <lb ed="#P" n="99"/>quod resipiscentes a quocumque crimine, 
+            re<lb break="no" ed="#P" n="100"/>cipiendi sunt, ut in sequenti assertione 
+            vide<lb break="no" ed="#P" n="101"/>bimus. Denique favet regula, quod facores
+            <lb ed="#P" n="102"/>sint ampliandi.
+          </p>
+          <p xml:id="szthvi-b43048-d1e1713">
+            <lb ed="#P" n="103"/>10. Progreditur eadem pars. — Auctoris 
+            ja<lb break="no" ed="#P" n="104"/>dicium in dicta varietate.—Nihilominus, quod
+            <lb ed="#P" n="105"/>isti recipiendi non sint, sed absque ulla 
+            remis<lb break="no" ed="#P" n="106"/>sione tradendi brachio saeculari, acriter 
+            con<lb break="no" ed="#P" n="107"/>tendunt Simanc., in Institutionibus, tit. 47,a
+            <lb ed="#P" n="108"/>num. 54, et in Enchiridio, titul. 56; Rojas, in
+            <lb ed="#P" n="109"/>tractat., 2 part., assertione 43, et fuit 
+            senten<lb break="no" ed="#P" n="110"/>tia Repertorii Inquisitorum, verbo Docere.
+            <pb ed="#P" n="584"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>Fundamentum esse videtur, quia hoc est 
+            con<lb break="no" ed="#P" n="2"/>forme juri divino et civili, et canonicum non
+            <lb ed="#P" n="3"/>repugnat. Prima pars patet ex illo Deuter. 13,
+            <lb ed="#P" n="4"/>ubi de hujusmodi falsa dogmatizante dicitur:
+            <lb ed="#P" n="5"/>Statim interficiatur. Secunda pars probatur
+            <lb ed="#P" n="6"/>ex l. Quicumque, C. de Haeret., ibi: Qui 
+            illi<lb break="no" ed="#P" n="7"/>cita docere tentacerit ; nam licet Glossa ibi, ut
+            <lb ed="#P" n="8"/>supra retuli, aequiparet dicentem cum docente,
+            <lb ed="#P" n="9"/>re tamen vera multo gravius et specialius est
+            <lb ed="#P" n="10"/>peccatum docentis. Unde cum de illo lex 
+            spe<lb break="no" ed="#P" n="11"/>cialiter loquatur, aliquid etiam speciale de illo
+            <lb ed="#P" n="12"/>statuere voluit. Item facit lex ultima, in fine,
+            <lb ed="#P" n="13"/>Cod. de Judaeis, ibi : Penee sanguinis 
+            desti<lb break="no" ed="#P" n="14"/>nandus, qui fidem alterius evpugnavit perversa
+            <lb ed="#P" n="15"/>doctrina. Item lex penult. Cod. de Apostat.,
+            <lb ed="#P" n="16"/>dicit poena capitis esse puniendum. qui alium
+            <lb ed="#P" n="17"/>pervertit. Tertia pars probatur, quia in jure
+            <lb ed="#P" n="18"/>canonico nunquam invenitur in particulari
+            <lb ed="#P" n="19"/>praescriptum, ut isti recipiantur; generalis 
+            au<lb break="no" ed="#P" n="20"/>tem decisio, quod haeretici poenitentes 
+            reci<lb break="no" ed="#P" n="21"/>piantur, non sufficit ad corrigenda dcta jura
+            <lb ed="#P" n="22"/>civilia, neque ad comprehendendos praedictos
+            <lb ed="#P" n="23"/>dogmatizantes; tum quia generalia verba 
+            le<lb break="no" ed="#P" n="24"/>gis loquentis de aliquo delicto non 
+            compre<lb break="no" ed="#P" n="25"/>hendunt speciale et qualificatum delictum 
+            quo<lb break="no" ed="#P" n="26"/>ad indulgentiam aliquam, ut juristae 
+            commu<lb break="no" ed="#P" n="27"/>niter docent; tum etiam quia illa verba 
+            prae<lb break="no" ed="#P" n="28"/>cise intelligenda sunt de haeretico; dogmatista
+            <lb ed="#P" n="29"/>autem plus est quam haereticus, quia est hostis
+            <lb ed="#P" n="30"/>Ecclesiae et animarum fidelium; tum denique
+            <lb ed="#P" n="31"/>quia ratio est valde diversa, nam in 
+            dogmati<lb break="no" ed="#P" n="32"/>zautibus (quia non peccant ex ignorantia, vel,
+            <lb ed="#P" n="33"/>si peccant ex illa, est nimium affectata) 
+            prae<lb break="no" ed="#P" n="34"/>sumitur magna pertinacia, et consequenter
+            <lb ed="#P" n="35"/>valde timeri potest fictio in eorum 
+            conversio<lb break="no" ed="#P" n="36"/>ne, ac subinde magnum potest imminere 
+            pe<lb break="no" ed="#P" n="37"/>riculum animarum, si recipiantur; ergo 
+            cano<lb break="no" ed="#P" n="38"/>nes in priori opinione allegati non sunt ad eos
+            <lb ed="#P" n="39"/>extendendi. Unde quia haec motiva videntur
+            <lb ed="#P" n="40"/>urgentiora, et quia hoc cedit in majorem fidei
+            <lb ed="#P" n="41"/>favorem, et majorem animarum sccuritatem,
+            <lb ed="#P" n="42"/>ideo addidi in secunda parte assertionis, hanc
+            <lb ed="#P" n="43"/>regulam generalem, cum aliqua moderatione
+            <lb ed="#P" n="44"/>sumptam, esse probabiliorem, et, ut existimo,
+            <lb ed="#P" n="45"/>illam etiam usus confirmat.
+          </p>
+          <p xml:id="szthvi-b43048-d1e1835">
+            <lb ed="#P" n="46"/>11. Pro prima parte assertionis, quis 
+            dica<lb break="no" ed="#P" n="47"/>tur heresiarcha praecise.—Quis dogmatista.—
+            <lb ed="#P" n="48"/>Ut autem et moderationem, et reliquam 
+            par<lb break="no" ed="#P" n="49"/>tem assertionis explicemus, advertere oportet
+            <lb ed="#P" n="50"/>varios esse gradus istorum seminantium 
+            er<lb break="no" ed="#P" n="51"/>rores. Primus est illorum qui dicuntur 
+            haere<lb break="no" ed="#P" n="52"/>siarchae, qui proprie sunt illi qui et errores
+            <lb ed="#P" n="53"/>invenerunt et seminant, ut Arius, Lutherus,
+            <lb ed="#P" n="54"/>et similes; et in his maxime locum habet
+            <lb ed="#P" n="55"/>dicta regula, quam bene confirmat Hierouy-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>mus ad Galatas quinto, in Ario exemplum 
+            ad<lb break="no" ed="#P" n="57"/>hibens. Secundus gradus est eorum qui 
+            hae<lb break="no" ed="#P" n="58"/>reses ab aliis inventas docent et praedicant, et
+            <lb ed="#P" n="59"/>isti proprie dicuntur dogmatizantes; ut videre
+            <lb ed="#P" n="60"/>licet in Eymerico, secunda parte, quaestione
+            <lb ed="#P" n="61"/>trigesima nona; et ibi Penna, commentar. 64;
+            <lb ed="#P" n="62"/>et Simancas, tit. 31 ; imo interdum etiam 
+            vo<lb break="no" ed="#P" n="63"/>cantur haeresiarchae, ut ab Urbano Papa, in
+            <lb ed="#P" n="64"/>cap. Qui aliorum, 24, quaest. 3. Requiritur
+            <lb ed="#P" n="65"/>autem ad hunc gradum, ut quasi ex officio
+            <lb ed="#P" n="66"/>et consuetuine hoc munus accipiant, et plures
+            <lb ed="#P" n="67"/>doceant, vel publice, vel occulte. Et ita in his
+            <lb ed="#P" n="68"/>etiam habet verum regula posita. Existimo
+            <lb ed="#P" n="69"/>tamen, in aliquo raro casu, et interveniente
+            <lb ed="#P" n="70"/>auctoritate supremi senatus, posse recipi, si
+            <lb ed="#P" n="71"/>magna et fere evidentia signa divinae 
+            illumi<lb break="no" ed="#P" n="72"/>nationis in eis appareant, et praesertim si 
+            ali<lb break="no" ed="#P" n="73"/>qua utilitas fidelium ex eorum vita speretur,
+            <lb ed="#P" n="74"/>ut dixit Concilium Biterren., quod Penna 
+            re<lb break="no" ed="#P" n="75"/>fert. In tertio gradu statui possunt qui 
+            priva<lb break="no" ed="#P" n="76"/>tim unum vel alium decipiunt ; et hi non
+            <lb ed="#P" n="77"/>comprehenduntur sub regula, sed in eis 
+            ser<lb break="no" ed="#P" n="78"/>vanda est prima opinio, quia proprie 
+            dogma<lb break="no" ed="#P" n="79"/>tizantes non sunt, et aliquae ex dictis legibus
+            <lb ed="#P" n="80"/>civilibus ita sunt moderandae, et hoc etiam
+            <lb ed="#P" n="81"/>usus observat.
+          </p>
+          <p xml:id="szthvi-b43048-d1e1918">
+            <lb ed="#P" n="82"/>12. Circa pradictas assertiones observatio
+            <lb ed="#P" n="83"/>prima. — Observatio secunda. — Tertia. —
+            <lb ed="#P" n="84"/>Tandem circa hos casus in his assertionibus
+            <lb ed="#P" n="85"/>propositos, in quibus persona haereticae 
+            tra<lb break="no" ed="#P" n="86"/>duntur brachio saeculari, tria breviter notanda
+            <lb ed="#P" n="87"/>sunt. Primum est, hoc tam in personis 
+            eccle<lb break="no" ed="#P" n="88"/>siasticis in sacris ordinatis, etiam sacerdotibus,
+            <lb ed="#P" n="89"/>quam in laicis servari. Solum advertunt jura,
+            <lb ed="#P" n="90"/>sacerdotes prius esse degradandos, cap. 
+            Ez<lb break="no" ed="#P" n="91"/>communicamus, 2, de Haeretic., cap. Ad 
+            fal<lb break="no" ed="#P" n="92"/>sariorum, de Crimin. falsi, prout declaratur
+            <lb ed="#P" n="93"/>et extenditur in cap. JVovimus, de Verb. 
+            si<lb break="no" ed="#P" n="94"/>gnificat. De qua degradatione, et ritu ejus, 
+            vi<lb break="no" ed="#P" n="95"/>deri possunt dicta in tomo quinto, 
+            disputa<lb break="no" ed="#P" n="96"/>tione 30. Secundum est, judices ecclesiasticos
+            <lb ed="#P" n="97"/>non incurrere irregularitatem tradendo 
+            hae<lb break="no" ed="#P" n="98"/>reticos brachio saeculari, quia ipsi non 
+            con<lb break="no" ed="#P" n="99"/>demnant ad mortem, nec exequuntur illam;
+            <lb ed="#P" n="100"/>et ideo in dicto cap. Novimus, monentur ut
+            <lb ed="#P" n="101"/>petant a judicibus laicis, ut benigne cum reis
+            <lb ed="#P" n="102"/>se gerant, quantum justitia permiserit. De qua
+            <lb ed="#P" n="103"/>cautione, et quomodo talis irregularitas 
+            vite<lb break="no" ed="#P" n="104"/>tur, dixi late in eodem tom. 5, disp. 67, sect.
+            <lb ed="#P" n="105"/>1, circa finem. Tertium est, de relapsis et
+            <lb ed="#P" n="106"/>dogmatizantibus, si vere poenitentes sint, non
+            <lb ed="#P" n="107"/>esse deneganda ante mortem sacramenta 
+            Poe<lb break="no" ed="#P" n="108"/>nitentiae, et Eucharistiae, quantuam commode
+            <lb ed="#P" n="109"/>fieri possit; ita enim cavetur in cap. Swper eo,
+            <lb ed="#P" n="110"/>de Haeretic., in 6; nam licet de relapsis in
+            <pb ed="#P" n="585"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>particulari loquatur, tamen ex identitate 
+            ra<lb break="no" ed="#P" n="2"/>tionis ad omnes vere poenitentes extenditur.
+          </p>
+          <p xml:id="szthvi-b43048-d1e1992">
+            <lb ed="#P" n="3"/>13. Quinta assertio, de reconciliandis non
+            <lb ed="#P" n="4"/>relapsis. — Quinto dicendum est, haereticum
+            <lb ed="#P" n="5"/>non relapsum, qui ante sententiam sponte
+            <lb ed="#P" n="6"/>convertitur, et vere poenitentem se ostendit,
+            <lb ed="#P" n="7"/>non esse poena mortis damnandum, seu 
+            bra<lb break="no" ed="#P" n="8"/>chio saeculari tradendum, sed post 
+            abjuratio<lb break="no" ed="#P" n="9"/>nem, et oblatam satisfactionem cum aliqua
+            <lb ed="#P" n="10"/>convenienti poena, vel poenitentia, esse 
+            susci<lb break="no" ed="#P" n="11"/>piendum et reconciliandum. Haec assertio non
+            <lb ed="#P" n="12"/>habet magnum fundamentum in jure civili;
+            <lb ed="#P" n="13"/>quod mirum non est, quia cura salutis 
+            anima<lb break="no" ed="#P" n="14"/>rum et reconciliatio peccatorum ad potestatem
+            <lb ed="#P" n="15"/>laicam non pertinet; nihilominus juvat lex 4
+            <lb ed="#P" n="16"/>de Haeretic., quatenus in ea Theodosius dicit:
+            <lb ed="#P" n="17"/>Veniam ponitentibus damus. Juvat etiam lex
+            <lb ed="#P" n="18"/>Friderici, Inconsutilem, quatenus solos 
+            perti<lb break="no" ed="#P" n="19"/>naces jubet cremari; at vero jura Canonica
+            <lb ed="#P" n="20"/>hoc expresse disponunt in dicto capit. Ad 
+            abo<lb break="no" ed="#P" n="21"/>lendam, de Haeret., et capit. Ut Officium, cum
+            <lb ed="#P" n="22"/>aliis, eodem, in 6. Fuitque haec perpetua 
+            con<lb break="no" ed="#P" n="23"/>suetudo et iraditio Ecclesiae, ut constat ex
+            <lb ed="#P" n="24"/>Concilio Nicano, cap. 8, et Concilio Elibert.,
+            <lb ed="#P" n="25"/>can. 22; et Concilio Agathen. sub Symmacho,
+            <lb ed="#P" n="26"/>can. 60; et Concilio Arelaten., cap. 9, et aliis
+            <lb ed="#P" n="27"/>quae adducit Farin. , quaestion. illa 192, num.
+            <lb ed="#P" n="28"/>2. Ratio vero est, quia Christus et ejus 
+            Eccle<lb break="no" ed="#P" n="29"/>sia non claudit gremium redeuntibus ad se,
+            <lb ed="#P" n="30"/>ut in cap. JVullus, de Poenitent. , distinct. 7,
+            <lb ed="#P" n="31"/>quia Ecclesia magis quaerit salutem 
+            anima<lb break="no" ed="#P" n="32"/>rum, quam vindictam delictorum; ideoque
+            <lb ed="#P" n="33"/>non utitur his poenis tantum ut vindicativis,
+            <lb ed="#P" n="34"/>sed etiam ut medicinalibus ; unde quando 
+            re<lb break="no" ed="#P" n="35"/>missio mortis aliis non rocet, et delinquenti
+            <lb ed="#P" n="36"/>potest ad salutem animae prodesse, illam 
+            li<lb break="no" ed="#P" n="37"/>benter concedit.
+          </p>
+          <p xml:id="szthvi-b43048-d1e2070">
+            <lb ed="#P" n="38"/>14. In quibus casibus vita donatur 
+            heere<lb break="no" ed="#P" n="39"/>licus. — Difficultas vero est, quando et 
+            quo<lb break="no" ed="#P" n="40"/>modo haec remissio locum habeat. In qua
+            <lb ed="#P" n="41"/>breviter distinguenda est duplex conversio
+            <lb ed="#P" n="42"/>haeretici : una est omnino spontanea, nimirum
+            <lb ed="#P" n="43"/>quando ipse se accusat priusquam 
+            denuntie<lb break="no" ed="#P" n="44"/>tur, vel lis contra illum moveatur, et tunc,
+            <lb ed="#P" n="45"/>facta abjuratione, vel occulta, si occultum
+            <lb ed="#P" n="46"/>fuerit delictum, vel publica, si alicubi fuerit
+            <lb ed="#P" n="47"/>publicum, recipiendus est sine ulla gravi 
+            poe<lb break="no" ed="#P" n="48"/>na, salutari tamen poenitentia imposita. Hoc
+            <lb ed="#P" n="49"/>satis constat ex supra dictis, et docet Simanc.,
+            <lb ed="#P" n="50"/>tit. 47, num. 27 et sequentibus; et Rojas,
+            <lb ed="#P" n="51"/>singular. 154. Videri etiam potest Penna, 2
+            <lb ed="#P" n="52"/>part. Directorii, commentar. 65; et Farin.,
+            <lb ed="#P" n="53"/>quaest. 195, a num. S0. Alia est conversio,
+            <lb ed="#P" n="54"/>quae ab aliqua coactione incipit, utique post
+            <lb ed="#P" n="55"/>denuntiationem factam, et ex metu poenae, et
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>in hac distinguendi sunt tres status. Primus
+            <lb ed="#P" n="57"/>est post denuntiationem, et antequam reus sit
+            <lb ed="#P" n="58"/>convictus per testes. Et tunc sine ulla 
+            dubita<lb break="no" ed="#P" n="59"/>tione est recipiendus, adhibita aliqua poena,
+            <lb ed="#P" n="60"/>prudenti arbitrio Inquisitorum, et juxta 
+            in<lb break="no" ed="#P" n="61"/>structiones suas, nam de hac poena jus 
+            com<lb break="no" ed="#P" n="62"/>mune non habemus; erit tamen major vel
+            <lb ed="#P" n="63"/>minor, juxta majorem vel minorem 
+            celerita<lb break="no" ed="#P" n="64"/>tem in conversione, et majora vel minora
+            <lb ed="#P" n="65"/>poenitentiae signa.
+          </p>
+          <p xml:id="szthvi-b43048-d1e2136">
+            <lb ed="#P" n="66"/>15. Secundus casus. — Secundus status est
+            <lb ed="#P" n="67"/>post testium depositiones, et ante sententiam,
+            <lb ed="#P" n="68"/>et tunc etiam omnes conveniunt esse 
+            reci<lb break="no" ed="#P" n="69"/>piendum reum, et poenam mortis in poenam
+            <lb ed="#P" n="70"/>perpetui carceris esse commutandam; ita
+            <lb ed="#P" n="71"/>enim praescribitur in l. Commissi, Friderici, et
+            <lb ed="#P" n="72"/>clarius in cap. Facommunicamus, 2, S Si qui,
+            <lb ed="#P" n="73"/>et in dicto cap. Ut officium, et in cap. 
+            Acca<lb break="no" ed="#P" n="74"/>satus. Aliqui tamen dubitant an haec remissio
+            <lb ed="#P" n="75"/>habeat locum, quando haereticus prius fuit
+            <lb ed="#P" n="76"/>nimis pertinax, et saepe protestatus est ab
+            <lb ed="#P" n="77"/>erroribus suis non esse discessurum. Ita 
+            dubi<lb break="no" ed="#P" n="78"/>tat Rojas, in tractatu, 2 part., num. 374.
+            <lb ed="#P" n="79"/>Nihilominus Albericus, quaest. 30, num. 79,
+            <lb ed="#P" n="80"/>simpliciter affirmat esse recipiendum, et mihi
+            <lb ed="#P" n="81"/>videtur verum, adhibita prudenti 
+            animad<lb break="no" ed="#P" n="82"/>versione dicti cap. Ut Officium, ut 
+            providea<lb break="no" ed="#P" n="83"/>tur solerter ne fraudulenta sit conversio. Àn
+            <lb ed="#P" n="84"/>vero in eo casu degradandus sit clericus,
+            <lb ed="#P" n="85"/>priusquam immuretur, et an immuratio sit
+            <lb ed="#P" n="86"/>eadem poena cum carcere perpetuo, tractant
+            <lb ed="#P" n="87"/>Eymericus, 3 part., quaest. 94; et Penna,
+            <lb ed="#P" n="88"/>comment. 46; Farin. supra, q. 166, num. 13.
+          </p>
+          <p xml:id="szthvi-b43048-d1e2188">
+            <lb ed="#P" n="89"/>16. Tertius casus. —Tertius status est post
+            <lb ed="#P" n="90"/>latam sententiam, et tunc sunt opiniones inter
+            <lb ed="#P" n="91"/>juristas, ut videre est in Farinac. supra, quaest.
+            <lb ed="#P" n="92"/>193, a num. 56. Nam Simanc. supra negat;
+            <lb ed="#P" n="93"/>admittit tamen aliquam exceptionem vel 
+            arbi<lb break="no" ed="#P" n="94"/>trium ; et inclinat Penna, dicto commentar.
+            <lb ed="#P" n="95"/>46, et 2 part.. comment. 36, allegando alios,
+            <lb ed="#P" n="96"/>et multum favet cap. Ad abolendam, et cap.
+            <lb ed="#P" n="97"/>Cum officium. Alii vero tenent contrarium,
+            <lb ed="#P" n="98"/>Glossa in dicto cap. Fxcommunicamus, 2, S 
+            Sc<lb break="no" ed="#P" n="99"/>qui, quam multi ibi sequuntur, et ex 
+            miseri<lb break="no" ed="#P" n="100"/>cordia fieri posse affirmat Eymericus, 3 part.,
+            <lb ed="#P" n="101"/>num. 201; et Villadiego, quaest. 15; et Rojas,
+            <lb ed="#P" n="102"/>singular. 31, 154. Sed revera prima opinio in
+            <lb ed="#P" n="103"/>rigore juris videtur solidior. Nihilominus 
+            ta<lb break="no" ed="#P" n="104"/>men in aiiquo raro casu, et propter graves
+            <lb ed="#P" n="105"/>circumstantias, non videtur denegandum 
+            ju<lb break="no" ed="#P" n="106"/>dicibus prudens arbitrium, quia ita expedit ad
+            <lb ed="#P" n="107"/>commune bonum, neque est lex quae 
+            prohi<lb break="no" ed="#P" n="108"/>beat, imo etiam in usu ita servari existimo.
+          </p>
+          <p xml:id="szthvi-b43048-d1e2234">
+            <lb ed="#P" n="109"/>17. Ultima assertio, de aliis penis et morte.
+            <lb ed="#P" n="110"/>— De habitu panitentiali. — Ultimo potest ex
+            <pb ed="#P" n="586"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>dictis colligi quid de aliis poenis citra 
+            mor<lb break="no" ed="#P" n="2"/>tem dicendum sit; nam aliae poenae corporales
+            <lb ed="#P" n="3"/>non imponuntur, nisi quasi in 
+            commutatio<lb break="no" ed="#P" n="4"/>nem poenae mortis. Et hoc modo solum 
+            inveni<lb break="no" ed="#P" n="5"/>mus in jure poenam perpetui carceris, de qua
+            <lb ed="#P" n="6"/>jam dixi; et videri potest Farinac., citata
+            <lb ed="#P" n="7"/>quaest. 193, a num. 101. Solum adverto olim
+            <lb ed="#P" n="8"/>magis fuisse in consuetudine poenam exili,
+            <lb ed="#P" n="9"/>ut constat ex dictis legibus civilibus, et ex
+            <lb ed="#P" n="10"/>Conciliis antiquis allegatis supra, disput. 20,
+            <lb ed="#P" n="11"/>section. 3, et aliis scriptoribus apud eumdem
+            <lb ed="#P" n="12"/>Farinac., a num. S0. Postea vero magis 
+            ac<lb break="no" ed="#P" n="13"/>commodata visa est poena carceris perpetui, et
+            <lb ed="#P" n="14"/>merito ; nam in exilio poterant haeretici 
+            libe<lb break="no" ed="#P" n="15"/>rius redire ad vomitum, et aliis nocere; ab
+            <lb ed="#P" n="16"/>utroque autem praeservantur in carcere. Aliae
+            <lb ed="#P" n="17"/>vero poenae sunt arbitrariae, et ideo nihil est
+            <lb ed="#P" n="18"/>quod de illis dicamus. Solum caeteris poenis
+            <lb ed="#P" n="19"/>addi potest habitus poenitentiae crucibus 
+            in<lb break="no" ed="#P" n="20"/>signitus, quem haeretici poenitentes 
+            cogun<lb break="no" ed="#P" n="21"/>tur supra vestes gestare; nam haec poena
+            <lb ed="#P" n="22"/>ad corporales reduci potest, vel etiam ad
+            <lb ed="#P" n="23"/>infamiam, quamvis etiam propter 
+            satisfactio<lb break="no" ed="#P" n="24"/>nem et humiliationem propriam, et in 
+            alio<lb break="no" ed="#P" n="25"/>rum exemplum et terrorem imponatur, estque
+            <lb ed="#P" n="26"/>usu et instructione sancti Officii introducta,
+            <lb ed="#P" n="27"/>quamvis in jure non habeatur. Et de illa 
+            vi<lb break="no" ed="#P" n="28"/>deri possunt Zanquin, in capite 20; hRojas,
+            <lb ed="#P" n="29"/>singul. 154; Penna, 3 part., comment. 42 et
+            <lb ed="#P" n="30"/>44; Farinac., proxime citatus, a num. 94.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2611 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 22</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 22</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="556"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-b37627"><!-- l1-d22 -->
+        <head xml:id="szthvi-b37627-Hd1e101">Disputatio 22</head>
+        <head xml:id="szthvi-b37627-Hd1e103" type="question-title">
+          De temporali poena haereticorum quae fit per confiscationem temporalium bonorum</head>
+        <p xml:id="szthvi-b37627-d1e106">
+          <lb ed="#P" n="32"/>DISPUTATIO XXII.
+          <lb ed="#P" n="33"/>DE TEMPORALI POENA HAERETICORUM, QUAE FIT PER
+          <lb ed="#P" n="34"/>CONFISCATIONEM TEMPORALIUM BONORUM.
+        </p>
+        <p xml:id="szthvi-b37627-d1e115">
+          <lb ed="#P" n="35"/>Post spirituales poenas, dicendum sequitur
+          <lb ed="#P" n="36"/>de temporalibus, quae bonis etiam 
+          tempora<lb break="no" ed="#P" n="37"/>libus privant; in quo ordine solent distingui
+          <lb ed="#P" n="38"/>tria genera bonorum, scilicet, vitae seu 
+          corpo<lb break="no" ed="#P" n="39"/>ris, famae et fortunae. De infamia, quae 
+          oppo<lb break="no" ed="#P" n="40"/>nitur secundo generi bonorum, dictum jam
+          <lb ed="#P" n="41"/>est propter rationem superius tactam. Poenas
+          <lb ed="#P" n="42"/>autem privantes bonis primi generis nos 
+          cor<lb break="no" ed="#P" n="43"/>porales vocamus, de quibus disputatione 
+          se<lb break="no" ed="#P" n="44"/>quenti dicturi sumus. Hic ergo solum agimus
+          <lb ed="#P" n="45"/>de paenis, quae privant bonis fortunae, seu 
+          ex<lb break="no" ed="#P" n="46"/>ternis, et has vocamus speciali modo 
+          tempo<lb break="no" ed="#P" n="47"/>rales, omnesque sub conhiscatione bonorum
+          <lb ed="#P" n="48"/>comprehenduntur, quia in illo genere nulla
+          <lb ed="#P" n="49"/>major poena esse potest, et in illa tanquam
+          <lb ed="#P" n="50"/>partes in toto reliqua omnes continentur.
+          <lb ed="#P" n="51"/>Haec igitur confiscatio a nobis declarana est,
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="52"/>quantum Theologis utile fuerit, et brevitas
+          <lb ed="#P" n="53"/>temporum permiserit: nam quae juristae de
+          <lb ed="#P" n="54"/>illa tradunt, fere infinita sunt.
+        </p>
+        <div xml:id="szthvi-b37627-Dd1e163">
+          <head xml:id="szthvi-b37627-Hd1e165">Sectio 1</head>
+          <head xml:id="szthvi-b37627-Hd1e167" type="question-title">Utrum confiscatio bonorum sit poena ipso jure haereticis imposita, et quae ab illis ipso facto, et ante omnem sententiam incurratur</head>
+          <p xml:id="szthvi-b37627-d1e170">
+            <lb ed="#P" n="55"/>SECTIO I.
+            <lb ed="#P" n="56"/>Utrum confiscatio bonorum sit poena ipso jure
+            <lb ed="#P" n="57"/>haereticis imposita, et quae ab illis ipso 
+            fac<lb break="no" ed="#P" n="58"/>to, et ante omnem sententiam incurratur?
+          </p>
+          <p xml:id="szthvi-b37627-d1e181">
+            <lb ed="#P" n="59"/>1. Confiscatio et fiscus quid ? — Primum
+            <lb ed="#P" n="60"/>omnium necessarium est vocem exponere; et
+            <lb ed="#P" n="61"/>imprimis quoniam confiscatio dicit 
+            habitudi<lb break="no" ed="#P" n="62"/>nem ad fiscum, sciendum est ex Augustino,
+            <lb ed="#P" n="63"/>Ps. 146, in fine, et Isidoro, lib. 20 
+            Etymo<lb break="no" ed="#P" n="64"/>log., c. 9, fiscum significare saccum publicum,
+            <lb ed="#P" n="65"/>in quo pecuniae publicae reponuntur, id est,
+            <lb ed="#P" n="66"/>eerarium, seu thesaurum bonorum, seu jurium
+            <lb ed="#P" n="67"/>regalium. Unde lege secunda, in principio, ff.
+            <lb ed="#P" n="68"/>Ne quid in loco publico, bona propria 
+            prin<lb break="no" ed="#P" n="69"/>cipis res fiscales dicuntur. Et secundum 
+            com<lb break="no" ed="#P" n="70"/>munem usum solus rex vel princeps supremus
+            <lb ed="#P" n="71"/>dicitur habere fiscum. Et claritatis gratia 
+            pos<lb break="no" ed="#P" n="72"/>sumus distinguere duplicem fiscum, scilicet
+            <lb ed="#P" n="73"/>civilem, qualis est regius, et ecclesiasticum,
+            <lb ed="#P" n="74"/>qualem habet Pontifex, et suo modo possunt
+            <lb ed="#P" n="75"/>habere Episcopi, vel particulares Ecclesiae.
+            <lb ed="#P" n="76"/>Hinc ergo confiscatio bonorum dicitur quaedam
+            <lb ed="#P" n="77"/>specialis applicatio bonorum delinquentis ad
+            <lb ed="#P" n="78"/>fiscum, per quam fit ut et talia bona sint 
+            spe<lb break="no" ed="#P" n="79"/>cialiter obligata fisco, et fiscus ipse aliquod
+            <lb ed="#P" n="80"/>jus ad talia bona acquirat. Et hoc modo, in
+            <lb ed="#P" n="81"/>lege Procuratores, ff. de Jure fisci, talia bona
+            <lb ed="#P" n="82"/>dicuntur devoluta ad fiscum, et in leg. 
+            Quis<lb break="no" ed="#P" n="83"/>quis, C. ad Legem Juliam majestatis, 
+            dicun<lb break="no" ed="#P" n="84"/>tur addita fisco. Et haec sufficiunt ad 
+            explica<lb break="no" ed="#P" n="85"/>tionem vocis; nam res ipsa explicando 
+            effec<lb break="no" ed="#P" n="86"/>tus confiscationis declaranda est.
+          </p>
+          <p xml:id="szthvi-b37627-d1e244">
+            <lb ed="#P" n="87"/>2. Prima assertio pro prima parte tituli.—
+            <lb ed="#P" n="88"/>Hoc supposito, dicimus primo, propter 
+            delic<lb break="no" ed="#P" n="89"/>tum haeresis utroque jure impositam esse 
+            poe<lb break="no" ed="#P" n="90"/>nam confiscationis omnium bonorum 
+            perso<lb break="no" ed="#P" n="91"/>nae sic delinquentis. Ita jure civili cautum est
+            <lb ed="#P" n="92"/>in lege Manicheeos. cum duabus sequentibus;
+            <lb ed="#P" n="93"/>et Authent. G'azaros, c. de Haeret.. et l. 
+            Quis<lb break="no" ed="#P" n="94"/>quis, et leg. ult., c. ad legem Juliam 
+            majes<lb break="no" ed="#P" n="95"/>tatis, et in leg. ult., c de Bonorum 
+            praescriptio<lb break="no" ed="#P" n="96"/>nibus. In jure autem canonico est celebris
+            <lb ed="#P" n="97"/>textus in cap. Cum secundum leges,de Haeret.,
+            <lb ed="#P" n="98"/>in 6, ubi Gloss. et Doctores, et omnes qui de
+            <lb ed="#P" n="99"/>haereticis scribunt. Et ratio redditur, tam in
+            <lb ed="#P" n="100"/>illo textu, quam in aliis, quia leges humanae
+            <lb ed="#P" n="101"/>puniunt crimen lasa majestatis humanae,
+            <lb ed="#P" n="102"/>imo interdumn etiam minora crimina, confis-
+            <pb ed="#P" n="557"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>catione bonornm ; ergo multo magis crimen
+            <lb ed="#P" n="2"/>laesae majestatis divinae, quod per haeresim
+            <lb ed="#P" n="3"/>committitur, tali poena puniendum est. 
+            Se<lb break="no" ed="#P" n="4"/>cunda ratio esse potest, quia hae poenae 
+            infli<lb break="no" ed="#P" n="5"/>guntur, ut timore illarum homines a delictis
+            <lb ed="#P" n="6"/>abstineant; maxime autem solent homines
+            <lb ed="#P" n="7"/>timere privari bonis ompibus, et ideo talis
+            <lb ed="#P" n="8"/>poena aptissima est ad homines coercendos.
+            <lb ed="#P" n="9"/>Tertia item ratio addi solet, quia haeretici
+            <lb ed="#P" n="10"/>fiunt saepe hostes Ecclesiae et fidelium, et ideo,
+            <lb ed="#P" n="11"/>ut debilitentur vires eorum contra Ecclesiam,
+            <lb ed="#P" n="12"/>privantur bonis temporalibus, quibus 
+            homi<lb break="no" ed="#P" n="13"/>nes ad persequendos hostes maxime juvari
+            <lb ed="#P" n="14"/>solent.
+          </p>
+          <p xml:id="szthvi-b37627-d1e317">
+            <lb ed="#P" n="15"/>3. Objectio contra proeime resoluta, circa
+            <lb ed="#P" n="16"/>quam videri potest laie Farin., de Her..q.
+            <lb ed="#P" n="17"/>291, toto parag. 1. — Solvitur. — Sed objici
+            <lb ed="#P" n="18"/>potest : nam hinc sequitur ut filii innocentes
+            <lb ed="#P" n="19"/>propter peccatum patris puniantur ; quod 
+            vi<lb break="no" ed="#P" n="20"/>detur esse contra naturalem aquitatem, quae
+            <lb ed="#P" n="21"/>jubet ut poenae ferantur in auctores 
+            delicto<lb break="no" ed="#P" n="22"/>rum, et non ultra progrediantur, leg. 
+            Sanci<lb break="no" ed="#P" n="23"/>mus, cod. de Poenis. Et sequela patet, quia si
+            <lb ed="#P" n="24"/>parentes omnibus bonis priventur, necesse
+            <lb ed="#P" n="25"/>est ut filii eisdem careant, et paupertate 
+            affli<lb break="no" ed="#P" n="26"/>gantur. Maxime vero videtur hoc pietati 
+            re<lb break="no" ed="#P" n="27"/>pugnare, quando filii sunt catholici; nam
+            <lb ed="#P" n="28"/>plus eis favere debet propria fides quam 
+            pa<lb break="no" ed="#P" n="29"/>terna perfidia. Ad objectionem respondetur
+            <lb ed="#P" n="30"/>primo, bona quae confiscantur, non esse 
+            filio<lb break="no" ed="#P" n="31"/>rum, sed parentis; nam si aliqua sunt 
+            pro<lb break="no" ed="#P" n="32"/>pria filiorum, illa non confiscantur sine 
+            pro<lb break="no" ed="#P" n="33"/>prio peccato ipsorum, ut infra dicetur ; pater
+            <lb ed="#P" n="34"/>autem suis bonis privatur propter suum 
+            de<lb break="no" ed="#P" n="35"/>lictum. Quod autem inde consequenter 
+            sequa<lb break="no" ed="#P" n="36"/>tur filiorum egestas, non est considerandum,
+            <lb ed="#P" n="37"/>quia non propterea filius per se punitur, seu
+            <lb ed="#P" n="38"/>in se, sed per accidens, seu in alio. Addimus
+            <lb ed="#P" n="39"/>vero secundo, interdum ex intentione et 
+            ver<lb break="no" ed="#P" n="40"/>bis legis, poenam in his temporalibus bonis,
+            <lb ed="#P" n="41"/>vel etiam in infamia directe extendi ad filios
+            <lb ed="#P" n="42"/>propter peccatum patris, quod non est contra
+            <lb ed="#P" n="43"/>aequitatem, sed ad bonum commune 
+            necessa<lb break="no" ed="#P" n="44"/>rium, ut tradit Innocentius III, in capite 
+            Fer<lb break="no" ed="#P" n="45"/>gentis, et habetur etiam in lege Quisquis,
+            <lb ed="#P" n="46"/>8 primo, cod. ad Legem Juliam majestatis. Et
+            <lb ed="#P" n="47"/>ratio est, primo, quia filius est quaedam res
+            <lb ed="#P" n="48"/>patris, et ideo pater in filio tanquam in re
+            <lb ed="#P" n="49"/>sua puniri potest. Secundo, quia hoc modo
+            <lb ed="#P" n="50"/>multum augetur poena ipsorum parentum,
+            <lb ed="#P" n="51"/>propter amorem filiorum, et ita fit ut magis
+            <lb ed="#P" n="52"/>delinquere timeant. Tertio, quia propter 
+            atro<lb break="no" ed="#P" n="53"/>citatem delicti, et propter exemplum aliorum,
+            <lb ed="#P" n="54"/>et propter memoriam parentum, quae in filiis
+            <lb ed="#P" n="55"/>manet, ita saepe necessarium est. De qua vi-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>deri possunt quae late tradit Siman., tit. 29.
+            <lb ed="#P" n="57"/>Ad alteram vero partem, de filiis catholicis,
+            <lb ed="#P" n="58"/>olim in legibus Codicis addebatur illa 
+            limita<lb break="no" ed="#P" n="59"/>tio, quod filii catholici suis legitimis non 
+            pri<lb break="no" ed="#P" n="60"/>varentur, quae probata etiam fuit in concilio
+            <lb ed="#P" n="61"/>Toletano IV, capite 60, et habetur in capit.
+            <lb ed="#P" n="62"/>Judai, 1, quaestione 4; postea vero jure novo
+            <lb ed="#P" n="63"/>canonico, 1, quaest. 4, ablata est limitatio
+            <lb ed="#P" n="64"/>propter rationes tactas, et habetur in dicto
+            <lb ed="#P" n="65"/>c. Fergentis, de Heret., et magis in epistola
+            <lb ed="#P" n="66"/>originali Innocentii III explicatur.
+          </p>
+          <p xml:id="szthvi-b37627-d1e434">
+            <lb ed="#P" n="67"/>A. Secunda assertio. — Sot. et Navar. non
+            <lb ed="#P" n="68"/>repugnant assertioni. — Probatur ex jure. —
+            <lb ed="#P" n="69"/>Fundatur ratione. — Dico secundo hanc 
+            poe<lb break="no" ed="#P" n="70"/>nam confiscationis bonorum latam esse ipso
+            <lb ed="#P" n="71"/>jure, et ita incurri ipso facto ante omnem 
+            sen<lb break="no" ed="#P" n="72"/>tentiam, etiam criminis declaratoriam. Contra
+            <lb ed="#P" n="73"/>hanc assertionem referri solent Soto, lib. 1,
+            <lb ed="#P" n="74"/>de Justit., quaest. 6; et Navarr., capit. 23,
+            <lb ed="#P" n="75"/>num. 66, in Summa, et quidam alii, ut 
+            vi<lb break="no" ed="#P" n="76"/>dere licet in Sancio, dicto libro secundo, 
+            ca<lb break="no" ed="#P" n="77"/>pite octavo; sed oportet advertere aliud esse
+            <lb ed="#P" n="78"/>loqui de privatione bonorum, aliud de 
+            con<lb break="no" ed="#P" n="79"/>fiscatione; haec enim duo valde distincta sunt,
+            <lb ed="#P" n="80"/>ut ex declaratione vocis supra data intelligi
+            <lb ed="#P" n="81"/>potest, et sequentibus sectionibus evidentius
+            <lb ed="#P" n="82"/>fiet. Dicti ergo auctores de privatione 
+            bono<lb break="no" ed="#P" n="83"/>rum loquuntur, de qua postea dicemus, et ita
+            <lb ed="#P" n="84"/>non contradicunt assertioni positae, quae 
+            com<lb break="no" ed="#P" n="85"/>munis, et certissima est; et de illa videri 
+            pos<lb break="no" ed="#P" n="86"/>sunt Vasq. 1. 2, disputatione 170, num. 9; et
+            <lb ed="#P" n="87"/>Sancius supra, et capite 26; Siman., tit. 9,
+            <lb ed="#P" n="88"/>num. 189 et sequent. ; Anton. Gomez, 3 tom.
+            <lb ed="#P" n="89"/>Opusc., in ult.; et Bursatus, cons. 292, in
+            <lb ed="#P" n="90"/>tertio volumine, ubi, num. 10, ait sententiam
+            <lb ed="#P" n="91"/>judicis non facere confiscationem, sed 
+            decla<lb break="no" ed="#P" n="92"/>rare ac denuntiare jam factam; et quamvis
+            <lb ed="#P" n="93"/>in jure civili antiquo haec assertio non esset in
+            <lb ed="#P" n="94"/>hoc peccato expresse declarata, sufficere 
+            pote<lb break="no" ed="#P" n="95"/>rat, quod in crimine laesaee majestatis humanae
+            <lb ed="#P" n="96"/>ita esset imposita; nam postea facta est in
+            <lb ed="#P" n="97"/>hoc aequiparatio in peccato haeresis. 
+            Verum<lb break="no" ed="#P" n="98"/>tamen etiam in illo ita declaratur haec poena
+            <lb ed="#P" n="99"/>in dicta Authent. Gazaros, cod. de Haeret., et
+            <lb ed="#P" n="100"/>in dicto cap. Cum secundum leges, additur
+            <lb ed="#P" n="101"/>particula ipso jure, et declaratur, quod ante
+            <lb ed="#P" n="102"/>sententiam non fiat executio, in quo aperte
+            <lb ed="#P" n="103"/>supponitur ante sententiam fieri 
+            confiscatio<lb break="no" ed="#P" n="104"/>nem, et ita in quadam lege Hispaniae, lib. 8
+            <lb ed="#P" n="105"/>Novae recompilationis, titulo 21, l. 1, expresse
+            <lb ed="#P" n="106"/>additur particula : Ante sententiam 
+            declara<lb break="no" ed="#P" n="107"/>toriam. Ratio vero in gravitate criminis 
+            fun<lb break="no" ed="#P" n="108"/>datur.
+          </p>
+          <p xml:id="szthvi-b37627-d1e528">
+            <lb ed="#P" n="109"/>5. Confirmatur. — Praeterea declaratur et
+            <lb ed="#P" n="110"/>confirmatur assertio ex duobus effectibus,
+            <pb ed="#P" n="558"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>quos haec lex poenalis habet ante sententiam
+            <lb ed="#P" n="2"/>circa haereticum, quos facere non posset, nisi
+            <lb ed="#P" n="3"/>ipso facto illius bona essent confiscata. Primus
+            <lb ed="#P" n="4"/>effectus est, quia a die commissi criminis 
+            ma<lb break="no" ed="#P" n="5"/>nent bona haeretici ita obligata fisco, ut 
+            om<lb break="no" ed="#P" n="6"/>nes alienationes ab illo die factae in 
+            prasjudi<lb break="no" ed="#P" n="7"/>cium fisci, postea per sententiam rescindantur,
+            <lb ed="#P" n="8"/>quod fieri non posset, nisi fiscus ab illo die
+            <lb ed="#P" n="9"/>aliquod jus in talia bona acquisivisset. De hoc
+            <lb ed="#P" n="10"/>autem effectu concors est sententia omnium
+            <lb ed="#P" n="11"/>scribentium in hac materia, et super dictum
+            <lb ed="#P" n="12"/>cap. Cum secundum leges. Nam, licet in illo
+            <lb ed="#P" n="13"/>textu iste effectus non declaretur expresse,
+            <lb ed="#P" n="14"/>tamen fit aequiparatio hujus confiscationis
+            <lb ed="#P" n="15"/>cum illa, quae fit propter crimen laesae 
+            majes<lb break="no" ed="#P" n="16"/>tatis humanae, in qua hic effectus expresse
+            <lb ed="#P" n="17"/>declaratur in lege ult., c. ad legem Juliam
+            <lb ed="#P" n="18"/>majestatis. Et de hoc effectu plura videri 
+            pos<lb break="no" ed="#P" n="19"/>sunt in Siman., tit. 9, num 21; Sancio, dicto
+            <lb ed="#P" n="20"/>1. 2, c. 14, et in aliis quos ipsi allegant.
+          </p>
+          <p xml:id="szthvi-b37627-d1e583">
+            <lb ed="#P" n="21"/>6. Progreditur confirmatio. — Secundus
+            <lb ed="#P" n="22"/>effectus est, quia, secundum communem 
+            re<lb break="no" ed="#P" n="23"/>gulam juris, haeres defuncti non potest 
+            pro<lb break="no" ed="#P" n="24"/>pter delictum defuncti conveniri, neque in
+            <lb ed="#P" n="25"/>judicium vocari propter bona defuncti, 
+            ni<lb break="no" ed="#P" n="26"/>si illo vivente inchoata fuisset lis et 
+            contes<lb break="no" ed="#P" n="27"/>tata, ut habetur in leg. Ea judiciorum, tt. de
+            <lb ed="#P" n="28"/>Accusatione, et sumitur ex leg. 1, cod. Ex 
+            de<lb break="no" ed="#P" n="29"/>lictis defunctorum. At vero in deiicto haeresis,
+            <lb ed="#P" n="30"/>quamvis haereticus in vita sua non fuerit 
+            de<lb break="no" ed="#P" n="31"/>nuntiatus, nec mota fuerit contra eum lis,
+            <lb ed="#P" n="32"/>nihilominus, si post mortem denuntietur, ut
+            <lb ed="#P" n="33"/>fieri potest et debet, et per sententiam 
+            decla<lb break="no" ed="#P" n="34"/>retur, consequenter etiam conveniuntur 
+            hae<lb break="no" ed="#P" n="35"/>redes, et bonis etiam jam possessis privantur,
+            <lb ed="#P" n="36"/>ut habetur in capite Accusatus, paragr. In eo,
+            <lb ed="#P" n="37"/>de Haeret., in sexto, et sumitur ex capite A
+            <lb ed="#P" n="38"/>nobDis, secundo, in ultimis verbis de Sent.
+            <lb ed="#P" n="39"/>excomm. ; ergo signum est illa bona haeretici
+            <lb ed="#P" n="40"/>non transivisse ad haeredes, nisi cum onere, et
+            <lb ed="#P" n="41"/>reali obligatione quam ad fiscum habuerunt a
+            <lb ed="#P" n="42"/>die criminis; nam propter debitum reale 
+            con<lb break="no" ed="#P" n="43"/>veniri possunt haeredes loco defuncti. Et ita in
+            <lb ed="#P" n="44"/>dicta leg. E judiciorum excipitur ab illa 
+            re<lb break="no" ed="#P" n="45"/>gula crimen laesae majestatis humanae propter
+            <lb ed="#P" n="46"/>confiscationem bonorum, quae ratione illius
+            <lb ed="#P" n="47"/>fit ipso facto, in quo aequiparatur illi crimen
+            <lb ed="#P" n="48"/>haeresis, ut saepe dictum est. Et de hoc effectu
+            <lb ed="#P" n="49"/>videri possunt Ant. Gomez, in dicto tom. 3
+            <lb ed="#P" n="50"/>Variar., cap. ultim.; et Siman., tit. 9, num.
+            <lb ed="#P" n="51"/>189; et Vasq. 1. 2, disput. 170, num. 9.
+          </p>
+          <p xml:id="szthvi-b37627-d1e653">
+            <lb ed="#P" n="52"/>7. Primum corollarium ea dictis. — Atque
+            <lb ed="#P" n="53"/>ex his sequitur primo, hanc poenam 
+            confisca<lb break="no" ed="#P" n="54"/>tionis bonorum incurri statim per haeresim
+            <lb ed="#P" n="55"/>occultam, quod aliqui extendunt etiam ad
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>mentalem, seu per se occultam; sed est 
+            im<lb break="no" ed="#P" n="57"/>probabilis sententia, sufficienterque 
+            impro<lb break="no" ed="#P" n="58"/>bata ex dictis disputatione praecedenti; quia
+            <lb ed="#P" n="59"/>multo minus potest aliquis puniri poenis 
+            ex<lb break="no" ed="#P" n="60"/>ternis et temporalibus propter mentale 
+            de<lb break="no" ed="#P" n="61"/>lictum, quam spiritualibus poenis. Intelligitur
+            <lb ed="#P" n="62"/>ergo illatio de haeresi per accidens occulta, et
+            <lb ed="#P" n="63"/>ita est communis sententia, quam tradunt in
+            <lb ed="#P" n="64"/>capite ultimo de Haeret., Panormitan., n. 1;
+            <lb ed="#P" n="65"/>et Felin., numero 6; Navarr., in Summa,
+            <lb ed="#P" n="66"/>capite 27, numero 56; Corduba, in 
+            Quaes<lb break="no" ed="#P" n="67"/>tionar., libro primo, quaestione 36; Sancius,
+            <lb ed="#P" n="68"/>referens plures alios, dicto libro 2, capite 8,
+            <lb ed="#P" n="69"/>in principio. Et probatur clare ex capite 2,
+            <lb ed="#P" n="70"/>8 Si post mortem, de Praescriptione, in sexto.
+            <lb ed="#P" n="71"/>Et ratio est manifesta ex dictis, quia haec
+            <lb ed="#P" n="72"/>poena non fit per sententiam hominis, neque
+            <lb ed="#P" n="73"/>illam expectat, sed fit immediate per ipsam
+            <lb ed="#P" n="74"/>legem, quae semper loquitur, et operari potest;
+            <lb ed="#P" n="75"/>ergo, eo ipso quod fit delictum, lex efficit
+            <lb ed="#P" n="76"/>poenam. Et praeterea ex dicüs effectibus id
+            <lb ed="#P" n="77"/>evidenter convincitur. Unde improbabilis est
+            <lb ed="#P" n="78"/>sententia, quam Sanc. supra, num. 6, refert
+            <lb ed="#P" n="79"/>ex Cantera, in Quaestionibus crimin., tit. de
+            <lb ed="#P" n="80"/>Quaestionibus tangentibus punitionem, c. 1,
+            <lb ed="#P" n="81"/>num. 18; et Farin., de Haeresi, quaest. 190,
+            <lb ed="#P" n="82"/>numero 23, limit. 2, qui dixit, quando 
+            hae<lb break="no" ed="#P" n="83"/>resis externa est ita occulta ut probari non
+            <lb ed="#P" n="84"/>possit, non manere bona confiscata. Hoc enim
+            <lb ed="#P" n="85"/>nullo fundamento dici potuit, quia nec jure
+            <lb ed="#P" n="86"/>fulcitur, nec ratione; imo, supposito jure a
+            <lb ed="#P" n="87"/>nobis explicato, est omnino contra rationem,
+            <lb ed="#P" n="88"/>quia ut haec poena incurratur, non est necesse
+            <lb ed="#P" n="89"/>ut delictum probetur, quia non est 
+            necessa<lb break="no" ed="#P" n="90"/>rium judicium, neque eflicacia legis pendet ex
+            <lb ed="#P" n="91"/>probatione; ergo neque necessarium est ut
+            <lb ed="#P" n="92"/>delictum factum sit coram testibus, per quos
+            <lb ed="#P" n="93"/>probari possit ; quia, ut supra diximus, 
+            quan<lb break="no" ed="#P" n="94"/>do haec impotentia est tantum per accidens,
+            <lb ed="#P" n="95"/>non impedit efficaciam legis.
+          </p>
+          <p xml:id="szthvi-b37627-d1e753">
+            <lb ed="#P" n="96"/>8. Secundum corollarium bipartitum. —
+            <lb ed="#P" n="97"/>De priori parte. — Secundo, infertur ex 
+            dic<lb break="no" ed="#P" n="98"/>tis hanc confiscationem fieri in illo puneto,
+            <lb ed="#P" n="99"/>seu momento, in quo externa manifestatio
+            <lb ed="#P" n="100"/>interna haeresis consummatur; quia neque
+            <lb ed="#P" n="101"/>antea fieri potest, cum nondum sit delictum
+            <lb ed="#P" n="102"/>sufficienter commissum, neque est cur 
+            diffe<lb break="no" ed="#P" n="103"/>ratur, ut jam probatum est. Circa priorem
+            <lb ed="#P" n="104"/>vero partem, addunt aliqui juristae quamdam
+            <lb ed="#P" n="105"/>limitationem; dicunt enim aliquando rescindi
+            <lb ed="#P" n="106"/>alienationes bonorum factas ante delictum
+            <lb ed="#P" n="107"/>commissum, quando per fraudem factae 
+            prae<lb break="no" ed="#P" n="108"/>sumuntur; ex quo aperte sequitur etiam 
+            con<lb break="no" ed="#P" n="109"/>fiscationem esse factam ante commissum 
+            de<lb break="no" ed="#P" n="110"/>lietum, quia non potest rescindi alienatio,
+            <pb ed="#P" n="559"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>nisi propter confiscationem. Verumtamen licet
+            <lb ed="#P" n="2"/>in aliis delictis externis, ut in crimine laesae
+            <lb ed="#P" n="3"/>majestatis humanae, hoc fortasse locum 
+            ha<lb break="no" ed="#P" n="4"/>beat, in haeresi nullo modo potest locum 
+            ha<lb break="no" ed="#P" n="5"/>bere, quia nunquam poena haec incurritur,
+            <lb ed="#P" n="6"/>donec delictum sit exterius, vel 
+            consumma<lb break="no" ed="#P" n="7"/>tum, vel ita attentatum, ut mens et 
+            delibera<lb break="no" ed="#P" n="8"/>tio delinquentis sufficienter manifestata sit.
+            <lb ed="#P" n="9"/>Ut, verbi gratia, in crimine laesae majestatis
+            <lb ed="#P" n="10"/>humanae, ad incurrendam hanc poenam, 
+            ne<lb break="no" ed="#P" n="11"/>cessarium erit ut aliquis saltem 
+            manifesta<lb break="no" ed="#P" n="12"/>verit voluntatem et deliberationem occidendi
+            <lb ed="#P" n="13"/>principem, quamvis nondum illam executioni
+            <lb ed="#P" n="14"/>mandaverit, in qua delictum illud 
+            consumma<lb break="no" ed="#P" n="15"/>tur. At vero peccatum haeresis per solam
+            <lb ed="#P" n="16"/>mentis manifestationem suflicienter 
+            consum<lb break="no" ed="#P" n="17"/>matur, et ante consummationem talis delicti
+            <lb ed="#P" n="18"/>confiscatio locum non habet.
+          </p>
+          <p xml:id="szthvi-b37627-d1e832">
+            <lb ed="#P" n="19"/>9. De posteriori, dubium est an confiscatio
+            <lb ed="#P" n="20"/>extendatur etiam ad Lona acquisita post 
+            com<lb break="no" ed="#P" n="21"/>missam haresim.—Prima opinio in hoc dubio.
+            <lb ed="#P" n="22"/>— Hjus fundamentum.— Confirmatur.— Circa
+            <lb ed="#P" n="23"/>alteram vero partem, grave dubium cccurrit,
+            <lb ed="#P" n="24"/>videlicet, an confiscatio facta pro eo momento
+            <lb ed="#P" n="25"/>in quo delictum committitur, in eodem 
+            finia<lb break="no" ed="#P" n="26"/>tur, vel continuetur, seu pro aliquo tempore
+            <lb ed="#P" n="27"/>duret ; quod est quaerere an confiscentur 
+            tan<lb break="no" ed="#P" n="28"/>tum ea bona quae tunc habet qui delinquit,
+            <lb ed="#P" n="29"/>vel etiam quae postea acquirit, quod alias 
+            in<lb break="no" ed="#P" n="30"/>terrogari solet, an confiscentur etiam bona
+            <lb ed="#P" n="31"/>futura ; quod intelligi potest vel de tempore
+            <lb ed="#P" n="32"/>usque ad sententiam datam, vel etiam post
+            <lb ed="#P" n="33"/>sententiam. In quo quatuor invenio opiniones.
+            <lb ed="#P" n="34"/>Prima est, confiscationem solum fieri eo 
+            tem<lb break="no" ed="#P" n="35"/>pore quo commissum est delictum, et statim
+            <lb ed="#P" n="36"/>cessare , et consequenter omnia bona postea
+            <lb ed="#P" n="37"/>acquisita non confiscari. Ita videtur sentire
+            <lb ed="#P" n="38"/>Matenco, in lib. 5 Recompilat., tit. 4, lib. 3,
+            <lb ed="#P" n="39"/>num. 6, referens alios. Fundamentum est,
+            <lb ed="#P" n="40"/>quia delinquens ita punitur postea per 
+            senten<lb break="no" ed="#P" n="41"/>tiam, sicut puniretur si sententia esset lata eo
+            <lb ed="#P" n="42"/>tempore quo deliquit, ut dicitur in l. 4, ff. de
+            <lb ed="#P" n="43"/>Poenis ; sed si haereticus puniretur in eodem
+            <lb ed="#P" n="44"/>tempore in quo deliquit, solum privaretur
+            <lb ed="#P" n="45"/>iliis bonis quae tunc haberet : ergo illa 
+            tan<lb break="no" ed="#P" n="46"/>tum confiscantur, et statim finitur confiscatio,
+            <lb ed="#P" n="47"/>neque ad alia bona extenditur , quae postea
+            <lb ed="#P" n="48"/>acquiruntur. Et confirmatur, quia poenae 
+            res<lb break="no" ed="#P" n="49"/>tringendae sunt, et non extendendae ; nullum
+            <lb ed="#P" n="50"/>autem est jus quod declaret extendi 
+            confisca<lb break="no" ed="#P" n="51"/>tionem ad bona postea acquirenda, vel quod
+            <lb ed="#P" n="52"/>reddat haereticum inhabilem ad acquirendum
+            <lb ed="#P" n="53"/>plene et perfecte alia bona ; ergo confiscatio
+            <lb ed="#P" n="54"/>tantum illo tempore fit.
+          </p>
+          <p xml:id="szthvi-b37627-d1e913">
+            <lb ed="#P" n="55"/>10. Secunda opinio extrema contraria, Li-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>membris. — Secunda sententia extreme 
+            con<lb break="no" ed="#P" n="57"/>traria est, durare confiscationem non solum
+            <lb ed="#P" n="58"/>usque ad sententiam, sed post illam. De priori
+            <lb ed="#P" n="59"/>parte statim dicam; posteriorem autem 
+            tra<lb break="no" ed="#P" n="60"/>dit Emmanuel Suarez, in Scholio ad 
+            Anto<lb break="no" ed="#P" n="61"/>nium Gomez, lib. 3 Variar., cap. ult., ubi
+            <lb ed="#P" n="62"/>alios juristas refert; declarat autem circa
+            <lb ed="#P" n="63"/>bona acquisita post sententiam, acquirere 
+            hae<lb break="no" ed="#P" n="64"/>reticum emendatum et absolutum, 
+            proprieta<lb break="no" ed="#P" n="65"/>tem et usum suorum bonorum, manere tamen
+            <lb ed="#P" n="66"/>confiscata quoad hoc ut non possi: de illis 
+            te<lb break="no" ed="#P" n="67"/>stari, sed in eis fiscum succedat; et fundatur
+            <lb ed="#P" n="68"/>in aliquibus legibus disponentibus, ut qui
+            <lb ed="#P" n="69"/>propter delictum omnibus bonis privatur, 
+            te<lb break="no" ed="#P" n="70"/>stari non possit, l. secunda, cod. de Bonis
+            <lb ed="#P" n="71"/>proscriptorum, cum similibus; sed haereticus
+            <lb ed="#P" n="72"/>privatur omnibus bonis propter haeresim ; 
+            er<lb break="no" ed="#P" n="73"/>go, licet tempore mortis habeat aliqua bona,
+            <lb ed="#P" n="74"/>non poterit de illis testari; ergo in illis fiscus
+            <lb ed="#P" n="75"/>succedet ; ergo saltem quoad effectum durat
+            <lb ed="#P" n="76"/>seu extenditur confiscatio.
+          </p>
+          <p xml:id="szthvi-b37627-d1e965">
+            <lb ed="#P" n="77"/>11. Tertia opinio communior, et bipartita.
+            <lb ed="#P" n="78"/>— Tertia sententia est durare confiscationem
+            <lb ed="#P" n="79"/>usque ad sententiam, et consequenter bona
+            <lb ed="#P" n="80"/>acquisita toto illo tempore manere 
+            confisca<lb break="no" ed="#P" n="81"/>ta; secus vero esse de bonis post sententiam
+            <lb ed="#P" n="82"/>acquisitis. Haec est communior sententia,
+            <lb ed="#P" n="83"/>quam tenet Julius Clar., libro quinto, 8 
+            Ze<lb break="no" ed="#P" n="84"/>resis, num. 19, et S ultim., quaest. 78, num.
+            <lb ed="#P" n="85"/>212; et Siman., tit. 9, num. 61; Azor, tomo
+            <lb ed="#P" n="86"/>1, lib. 5, capite 7, quaest. 8; Vasquez, 1. 2,
+            <lb ed="#P" n="87"/>disp. 169, num. 8; Farin., de Haeresi, quaest.
+            <lb ed="#P" n="88"/>190, num. 25. Fundamentum prioris partis
+            <lb ed="#P" n="89"/>est, quia leges statuunt ut ille, cujus bona
+            <lb ed="#P" n="90"/>confiscantur, privetur omnibus bonis quae 
+            ha<lb break="no" ed="#P" n="91"/>bet, quando damnatur, 1. Ejus qui, S 1, ff. de
+            <lb ed="#P" n="92"/>Testam.; dicitur autem quis damnari, 
+            quan<lb break="no" ed="#P" n="93"/>do contra illum sententia profertur; nam haec
+            <lb ed="#P" n="94"/>condemnatio proponitur ut distincta a 
+            con<lb break="no" ed="#P" n="95"/>fiscatione, et ita textus ille sine dubio 
+            loqui<lb break="no" ed="#P" n="96"/>tur de damnatione, quae fit per hominem, non
+            <lb ed="#P" n="97"/>per legem ; ergo confiscatio extenditur ad 
+            om<lb break="no" ed="#P" n="98"/>nia bona usque ad sententiam. Et ita etiam
+            <lb ed="#P" n="99"/>colligitur ex quadam lege Hispaniae, libro 5
+            <lb ed="#P" n="100"/>Recompilat., tit. 9, l. 10, et statim haec pars
+            <lb ed="#P" n="101"/>amplius confirmabitur simul cum secunda.
+          </p>
+          <p xml:id="szthvi-b37627-d1e1022">
+            <lb ed="#P" n="102"/>12. Quarta opinio. — Est vero quarta 
+            sen<lb break="no" ed="#P" n="103"/>tentia, quae hanc limitat quoad priorem 
+            prae<lb break="no" ed="#P" n="104"/>dictam partem, adhibita distinctione ; nam si
+            <lb ed="#P" n="105"/>haereticus in haeresi permanet usque ad 
+            sen<lb break="no" ed="#P" n="106"/>tentiam, tunc procedet dicta opinio; si vero
+            <lb ed="#P" n="107"/>aliquo tempore ante sententiam resipiscat, et
+            <lb ed="#P" n="108"/>ex animo ad fidem catholicam redeat, ait haec
+            <lb ed="#P" n="109"/>opinio confiscationem durare usque ad 
+            tem<lb break="no" ed="#P" n="110"/>pus conversionis, quia toto illo tempore est
+            <pb ed="#P" n="560"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>haereticus, et ideo continue confiscantur bona
+            <lb ed="#P" n="2"/>quae in illo tempore acquirit. Postquam vero
+            <lb ed="#P" n="3"/>tactus est Catholicus, cessat, inquiunt, 
+            confis<lb break="no" ed="#P" n="4"/>catio, et plene ac libere possidet bona quae
+            <lb ed="#P" n="5"/>tunc acquirit, quia jam non delinquit, et quia
+            <lb ed="#P" n="6"/>pro eo tempore maxime procedit 
+            fundamen<lb break="no" ed="#P" n="7"/>tum primae sententiae, quia Jam est sententia
+            <lb ed="#P" n="8"/>lata per legem ipsam, et ideo solum fertur
+            <lb ed="#P" n="9"/>juxta conditionem delinquentis, eo tempore
+            <lb ed="#P" n="10"/>quo delinquit. Et hanc opinionem tenet
+            <lb ed="#P" n="11"/>Sanch., libro 2, cap. 14, num. 10, qui ahos
+            <lb ed="#P" n="12"/>plures refert, et praesertim videtur idem 
+            sen<lb break="no" ed="#P" n="13"/>tire Tello Fernandez, in leges Tauri, 1. 4,
+            <lb ed="#P" n="14"/>n. 48; et Guttier., l. 2 Practicar. quaest., q.
+            <lb ed="#P" n="15"/>39, num. 6; et Salcedo, ad Practicam 
+            Ber<lb break="no" ed="#P" n="16"/>nard. Lucensis, c. 86.
+          </p>
+          <p xml:id="szthvi-b37627-d1e1083">
+            <lb ed="#P" n="17"/>13. Primum pronuntiatum circa hoc dubium
+            <lb ed="#P" n="18"/>probatur em jure. — In hac re, incipiendo ab
+            <lb ed="#P" n="19"/>his quae certiora sunt, dico primo: postquam
+            <lb ed="#P" n="20"/>lata est sententia, et haereticus est emendatus,
+            <lb ed="#P" n="21"/>et absolutus ab Ecclesia, nulla est confiscatio
+            <lb ed="#P" n="22"/>bonorum quae postea acquirit, sed tunc saltem
+            <lb ed="#P" n="23"/>omnino finitur. Haec est communissima 
+            sen<lb break="no" ed="#P" n="24"/>tentia, quae vix potest in dubium trahi; quia
+            <lb ed="#P" n="25"/>de contiscatione in genere est expressa in jure,
+            <lb ed="#P" n="26"/>l. Si mandavero, S Is cui, ff. Mandati, ubi 
+            di<lb break="no" ed="#P" n="27"/>citur, publicatis bonis, quicquid postea 
+            acqui<lb break="no" ed="#P" n="28"/>ritur, non sequitur fiscum; et idem sequitur
+            <lb ed="#P" n="29"/>ex cap. Felicis, vers. Verum cum talis, de
+            <lb ed="#P" n="30"/>Poenis, in sexto, ibi : De post modum acquisitis
+            <lb ed="#P" n="31"/>repctitio non negetur ; ergo idem dicendum
+            <lb ed="#P" n="32"/>est in peccato haeresis. Probatur consequentia;
+            <lb ed="#P" n="33"/>tum quia nihil speciale disponunt jura de
+            <lb ed="#P" n="34"/>confiscatione haeretici quoad hanc partem;
+            <lb ed="#P" n="35"/>tum etiam quia nullum est jus quod imponat
+            <lb ed="#P" n="36"/>hanc poenam haeretico, ut testari non possit,
+            <lb ed="#P" n="37"/>etiamsi jam punitus fuerit per Ecclesiam, et
+            <lb ed="#P" n="38"/>absolutus, saltem quoad ea bona quae post
+            <lb ed="#P" n="39"/>sententiam acquisita fuerunt ; non sunt autem
+            <lb ed="#P" n="40"/>multiplicandae poena sine expresso jure;
+            <lb ed="#P" n="41"/>ergo sicut illa bona acquisita post sententiam
+            <lb ed="#P" n="42"/>libere possidentur quoad alios usus vel 
+            aliena<lb break="no" ed="#P" n="43"/>tiones, ita etiam quoad disponendum de illis
+            <lb ed="#P" n="44"/>per testamentum ; ergo nullam confiscationem
+            <lb ed="#P" n="45"/>incurrunt. Et ita docuit expresse Anton. 
+            Go<lb break="no" ed="#P" n="46"/>mez, in dicto cap. ult., allegando alios, et id
+            <lb ed="#P" n="47"/>pro constanti ponit Sancius supra, referens
+            <lb ed="#P" n="48"/>plures.
+          </p>
+          <p xml:id="szthvi-b37627-d1e1155">
+            <lb ed="#P" n="49"/>14. Secundum pronuntiatum. — Triplex
+            <lb ed="#P" n="50"/>corollariun es uunc dictis. — Dico secundo:
+            <lb ed="#P" n="51"/>confiscatio bonorum non finitur statim ac
+            <lb ed="#P" n="52"/>homo cessat ab actuali peccato haeresis, 
+            pro<lb break="no" ed="#P" n="53"/>pter quod bona confiscantur; sed al minimum
+            <lb ed="#P" n="54"/>durat quandiu bhaeresis, saltem animo, non
+            <lb ed="#P" n="55"/>retractatur. Probatur, quia qui semel incidit
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>in haeresim, quandiu in illa permanet, 
+            virtua<lb break="no" ed="#P" n="57"/>liter credit eumdem errorem, et vult extra
+            <lb ed="#P" n="58"/>Ecclesiam perseverare ; ergo semper est quasi
+            <lb ed="#P" n="59"/>in eodem peccato; ergo semper etiam 
+            subje<lb break="no" ed="#P" n="60"/>ctus est eidem confiscationi. Dices, quamvis
+            <lb ed="#P" n="61"/>permaneat in habituali peccato, fieri tamen
+            <lb ed="#P" n="62"/>posse ut iterum non committat actuale 
+            pecca<lb break="no" ed="#P" n="63"/>tum haeresis. Respondeo imprimis de se sé
+            m<lb break="no" ed="#P" n="64"/>ner perseverare in statu actualis peccati, quia
+            <lb ed="#P" n="65"/>semper et continue tenetur statim ad 
+            Eccle<lb break="no" ed="#P" n="66"/>siam redire ; et ideo accidentarium esse, quod
+            <lb ed="#P" n="67"/>propter inadvertentiam a novo peccato actuali
+            <lb ed="#P" n="68"/>excusetur. Deinde lex absolute confiscat bona
+            <lb ed="#P" n="69"/>haeretici; ille autem haereticus est, etiam
+            <lb ed="#P" n="70"/>quando actualiter de haeresi non cogitat. Ac
+            <lb ed="#P" n="71"/>denique probabile est ita confiscari bona 
+            hae<lb break="no" ed="#P" n="72"/>retici, ut ipsa persona, quandiu in haeresi
+            <lb ed="#P" n="73"/>manet, sit incapax ad acquirendum bona,
+            <lb ed="#P" n="74"/>quae non sint, eo ipso, fisco obligata. Unde a
+            <lb ed="#P" n="75"/>fortiori infertur, improbabile esse, quod 
+            qui<lb break="no" ed="#P" n="76"/>dam dixerunt, per poenitentiam de haeresi
+            <lb ed="#P" n="77"/>auferri confiscationem etiam de bonis ante
+            <lb ed="#P" n="78"/>haeresim acquisitis ; quia poenitentia apud
+            <lb ed="#P" n="79"/>Deum non liberat hominem a poenis Eeclesiae,
+            <lb ed="#P" n="80"/>ut supra dictum est, et notat Sancius supra,
+            <lb ed="#P" n="81"/>numero 13. Unde sequitur secundo, si quis
+            <lb ed="#P" n="82"/>post primum lapsum in haeresim, coram Deo
+            <lb ed="#P" n="83"/>resipiscat, et iterum redeat ad haeresim, eo
+            <lb ed="#P" n="84"/>ipso confiscari denuo bona, etiam post 
+            prio<lb break="no" ed="#P" n="85"/>rem resipiscentiam acquisita. Ac tandem 
+            se<lb break="no" ed="#P" n="86"/>quitur eum, qui in statu haeresis reperitur, eo
+            <lb ed="#P" n="87"/>tempore quo ad judicium Ecclesiae trahitur,
+            <lb ed="#P" n="88"/>habere omnia bona confiscata quae tunc 
+            possi<lb break="no" ed="#P" n="89"/>det, etiamsi saepius antea poenitentiam 
+            egis<lb break="no" ed="#P" n="90"/>set, quia per ultimum actum haeresis omnia
+            <lb ed="#P" n="91"/>praecedentia sunt revocata, etiamsi daremus,
+            <lb ed="#P" n="92"/>bona acquisita eo tempore, quo in statu
+            <lb ed="#P" n="93"/>poenitentiae perseverabat, non fuisse statim
+            <lb ed="#P" n="94"/>confiscata.
+          </p>
+          <p xml:id="szthvi-b37627-d1e1260">
+            <lb ed="#P" n="95"/>15. Tertium pronuntiatum. — Dico tamen
+            <lb ed="#P" n="96"/>tertio probabilius esse confiscationem durare
+            <lb ed="#P" n="97"/>usque ad tempus latae sententiae, et omnia
+            <lb ed="#P" n="98"/>bona usque ad illud acquisita esse publicanda,
+            <lb ed="#P" n="99"/>saltem in foro Ecclesiee. Probatur primo, quia
+            <lb ed="#P" n="100"/>haec est communior sententia, et favorabilior
+            <lb ed="#P" n="101"/>fidei. Secundo, quia dictum caput Cum 
+            secun<lb break="no" ed="#P" n="102"/>dwumn leges, absolute et indistincte confiscat
+            <lb ed="#P" n="103"/>bona haeretici, et dat facultatem fisco 
+            occu<lb break="no" ed="#P" n="104"/>pandi omnia illa post sententiam ; ergo ita
+            <lb ed="#P" n="105"/>fieri potest, et (ut existimo) consuetudo ita
+            <lb ed="#P" n="106"/>interpretatur legem. Tertio, est optima ratio,
+            <lb ed="#P" n="107"/>quia, quandiu haereticus non redit ad 
+            Eccle<lb break="no" ed="#P" n="108"/>siam in foro ejus, ita ut ab illa absolvatur
+            <lb ed="#P" n="109"/>eique reconcilietur, semper praesumitur, et 
+            ju<lb break="no" ed="#P" n="110"/>dicatur ut haereticus, juxta regulam juris, quod
+            <pb ed="#P" n="561"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>semel malus, semper praesumitur malus, quod
+            <lb ed="#P" n="2"/>specialiter de haeretico dixit Felin., in capit.
+            <lb ed="#P" n="3"/>S cribam, de Praesumptione, numero tertio, in
+            <lb ed="#P" n="4"/>fine, nisi contrarium, inquit, probetur. Quod
+            <lb ed="#P" n="5"/>certe de haeretico apud Ecclesiam probari non
+            <lb ed="#P" n="6"/>potest, quia, licet aliquis actus exterioris
+            <lb ed="#P" n="7"/>conversionis probari possit, non tamen quod
+            <lb ed="#P" n="8"/>ex corde fuerit factus; imo potest praesumi
+            <lb ed="#P" n="9"/>quod fiat ad vitandam poenam confiscationis.
+            <lb ed="#P" n="10"/>Et ideo oportet, ut talis conversio fiat in fvro
+            <lb ed="#P" n="11"/>ecclesie, et modo per illam praescripto. Dico
+            <lb ed="#P" n="12"/>autem in foro Ecclesie ; quia in foro 
+            conscien<lb break="no" ed="#P" n="13"/>tiae posset fortasse, qui ex corde convertitur,
+            <lb ed="#P" n="14"/>conformari quartae opinioni, quae probabilis
+            <lb ed="#P" n="15"/>est. Et per haec satisfactum est fundamentis
+            <lb ed="#P" n="16"/>aliarum opinionum. Solum circa illa jura, quae
+            <lb ed="#P" n="17"/>secunda opinio afferebat, quod huereticus testari
+            <lb ed="#P" n="18"/>non potest, advertendum est intelligenda esse
+            <lb ed="#P" n="19"/>vel de bonis confiscatis, ut supra dicit Guttier.,
+            <lb ed="#P" n="20"/>l. Is cui, ft. de Testam., vel certe intelligenda
+            <lb ed="#P" n="21"/>esse de haeretico Ecclesiae non reconciliato,
+            <lb ed="#P" n="22"/>nam reconciliatus jam nullo modo haereticus
+            <lb ed="#P" n="23"/>est. nd
+          </p>
+          <p xml:id="szthvi-b37627-d1e1351">
+            <lb ed="#P" n="24"/>16. Heretici bona cui fisco cedant, 
+            Ecclesice<lb break="no" ed="#P" n="25"/>ne, an regis ? — Ultimo interrogari potest
+            <lb ed="#P" n="26"/>cui fisco applicanda sint illa bona; nam cap.
+            <lb ed="#P" n="27"/>Cum secundum leges indistincte loquitur, et
+            <lb ed="#P" n="28"/>potius significat fisco saeculari applicanda, ut
+            <lb ed="#P" n="29"/>notat Glossa, in Clement. 2, de Haeret., verb.
+            <lb ed="#P" n="30"/>Hcclesie. At in capit. Excommunicanus, 
+            pri<lb break="no" ed="#P" n="31"/>mo, paragr. Damnati, et capit. Vergentis, de
+            <lb ed="#P" n="32"/>Haeret., bona clericorum applicantur 
+            Eccle<lb break="no" ed="#P" n="33"/>sie, laicorum autem fisco regio. Tamen 
+            pos<lb break="no" ed="#P" n="34"/>tea aliae distributiones per varias Bullas 
+            pon<lb break="no" ed="#P" n="35"/>tificias factae sunt, et in diversis provinciis
+            <lb ed="#P" n="36"/>variae sunt consuetudines, quae licite servari
+            <lb ed="#P" n="37"/>possunt , ut videri potest in Covarr., libro 2
+            <lb ed="#P" n="38"/>Variar., capite nono, numero 12 et 14; 
+            Pen<lb break="no" ed="#P" n="39"/>na, 3 part. Directorii, commentar. 15; Jul.
+            <lb ed="#P" n="40"/>Clar., libro quinto, verbo Haresis, num. 12;
+            <lb ed="#P" n="41"/>Farin., de Haeresi, quaest. 190, a num. 154,
+            <lb ed="#P" n="42"/>usque ad 192, et aliis, quos ipsi allegant.
+          </p>
+        </div>
+        <div xml:id="szthvi-b37627-Dd1e1397">
+          <head xml:id="szthvi-b37627-Hd1e1399">Sectio 2</head>
+          <head xml:id="szthvi-b37627-Hd1e1401" type="question-title">Utrum haereticus ipso facto amittat jus possidendi bona sua, ideoque ante sententiam teneatur in conscientia illa fisco tradere</head>
+          <p xml:id="szthvi-b37627-d1e1404">
+            <lb ed="#P" n="43"/>SECTIO II.
+            <lb ed="#P" n="44"/>Utrum haereticus ipso facto amittat jus 
+            pos<lb break="no" ed="#P" n="45"/>sidendi bona sua, ideoque ante sententiam
+            <lb ed="#P" n="46"/>teneatur in conscientia illa fisco tradere.
+          </p>
+          <p xml:id="szthvi-b37627-d1e1415">
+            <lb ed="#P" n="47"/>1. Prima opinio affirmans. — Primum 
+            ar<lb break="no" ed="#P" n="48"/>gumentum. — Secundum. — Tertium. — 
+            Sup<lb break="no" ed="#P" n="49"/>ponimus non posse fiscum ante sententiam
+            <lb ed="#P" n="50"/>auferre bona ab haeretico; ita enim expresse
+            <lb ed="#P" n="51"/>prohibetur in dicto capit. Cum secundwn le-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="52"/>ges ; et ideo solum tractatur quaestio, an ex
+            <lb ed="#P" n="53"/>parte delinquentis sit obligatio in conscientia
+            <lb ed="#P" n="54"/>illa bona restituendi fisco, quamvis per 
+            coac<lb break="no" ed="#P" n="55"/>tionem non possint ab illo eripi; hac enim
+            <lb ed="#P" n="56"/>duo distincta sunt, et frequenter separantur.
+            <lb ed="#P" n="57"/>Unde prima opinio affirmat teneri haereticum
+            <lb ed="#P" n="58"/>externum, quantumvis per accidens 
+            occul<lb break="no" ed="#P" n="59"/>tum, statim se abdicare bonis, et illa tradere
+            <lb ed="#P" n="60"/>fisco. Ita sensit Panormitan., in cap. primo,
+            <lb ed="#P" n="61"/>de Constitut., numer. 11, et ibi Felin., num.
+            <lb ed="#P" n="62"/>43, quos sequitur Anton. Gomez, libro 3 
+            Va<lb break="no" ed="#P" n="63"/>riar., cap. 2, num. 5, et late defendit 
+            senten<lb break="no" ed="#P" n="64"/>tiam hanc Castr., libro 2 de Leg. poenal.. cap.
+            <lb ed="#P" n="65"/>8 et 9; libro 2 de Justa haeret. punition., cap.
+            <lb ed="#P" n="66"/>6. Fundamentum primum ac praecipuum ejus
+            <lb ed="#P" n="67"/>est , quia haereticus ipso facto amittit 
+            domi<lb break="no" ed="#P" n="68"/>nium rerum suarum ; ergo amittit jus 
+            possi<lb break="no" ed="#P" n="69"/>dendi illas ; ergo tenetur statim illas tradere
+            <lb ed="#P" n="70"/>vero domino, id est, fisco, in quem illarum
+            <lb ed="#P" n="71"/>rerum dominium ex vi legis translatum est.
+            <lb ed="#P" n="72"/>Antecedens supponitur ex dicto cap. Cum 
+            se<lb break="no" ed="#P" n="73"/>cundum leges, et ex aliis legibus civilibus 
+            im<lb break="no" ed="#P" n="74"/>ponentibus poenam confiscationis ; nam illam
+            <lb ed="#P" n="75"/>explicant per ablationem dominii. Prima vero
+            <lb ed="#P" n="76"/>consequentia videtur clara, quia jus 
+            possiden<lb break="no" ed="#P" n="77"/>di ex dominio oritur, vel potius est quasi
+            <lb ed="#P" n="78"/>pars ipsius dominii. Unde facile probatur 
+            se<lb break="no" ed="#P" n="79"/>cunda consequentia, quia nemo potest 
+            alie<lb break="no" ed="#P" n="80"/>nam rem juste possidere sine domini 
+            volun<lb break="no" ed="#P" n="81"/>tate. Secundo argumentatur, quia peccatum
+            <lb ed="#P" n="82"/>haeresis dignum est hac poena, seu privatione,
+            <lb ed="#P" n="83"/>et lex potuit illam imponere dicto modo,
+            <lb ed="#P" n="84"/>quia nulla repugnantia vel injustitia in co
+            <lb ed="#P" n="85"/>involvitur ; ergo de facto ita imposuit et ita
+            <lb ed="#P" n="86"/>obligat. Probatur consequentia , quia verba
+            <lb ed="#P" n="87"/>legis ostendunt mentem ejus esse privare 
+            hae<lb break="no" ed="#P" n="88"/>reticum suis bonis, quanturm potest. Unde 
+            ar<lb break="no" ed="#P" n="89"/>gumentatur tertio, quia alias superflue 
+            adde<lb break="no" ed="#P" n="90"/>retur in lege illa particula ipso jure, seu ipso
+            <lb ed="#P" n="91"/>fucto, si expectanda esset sententia , ut reus
+            <lb ed="#P" n="92"/>sua bona tradere teneretur, quia ad hoc ipsum
+            <lb ed="#P" n="93"/>obligaretur post sententiam, etiamsi lex 
+            ver<lb break="no" ed="#P" n="94"/>ba illa non addidisset.
+          </p>
+          <p xml:id="szthvi-b37627-d1e1524">
+            <lb ed="#P" n="95"/>2. Secunda opinio affirmans de 
+            hereti<lb break="no" ed="#P" n="96"/>co noto, et negans de occulto. — Eus 
+            moti<lb break="no" ed="#P" n="97"/>vum. — Confirmatur. — Secunda opinio 
+            dis<lb break="no" ed="#P" n="98"/>tinguit inter haeresim publicam, et occultam,
+            <lb ed="#P" n="99"/>etiam per accidens, et de hac posteriori 
+            ne<lb break="no" ed="#P" n="100"/>gat teneri haereticum sic occultum bonis se
+            <lb ed="#P" n="101"/>expoliare, et fisco tradere, fortasse ex illa 
+            re<lb break="no" ed="#P" n="102"/>gula sumpta ex Chrysostomo, homil. 31 ad
+            <lb ed="#P" n="103"/>Hebr.: Non dico tibi, ut te prodas ; nam ile
+            <lb ed="#P" n="104"/>haereticus sic occultus, tradendo bona sua, se
+            <lb ed="#P" n="105"/>proderet. At vero quando delictum est notum
+            <lb ed="#P" n="106"/>et publicum, affirmat haec opinio teneri hae-
+            <pb ed="#P" n="562"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>reticum etiam ante sententiam tradere bona
+            <lb ed="#P" n="2"/>sua fisco. Ita tenuit Adrianus, quodlib. 6, art.
+            <lb ed="#P" n="3"/>1, litter. 1, et sequitur Sylvest., verb. 
+            Haere<lb break="no" ed="#P" n="4"/>sis, quaest. 8, et verb. Assassinus, quaest. 6,
+            <lb ed="#P" n="5"/>et verb. Paena, quaest. 21; et Angelus, eodem
+            <lb ed="#P" n="6"/>verbo, numero 3. Fundatur spccialiter, quia
+            <lb ed="#P" n="7"/>sententia solum requiritur ut delictum sit 
+            no<lb break="no" ed="#P" n="8"/>tum, et tollatur occasio faciendi injustitias ;
+            <lb ed="#P" n="9"/>sed haec ratio cessat quando delictum est 
+            pu<lb break="no" ed="#P" n="10"/>blicum ; ergo non est cur expectetur 
+            senten<lb break="no" ed="#P" n="11"/>tia. Et confirmatur, nam si fiscus tunc 
+            aufer<lb break="no" ed="#P" n="12"/>ret bona ab haeretico ante sententiam, licet
+            <lb ed="#P" n="13"/>fortasse excederet in modo, tamen in re non
+            <lb ed="#P" n="14"/>committeret injustitiam, nec teneretur 
+            resti<lb break="no" ed="#P" n="15"/>tuere bona haeretico; ergo signum est ipsum
+            <lb ed="#P" n="16"/>haereticum non habere jus retinendi bona illa,
+            <lb ed="#P" n="17"/>ac proinde statim ac delictum notorium est,
+            <lb ed="#P" n="18"/>teneri reddere bona fisco.
+          </p>
+          <p xml:id="szthvi-b37627-d1e1597">
+            <lb ed="#P" n="19"/>3. Tertia opinio vera, negans, et 
+            certissi<lb break="no" ed="#P" n="20"/>ma. — Tertia sententia, et vera, est, 
+            haereti<lb break="no" ed="#P" n="21"/>cum, quandiu per sententiam non est 
+            con<lb break="no" ed="#P" n="22"/>demnatus, aut declaratus haereticus, juste 
+            pos<lb break="no" ed="#P" n="23"/>sidere, et uti bonis, nec teneri in conscientia
+            <lb ed="#P" n="24"/>se illis spoliare, aut fisco tradere. Haec opinio
+            <lb ed="#P" n="25"/>communissima est et securissima, et in praxi
+            <lb ed="#P" n="26"/>servanda. Tenet Cajetan., in Summ., verb.
+            <lb ed="#P" n="27"/>Pana, et 2. 2, quaest. 26, art. 3; Victor., 
+            re<lb break="no" ed="#P" n="28"/>lect. 1 de Indis, num. 8 et sequentibus; 
+            So<lb break="no" ed="#P" n="29"/>to, l. 1 de Justit., quaest. 6, art. 6, post 
+            quar<lb break="no" ed="#P" n="30"/>tam conclusionem ; Corduba, libro 1 
+            Quaes<lb break="no" ed="#P" n="31"/>uonar., quaest. 36, opin. 4 et 3; Navar., in
+            <lb ed="#P" n="32"/>Sum., cap. 23, num. 66; Anton. Gomez, sibi
+            <lb ed="#P" n="33"/>contrarius, retractans primam sententiam in
+            <lb ed="#P" n="34"/>eodem 1. 3 Variar. , cap. ultim.; Penha, in
+            <lb ed="#P" n="35"/>Director., part. 3, commentar. 158, et late
+            <lb ed="#P" n="36"/>respondens argumentis Castri ; Siman., tit.
+            <lb ed="#P" n="37"/>9, an. 157, et plures alios referendo; Sancius,
+            <lb ed="#P" n="38"/>dicto l. 2 in Decal., c. 22, a n. 6; Farin., de
+            <lb ed="#P" n="39"/>Haeresi, q. 190, n. 23.
+          </p>
+          <p xml:id="szthvi-b37627-d1e1645">
+            <lb ed="#P" n="40"/>4. Primum fundamentum hujus sententic.
+            <lb ed="#P" n="41"/>—Duo possunt esse praecipua fundamenta 
+            hu<lb break="no" ed="#P" n="42"/>jus sententiae, quia duo sunt ad obigationem
+            <lb ed="#P" n="43"/>legis necessaria , scilicet, potestas et voluntas
+            <lb ed="#P" n="44"/>legislatoris. Prima ergo ratio sumitur ex 
+            de<lb break="no" ed="#P" n="45"/>fectu potestatis, qua Soto et multi alii 
+            utun<lb break="no" ed="#P" n="46"/>tur ; quia licet lex hnmana possit reum 
+            pu<lb break="no" ed="#P" n="47"/>uire, atque etiam per se inferre illam 
+            wvoe<lb break="no" ed="#P" n="48"/>nam, quae actionem bominis non requirit, 
+            ta<lb break="no" ed="#P" n="49"/>men quando paoena ad sui executionem 
+            pos<lb break="no" ed="#P" n="50"/>tulat actiunem hominis, non potest lex 
+            hu<lb break="no" ed="#P" n="51"/>mana obligare reum, ut illam in se 
+            exequa<lb break="no" ed="#P" n="52"/>tur; sed haec poena privationis omnium 
+            bo<lb break="no" ed="#P" n="53"/>norum non mandatur executioni sine 
+            homi<lb break="no" ed="#P" n="54"/>uis actione; ergo non potest lex obligare
+            <lb ed="#P" n="55"/>reum, ut illam in se exequatur, quia contra
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>ordinem natura est ut aliquis in seipsum
+            <lb ed="#P" n="57"/>agat, praesertim in suum nocumentum. Et
+            <lb ed="#P" n="58"/>confirmatur, quia non potest princeps plus
+            <lb ed="#P" n="59"/>ob'igare per legem, quam verbo suo; sed
+            <lb ed="#P" n="60"/>non posset princeps privatim mandare alicui,
+            <lb ed="#P" n="61"/>propter personalem cognitionem, quam de
+            <lb ed="#P" n="62"/>illius delicto habet, ut omnia bona sua ipsi
+            <lb ed="#P" n="63"/>tradat; ergo neque per legem potest id 
+            prae<lb break="no" ed="#P" n="64"/>cipere. Haec tamen ratio, in generali sumpta,
+            <lb ed="#P" n="65"/>non concludit, quia principium quod assumit
+            <lb ed="#P" n="66"/>non est universaliter verum ; aliquando enim
+            <lb ed="#P" n="67"/>potest lex humana obligare reum , ut in se
+            <lb ed="#P" n="68"/>per propriam actionem exequatur poenam, ut
+            <lb ed="#P" n="69"/>in libro 5 de Leg., a cap. 7, dictum est. 
+            Ni<lb break="no" ed="#P" n="70"/>hilominus tamen applicata ad praesentem 
+            ma<lb break="no" ed="#P" n="71"/>teriam probabilissima est; quia illud 
+            princi<lb break="no" ed="#P" n="72"/>pium saltem habet locum in poena 
+            acerbissi<lb break="no" ed="#P" n="73"/>ma, et ideo non potest obligari reus ut se
+            <lb ed="#P" n="74"/>occidat, vel mutilet, etc., quia leges humanae
+            <lb ed="#P" n="75"/>esse debent humano etiam modo possibiles,
+            <lb ed="#P" n="76"/>imo et tolerabiles: haec autem poena 
+            priva<lb break="no" ed="#P" n="77"/>tionis omnium bonorum acerbissima est, et
+            <lb ed="#P" n="78"/>ordinarie secum affert magnam jacturam,
+            <lb ed="#P" n="79"/>etiam in superioribus bonis, vel honoris, 
+            fa<lb break="no" ed="#P" n="80"/>mae, vitae, vel commoditatis corporalis ; ergo,
+            <lb ed="#P" n="81"/>moraliter loquendo, non potest lex humana
+            <lb ed="#P" n="82"/>obligare reum, ut non condemnatus hanc
+            <lb ed="#P" n="83"/>poenam in se exequatur. Et eadem ratione
+            <lb ed="#P" n="84"/>neque princeps id poterit verbo praecipere
+            <lb ed="#P" n="85"/>ante condemnationem.
+          </p>
+          <p xml:id="szthvi-b37627-d1e1749">
+            <lb ed="#P" n="86"/>5. Secundum fundamentum omnino efficaa; —
+            <lb ed="#P" n="87"/>Secunda ratio evidentius concludens est, quia
+            <lb ed="#P" n="88"/>leges humanae, per quas haec poena imposita
+            <lb ed="#P" n="89"/>est, non declarant talem legislatoris 
+            volunta<lb break="no" ed="#P" n="90"/>tem ; nam leges civiles solum imponunt 
+            con<lb break="no" ed="#P" n="91"/>fiscationem ipso facto ; de executione autem,
+            <lb ed="#P" n="92"/>seu actuali privatione bonorum, nihil 
+            loquun<lb break="no" ed="#P" n="93"/>tur ; lex autem canonica in dicto cap. Cum
+            <lb ed="#P" n="94"/>secundu leges , quoad confiscationem , non
+            <lb ed="#P" n="95"/>plus disponit quam leges civiles ; quoad 
+            exe<lb break="no" ed="#P" n="96"/>cutionem autem prohibet ne fiat ante 
+            senten<lb break="no" ed="#P" n="97"/>tiam latam ; ergo multo minus imponit 
+            ta<lb break="no" ed="#P" n="98"/>lem obligationem. Dicent ibi prohibitionem
+            <lb ed="#P" n="99"/>fieri potestatibus, seu judicibus, non tamen
+            <lb ed="#P" n="100"/>ipsi reo. Respondetur satis esse quod illi non
+            <lb ed="#P" n="101"/>praecipiatur , quia ut non oriatur obligatio,
+            <lb ed="#P" n="102"/>praesertim odiosa et poenalis, satis est quod
+            <lb ed="#P" n="103"/>non praecipiatur. Et ita partem hanc juvant
+            <lb ed="#P" n="104"/>omnia principia juris quod pene non sunt
+            <lb ed="#P" n="105"/>ampliande, neque exacerbanda, ultra propria
+            <lb ed="#P" n="106"/>et rigorosa verba legis. Denique usus, qui est
+            <lb ed="#P" n="107"/>optimus interpres legum, hanc partem satis
+            <lb ed="#P" n="108"/>confirmat.
+          </p>
+          <p xml:id="szthvi-b37627-d1e1801">
+            <lb ed="#P" n="109"/>6. Ad primum argumentum, in uum.1. —
+            <lb ed="#P" n="110"/>Ad secundum. — Ad tertium. — Ultimo con-
+            <pb ed="#P" n="563"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>firmatur haec veritas, respondendo ad 
+            funda<lb break="no" ed="#P" n="2"/>menta primae opinionis; nam poena quae non
+            <lb ed="#P" n="3"/>probatur, non est admittenda; illa autem 
+            fun<lb break="no" ed="#P" n="4"/>damenta nihil probant. Nam primum assumit,
+            <lb ed="#P" n="5"/>quod haereticus privatur dominio bonorum
+            <lb ed="#P" n="6"/>suorum ipso facto, quod non est simpliciter et
+            <lb ed="#P" n="7"/>omnimode verum, ut in sequenti sectione 
+            di<lb break="no" ed="#P" n="8"/>cam. Deinde negari potest consequentia; nam
+            <lb ed="#P" n="9"/>licet privaretur dominio, posset illi relinqui
+            <lb ed="#P" n="10"/>administratio et possessio , seu retentio cum
+            <lb ed="#P" n="11"/>usu talium bonorum, et ita sine dubio factum
+            <lb ed="#P" n="12"/>est ; ideoque, dato quod naereticus perdat 
+            do<lb break="no" ed="#P" n="13"/>minium, nihilominus non retinet bona invito
+            <lb ed="#P" n="14"/>domino, ac proinde non peccat retinendo illa.
+            <lb ed="#P" n="15"/>Ad secundam vero rationem negatur 
+            assum<lb break="no" ed="#P" n="16"/>ptum ; jam enim probatum est nec 
+            potesta<lb break="no" ed="#P" n="17"/>tem, nec voluntatem legislatoris concurrere
+            <lb ed="#P" n="18"/>ad talem obligationem imponendam. Tertia
+            <lb ed="#P" n="19"/>item ratio nullius est momenti ; nam particula,
+            <lb ed="#P" n="20"/>ipso fucto, vel ipso jure, habet alios effectus
+            <lb ed="#P" n="21"/>confiscationis supra declaratos, et ideo non est
+            <lb ed="#P" n="22"/>superflua, si istum non habeat.
+          </p>
+          <p xml:id="szthvi-b37627-d1e1860">
+            <lb ed="#P" n="23"/>7. Impugnatur distinctio opinionis secunde
+            <lb ed="#P" n="24"/>in n. 9. — Ad ipsius motivum ibid. — Ad 
+            con<lb break="no" ed="#P" n="25"/>firmationem. — Atque ex his concluditur 
+            su<lb break="no" ed="#P" n="26"/>perfluam esse distinctionem quam adhibet 
+            se<lb break="no" ed="#P" n="27"/>cunda opinio, de haeretico occulto, vel noto,
+            <lb ed="#P" n="28"/>quia hic non agimus de obligatione aliorum,
+            <lb ed="#P" n="29"/>sed de obligatione ipsiusmet haeretici ad 
+            tra<lb break="no" ed="#P" n="30"/>denda bona sua ; nam si ad hanc obligationem
+            <lb ed="#P" n="31"/>sufficit notitia facta extra sententiam 
+            juridi<lb break="no" ed="#P" n="32"/>cam, haereticus occultus sufficientem notitiam
+            <lb ed="#P" n="33"/>habet sui delicti, etiamsi ab aliis non sciatur;
+            <lb ed="#P" n="34"/>ergo non minus obligabitur in delicto occulto
+            <lb ed="#P" n="35"/>quam in publico, quia ipsi non est occultum,
+            <lb ed="#P" n="36"/>et ita est impertinens aliorum notitia. Si vero
+            <lb ed="#P" n="37"/>major notitia quarma facti proprii necessaria est,
+            <lb ed="#P" n="38"/>profecto illa erit necessaria, quam lex 
+            praescri<lb break="no" ed="#P" n="39"/>bit;lex autem postulat notitiam juridicam per
+            <lb ed="#P" n="40"/>sententiam ; ergo nulla alia sufficit. Et ita non
+            <lb ed="#P" n="41"/>procedit motivum illius opinionis, quia 
+            sen<lb break="no" ed="#P" n="42"/>tentia non propter quamcumque notitiam
+            <lb ed="#P" n="43"/>etiam publicam requiritur, sed etiam propter
+            <lb ed="#P" n="44"/>notitiam juridicam, quae ad majorem 
+            huma<lb break="no" ed="#P" n="45"/>nam certitudinem, et reipublicae 
+            satisfactio<lb break="no" ed="#P" n="46"/>nem, et ad vitandas fraudes, per legem 
+            postu<lb break="no" ed="#P" n="47"/>latur ; et ideo conditio a lege posita, proprie
+            <lb ed="#P" n="48"/>et in specie implenda est, ut talis obligatio
+            <lb ed="#P" n="49"/>oriatur. Imo addunt auctores graves relati a
+            <lb ed="#P" n="50"/>Farinac., illo numero vigesimo tertio, inter
+            <lb ed="#P" n="51"/>quos est Sanchez, et Molina, in tam acerba
+            <lb ed="#P" n="52"/>poena non teneri cum etiam post sententiam in
+            <lb ed="#P" n="53"/>se talem poenam exequi, sed hoc pertinere ad
+            <lb ed="#P" n="54"/>judicem ; ad reum vero solum spectare ut
+            <lb ed="#P" n="55"/>patiatur, et non resistat. De qua re videri
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>possunt quae dixi libro 5 de Legibus, cap. 10.
+            <lb ed="#P" n="57"/>Unde ad confirmationem respondetur, falsum
+            <lb ed="#P" n="58"/>etiam esse quod sumit ; nam etiam fiscus seu
+            <lb ed="#P" n="59"/>ministri ejus non possunt occupare bona
+            <lb ed="#P" n="60"/>haeretici, etiam noti per famam, antequam
+            <lb ed="#P" n="61"/>condemnetur. Nam licet possit custodiam 
+            ad<lb break="no" ed="#P" n="62"/>hibere, ut solet, ne talia bona furtim 
+            aufe<lb break="no" ed="#P" n="63"/>rantur, non potest tamen illorum possessionem
+            <lb ed="#P" n="64"/>accipere, nam hoc illi prohibitum est in dicto
+            <lb ed="#P" n="65"/>cap. Cum secundum leges ; nam quod jure ab
+            <lb ed="#P" n="66"/>alio possidetur, nonnisi per injuriam aufertur,
+            <lb ed="#P" n="67"/>ut licitur in cap. 7n litteris, de Restitut. 
+            spo<lb break="no" ed="#P" n="68"/>liator. Et ideo si tales ministri occupent 
+            hu<lb break="no" ed="#P" n="69"/>jusmodi bona, restituenda sunt, et in priori
+            <lb ed="#P" n="70"/>statu constituenda. usque ad sententiam, vel
+            <lb ed="#P" n="71"/>donec post sententiam judex executionem fieri
+            <lb ed="#P" n="72"/>praecipiat.
+          </p>
+        </div>
+        <div xml:id="szthvi-b37627-Dd1e1974">
+          <head xml:id="szthvi-b37627-Hd1e1976">Sectio 3</head>
+          <head xml:id="szthvi-b37627-Hd1e1978" type="question-title">Utrum haereticus etiam per accidens occultus, ipso facto et ante omnem sententiam, bonorum suorum dominium amittat</head>
+          <p xml:id="szthvi-b37627-d1e1981">
+            <lb ed="#P" n="73"/>SECTIO III.
+            <lb ed="#P" n="74"/>Utrum haereticus etiam per accidens occultus,
+            <lb ed="#P" n="75"/>ipso facto et ante omnem sententiam, 
+            bono<lb break="no" ed="#P" n="76"/>rum suorum dominium amittat.
+          </p>
+          <p xml:id="szthvi-b37627-d1e1992">
+            <lb ed="#P" n="77"/>1. Prima sententia affirmans. — 
+            Funda<lb break="no" ed="#P" n="78"/>mentumn. — Quoniam bonorum possessio et
+            <lb ed="#P" n="79"/>retentio cum usu distincta est a dominio,
+            <lb ed="#P" n="80"/>ideo, licet in praecedenti sectione dictum sit
+            <lb ed="#P" n="81"/>haereticum juste retinere bona sua, donec
+            <lb ed="#P" n="82"/>condemnetur, nihilominus manet dubium an
+            <lb ed="#P" n="83"/>dominium etiam retineat. In quo prima 
+            sen<lb break="no" ed="#P" n="84"/>tentia et valde communis est, haereticum 
+            sta<lb break="no" ed="#P" n="85"/>tim amittere dominium bonorum suorum.
+            <lb ed="#P" n="86"/>Ita tenet Bartol., in l. Imperator, ff. de Jure
+            <lb ed="#P" n="87"/>fisci; Abbas et Felin.. in capite ultimo de
+            <lb ed="#P" n="88"/>Haeret.; Antonius Gomez, libro tertio Variar.,
+            <lb ed="#P" n="89"/>capite secundo, neque in capite ultimo 
+            re<lb break="no" ed="#P" n="90"/>tractat sententiam quoad hanc partem, sed
+            <lb ed="#P" n="91"/>potius confirmat numero 4. Tenet etiam 
+            Gre<lb break="no" ed="#P" n="92"/>gorius Lopez. in lib. 4, tit. 2, partit. septima,
+            <lb ed="#P" n="93"/>ubi plures allegat. Eamdemque sententiam
+            <lb ed="#P" n="94"/>supponunt Meina, Corduba et Castro, in
+            <lb ed="#P" n="95"/>praecedenti sectione allegati, ac sequuntur
+            <lb ed="#P" n="96"/>communiter moderni Theologi, 2. 2, 
+            quaes<lb break="no" ed="#P" n="97"/>tione 11, art. 2 et 3; Azor, tom. 1, lib. 5, 
+            ca<lb break="no" ed="#P" n="98"/>pite 7, quaestione secunda, necnon Farin. de
+            <lb ed="#P" n="99"/>Haeres., quaest. 190, num. 68. Fundamentum
+            <lb ed="#P" n="100"/>unicum est, quia lex humana potest hanc 
+            poe<lb break="no" ed="#P" n="101"/>nam hoc modo imponere, et valide et juste, si
+            <lb ed="#P" n="102"/>delictum sit illa dignum ; et ex verbis legum
+            <lb ed="#P" n="103"/>satis colligitur voluntas imponendi hanc 
+            poe<lb break="no" ed="#P" n="104"/>nam isto modo; nec dubitari potest quin hoc
+            <lb ed="#P" n="105"/>delictum sit tale; ergo de facto imposita est
+            <lb ed="#P" n="106"/>talis poena. Major de potestate probatur,
+            <lb ed="#P" n="107"/>primo, quia poenas pure privativas potest lex
+            <pb ed="#P" n="564"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>imponere ipso facto, et inferre illas per 
+            seip<lb break="no" ed="#P" n="2"/>sam, et arte omnem sententiam, ut est 
+            cer<lb break="no" ed="#P" n="3"/>tum apud omnes, ac tradidimus libro 5 de 
+            Le<lb break="no" ed="#P" n="4"/>gibus, cap. 8; haec autem poena in sola 
+            priva<lb break="no" ed="#P" n="5"/>tione consistit, ut per se patet; ergo. 
+            Secun<lb break="no" ed="#P" n="6"/>do, quia lex potest interdum conferre 
+            domi<lb break="no" ed="#P" n="7"/>nium per seipsam, ut patet in praescriptione;
+            <lb ed="#P" n="8"/>ergo a fortiori potest auferre. Tertio, ex 
+            effec<lb break="no" ed="#P" n="9"/>tibus, quia lex potest auferre potestatem 
+            alie<lb break="no" ed="#P" n="10"/>nandi vel administrandi, et consequenter 
+            po<lb break="no" ed="#P" n="11"/>test etiam diminuere jus utendi; ergo eadem
+            <lb ed="#P" n="12"/>ratione potest auferre omnino tale jus, in
+            <lb ed="#P" n="13"/>quo dominium consistit. Minor autem 
+            proba<lb break="no" ed="#P" n="14"/>tur primo ex dicto cap. Cum secundum leges,
+            <lb ed="#P" n="15"/>ubi in principio affert Pontifex in exemplum
+            <lb ed="#P" n="16"/>leges civiles, per quas dicit in aliquibus 
+            casi<lb break="no" ed="#P" n="17"/>bus privari reum eo ipso rerum suarum 
+            do<lb break="no" ed="#P" n="18"/>minio, et infra dicit privari rerum 
+            proprie<lb break="no" ed="#P" n="19"/>tate, quod perinde est, et postea imponit 
+            poe<lb break="no" ed="#P" n="20"/>nam ad instar illarum legum; ergo eo ipso
+            <lb ed="#P" n="21"/>privat bonis. Accedit, quod postea solum 
+            prohi<lb break="no" ed="#P" n="22"/>bet ne fiscus occupet bona ante sententiam;
+            <lb ed="#P" n="23"/>ergo haec exceptio indicat solam possessionem
+            <lb ed="#P" n="24"/>concedere, et reliqua omnia, ac proinde
+            <lb ed="#P" n="25"/>eiam dominium auferre. Secundo, hoc 
+            ma<lb break="no" ed="#P" n="26"/>gis declarant verba legum civilium in 
+            Aa<lb break="no" ed="#P" n="27"/>thent. de Incest. nuptiis, c. 1; dicit enim mox
+            <lb ed="#P" n="28"/>reo rerum suarum casum imminere, ubi Gloss.:
+            <lb ed="#P" n="29"/>Quia ipso jure dominium perdit ; et expressius
+            <lb ed="#P" n="30"/>in Authent. de Raptis mulieribus, in fine;
+            <lb ed="#P" n="31"/>nam dicit a tempore delicti transferri 
+            domi<lb break="no" ed="#P" n="32"/>nium in fiscum. Idem clarius habetur in
+            <lb ed="#P" n="33"/>l. Commissa, ff. de Publican. et vectig., et in
+            <lb ed="#P" n="34"/>l. ult., C. Ad Il. Juliam majestatis, et expresse
+            <lb ed="#P" n="35"/>in legibus Hispaniae, l. 4 proxime citata, et in
+            <lb ed="#P" n="36"/>lib. 8 Nova recompulat., ut. 23, propter 
+            pec<lb break="no" ed="#P" n="37"/>catum nefandum similis poena imponitur.
+          </p>
+          <p xml:id="szthvi-b37627-d1e2146">
+            <lb ed="#P" n="38"/>2. Secunda sententia negans. — Primum
+            <lb ed="#P" n="39"/>fundamentum.— Nibhilominus est secunda 
+            sen<lb break="no" ed="#P" n="40"/>tentia, quae negat auferri dominium usque ad
+            <lb ed="#P" n="41"/>sententiam , saltem declaratoriam criminis.
+            <lb ed="#P" n="42"/>Hanc partem tenuit Victor., in Relect. 1 de
+            <lb ed="#P" n="43"/>Indis, n. 14, et citat Cajetanum in Sum., verb.
+            <lb ed="#P" n="44"/>Pana, ei 2. 2, quaest. 61, art. 3; et Sylvest.,
+            <lb ed="#P" n="45"/>verb. Assassinus, et verb. Haeresis, 1, S8. Hi
+            <lb ed="#P" n="46"/>tamen duo auctores non loquuntur expresse, et
+            <lb ed="#P" n="47"/>in particulari, sed magis in communi, juxta
+            <lb ed="#P" n="48"/>doctrinam sectionis praecedentis ; et eodem
+            <lb ed="#P" n="49"/>fere modo loquuntur Archidiac. et Dominic.,
+            <lb ed="#P" n="50"/>in dicto cap. Cum secundum leges ; et Adrian.,
+            <lb ed="#P" n="51"/>Quodlibet. 6, q. 3; Sotus vero, lib. 1 de 
+            Jus<lb break="no" ed="#P" n="52"/>tit., q. 6, art. 6, post 4 concl., non est ab hac
+            <lb ed="#P" n="53"/>sententia alienus ; nam dicit posse 
+            confiscatio<lb break="no" ed="#P" n="54"/>nem subsistere sine ablatione dominii. 
+            Ex<lb break="no" ed="#P" n="55"/>pressius ergo defendunt hanc sententiam Vas-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>quez 1. 2, disp. 170. cap. 2; Sanch., libro2
+            <lb ed="#P" n="57"/>Decal., cap. 22, num. 3; Molina, tom. 1de
+            <lb ed="#P" n="58"/>Just., disp. 95; et Henriquez, lib. 13 de 
+            Ex<lb break="no" ed="#P" n="59"/>com., cap. 56, numero 2, et alii passim 
+            re<lb break="no" ed="#P" n="60"/>centiores. Primum fundamentum esse solet,
+            <lb ed="#P" n="61"/>quia lex humana non potest tam gravem 
+            poe<lb break="no" ed="#P" n="62"/>nam isto modo imponere, propter 
+            acerbita<lb break="no" ed="#P" n="63"/>tem et difficultatem ejus, quia lex humana
+            <lb ed="#P" n="64"/>debet esse tolerabilis, et regulariter ad 
+            obser<lb break="no" ed="#P" n="65"/>vandum facilis. Sed non censeo hoc 
+            funda<lb break="no" ed="#P" n="66"/>mentum solidum; :um quia rationes factae 
+            vi<lb break="no" ed="#P" n="67"/>dentur contrarium suadere efficaciter ; tum
+            <lb ed="#P" n="68"/>etiam quia non apparet cur hoc excedat 
+            po<lb break="no" ed="#P" n="69"/>testatem humanam, maxime adhibita 
+            mode<lb break="no" ed="#P" n="70"/>ratione posita in sectione praecedenti, ut non
+            <lb ed="#P" n="71"/>cogatur quis spoliare se bonis, etiamsi 
+            illo<lb break="no" ed="#P" n="72"/>rum dominio privatus sit.
+          </p>
+          <p xml:id="szthvi-b37627-d1e2228">
+            <lb ed="#P" n="73"/>3. Secundum fundamentum. — Sed contra
+            <lb ed="#P" n="74"/>hoc instatur, et additur secundum 
+            fundamen<lb break="no" ed="#P" n="75"/>tum, quia ista duo repugnant, scilicet, 
+            priva<lb break="no" ed="#P" n="76"/>re aliquem dominio bonorum suorum, et 
+            re<lb break="no" ed="#P" n="77"/>linquere illi justam possessionem et usum,
+            <lb ed="#P" n="78"/>quia ex natura rei ablato dominio aufertur
+            <lb ed="#P" n="79"/>jus legitime possidendi et utendi, quia hoc in
+            <lb ed="#P" n="80"/>dominio fundatur ; ergo e contrario, lex quae
+            <lb ed="#P" n="81"/>permittit justam possessionem, imo et usum
+            <lb ed="#P" n="82"/>usque ad consumptionem fructuum, non 
+            po<lb break="no" ed="#P" n="83"/>test simul dominium auferre; at vero leges
+            <lb ed="#P" n="84"/>confiscantes bona relinquunt, justam 
+            posses<lb break="no" ed="#P" n="85"/>sionem et usum; ergo non possunt auferre
+            <lb ed="#P" n="86"/>dominium. Confirmatur ac declaratur, quia
+            <lb ed="#P" n="87"/>haereticus potest ex suis bonis libere 
+            consu<lb break="no" ed="#P" n="88"/>mere, saltem ea bona quae ad suam 
+            sustenta<lb break="no" ed="#P" n="89"/>tionem necessaria sunt; ergo illorum saltem
+            <lb ed="#P" n="90"/>habet dominium ; ergo eadem ratione habet
+            <lb ed="#P" n="91"/>dominium omnium bonorum suorum. Proba
+            <lb ed="#P" n="92"/>tur haec ultima consequentia, quia pars illa
+            <lb ed="#P" n="93"/>bonorum, quam potest consumere, non est
+            <lb ed="#P" n="94"/>determinata, sed potest eligere quam 
+            malue<lb break="no" ed="#P" n="95"/>rit ; econtrario vero dominium esse debet de
+            <lb ed="#P" n="96"/>re determinata, et certa; ergo esse debet de
+            <lb ed="#P" n="97"/>omnibus bonis, cum non possit determinari
+            <lb ed="#P" n="98"/>una pars certa magis quam alia.
+          </p>
+          <p xml:id="szthvi-b37627-d1e2287">
+            <lb ed="#P" n="99"/>4 Hoc fundamentum , licet probabile, non
+            <lb ed="#P" n="100"/>urget. — Hoc fundamentum magis quidem
+            <lb ed="#P" n="101"/>probabile est, non tamen videtur cogere ;
+            <lb ed="#P" n="102"/>quia non repugnat dominium rei esse apud
+            <lb ed="#P" n="103"/>aliquem, et nihilominus possessionem justam
+            <lb ed="#P" n="104"/>et usum alteri concedi, consentiente seu non
+            <lb ed="#P" n="105"/>rcpugnante illo apud quem est dominium,
+            <lb ed="#P" n="106"/>vel lege ita statuente : sic enim religiosi 
+            ha<lb break="no" ed="#P" n="107"/>bent usum sine dominio, et pater interdum
+            <lb ed="#P" n="108"/>possidet, et fruitur aliquibus bonis quorum
+            <lb ed="#P" n="109"/>proprius dominus est filius, et similia sunt
+            <lb ed="#P" n="110"/>multa exempla. Et ratio est, quia justa pos-
+            <pb ed="#P" n="565"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>sessio et usus, licet saepe proveniat ex 
+            pro<lb break="no" ed="#P" n="2"/>prio dominio, potest etiam aliunde 
+            proveni<lb break="no" ed="#P" n="3"/>re; ergo etiam in haeretico potuit relinqui
+            <lb ed="#P" n="4"/>possessio, et aliquis usus, et consumptio 
+            ali<lb break="no" ed="#P" n="5"/>quorum bonorum, sine ullo proprio dominio.
+            <lb ed="#P" n="6"/>Dicetur fortasse assumptum esse verum, 
+            quan<lb break="no" ed="#P" n="7"/>do possessio et usus specialiter conceditur, et
+            <lb ed="#P" n="8"/>quasi ab extrinseco; hic autem non ita esse,
+            <lb ed="#P" n="9"/>quia nulla specialis concessio facta est 
+            haere<lb break="no" ed="#P" n="10"/>ticis, sed, eo ipso quod non privantur bonis,
+            <lb ed="#P" n="11"/>ex natura rei et ab intrinseco censentur 
+            ha<lb break="no" ed="#P" n="12"/>bere justam possessionem, et usum talium
+            <lb ed="#P" n="13"/>bonorum; ergo signum est habere illam ex
+            <lb ed="#P" n="14"/>vi dominii. Sed adhuc contra haec insto, quia
+            <lb ed="#P" n="15"/>haec omnia fieri possunt sine actuali dominio,
+            <lb ed="#P" n="16"/>ex vi praecedentis, et jure non prohibente. Est
+            <lb ed="#P" n="17"/>enim considerandum hic non essenecessariam
+            <lb ed="#P" n="18"/>specialem concessionem , quasi positive 
+            fac<lb break="no" ed="#P" n="19"/>tam a fisco, vel a lege, sed satis esse quod lex
+            <lb ed="#P" n="20"/>non auferat totum id, quod homo ante 
+            com<lb break="no" ed="#P" n="21"/>missam. haeresim in bonis suis habebat. Antea
+            <lb ed="#P" n="22"/>vero habebat dominium , et possessionem, et
+            <lb ed="#P" n="23"/>usum ; quamvis ergo lex dominium 
+            abstule<lb break="no" ed="#P" n="24"/>rit, eo ipso quod caetera non abstulit, ea 
+            con<lb break="no" ed="#P" n="25"/>cessisse, etiam absque dominio, vel potius 
+            re<lb break="no" ed="#P" n="26"/>liquisse, existimanda est.
+          </p>
+          <p xml:id="szthvi-b37627-d1e2376">
+            <lb ed="#P" n="27"/>5. Tertium fundamentum. — Tertium ergo
+            <lb ed="#P" n="28"/>et solidum fundamentum esse videtur, quia
+            <lb ed="#P" n="29"/>lex tantum confiscat bona ; sed ad 
+            confis<lb break="no" ed="#P" n="30"/>cationem per se et intrinsece non est 
+            neces<lb break="no" ed="#P" n="31"/>saria ablatio dominii; ergo non aufertur per
+            <lb ed="#P" n="32"/>talem. Consequentia tenet ex illo principio,
+            <lb ed="#P" n="33"/>quod pana restringenda est, quantum verba
+            <lb ed="#P" n="34"/>legis patiuntur. Major vero ex dicto cap. Cum
+            <lb ed="#P" n="35"/>secundum leges, habetur. Minor autem 
+            proba<lb break="no" ed="#P" n="36"/>tur imprimis ex aliis juribus, l. ult., ff. de
+            <lb ed="#P" n="37"/>Publican. et Vectigal., leg. Cum ancilla, C. de
+            <lb ed="#P" n="38"/>Incoestis nuptiis, c. 7ta quorumdam , de 
+            Ju<lb break="no" ed="#P" n="39"/>daeis, in quibus juribus confiscantur bona sine
+            <lb ed="#P" n="40"/>ablatione dominii.Deinde probatur, quia omnes
+            <lb ed="#P" n="41"/>alii effectus confiscationis possunt subsistere,
+            <lb ed="#P" n="42"/>stante dominio, quales sunt, quod bona illa a
+            <lb ed="#P" n="43"/>die criminis sint obligata fisco; nam hoc 
+            sta<lb break="no" ed="#P" n="44"/>re potest cum dominio, sicut hypotheca 
+            obli<lb break="no" ed="#P" n="45"/>gatur creditori, quamvis dominium ejus 
+            ma<lb break="no" ed="#P" n="46"/>neat apud debitorem. Item quod alienationes
+            <lb ed="#P" n="47"/>prohibeantur ; nam hoc etiam stat cum 
+            domi<lb break="no" ed="#P" n="48"/>nio, ut bona majoratus alienari non possunt,
+            <lb ed="#P" n="49"/>et nihilominus dominium eorum est apud 
+            le<lb break="no" ed="#P" n="50"/>gitime possidentem.
+          </p>
+          <p xml:id="szthvi-b37627-d1e2431">
+            <lb ed="#P" n="51"/>6. Due sententie relate magis in modo 
+            lo<lb break="no" ed="#P" n="52"/>quendi quam in re discrepant. — Modus illas
+            <lb ed="#P" n="53"/>concordandi apud Covar. displicet. — Item 
+            mo<lb break="no" ed="#P" n="54"/>dus alius apud Simanc. — Probabilior modus.
+            <lb ed="#P" n="55"/>—Dissensio inter has opiniones potest magna
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>ex parte esse de modo loquendi, si alias 
+            con<lb break="no" ed="#P" n="57"/>veniamus in effectibus hujus poenae. Negari
+            <lb ed="#P" n="58"/>enim non potest quin ante sententiam aliquod
+            <lb ed="#P" n="59"/>jus reale circa talia bona transferatur in 
+            fis<lb break="no" ed="#P" n="60"/>cum, ex vi cujus possit a die criminis illa 
+            bo<lb break="no" ed="#P" n="61"/>na recuperare, ubicumque illa invenerit, et
+            <lb ed="#P" n="62"/>pro illis convenire haeredem, vel 
+            quemcum<lb break="no" ed="#P" n="63"/>que alium possidentem, etiam post mortem
+            <lb ed="#P" n="64"/>delinquentis. Unde fit aliquod jus in talia 
+            bo<lb break="no" ed="#P" n="65"/>na ablatum esse a priori domino, et 
+            conse<lb break="no" ed="#P" n="66"/>quenter dominium ejus infirmatum fuisse, vel
+            <lb ed="#P" n="67"/>aliquo modo ablatum. An vero illud jus fisci
+            <lb ed="#P" n="68"/>appellandum sit dominium illi datum, et ab
+            <lb ed="#P" n="69"/>altero ablatum, videtur solum ad modum 
+            lo<lb break="no" ed="#P" n="70"/>quendi pertinere. Similiter est certum, 
+            delin<lb break="no" ed="#P" n="71"/>quentem, antequam condemnetur, non solum
+            <lb ed="#P" n="72"/>habere jus possidendi, sed etiam vere fruendi:
+            <lb ed="#P" n="73"/>nam vere facit fructus suos, sicut de 
+            fructi<lb break="no" ed="#P" n="74"/>bus beneficii supra diximus. Item ille sic 
+            pos<lb break="no" ed="#P" n="75"/>sidens talia bona potest saltem valide illa 
+            do<lb break="no" ed="#P" n="76"/>nare, vel alienare, eo modo quo illa possidet,
+            <lb ed="#P" n="77"/>ut sequenti sectione dicemus, et ad hoc habet
+            <lb ed="#P" n="78"/>proprium jus, quo ante sententiam privari
+            <lb ed="#P" n="79"/>non potest. Igitur an jus illud, haec omnia 
+            in<lb break="no" ed="#P" n="80"/>cludens, appellandum sit dominium, necne,
+            <lb ed="#P" n="81"/>etiam videtur ad solum nomen pertinere. Et
+            <lb ed="#P" n="82"/>ideo aliqui distinctionibus utuntur : nam 
+            Co<lb break="no" ed="#P" n="83"/>var., in 4 Decretal., p. 26, c. 6, S8, n.9et
+            <lb ed="#P" n="84"/>10, significat reum habere dominium in foro
+            <lb ed="#P" n="85"/>conscientia, fiscum vero in judiciali ; quae
+            <lb ed="#P" n="86"/>verba mihi non ita placent, quia si uterque
+            <lb ed="#P" n="87"/>aliquod dominium habet ante sententiam,
+            <lb ed="#P" n="88"/>profecto pro illo statu in utroque foro illud
+            <lb ed="#P" n="89"/>habet. Simanc. vero distinguit de dominio
+            <lb ed="#P" n="90"/>naturali, et civili, et naturale dicit esse apud
+            <lb ed="#P" n="91"/>reum, civile apud fiscum. Sed haec verba 
+            me<lb break="no" ed="#P" n="92"/>lius ad possessionem quam ad dominium 
+            ap<lb break="no" ed="#P" n="93"/>plicari solent ; nam dominium proprie nullum
+            <lb ed="#P" n="94"/>est naturale circa haec bona fortunae. 
+            Proba<lb break="no" ed="#P" n="95"/>bilius ergo videtur distingui posse de 
+            domi<lb break="no" ed="#P" n="96"/>nio utili et directo; nam utile apud reum 
+            ma<lb break="no" ed="#P" n="97"/>nere videtur, directum autem ad fiscum 
+            tran<lb break="no" ed="#P" n="98"/>sire; nam hoc videntur probare fundamenta
+            <lb ed="#P" n="99"/>utriusque sententiae, et potest explicari ad 
+            si<lb break="no" ed="#P" n="100"/>militudinem emphytheosis ; nam emphyteuta
+            <lb ed="#P" n="101"/>acquirit dominium utile, et directum manet
+            <lb ed="#P" n="102"/>apud dominum fundi, quamvis necessarium
+            <lb ed="#P" n="103"/>non sit exemplum tenere in omnibus, ut 
+            vi<lb break="no" ed="#P" n="104"/>debimus.
+          </p>
+          <p xml:id="szthvi-b37627-d1e2553">
+            <lb ed="#P" n="105"/>7. Ante judicis emecutionem non tenetur reus
+            <lb ed="#P" n="106"/>bona. quantum^s fisco adjudicata, ei offerre,
+            <lb ed="#P" n="107"/>sed executioni non obstare. — Sed quaeres,
+            <lb ed="#P" n="108"/>quando post sententiam latam amittat 
+            haere<lb break="no" ed="#P" n="109"/>ticus in conscientia illud dominium utile, seu
+            <lb ed="#P" n="110"/>totum illud jus quod in bonis suis antea babe-
+            <pb ed="#P" n="566"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>bat. Multi enim absolute dicunt. statim post
+            <lb ed="#P" n="2"/>sententiam latam auferri hoe dominium, et
+            <lb ed="#P" n="3"/>aliqui sufficere putant ipsam declaratoriam
+            <lb ed="#P" n="4"/>criminis; alii vero etiam condemnatoriam 
+            re<lb break="no" ed="#P" n="5"/>quirunt. Mihi tamen videtur post sententiam
+            <lb ed="#P" n="6"/>necessariam esse judicis executionem ; quia,
+            <lb ed="#P" n="7"/>etiamsi sententia lata sit, non tenetur reus in
+            <lb ed="#P" n="8"/>conscientia sua bona offerre fisco, sed solum
+            <lb ed="#P" n="9"/>esse paratus ad tradenda illa, quando postulata
+            <lb ed="#P" n="10"/>fuerint, non resistendo, nec per vim, nec per
+            <lb ed="#P" n="11"/>fraudem, perjurium, aut similia , quod sentit
+            <lb ed="#P" n="12"/>Covar., 1 Variar., c. 2, num. 10, et in 4 
+            De<lb break="no" ed="#P" n="13"/>cret., ubi supra Sanc., cap. 22, num. 8, et
+            <lb ed="#P" n="14"/>cap. 26, num. 8, apud quos plura de hoc
+            <lb ed="#P" n="15"/>puneto videri possunt.
+          </p>
+        </div>
+        <div xml:id="szthvi-b37627-Dd1e2606">
+          <head xml:id="szthvi-b37627-Hd1e2608">Sectio 4</head>
+          <head xml:id="szthvi-b37627-Hd1e2610" type="question-title">Utrum haereticus ante sententiam valide et licite possit bona sua alienare</head>
+          <p xml:id="szthvi-b37627-d1e2613">
+            <lb ed="#P" n="16"/>SECTIO IV.
+            <lb ed="#P" n="17"/>Utrum haereticus ante sententiam valide et 
+            li<lb break="no" ed="#P" n="18"/>cite possit bona sua alienare.
+          </p>
+          <p xml:id="szthvi-b37627-d1e2622">
+            <lb ed="#P" n="19"/>1. Prima opinio negans. — In hoc puncto
+            <lb ed="#P" n="20"/>conveniunt (ut videre est in Sanc., supra,
+            <lb ed="#P" n="21"/>num. 535, et Farin., de Haeresi, quaest. 190,
+            <lb ed="#P" n="22"/>num. 97) ad sustentationem vitae et status,
+            <lb ed="#P" n="23"/>posse hujusmodi reum licite consumere aut
+            <lb ed="#P" n="24"/>expendere, quod de bonis suis necessarium
+            <lb ed="#P" n="25"/>fuerit, quia hoc est adeo intrinsecum, et 
+            na<lb break="no" ed="#P" n="26"/>turale, ut prohiberi non debeat, nec fortasse
+            <lb ed="#P" n="27"/>possit. Item, quia alias frustra in possessione
+            <lb ed="#P" n="28"/>suorum bonorum relingueretur. De caeteris 
+            er<lb break="no" ed="#P" n="29"/>go alienationibus, siye gratuitis, ut sunt 
+            do<lb break="no" ed="#P" n="30"/>nationes, sive onerosis, ut sunt venditio, et
+            <lb ed="#P" n="31"/>similes contractus, est controversia. In qua est
+            <lb ed="#P" n="32"/>prima opinio, omnes has alienationes esse 
+            pro<lb break="no" ed="#P" n="33"/>hibitas et invalidas. lta tenent consequenter
+            <lb ed="#P" n="34"/>Castr., l. 2 de Just. haeret. pun., c. 6, et l.2de
+            <lb ed="#P" n="35"/>Leg. poenal., c. 8; Conrad., 1. 1 de Contract.,
+            <lb ed="#P" n="36"/>quaest. 7; Medin. , C. de Rest., q. 1, paragr.
+            <lb ed="#P" n="37"/>Post rerum dominium; Rojas, singular. 18;
+            <lb ed="#P" n="38"/>Anton. Gom., l. 3 Variar., c. 2; Farin., de
+            <lb ed="#P" n="39"/>Haeres., q. 190, n. 68, 70 et 74; et inclinat
+            <lb ed="#P" n="40"/>Soto, d. 1. 1 dc Justit., q. 6, a. 6, post 
+            quar<lb break="no" ed="#P" n="41"/>tam conclus. Fundamentum est, quia leges 
+            fe<lb break="no" ed="#P" n="42"/>rentes confiscationis poenam in hunc modum
+            <lb ed="#P" n="43"/>explicari solent. Non est enim dubium quin
+            <lb ed="#P" n="44"/>potnerint hnjusmodi leges omnes hos 
+            con<lb break="no" ed="#P" n="45"/>tractus irritare; nam in multis aliis casibus
+            <lb ed="#P" n="46"/>id faciunt, etiam non ablato dominio, ut 
+            con<lb break="no" ed="#P" n="47"/>stat de pupillo, uxore, et aliis; ergo multo
+            <lb ed="#P" n="48"/>magis ipsa lex id potuit facere propter crimen
+            <lb ed="#P" n="49"/>haeresis; imo si id fecit, non propterea dici
+            <lb ed="#P" n="50"/>potest lex intolerabilis, aut nimis gravis, 
+            spec<lb break="no" ed="#P" n="51"/>tata delicti qualitate, quia istae alienationes
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="52"/>non sunt necessariae ad vitam, vel ad statum
+            <lb ed="#P" n="53"/>personae, et alias possunt fisco multum 
+            noce<lb break="no" ed="#P" n="54"/>re. Quod ergo ita factum sit, videtur probari
+            <lb ed="#P" n="55"/>ex l. Manich., C. de Haeret., ibi : Non 
+            relin<lb break="no" ed="#P" n="56"/>quimus contrahendi facultatem ; et ex 1. Post
+            <lb ed="#P" n="57"/>contractum, et 1. Quisque, et 1. ultim., C. ad
+            <lb ed="#P" n="58"/>Legem Juliam majest., ubi dicitur, negue 
+            alie<lb break="no" ed="#P" n="59"/>nare posse. Ttem colligitur ex 1. Donationes
+            <lb ed="#P" n="60"/>in concubinam, S ult., ff. de Donat., et 1. 
+            Ju<lb break="no" ed="#P" n="61"/>diciorum, vers. Adeo, ff. de Accus. Expressius
+            <lb ed="#P" n="62"/>autem videntur loqui leges Hispaniae; nam
+            <lb ed="#P" n="63"/>in partit. 5, tit. 4, lib. 2, dicitur de 
+            hujusmo<lb break="no" ed="#P" n="64"/>di alienatione non posse fieri, et si facta 
+            fue<lb break="no" ed="#P" n="65"/>rit, non valere ; et part. 7, tit. 9, 1. 4, dicitur:
+            <lb ed="#P" n="66"/>Nullo modo valere debet, et additur ratio, quia
+            <lb ed="#P" n="67"/>reus a die commissi criminis dominium 
+            ami<lb break="no" ed="#P" n="68"/>serat : nam donatio, vel quaelibet alienatio,
+            <lb ed="#P" n="69"/>facta a non vero domino, ex natura rei nulla
+            <lb ed="#P" n="70"/>est. Unde potest addi alia ratio, quia talis 
+            alie<lb break="no" ed="#P" n="71"/>natio continet intrinsecam injustitiam, vel
+            <lb ed="#P" n="72"/>contra fiscum, etiamsi sit liberalis, vel contra
+            <lb ed="#P" n="73"/>tertiam personam, verbi gratia, ementem, si
+            <lb ed="#P" n="74"/>sit onerosa ; ergo est etiam nulla.
+          </p>
+          <p xml:id="szthvi-b37627-d1e2748">
+            <lb ed="#P" n="75"/>2. Secunda opinio. — Nihilominus est 
+            se<lb break="no" ed="#P" n="76"/>cunda opinio, dicens hos contractus seu 
+            alie<lb break="no" ed="#P" n="77"/>nationes non esse ipso jure nullas, sed 
+            annul<lb break="no" ed="#P" n="78"/>landas, seu irritandas. Hanc sententiam 
+            de<lb break="no" ed="#P" n="79"/>fendit Victor, in d. Relect. de Indis; nam,
+            <lb ed="#P" n="80"/>licet num. 13 alienationes has vocet invalidas,
+            <lb ed="#P" n="81"/>juxta modum loquendi aliquorum jurium,
+            <lb ed="#P" n="82"/>nihilominus in num. 14 declarat, non esse per
+            <lb ed="#P" n="83"/>se irritas, imo nec absolute illicitas. Et eodem
+            <lb ed="#P" n="84"/>modo videntur sentire Sylvest., verb. 
+            Heere<lb break="no" ed="#P" n="85"/>sis, 4, num. 14; et Axggel., verb. Pena,
+            <lb ed="#P" n="86"/>num. 3; inclinat etiam Corluba, l. 1 suarum
+            <lb ed="#P" n="87"/>Quaest., in 36. Latius defendit hanc 
+            senten<lb break="no" ed="#P" n="88"/>tiam Vasquez 1. 2, disp. 171, cap.25;et
+            <lb ed="#P" n="89"/>Sanc., d. lib. 2, cap. 21, num. 26. ubi alios
+            <lb ed="#P" n="90"/>jurisperitos allegat ; et mihi etiam haec 
+            sen<lb break="no" ed="#P" n="91"/>tentia placet. quam per sequentes assertiones
+            <lb ed="#P" n="92"/>explicabo et probabo.
+          </p>
+          <p xml:id="szthvi-b37627-d1e2791">
+            <lb ed="#P" n="93"/>3 Prima assertio pro hac opinione. — Dico
+            <lb ed="#P" n="94"/>ergo primo: alienationes bonorum factae ab
+            <lb ed="#P" n="95"/>haeretico post commissum crimen, et ante 
+            sen<lb break="no" ed="#P" n="96"/>tentiam, non sunt ipso facto nullae. Probatur
+            <lb ed="#P" n="97"/>primo, quia haereticus non perdit omne 
+            domi<lb break="no" ed="#P" n="98"/>nium bonorum suorum statim ratione delicti,
+            <lb ed="#P" n="99"/>ut jam probatum est ; sed omnis verns 
+            domi<lb break="no" ed="#P" n="100"/>nus potest voluntate sua transferre in alium,
+            <lb ed="#P" n="101"/>jus et dominium quod in suis bonis habet, et
+            <lb ed="#P" n="102"/>quale habet, vel liberaliter, vel per aum 
+            con<lb break="no" ed="#P" n="103"/>tractum ; ergo hoc etiam potest facere 
+            haereti<lb break="no" ed="#P" n="104"/>cus, per se loquendo. Dices, minorem non
+            <lb ed="#P" n="105"/>esse universaliter et absolute veram, sed cum
+            <lb ed="#P" n="106"/>vulgari limitatione, nisi jure prohibeatur, quae
+            <pb ed="#P" n="567"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>in praesenti non servatur, quia haeretico 
+            aliena<lb break="no" ed="#P" n="2"/>tiones videntur prohibitae. Simili enim 
+            ratio<lb break="no" ed="#P" n="3"/>ne, licet pupillus sit dominus bonorum, 
+            nihi<lb break="no" ed="#P" n="4"/>lominus non valide alienat, quia est 
+            prohibi<lb break="no" ed="#P" n="5"/>tus, et idem est in majoratu ; ergo idem erit
+            <lb ed="#P" n="6"/>in haeretico. Sed contra ; nam hinc potius 
+            con<lb break="no" ed="#P" n="7"/>firmatur argumentum, primo quidem, quia
+            <lb ed="#P" n="8"/>non sufficit simplex prohibitio, nisi expresse
+            <lb ed="#P" n="9"/>addatur verbum irritans, ut in lib. 5 de Leg.,
+            <lb ed="#P" n="10"/>a c. 25, ostensum est ; hic autem non 
+            inveni<lb break="no" ed="#P" n="11"/>tur similis prohibitio, sed tantum illa quae ex
+            <lb ed="#P" n="12"/>confiscatione sequitur; ex confiscatione 
+            au<lb break="no" ed="#P" n="13"/>tem per se et intrinsece spectata, non magis
+            <lb ed="#P" n="14"/>sequitur irritatio alienationum, quam 
+            priva<lb break="no" ed="#P" n="15"/>tio dominii. Deinde quia, in rigore loquendo,
+            <lb ed="#P" n="16"/>haereticus non est prohibitus speciali legis
+            <lb ed="#P" n="17"/>praecepto bona sua alienare, ut in sequenti
+            <lb ed="#P" n="18"/>assertione ostendam ; ergo cum sit dominus,
+            <lb ed="#P" n="19"/>potest valide alienare. Secundo probatur a
+            <lb ed="#P" n="20"/>posteriori, quia emens bona fide ab haeretico
+            <lb ed="#P" n="21"/>rem fructitferam, quamdiu illam sic possidet,
+            <lb ed="#P" n="22"/>vere facit fructus suos; ergo per talem 
+            em<lb break="no" ed="#P" n="23"/>ptionem dominium talis rei acquisivit, quia
+            <lb ed="#P" n="24"/>res fructificat domino; ergo signum est 
+            alie<lb break="no" ed="#P" n="25"/>nationem fuisse validam, quia dominium non
+            <lb ed="#P" n="26"/>transfertur nisi per contractum validum. De
+            <lb ed="#P" n="27"/>primo antecedente dicemus paulo post ; caetera
+            <lb ed="#P" n="28"/>vero necessario consequuntur. Simile 
+            argu<lb break="no" ed="#P" n="29"/>mentum est, quod filius bona fide accipiens
+            <lb ed="#P" n="30"/>haereditatem patris haeretici occulti, vere fit
+            <lb ed="#P" n="31"/>dominus, ut probat Siman., tit. 9, n. 189; ergo
+            <lb ed="#P" n="32"/>alienatio facta per testamentum valida fuit;
+            <lb ed="#P" n="33"/>ergo idem est de aliis. Unde juxta hanc 
+            doc<lb break="no" ed="#P" n="34"/>trinam videtur intelligendus idem Simanc.,
+            <lb ed="#P" n="35"/>ibi, num. 22 et 25, ubi in priorem opinionem
+            <lb ed="#P" n="36"/>videtur inclinare. Ultimo probatur ab 
+            incon<lb break="no" ed="#P" n="37"/>venienti, quia alias omnes contractus facti
+            <lb ed="#P" n="38"/>a catholicis cum haereticis Angliae, vel 
+            alio<lb break="no" ed="#P" n="39"/>rum regnorum haereticorum, essent invalidi
+            <lb ed="#P" n="40"/>ipso facto, quia bona talium haereticorum jure
+            <lb ed="#P" n="41"/>communi confiscata sunt; consequens autem
+            <lb ed="#P" n="42"/>est incredibile, et contra communem usum,
+            <lb ed="#P" n="43"/>et sensum Ecclesiae ; ergo.
+          </p>
+          <p xml:id="szthvi-b37627-d1e2921">
+            <lb ed="#P" n="44"/>4. Secunda assertio. — Probatur assertio
+            <lb ed="#P" n="45"/>ostendendo haereticum non prohiberi im mediate
+            <lb ed="#P" n="46"/>alienare. — Deinde nec mediate, seu per 
+            consc<lb break="no" ed="#P" n="47"/>quentiam aliquam. — Dico secundo : non 
+            so<lb break="no" ed="#P" n="48"/>lum hujusmodi alienationes non sunt nullae,
+            <lb ed="#P" n="49"/>verum etiam neque illicitae. Itaque haereticus
+            <lb ed="#P" n="50"/>non peccat alienando bona sua, si absque
+            <lb ed="#P" n="51"/>fraude et dolo, seu injuria tertii faciat. Ita
+            <lb ed="#P" n="52"/>sentiunt multi Doctores, et ex modcrnis 
+            opti<lb break="no" ed="#P" n="53"/>me Vasquez, d. disp. 171, cap. 2, num. 13;
+            <lb ed="#P" n="54"/>et Sanc., lib. 2, cap. 22, num. 59, qui alios
+            <lb ed="#P" n="55"/>referunt. Probatur autem in hunc modum,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>quia cum haereticus retineat dominium et 
+            ad<lb break="no" ed="#P" n="57"/>ministrationem suorum bonorum per se et ex
+            <lb ed="#P" n="58"/>natura rei, licite potest illa donare, aut 
+            ven<lb break="no" ed="#P" n="59"/>dere, aut alio simili modo alienare; ergo ut
+            <lb ed="#P" n="60"/>hoc illi non liceat, oportet ut specialiter sit
+            <lb ed="#P" n="61"/>illi prohibitum; sed non invenitur talis 
+            pro<lb break="no" ed="#P" n="62"/>hibitio per se; ergo neque actio illa est per
+            <lb ed="#P" n="63"/>se illicita. Probpatur minor, quia duobus 
+            mo<lb break="no" ed="#P" n="64"/>dis potuit talis prohibitio oriri ex jure 
+            posi<lb break="no" ed="#P" n="65"/>tivo: primo, quia lex aliqua directe vetat
+            <lb ed="#P" n="66"/>alienationem tali personae; vel quia, posita
+            <lb ed="#P" n="67"/>dispositione legis circa talia bona, ex illa 
+            se<lb break="no" ed="#P" n="68"/>quitur intrinsece, et ex natura rei, quod talis
+            <lb ed="#P" n="69"/>alienatio sit illicita; neuter autem modus
+            <lb ed="#P" n="70"/>verus est; ergo. Minor, quoad priorem 
+            mo<lb break="no" ed="#P" n="71"/>dum seu partem, probatur ex quodam 
+            prin<lb break="no" ed="#P" n="72"/>cipio in materia de Legibus recepto, quod
+            <lb ed="#P" n="73"/>quando lex non dirigit verba ad personam,
+            <lb ed="#P" n="74"/>sed tantum disponit circa rem ipsam, vel circa
+            <lb ed="#P" n="75"/>formam contractus, tunc per se non obligat
+            <lb ed="#P" n="76"/>personam ne aliter faciat, sed invalidat vel
+            <lb ed="#P" n="77"/>infirmat actum. De quo principio videri 
+            pos<lb break="no" ed="#P" n="78"/>sunt quae dixi lib. 5 de Legib., cap. 20, num.
+            <lb ed="#P" n="79"/>12, et latius tom. 2 de Relig., lib. 2, de 
+            Ju<lb break="no" ed="#P" n="80"/>ram., cap. 20; sed in praesenti, leges quae 
+            pu<lb break="no" ed="#P" n="81"/>niunt haereticos in bonis suis, non dirigunt
+            <lb ed="#P" n="82"/>verba ad illos, praecipientes eis ne bona 
+            alie<lb break="no" ed="#P" n="83"/>nent, sed dirigunt verba ad bona ipsa, 
+            confi<lb break="no" ed="#P" n="84"/>scando illa ; ergo per se et ex vi sua talem
+            <lb ed="#P" n="85"/>prohibitionem non inducunt. Altera vero pars
+            <lb ed="#P" n="86"/>probatur, quia, posita confiscatione, solum
+            <lb ed="#P" n="87"/>potest sequi malitia in alienatione propter
+            <lb ed="#P" n="88"/>aliquam injuriam, vel nocumentum factum,
+            <lb ed="#P" n="89"/>vel personae cui bona traduntur, vel fisco, quia
+            <lb ed="#P" n="90"/>ibi nullus alius per se intervenit. At vero 
+            res<lb break="no" ed="#P" n="91"/>pectu personae cui traduntur bona, imprimis
+            <lb ed="#P" n="92"/>si alienatio sit gratuita donatio, nullum 
+            no<lb break="no" ed="#P" n="93"/>cumentum infert, quia potest prodesse et non
+            <lb ed="#P" n="94"/>obesse, ut per se patet. Si vero sit alienatio
+            <lb ed="#P" n="95"/>onerosa, verbi gratia, per justam venditionem,
+            <lb ed="#P" n="96"/>tunc si delictum sit ita occultum, ut nullum
+            <lb ed="#P" n="97"/>sit morale periculum publicationis bonorum
+            <lb ed="#P" n="98"/>per sententiam, tuuc etiam nullum fit ementi
+            <lb ed="#P" n="99"/>nocumentum, neque est periculum ejus; 
+            er<lb break="no" ed="#P" n="100"/>go nulla etiam est injuria vel malitia ex ea
+            <lb ed="#P" n="101"/>parte. Si autem sit periculum, et haereticus 
+            ta<lb break="no" ed="#P" n="102"/>ceat vitium rei, tunc quidem injustitiam 
+            com<lb break="no" ed="#P" n="103"/>mittit, quia dolose et injuste vendit rem suam,
+            <lb ed="#P" n="104"/>tacito ejus vitio occulto; haec autem malitia
+            <lb ed="#P" n="105"/>et est per accidens, et generalis ex principiis
+            <lb ed="#P" n="106"/>justitia ; et ideo propter illam addita est in
+            <lb ed="#P" n="107"/>assertione limitatio: S? absque fraude, etc.
+            <lb ed="#P" n="108"/>Denique respectu fisci nulla est per se injuria,
+            <lb ed="#P" n="109"/>quia semper res transit cum onere suo, et ita
+            <lb ed="#P" n="110"/>jus fisci integrum servatur, ad quemcumque
+            <pb ed="#P" n="568"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>talis res perveniat. Dices, accidere posse ut,
+            <lb ed="#P" n="2"/>dum res transit ad alium, vel difficilius 
+            recu<lb break="no" ed="#P" n="3"/>peretur a fisco, vel periculum immineat, ut
+            <lb ed="#P" n="4"/>ab altero non ita bene conservetur. Respondeo
+            <lb ed="#P" n="5"/>imprimis etiam posse contingere ut talis res
+            <lb ed="#P" n="6"/>melius et utilius ab alio conservetur et 
+            admi<lb break="no" ed="#P" n="7"/>nistretur, et quod eadem vel majori facilitate
+            <lb ed="#P" n="8"/>ab illo reeuperetur. Deinde dico haereticum
+            <lb ed="#P" n="9"/>non esse procuratorem fisci, ut teneatur 
+            me<lb break="no" ed="#P" n="10"/>liori et optimo modo bona illa conservare, et
+            <lb ed="#P" n="11"/>ideo solum tenetur non agere fraudulenter;
+            <lb ed="#P" n="12"/>nam si in fraudem fisci illa bona alienaret,
+            <lb ed="#P" n="13"/>aut dissiparet, tunc ex e2 parte graviter 
+            pec<lb break="no" ed="#P" n="14"/>caret, tum quia directe ageret contra jus 
+            ac<lb break="no" ed="#P" n="15"/>quisitum a fisco; tum etiam quia ipsa leges
+            <lb ed="#P" n="16"/>directe hoc prohibent, ut latius refert Sancius,
+            <lb ed="#P" n="17"/>capit. 91, numer. 25 et 26, et capit. 29,
+            <lb ed="#P" n="18"/>ubi supra ; et Simanc., num. 56 et 57.
+          </p>
+          <p xml:id="szthvi-b37627-d1e3114">
+            <lb ed="#P" n="19"/>5. Tertia assertio. — Dico tertio : istae 
+            alie<lb break="no" ed="#P" n="20"/>nationes, quamvis licite fiant, sunt caducae et
+            <lb ed="#P" n="21"/>infirmae, quia semper possunt post sententiam
+            <lb ed="#P" n="22"/>latam a fisco retractari et annullari, 
+            quocum<lb break="no" ed="#P" n="23"/>que tempore factae sint post crimen 
+            commis<lb break="no" ed="#P" n="24"/>sum. Haec assertio est certa, et in ea 
+            conve<lb break="no" ed="#P" n="25"/>niunt omnes allegati in duabus opinionibus
+            <lb ed="#P" n="26"/>recitatis, et alii, quos allegat Sancius, d. cap.
+            <lb ed="#P" n="27"/>22, a num. 31. Et probatur ex dictis in sect.
+            <lb ed="#P" n="28"/>1, num. 5, ubi ostendimus hunc esse unum
+            <lb ed="#P" n="29"/>ex praecipuis effectibus, quos habet confiscatio
+            <lb ed="#P" n="30"/>ipso jure. Denique quia ostensum est, per
+            <lb ed="#P" n="31"/>confiscationem acquirere fiscum jus aliquod
+            <lb ed="#P" n="32"/>in re confiscata, quod est dominium, vel certe
+            <lb ed="#P" n="33"/>dominio aequivalet ; ergo ratione illius potest
+            <lb ed="#P" n="34"/>semper vindicare sibi talia bona. Unde hoc
+            <lb ed="#P" n="35"/>etiam probant leges supra citatae, dicentes
+            <lb ed="#P" n="36"/>tales alienationes esse invalidas, utique in
+            <lb ed="#P" n="37"/>praejudicium fisci, qui propterea semper illas
+            <lb ed="#P" n="38"/>invalidare potest; ita enim seepe in jure 
+            dici<lb break="no" ed="#P" n="39"/>tur donatio invalida, quae non est perfecta,
+            <lb ed="#P" n="40"/>sed retractari potest, ut sumitur ex leg. 1, et
+            <lb ed="#P" n="41"/>leg. Post contractum, ff. de Donationibus.
+          </p>
+          <p xml:id="szthvi-b37627-d1e3166">
+            <lb ed="#P" n="42"/>6. Eatensio lujus assertionis. — Unde 
+            ex<lb break="no" ed="#P" n="43"/>tenditur seu ampliatur assertio ut locum 
+            ha<lb break="no" ed="#P" n="44"/>beat, etiamsi bona fide emptor, verbi gratia,
+            <lb ed="#P" n="45"/>contrahat, omnino ignorans delictum 
+            vendi<lb break="no" ed="#P" n="46"/>toris; quia haec ignorantia non purgat vitium
+            <lb ed="#P" n="47"/>contractus, quod in re ipsa inest, et quia talis
+            <lb ed="#P" n="48"/>ignorantia non privat fiscum jure suo, ut 
+            la<lb break="no" ed="#P" n="49"/>tius, et allegando multa, tradit Sancius, d.
+            <lb ed="#P" n="50"/>cap. 22, num. 36. Aliqui etiam hoc extendunt
+            <lb ed="#P" n="51"/>ad contractus, seu alienationes factas ante
+            <lb ed="#P" n="52"/>tempus delicti, et proximum illi, quando 
+            prae<lb break="no" ed="#P" n="53"/>sumuntur factae dolo malo, et ad evitandam
+            <lb ed="#P" n="54"/>poenam, ut latissime tractat Sancius, d. cap.
+            <lb ed="#P" n="55"/>21 et 22; sed quicquid sit de aliis criminibus,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>jam supra notavi hoc vix aut nullo modo
+            <lb ed="#P" n="57"/>posse habere locum in peccato haeresis ; nemo
+            <lb ed="#P" n="58"/>enim potest per talem dolum alienare bona,
+            <lb ed="#P" n="59"/>nisi prius sit haereticus, saltem occultus. 
+            Prae<lb break="no" ed="#P" n="60"/>terquam quod illa poena fundatur in 
+            prae<lb break="no" ed="#P" n="61"/>sumptione, quae in foro conscientiae cessat,
+            <lb ed="#P" n="62"/>quando praesumptio non est veritati 
+            confor<lb break="no" ed="#P" n="63"/>mis; ut autem sit conformis, necessarium est
+            <lb ed="#P" n="64"/>ut praecesserit peccatum haeresis, saltem 
+            occul<lb break="no" ed="#P" n="65"/>tum per accidens.
+          </p>
+          <p xml:id="szthvi-b37627-d1e3223">
+            <lb ed="#P" n="66"/>7. Ejusdem assertionis limitatio. — Ad
+            <lb ed="#P" n="67"/>denda vero est limitatio, ut bona haec alienata
+            <lb ed="#P" n="68"/>possint revocari a quocumque possessore, et
+            <lb ed="#P" n="69"/>quovis tempore, nisi ad praescriptionem 
+            per<lb break="no" ed="#P" n="70"/>venerint. Quam limitationem Joan. Andr. et
+            <lb ed="#P" n="71"/>Archidiac. non admittunt, ut refert Rojas,
+            <lb ed="#P" n="72"/>singular. 18, in fine. Ipse vero dubitat. Sed
+            <lb ed="#P" n="73"/>nec dubitandum est [quia limitatio est 
+            morali<lb break="no" ed="#P" n="74"/>ter certa, et sumitur ex cap. ultim., S ult., de
+            <lb ed="#P" n="75"/>Praescript., in 6, et sentit Panorm., in c. Cum
+            <lb ed="#P" n="76"/>nobis, de Praescript.. num. 7; Covar., in 2,
+            <lb ed="#P" n="77"/>part. 4, cap. 6, 8 8, num. 10; Castro, lib. 2,
+            <lb ed="#P" n="78"/>de Justa haereticor. punit., capit. 4; Farinac.,
+            <lb ed="#P" n="79"/>citata quaest. 190. a num. 119, et late Sancius,
+            <lb ed="#P" n="80"/>dicto cap. 22, a num. 37, ubi explicant 
+            con<lb break="no" ed="#P" n="81"/>ditiones omnes ad hanc praescriptionem 
+            re<lb break="no" ed="#P" n="82"/>quisitas, quod magis ad materiam de Dominio
+            <lb ed="#P" n="83"/>et de Praescript. pertinet, de quibus videri
+            <lb ed="#P" n="84"/>etiam potest Molin., de Just., tom. 1, disp. 73,
+            <lb ed="#P" n="85"/>per totam. :
+          </p>
+          <p xml:id="szthvi-b37627-d1e3269">
+            <lb ed="#P" n="86"/>8. Circa eamdem assertionem dubium 
+            pri<lb break="no" ed="#P" n="87"/>muwn. bipartitum. — Prior pars resolvitur. —
+            <lb ed="#P" n="88"/>Circa modum autem servandum in 
+            rescin<lb break="no" ed="#P" n="89"/>dendis his contractibus, seu recuperandis 
+            bo<lb break="no" ed="#P" n="90"/>nis, ab illis qui ab haereticis illa acceperunt,
+            <lb ed="#P" n="91"/>immediate vel mediate, tria dubia breviter
+            <lb ed="#P" n="92"/>explicanda supersunt. Primum est, an illa
+            <lb ed="#P" n="93"/>bona auferenda sint, nihil omnino dando vel
+            <lb ed="#P" n="94"/>relinquendo possidenti. In quo aliter 
+            loquen<lb break="no" ed="#P" n="95"/>dum est, quando alienatio fnit mere liberalis,
+            <lb ed="#P" n="96"/>vel quando fuit per contractum onerosum.
+            <lb ed="#P" n="97"/>Nam in priori casu omnino auferuntur bona a
+            <lb ed="#P" n="98"/>possidente, nihil illi dando, vel ex illis 
+            relin<lb break="no" ed="#P" n="99"/>quendo, si rigore justitiae fiscus uti velit. Ita
+            <lb ed="#P" n="100"/>docent omnes, et ratio est manifesta; quia
+            <lb ed="#P" n="101"/>tunc possessor accepit illa bona sine ullis 
+            ex<lb break="no" ed="#P" n="102"/>pensis, vel alio onere suo, ut supponitur, et
+            <lb ed="#P" n="103"/>illa omnia sunt obligata fisco; ergo et habet
+            <lb ed="#P" n="104"/>jus ad omnia recuperanda, et nullus est 
+            titu<lb break="no" ed="#P" n="105"/>lus quo ad aliquod possidenti tribuendum
+            <lb ed="#P" n="106"/>obligetur.
+          </p>
+          <p xml:id="szthvi-b37627-d1e3318">
+            <lb ed="#P" n="107"/>9. Posterior subdistinguitur. — Quando
+            <lb ed="#P" n="108"/>vero bona transierunt ad alium per 
+            contrac<lb break="no" ed="#P" n="109"/>tum onerosum, subdistinguendum est : nam
+            <lb ed="#P" n="110"/>si pretium, verbi gratia, propter quod vendita
+            <pb ed="#P" n="569"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>est domus, invenitur inter bona haeretici, qui
+            <lb ed="#P" n="2"/>rem vendidit, formaliter, vel aequivalenter,
+            <lb ed="#P" n="3"/>restituendum est emptori, quia illud accrevit
+            <lb ed="#P" n="4"/>bonis haeretici, et substitutum est loco rei 
+            ven<lb break="no" ed="#P" n="5"/>ditae; ergo reddendum est emptori, si re empta
+            <lb ed="#P" n="6"/>privetur, quia nullus superest titulus justus
+            <lb ed="#P" n="7"/>damnificandi illum in pretio. Et in hoc etiam
+            <lb ed="#P" n="8"/>omnes conveniunt. Dixi autem formaliter, vel
+            <lb ed="#P" n="9"/>equivalenter ; nam, hcet pretium sit 
+            con<lb break="no" ed="#P" n="10"/>sumptum, si tamen ex illo hareticus factus
+            <lb ed="#P" n="11"/>est ditior, vel quia emit rem aliam, vel quia
+            <lb ed="#P" n="12"/>solvit justa debita, vel quia ex illo emit 
+            neces<lb break="no" ed="#P" n="13"/>saria ad vitam, et alios redditus sibi 
+            conser<lb break="no" ed="#P" n="14"/>vavit, in his et similibus persolvendum est
+            <lb ed="#P" n="15"/>pretium emptori, quia moraliter perinde est
+            <lb ed="#P" n="16"/>habere pretium, vel aestimationem ejus. 
+            Exis<lb break="no" ed="#P" n="17"/>timo tamen in hujusmodi eventu liberum esse
+            <lb ed="#P" n="18"/>fiseo non rescindere contractum, si velit, quia
+            <lb ed="#P" n="19"/>fuit validus, ut supra dixi; et posse illum
+            <lb ed="#P" n="20"/>rescindere, est quasi privilegium fisci, et ideo
+            <lb ed="#P" n="21"/>potest illo non uti, si velit. At vero si prctium
+            <lb ed="#P" n="22"/>nullo modo extat inter bona haeretici, fiscus
+            <lb ed="#P" n="23"/>potest recuperare bona vendita, nullo 
+            resti<lb break="no" ed="#P" n="24"/>tuto pretio. Ita docent omnes auctores supra
+            <lb ed="#P" n="25"/>citati, et specialiter videri potest Tiraquel., in
+            <lb ed="#P" n="26"/>l. Si unquam, paragr. Eevertatur, num. 267,
+            <lb ed="#P" n="27"/>c. de Revocandis donat. ; et Gregor. Lop., in
+            <lb ed="#P" n="28"/>l. 4, titul. 2, partit. 7, gloss. 2; et Simancas,
+            <lb ed="#P" n="29"/>dicto titul. 9, num. 27. Et ratio est, quia bona
+            <lb ed="#P" n="30"/>illa antea erant obligata fisco, quam emptor
+            <lb ed="#P" n="31"/>aliquod jus in illa acquireret ; ergo transierunt
+            <lb ed="#P" n="32"/>cum onere suo; ergo ratione illius potest 
+            fis<lb break="no" ed="#P" n="33"/>cus illa recuperare, ubicumque illa invenerit,
+            <lb ed="#P" n="34"/>nec tenetur pretium reddere, quia neque illud
+            <lb ed="#P" n="35"/>accepit, neque inter bona sibi obligata invenit.
+            <lb ed="#P" n="36"/>Et confirmatur, quia venditor non potuit 
+            ma<lb break="no" ed="#P" n="37"/>jus jus transferre in emptorem, quam ipse
+            <lb ed="#P" n="38"/>habebat; sed apud ipsum bona illa semper
+            <lb ed="#P" n="39"/>erant subjecta fisco quoad recuperationem 
+            illo<lb break="no" ed="#P" n="40"/>rum, nullo pretio, vel aestimatione data; ergo
+            <lb ed="#P" n="41"/>eodem modo possidentur ab emptore. Aliqui
+            <lb ed="#P" n="42"/>vero hoc limitant : Nisi emptor bona fide
+            <lb ed="#P" n="43"/>emerit. Sed non est admittenda limitatio, tum
+            <lb ed="#P" n="44"/>quia bona fides non purgat vitium rei; tum
+            <lb ed="#P" n="45"/>etiam quia emptor non privatur pretio propter
+            <lb ed="#P" n="46"/>aliquod delictum, quod bona ilia emendo 
+            com<lb break="no" ed="#P" n="47"/>miserit, sed solum quia pretium illud 
+            con<lb break="no" ed="#P" n="48"/>sumptum est sine culpa, vel utilitate fisci.
+          </p>
+          <p xml:id="szthvi-b37627-d1e3438">
+            <lb ed="#P" n="49"/>10. Secundum dubium resolvitur. — 
+            Secun<lb break="no" ed="#P" n="50"/>dum dubium est, an ista bona recuperentur a
+            <lb ed="#P" n="51"/>fisco cum quolibet augmento in eis facto, seu
+            <lb ed="#P" n="52"/>cum meliorationibus, ut juristae loquuntur.
+            <lb ed="#P" n="53"/>Ad quod breviter dicendum est duplex posse
+            <lb ed="#P" n="54"/>esse hoc augmentum: unum, quod sine 
+            in<lb break="no" ed="#P" n="55"/>dustria vel expensis possidentis, solo veluti
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>cursu rerum provenit, ut si contingat terram
+            <lb ed="#P" n="57"/>fier1 majoris aestimationis, vel ex raritate 
+            si<lb break="no" ed="#P" n="58"/>milium possessionum, vel ex multitudine
+            <lb ed="#P" n="59"/>emptorum, vel alia simili causa; aliud vero
+            <lb ed="#P" n="60"/>est augmentum, quod fit opera et expensis
+            <lb ed="#P" n="61"/>possidentis, ut si reficiatur domus, vel 
+            augea<lb break="no" ed="#P" n="62"/>tur. De priori augmento dicendum est, totum
+            <lb ed="#P" n="63"/>cedere in jus seu debitum fisci, et ideo 
+            recu<lb break="no" ed="#P" n="64"/>perari ab illo posse, nulla compensatione
+            <lb ed="#P" n="65"/>facta ; sicut e contrario si res fuisset hoc modo
+            <lb ed="#P" n="66"/>diminuta, eodem tantum modo posset a fisco
+            <lb ed="#P" n="67"/>recuperari. Et declaratur, quia jus fisci est
+            <lb ed="#P" n="68"/>dominium directum, vel illi aequivalens; res
+            <lb ed="#P" n="69"/>autem, quando per se et quasi naturaliter
+            <lb ed="#P" n="70"/>augetur, domino crescit. At vero aliud 
+            aug<lb break="no" ed="#P" n="71"/>mentum licet recupcrari debeat a fisco,
+            <lb ed="#P" n="72"/>quando non potest a re separari, debet tamen
+            <lb ed="#P" n="73"/>valorem solvere, quia confiscatio ad illud 
+            aug<lb break="no" ed="#P" n="74"/>mentum non extenditur, neque est cur 
+            pos<lb break="no" ed="#P" n="75"/>sessor bonis expensis in illo augmento 
+            pri<lb break="no" ed="#P" n="76"/>vetur. Dices: ergo si ex negligentia possidentis
+            <lb ed="#P" n="77"/>bona illa diminuantur, poterit fiscus 
+            aestima<lb break="no" ed="#P" n="78"/>tionem ab illo repetere. Respondeo: si mala
+            <lb ed="#P" n="79"/>fide processit, sciens illa bona esse confiscata,
+            <lb ed="#P" n="80"/>et ideo circa illa negligenter se gerens, 
+            con<lb break="no" ed="#P" n="81"/>cedo sequelam, quia fuiti cum scientia 
+            detri<lb break="no" ed="#P" n="82"/>menti bouorum fisci. Si autem bona fide 
+            pro<lb break="no" ed="#P" n="83"/>cessit, tractando rem illam tanquam omnino
+            <lb ed="#P" n="84"/>suam, cogi non pctest, quia nec titulo rei 
+            ac<lb break="no" ed="#P" n="85"/>ceptae, nec titulo injustae acceptionis ad illam
+            <lb ed="#P" n="86"/>restitutionem tenetur.
+          </p>
+          <p xml:id="szthvi-b37627-d1e3525">
+            <lb ed="#P" n="87"/>11. Tertium dubium - an fructus quoque 
+            bo<lb break="no" ed="#P" n="88"/>norum haeeretici recuperentur a fisco, si extant.
+            <lb ed="#P" n="89"/>— Tertium dubium est, an fiscus recuperet
+            <lb ed="#P" n="90"/>bona cum fructibus qui ex illis provenerunt, a
+            <lb ed="#P" n="91"/>crimine commisso usque ad seutentiam. In quo
+            <lb ed="#P" n="92"/>puncto imprimis supponendum est, hos 
+            fruc<lb break="no" ed="#P" n="93"/>tus, per se loquendo esse confiscatos, quia 
+            in<lb break="no" ed="#P" n="94"/>ter bona haeretici post crimen commissum 
+            ac<lb break="no" ed="#P" n="95"/>quisita computantur. Ita ex professo docet
+            <lb ed="#P" n="96"/>Tello Fernandez, in l. 4; Taur., num. 45; et
+            <lb ed="#P" n="97"/>sequitur Simanc., supra; et Vasquez, 1. 2,
+            <lb ed="#P" n="98"/>disp. 172., cap. 1; Farinac., de Haeresi, q. 190,
+            <lb ed="#P" n="99"/>num. 19 et 80; et sumitur ex Covarr., in2, 4
+            <lb ed="#P" n="100"/>p.. cap. 6, S8 8, num. 8, et ex aliis auctoribus
+            <lb ed="#P" n="101"/>qui idem dicunt de fructibus beneficii, ut 
+            vi<lb break="no" ed="#P" n="102"/>dere licet in Sanc., d. lib. 2, c. 26, n. 10. 
+            Un<lb break="no" ed="#P" n="103"/>de colligitur, si fructus illi extent, vel 
+            forma<lb break="no" ed="#P" n="104"/>liter, vel aequivalenter, inter bona ultimi 
+            pos<lb break="no" ed="#P" n="105"/>sessoris, quando fit bonorum publicatio et 
+            exe<lb break="no" ed="#P" n="106"/>cutio, quia nimirum ex illis factus est ditior,
+            <lb ed="#P" n="107"/>recuperandos esse a fisco. Ita docent omnes. Et
+            <lb ed="#P" n="108"/>ratio est, quia sicut procedunt ex re 
+            confisca<lb break="no" ed="#P" n="109"/>ta, et sub ea ratione aliena, ita cum eodem
+            <lb ed="#P" n="110"/>onere nascuntur. lItem quia regula generalis
+            <pb ed="#P" n="570"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>est, possessorem rei alienae teneri ad 
+            restituen<lb break="no" ed="#P" n="2"/>dum omnes fructus, praesertim si ex illis 
+            fac<lb break="no" ed="#P" n="3"/>tus est ditior. De quo principio videri potcest
+            <lb ed="#P" n="4"/>Covar., in regul. Peccat., 3 p., in principio.
+            <lb ed="#P" n="5"/>Denique quia si haereticus ipse fructus illos 
+            ac<lb break="no" ed="#P" n="6"/>cepisset, essent obligati publicationi, et 
+            reven<lb break="no" ed="#P" n="7"/>dicationi fisci ; ergo idem est de quocumque
+            <lb ed="#P" n="8"/>possessore, quia haereticus, ut dixi, non 
+            po<lb break="no" ed="#P" n="9"/>test majus jus illi conferre, quam ipse habet.
+          </p>
+          <p xml:id="szthvi-b37627-d1e3603">
+            <lb ed="#P" n="10"/>19. Resolutio quoad fructus quoque 
+            bo<lb break="no" ed="#P" n="11"/>na cum mala fide.— Difficultas vero est, quando
+            <lb ed="#P" n="12"/>fructus omnino sunt consumpti, et possidens
+            <lb ed="#P" n="13"/>bonanonest ex illis factus ditior; tunc est 
+            dis<lb break="no" ed="#P" n="14"/>tinctione utendum, ut dicti auctores notant;
+            <lb ed="#P" n="15"/>nam vel ille consumpsit bona fide, vel mala :
+            <lb ed="#P" n="16"/>si bona, nihil tenetur restituere juxta 
+            commu<lb break="no" ed="#P" n="17"/>nem doctrinam de bonis alienis. de qua videri
+            <lb ed="#P" n="18"/>potest Covar., lib. 1 Var., cap. 3, n. 6 et 7; et
+            <lb ed="#P" n="19"/>ratio est, quia tunc nec obligatio restituendi
+            <lb ed="#P" n="20"/>nascitur ex re accopta, quia non extat; nec
+            <lb ed="#P" n="21"/>ex injusta acceptione, quia supponitur sine
+            <lb ed="#P" n="22"/>peccato consumpta. Igitur nec fiscus potest in
+            <lb ed="#P" n="23"/>eo casu fructus repetere, quia non potest ab
+            <lb ed="#P" n="24"/>alio exigere quod ille dare non tenetur. At
+            <lb ed="#P" n="25"/>vero si possessor consumpsit fructus mala fide,
+            <lb ed="#P" n="26"/>repeti possunt propter injustam 
+            acceptio<lb break="no" ed="#P" n="27"/>nem.
+          </p>
+          <p xml:id="szthvi-b37627-d1e3645">
+            <lb ed="#P" n="28"/>13. Quid in hoc casu requiratur ad bonam
+            <lb ed="#P" n="29"/>vel malam fidem. — Verior responsio. — 
+            Sta<lb break="no" ed="#P" n="30"/>tim vero interrogandum occurrit, quando
+            <lb ed="#P" n="31"/>censendus sit aliquis babere bonam fidem, vel
+            <lb ed="#P" n="32"/>quid in hoc casu sufficiat, ut in mala fide
+            <lb ed="#P" n="33"/>constituatur. Nam Simanc., dicto tit. 9, num.
+            <lb ed="#P" n="34"/>58, quem sequitur Vasquez, putat 
+            necessa<lb break="no" ed="#P" n="35"/>rium esse ad illam bonam fidem, ut possidens
+            <lb ed="#P" n="36"/>ignoret delictum haeretici, ac proinde, eo
+            <lb ed="#P" n="37"/>ipso quod scit tale delictum, et consequenter
+            <lb ed="#P" n="38"/>bona esse confiscata, constitui malae fidei
+            <lb ed="#P" n="39"/>possessorem, ac proinde teneri ad resti--
+            <lb ed="#P" n="40"/>tuendos fructus, etiamsi consumpti sint, et
+            <lb ed="#P" n="41"/>ex illis non sit factus ditior. Et potest hoc
+            <lb ed="#P" n="42"/>suaderi, quia supra diximus, hoc modo esse
+            <lb ed="#P" n="43"/>necessariam bonam fidem ad praescriptionem
+            <lb ed="#P" n="44"/>horum bonorum; ergo idem erit in 
+            prae<lb break="no" ed="#P" n="45"/>senti. Nihilominus existimo scientiam 
+            de<lb break="no" ed="#P" n="46"/>licti ejus, qui bona tradidit, non satis esse
+            <lb ed="#P" n="47"/>ad constituendum in mala fide possessorem
+            <lb ed="#P" n="48"/>talium bonorum, quantum ad praesentem 
+            ca<lb break="no" ed="#P" n="49"/>sum attinet. Probatur, quia ipsemet 
+            haereti<lb break="no" ed="#P" n="50"/>cus bona fide possidet sua bona, quandiu 
+            con<lb break="no" ed="#P" n="51"/>tra ipsum non fertur sententia, etiamsi et sui
+            <lb ed="#P" n="52"/>delicti et confiscationis conscius sit; ergo
+            <lb ed="#P" n="53"/>etiam ille, cui donavit aut vendidit talia bona,
+            <lb ed="#P" n="54"/>bona fide possidet, etiamsi sciat delictum 
+            do<lb break="no" ed="#P" n="55"/>nantis aut vendentis. Probatur consequentia,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>quia venditor transtulit in illum totum jus
+            <lb ed="#P" n="57"/>quod in talia bona habebat, et prout illud
+            <lb ed="#P" n="58"/>habebat ; ergo transtulit jus possidendi usque
+            <lb ed="#P" n="59"/>ad sententiam; ergo jure possidet, ac proinde
+            <lb ed="#P" n="60"/>bona fide.Unde quod ad possessionem attinet,
+            <lb ed="#P" n="61"/>non dubito quin hoc sufficiat ad bonam fidem.
+            <lb ed="#P" n="62"/>Et consequenter de consumptione fructuum
+            <lb ed="#P" n="63"/>assero, si absque peccato fiat, bona fide fieri,
+            <lb ed="#P" n="64"/>etiamsi delictum alterius non ignoretur. 
+            Po<lb break="no" ed="#P" n="65"/>terit autem fieri sine peccato, si non fiat in
+            <lb ed="#P" n="66"/>fraudem et detrimentum fisci, sed ad vitam
+            <lb ed="#P" n="67"/>sustentandam, vel ad aliam humanam 
+            com<lb break="no" ed="#P" n="68"/>moditatem ; tunc enim non facit injuriam 
+            fi<lb break="no" ed="#P" n="69"/>sco ille possessor bonae fidei, cum jure suo
+            <lb ed="#P" n="70"/>utatur. Et hinc fit consequenter ut non 
+            tenea<lb break="no" ed="#P" n="71"/>tur restituere illos fructus, nec ratione injustae
+            <lb ed="#P" n="72"/>acceptionis, cum non peccaverit contra 
+            justi<lb break="no" ed="#P" n="73"/>tiam talia bona consumendo, nec ratione rei
+            <lb ed="#P" n="74"/>acceptae, quia non extant, ut supponitur. 
+            Se<lb break="no" ed="#P" n="75"/>cus vero esset si injuste et fraudulenter illos
+            <lb ed="#P" n="76"/>fructus dissiparet, nam tunc merito pos sent
+            <lb ed="#P" n="77"/>ab illo recuperari. Neque est simile de 
+            praes<lb break="no" ed="#P" n="78"/>criptione ; nam prescriptio est beneficium a
+            <lb ed="#P" n="79"/>lege concessum, et in praesenti materia 
+            specia<lb break="no" ed="#P" n="80"/>liter factum est sub illa conditione, ut bene
+            <lb ed="#P" n="81"/>notavit Sancius, cap. 22, num. 41, et ideo non
+            <lb ed="#P" n="82"/>est extendenda illa conditio ad alios effectus,
+            <lb ed="#P" n="83"/>ad quos ex natura rei et ex vi justitiae 
+            neces<lb break="no" ed="#P" n="84"/>saria non est.
+          </p>
+        </div>
+        <div xml:id="szthvi-b37627-Dd1e3774">
+          <head xml:id="szthvi-b37627-Hd1e3776">Sectio 5</head>
+          <head xml:id="szthvi-b37627-Hd1e3778" type="question-title">Quae bona haeretici sub confiscatione comprehendantur</head>
+          <p xml:id="szthvi-b37627-d1e3781">
+            <lb ed="#P" n="85"/>SECTIO V.
+            <lb ed="#P" n="86"/>Quae bona haeretici sub confiscatione 
+            compre<lb break="no" ed="#P" n="87"/>hendantur.
+          </p>
+          <p xml:id="szthvi-b37627-d1e3790">
+            <lb ed="#P" n="88"/>De hoc puncto multa scribunt jurisperiti,
+            <lb ed="#P" n="89"/>moventes plures quaestiones, quae vel ad 
+            mate<lb break="no" ed="#P" n="90"/>riam de dominio, vel ad forum tantum 
+            exter<lb break="no" ed="#P" n="91"/>num pertinent, quas summatim attingit 
+            Si<lb break="no" ed="#P" n="92"/>manc., dicto tit. 9, per totum; et Anton. 
+            Go<lb break="no" ed="#P" n="93"/>mez, lib. 3 Variar., cap. 4, et ex illis Vasquez,
+            <lb ed="#P" n="94"/>1. 2, disput. 169 et secquentibus; et multo 
+            co<lb break="no" ed="#P" n="95"/>piosius Sancius, dicto libro 2, a cap. 14, per
+            <lb ed="#P" n="96"/>multa; et Farinac., tota quaest. 190. Nos 
+            au<lb break="no" ed="#P" n="97"/>tem, et brevitati et utilitati consulentes, per
+            <lb ed="#P" n="98"/>breves regulas, et nonnullas illationes et 
+            exem<lb break="no" ed="#P" n="99"/>pla rem totam expcdiemus.
+          </p>
+          <p xml:id="szthvi-b37627-d1e3819">
+            <lb ed="#P" n="100"/>1. Prima assertio. — Ejus ratio. — 
+            Confir<lb break="no" ed="#P" n="101"/>matur ex leg. Si ademptis.—bDico ergo primo:
+            <lb ed="#P" n="102"/>quod attinet ad bonorum qualitatem vel 
+            quan<lb break="no" ed="#P" n="103"/>titatem, nulla specialis conditio postulatur ad
+            <lb ed="#P" n="104"/>hujusmodi confiscationem, ita ut per se ad
+            <lb ed="#P" n="105"/>haec bona potius quam ad illa limitetur, sed
+            <lb ed="#P" n="106"/>simpliciter omnia bona confiscantur, sive sint
+            <lb ed="#P" n="107"/>immobilia, sive mobilia, aut se moventia, aut
+            <pb ed="#P" n="571"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>jura, vel actiones. Ita docent omnes auctores.
+            <lb ed="#P" n="2"/>Et ratio est, quia licet de his bonis, quando
+            <lb ed="#P" n="3"/>cum aliquo addito in lege vel in testamento
+            <lb ed="#P" n="4"/>nominantur, verum sit quod ratione additi
+            <lb ed="#P" n="5"/>fieri solet limitatio, ut si quis testamento leget
+            <lb ed="#P" n="6"/>bona mobilia, non mandat immobilia, vel e
+            <lb ed="#P" n="7"/>contrario, nihilominus quando le? absolute
+            <lb ed="#P" n="8"/>disponit de bonis sine limitatione, omnia bona
+            <lb ed="#P" n="9"/>comprehendit. Quod quidem fiet expressius,
+            <lb ed="#P" n="10"/>si signum distributivum, omnia, addatur ; in
+            <lb ed="#P" n="11"/>rigore tamen sufficiet, si indefinite de bonis
+            <lb ed="#P" n="12"/>loquatur; tum quia non est major ratio de his
+            <lb ed="#P" n="13"/>quam de illis bonis, et ideo ut dispositio legis
+            <lb ed="#P" n="14"/>sit certa, sicut esse debet, necesse est ut omnia
+            <lb ed="#P" n="15"/>comprehendat ; tum etiam quia in sermone
+            <lb ed="#P" n="16"/>doctrinali vel dispositivo, indefinitum 
+            aequi<lb break="no" ed="#P" n="17"/>valet universali. At vero in praesenti materia
+            <lb ed="#P" n="18"/>bona haereticorum absolute confiscantur, in
+            <lb ed="#P" n="19"/>dicto cap. Cum secundum leges, et in legibus
+            <lb ed="#P" n="20"/>quae in ipso allegantur, vel eodem modo, vel
+            <lb ed="#P" n="21"/>interdum etiam addita distributione fit 
+            confis<lb break="no" ed="#P" n="22"/>catio; ergo simpliciter extenditur ad omnia
+            <lb ed="#P" n="23"/>bona. Et confirmari hoc potest ex lege S 
+            ad<lb break="no" ed="#P" n="24"/>emptis, c. de Sententiam passis, in qua dicitur,
+            <lb ed="#P" n="25"/>ablatis bonis per sententiam, auferri etiam
+            <lb ed="#P" n="26"/>actiones, ac proinde actiones sub bonis 
+            com<lb break="no" ed="#P" n="27"/>prehendi; eadem ergo ratio est de qualibet
+            <lb ed="#P" n="28"/>alia bonorum specie.
+          </p>
+          <p xml:id="szthvi-b37627-d1e3905">
+            <lb ed="#P" n="29"/>2. Secunda assertio. — Ostenditur ratione.
+            <lb ed="#P" n="30"/>— Declaratur eaemplis. — Dico secundo : ex
+            <lb ed="#P" n="31"/>parte haeretici habentis talia bona, 
+            necessa<lb break="no" ed="#P" n="32"/>rium est ut tempore delicti fuerint sua, 
+            pro<lb break="no" ed="#P" n="33"/>priumque jus in illa habuerit, vel saltem ut
+            <lb ed="#P" n="34"/>post delictum et ante sententiam illa dicto
+            <lb ed="#P" n="35"/>modo obtinuerit. In hoc etiam omnes 
+            conve<lb break="no" ed="#P" n="36"/>niunt. Et ratio clara est, quia lex non 
+            confis<lb break="no" ed="#P" n="37"/>cat bona aliena, sed propria ejus qui delinquit;
+            <lb ed="#P" n="38"/>ergo quae talia non fuerint, non confiscantur.
+            <lb ed="#P" n="39"/>Dictum est etiam supra confiscationem non
+            <lb ed="#P" n="40"/>extendi ad bona acquirenda post sententiam,
+            <lb ed="#P" n="41"/>comprehendere autem totum tempus a 
+            com<lb break="no" ed="#P" n="42"/>misso crimine usque ad sententiam; ergo 
+            in<lb break="no" ed="#P" n="43"/>tra illud necesse est et sufficit, quod bona 
+            fue<lb break="no" ed="#P" n="44"/>rint ipsius haeretici propria. Deinde declaratur
+            <lb ed="#P" n="45"/>nonnullis exemplis : nam si haereticus ante
+            <lb ed="#P" n="46"/>commissum crimen, absolute et simpliciter
+            <lb ed="#P" n="47"/>donavit aliquid de bonis suis alteri, quamvis
+            <lb ed="#P" n="48"/>postea incidat in haeresim, illud non 
+            confisca<lb break="no" ed="#P" n="49"/>tur, quia jam non est in bonis ejus, et quod
+            <lb ed="#P" n="50"/>fuerit parum refert. Dixi autem, si absolute et
+            <lb ed="#P" n="51"/>simpliciter donavit, quia si donatio facta sit
+            <lb ed="#P" n="52"/>tantum sub conditione, et conditio non fuit
+            <lb ed="#P" n="53"/>impleta ante delictum, quamvis postea 
+            im<lb break="no" ed="#P" n="54"/>pleatur, bona sic donata confiscata manent,
+            <lb ed="#P" n="55"/>quia donatio sub conditione non est donatio
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>simpliciter, nec transfert dominium, ut 
+            con<lb break="no" ed="#P" n="57"/>stat ex l. 1, ff. de Donat., donec impleatur
+            <lb ed="#P" n="58"/>conditio; per haeresim autem ablata est 
+            potes<lb break="no" ed="#P" n="59"/>tas transferendi dominium absolutum, et a
+            <lb ed="#P" n="60"/>confiscatione liberum, et ideo confiscatio circa
+            <lb ed="#P" n="61"/>talia bona locum habet. Idem est si donatio
+            <lb ed="#P" n="62"/>facta fuit non simpliciter inter vivos, sed 
+            cau<lb break="no" ed="#P" n="63"/>sa mortis; nam illa etiam non est perfecta 
+            do<lb break="no" ed="#P" n="64"/>natio, nec transfert dominium, imo revocari
+            <lb ed="#P" n="65"/>semper potest ante mortem; et ideo sic donata
+            <lb ed="#P" n="66"/>sub donatis sub conditione comprehenduntur,
+            <lb ed="#P" n="67"/>et post mortem haeretici, etiam a fisco 
+            repe<lb break="no" ed="#P" n="68"/>tentur. Ita Simancas, numer. 9; Farinacius,
+            <lb ed="#P" n="69"/>dicta quaestione 190, paragr. 1, numero 
+            duo<lb break="no" ed="#P" n="70"/>decimo, et alii, et sumitur ex leg. 1, cum
+            <lb ed="#P" n="71"/>multis aliis de Donationibus causa mortis. Et
+            <lb ed="#P" n="72"/>ex dicendis amplius hoc confirmabitur.
+          </p>
+          <p xml:id="szthvi-b37627-d1e4005">
+            <lb ed="#P" n="73"/>3. Tertia assertio fere communis. — Huic
+            <lb ed="#P" n="74"/>assertioni repugnat Sauc. — Inpugnatur, et
+            <lb ed="#P" n="75"/>satisfit illius fundamento. — Dico tertio: 
+            om<lb break="no" ed="#P" n="76"/>nia bona quae transferri possunt ad haeredes
+            <lb ed="#P" n="77"/>extraneos cadunt sub confiscationem. Ita 
+            do<lb break="no" ed="#P" n="78"/>cct Julius Clarus, in Paragr. ult., quaest. 79,
+            <lb ed="#P" n="79"/>num. 7, et ibi alios refert, imo fere omnes
+            <lb ed="#P" n="80"/>auctores hac regula utuntur. Et ratio ejus est,
+            <lb ed="#P" n="81"/>quia potestas transferendi bona ad 
+            quoscum<lb break="no" ed="#P" n="82"/>que haeredes, etiam extraneos, est signum 
+            ab<lb break="no" ed="#P" n="83"/>soluti dominii et proprietatis talium bonorum ;
+            <lb ed="#P" n="84"/>dictum est autem omnia bona propria 
+            haere<lb break="no" ed="#P" n="85"/>tici confiscari; ergo confiscantur omnia, de
+            <lb ed="#P" n="86"/>quibus testari potest. Hanc vero regulam 
+            afftir<lb break="no" ed="#P" n="87"/>mativam aliqui non admittunt, quos refert et 
+            se<lb break="no" ed="#P" n="88"/>quitur Sanc.,d.c.14,n.5. Fundatur, quia fiscus
+            <lb ed="#P" n="89"/>non est haeres; ergo non fit bonum 
+            argumen<lb break="no" ed="#P" n="90"/>tum ab haerede ad fiscum, quia a diversis non
+            <lb ed="#P" n="91"/>fit illatio. Sed nihilominus reliqui Doctores
+            <lb ed="#P" n="92"/>citati, et citandi passim, illa regula utuntur,
+            <lb ed="#P" n="93"/>et non est facile assignare exempla in quibus
+            <lb ed="#P" n="94"/>deficiat, neque dicti auctores aliquod 
+            indu<lb break="no" ed="#P" n="95"/>cunt. Ratio etiam a nobis facta mihi videtur
+            <lb ed="#P" n="96"/>efficax, et illa facile solvitur ratio in 
+            contra<lb break="no" ed="#P" n="97"/>rium facta ; nam licet fiscus non sit haeres, 
+            po<lb break="no" ed="#P" n="98"/>test aequipollere et quasi adaequate substitui
+            <lb ed="#P" n="99"/>loco haeredis. Et quamvis a diversis, ut diversa
+            <lb ed="#P" n="100"/>sunt, non fiat illatio, tamen, ut in aliquo 
+            con<lb break="no" ed="#P" n="101"/>veniunt, fieri potest; vel, licet non fiat per
+            <lb ed="#P" n="102"/>locum intrinsecum, ut aiunt, id est, ut acausa
+            <lb ed="#P" n="103"/>vel ab effectu, potest fieri per locum aliquem
+            <lb ed="#P" n="104"/>extrinsecum; et ita fit in praesenti quasi a 
+            si<lb break="no" ed="#P" n="105"/>gno, quia potestas transferendi in haeredem
+            <lb ed="#P" n="106"/>extraneum est signum sufficientis dominii et
+            <lb ed="#P" n="107"/>proprietatis circa talem rem, ut propterea sub
+            <lb ed="#P" n="108"/>confiscationem cadat; denique quia alias nec
+            <lb ed="#P" n="109"/>regula negativa esset admittenda, quia etiam
+            <lb ed="#P" n="110"/>in illa inter eadem fit illatio; consequens au-
+            <pb ed="#P" n="572"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>tem ab illis auctoribus non admittitur, ut
+            <lb ed="#P" n="2"/>jam videbimus.
+          </p>
+          <p xml:id="szthvi-b37627-d1e4099">
+            <lb ed="#P" n="3"/>4. Quarta assertio. — Limitatur assertio.—
+            <lb ed="#P" n="4"/>Dico ergo quarto: bona quae non 
+            transferun<lb break="no" ed="#P" n="5"/>tur ad haeredes extraneos, non confiscantur.
+            <lb ed="#P" n="6"/>Tta docet Julius Clarus, ubi supra, et admittunt
+            <lb ed="#P" n="7"/>Sanc., et alii quos allegat. Et optime Gigas,
+            <lb ed="#P" n="8"/>in tract. de Crim. laes. majest., tit. de Pcenis
+            <lb ed="#P" n="9"/>ejusd. crim., q. 5et 6; et Penna in Director.,
+            <lb ed="#P" n="10"/>3 p., comment. 161; Farin., de Haeres., q. 190.
+            <lb ed="#P" n="11"/>Et ratio est supra assignata, et cum 
+            propor<lb break="no" ed="#P" n="12"/>tione applicata ; quia defectus potestatis 
+            trans<lb break="no" ed="#P" n="13"/>ferendi talia bona in extraneos est signum 
+            ca<lb break="no" ed="#P" n="14"/>rentia dominii vel limitationis, vel 
+            conditio<lb break="no" ed="#P" n="15"/>nis, sub qua data sunt illa bona, ut non 
+            pos<lb break="no" ed="#P" n="16"/>sint ad extraneos transire; cum ergo fiscus
+            <lb ed="#P" n="17"/>extraneus sit, etiam non possunt ad illum
+            <lb ed="#P" n="18"/>transire, quia non potest confiscare bona, nisi
+            <lb ed="#P" n="19"/>quatenus illius sunt qui delictum commisit. Ex
+            <lb ed="#P" n="20"/>hac vero ratione colligo declarationem regulae
+            <lb ed="#P" n="21"/>necessario adhibendam, scilicet, intelligendam
+            <lb ed="#P" n="22"/>esse de confiscatione perpetua, seu quae duret
+            <lb ed="#P" n="23"/>etiam post mortem haeretici, quia saepe bona,
+            <lb ed="#P" n="24"/>quae in morte non possunt transferri in 
+            haere<lb break="no" ed="#P" n="25"/>dem, quandiu vita durat, possunt alteri 
+            dona<lb break="no" ed="#P" n="26"/>ri, vel quoad possessionem et usum, vel etiam
+            <lb ed="#P" n="27"/>quoad usum fructuum. Et tunc poterunt 
+            ea<lb break="no" ed="#P" n="28"/>dem bona tali modo confiscari quoad illos 
+            ef<lb break="no" ed="#P" n="29"/>fectus ; et de facto applicantur fisco, quandiu
+            <lb ed="#P" n="30"/>haereticus vivit, licet post mortem ejus 
+            haere<lb break="no" ed="#P" n="31"/>dibus reddenda sint. Et ita docent dicti 
+            aucto<lb break="no" ed="#P" n="32"/>res in aliquibus exemplis, quorum nonnulla
+            <lb ed="#P" n="33"/>statim attingemus. Ratio vero efficax est, quia
+            <lb ed="#P" n="34"/>illa bona, durante vita, sunt haeretici, et pro
+            <lb ed="#P" n="35"/>eadem vita possunt transferri in extraneum
+            <lb ed="#P" n="36"/>per voluntatem ejusdem haeretici ; ergo 
+            quam<lb break="no" ed="#P" n="37"/>vis fiscus sit extraneus, transferentur in ipsum
+            <lb ed="#P" n="38"/>pro eadem vita, virtute legis.
+          </p>
+          <p xml:id="szthvi-b37627-d1e4180">
+            <lb ed="#P" n="39"/>5. Objectio diluitur. — Dices: jura 
+            persona<lb break="no" ed="#P" n="40"/>lia non confiscantur ullo modo, quia cum 
+            per<lb break="no" ed="#P" n="41"/>sona extinguuntur, ut est communis 
+            senten<lb break="no" ed="#P" n="42"/>tia, quam refert et sequitur Sancius, dicto
+            <lb ed="#P" n="43"/>cap. 14, num. 6; ergo etiam illa bona, quae
+            <lb ed="#P" n="44"/>tantum ad vitam durant, nullo modo 
+            confis<lb break="no" ed="#P" n="45"/>cabuntur, quia etiam personalia sunt. 
+            he<lb break="no" ed="#P" n="46"/>spondeo duobns modis posse jura vel bona
+            <lb ed="#P" n="47"/>dici personalia : primo, quia huic personae 
+            tan<lb break="no" ed="#P" n="48"/>tum committuntur, ut per se ipsam, et non
+            <lb ed="#P" n="49"/>per aliam, tali re aut jure uti vel frui possit.
+            <lb ed="#P" n="50"/>Hujusmodi est jus eligendi, quando tali 
+            per<lb break="no" ed="#P" n="51"/>sonae confertur, ita ut industria vel dignitas
+            <lb ed="#P" n="52"/>ejus postuletur ; item jus habitandi in hac 
+            do<lb break="no" ed="#P" n="53"/>mo soli personae concessum. Et de his et 
+            simi<lb break="no" ed="#P" n="54"/>libus verum est quod in antecedenti assumitur,
+            <lb ed="#P" n="55"/>nam talia jura non confiscantur. Et ratio est
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>eadem proportionaliter, quia talia jura neque
+            <lb ed="#P" n="57"/>in morte, neque in vita possunt in extraneam
+            <lb ed="#P" n="58"/>personam transferri. Alia vero sunt bona vel
+            <lb ed="#P" n="59"/>jura, quae, licet personalia dici possint, quia
+            <lb ed="#P" n="60"/>cum persona finiuntur, non tamen ita 
+            adhae<lb break="no" ed="#P" n="61"/>rent persona,, quin illa vivente possint aliis
+            <lb ed="#P" n="62"/>donari, ethaec dicimus posse cadere sub 
+            con<lb break="no" ed="#P" n="63"/>fiscationem (nisi aliud obstet,) pro vita 
+            delin<lb break="no" ed="#P" n="64"/>quentis. Unde ad tollendam aequivocationem
+            <lb ed="#P" n="65"/>possunt haec vocari bona vel jura vitalia, ut
+            <lb ed="#P" n="66"/>ab aliis pure personalibus distinguantur.
+          </p>
+          <p xml:id="szthvi-b37627-d1e4245">
+            <lb ed="#P" n="67"/>6. Assertio variis casibus eaplanatur. —
+            <lb ed="#P" n="68"/>Quinto, addendum est quaedam esse bona quae,
+            <lb ed="#P" n="69"/>licet ab haereticis in poenam auferantur, non 
+            ta<lb break="no" ed="#P" n="70"/>men proprie confiscantur, quia non 
+            applican<lb break="no" ed="#P" n="71"/>tur fisco, sed vel extinguuntur, vel ad 
+            legiti<lb break="no" ed="#P" n="72"/>mum et quasi necessarium successorem 
+            trans<lb break="no" ed="#P" n="73"/>eunt. Per quam regulam declarantur 
+            praece<lb break="no" ed="#P" n="74"/>dentes quoad aliquos particulares casus. 
+            Pri<lb break="no" ed="#P" n="75"/>mus esse potest, quem modo attigimus de 
+            ju<lb break="no" ed="#P" n="76"/>ribus pure personalibus, ut est, verbi gratia,
+            <lb ed="#P" n="77"/>jus eligendi; nam illo privatur haereticus, non
+            <lb ed="#P" n="78"/>per confiscationem, sed per extinctionem, seu
+            <lb ed="#P" n="79"/>ablationem. Secundus sit de dominio, quod
+            <lb ed="#P" n="80"/>aliquis habet in servum suum, nam per 
+            hae<lb break="no" ed="#P" n="81"/>resim perdit illud; servus tamen non 
+            confis<lb break="no" ed="#P" n="82"/>catur, sed omnino fit liber, quod in favorem
+            <lb ed="#P" n="83"/>libertatis concessum est in l. Manichaeos, Cod.
+            <lb ed="#P" n="84"/>de Haeret., et in <ref xml:id="szthvi-b37627-Rd1e4286">cap. ult. extra. de Haeret.</ref>,
+            <lb ed="#P" n="85"/>quod in eumdem favorem ampliatur, ut licet
+            <lb ed="#P" n="86"/>haereticus convertatur, et ex misericordia alia
+            <lb ed="#P" n="87"/>bona ei restituantur, servus maneat liber ;
+            <lb ed="#P" n="88"/>quia libertas semel recuperata non perditur
+            <lb ed="#P" n="89"/>sine nova culpa, ut bene declarat Simanc.,
+            <lb ed="#P" n="90"/>in tit. S'ervus, n. 9, de quo casu latius 
+            dispu<lb break="no" ed="#P" n="91"/>tant Molin., de Just., disp. 40; Sanc., lib. 2
+            <lb ed="#P" n="92"/>Decal., c. 24, a num. 9. Tertius casus est de
+            <lb ed="#P" n="93"/>jure patronatus, nam ordinarie transfertur
+            <lb ed="#P" n="94"/>cum bonis, seu haereditate cui adhaeret; 
+            ni<lb break="no" ed="#P" n="95"/>hilominus tamen quando bona confiscantur
+            <lb ed="#P" n="96"/>quibus jus patronatus adhaerebat, non transit
+            <lb ed="#P" n="97"/>cum illis, nec confiscatur, sed extinguitur in
+            <lb ed="#P" n="98"/>favorem Ecclesiae, ut ab illo onere libera 
+            ma<lb break="no" ed="#P" n="99"/>neat. Quod licet expresso jure non habeatur,
+            <lb ed="#P" n="100"/>consuetudine ita receptum esse citati in n. 4
+            <lb ed="#P" n="101"/>tradunt, et specialiter videri potest 
+            Lamber<lb break="no" ed="#P" n="102"/>tin., de Jure patronat., lib. 3, quaest. 8, per
+            <lb ed="#P" n="103"/>varios articulos; et Farinac. supra, a num. 24.
+            <lb ed="#P" n="104"/>Quartum exemplum addere possumus de 
+            pen<lb break="no" ed="#P" n="105"/>sionibus ecclesiasticis, de quibus fere nihil
+            <lb ed="#P" n="106"/>scriptum invenio in auctoribus qui de 
+            confis<lb break="no" ed="#P" n="107"/>catione scripserunt ; novissime prodiit Garcia,
+            <lb ed="#P" n="108"/>de Benefic., part. 11, c. 1C, a n. 77; et 
+            San<lb break="no" ed="#P" n="109"/>cius, lib. 2 Decalog., c. 28, n. 306, qui aliqua
+            <lb ed="#P" n="110"/>attigere. Ego vero, ex principiis supra positis,
+            <pb ed="#P" n="573"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>distinctione quadam utendum censeo ; nam
+            <lb ed="#P" n="2"/>de pensionibus loqui possumus, vel quoad
+            <lb ed="#P" n="3"/>fructus decursos vel obtentos ante 
+            senten<lb break="no" ed="#P" n="4"/>uam, vel quoad obtinendos post sententiam.
+            <lb ed="#P" n="5"/>De prioribus dicendum est confiscari, quia
+            <lb ed="#P" n="6"/>jam sunt bona propria ipsius haeretici, vel, si
+            <lb ed="#P" n="7"/>illa nondum obtinuit, jam proprium jus in
+            <lb ed="#P" n="8"/>illa acquisivit ; sicut euam fructus 
+            beneficio<lb break="no" ed="#P" n="9"/>rum jam acquisiti confiscantur, ut supra 
+            dic<lb break="no" ed="#P" n="10"/>tum est, et docent omnes. At vero quoad 
+            fruc<lb break="no" ed="#P" n="11"/>tus acquirendos post sententiam , non 
+            confis<lb break="no" ed="#P" n="12"/>catur pensio, neque etiam fructus cedunt in
+            <lb ed="#P" n="13"/>utilitatem haeretici, quandiü vivit, etiamsi
+            <lb ed="#P" n="14"/>absolutus sit, sed pensio ipsa extinguitur;
+            <lb ed="#P" n="15"/>nam licet proprie et in rigore beneficium non
+            <lb ed="#P" n="16"/>sit, in hoc aequiparatur beneficio, et sub illo
+            <lb ed="#P" n="17"/>nomine comprehenditur in favorem fidei, ut
+            <lb ed="#P" n="18"/>latius ostendit Gigas, de Pension., q. 52, n. 4,
+            <lb ed="#P" n="19"/>et q. 94, num. 7.
+          </p>
+          <p xml:id="szthvi-b37627-d1e4391">
+            <lb ed="#P" n="20"/>7. Assertio, confiscationem non fieri in 
+            dam<lb break="no" ed="#P" n="21"/>nwm tertii. — Ultimo ex dictis notari potest
+            <lb ed="#P" n="22"/>alia regula generalis in hac materia 
+            obser<lb break="no" ed="#P" n="23"/>vanda, et ad definiendos plures casus 
+            appli<lb break="no" ed="#P" n="24"/>canda: scilicet, confiscationem bonorum 
+            hae<lb break="no" ed="#P" n="25"/>retici ita esse faciendam, ut in damnum 
+            alte<lb break="no" ed="#P" n="26"/>rius tertii innocentis per se non cedat. Ita 
+            do<lb break="no" ed="#P" n="27"/>cent auctores allegati, praesertim Simanc.,
+            <lb ed="#P" n="28"/>dicto tit. 9, num. 64, et latius Matienco, in
+            <lb ed="#P" n="29"/>lib. 5 Novae recompilat., tit. 9, lege 10. Et
+            <lb ed="#P" n="30"/>raiio sumitur ex lege Sancimus, Cod. de 
+            Poe<lb break="no" ed="#P" n="31"/>nis, quia delicta suos tenent et ligant auctores;
+            <lb ed="#P" n="32"/>nec ratio patitur ut noceant innocentibus,
+            <lb ed="#P" n="33"/>illos suis bonis privando. Et hinc est ut, si
+            <lb ed="#P" n="34"/>bora confiscata habeant reale onus ad 
+            solven<lb break="no" ed="#P" n="35"/>dam alteri pensionem, cum illo onere 
+            tran<lb break="no" ed="#P" n="36"/>seant ad fiscum, ita ut ipse illam solvere 
+            te<lb break="no" ed="#P" n="37"/>neatur, ut in superioribus tactum est, et 
+            spe<lb break="no" ed="#P" n="38"/>cialiter declarant Simanc. supra, num. 8;
+            <lb ed="#P" n="39"/>intelligitur autem haec assertio, ut in ea 
+            in<lb break="no" ed="#P" n="40"/>sinuavi, per se loquendo, et ut ita dicam, 
+            im<lb break="no" ed="#P" n="41"/>mediate ; nam remote, et quasi per accidens,
+            <lb ed="#P" n="42"/>non est inconveniens quod confiscatio 
+            bono<lb break="no" ed="#P" n="43"/>rum unius delinquentis cedat in inceommodum
+            <lb ed="#P" n="44"/>aliorum, qui non peccaverunt, ut confiscatio
+            <lb ed="#P" n="45"/>bonorum patris cedit in incommodum 
+            filio<lb break="no" ed="#P" n="46"/>rum ; tamen quia illi non erant domini, nec
+            <lb ed="#P" n="47"/>habebant immediatum jus, sed remotum, vel
+            <lb ed="#P" n="48"/>potius quamdam spem talium bonorum, ideo
+            <lb ed="#P" n="49"/>illud non reputatur inconveniens; nam 
+            prop<lb break="no" ed="#P" n="50"/>ter multas alias causas, contingit ut filii 
+            ve<lb break="no" ed="#P" n="51"/>niant in egestatem propter culpam ct 
+            negli<lb break="no" ed="#P" n="52"/>gentiam parentum. Et aliis exemplis statim
+            <lb ed="#P" n="53"/>subjiciendis id declarari potest.
+          </p>
+          <p xml:id="szthvi-b37627-d1e4468">
+            <lb ed="#P" n="54"/>8. Quid si tertius sit conjua. — Ux his ergo
+            <lb ed="#P" n="55"/>generalibus principiis definiendae sunt omnes
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>speciales quaestiones, quae a dictis auctoribus
+            <lb ed="#P" n="57"/>tractantur, quarum pauca et praecipua 
+            exem<lb break="no" ed="#P" n="58"/>pla breviter et quasi remissive attingam, ut
+            <lb ed="#P" n="59"/>inde possit unusquisque ad alias similes 
+            quae<lb break="no" ed="#P" n="60"/>stiones dicta principia applicare. Primum
+            <lb ed="#P" n="61"/>exemplum sit de bonis mariti et uxoris: nam,
+            <lb ed="#P" n="62"/>licet inter eos communiter possideantur, 
+            nihi<lb break="no" ed="#P" n="63"/>lominus quisque habet sua propria bona; et
+            <lb ed="#P" n="64"/>ideo si uxor sit haeretica, confiscantur ejus 
+            bo<lb break="no" ed="#P" n="65"/>na, non mariti, et econtrario, propter 
+            regu<lb break="no" ed="#P" n="66"/>lam positam. Et in hoc conveniunt omnes. 
+            Ex<lb break="no" ed="#P" n="67"/>plicare autem quae sint bona propria uxoris,
+            <lb ed="#P" n="68"/>quaeve mariti, non est hujus loci, sed ad 
+            ma<lb break="no" ed="#P" n="69"/>teriam de matrimonio pertinet, in qua videri
+            <lb ed="#P" n="70"/>possunt Sancius, et Anton. Gomez, in l. 77
+            <lb ed="#P" n="71"/>Tauri, et Summistae omnes, et alii jurisperiti,
+            <lb ed="#P" n="72"/>qui a dictis allegantur. Quia vero inter virum
+            <lb ed="#P" n="73"/>et uxorem possunt donationes fieri, sciendum
+            <lb ed="#P" n="74"/>est, si conjux, cui facta est ab altero donatio,
+            <lb ed="#P" n="75"/>in haeresim incidat, priusquam donans 
+            moria<lb break="no" ed="#P" n="76"/>tur, illa bona donata non confiscari, juxta 
+            su<lb break="no" ed="#P" n="77"/>perius dicta, quia illa donatio non est firma,
+            <lb ed="#P" n="78"/>neque habet effectum usque ad mortem 
+            do<lb break="no" ed="#P" n="79"/>nantis, cap. ultim., de Donat. inter vir. et
+            <lb ed="#P" n="80"/>uxor., et l. Cum hic status, S S$ donator, ft.
+            <lb ed="#P" n="81"/>eodem tit. Et eadem ratione, si donator 
+            inci<lb break="no" ed="#P" n="82"/>dat in haeresim, licet postca moriatur ante
+            <lb ed="#P" n="83"/>condemnationem, donatio non tenet, et bona
+            <lb ed="#P" n="84"/>confiscantur, quia post delictum non potest
+            <lb ed="#P" n="85"/>haereticus donationem confirmare, juxta l. Si
+            <lb ed="#P" n="86"/>maritus ucoris, ft. de Donat. inter virum et
+            <lb ed="#P" n="87"/>uxorem.
+          </p>
+          <p xml:id="szthvi-b37627-d1e4546">
+            <lb ed="#P" n="88"/>9. Quid si fuerit filius aut pater. — Quid de
+            <lb ed="#P" n="89"/>Lbonis profectitiis. — Secundum exemplum sit
+            <lb ed="#P" n="90"/>de bonis filiorum existentium sub potestate
+            <lb ed="#P" n="91"/>patris; habent enim quaedam bona propria,
+            <lb ed="#P" n="92"/>quae vocantur castrensia, et quasi castrensia, et
+            <lb ed="#P" n="93"/>adventitia, quibus addi solent profectitia ; 
+            in<lb break="no" ed="#P" n="94"/>ter*quae haec est differentia, quod bona 
+            cas<lb break="no" ed="#P" n="95"/>trensia et quasi castrensia sunt propria filii
+            <lb ed="#P" n="96"/>quoad dominium et usum fructuum, et ideo
+            <lb ed="#P" n="97"/>talia bona non confiscantur propter haeresim
+            <lb ed="#P" n="98"/>patris, confiscantur autem propter haeresim
+            <lb ed="#P" n="99"/>filii. In bonis autem adventitiis, habet filius
+            <lb ed="#P" n="100"/>dominium, et pater usum; fructuum, et ideo
+            <lb ed="#P" n="101"/>si pater sit haereticus, amittit quidem usum
+            <lb ed="#P" n="102"/>fructuum, sed ille non confiscatur, sed 
+            conso<lb break="no" ed="#P" n="103"/>lidatur cum dominio filii, quia pater per 
+            hae<lb break="no" ed="#P" n="104"/>resim amisit jus patria potestatis, quod in
+            <lb ed="#P" n="105"/>filium habebat, et ratione cujus habebat usum
+            <lb ed="#P" n="106"/>fructuum ; unde quia illud jus non transit in
+            <lb ed="#P" n="107"/>fiscum, ideo neque ille usus fructuum fiscc
+            <lb ed="#P" n="108"/>adjudicatur. Et eadem ratione, si filius sit 
+            hae<lb break="no" ed="#P" n="109"/>reticus, illa bona confiscantur quoad 
+            domi<lb break="no" ed="#P" n="110"/>nium , quia erat delinquentis, atque etiam
+            <pb ed="#P" n="574"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>quoad usum fructuum, quia etiam per haeresim
+            <lb ed="#P" n="2"/>filii dissolvitur patria potestas, S Cum autem,
+            <lb ed="#P" n="3"/>Institut., Quibus modis jus patrie potestatis
+            <lb ed="#P" n="4"/>aniltatur , et in his omnes conveniunt. De
+            <lb ed="#P" n="5"/>profectitiis autem bonis invenio Gabrielem,
+            <lb ed="#P" n="6"/>in 4, dist. 15, quaest. 3, art. 3, dubio 2. 
+            propo<lb break="no" ed="#P" n="7"/>sit. 5, dicentem talia bona non confiscari 
+            pro<lb break="no" ed="#P" n="8"/>pter crimen patris; quod etiam sequitur 
+            San<lb break="no" ed="#P" n="9"/>cius supra, cap. 16, a num. 9, referens plures
+            <lb ed="#P" n="10"/>juristas. Veriorem tamen credo oppositam
+            <lb ed="#P" n="11"/>sententiam, quam tuetur Simanc., de Cathol.
+            <lb ed="#P" n="12"/>Institut., tit. 9; Caldas, in leg. Si curatorem,
+            <lb ed="#P" n="13"/>verbo Lesis, numer. 19, in fine, Cod. de Re
+            <lb ed="#P" n="14"/>integra restituenda ; Quemada, quaestion. 19,
+            <lb ed="#P" n="15"/>num. 1 et sequentibus, et alii juristae, quos
+            <lb ed="#P" n="16"/>allegat et sequitur Farinac., dicta quaest. 190,
+            <lb ed="#P" n="17"/>num. 15. Consentiunt Theologi communiter,
+            <lb ed="#P" n="18"/>Azor, tom. 1, lib. 5, cap. 7, quaest. 8; Vasquez,
+            <lb ed="#P" n="19"/>1. 2, disp. 169, cap. 4, num. 10, et in opuscul.
+            <lb ed="#P" n="20"/>de Testament. , cap. 9, num. 111; Lorca 2. 2,
+            <lb ed="#P" n="21"/>disputat. 46, membr. 1, num. 5; et probatur,
+            <lb ed="#P" n="22"/>quia talia bona sunt propria patris quoad 
+            co<lb break="no" ed="#P" n="23"/>minium et usum fructuum ; ergo per 
+            haere<lb break="no" ed="#P" n="24"/>sim amittit illa tanquam sua. Item legitima
+            <lb ed="#P" n="25"/>filii confiscatur, quia non est sua, sed patris,
+            <lb ed="#P" n="26"/>dum vivit, ut recte Simanc., num. 79 et 80;
+            <lb ed="#P" n="27"/>ergo et bona profectitia propter eamdem 
+            ra<lb break="no" ed="#P" n="28"/>tionem. Unde e contrario per lapsum fili 
+            ta<lb break="no" ed="#P" n="29"/>lia bona non confiscantur, ut etiam cum 
+            mul<lb break="no" ed="#P" n="30"/>tis tradit Sanc. supra, cap. 15, num. 17.
+          </p>
+          <p xml:id="szthvi-b37627-d1e4668">
+            <lb ed="#P" n="31"/>10. Quid si fuerit donatum aliquid. lyeretico
+            <lb ed="#P" n="32"/>sub conditione. — Tertium exemplum est de
+            <lb ed="#P" n="33"/>bonis haeretico donatis sub conditione; nam
+            <lb ed="#P" n="34"/>si conditio impleta sit ante delictum 
+            commis<lb break="no" ed="#P" n="35"/>sum, bona illa confiscantur, quia donatio fuit
+            <lb ed="#P" n="36"/>consummata ; si vero conditio non fuit 
+            im<lb break="no" ed="#P" n="37"/>pleta, sunt opiniones. Distinguendum tamen
+            <lb ed="#P" n="38"/>censeo inter conditionem casualem, et 
+            potes<lb break="no" ed="#P" n="39"/>tativam, ad quas potest reduci mista. Quae
+            <lb ed="#P" n="40"/>distinctio traditur in l. unica, paragr. S 
+            au<lb break="no" ed="#P" n="41"/>tem aliqui, C. de Caducis tollendis, et 
+            sufficien<lb break="no" ed="#P" n="42"/>ter explicatur a Molina, de Justit., disp. 177
+            <lb ed="#P" n="43"/>et 206. Si ergo conditio fuit casualis, jus ad
+            <lb ed="#P" n="44"/>illa bona transit in fiscum sub eadem 
+            condi<lb break="no" ed="#P" n="45"/>tione. Si vero sit potestativa, aut est talis quae
+            <lb ed="#P" n="46"/>non possit per fiscum impleri, et tunc bona
+            <lb ed="#P" n="47"/>non confiscantur, quia donatio non potest ad
+            <lb ed="#P" n="48"/>effectum pervenire. Si autem conditio possit
+            <lb ed="#P" n="49"/>impleri per fiscum, et ipse velit illud onus 
+            su<lb break="no" ed="#P" n="50"/>bire, tunc confiscatio sub eadem conditione
+            <lb ed="#P" n="51"/>tenebit. Et hoc cum proportione ad mistam
+            <lb ed="#P" n="52"/>conditionem applicandum est. De quo puncto
+            <lb ed="#P" n="53"/>praeter citatos videri possunt Covarr., in Pract.,
+            <lb ed="#P" n="54"/>cap. 39, num. 2, addita resolutione quam in
+            <lb ed="#P" n="55"/>fine capitis ponit; Anton. Gomez, in l. 4 Tau-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>ri, num. 4, et in 2 Variar., cap. 12, num. 6;
+            <lb ed="#P" n="57"/>et Simancas, titul. 9, num. 11.
+          </p>
+          <p xml:id="szthvi-b37627-d1e4731">
+            <lb ed="#P" n="58"/>11. Quid si fuerit legatum aliquid heeretico.
+            <lb ed="#P" n="59"/>— Quid si fuerit dominus directus bonorum,
+            <lb ed="#P" n="60"/>quorumn fructus percipiebat huereticus.— 
+            Quar<lb break="no" ed="#P" n="61"/>tum exemplum sit de haereditate, seu bonis
+            <lb ed="#P" n="62"/>testamento relictis, quae post crimen 
+            commis<lb break="no" ed="#P" n="63"/>sum deteruntur ; nam talia bona non 
+            confis<lb break="no" ed="#P" n="64"/>cantur propter peccatum ejus cui relicta erant,
+            <lb ed="#P" n="65"/>quia- jam est. incapax talis haereditatis, juxta
+            <lb ed="#P" n="66"/>l. Manicheeos, C. de Haeret., et consequenter
+            <lb ed="#P" n="67"/>non fiunt illius, ac propterea non 
+            confiscan<lb break="no" ed="#P" n="68"/>tur. Ita Simanc., num. 124, et videri potest
+            <lb ed="#P" n="69"/>Covar.. lib. 14 Variar., cap. 8, et lib. 2, cap.
+            <lb ed="#P" n="70"/>17;et Farinac., dicta quaest. 190, a num. 94.
+            <lb ed="#P" n="71"/>Quintum exemplum est de emphyteusi, nam
+            <lb ed="#P" n="72"/>si emphyteuta incidat in haeresim, non 
+            con<lb break="no" ed="#P" n="73"/>fiscantur talia bona quoad proprietatem, quia
+            <lb ed="#P" n="74"/>quoad illam non sunt ejus; quoad fructum
+            <lb ed="#P" n="75"/>autem seu dominium utile confiscantur pro
+            <lb ed="#P" n="76"/>vita delinquentis. Estque haec regula 
+            gene<lb break="no" ed="#P" n="77"/>ralis de quocumque usufructu ad vitam,
+            <lb ed="#P" n="78"/>nisi titulus ejus per delictum 
+            extingua<lb break="no" ed="#P" n="79"/>tur, ut supra tactum est. Et hoc ipsum 
+            am<lb break="no" ed="#P" n="80"/>pliari potest ad bona. feudalia, nam in illa
+            <lb ed="#P" n="81"/>non cadit confiscatio perpetua quoad 
+            domi<lb break="no" ed="#P" n="82"/>nium directum, propter eamdem rationem;
+            <lb ed="#P" n="83"/>confiscari autem: possunt pro vita 
+            delinquen<lb break="no" ed="#P" n="84"/>tis, si fiscus valeat, et velit omnia onera feudi
+            <lb ed="#P" n="85"/>sustinere. De quibus punctis, praeter 
+            Siman<lb break="no" ed="#P" n="86"/>cam supra, num. 19 et 97, videri possunt 
+            Pen<lb break="no" ed="#P" n="87"/>na, 3 part. Directorii, commentar. 161; et
+            <lb ed="#P" n="88"/>Gigas, dicto tractatu de Crimine laesae 
+            majesta<lb break="no" ed="#P" n="89"/>tis, titul. 9, de Poenis ejus, quaest. 5 et 6;
+            <lb ed="#P" n="90"/>Farinacius, supra, a num. 59.
+          </p>
+          <p xml:id="szthvi-b37627-d1e4805">
+            <lb ed="#P" n="91"/>19. Quid si fuerit successor net 
+            ha<lb break="no" ed="#P" n="92"/>retici.— Postremo ex eisdem principiis 
+            defi<lb break="no" ed="#P" n="93"/>nienda est quaestio de bonis primoógeniturae,
+            <lb ed="#P" n="94"/>seu majoratus, an confiscentur propter 
+            haere<lb break="no" ed="#P" n="95"/>sim ultimi possessoris. In quo puncto solet
+            <lb ed="#P" n="96"/>distinctio adhiberi de variis generibus 
+            majo<lb break="no" ed="#P" n="97"/>ratuum, et diverso etiam modo de illis loqui,
+            <lb ed="#P" n="98"/>ut videre licet in Simanc., dicto tit. 9, num.
+            <lb ed="#P" n="99"/>252 et sequentibus. Existimo tamen in hac
+            <lb ed="#P" n="100"/>materia, et quantum ad haeresim pertinet,
+            <lb ed="#P" n="101"/>pro generali regula constitui posse, bona 
+            ma<lb break="no" ed="#P" n="102"/>joratuum non confiscari quoad 
+            proprieta<lb break="no" ed="#P" n="103"/>tem, seu contiscatione perpetua. Ita 
+            commu<lb break="no" ed="#P" n="104"/>niter Doctores : Castro, lib. 2 de Justa Haeret.
+            <lb ed="#P" n="105"/>punit., c. 2; Molina, lib. 4 de Primogeniis,
+            <lb ed="#P" n="106"/>cap. 11, n 21; Vasquez 1.2, disp. 169, cap.
+            <lb ed="#P" n="107"/>4; Farinac., dicta quaest. 190, paragr. 5, num.
+            <lb ed="#P" n="108"/>60, et alii. Ratio imprimis sumitur ex illo
+            <lb ed="#P" n="109"/>priucipio, quod bona quae non transeunt ad
+            <lb ed="#P" n="110"/>haeredes extraneos, non confiscantur; majo-
+            <pb ed="#P" n="575"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ratus autem non transit ad haeredem 
+            extra<lb break="no" ed="#P" n="2"/>neum, ut constat. Deinde est ratio a priori,
+            <lb ed="#P" n="3"/>quia primogenitus, seu primo vocatus non
+            <lb ed="#P" n="4"/>succedit ex voluntate ultimi possessoris, sed
+            <lb ed="#P" n="5"/>ex voluntate primi instituentis, cui non 
+            po<lb break="no" ed="#P" n="6"/>test nocere delictum successoris, nec poena
+            <lb ed="#P" n="7"/>confiscationis illi imposita. Nihilominus 
+            ta<lb break="no" ed="#P" n="8"/>men possunt haec bona confiscari quoad usum
+            <lb ed="#P" n="9"/>fructuum pro vita delinquentis. propter 
+            ratio<lb break="no" ed="#P" n="10"/>nes contrarias, quia hoc modo transferri 
+            pos<lb break="no" ed="#P" n="11"/>sunt haec bona in extraneum quoad usum
+            <lb ed="#P" n="12"/>fructuum, et pro sola vita possidentis. Item
+            <lb ed="#P" n="13"/>quia hoc non derogat voluntati primi 
+            insti<lb break="no" ed="#P" n="14"/>tuentis. Unde quoad hanc partem addenda
+            <lb ed="#P" n="15"/>est limitatio, nisi in ipsa institutione aadita
+            <lb ed="#P" n="16"/>fuerit clausula privans possessorem dominio
+            <lb ed="#P" n="17"/>et usu talium bonorum, ipso facto quod tale
+            <lb ed="#P" n="18"/>delictum commiserit, vel, ut addi solet, eo
+            <lb ed="#P" n="19"/>ipso quod decreverit vel tractaverit deillo 
+            com<lb break="no" ed="#P" n="20"/>mittendo ; nam instituens potuit hoc modo, et
+            <lb ed="#P" n="21"/>non aliter sua bona disponere, et ideo 
+            volun<lb break="no" ed="#P" n="22"/>tas ejus servanda est. Sed de tota hac 
+            quaes<lb break="no" ed="#P" n="23"/>tione videri possunt Molina, de Primogeniis,
+            <lb ed="#P" n="24"/>lib. 4, c. 11; Azor, part. 1, lib. 8, c. 12; 
+            San<lb break="no" ed="#P" n="25"/>ches, lib. 2 Decalog., capite 18, per totum;
+            <lb ed="#P" n="26"/>Vasquez, 1. 2, disput. 179, cap. 4.
+          </p>
+        </div>
+        <div xml:id="szthvi-b37627-Dd1e4913">
+          <head xml:id="szthvi-b37627-Hd1e4915">Sectio 6</head>
+          <head xml:id="szthvi-b37627-Hd1e4917" type="question-title">Utrum poena confiscationis etiam reges et supremos principes comprehendat</head>
+          <p xml:id="szthvi-b37627-d1e4920">
+            <lb ed="#P" n="27"/>SECTIO VI.
+            <lb ed="#P" n="28"/>Utrum poena confiscationis etiam reges et 
+            su<lb break="no" ed="#P" n="29"/>premos principes comprehendat.
+          </p>
+          <p xml:id="szthvi-b37627-d1e4929">
+            <lb ed="#P" n="30"/>1. Prima ratio dubitandi tripliciter. — 
+            Se<lb break="no" ed="#P" n="31"/>cunda ratio. — Explicata poena confiscationis
+            <lb ed="#P" n="32"/>ejusque materia, solum superest dicendum de
+            <lb ed="#P" n="33"/>personis quibus imponitur; et quoniam de
+            <lb ed="#P" n="34"/>caeteris nulla est difficultas, solum de 
+            princi<lb break="no" ed="#P" n="35"/>pibus supremis temporalibus aliquid 
+            dicen<lb break="no" ed="#P" n="36"/>dum superest. Est enim in illis duplex ratio
+            <lb ed="#P" n="37"/>dubitandi. Una est ex parte talium 
+            persona<lb break="no" ed="#P" n="38"/>rum, quia cum sint supremi, nulli 
+            subjiciun<lb break="no" ed="#P" n="39"/>tur in temporalibus; ergo nec possunt puniri
+            <lb ed="#P" n="40"/>in temporalibus bonis. Et deinde, licet 
+            pos<lb break="no" ed="#P" n="41"/>sint, non videntur comprehendi sub legibus
+            <lb ed="#P" n="42"/>confiscationem imponentibus ; tum quia non
+            <lb ed="#P" n="43"/>loquuntur de his personis in speciali, sed 
+            tan<lb break="no" ed="#P" n="44"/>tum in generali; sub generali autem sermone
+            <lb ed="#P" n="45"/>non videntur comprehendi quae tam spec.
+            a<lb break="no" ed="#P" n="46"/>lia sunt ; tum etiam quia leges imponentes
+            <lb ed="#P" n="47"/>confiscationem vel sunt civiles, quae non 
+            com<lb break="no" ed="#P" n="48"/>prehendunt auctores quoad poenas, vel est 
+            ca<lb break="no" ed="#P" n="49"/>ponica , quae vel solum approbat illas leges,
+            <lb ed="#P" n="50"/>vel loquitur ad instar earum, ut dictum cap.
+            <lb ed="#P" n="51"/>Cum secundum leges, in quo potestates civiles
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="52"/>prohibentur exequi confiscationem , donec
+            <lb ed="#P" n="53"/>sententia proferatur. Unde colligi videtur non
+            <lb ed="#P" n="54"/>loqui de bonis ipsarum potestatum, seu 
+            prin<lb break="no" ed="#P" n="55"/>cipum. Et inde potest etiam novum 
+            argu<lb break="no" ed="#P" n="56"/>mentum fieri, quia haec bona ex vi illius 
+            tex<lb break="no" ed="#P" n="57"/>tus confiscantur fisco regio; ergo confiscatio
+            <lb ed="#P" n="58"/>non potest cadere in bona ipsius reg;s, 
+            etiam<lb break="no" ed="#P" n="59"/>si haereticus sit. Altera ratio dubitandi 
+            sumi<lb break="no" ed="#P" n="60"/>tur ex parte ipsorum bonorum, quia reguum
+            <lb ed="#P" n="61"/>inter majoratus computatur, et majoris 
+            pri<lb break="no" ed="#P" n="62"/>vilegii et immunitatis esse censetur , quam
+            <lb ed="#P" n="63"/>omnia privata primogenia ; ergo est 
+            exem<lb break="no" ed="#P" n="64"/>ptum ab omni confiscatione, non solum 
+            per<lb break="no" ed="#P" n="65"/>petua , sed etiam quoad vitam possidentis,
+            <lb ed="#P" n="66"/>quia quamvis constare non possit de clausula,
+            <lb ed="#P" n="67"/>quam attigimus in fine sectionis praecedentis,
+            <lb ed="#P" n="68"/>quia regni institutio et modus ejus 
+            immemo<lb break="no" ed="#P" n="69"/>rialis est, nihilominus praesumitur facta 
+            opti<lb break="no" ed="#P" n="70"/>mo et magis favorabili modo ; ergo talia 
+            bo<lb break="no" ed="#P" n="71"/>na nullo modo sunt confiscabilia, multo 
+            ma<lb break="no" ed="#P" n="72"/>gis quam caeteri majoratus.
+          </p>
+          <p xml:id="szthvi-b37627-d1e5027">
+            <lb ed="#P" n="73"/>2. Circa primum punctum. — Prima 
+            asser<lb break="no" ed="#P" n="74"/>tio affirmans , de possibili.—In his ratiopibus
+            <lb ed="#P" n="75"/>duo puncta tanguntur : unum de personis,
+            <lb ed="#P" n="76"/>aliud de bonis. Circa primum, dicendum est
+            <lb ed="#P" n="77"/>primo reges et principes temporales, 
+            quan<lb break="no" ed="#P" n="78"/>tumvis supremos, posse hac poena puniri.
+            <lb ed="#P" n="79"/>Haec assertio satis constat ex dictis supra,
+            <lb ed="#P" n="80"/>disp. 20, sect. 3, ubi in generali ostendi, 
+            re<lb break="no" ed="#P" n="81"/>ges posse ab Ecclesia puniri propter haeresim,
+            <lb ed="#P" n="82"/>non tantum poena spirituali, sed etiam 
+            tem<lb break="no" ed="#P" n="83"/>porali, quod ex professo etiam wwactavi in 
+            De<lb break="no" ed="#P" n="84"/>fension., lib. 3, cap. 22; et videri etiam 
+            po<lb break="no" ed="#P" n="85"/>test Bellarmin., contra Barclaium. Illo autem
+            <lb ed="#P" n="86"/>principio supposito , nulla ratio specialis in
+            <lb ed="#P" n="87"/>confiscatione reperitur , propter quam his
+            <lb ed="#P" n="88"/>etiam personis impon non possit; quia et
+            <lb ed="#P" n="89"/>poena ipsa proportionata est delicto, et isti
+            <lb ed="#P" n="90"/>principes habere possunt bona, quibus 
+            pri<lb break="no" ed="#P" n="91"/>vari possunt, et saepe ita expedit , ut minus
+            <lb ed="#P" n="92"/>potentes fiant ad nocendum Ecclesiae.
+          </p>
+          <p xml:id="szthvi-b37627-d1e5074">
+            <lb ed="#P" n="93"/>3. Secunda assertio , de facto. — Ad 
+            pri<lb break="no" ed="#P" n="94"/>mum. et secundum argumentum n prima 
+            ra<lb break="no" ed="#P" n="95"/>tione dubitandi. — Secundo, dicendum est,
+            <lb ed="#P" n="96"/>etiam de facto comprehendi sub legibus 
+            ca<lb break="no" ed="#P" n="97"/>nonicis hanc poenam imponentibus. Probari
+            <lb ed="#P" n="98"/>potest primo a simili, seu a paritate rationis,
+            <lb ed="#P" n="99"/>ex cap. Zacommunicamus, 1, S Moneantur, et
+            <lb ed="#P" n="100"/>cap. ult. extra de Haeret., ubi similes vel
+            <lb ed="#P" n="101"/>aequivalentes poenae principibus laicis 
+            impo<lb break="no" ed="#P" n="102"/>nuntur propter haeresim, vel participationem
+            <lb ed="#P" n="103"/>ejus. Secundo probatur ex dicto cap. Cum 
+            se<lb break="no" ed="#P" n="104"/>cundum leges ; nam generaliter loquitur, et
+            <lb ed="#P" n="105"/>licet adducat in exemplum leges. civiles , ut
+            <lb ed="#P" n="106"/>ostendat hanc poenam esse proportionatam de-
+            <pb ed="#P" n="576"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>licto, non tamen de illis personis solis 
+            loqui<lb break="no" ed="#P" n="2"/>tur, de quibus loquuntur leges civiles, sed 
+            ab<lb break="no" ed="#P" n="3"/>solute de omnibus fidelibus, qui Vicario
+            <lb ed="#P" n="4"/>Christi subjiciuntur. Neque in delicto haeresis
+            <lb ed="#P" n="5"/>attenditur specialis conditio, vel dignitas aut
+            <lb ed="#P" n="6"/>nobilitas personae ; imo in favorem fidei aeque
+            <lb ed="#P" n="7"/>puniuntur propter haeresim nobiles ac 
+            igno<lb break="no" ed="#P" n="8"/>biles, ut recte notarunt Rojas, singular 157,
+            <lb ed="#P" n="9"/>num. ultim. , cum Felin. in cap. Pastoralis,
+            <lb ed="#P" n="10"/>de Offic. deleg., n. 6 et 7; et Ludovic. Carrer.,
+            <lb ed="#P" n="11"/>de Haeret. , num. 132; et Simanc. , tit. 46,
+            <lb ed="#P" n="12"/>num. 67. Et ratio optima est, quia in rebus
+            <lb ed="#P" n="13"/>fidei, et quae ad salutem animae pertinent, non
+            <lb ed="#P" n="14"/>est distinctio Judei aut Graeci, servi aut 
+            li<lb break="no" ed="#P" n="15"/>Deri, ut Paulus ad Roman. et ad Philemonem
+            <lb ed="#P" n="16"/>dixit ; praesertim quia poenae pecuniariae 
+            com<lb break="no" ed="#P" n="17"/>munes sunt nobilibus, imo in eis magis 
+            exer<lb break="no" ed="#P" n="18"/>ceri ac augeri solent. Et ita responsum est
+            <lb ed="#P" n="19"/>ad primam rationem dubitandi, praeter 
+            ulti<lb break="no" ed="#P" n="20"/>mum argumentum ejus, de quo statim dicam.
+          </p>
+          <p xml:id="szthvi-b37627-d1e5155">
+            <lb ed="#P" n="21"/>4. Circa secundum punctum. — Notatur
+            <lb ed="#P" n="22"/>primo. — Ad tertium argumentum in prima
+            <lb ed="#P" n="23"/>ratione dubitandi. — Circa secundum 
+            punc<lb break="no" ed="#P" n="24"/>tum, advertere imprimis oportet hujusmodi
+            <lb ed="#P" n="25"/>principes extra regnum habere posse multa
+            <lb ed="#P" n="26"/>bona libera, quae inter filios dividi solent, et
+            <lb ed="#P" n="27"/>quantum est ex se, possunt transire ad 
+            ex<lb break="no" ed="#P" n="28"/>traneos, etiam per mortem, ut est per se 
+            ma<lb break="no" ed="#P" n="29"/>nifestum ; nam hoc in facto consistit. In his
+            <lb ed="#P" n="30"/>ergo bonis non procedit dicta difficultas, sed
+            <lb ed="#P" n="31"/>locum habent in illis praecedentes 
+            assertio<lb break="no" ed="#P" n="32"/>nes, quia haec bona maxime sunt quae 
+            con<lb break="no" ed="#P" n="33"/>fiscantur, et conditio personae non impedit, ut
+            <lb ed="#P" n="34"/>ostendimus. Neque etiam obstat ultimum 
+            ar<lb break="no" ed="#P" n="35"/>gumentum in prima ratione propositum, quia
+            <lb ed="#P" n="36"/>confiscatio propter haeresim poena est 
+            eccle<lb break="no" ed="#P" n="37"/>siastica, sicut et culpa, juxta cap. 
+            Inquisitio<lb break="no" ed="#P" n="38"/>nis, paragr. Prohibemus , de Haeret., in 6, et
+            <lb ed="#P" n="39"/>ad Pontificem per se pertinet determinare
+            <lb ed="#P" n="40"/>fiscum, cui applicanda sunt talia bona, et ita
+            <lb ed="#P" n="41"/>talia bona principum confiscari poterunt, vel
+            <lb ed="#P" n="42"/>camerae apostolicae, vel ad alios ecclesiasticos
+            <lb ed="#P" n="43"/>et pios sumptus. Solum ergo circa regnum
+            <lb ed="#P" n="44"/>ipsum illa secunda difficultas procedit.
+          </p>
+          <p xml:id="szthvi-b37627-d1e5210">
+            <lb ed="#P" n="45"/>5. Notatur secundo. — Notatur tertio. —
+            <lb ed="#P" n="46"/>Superest itaque dicendum de regno et bonis
+            <lb ed="#P" n="47"/>ad illud pertinentibus. Duo enim in regno 
+            dis<lb break="no" ed="#P" n="48"/>ünguenda sunt, scilicet dominium 
+            jurisdic<lb break="no" ed="#P" n="49"/>tionis, seu potestas regendi et judicandi; et
+            <lb ed="#P" n="50"/>dominium proprietatis circa bona temporalia,
+            <lb ed="#P" n="51"/>quae ex titulo regni ad personam regis 
+            perti<lb break="no" ed="#P" n="52"/>nent. Nam licet utrisque bonis et utraque
+            <lb ed="#P" n="53"/>potestate possit rex haereticus propter 
+            haere<lb break="no" ed="#P" n="54"/>sim privari, nihilominus confiscatio proprie
+            <lb ed="#P" n="55"/>versatur circa temporalia bona, quae sub do-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>minium proprietatis cadunt ; tamen quia haec
+            <lb ed="#P" n="57"/>sunt connexa cum jurisdictione, aliquid est de
+            <lb ed="#P" n="58"/>utraque parte dicendum. Advertendum autem
+            <lb ed="#P" n="59"/>est ulterius privationem, seu confiscationem
+            <lb ed="#P" n="60"/>bonorum, esse distinctam poenam ab 
+            excom<lb break="no" ed="#P" n="61"/>municatione, ut ex discursu hujus et 
+            praece<lb break="no" ed="#P" n="62"/>dentis disputationis constat; et ideo 
+            distin<lb break="no" ed="#P" n="63"/>guendum et explicandum etiam est, quae
+            <lb ed="#P" n="64"/>privatio jurisdictionis aut bonorum 
+            tempora<lb break="no" ed="#P" n="65"/>lium ex vi excommunicationis proveniat, quae
+            <lb ed="#P" n="66"/>vero proprie pertinet ad hanc confiscationis
+            <lb ed="#P" n="67"/>poenam, de qua tractamus.
+          </p>
+          <p xml:id="szthvi-b37627-d1e5265">
+            <lb ed="#P" n="68"/>6. Prima assertio. — Imprimis ergo 
+            dicen<lb break="no" ed="#P" n="69"/>dum est regem haereticum eo ipso privari usu
+            <lb ed="#P" n="70"/>jurisdictionis regiae, quamvis non statim 
+            pri<lb break="no" ed="#P" n="71"/>vetur dominio et proprietate jurisdictionis
+            <lb ed="#P" n="72"/>regiae; hic autem effectus ex censura 
+            excom<lb break="no" ed="#P" n="73"/>municationis nascitur, et non est per se poena
+            <lb ed="#P" n="74"/>distincta. Haec assertio constat ex generali
+            <lb ed="#P" n="75"/>doctrina de excommunicatione, late tractata
+            <lb ed="#P" n="76"/>in quinto tomo, disputatione decima quinta,
+            <lb ed="#P" n="77"/>sectione sexta, quam in summam reduxi in
+            <lb ed="#P" n="78"/>Defensione fidei, libro sexto, capite sexto:
+            <lb ed="#P" n="79"/>unde nihil in praesenti addere oportet. 
+            Ex<lb break="no" ed="#P" n="80"/>communicatio autem non extenditur ad 
+            pri<lb break="no" ed="#P" n="81"/>vationem bonorum temporalium, nisi 
+            quate<lb break="no" ed="#P" n="82"/>nus pendet ex aliquo titulo spirituali, vel ex
+            <lb ed="#P" n="83"/>aliquo actu quem excommunicatus exercere
+            <lb ed="#P" n="84"/>non possit. Unde ex vi hujus 
+            excommunica<lb break="no" ed="#P" n="85"/>tionis non potest rex privari debitis tributis
+            <lb ed="#P" n="86"/>ante sententiam saltem declaratoriam 
+            crimi<lb break="no" ed="#P" n="87"/>nis, quia nec illa poena sequitur ex vi 
+            cen<lb break="no" ed="#P" n="88"/>surae, nec per se et specialiter invenitur 
+            ali<lb break="no" ed="#P" n="89"/>quo iure lata, ut magis ex dicendis constabit.
+          </p>
+          <p xml:id="szthvi-b37627-d1e5315">
+            <lb ed="#P" n="90"/>7. Secunda assertio bipartita. — Secundo
+            <lb ed="#P" n="91"/>dicendum est, quamvis rex haereticus possit
+            <lb ed="#P" n="92"/>per Ecclesiam privari regno, non solum quoad
+            <lb ed="#P" n="93"/>dominium jurisdictionis, sed etiam quoad 
+            tem<lb break="no" ed="#P" n="94"/>poralia bona, et quoad dominium proprietatis
+            <lb ed="#P" n="95"/>eorum, nihilominus non privatur ipso jure,
+            <lb ed="#P" n="96"/>sed necessaria est sententia et condemnatio.
+            <lb ed="#P" n="97"/>Prior pars de potestate, in lib. 3 Defensionis
+            <lb ed="#P" n="98"/>fidei, late probata est, et aliqua supra 
+            adduxi<lb break="no" ed="#P" n="99"/>mus, disputatione vigesima, sectione tertia, et
+            <lb ed="#P" n="100"/>nunc sufficiunt cap. Ad abolendam, et cap.
+            <lb ed="#P" n="101"/>Hacommunicamus, 1, S Moneantur, et cap.
+            <lb ed="#P" n="102"/>ultim. de Haeretic. Posterior vero pars a 
+            for<lb break="no" ed="#P" n="103"/>tiori constat ex dictis de aliis bonis confiscatis;
+            <lb ed="#P" n="104"/>nam si illorum proprietas et dominium non
+            <lb ed="#P" n="105"/>aufertur ante sententiam, multo minus 
+            aufer<lb break="no" ed="#P" n="106"/>tur regnum quoad dominium et proprietatem.
+            <lb ed="#P" n="107"/>Item est optima moralis ratio, quia non 
+            expe<lb break="no" ed="#P" n="108"/>diebat ad pacem et quietem regnorum, quia
+            <lb ed="#P" n="109"/>multa scandala et seditiones inde facile oriri
+            <lb ed="#P" n="110"/>possent.
+          </p>
+          <p xml:id="szthvi-b37627-d1e5363">
+            <pb ed="#P" n="577"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>8. Dubium de confiscatione regni.—
+            bifhicul<lb break="no" ed="#P" n="2"/>tas ergo superest an hujusmodi bona regni
+            <lb ed="#P" n="3"/>possint dici confiscata ipso facto, et ante 
+            sen<lb break="no" ed="#P" n="4"/>tentiam. Aliqui simpliciter negant, ut Castro,
+            <lb ed="#P" n="5"/>libro secundo de Just. haeret. punit., capit.
+            <lb ed="#P" n="6"/>septimo; et Simanc., tit. 46, num. 75;et
+            <lb ed="#P" n="7"/>Vasquez 1. 2, disp. 169, num. 42. Fundantur,
+            <lb ed="#P" n="8"/>quia etiam post sententiam regnum non 
+            ap<lb break="no" ed="#P" n="9"/>plicatur alicui fisco, sed datur successori 
+            ca<lb break="no" ed="#P" n="10"/>tholico, si aliquis inveniatur ; vel, si nullus sit,
+            <lb ed="#P" n="11"/>vel omnes, qui sunt, sint haeretici, reducitur
+            <lb ed="#P" n="12"/>in regnum, ut sihi regem catholicum eligat;
+            <lb ed="#P" n="13"/>vel si potentes regni sint haeretici, et credatur
+            <lb ed="#P" n="14"/>regnum electurum principem haereticum, tunc
+            <lb ed="#P" n="15"/>jus debellandi tale regnum alicui potenti regi
+            <lb ed="#P" n="16"/>catholico per Pontificem adjudicatur. Et 
+            con<lb break="no" ed="#P" n="17"/>firmari potest haec opinio ratione facta, quod
+            <lb ed="#P" n="18"/>hujusmodi regnum est quidam majoratus 
+            ma<lb break="no" ed="#P" n="19"/>joris privilegii et exemptionis, quam caeteri
+            <lb ed="#P" n="20"/>inferiores majoratus. Estque haec sententia
+            <lb ed="#P" n="21"/>probabilis.
+          </p>
+          <p xml:id="szthvi-b37627-d1e5416">
+            <lb ed="#P" n="22"/>9. Judicium auctoris in boc dubio. — Ad c.
+            <lb ed="#P" n="23"/>ult. de Heeret. in n. 1 allatum. — Addendum
+            <lb ed="#P" n="24"/>nihilominus occurrit, distinguendum esse 
+            in<lb break="no" ed="#P" n="25"/>ter confiscationem, et eum cui applicantur
+            <lb ed="#P" n="26"/>bona confiscata. Nam fundamentum 
+            praece<lb break="no" ed="#P" n="27"/>dentis sententiee probat quidem regnum non
+            <lb ed="#P" n="28"/>ita confiscari, ut successoribus catholicis 
+            aufe<lb break="no" ed="#P" n="29"/>ratur, non tamen probat simpliciter non 
+            con<lb break="no" ed="#P" n="30"/>fiscari; nam olim bona cujuslibet haeretici
+            <lb ed="#P" n="31"/>confiscabantur , et nihilominus filii catholici
+            <lb ed="#P" n="32"/>illis non privabantur; utrumque enim habetur
+            <lb ed="#P" n="33"/>in leg. Manicheos, C. de Haret. Sic ergo
+            <lb ed="#P" n="34"/>existimo optime dici posse confiscari regnum,
+            <lb ed="#P" n="35"/>licet dandum sit successori catholico. Quod
+            <lb ed="#P" n="36"/>etiam videtur sentire Joan. Lup., in libro de
+            <lb ed="#P" n="37"/>Jur. regni Navarra, cap. 7 quinta partis.
+            <lb ed="#P" n="38"/>Effectus autem hujus confiscationis erit, ut
+            <lb ed="#P" n="39"/>post latam sententiam statim jus transferatur
+            <lb ed="#P" n="40"/>ad successorem, ut illud juste possit occupare,
+            <lb ed="#P" n="41"/>si opere seu facto valeat. Item ut recuperato
+            <lb ed="#P" n="42"/>regno possit rescindere omnes alienationes
+            <lb ed="#P" n="43"/>factas a die commissi criminis. Nihilominus
+            <lb ed="#P" n="44"/>tamen ante sententiam, juxta dictum cap.
+            <lb ed="#P" n="45"/>Cum secundum leges, nec successor poterit
+            <lb ed="#P" n="46"/>occupare regnum, ut omnes fatentur, et est
+            <lb ed="#P" n="47"/>certissimum ; nec vasalli possunt privare 
+            re<lb break="no" ed="#P" n="48"/>gem tributis aut aliis bonis ili debitis, quia
+            <lb ed="#P" n="49"/>hoc esset exequi confiscationem propria 
+            aucto<lb break="no" ed="#P" n="50"/>ritate, et ante sententiam, quod in dicto cap.
+            <lb ed="#P" n="51"/>prohibitum est. Et ita sentit Penna, in 
+            Direc<lb break="no" ed="#P" n="52"/>tor., 3 part., commentar. 168. Et quamvis
+            <lb ed="#P" n="53"/>Sylvester, verb. Hoeeresis, 1, num. 14, vers.
+            <lb ed="#P" n="54"/>11, conarium sentire videatur, et illum
+            <lb ed="#P" n="55"/>Castro et Simanc. supra sequantur. uihilomi-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>nus vel eorum sententia probanda non est,
+            <lb ed="#P" n="57"/>vel explicandi sunt. ut non requiratur 
+            senten<lb break="no" ed="#P" n="58"/>tia condemnatoria, sed declaratoria criminis
+            <lb ed="#P" n="59"/>sufficiat, ut Penna supra sentit, et sumi potest
+            <lb ed="#P" n="60"/>ex eodem Sylvest., verb. Excommunicatio, 5,
+            <lb ed="#P" n="61"/>S 9, num. 18, et ita intelligendum etiam est
+            <lb ed="#P" n="62"/>dictum caput ultimum de Haereticis.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

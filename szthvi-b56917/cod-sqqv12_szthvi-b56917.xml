@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 1</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 1</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="634"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-b56917"><!-- l3-d1 -->
+        <head xml:id="szthvi-b56917-Hd1e101">Disputatio 1</head>
+        <head xml:id="szthvi-b56917-Hd1e103" type="question-title">De objecto materiali et formali charitatis</head>
+        <p xml:id="szthvi-b56917-d1e106">
+          <cb ed="#P" n="e"/>
+          <lb ed="#P" n="43"/>DISPUTATIO 1. 
+          <lb ed="#P" n="44"/>DE OBJECTO MATERIALI ET FORMALI CHARITATIS.
+        </p>
+        <p xml:id="szthvi-b56917-d1e115">
+          <lb ed="#P" n="45"/>Prima hujus tractatus disputatio est de 
+          ob<lb break="no" ed="#P" n="46"/>jecto, quia in ordine ad illud charitas speciem
+          <cb ed="#P" n="f"/>
+          <lb ed="#P" n="47"/>accipit, et ab aliis virtutibus distinguitur.
+          <lb ed="#P" n="48"/>Objectum vero primo dividit D. Thomas 2. 2,
+          <lb ed="#P" n="49"/>q. 1, art. 1, in formale et materiale, tanquam
+          <lb ed="#P" n="50"/>in duas partes unam integram rationem 
+          ob<lb break="no" ed="#P" n="51"/>jecti specificantis conflantes. Utrumque hic
+          <lb ed="#P" n="52"/>explicabimus, sed prius materiale; quia sicut
+          <pb ed="#P" n="635"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ordine naturae forma, in composito physico,
+          <lb ed="#P" n="2"/>vel artificiali, materiam supponit, illiusque
+          <lb ed="#P" n="3"/>potentialitatem, seu indifferentiam ad certam
+          <lb ed="#P" n="4"/>speciem determinat, sic formale objectum,
+          <lb ed="#P" n="5"/>materiale, ad hoc ut speciem tribuat alicui
+          <lb ed="#P" n="6"/>speciali virtuti.
+        </p>
+        <div xml:id="szthvi-b56917-Dd1e154">
+          <head xml:id="szthvi-b56917-Hd1e156">Sectio 1</head>
+          <head xml:id="szthvi-b56917-Hd1e158" type="question-title">An deus sit objectum materiale et adaequatum charitatis</head>
+          <p xml:id="szthvi-b56917-d1e161">
+            <lb ed="#P" n="7"/>SECTIO I.
+            <lb ed="#P" n="8"/>An Deus sit objectum materiale et adaequatum
+            <lb ed="#P" n="9"/>charitatis.
+          </p>
+          <p xml:id="szthvi-b56917-d1e170">
+            <lb ed="#P" n="10"/>Sicut materiale objectum cujusque virtutis
+            <lb ed="#P" n="11"/>Theologi communiter dividunt in principale
+            <lb ed="#P" n="12"/>seu primarium , in minus principale seu 
+            se<lb break="no" ed="#P" n="13"/>cundarium, et in adaequatum, quod ex 
+            utro<lb break="no" ed="#P" n="14"/>que conflatur, sic et charitatis objectum, de
+            <lb ed="#P" n="15"/>quo in praesenti. Quale vero hoc objectum
+            <lb ed="#P" n="16"/>sit, et quae illius partes, per sequentes 
+            conclu<lb break="no" ed="#P" n="17"/>siones explicabimus.
+          </p>
+          <p xml:id="szthvi-b56917-d1e190">
+            <lb ed="#P" n="18"/>1. Prima conclusio. — Dico ergo primo:
+            <lb ed="#P" n="19"/>Deus est primum et praecipuum objectum 
+            cha<lb break="no" ed="#P" n="20"/>ritatis, Romanorum quinto : Charitas Dei 
+            dif<lb break="no" ed="#P" n="21"/>fusa est in cordibus nostris ; 1 Joan. 2 : Qui
+            <lb ed="#P" n="22"/>servat verbum ejus, id est Christi, in hoc 
+            cha<lb break="no" ed="#P" n="23"/>ritas Dei perfecta est. Quibus locis, ac 
+            simi<lb break="no" ed="#P" n="24"/>libus, juxta Augustinum, de Spiritu et lit.,
+            <lb ed="#P" n="25"/>c. 32, et unanimem consensum, quem etiam
+            <lb ed="#P" n="26"/>aperte supponit Tridentinum, sess. 6, c. 17,
+            <lb ed="#P" n="27"/>charitas Dei usurpatur, non solum quia a
+            <lb ed="#P" n="28"/>Deo nobis infunditur, sed praecipue quia ad
+            <lb ed="#P" n="29"/>illum terminatur. Ratione etiam probatur,
+            <lb ed="#P" n="30"/>quia illud est primarium objectum materiale
+            <lb ed="#P" n="31"/>charitatis, in quo primario relucet ipsum 
+            for<lb break="no" ed="#P" n="32"/>male, quod est bonum divinum, ut docet D.
+            <lb ed="#P" n="33"/>Thomas, 2. 2, q. 23, art. 1, et caeteri Theologi
+            <lb ed="#P" n="34"/>communiter : tale autem bonum in Deo 
+            relu<lb break="no" ed="#P" n="35"/>cet per essentiam, ac adeo primario; 
+            er<lb break="no" ed="#P" n="36"/>go, etc.
+          </p>
+          <p xml:id="szthvi-b56917-d1e235">
+            <lb ed="#P" n="37"/>2. Secunda conclusio, de fide.— Dico 
+            se<lb break="no" ed="#P" n="38"/>cundo: praeter Deum, etiam proximus ad 
+            ma<lb break="no" ed="#P" n="39"/>teriale objectum charitatis spectat. Est de fide,
+            <lb ed="#P" n="40"/>1 Joan. 4: Sid ligimus invicem, charitas ejus
+            <lb ed="#P" n="41"/>in nobis est. Ratio est, quia proximus est quid
+            <lb ed="#P" n="42"/>Dei, particeps beatitudinis ejus; ad perfectam
+            <lb ed="#P" n="43"/>autem amicitiam spectat non solum diligere
+            <lb ed="#P" n="44"/>eum, cum quo primario et per se amicitia
+            <lb ed="#P" n="45"/>contrahitur, sed etiam, ratione illius, ea quae
+            <lb ed="#P" n="46"/>ad ipsum spectant, ut amicos, filios, etc.
+          </p>
+          <p xml:id="szthvi-b56917-d1e259">
+            <lb ed="#P" n="47"/>3. Proximus, omnis rationalis creatura.—
+            <lb ed="#P" n="48"/>Item Christus Dominus.—Quaeres tamen quid
+            <lb ed="#P" n="49"/>intelligatur nomine proximi. Respondetur:
+            <lb ed="#P" n="50"/>per se omnis rationalis creatura quae est capax
+            <lb ed="#P" n="51"/>beatitudinis. Ita Augustinus, l. 1 de Doctrina
+            <lb ed="#P" n="52"/>christiana, c. 23, 26 et 30; et alii Patres, qui,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>licet specialiter loquantur de hominibus, 
+            ex<lb break="no" ed="#P" n="54"/>tendi id etiam potest ad Angelos, ut D. 
+            Tho<lb break="no" ed="#P" n="55"/>mas, 2. 2, q. 25, art. 10, docet, et alii 
+            Theo<lb break="no" ed="#P" n="56"/>logi, in 3, dist. 28, et merito, quia est eadem
+            <lb ed="#P" n="57"/>omnino ratio. De inimicis diligendis infra,
+            <lb ed="#P" n="58"/>disp. 5, sect. 5. Adde nomine proximi 
+            intel<lb break="no" ed="#P" n="59"/>ligi etiam Christum, ut hominem, quia ut sic
+            <lb ed="#P" n="60"/>est eiusdem naturae nobiscum, et consors 
+            ejus<lb break="no" ed="#P" n="61"/>dem beatitudinis,quod notant sancti Patres in
+            <lb ed="#P" n="62"/>parabola Samaritani, Luc. 10, et Doctores, in
+            <lb ed="#P" n="63"/>4. dist. 1.
+          </p>
+          <p xml:id="szthvi-b56917-d1e301">
+            <lb ed="#P" n="64"/>4. Objectio prima. — Secunda. — Solutio,
+            <lb ed="#P" n="65"/>eundem sibi proximum. etiam esse.— Ad 
+            se<lb break="no" ed="#P" n="66"/>cundam objectionem, peccatores esse proaimos.
+            <lb ed="#P" n="67"/>— Quid de damnatis.— Dices: ergo ipse homo
+            <lb ed="#P" n="68"/>diligens se computandus est inter proximos
+            <lb ed="#P" n="69"/>diligendos, quod videtur falsum, quia homo
+            <lb ed="#P" n="70"/>non est sibi proximus; et Gregorius, hom. 17
+            <lb ed="#P" n="71"/>in Evangel., ait charitatem in alium tendere,
+            <lb ed="#P" n="72"/>ut charitas esse possit. Secundo, peccatores et
+            <lb ed="#P" n="73"/>daemones continebuntur sub hoc objecto. 
+            Res<lb break="no" ed="#P" n="74"/>pondetur ad primum, concedendo, si perfecte
+            <lb ed="#P" n="75"/>se homo diligat propter Deum, imo post
+            <lb ed="#P" n="76"/>Deum, magis circa hoc objectum charitatem
+            <lb ed="#P" n="77"/>esse quam circa alia; cum vero Gregorius
+            <lb ed="#P" n="78"/>dicit charitatem tendere in alium, 
+            intelligen<lb break="no" ed="#P" n="79"/>dus est, prout habet rationem propriam 
+            ami<lb break="no" ed="#P" n="80"/>citiae, et versatur circa primum objectum,
+            <lb ed="#P" n="81"/>cum quo haec amicitia contrahitur; in quo est
+            <lb ed="#P" n="82"/>notanda differentia inter divinam amicitiam,
+            <lb ed="#P" n="83"/>et humanam ; nam etsi amicitia humana velit
+            <lb ed="#P" n="84"/>bonum amico propter ipsum, tamen homo
+            <lb ed="#P" n="85"/>non se diligit propter amicum, neque amor
+            <lb ed="#P" n="86"/>sui manat ex amore amici; quin potius hic
+            <lb ed="#P" n="87"/>amor supponit illum, et per illum 
+            quodam<lb break="no" ed="#P" n="88"/>modo regulatur; nam debemus diligere 
+            ami<lb break="no" ed="#P" n="89"/>cOS, sicut nos ipsos; at divina amicitia per se
+            <lb ed="#P" n="90"/>primo tendit in Deum, et inde reflectitur in
+            <lb ed="#P" n="91"/>amantem ; et propterea hic amor est charitatis
+            <lb ed="#P" n="92"/>et amicitiae, etiamsi sit amor sui; amor enim
+            <lb ed="#P" n="93"/>sui, qui ex propria commoditate nascitur, ad
+            <lb ed="#P" n="94"/>amorem concupiscentiae spectat ; at ille qui
+            <lb ed="#P" n="95"/>nascitur ex amore Dei, ad charitatem spectat,
+            <lb ed="#P" n="96"/>ut docet D. Thomas, 2. 2, q. 25, art. 4. Ad
+            <lb ed="#P" n="97"/>secundum respondetur , etiam peccatores esse
+            <lb ed="#P" n="98"/>diligendos ex charitate, non ratione culpae,
+            <lb ed="#P" n="99"/>sed ratione naturae, per quam sunt capaces
+            <lb ed="#P" n="100"/>divinae bonitatis, ut passim tradunt 
+            Augusti<lb break="no" ed="#P" n="101"/>nus et Hieronymus. Observanda autem est
+            <lb ed="#P" n="102"/>differentia inter peccatores viatores et 
+            dam<lb break="no" ed="#P" n="103"/>natos; nam iili simpliciter sunt capaces 
+            bono<lb break="no" ed="#P" n="104"/>rum supernaturalium, unde possunt absolute
+            <lb ed="#P" n="105"/>et efficaciter amari; at vero damnati sunt 
+            in<lb break="no" ed="#P" n="106"/>capaces horum bonorum, et ideo simpliciter
+            <lb ed="#P" n="107"/>diligi nequeunt amore perfecto charitatis, etsi
+            <pb ed="#P" n="636"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>imperfecto modo possit charitas versari circa
+            <lb ed="#P" n="2"/>ills, per voluntates, et desideria 
+            imper<lb break="no" ed="#P" n="3"/>fecta.
+          </p>
+          <p xml:id="szthvi-b56917-d1e410">
+            <lb ed="#P" n="4"/>5. Quid de damnandis. — Sed quaeres an sit
+            <lb ed="#P" n="5"/>idem de reprobis, qui nondum pervenerunt
+            <lb ed="#P" n="6"/>ad illum statum. Respondetur in particulari,
+            <lb ed="#P" n="7"/>et ablata omni speciali revelatione, etsi 
+            scia<lb break="no" ed="#P" n="8"/>mus inter viatores quosdam esse reprobos,
+            <lb ed="#P" n="9"/>quosdam praedestinatos, omnes tamen 
+            abso<lb break="no" ed="#P" n="10"/>lute esse diligendos ex charitate; quia 
+            nesci<lb break="no" ed="#P" n="11"/>mus qui sint reprobi, et absolute omnes 
+            pos<lb break="no" ed="#P" n="12"/>sunt salvari. Tamen loquendo in communi,
+            <lb ed="#P" n="13"/>impossibile est charitatem ita amare reprobos,
+            <lb ed="#P" n="14"/>ut absolute veht illis beatitudinem, quia 
+            ju<lb break="no" ed="#P" n="15"/>dicatur impossibile eos eam assequi ; et 
+            quam<lb break="no" ed="#P" n="16"/>vis hoc non sit impossibile simpliciter, sed
+            <lb ed="#P" n="17"/>facta suppositione, tamen jam 
+            apprehendun<lb break="no" ed="#P" n="18"/>tur sub illa. Et idem est si de aliquo in 
+            parti<lb break="no" ed="#P" n="19"/>culari fieret reveiatio, et certum esset eam
+            <lb ed="#P" n="20"/>revelationem esse absolutam, quia non posset
+            <lb ed="#P" n="21"/>quis licite petere aut desiderare contrarium
+            <lb ed="#P" n="22"/>actu absoluto; illud enim esset dubitare de
+            <lb ed="#P" n="23"/>certitudine revelationis ; posset tamen in hoc
+            <lb ed="#P" n="24"/>casu diligi reprobus ex charitate, ad ea bona
+            <lb ed="#P" n="25"/>quae non pugnant cum reprobatione, ut est
+            <lb ed="#P" n="26"/>vitare multa peccata, etc. Quo modo D. 
+            Tho<lb break="no" ed="#P" n="27"/>mas, 1 p., q. 113, art. 4, ad tertium, dicit 
+            An<lb break="no" ed="#P" n="28"/>üchristum habiturum Angelum custodem,
+            <lb ed="#P" n="29"/>qui illum a peccatis revocet, quantum possit,
+            <lb ed="#P" n="30"/>etsi sciat illum fore damnandum.
+          </p>
+          <p xml:id="szthvi-b56917-d1e471">
+            <lb ed="#P" n="31"/>6. Tertia conclusio. — Dico tertio: non 
+            so<lb break="no" ed="#P" n="32"/>Ium secundum animam, sed etiam secundum
+            <lb ed="#P" n="33"/>corpus potest homo esse materiale objectum
+            <lb ed="#P" n="34"/>charitatis : ita divus Thomas, 2. 2, q. 25 et
+            <lb ed="#P" n="35"/>q. 26, art. 5. Ratio est, quia corpus humanum
+            <lb ed="#P" n="36"/>est aliquo modo capax bonorum 
+            supernatu<lb break="no" ed="#P" n="37"/>ralium. Item est pars proximi ex charitate
+            <lb ed="#P" n="38"/>amati, ut instrumentum bonorum operum.
+            <lb ed="#P" n="39"/>Unde ulterius fit quod, sicut aliter est homo
+            <lb ed="#P" n="40"/>capax beatitudinis ratione animae, aliter 
+            ra<lb break="no" ed="#P" n="41"/>tione corporis, ita diverso modo est amabilis
+            <lb ed="#P" n="42"/>ratione animae et ratione corporis : ratione
+            <lb ed="#P" n="43"/>animae primario, ratione corporis secundario.
+            <lb ed="#P" n="44"/>Hincobitercolligitur aliter diligi corpus ex 
+            cha<lb break="no" ed="#P" n="45"/>ritate, aliter sensuali amore; et aliter a justis,
+            <lb ed="#P" n="46"/>et aliter a peccatoribus; nam illi amant corpus
+            <lb ed="#P" n="47"/>ad bona supernaturalia, hi ad infima. Unde
+            <lb ed="#P" n="48"/>illi magis diligunt corpus, dum illud affligunt,
+            <lb ed="#P" n="49"/>et docent rationi obedire; nam hoc ipsum 
+            me<lb break="no" ed="#P" n="50"/>lius est, non solum homini, sed etiam corpori;
+            <lb ed="#P" n="51"/>at vero in malo peccatores plus diligunt se et
+            <lb ed="#P" n="52"/>corpora, quam justi; quia illi suum finem 
+            ul<lb break="no" ed="#P" n="53"/>timum in se amando constituunt.
+          </p>
+          <p xml:id="szthvi-b56917-d1e523">
+            <lb ed="#P" n="54"/>1. Quarta conclusio. — Dico quarto : bona
+            <lb ed="#P" n="55"/>supernaturalia etiam pertinent ad materiam
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>charitatis. non ut id quod diligitur tanquam
+            <lb ed="#P" n="57"/>amicus, sed ut bonum maximum, quod 
+            ami<lb break="no" ed="#P" n="58"/>co diligitur. Ratio est, quia cum haec bona non
+            <lb ed="#P" n="59"/>sint personae, sint autem maximae 
+            perfectio<lb break="no" ed="#P" n="60"/>nes eorum qui ratione utuntur, non sunt 
+            dili<lb break="no" ed="#P" n="61"/>gibilia priori, sed posteriori modo. Dices: 
+            er<lb break="no" ed="#P" n="62"/>go amare sibi beatitudinem et charitatem
+            <lb ed="#P" n="63"/>pertinet ad charitatem; ergo et amare sibi
+            <lb ed="#P" n="64"/>Deum; at hoc est falsum, quia hoc pertinet
+            <lb ed="#P" n="65"/>ad amorem concupiscentiae. Respondetur. haec
+            <lb ed="#P" n="66"/>omnia esse objecta materialia charitatis et
+            <lb ed="#P" n="67"/>concupiscentiae, tamen diverso modo; nam si
+            <lb ed="#P" n="68"/>quis amet suam justitiam et charitatem, etc.,
+            <lb ed="#P" n="69"/>non primario et propter se, seu per se et 
+            pro<lb break="no" ed="#P" n="70"/>pter suum commodum, sed propter Deum et
+            <lb ed="#P" n="71"/>ejus gloriam, sic est amor charitatis ; si vero
+            <lb ed="#P" n="72"/>primario suam charitatem respiciat, est amor
+            <lb ed="#P" n="73"/>concupiscentiae.
+          </p>
+          <p xml:id="szthvi-b56917-d1e572">
+            <lb ed="#P" n="74"/>8. Quinta conclusio. — Dico quinto: omnes
+            <lb ed="#P" n="75"/>res aliae irrationales et inanimatae , etsi non
+            <lb ed="#P" n="76"/>sint objecta charitatis, tanquam bona per se
+            <lb ed="#P" n="77"/>amabilia, sunt tamen aliquo modo objecta
+            <lb ed="#P" n="78"/>charitatis, tanquam bona quae amicis ex 
+            cha<lb break="no" ed="#P" n="79"/>ritate diliguntur. Prioris partis probatio 
+            su<lb break="no" ed="#P" n="80"/>menda est ex priori praecedentis assertionis.
+            <lb ed="#P" n="81"/>Ratio posterioris est, quia omne quod est 
+            bo<lb break="no" ed="#P" n="82"/>num proximi, et ad ejus beatitudinem 
+            con<lb break="no" ed="#P" n="83"/>ferre potest, potest ex motivo supernatural
+            <lb ed="#P" n="84"/>illi amari ; hujusmodi autem sunt omnes res
+            <lb ed="#P" n="85"/>de quibus loquimur. Contra hanc 
+            conclusio<lb break="no" ed="#P" n="86"/>nem videtur sentire Bonaventura, in 3, dist.
+            <lb ed="#P" n="87"/>28. art. 1, q. 2, dicens has res posse amari
+            <lb ed="#P" n="88"/>amore imperato a charitate, non elicito ; sed
+            <lb ed="#P" n="89"/>non video quo fundamento nitatur.
+          </p>
+          <p xml:id="szthvi-b56917-d1e609">
+            <lb ed="#P" n="90"/>9. Ultima conclusio. — Ad«equatun 
+            chari<lb break="no" ed="#P" n="91"/>tatis ojectum quotuplex. Dico ulimo: etsi
+            <lb ed="#P" n="92"/>haec omnia pertineant ad objectum materiale
+            <lb ed="#P" n="93"/>charitatis, et ideo objectum adaequatum dici
+            <lb ed="#P" n="94"/>possit bonum supernaturale amabile ex 
+            ami<lb break="no" ed="#P" n="95"/>citia, tamen etiam Deus ipse potest dici 
+            con<lb break="no" ed="#P" n="96"/>venienter materiale objectum adaequatum
+            <lb ed="#P" n="97"/>charitatis: haec conclusio explicanda est ad
+            <lb ed="#P" n="98"/>modum alterius similis posita in materia de
+            <lb ed="#P" n="99"/>fide . Nam imprimis materia habitus dici 
+            po<lb break="no" ed="#P" n="100"/>test, omne id in quo versatur habitus sub 
+            ra<lb break="no" ed="#P" n="101"/>tione formali sua, et hoc modo procedit 
+            pri<lb break="no" ed="#P" n="102"/>ma pars. Secundo, potest etiam dici 
+            adaequa<lb break="no" ed="#P" n="103"/>tum objectum res illa, propter quam est 
+            pri<lb break="no" ed="#P" n="104"/>mo et per se habitus, et ad quam referuntur
+            <lb ed="#P" n="105"/>omnia circa quae versatur habitus; et 
+            hujus<lb break="no" ed="#P" n="106"/>modi est Deus in virtute charitatis, ut per se
+            <lb ed="#P" n="107"/>constat, et ex dicendis patebit.
+          </p>
+        </div>
+        <div xml:id="szthvi-b56917-Dd1e653">
+          <head xml:id="szthvi-b56917-Hd1e655">Sectio 2</head>
+          <head xml:id="szthvi-b56917-Hd1e657" type="question-title">Sub qua ratione formali deus sit objectum charitatis</head>
+          <p xml:id="szthvi-b56917-d1e660">
+            <pb ed="#P" n="637"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>SECTIO II.
+            <lb ed="#P" n="2"/>Sub qua ratione formali Deus sit objectum
+            <lb ed="#P" n="3"/>charitatis.
+          </p>
+          <p xml:id="szthvi-b56917-d1e673">
+            <lb ed="#P" n="4"/>1. Prima resolutio. — Primo constat Deum
+            <lb ed="#P" n="5"/>sub ratione boni esse objectum charitatis ;
+            <lb ed="#P" n="6"/>quia charitas ad voluntatem spectat , et est
+            <lb ed="#P" n="7"/>amor. Constat secundo Deum sub ratione
+            <lb ed="#P" n="8"/>summi boni, propter se amabilis, esse 
+            objec<lb break="no" ed="#P" n="9"/>tum charitatis; ita D. Thomas, q. 23, art. 5,
+            <lb ed="#P" n="10"/>ad secundum, et art. 6, in corpore. Ratio est,
+            <lb ed="#P" n="11"/>quia in hoc differt charitas, et ab omni alia
+            <lb ed="#P" n="12"/>dilectione boni creati, et a dilectione ipsius
+            <lb ed="#P" n="13"/>Dei, quae est concupiscentiae vel spei; nam
+            <lb ed="#P" n="14"/>Ahaec diligit Deum ut summum bonum 
+            diligen<lb break="no" ed="#P" n="15"/>tis, charitas vero amat Deum propter se.
+          </p>
+          <p xml:id="szthvi-b56917-d1e702">
+            <lb ed="#P" n="16"/>2. Objectio. — Dices: Deus non solum est
+            <lb ed="#P" n="17"/>amabilis ex charitate , quia bonus est, sed
+            <lb ed="#P" n="18"/>quia sapiens, justus, misericors, etc. 
+            Respon<lb break="no" ed="#P" n="19"/>deo dupliciter intelligi posse hanc summam
+            <lb ed="#P" n="20"/>bonitatem : primo, ut attributum distinctum
+            <lb ed="#P" n="21"/>ab aliis, et importans summam perfectionem
+            <lb ed="#P" n="22"/>in operando, et hoc modo non est adaequata
+            <lb ed="#P" n="23"/>ratio dilectionis Dei, sicut neque illa est 
+            ra<lb break="no" ed="#P" n="24"/>tio adaequate beatificans hominem. Alio 
+            mo<lb break="no" ed="#P" n="25"/>do bonitas significat absolutam perfectionem
+            <lb ed="#P" n="26"/>in omni genere excellentia, seu absolutam
+            <lb ed="#P" n="27"/>excellentiam in omni genere perfectionis; et
+            <lb ed="#P" n="28"/>hoc modo est ratio formalis objecti 
+            charita<lb break="no" ed="#P" n="29"/>tis propria et specialis, quia licet sit 
+            univer<lb break="no" ed="#P" n="30"/>salis in continendo perfectionem omnem, 
+            pro<lb break="no" ed="#P" n="31"/>pter quod sufficiens est ad explendam 
+            capaci<lb break="no" ed="#P" n="32"/>tatem et appetitum hominis, tamen in se est
+            <lb ed="#P" n="33"/>simplicissima ratio, quae specialem modum
+            <lb ed="#P" n="34"/>dilectionis requirit.
+          </p>
+          <p xml:id="szthvi-b56917-d1e747">
+            <lb ed="#P" n="35"/>3. Objectio prima. — Solutio. —Sed contra
+            <lb ed="#P" n="36"/>secundo : nam amare Deum propter beneficia
+            <lb ed="#P" n="37"/>nobis collata, est charitatis, et tamen ratio
+            <lb ed="#P" n="38"/>amandi non est bonitas Dei, sed potius 
+            bo<lb break="no" ed="#P" n="39"/>nitas creata, scilicet, beneficium nobis 
+            fac<lb break="no" ed="#P" n="40"/>tum. Respondetur hune actum regulariter 
+            es<lb break="no" ed="#P" n="41"/>se imperatum a gratitudine, qui, teste divo
+            <lb ed="#P" n="42"/>Thoma, secunda secundae, quaestione 106, 
+            ar<lb break="no" ed="#P" n="43"/>ticulo primo, ut est ad Deum, est pars 
+            reli<lb break="no" ed="#P" n="44"/>gionis, vel ipsa religio, tamen elicitive est a
+            <lb ed="#P" n="45"/>charitate, proximaque ratio objecti in illa 
+            di<lb break="no" ed="#P" n="46"/>lectione est bonitas Dei, cui tamen obsequium
+            <lb ed="#P" n="47"/>illud gratitudo imperat; sicut si quis etiam ob
+            <lb ed="#P" n="48"/>beneficium susceptum velit credere; nam licet
+            <lb ed="#P" n="49"/>religio sit minus perfecta virtus quam 
+            Theolo<lb break="no" ed="#P" n="50"/>gica , tamen interdum propter suum finem
+            <lb ed="#P" n="51"/>movet illas al earum actus; qua ratione dicit
+            <lb ed="#P" n="52"/>Augustinus in Enchiridio, summum Bei cul-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>tum in actibus fidei, spei et charitatis 
+            consis<lb break="no" ed="#P" n="54"/>tere. Quod si urgeas, posse nos velle Deo 
+            bo<lb break="no" ed="#P" n="55"/>num proxime et immediate propter beneficium
+            <lb ed="#P" n="56"/>factum, respondetur actum illum esse 
+            elici<lb break="no" ed="#P" n="57"/>tum a gratitudine, non a charitate ; addo 
+            ta<lb break="no" ed="#P" n="58"/>men hanc gratitudinem, ut perfecta sit, et
+            <lb ed="#P" n="59"/>amicitiam respiciat, non tam esse propter 
+            be<lb break="no" ed="#P" n="60"/>neficium quod in nobis fit, quam propter 
+            amo<lb break="no" ed="#P" n="61"/>rem ex quo illud oritur. Ita D. Thomas 2. 2,
+            <lb ed="#P" n="62"/>quaestione 106, articul. 5. Unde cum Deus 
+            per<lb break="no" ed="#P" n="63"/>fecte amatur propter beneficium, potius 
+            ama<lb break="no" ed="#P" n="64"/>tur quia nos amat ; hoc autem charitatis est,
+            <lb ed="#P" n="65"/>et amicitiae, neque actus hujus ratio objectiva
+            <lb ed="#P" n="66"/>est extra divinam bonitatem ; nam amor quo
+            <lb ed="#P" n="67"/>Deus nos amat, ipse Deus est, et summa 
+            quae<lb break="no" ed="#P" n="68"/>dam perfectio ejus ; item ipse nos amat, quia
+            <lb ed="#P" n="69"/>bonus est; unde quia amatur eo quod amet,
+            <lb ed="#P" n="70"/>amatur ctiam quia bonus est.
+          </p>
+          <p xml:id="szthvi-b56917-d1e830">
+            <lb ed="#P" n="71"/>4. Tertia et preecipua objectio. — 
+            Confirma<lb break="no" ed="#P" n="72"/>tur. — Aliorum responsio. — Rejicitur, et 
+            ve<lb break="no" ed="#P" n="73"/>ra sententia statuitur. — Tertia et major 
+            dif<lb break="no" ed="#P" n="74"/>ficultas est, nam totum illud objectum a 
+            no<lb break="no" ed="#P" n="75"/>bis positum commune est charitati infusae, et
+            <lb ed="#P" n="76"/>amori naturali Dei; cum ergo hi amores sint
+            <lb ed="#P" n="77"/>distincti, oportet assignare distincta objecta
+            <lb ed="#P" n="78"/>formalia. Confirmatur, nam amor tendit in
+            <lb ed="#P" n="79"/>Deum, prout in se est ; ergo omnis amor Dei
+            <lb ed="#P" n="80"/>tendit in ipsum propter suam bonitatem, et
+            <lb ed="#P" n="81"/>ut in se est; ergo hoc objectum commune est,
+            <lb ed="#P" n="82"/>non proprium charitatis. Propter hoc quidam
+            <lb ed="#P" n="83"/>concedunt, nullam esse in hoc distinctionem,
+            <lb ed="#P" n="84"/>consequenterque negant esse aliquem Dei 
+            ve<lb break="no" ed="#P" n="85"/>rum amorem, qui non sit charitatis ipfusae, ac
+            <lb ed="#P" n="86"/>rejiciunt illam distinctionem Dei, ut auctor est
+            <lb ed="#P" n="87"/>natura,, vel ut objectum supernaturale ; ita
+            <lb ed="#P" n="88"/>Bayus, in opusc. de Charitate. Sed est 
+            senien<lb break="no" ed="#P" n="89"/>tia omnino falsa, et inter alias propositiones
+            <lb ed="#P" n="90"/>hujus auctoris rejecta in Bullis Pii V et 
+            Gre<lb break="no" ed="#P" n="91"/>gorii XIII, et est contra D. Thomam 1. 2,
+            <lb ed="#P" n="92"/>quaest. 109, art. 3; Quodlibeto 1, art. 3;
+            <lb ed="#P" n="93"/>Alens., 2 parte. quaestione 90, membro 1,
+            <lb ed="#P" n="94"/>artic. 1, in solut. argumentorum ; Bonavent.,
+            <lb ed="#P" n="95"/>in 2, distinct. 3, art. 3, quaest. 2 et alios 
+            Theo<lb break="no" ed="#P" n="96"/>logos, quos ob brevitatem omitto '. Ratio est,
+            <lb ed="#P" n="97"/>quia homo ex naturali inclinatione fertur in
+            <lb ed="#P" n="98"/>Deum, ut est quoddam bonum naturae summe
+            <lb ed="#P" n="99"/>amabile : huic autem inclinationi additur per
+            <lb ed="#P" n="100"/>charitatem alia superioris ordinis ; ergo 
+            opor<lb break="no" ed="#P" n="101"/>tet et has esse distinctas, et tendere in 
+            ob<lb break="no" ed="#P" n="102"/>jecta diversis rationibus. Confirmatur, quia
+            <lb ed="#P" n="103"/>certum cst Deum habere duplicem rationem
+            <lb ed="#P" n="104"/>finis ulfimi respectu humanae naturae, scilicet,
+            <lb ed="#P" n="105"/>naturalis et supernaturalis: sub utraque au-
+            <pb ed="#P" n="638"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>tem ratione est per se amabilis, nam finis 
+            ul<lb break="no" ed="#P" n="2"/>timus, ut sic, non amatur propter alium.
+            <lb ed="#P" n="3"/>Propter hoc ergo divus Thomas 2. 2, quaest.
+            <lb ed="#P" n="4"/>23, artic. 4, dicit speciale objectum charitatis
+            <lb ed="#P" n="5"/>esse bonum divinum,, ut est beatitudinis 
+            ob<lb break="no" ed="#P" n="6"/>jectum ; atque adeo, ut est objectum 
+            beatitu<lb break="no" ed="#P" n="7"/>dinis naturalis, erit objectum amoris 
+            natura<lb break="no" ed="#P" n="8"/>ralis ; ut vero est objectum supernaturalis
+            <lb ed="#P" n="9"/>beatitudinis, erit objectum charitatis infusae.
+          </p>
+          <p xml:id="szthvi-b56917-d1e932">
+            <lb ed="#P" n="10"/>5. Ultima resolutio seu conclusio.—Probatur
+            <lb ed="#P" n="11"/>primo. — Dico ultimo, formale objectum 
+            cha<lb break="no" ed="#P" n="12"/>ritatis esse summam Dei bonitatem, quae est
+            <lb ed="#P" n="13"/>quoddam bonum, ita excedens humanae 
+            natu<lb break="no" ed="#P" n="14"/>rae ordinem, ut nullam habeat cum tali 
+            na<lb break="no" ed="#P" n="15"/>tura connexionem vel communicationem, sed
+            <lb ed="#P" n="16"/>ut est prorsus alterius ordinis. Unde amoris
+            <lb ed="#P" n="17"/>naturalis objectum erit Deus, ut est summum
+            <lb ed="#P" n="18"/>quoddam bonum naturae accommodatum, et
+            <lb ed="#P" n="19"/>habens cum illa necessariam connexionem et
+            <lb ed="#P" n="20"/>communicationem. Hanc conclusionem 
+            pro<lb break="no" ed="#P" n="21"/>bo, primo ex distincione illorum amorum;
+            <lb ed="#P" n="22"/>distinguuntur enim tanquam amor 
+            accommo<lb break="no" ed="#P" n="23"/>datus naturae, et excedens naturam ; ergo, 
+            ob<lb break="no" ed="#P" n="24"/>jecta formalia eorum eadem ratione 
+            distin<lb break="no" ed="#P" n="25"/>guuntur.
+          </p>
+          <p xml:id="szthvi-b56917-d1e969">
+            <lb ed="#P" n="26"/>6. Probatur secundo. — Prima consideratio.
+            <lb ed="#P" n="27"/>— Secunda consideratio. — Tuertia 
+            considera<lb break="no" ed="#P" n="28"/>tio. — Quarta consideratio. — Secundo id 
+            va<lb break="no" ed="#P" n="29"/>riis considerationibus de Deo declaratur. Nam,
+            <lb ed="#P" n="30"/>licet quicquid est in Deo superet omnem 
+            natu<lb break="no" ed="#P" n="31"/>ram creatam, et, ut sic, possit dici 
+            superna<lb break="no" ed="#P" n="32"/>turalis !, tamen Deus sub quadam ratione 
+            ha<lb break="no" ed="#P" n="33"/>bet necessariam connexionem cum natura 
+            ho<lb break="no" ed="#P" n="34"/>minis sub ratione proportionati principii et
+            <lb ed="#P" n="35"/>finis, et hoc modo dicitur bonum naturale, scu
+            <lb ed="#P" n="36"/>accommodatum naturae ; tamen ultra hoc est
+            <lb ed="#P" n="37"/>in Deo infinita quaedam bonitas et perfectio,
+            <lb ed="#P" n="38"/>quae cum natura hominis, ut sic, nullam 
+            ha<lb break="no" ed="#P" n="39"/>bet connexionem ; quia, ut sic, nihil 
+            commu<lb break="no" ed="#P" n="40"/>nicat illi naturae, neque est principium ejus,
+            <lb ed="#P" n="41"/>et hoc modo Deus est bonum superans omnem
+            <lb ed="#P" n="42"/>naturam. Praeterea ex hac differentia oritur
+            <lb ed="#P" n="43"/>alia ; nam, licet benevolentiae amor non 
+            ten<lb break="no" ed="#P" n="44"/>dat in objectum , ut bonum amantis (alioquin
+            <lb ed="#P" n="45"/>jam non esset benevolentiae, sed 
+            concupiscen<lb break="no" ed="#P" n="46"/>tiae), requirit tamen conjunctionem aliquam
+            <lb ed="#P" n="47"/>inter amatum et amantem ; verbi gratia, licet
+            <lb ed="#P" n="48"/>ita amem patrem vel amicum, ut velim illis
+            <lb ed="#P" n="49"/>bonum propter se, tamen hic amor non esset,
+            <lb ed="#P" n="50"/>nisi illos apprehenderem ut unum mecum, et
+            <lb ed="#P" n="51"/>mihi conjunctos, ut dicit Aristoteles, 8 
+            Ethi<lb break="no" ed="#P" n="52"/>cor., capite secundo: Amabile bomun, unicuique
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>autem proprium. Hinc igitur fit ut, quando
+            <lb ed="#P" n="54"/>communicatio et unio est diversi ordinis,
+            <lb ed="#P" n="55"/>etiam ratio diligibilis et boni, quae in objecto
+            <lb ed="#P" n="56"/>apparet, distincti sit ordinis; Deus igitur aliam
+            <lb ed="#P" n="57"/>conjunctionem et communicationem habet
+            <lb ed="#P" n="58"/>cum natura, ut tantum dat illi esse naturale;
+            <lb ed="#P" n="59"/>aliam vero, ut dat illi esse supernaturale, et
+            <lb ed="#P" n="60"/>propriam participationem suae beatitudinis.
+            <lb ed="#P" n="61"/>Secundum has ergo diversas rationes, habet
+            <lb ed="#P" n="62"/>diversam rationem objecti. Unde etiam fit ut
+            <lb ed="#P" n="63"/>sub una ametur proprie ut amicus, quia 
+            com<lb break="no" ed="#P" n="64"/>municatio supernaturalis adeo perfecta est, ut
+            <lb ed="#P" n="65"/>ad hoc sufficiat ; sub alia vero minime. Hinc
+            <lb ed="#P" n="66"/>fit ulterius, objectum benevolentiae, quamvis
+            <lb ed="#P" n="67"/>propter se ametur, ita tamen amari, ut simul
+            <lb ed="#P" n="68"/>appetatur conjunctio et unio cum tali objecto
+            <lb ed="#P" n="69"/>hoc enim requiritur ad perfectionem amicitiae.
+            <lb ed="#P" n="70"/>Rursus Deus, ut bonum naturae 
+            accommoda<lb break="no" ed="#P" n="71"/>tum, est bonum comparabile per naturalia
+            <lb ed="#P" n="72"/>media, ut tota illa pertectio naturalis 
+            existi<lb break="no" ed="#P" n="73"/>matur. Deus vero, ut bonum excedens 
+            natu<lb break="no" ed="#P" n="74"/>ram, offertur ut obtinendus per media 
+            super<lb break="no" ed="#P" n="75"/>naturalia, et ipsamet consecutio illius est 
+            om<lb break="no" ed="#P" n="76"/>nino supernaturalis, et ideo illud objectum,
+            <lb ed="#P" n="77"/>sub hac ratione boni, est non solum summum
+            <lb ed="#P" n="78"/>bonum, sed etiam bonum excedens totam 
+            na<lb break="no" ed="#P" n="79"/>turam et ejus vires. Postremo Deus non solum
+            <lb ed="#P" n="80"/>dictis modis, sed etiam alia ratione habet 
+            ob<lb break="no" ed="#P" n="81"/>jecti rationem et boni supernaturalis 
+            diligibi<lb break="no" ed="#P" n="82"/>lis ; nempe quando per supernaturalem 
+            regu<lb break="no" ed="#P" n="83"/>lam ita proponitur amandus '; sicut enim in
+            <lb ed="#P" n="84"/>virtutibus moralibus infusis, eadem materia,
+            <lb ed="#P" n="85"/>quae alias nawuralis est, per conformitatem ad
+            <lb ed="#P" n="86"/>supernaturalem regulam inducit rationem 
+            for<lb break="no" ed="#P" n="87"/>malem objecti et motivi supernaturalis, ita
+            <lb ed="#P" n="88"/>etiam similis bonitas et honestas potest 
+            repe<lb break="no" ed="#P" n="89"/>riri in hoc objecto charitatis, et hoc modo
+            <lb ed="#P" n="90"/>Deus, non solum secundum ea attributa quae
+            <lb ed="#P" n="91"/>per se excedunt oninem facultatem naturae,
+            <lb ed="#P" n="92"/>sed etiam ipsamet bonitas Dei, quae alias 
+            natu<lb break="no" ed="#P" n="93"/>raliter potest amari, quatenus regulata regula
+            <lb ed="#P" n="94"/>supernaturali pertinet ad objectum charitatis
+            <lb ed="#P" n="95"/>infusae ?.
+          </p>
+        </div>
+        <div xml:id="szthvi-b56917-Dd1e1126">
+          <head xml:id="szthvi-b56917-Hd1e1128">Sectio 3</head>
+          <head xml:id="szthvi-b56917-Hd1e1130" type="question-title">Qua ratione proximus ex charitate ametur, atque adeo an sola bonitas increata sit adequatum objectum charitatis</head>
+          <p xml:id="szthvi-b56917-d1e1133">
+            <lb ed="#P" n="96"/>SECTIO III.
+            <lb ed="#P" n="97"/>Qua ratione proximus ex charitate ametur, 
+            at<lb break="no" ed="#P" n="98"/>que adeo an sola bonitas increata sit 
+            adequa<lb break="no" ed="#P" n="99"/>tum objectum charitatis.
+          </p>
+          <p xml:id="szthvi-b56917-d1e1144">
+            <lb ed="#P" n="100"/>1. Prima conclusio.— De particula propter,
+            <pb ed="#P" n="639"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>infra, disp. 2. initio. — Dico primo: ipsa 
+            bo<lb break="no" ed="#P" n="2"/>nitas increata, quae in Deo est, est sufficiens
+            <lb ed="#P" n="3"/>ratio ut propter eam proxime et immediate
+            <lb ed="#P" n="4"/>diligatur proximus. Et licet particula propter,
+            <lb ed="#P" n="5"/>varia significet, tamen in proposito significat
+            <lb ed="#P" n="6"/>preximam rationem formalem, et motivum;
+            <lb ed="#P" n="7"/>nam sola bonitas, quae in Deo est, sufticienter
+            <lb ed="#P" n="8"/>mcvet ad amandum proximum, non 
+            conside<lb break="no" ed="#P" n="9"/>rata intrinseca bonitate proximi; sicut enim
+            <lb ed="#P" n="10"/>excellentia, quae est in Christo, est sufficiens
+            <lb ed="#P" n="11"/>causa venerandi imaginem ejus, ita quamvis
+            <lb ed="#P" n="12"/>nulla supernaturalis bonitas sit in proximo,
+            <lb ed="#P" n="13"/>imo summa malitia, charitas in bonitate Dei
+            <lb ed="#P" n="14"/>invenit sufficientem rationem amandi illum.
+          </p>
+          <p xml:id="szthvi-b56917-d1e1183">
+            <lb ed="#P" n="15"/>2. Objectio.— Responsio.— Dices : bonitas,
+            <lb ed="#P" n="16"/>quae in Deo est, non facit bonum proximum ;
+            <lb ed="#P" n="17"/>quomodo ergo potest esse ratio diligendi illum,
+            <lb ed="#P" n="18"/>cum nihil diligatur, nisi bonum ? Respondetur
+            <lb ed="#P" n="19"/>Deum tunc esse rationem diligendi, ad eum
+            <lb ed="#P" n="20"/>modum quo finis est ratio diligendi media. Non
+            <lb ed="#P" n="21"/>quod proximus ametur istio modo ex charitate,
+            <lb ed="#P" n="22"/>ut medium ad consequenium Deum ; sed in
+            <lb ed="#P" n="23"/>seipso amatur, ut ipse consequitur Deum; 
+            so<lb break="no" ed="#P" n="24"/>lum ergo tenet proportio in hoc, quod 
+            utrobi<lb break="no" ed="#P" n="25"/>que ratio diligendi est extrinseca, et ut sit
+            <lb ed="#P" n="26"/>amabilis, non propter bonitatem intrinsecam,
+            <lb ed="#P" n="27"/>sed propter habitudinem; tamen haec 
+            habitu<lb break="no" ed="#P" n="28"/>do in exemplo posito pertinet ad causam 
+            fina<lb break="no" ed="#P" n="29"/>lem, extrinsecus applicatam per quamdam 
+            ha<lb break="no" ed="#P" n="30"/>bitudinem : sunt enim isto modo proximi
+            <lb ed="#P" n="31"/>amabiles propter Dei bonitatem, quatenus sunt
+            <lb ed="#P" n="32"/>capaces istius bonitatis. Dices : ergo hoc 
+            mo<lb break="no" ed="#P" n="33"/>do non diligitur proximus ut amicus; nam si
+            <lb ed="#P" n="34"/>ita diligerem servum amici propter amicum,
+            <lb ed="#P" n="35"/>non amarem illum ut amicum. Sed negatur
+            <lb ed="#P" n="36"/>consequentia ; nam licet non diligatur 
+            proxi<lb break="no" ed="#P" n="37"/>mus ut principalis amicus, diligitur tamen ut
+            <lb ed="#P" n="38"/>secundarius, et capax eorumdem bonorum.
+          </p>
+          <p xml:id="szthvi-b56917-d1e1239">
+            <lb ed="#P" n="39"/>3. Secunda conclusio. — Dico secundo:
+            <lb ed="#P" n="40"/>proximus , qui intrinsece justus est justitia
+            <lb ed="#P" n="41"/>creata et supernaturali sibi inhaerente , est
+            <lb ed="#P" n="42"/>etiam objectum amabile supernaturali 
+            di<lb break="no" ed="#P" n="43"/>lectione, cujus objecti proxima ratio non est
+            <lb ed="#P" n="44"/>bonitas Dei increata, sed creata, quae 
+            inhae<lb break="no" ed="#P" n="45"/>ret proximo. Probatur : nam hoc objectum
+            <lb ed="#P" n="46"/>ratione hujus bonitatis est amabile ; rursus
+            <lb ed="#P" n="47"/>illa proxima ratio amandi est 
+            supernatura<lb break="no" ed="#P" n="48"/>lis; ergo amor ille proportionatus est etiam
+            <lb ed="#P" n="49"/>supernaturalis. Secundo, prosimus, secundum
+            <lb ed="#P" n="50"/>naturae ordinem, est amabilis non solum 
+            im<lb break="no" ed="#P" n="51"/>mediate propter Deum, sed etiam immediate
+            <lb ed="#P" n="52"/>propter virtutes morales intrinsecas, aut 
+            pro<lb break="no" ed="#P" n="53"/>pter aliam perfectionem naturalem illi 
+            inhae<lb break="no" ed="#P" n="54"/>rentem ; ergo simili modo est amabilis in 
+            or<lb break="no" ed="#P" n="55"/>dine gratiae.
+          </p>
+          <p xml:id="szthvi-b56917-d1e1278">
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>4. Tertia conclusio. —Dico tertio: proximus
+            <lb ed="#P" n="57"/>etiam ratione bonitatis naturalis ei 
+            inirin<lb break="no" ed="#P" n="58"/>secae, modo reguletur per supernaturalem 
+            re<lb break="no" ed="#P" n="59"/>gulam, est etiam objectum amabie amore 
+            su<lb break="no" ed="#P" n="60"/>pernaturali. Probatur ex dictis in fine 
+            praece<lb break="no" ed="#P" n="61"/>dentis sectionis. Item argumentum 
+            proportio<lb break="no" ed="#P" n="62"/>nale sumptum ex virtutibus infusis hic etiam
+            <lb ed="#P" n="63"/>procedit, et ratio communis est, quia, licct
+            <lb ed="#P" n="64"/>res quae dihgitur naturalis sit, tamen diligitur
+            <lb ed="#P" n="65"/>sub motivo et honestate supernaturali, a quo
+            <lb ed="#P" n="66"/>motivo sumit actus suam naturam.
+          </p>
+          <p xml:id="szthvi-b56917-d1e1307">
+            <lb ed="#P" n="67"/>5. Objectio prima. — Secunda.— Responsio
+            <lb ed="#P" n="68"/>probailis. — Dices : sequitur ergo prosimam
+            <lb ed="#P" n="69"/>rationem amandi in charitate , non esse solam
+            <lb ed="#P" n="70"/>bonitatem Dei increatam ; consequens autem
+            <lb ed="#P" n="71"/>falsum est; primo, quia de ratione virtutis
+            <lb ed="#P" n="72"/>Theologicae est, ut adaequatum objectum 
+            for<lb break="no" ed="#P" n="73"/>male ejus sit increatum. Unde in aliis duabus
+            <lb ed="#P" n="74"/>virtutibus, quae minus perfectae sunt, ita 
+            repe<lb break="no" ed="#P" n="75"/>ritur. Secundo, quia unius virtutis una debet
+            <lb ed="#P" n="76"/>esse ratio formalis adaequata ; sed bonitas
+            <lb ed="#P" n="77"/>creata et increata, cum plusquam genere 
+            dif<lb break="no" ed="#P" n="78"/>ferant, non possunt in unam simplicem 
+            ratio<lb break="no" ed="#P" n="79"/>nem objecti formalem convenire. Haec vero
+            <lb ed="#P" n="80"/>non tam improbant conclusiones positas,
+            <lb ed="#P" n="81"/>quam ex eis inferunt, amorem, de quo prima
+            <lb ed="#P" n="82"/>et secunda conclusio loquitur, non pertinere
+            <lb ed="#P" n="83"/>ad unam et eamdem virtutem, et primum
+            <lb ed="#P" n="84"/>amorem esse charitatis, non alium ; quod non
+            <lb ed="#P" n="85"/>improbabiliter posset defendi et explicari 
+            va<lb break="no" ed="#P" n="86"/>riis exemplis. Primo, in amore naturali Dei
+            <lb ed="#P" n="87"/>et proximi, certum videtur, si ametur Deus
+            <lb ed="#P" n="88"/>propter se, et proximus etiam propter suam
+            <lb ed="#P" n="89"/>virtutem, illos amores pertinere ad diversas
+            <lb ed="#P" n="90"/>virtutes, quamvis illamet eadem virtute, qua
+            <lb ed="#P" n="91"/>amatur Deus propter se, possit etiam amari
+            <lb ed="#P" n="92"/>proximus propter Deum. Deinde potest 
+            hono<lb break="no" ed="#P" n="93"/>rari creatura vel propter intrinsecam 
+            excellen<lb break="no" ed="#P" n="94"/>tiam creatam, ut Beata Virgo; vel proxime et
+            <lb ed="#P" n="95"/>immediate propter excellentiam increatam,
+            <lb ed="#P" n="96"/>ad quam continet habitudinem ; qui tamen
+            <lb ed="#P" n="97"/>actus pertinent ad diversas virtutes iatriae et
+            <lb ed="#P" n="98"/>duliae. Tertio, medium diligi potest vel 
+            pro<lb break="no" ed="#P" n="99"/>pter intrinsecam bonitatem, verbi gratia, 
+            tem<lb break="no" ed="#P" n="100"/>perantiae, vel propter extrinsecam boritatem
+            <lb ed="#P" n="101"/>finis, verbi gratia, paenitentiae, et actus illi
+            <lb ed="#P" n="102"/>pertinent ad diversas virtutes. Quarto , 
+            assen<lb break="no" ed="#P" n="103"/>sus conclusionis et principii pertinent ad 
+            di<lb break="no" ed="#P" n="104"/>versos habitus, solum quia in conclusione est
+            <lb ed="#P" n="105"/>veritas intrinseca distincta a veritate-
+            princi<lb break="no" ed="#P" n="106"/>pii, ut ad hoc propositum Cajetanus notavit,
+            <lb ed="#P" n="107"/>secunda secundae, quaest. 47, art. 6, et 54,
+            <lb ed="#P" n="108"/>art. 4.
+          </p>
+          <p xml:id="szthvi-b56917-d1e1401">
+            <lb ed="#P" n="109"/>6. Tandem explicatur. — Observatio circa
+            <lb ed="#P" n="110"/>pradictam responsionem probabilem. — Deni-
+            <pb ed="#P" n="640"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>que potest hoc explicari : nam praeter omnem
+            <lb ed="#P" n="2"/>virtutem qua homo diligit Deum, et caetera
+            <lb ed="#P" n="3"/>proxime et immediate propter Deum, 
+            assig<lb break="no" ed="#P" n="4"/>nantur virtutes morales, quibus recte 
+            ordina<lb break="no" ed="#P" n="5"/>tur circa singula honesta bona, et inter eas
+            <lb ed="#P" n="6"/>datur una quae est moralis et humana 
+            amici<lb break="no" ed="#P" n="7"/>tia ; sic in ordine supernaturali alia est 
+            vir<lb break="no" ed="#P" n="8"/>tus, qua ad Deum amandum dirigimur, et ad
+            <lb ed="#P" n="9"/>alia propter ipsum immediate, et illa est 
+            cha<lb break="no" ed="#P" n="10"/>ritas, cujus adaequatum obiectum formale erit
+            <lb ed="#P" n="11"/>bonitas increata ; alia vero erit virtus, quae sit
+            <lb ed="#P" n="12"/>amicitia humana moralis et infusa, qua 
+            dili<lb break="no" ed="#P" n="13"/>gatur proximus supernaturaliter propter suam
+            <lb ed="#P" n="14"/>bonitatem intrinsecam ; omni enim morali
+            <lb ed="#P" n="15"/>virtuti acquisitae debet respondere alia virtus
+            <lb ed="#P" n="16"/>moralis infusa '. Confirmatur, nam velle 
+            proxi<lb break="no" ed="#P" n="17"/>mo bonum immediate propter ejus 
+            bonita<lb break="no" ed="#P" n="18"/>tem, ejusdem rationis videtur ac velle mihi
+            <lb ed="#P" n="19"/>bonum propter bonitatem meam ; sed hic 
+            ac<lb break="no" ed="#P" n="20"/>tus non est charitatis Theologicae, etai alias
+            <lb ed="#P" n="21"/>sit bonus et supernaturalis ; ergo neque ille.
+            <lb ed="#P" n="22"/>Et haec omnia procedunt comparando motiva
+            <lb ed="#P" n="23"/>diligendi posita in secunda et tertia 
+            conclu<lb break="no" ed="#P" n="24"/>sione, cum motivo posito in prima. 
+            Compa<lb break="no" ed="#P" n="25"/>rando tamen haec duo ultima inter se, non
+            <lb ed="#P" n="26"/>pocedunt omnia quae diximus, quia utrumque
+            <lb ed="#P" n="27"/>motivum est creatum et intrinsecum 
+            proxi<lb break="no" ed="#P" n="28"/>mo, et potius materialiter quam formaliter
+            <lb ed="#P" n="29"/>differunt; sicut patet a simili in Deo ipso;
+            <lb ed="#P" n="30"/>nam eadem charitas amat bonum naturale et
+            <lb ed="#P" n="31"/>supernaturale Dei, si utrumque eadem 
+            super<lb break="no" ed="#P" n="32"/>naturali regula proponatur. Idem patet in
+            <lb ed="#P" n="33"/>aliis moralibus virtutibus; eadem enim 
+            vir<lb break="no" ed="#P" n="34"/>tus religionis infusae colit Deum cultu 
+            sim<lb break="no" ed="#P" n="35"/>pliciter et supernaturali, ut fidei et spei, et
+            <lb ed="#P" n="36"/>cultu quocumque, et actione naturali, 
+            super<lb break="no" ed="#P" n="37"/>naturalter tamen regulata. Tandem ratio est,
+            <lb ed="#P" n="38"/>quia amare ipsum naturale bonum proximi,
+            <lb ed="#P" n="39"/>ideo est consentaneum regulae supernaturali,
+            <lb ed="#P" n="40"/>quia naturalia sunt quasi fundamentum 
+            gra<lb break="no" ed="#P" n="41"/>tige, et ipsius esse supernaturalis; ergo in illo
+            <lb ed="#P" n="42"/>amore eadem invenitur formalis ratio 
+            dile<lb break="no" ed="#P" n="43"/>ctionis supernaturalis.
+          </p>
+          <p xml:id="szthvi-b56917-d1e1505">
+            <lb ed="#P" n="44"/>1. Ferior opinio, seu responsio, pro qua vide
+            <lb ed="#P" n="45"/>lib. 3 de Habitu velig., c. 5, a n. 8. —Opinio
+            <lb ed="#P" n="46"/>haec non est improbabilis, ut dixi; tamen 
+            ve<lb break="no" ed="#P" n="47"/>rius est omnem modum d8ilectionis proximi
+            <lb ed="#P" n="48"/>ad unam virtutem charitatis pertinere ; quia
+            <lb ed="#P" n="49"/>in sacra Scriptura et Patribus inauditus est
+            <lb ed="#P" n="50"/>alius amor infusus Dei ct proximi, ut sumi
+            <lb ed="#P" n="51"/>potest ex 1 epistola Joannis; et Augustinus,
+            <lb ed="#P" n="52"/>8 de Trinitate, cap. 8, et sermon. 13 de Tem-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>pore, expresse dicit, quando diligitur 
+            proxi<lb break="no" ed="#P" n="54"/>mus quia spiritualiter regeneratus est, ex 
+            cha<lb break="no" ed="#P" n="55"/>ritate diligi; idem tradit divus Thomas 
+            se<lb break="no" ed="#P" n="56"/>cunda secundae, quaest. 23, articulo 
+            quin<lb break="no" ed="#P" n="57"/>to, ad primum, et quaestion. 81, articulo 4,
+            <lb ed="#P" n="58"/>ad 3.
+          </p>
+          <p xml:id="szthvi-b56917-d1e1542">
+            <lb ed="#P" n="59"/>8. Quarta conclusio. — Dico ergo quarto:
+            <lb ed="#P" n="60"/>objectum formale adaequatum charitatis est
+            <lb ed="#P" n="61"/>bonitas Dei increata, omnem excedens 
+            natu<lb break="no" ed="#P" n="62"/>ram, vel per se, vel per participationem 
+            ejus<lb break="no" ed="#P" n="63"/>dem ordinis, seu quae honestatem illius 
+            ordi<lb break="no" ed="#P" n="64"/>nis induat. Haec conclusio patet ex dictis;
+            <lb ed="#P" n="65"/>nam cum charitas his omnibus modis diligat
+            <lb ed="#P" n="66"/>proximum, et alias sit una, oportet ut hi modi
+            <lb ed="#P" n="67"/>diligendi ccnveniant in alqua una ratione
+            <lb ed="#P" n="68"/>formali objecti, quoniam haec in omni 
+            virtu<lb break="no" ed="#P" n="69"/>te debet esse una; non conveniunt autem nisi
+            <lb ed="#P" n="70"/>dicto modo. Secundo, quia omnes homines
+            <lb ed="#P" n="71"/>existentes in gratia, ut sic. sunt quodammodo
+            <lb ed="#P" n="72"/>Dei; ergo conveniunt aliquo modo in eadem
+            <lb ed="#P" n="73"/>ratione formali objecti, sub qua idem habitus
+            <lb ed="#P" n="74"/>inclinat. Confirmatur. Nam certum est 
+            om<lb break="no" ed="#P" n="75"/>nes angelos et homines habere eamdem 
+            ra<lb break="no" ed="#P" n="76"/>tionem formalem objecti diligibilis ; ergo et
+            <lb ed="#P" n="77"/>eamdem cum Deo , dicente Augustino, 8 de
+            <lb ed="#P" n="78"/>Trinit., c. 8: Qui proaimum diligit, consequens
+            <lb ed="#P" n="79"/>est ut ipsam etiam dilectionem diligat , cui
+            <lb ed="#P" n="80"/>etiam concinit tractat. 9 in 1 epist. Joan.,
+            <lb ed="#P" n="81"/>aliquanto ante finem. Tertio, quia quod est
+            <lb ed="#P" n="82"/>tale per participationem ejusdem ordinis, 
+            re<lb break="no" ed="#P" n="83"/>dueitur ad id quod est tale per essentiam:
+            <lb ed="#P" n="84"/>tota autem bonitas supernaturalis est 
+            quae<lb break="no" ed="#P" n="85"/>dam participatio divinae bonitatis.
+          </p>
+          <p xml:id="szthvi-b56917-d1e1604">
+            <lb ed="#P" n="86"/>9. Ad primam objectionem contrariam, in
+            <lb ed="#P" n="87"/>num. 9. — Declaratur a simili de spe, et de
+            <lb ed="#P" n="88"/>fide. — Accommodatius simile est lumen 
+            glo<lb break="no" ed="#P" n="89"/>rie. — Ex quo solvitur prima ratio in 
+            con<lb break="no" ed="#P" n="90"/>trarium, facta in num. 5, nam de ratione 
+            vir<lb break="no" ed="#P" n="91"/>tutis Theologicae est ut ratio formalis ejus 
+            ob<lb break="no" ed="#P" n="92"/>jecti sit increata, vel simpliciter, vel 
+            secun<lb break="no" ed="#P" n="93"/>dum quamdam reductionem, in quantum
+            <lb ed="#P" n="94"/>participatio ejusdem ordinis ad suam 
+            origi<lb break="no" ed="#P" n="95"/>nem revocatur ; quod aliter dici potest, quod
+            <lb ed="#P" n="96"/>ratio increata debet esse adaequata vel in 
+            rc<lb break="no" ed="#P" n="97"/>cto, vel in obliquo, sicut de objecto materiali
+            <lb ed="#P" n="98"/>dicebamus : et patet a simili in spe, quia non
+            <lb ed="#P" n="99"/>solum desideramus beatitudinem objectivam,
+            <lb ed="#P" n="100"/>ut est bonum increatum, sed etiam alia bona,
+            <lb ed="#P" n="101"/>neque solum in Deo speramus, sed etiam in
+            <lb ed="#P" n="102"/>iis qui gratiam et virtutem Dei participant. In
+            <lb ed="#P" n="103"/>fide etiam quodammodo reperitur idem, quia
+            <lb ed="#P" n="104"/>credimus Deo, et iis qui spiritu Dei 
+            loquun<lb break="no" ed="#P" n="105"/>tur : quodammodo vero non est idem; nam
+            <lb ed="#P" n="106"/>revera ratio formalis fidei est sola veritas
+            <lb ed="#P" n="107"/>Dei, alia sunt instrumenta; et rationem diffe-
+            <pb ed="#P" n="641"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>rentiae colligo ex D. Thoma, quaest. 26, art. 1,
+            <lb ed="#P" n="2"/>ad 2, quia charitas tendit in res prout sunt in
+            <lb ed="#P" n="3"/>se, fides vero non, sed ut extrinseca 
+            auctori<lb break="no" ed="#P" n="4"/>tate affirmantur, quae auctoritas aeque cadit
+            <lb ed="#P" n="5"/>in omnia revelata; bonitas autem, quam
+            <lb ed="#P" n="6"/>amat charitas, non aeque invenitur in 
+            omni<lb break="no" ed="#P" n="7"/>bus quae ex charitate diligibilia sunt : esset
+            <lb ed="#P" n="8"/>autem simile in lumine gloriae, quod est 
+            per<lb break="no" ed="#P" n="9"/>fectissima virtus Theologica, cujus tamen
+            <lb ed="#P" n="10"/>adaequatum objectum non est veritas increata
+            <lb ed="#P" n="11"/>praecise, sed etiam multa creata 
+            supernatura<lb break="no" ed="#P" n="12"/>lia , imprimis ipsummet lumen gloriae, quod
+            <lb ed="#P" n="13"/>seipso praecise videri potest ; deinde etiam ipsa
+            <lb ed="#P" n="14"/>visio beata; denique gratia, et alia entia 
+            super<lb break="no" ed="#P" n="15"/>naturaha in substantia, quia probabile est haec
+            <lb ed="#P" n="16"/>illo lumine in se videri; idem ergo erit 
+            pro<lb break="no" ed="#P" n="17"/>portionaliter in charitate. Unde sumitur 
+            effi<lb break="no" ed="#P" n="18"/>cax ratio, nam charitas, quae amat 
+            charita<lb break="no" ed="#P" n="19"/>cem Dei, etiam bonitatem amat, quae in ipsa
+            <lb ed="#P" n="20"/>est; ergo amat illam ubicumque est, atque
+            <lb ed="#P" n="21"/>adeo in omni proximo ; ergo amat 
+            fundamen<lb break="no" ed="#P" n="22"/>tum, et radicem ejus, et omnes fructus.
+          </p>
+          <p xml:id="szthvi-b56917-d1e1706">
+            <lb ed="#P" n="23"/>10 Ad secundam objectionem in eod. n. 5.—
+            <lb ed="#P" n="24"/>Ad exempla ibid. subjuncta.—Hinc patet 
+            solu<lb break="no" ed="#P" n="25"/>tio ad secundum: nam imprimis non oportet
+            <lb ed="#P" n="26"/>formalem rationem objecti esse uuam numero
+            <lb ed="#P" n="27"/>vel specie in esse reali, sed sufficit si sit una
+            <lb ed="#P" n="28"/>per convenientiam analogam, praecipue in 
+            eo<lb break="no" ed="#P" n="29"/>dem gradu rei, et cum ordine ad eamdem
+            <lb ed="#P" n="30"/>beatitudinem. Vel secundo satis est rationem
+            <lb ed="#P" n="31"/>formalem, quae una est et simplex, esse 
+            adae<lb break="no" ed="#P" n="32"/>quatam in recto vel in obliquo. Ad primum
+            <lb ed="#P" n="33"/>exemplum, dicito non esse simile de ordine
+            <lb ed="#P" n="34"/>naturae, et gratiae, quia homo, secundum 
+            na<lb break="no" ed="#P" n="35"/>urale esse et virtutes acquisitas, non 
+            consti<lb break="no" ed="#P" n="36"/>tuitur in eodem ordine et gradu rerum cum
+            <lb ed="#P" n="37"/>Deo, neque est particeps ejusdem bonitatis,
+            <lb ed="#P" n="38"/>in qua communicatione fundatur una 
+            amici<lb break="no" ed="#P" n="39"/>tia supernaturals inter Deum, et creaturas
+            <lb ed="#P" n="40"/>elevatas ad illam beatitudinem ; et propterea
+            <lb ed="#P" n="41"/>haec una virtus conjungit inter se illas 
+            creatu<lb break="no" ed="#P" n="42"/>ras amicitia supernaturali, et cum Deo. Et 
+            fe<lb break="no" ed="#P" n="43"/>re eodem modo solvitur illud de assensu 
+            prin<lb break="no" ed="#P" n="44"/>cipii et conclusionis; pertinent enim ad 
+            diver<lb break="no" ed="#P" n="45"/>sos habitus; nam ex modo procedendi quasi
+            <lb ed="#P" n="46"/>genere differunt. Item illud de medio et fine
+            <lb ed="#P" n="47"/>facile solvitur ; tunc enim intercedit 
+            diversi<lb break="no" ed="#P" n="48"/>tas, quando bonitas propria medii non habet
+            <lb ed="#P" n="49"/>aliquam convenientiam formalem cum 
+            boni<lb break="no" ed="#P" n="50"/>tate finis ; nam si hoc modo conveniant, etiam
+            <lb ed="#P" n="51"/>possunt ad eamdem virtutem pertinere. Difhi
+            <lb ed="#P" n="52"/>cilius argumentum est illad de religione ; sed
+            <lb ed="#P" n="53"/>jam solutum est in materia de Incarnat., quaest.
+            <lb ed="#P" n="54"/>25, de Adoratione ( disp. 52, sect. 3, in fine).
+          </p>
+          <p xml:id="szthvi-b56917-d1e1778">
+            <lb ed="#P" n="55"/>11. Ad allata in num. 6. — Ex quibus tan-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>dem habetur, humanae amicitiae, quae virtus
+            <lb ed="#P" n="57"/>est acquisita, respondere quidem amicitiam
+            <lb ed="#P" n="58"/>infusam, sed eam non esse a charitate 
+            distin<lb break="no" ed="#P" n="59"/>ctam ; neque est simile de virtutibus aliis 
+            mo<lb break="no" ed="#P" n="60"/>ralibus, quia aliae, quamvis supernaturaliter
+            <lb ed="#P" n="61"/>regulentur, retinent honestatem formalem
+            <lb ed="#P" n="62"/>distinctam ab honestate charitatis; objectum
+            <lb ed="#P" n="63"/>autem amicitiae humanae, elevatum ad 
+            regu<lb break="no" ed="#P" n="64"/>lam supernaturalem, habet ordinem ad 
+            eam<lb break="no" ed="#P" n="65"/>cem communicationem superpaturalem, et
+            <lb ed="#P" n="66"/>particpationem ejusdem bonitatis, et ideo
+            <lb ed="#P" n="67"/>convenit in honestate et ratione virtutis cum
+            <lb ed="#P" n="68"/>charitate.
+          </p>
+        </div>
+        <div xml:id="szthvi-b56917-Dd1e1814">
+          <head xml:id="szthvi-b56917-Hd1e1816">Sectio 4</head>
+          <head xml:id="szthvi-b56917-Hd1e1818" type="question-title">Utrum sit aliquis ordo inter res quae charitati obiciuntur</head>
+          <p xml:id="szthvi-b56917-d1e1821">
+            <lb ed="#P" n="69"/>SECTIO IV.
+            <lb ed="#P" n="70"/>Utrum sit aliquis ordo inter res quae charitati
+            <lb ed="#P" n="71"/>objiciuntur.
+          </p>
+          <p xml:id="szthvi-b56917-d1e1830">
+            <lb ed="#P" n="72"/>1. Notatio pro resolutione.—Tripliciter res
+            <lb ed="#P" n="73"/>potest esse amabilior. objective, appretiative, vel
+            <lb ed="#P" n="74"/>intensive.—Ordo hic dupliciter spectari potest,
+            <lb ed="#P" n="75"/>vel ut cadit in praeceptum, vel ui ad ipsam 
+            na<lb break="no" ed="#P" n="76"/>turam charitatis explicandam pertinet; de
+            <lb ed="#P" n="77"/>priori dicemus disputat. 9, agentes de 
+            praece<lb break="no" ed="#P" n="78"/>pto charitatis ; modo solum de secundo, quod
+            <lb ed="#P" n="79"/>etiam necessarium est ad fundandam postea
+            <lb ed="#P" n="80"/>obligationem. Hic autem ordo in eo consistit,
+            <lb ed="#P" n="81"/>ex parte objecti, ut una res diligibilior sit 
+            al<lb break="no" ed="#P" n="82"/>tera ex parte charitatis. Hoc autem tripliciter
+            <lb ed="#P" n="83"/>accidere potest : primo, objective, ut quando
+            <lb ed="#P" n="84"/>alicui majora bona diligenda sunt. Secundo,
+            <lb ed="#P" n="85"/>appretiative, ut quando aliquid ita diligitur,
+            <lb ed="#P" n="86"/>ut plus aliis aestimetur; ita ut, si oporteret,
+            <lb ed="#P" n="87"/>potius alia quis relinqueret, quam illud quod
+            <lb ed="#P" n="88"/>magis diligit. Tertio, intensive, quando 
+            ma<lb break="no" ed="#P" n="89"/>Jjori conatu voluntas fertur, ita ut entitas 
+            amo<lb break="no" ed="#P" n="90"/>ris habeat plures gracus intensionis. Primus
+            <lb ed="#P" n="91"/>modus facile distinguitur a secundo et tertio;
+            <lb ed="#P" n="92"/>nam peccator objective magis amat Deum
+            <lb ed="#P" n="93"/>quam se; appretiative autem et intensive,
+            <lb ed="#P" n="94"/>magis se quam Deum.
+          </p>
+          <p xml:id="szthvi-b56917-d1e1882">
+            <lb ed="#P" n="95"/>2. Pet. Soto notationem predictam ex parte
+            <lb ed="#P" n="96"/>rejicit. — Primo, auctoritate negativa. — 
+            Se<lb break="no" ed="#P" n="97"/>cundo, ratione. — De secundo et tertio modo
+            <lb ed="#P" n="98"/>est aliqua dissensio. Nam Petrus Soto, lectione
+            <lb ed="#P" n="99"/>decima quinta, de Institutione Sacerdot., 
+            acri<lb break="no" ed="#P" n="100"/>ter impugnat illam distinctionem, quam vocat
+            <lb ed="#P" n="101"/>novam, quia neque Scriptura, neque Patres,
+            <lb ed="#P" n="102"/>neque Theologi ea usi sunt; et praecipue D.
+            <lb ed="#P" n="103"/>Thomas, in tota hac quaestione, tantum 
+            distin<lb break="no" ed="#P" n="104"/>guit illos duos modos diligendi, objective et
+            <lb ed="#P" n="105"/>intensive. Rhatio est, nam tunc magis 
+            appre<lb break="no" ed="#P" n="106"/>tiative aliquid diligitur, quando voluntas illi
+            <lb ed="#P" n="107"/>magis adhaeret ; potentia vero non magis ad-
+            <pb ed="#P" n="642"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>haeret, nisi quia magis conatur, et intensiorem
+            <lb ed="#P" n="2"/>actum circa illud habet.
+          </p>
+          <p xml:id="szthvi-b56917-d1e1922">
+            <lb ed="#P" n="3"/>3. Sustinetur tamen tota notatio. — 
+            Caete<lb break="no" ed="#P" n="4"/>rum, certum est hos duos modos esse 
+            distin<lb break="no" ed="#P" n="5"/>ctos, non solum comparando amores varios,
+            <lb ed="#P" n="6"/>sed etiam intra ipsum amorem charitatis, ut
+            <lb ed="#P" n="7"/>constabit in fine sectionis. Nunc solum est
+            <lb ed="#P" n="8"/>advertendum duo objecta posse esse amabilia,
+            <lb ed="#P" n="9"/>propter causas omnino ejusdem rationis, atque
+            <lb ed="#P" n="10"/>adeo actibus omnino similibus, et in talibus,
+            <lb ed="#P" n="11"/>non possunt separari major appretiatio, et
+            <lb ed="#P" n="12"/>major intensio, ut ratio facta probat. Interdum
+            <lb ed="#P" n="13"/>vero rationes amandi objecta sunt diversae, et
+            <lb ed="#P" n="14"/>amores distinguuntur etiam, vel omnino 
+            spe<lb break="no" ed="#P" n="15"/>cie, vel certe aliquo gradu dignitatis, ct in his
+            <lb ed="#P" n="16"/>facile intelligi potest major appretiatio cum
+            <lb ed="#P" n="17"/>minori intensione ; quia fieri potest ut 
+            volun<lb break="no" ed="#P" n="18"/>tas, per actum natura sua digniorem, quamvis
+            <lb ed="#P" n="19"/>alias minus intensum, firmius conjungatur
+            <lb ed="#P" n="20"/>objecto, quam per actum minus dignum 
+            inten<lb break="no" ed="#P" n="21"/>siorem, ut plane constat in actibus intellectus;
+            <lb ed="#P" n="22"/>magis enim adhaeret intellectus per judicium
+            <lb ed="#P" n="23"/>scientiae, etiam remissum, quam per iudicium
+            <lb ed="#P" n="24"/>opinionis, etiam intensissimum ; sicut enim in
+            <lb ed="#P" n="25"/>intellectu, praeter intensionem, dantur aliae
+            <lb ed="#P" n="26"/>conditiones quae referuntur ad hanc 
+            firmita<lb break="no" ed="#P" n="27"/>tem, scilicet, certitudo et claritas, ita in 
+            vo<lb break="no" ed="#P" n="28"/>Iuntate suo modo circa amorem finis vel 
+            me<lb break="no" ed="#P" n="29"/>dii.
+          </p>
+          <p xml:id="szthvi-b56917-d1e1983">
+            <lb ed="#P" n="30"/>4. Ad rationem Soti in num. 2. — Ad
+            <lb ed="#P" n="31"/>auctoritatem ibid. — Atque ita facile solvitur
+            <lb ed="#P" n="32"/>ratio opposita. Neque refert has voces non 
+            re<lb break="no" ed="#P" n="33"/>periri in antiquioribus; satis enim est reperiri
+            <lb ed="#P" n="34"/>rem, quod neque ipse Soto negare potest ; 
+            fa<lb break="no" ed="#P" n="35"/>tetur enim, licet sacra Scriptura dicat Deum
+            <lb ed="#P" n="36"/>diligendum esse ex toto corde, non tamen 
+            te<lb break="no" ed="#P" n="37"/>neri ad diligendum tota intensione, cum 
+            ta<lb break="no" ed="#P" n="38"/>men teneamur diligere tota et summa 
+            appre<lb break="no" ed="#P" n="39"/>tiatione. Divus Thomas autem obscureloquitur,
+            <lb ed="#P" n="40"/>et nomine intensionis large utitur, prout 
+            si<lb break="no" ed="#P" n="41"/>gnificat quamcumque conditionem amoris,
+            <lb ed="#P" n="42"/>ratione cujus voluntas magis adhaeret objecto;
+            <lb ed="#P" n="43"/>quae tamen conditio interdum esse potest 
+            gra<lb break="no" ed="#P" n="44"/>dualis intensio, de qua loquitur divus Thomas,
+            <lb ed="#P" n="45"/>articulo septimo, undecimo et duodecimo, 
+            in<lb break="no" ed="#P" n="46"/>terdum vero potest aliunde provenire, ut 
+            lo<lb break="no" ed="#P" n="47"/>quitur articulo decimo tertio. Itaque 
+            conside<lb break="no" ed="#P" n="48"/>randa erit materia de qua loquitur, et ita erit
+            <lb ed="#P" n="49"/>explicandus.
+          </p>
+          <p xml:id="szthvi-b56917-d1e2029">
+            <lb ed="#P" n="50"/>5. Amor appretiativus quomodo 
+            dignosca<lb break="no" ed="#P" n="51"/>tur. — Et ex his intelligitur quomodo 
+            co<lb break="no" ed="#P" n="52"/>gnosci possit, quando voluntas magis amat
+            <lb ed="#P" n="53"/>aliquid appretiative : quia enim nos non 
+            co<lb break="no" ed="#P" n="54"/>gnoscimus conditiones ipsorum actuum, 
+            diffi<lb break="no" ed="#P" n="55"/>cile id discernimus; tamen, quando mens
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>facit expressam comparationem, res est facilis,
+            <lb ed="#P" n="57"/>ut ad Romanos 8: Quis nos separabit ? Quando
+            <lb ed="#P" n="58"/>vero non fit ita expresse, illud magis 
+            appre<lb break="no" ed="#P" n="59"/>tiative amatur, propter quod aliud omittitur,
+            <lb ed="#P" n="60"/>quod solum habet locum quando objecta 
+            re<lb break="no" ed="#P" n="61"/>pugnant; si vero possit esse simul utriusque
+            <lb ed="#P" n="62"/>amor, non satis cognoscitur, nisi ex aliquo 
+            ef<lb break="no" ed="#P" n="63"/>fectu, etsi ex qualitate objectorum et amoris
+            <lb ed="#P" n="64"/>sumi possit aliqua conjectura.
+          </p>
+          <p xml:id="szthvi-b56917-d1e2066">
+            <lb ed="#P" n="65"/>6. Prima conclusio.— Ejus ratio.— His 
+            posi<lb break="no" ed="#P" n="66"/>tis, dico primo: inter objecta charitatis 
+            ne<lb break="no" ed="#P" n="67"/>cesse est esse aliquem ordinem. Est divi 
+            Tho<lb break="no" ed="#P" n="68"/>mae, secunda secundae, quaestione 
+            vigesima<lb break="no" ed="#P" n="69"/>sexta, articulu primo, et omnium Theologorum
+            <lb ed="#P" n="70"/>apud ipsum, vel apud Magistrum, in quarto,
+            <lb ed="#P" n="71"/>distinctione 27 et 29. Ratio est, quia multa
+            <lb ed="#P" n="72"/>objiciuntur charitati, quae non sunt aqualia
+            <lb ed="#P" n="73"/>inter se; ergo necesse est ut habeant inter se
+            <lb ed="#P" n="74"/>ordinem ; in hoc autem ordine Deus, etiam
+            <lb ed="#P" n="75"/>homo, ut disput. 9, in fine, tangetur, obtinet
+            <lb ed="#P" n="76"/>primum locum, qui et maxime diligibilis est,
+            <lb ed="#P" n="77"/>et ad quem charitas maxime inclinat; tum
+            <lb ed="#P" n="78"/>quia inclinatio ad ultimum finem est maxima;
+            <lb ed="#P" n="79"/>tum quia, quod est summe bonum, maxime
+            <lb ed="#P" n="80"/>est per se diligibile.
+          </p>
+          <p xml:id="szthvi-b56917-d1e2103">
+            <lb ed="#P" n="81"/>7. Secunda conclusio. — Dico secundo : non
+            <lb ed="#P" n="82"/>solum inter objectum primarium et 
+            secunda<lb break="no" ed="#P" n="83"/>rium charitatis, sed etiam inter objecta 
+            secun<lb break="no" ed="#P" n="84"/>daria est ordo constituendus; et patet primo
+            <lb ed="#P" n="85"/>exemplo, nam charitas magis fertur in amorem
+            <lb ed="#P" n="86"/>beatissimae Virginis Maria, quam inferioris
+            <lb ed="#P" n="87"/>Sancti. Ratio est, quia haec objecta secundaria
+            <lb ed="#P" n="88"/>non aeque participant rationem diligibilis ex
+            <lb ed="#P" n="89"/>charitate, neque aeque sunt conjuncta cum
+            <lb ed="#P" n="90"/>primario objecto.
+          </p>
+          <p xml:id="szthvi-b56917-d1e2127">
+            <lb ed="#P" n="91"/>8. Tertia conclusio probatur tripliciter. —
+            <lb ed="#P" n="92"/>Dico tertio : charitas post Deum maxime 
+            incli<lb break="no" ed="#P" n="93"/>natur ad ipsunt diligentem. hatio est, quia res
+            <lb ed="#P" n="94"/>omnes post inclinationem ad Deum naturale
+            <lb ed="#P" n="95"/>bonum, maxime inclinantur ad proprium;
+            <lb ed="#P" n="96"/>ergo charitas post Deum maxime inclinatur
+            <lb ed="#P" n="97"/>ad dilectionem sui ; ergo ad dilectionem ejus
+            <lb ed="#P" n="98"/>in quo est, quia non potest ipsa aliter se 
+            dili<lb break="no" ed="#P" n="99"/>gere, cum totum esse charitatis sit in ordine
+            <lb ed="#P" n="100"/>ad subjectum. Rursus effectus formalis 
+            chari<lb break="no" ed="#P" n="101"/>tatis est inclinare hominem, in quo est, ad
+            <lb ed="#P" n="102"/>Dei dilectionem, et conjungere hominem
+            <lb ed="#P" n="103"/>Deo; ergo in primaria inclinatione charitatis
+            <lb ed="#P" n="104"/>includitur quodammodo ordo ad ipsum 
+            dih<lb break="no" ed="#P" n="105"/>gentem. Et suadetur a posteriori ; nam 
+            chari<lb break="no" ed="#P" n="106"/>tas potius fugit peccatum proprium, quam
+            <lb ed="#P" n="107"/>quaecumque aliena.
+          </p>
+          <p xml:id="szthvi-b56917-d1e2167">
+            <lb ed="#P" n="108"/>9. Quarta conclusio. — Dico quarto : inter
+            <lb ed="#P" n="109"/>caeteros proximos ad illum magis inclinat 
+            cha<lb break="no" ed="#P" n="110"/>ritas, qui secundum rectam rationem magis
+            <pb ed="#P" n="643"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>est amabilis. Hoc facile constat ex dictis';
+            <lb ed="#P" n="2"/>tum quia inclinatio charitatis est recta et
+            <lb ed="#P" n="3"/>honesta ; tum quia qui secundum rectam 
+            ra<lb break="no" ed="#P" n="4"/>tionem est diligibilior, est simpliciter etiam
+            <lb ed="#P" n="5"/>diligibilior; charitas autem, cum se 
+            accom<lb break="no" ed="#P" n="6"/>modet objectis, eo modo ea diligit quo 
+            diligi<lb break="no" ed="#P" n="7"/>bilia sunt; quae autem sint magis aut minus
+            <lb ed="#P" n="8"/>diligibilia, explicabitur disputatione nona,
+            <lb ed="#P" n="9"/>cum agemus de praeceptis charitatis. Sed 
+            su<lb break="no" ed="#P" n="10"/>perest explicemus in quo consistat hic ordo:
+            <lb ed="#P" n="11"/>etsi enim dictum sit ex parte objectorum 
+            con<lb break="no" ed="#P" n="12"/>sistere in eo quod unum sit diligibilius altero,
+            <lb ed="#P" n="13"/>ex parte vero habitus in hoc quod magis ad
+            <lb ed="#P" n="14"/>unum quam ad aliud inclinet , tamen nondum
+            <lb ed="#P" n="15"/>est expositum quid significet istud magis;
+            <lb ed="#P" n="16"/>nam Petrus Soto consequenter diceret 
+            consi<lb break="no" ed="#P" n="17"/>stere in majori intensione, cum tamen re vera
+            <lb ed="#P" n="18"/>Ita esse non possit.
+          </p>
+          <p xml:id="szthvi-b56917-d1e2219">
+            <lb ed="#P" n="19"/>10. Quinta conclusio. — Probatur quoad
+            <lb ed="#P" n="20"/>habitum, pro qua probatione vide in Metaphys.,
+            <lb ed="#P" n="21"/>disp. A44, sect. 11, a num. 36. — Deinde quoad
+            <lb ed="#P" n="22"/>actum. — Dico igitur quinto: per se loquendo,
+            <lb ed="#P" n="23"/>hic ordo charitatis non attenditur ex 
+            inten<lb break="no" ed="#P" n="24"/>sione, neque necesse est charitatem magis
+            <lb ed="#P" n="25"/>intensive inclinari in unum objectum, etiam
+            <lb ed="#P" n="26"/>in Deum, quam in alia, nisi fortasse quando
+            <lb ed="#P" n="27"/>ipsa intensio ad appretiationem revocari 
+            po<lb break="no" ed="#P" n="28"/>test. Probatur, nam si loquamur de habituali
+            <lb ed="#P" n="29"/>charitate, non est necesse illam in ordine ad
+            <lb ed="#P" n="30"/>diversa objecta esse inaequaliter intensam,
+            <lb ed="#P" n="31"/>quia tota sua intensione, et per omnes gradus
+            <lb ed="#P" n="32"/>potest inclinari ad Deum, verbi gratia, et
+            <lb ed="#P" n="33"/>proximum; quinimo impossibilis est haec 
+            inae<lb break="no" ed="#P" n="34"/>qualitas ; nam, licet in aliis virutibus 
+            acquisi<lb break="no" ed="#P" n="35"/>tis id non repugnet respectu diversorum 
+            ob<lb break="no" ed="#P" n="36"/>jectorum partialum, tamen in charitate,
+            <lb ed="#P" n="37"/>saltem respectu Dei, et proximi, ut immediate
+            <lb ed="#P" n="38"/>propter Deum diligitur, non habet locum illa
+            <lb ed="#P" n="39"/>inaequalitas ; quia, sicut necesse est, charitatem
+            <lb ed="#P" n="40"/>simul infusam ad diligendum Deum inclinare
+            <lb ed="#P" n="41"/>etiam ad proximum, ita necesse est 
+            charita<lb break="no" ed="#P" n="42"/>tem auctam respectu unius, augeri etiam 
+            re<lb break="no" ed="#P" n="43"/>spectu alterius; alias si in hoc posset esse
+            <lb ed="#P" n="44"/>inaequalitas graduum, posset etiam intelligi
+            <lb ed="#P" n="45"/>aliquis gradus charitatis, qui inclinaret ad
+            <lb ed="#P" n="46"/>Deum, et non ad proximum, vel e contra,
+            <lb ed="#P" n="47"/>quod tamen plane falsum est ; ergo inclinatio
+            <lb ed="#P" n="48"/>intensiva charitatis ad Deum et proximum
+            <lb ed="#P" n="49"/>aequalis est. Ex quo efficitur etiam in actu
+            <lb ed="#P" n="50"/>posse charitatem aeque intense diligere 
+            proxi<lb break="no" ed="#P" n="51"/>mum ac Deum. Patet, quia charitas potest
+            <lb ed="#P" n="52"/>habere actum sibi adaequatum circa 
+            quod<lb break="no" ed="#P" n="53"/>cumque objectum suum ; sed habet aequalem
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="54"/>intensionem habitualem in ordine ad Deum et
+            <lb ed="#P" n="55"/>proximum ; ergo potest aequales actus elicere;
+            <lb ed="#P" n="56"/>et, ut ego puto, 1ia faciunt beati, quia 
+            perfe<lb break="no" ed="#P" n="57"/>ctionis est operari, quantum possunt ; imo et
+            <lb ed="#P" n="58"/>Deus eadem quasi perfectione intensiva se et
+            <lb ed="#P" n="59"/>nos diligit, licet se simpliciter, nos autem 
+            se<lb break="no" ed="#P" n="60"/>cundario.
+          </p>
+          <p xml:id="szthvi-b56917-d1e2315">
+            <lb ed="#P" n="61"/>11. Probatur amplius conclusio de non 
+            ne<lb break="no" ed="#P" n="62"/>cessario ordine. — Addo ulterius, quamvis 
+            cha<lb break="no" ed="#P" n="63"/>ritas intensiori actu possit saepe diligere Deum
+            <lb ed="#P" n="64"/>quam proximum (sicut potest actu Deum 
+            dili<lb break="no" ed="#P" n="65"/>gere, et non proximum, quia non pendet
+            <lb ed="#P" n="66"/>unus actus ab alio, nec intensio ab intensione),
+            <lb ed="#P" n="67"/>tamen interdum posse diligere intensius 
+            proxi<lb break="no" ed="#P" n="68"/>mum, quam Deum, loquendo de actuali 
+            dile<lb break="no" ed="#P" n="69"/>ctione, quae terminatur ad Deum, tanquam ad
+            <lb ed="#P" n="70"/>objectum quod diligit. Et ratio est eadem,
+            <lb ed="#P" n="71"/>quia actualis dilectio proximi potest esse sine
+            <lb ed="#P" n="72"/>actuali dilectione Dei; et similiter intensior
+            <lb ed="#P" n="73"/>dilectio proximi absque dilectione Dei tam
+            <lb ed="#P" n="74"/>intensa, siquidem homo libere exercet hos
+            <lb ed="#P" n="75"/>actus majori vel minori conatu, et inter 
+            obje<lb break="no" ed="#P" n="76"/>cta non est intrinseca connexio. Unde ulterius
+            <lb ed="#P" n="77"/>fit ut justus aliquando ex charitate 
+            ferven<lb break="no" ed="#P" n="78"/>tiori et intensiori actu diligat proximum,
+            <lb ed="#P" n="79"/>quam unquam Deum dilexerit; nam potest
+            <lb ed="#P" n="80"/>operari circa proximum secundum totam 
+            lati<lb break="no" ed="#P" n="81"/>tudinem habitus, etsi circa Deum non ita 
+            per<lb break="no" ed="#P" n="82"/>fecte fuerit operatus ; sicut potest quis 
+            inten<lb break="no" ed="#P" n="83"/>siorem actum habere circa medium quam
+            <lb ed="#P" n="84"/>circa finem, praecipue si ex majori 
+            considera<lb break="no" ed="#P" n="85"/>tione, vel aliunde juvetur ad magis conandum
+            <lb ed="#P" n="86"/>in appetitionem medii.
+          </p>
+          <p xml:id="szthvi-b56917-d1e2374">
+            <lb ed="#P" n="87"/>12. Objectio prima. — Solutio prior. —
+            <lb ed="#P" n="88"/>Posterior. — Objectio secunda. — Solutio. —
+            <lb ed="#P" n="89"/>Dices : charitas diligit prosimum propter
+            <lb ed="#P" n="90"/>Deum ; quomodo ergo potest majori 
+            intensio<lb break="no" ed="#P" n="91"/>ne in eum ferri quam in Deum? sic enim amor
+            <lb ed="#P" n="92"/>hic inordinatus erit. Respondeo primum non
+            <lb ed="#P" n="93"/>esse inordinatum privative, quia non tenemur
+            <lb ed="#P" n="94"/>ad tantam intensionem adhibendam in 
+            amo<lb break="no" ed="#P" n="95"/>re Dei; negative autem non esse ita 
+            perfec<lb break="no" ed="#P" n="96"/>tum, quia Deus intensius diligi potest. 
+            Secun<lb break="no" ed="#P" n="97"/>do respondeo recte fieri posse, quia, licet Deus
+            <lb ed="#P" n="98"/>sit ratio diligendi, inde fit excellentiori aliquo
+            <lb ed="#P" n="99"/>modo amari , non intensiori; quia intensior
+            <lb ed="#P" n="100"/>actus circa aliquod objectum secundarium
+            <lb ed="#P" n="101"/>non semper oritur ex majori intensione circa
+            <lb ed="#P" n="102"/>primarium, sed potest ex aliis causis 
+            profi<lb break="no" ed="#P" n="103"/>cisci, ut ex majori familiaritate, 
+            consuetudi<lb break="no" ed="#P" n="104"/>ne, etc. Verum est tamen hoc amore proximi
+            <lb ed="#P" n="105"/>implicite et quasi in actu exercito amari
+            <lb ed="#P" n="106"/>Deum, quod alias dici solet amari u£ objectum
+            <lb ed="#P" n="107"/>quo. Sed contra secundo, nam sequitur 
+            hahi<lb break="no" ed="#P" n="108"/>tum charitatis posse magis intendi circa pro-
+            <pb ed="#P" n="644"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ximum, quam circa Deum , vel e contra, quia
+            <lb ed="#P" n="2"/>intenditur proportionaliter ad actus suos. Sed
+            <lb ed="#P" n="3"/>neganda est consequentia, nam per amorem
+            <lb ed="#P" n="4"/>Dei augetur habitus charitatis etiam circa
+            <lb ed="#P" n="5"/>proximum , et per amorem proximi circa
+            <lb ed="#P" n="6"/>Deum ; nec isti actus propterea sunt aeque
+            <lb ed="#P" n="7"/>boni aut meritorii; quia, licet uterque 
+            au<lb break="no" ed="#P" n="8"/>geat habitum in ordine ad Deum et 
+            proxi<lb break="no" ed="#P" n="9"/>mum, non tamen aeque auget; nam amor
+            <lb ed="#P" n="10"/>Dei auget secundum totam latitudinem actus,
+            <lb ed="#P" n="11"/>non ita vero amor proximi: quia non est ita
+            <lb ed="#P" n="12"/>perfectus, juxta dicta in materia de merito.
+            <lb ed="#P" n="13"/>Vide lib. 12 de Grat., cap. 20, num. 6 et T.
+          </p>
+          <p xml:id="szthvi-b56917-d1e2457">
+            <lb ed="#P" n="14"/>13. Ultima conclusio. — Dico ultimo: ordo
+            <lb ed="#P" n="15"/>charitatis consistit in majori appretiatione et
+            <lb ed="#P" n="16"/>eestimatione objectorum. Breviter ita expono.
+            <lb ed="#P" n="17"/>Nam charitas natura sua, ablata omni 
+            inten<lb break="no" ed="#P" n="18"/>sione, habet majorem connexionem cum uno
+            <lb ed="#P" n="19"/>objecto quam cum alio, propter majorem 
+            ex<lb break="no" ed="#P" n="20"/>cellentiam ejus; unde fit etiam ut circa illa
+            <lb ed="#P" n="21"/>exerceat actus etiam diversae perfectionis et
+            <lb ed="#P" n="22"/>naturae ; quod exemplo voluntatis explicatur,
+            <lb ed="#P" n="23"/>in qua nulla est intensio, sed est entitas 
+            in<lb break="no" ed="#P" n="24"/>divisibilis, quae tota inclinat ad suum 
+            ob<lb break="no" ed="#P" n="25"/>jectum, et tamen magis inclinat ad Deum
+            <lb ed="#P" n="26"/>quam ad alia, et ad finem quam ad media;
+            <lb ed="#P" n="27"/>quia haec propensio non est intelligenda 
+            om<lb break="no" ed="#P" n="28"/>nino uniformis, sed quasi multiplex, pro 
+            va<lb break="no" ed="#P" n="29"/>rietate objectorum. Similiter charitas ad unuum
+            <lb ed="#P" n="30"/>objectum inclinat ex necessitate diligendum,
+            <lb ed="#P" n="31"/>ad aliud libere, ut patet in charitate 
+            Beato<lb break="no" ed="#P" n="32"/>rum respectu Dei clare visi, et respectu 
+            alia<lb break="no" ed="#P" n="33"/>rum rerum, quamvis ad utrosque actus tota
+            <lb ed="#P" n="34"/>sua intensione inclinet ; quia ille diversus 
+            mo<lb break="no" ed="#P" n="35"/>dus non oritur ex intensione, sed ex diversa
+            <lb ed="#P" n="36"/>perfectione objectorum. Denique minima 
+            fi<lb break="no" ed="#P" n="37"/>des magis appretiative inclinat ad suam 
+            veri<lb break="no" ed="#P" n="38"/>tatem, quam scientia intensissima ad suam,
+            <lb ed="#P" n="39"/>quia illa excellentia fidei fundatur in 
+            excel<lb break="no" ed="#P" n="40"/>lentia sui objecti; sic et charitas.
+          </p>
+        </div>
+        <div xml:id="szthvi-b56917-Dd1e2519">
+          <head xml:id="szthvi-b56917-Hd1e2521">Sectio 5</head>
+          <head xml:id="szthvi-b56917-Hd1e2523" type="question-title">Utrum hic ordo positus sit consentaneus inclinationi naturali voluntatis</head>
+          <p xml:id="szthvi-b56917-d1e2526">
+            <lb ed="#P" n="41"/>SECTIO V.
+            <lb ed="#P" n="42"/>Utrum hic ordo positus sit consentaneus 
+            incli<lb break="no" ed="#P" n="43"/>nationi naturali voluntatis.
+          </p>
+          <p xml:id="szthvi-b56917-d1e2535">
+            <lb ed="#P" n="44"/>1. Resolutio questionis quoad objecta 
+            secun<lb break="no" ed="#P" n="45"/>daria. — Verus questionis sensus. — Maec
+            <lb ed="#P" n="46"/>quaestio difficilis non est, si loquamur de 
+            or<lb break="no" ed="#P" n="47"/>dine inter objecta secundaria inter se; clara
+            <lb ed="#P" n="48"/>est enim pars affirmans: nam voluntas 
+            ma<lb break="no" ed="#P" n="49"/>gis inclinat naturaliter ad se, quam ad alia
+            <lb ed="#P" n="50"/>creata, et inter alia ad ea quae sunt magis ra
+            <lb ed="#P" n="51"/>tioni consentanea ; neque etiam difficilis est,
+            <lb ed="#P" n="52"/>si comparetur Deus objectum primarium cum
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>aliis, praeter diligentem. Quaestio igitur est
+            <lb ed="#P" n="54"/>inter Deum et me diligendum: hic autem
+            <lb ed="#P" n="55"/>non est sermo an naturalis inclinatio attingat
+            <lb ed="#P" n="56"/>illud objectum, ad quod charitas inclinat, 
+            at<lb break="no" ed="#P" n="57"/>que adeo, an feratur in Deum, ut est 
+            objec<lb break="no" ed="#P" n="58"/>tum beatitudinis supernaturalis ; sed tota
+            <lb ed="#P" n="59"/>quaestio est an, sicut charitas inclinat ad 
+            di<lb break="no" ed="#P" n="60"/>ligendum Deum finem supernaturalem, plus
+            <lb ed="#P" n="61"/>quam me, ita voluntas inclinet ad 
+            diligen<lb break="no" ed="#P" n="62"/>dum Deum finem natura, plus quam me.
+          </p>
+          <p xml:id="szthvi-b56917-d1e2581">
+            <lb ed="#P" n="63"/>2. Prima sententia. — Primum 
+            argumen<lb break="no" ed="#P" n="64"/>tum. — Prima sententia negat, et 
+            consequen<lb break="no" ed="#P" n="65"/>ter affirmat inclinationem charitatis non 
+            so<lb break="no" ed="#P" n="66"/>Ium esse supra naturam, sed quodammodo
+            <lb ed="#P" n="67"/>contra. hatio est, quia quicquid natura amat,
+            <lb ed="#P" n="68"/>amat ut sibi unitum, ut sumitur ex 
+            Aristo<lb break="no" ed="#P" n="69"/>tele, Ethic., c. 29: Amabile bonum , unicuigue
+            <lb ed="#P" n="70"/>proprium, et lib. S, c. 4, initio: Amicabilia ad
+            <lb ed="#P" n="71"/>alterum sumuntur ex amicalilibus ad se; ergo
+            <lb ed="#P" n="72"/>quo magis est unum, magis amat ; homo 
+            au<lb break="no" ed="#P" n="73"/>tem magis unitus est sibi; ergo, etc. 
+            Secun<lb break="no" ed="#P" n="74"/>do, facilius se homo amat quam Deum, unde
+            <lb ed="#P" n="75"/>non indiget neque consuetudine, neque 
+            ha<lb break="no" ed="#P" n="76"/>bitu. Tertio, magis adhaeret homo amori sui,
+            <lb ed="#P" n="77"/>quam Dei; nam si esset necesse Deum aut me
+            <lb ed="#P" n="78"/>desinere esse, potius diligerem meum esse
+            <lb ed="#P" n="79"/>quam Dei, quia si sim, habeo aliquod bonum,
+            <lb ed="#P" n="80"/>etiamsi per impossibile Deus non sit; si 
+            au<lb break="no" ed="#P" n="81"/>tem ego non sum, licet Deus sit, nullum 
+            bo<lb break="no" ed="#P" n="82"/>num habeo, quia fundamentum totius boni
+            <lb ed="#P" n="83"/>est ipsumesse.
+          </p>
+          <p xml:id="szthvi-b56917-d1e2630">
+            <lb ed="#P" n="84"/>3. Prima conclusio, pro qua vide in simili,
+            <lb ed="#P" n="85"/>lib. 4 de Angelis, c. 5, n. 3. —Dico tamen 
+            in<lb break="no" ed="#P" n="86"/>clinationem charitatis esse supra naturam
+            <lb ed="#P" n="87"/>nostrae voluntatis, nullo tamen modo illi 
+            re<lb break="no" ed="#P" n="88"/>pugnare, atque adeo voluntatem nostram 
+            ma<lb break="no" ed="#P" n="89"/>eis inclinare ad dilectionem Dei, quam sui
+            <lb ed="#P" n="90"/>ipsius. Ita D. Thomas, 2. 2, quaest. 26, art. 3,
+            <lb ed="#P" n="91"/>et ejus schola. Ratio est primo, quia 
+            praece<lb break="no" ed="#P" n="92"/>ptum de diligendo Deo super omnia est 
+            natu<lb break="no" ed="#P" n="93"/>rale, ut disp. 5, sect. 1, ostendam; ergo est
+            <lb ed="#P" n="94"/>conforme inclinationi naturali, saltem 
+            supre<lb break="no" ed="#P" n="95"/>mae , ex D. Thoma, 1. 2, quaest. 94, ubi 
+            osten<lb break="no" ed="#P" n="96"/>dit legem naturae esse consentaneam 
+            inclina<lb break="no" ed="#P" n="97"/>tioni naturali ; nam voluntas naturaliter 
+            in<lb break="no" ed="#P" n="98"/>clinat ad id, quod naturalis ratio dictat ; haec
+            <lb ed="#P" n="99"/>vero dictat Deum esse super omnia 
+            diligen<lb break="no" ed="#P" n="100"/>dum. Tandem voluntas inclinat ad Deum ut
+            <lb ed="#P" n="101"/>ad finem ultimum, et non aliquid creatum;
+            <lb ed="#P" n="102"/>ergo magis ad Deum, quam ad caetera. 
+            Ante<lb break="no" ed="#P" n="103"/>cedens constat, quia solum Deus est verus 
+            ul<lb break="no" ed="#P" n="104"/>timus finis voluntatis, ut alias ostensum est';
+            <lb ed="#P" n="105"/>naturalis autem inclinatio est ad verum ulti-
+            <pb ed="#P" n="645"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>mum finem. Consequentia probatur, quia
+            <lb ed="#P" n="2"/>maxima inclinatio naturalis est ad ultimum
+            <lb ed="#P" n="3"/>finem ; primo, quia ille est per se maxime 
+            di<lb break="no" ed="#P" n="4"/>ligibilis ; inclinatio autem naturalis, cum sit
+            <lb ed="#P" n="5"/>ordinatissima , est consentanea objecto. 
+            Se<lb break="no" ed="#P" n="6"/>cundo, quia ultimus finis est quasi ratio 
+            dili<lb break="no" ed="#P" n="7"/>gendi caetera ; sicut enim a primo principio
+            <lb ed="#P" n="8"/>omnia procedunt, ita propter ultimum finem
+            <lb ed="#P" n="9"/>omnia appetuntur, etiam ipsum esse.
+          </p>
+          <p xml:id="szthvi-b56917-d1e2704">
+            <lb ed="#P" n="10"/>4. Ad primum argumentum primee 
+            senten<lb break="no" ed="#P" n="11"/>tie, in n. 9.— Ad secundum. — Ad tertium.
+            <lb ed="#P" n="12"/>— Ad primum argumentum in contrarium
+            <lb ed="#P" n="13"/>respondetur, si particula illa, uf, in 
+            antece<lb break="no" ed="#P" n="14"/>denti dicat rationem diligendi, falsum est 
+            an<lb break="no" ed="#P" n="15"/>tecedens ; alias tolleretur ratio verae amicitiae,
+            <lb ed="#P" n="16"/>si homo omnia ad se referret, quod etiam in
+            <lb ed="#P" n="17"/>amicitia naturali et honesta falsum est : 
+            ne<lb break="no" ed="#P" n="18"/>que credendum est Aristotelem id sibi 
+            voluis<lb break="no" ed="#P" n="19"/>se !, sed solum id quod supra, sectione prima,
+            <lb ed="#P" n="20"/>dicebamus, in naturali amicitia, regulam et
+            <lb ed="#P" n="21"/>mensuram erga amicum esse illum amorem
+            <lb ed="#P" n="22"/>quem quisque habet erga seipsum; vel etiam
+            <lb ed="#P" n="23"/>voluit id quod jam dicam. Si vero particula
+            <lb ed="#P" n="24"/>ut tantum importet conditionem sine qua
+            <lb ed="#P" n="25"/>non, verum est antecedens; nullus enim 
+            dili<lb break="no" ed="#P" n="26"/>git alium, qui non aliquo modo ad se 
+            perti<lb break="no" ed="#P" n="27"/>neat ; sed negatur consequentia ; teneret 
+            au<lb break="no" ed="#P" n="28"/>tem, si caetera essent paria : Deus autem 
+            mul<lb break="no" ed="#P" n="29"/>to est amabilior. Ad secundum respondetur,
+            <lb ed="#P" n="30"/>naturalem amorem esse faciliorem et 
+            jucun<lb break="no" ed="#P" n="31"/>diorem ; et ita est in anima separata, et fuisset
+            <lb ed="#P" n="32"/>in statu originalis justitiae ; jam vero, propter
+            <lb ed="#P" n="33"/>impedimentum et interiores inclinationes 
+            ali<lb break="no" ed="#P" n="34"/>quo modo contrarias, et imperfectam 
+            cogni<lb break="no" ed="#P" n="35"/>tionem, aliquo modo difficilis redditur usus
+            <lb ed="#P" n="36"/>hujus naturalis inclinationis. Ad tertium, 
+            ma<lb break="no" ed="#P" n="37"/>jus bonum meum esse Deum , quam ego sim
+            <lb ed="#P" n="38"/>mihi ; nam, licet sit Deus alius a me, tamen
+            <lb ed="#P" n="39"/>est naturale bonum, a quo et ego , et caetera
+            <lb ed="#P" n="40"/>pendent. Unde simpliciter maeis appetibile
+            <lb ed="#P" n="41"/>mihi est quod Deus sit, quam quod ego sim,
+            <lb ed="#P" n="42"/>quia hoc est simpliciter melius, magisque 
+            ra<lb break="no" ed="#P" n="43"/>Uoni consonum; posita autem illa hypothesi
+            <lb ed="#P" n="44"/>impossibili : Quod si possem ego esse, non
+            <lb ed="#P" n="45"/>existente Deo, preferre possem meum esse 
+            di<lb break="no" ed="#P" n="46"/>vino. Respondetur, posito impossibili, 
+            quodli<lb break="no" ed="#P" n="47"/>bet sequi; nam illo dato, Deus non esset Deus,
+            <lb ed="#P" n="48"/>nec naturale bonum; unde nihil inde 
+            sequi<lb break="no" ed="#P" n="49"/>tur absolute et simpliciter, quia absolute Deus
+            <lb ed="#P" n="50"/>est bonum naturale. Neque vero inde fit Deum
+            <lb ed="#P" n="51"/>nunc amari praecise propter ea bona quae 
+            ho<lb break="no" ed="#P" n="52"/>minibus communicat, sed propter bonitatem,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>quae talis est, ut sola sit causa et principium
+            <lb ed="#P" n="54"/>totius bonitatis.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

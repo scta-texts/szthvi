@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 10</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 10</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="720"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-b78753"><!-- l3-d10 -->
+        <head xml:id="szthvi-b78753-Hd1e101">Disputatio 10</head>
+        <head xml:id="szthvi-b78753-Hd1e103" type="question-title">De scandalo</head>
+        <p xml:id="szthvi-b78753-d1e106">
+          <lb ed="#P" n="62"/>DISPUTATIO X.
+          <lb ed="#P" n="63"/>DE SCANDALO.
+        </p>
+        <p xml:id="szthvi-b78753-d1e113">
+          <lb ed="#P" n="64"/>Praeceptum misericordiae affirmativum est,
+          <lb ed="#P" n="65"/>quod directe obligat ad benefaciendum 
+          proxi<lb break="no" ed="#P" n="66"/>mo, consequenter vero ad non laedendum;
+          <lb ed="#P" n="67"/>unde contra illud dupbciter peccari potest :
+          <lb ed="#P" n="68"/>vel omittendo, de quo nihil est quod dicamus;
+          <lb ed="#P" n="69"/>explicata enim obligatione hujus praecepti, et
+          <lb ed="#P" n="70"/>tempore , et circumstantiis quibus obhgat,
+          <lb ed="#P" n="71"/>constat satis quomodo et quando peccetur
+          <lb ed="#P" n="72"/>omittendo. Alio modo peccatur per 
+          commissio<lb break="no" ed="#P" n="73"/>nem , inferendo malum proximo, qui modus
+          <lb ed="#P" n="74"/>eget explicatione. Secundo, est notanda 
+          diffe<lb break="no" ed="#P" n="75"/>rentia inter misericordiam spiritualem et 
+          tem<lb break="no" ed="#P" n="76"/>poralem, nam contra corporale bonum vix
+          <lb ed="#P" n="77"/>peccatur per commissionem, quin peccatum
+          <lb ed="#P" n="78"/>transeat in injustitiam ; obligatio enim non
+          <lb ed="#P" n="79"/>nccendi proximo, praecipue invito, non solum
+          <lb ed="#P" n="80"/>ad misericordiam, sed ad justitiam spectat ;
+          <lb ed="#P" n="81"/>non repugnat tamen hoc modo interdum
+          <lb ed="#P" n="82"/>peccari contra misericordiam et charitatem,
+          <lb ed="#P" n="83"/>ut si quis irrationabiliter constituat 
+          proxi<lb break="no" ed="#P" n="84"/>mum etiam volentem in magna miseria; de
+          <lb ed="#P" n="85"/>quo modo peccandi divus Thomas nihil 
+          di<lb break="no" ed="#P" n="86"/>xit, quia rarus est, et ex dictis de praecepto 
+          mi<lb break="no" ed="#P" n="87"/>sericordiae, et ex dicendis de scandaio, facile
+          <lb ed="#P" n="88"/>patere potest. Circa spirituale bonum proximi
+          <lb ed="#P" n="89"/>saepe peccatur contra misericordiam sine 
+          in<lb break="no" ed="#P" n="90"/>justitia, quia spirituale damnum nulli 
+          infer<lb break="no" ed="#P" n="91"/>tur, nisi volenti, et ideo sine injuria, non 
+          ta<lb break="no" ed="#P" n="92"/>men sine laesione charitatis, et hoc genus 
+          pec<lb break="no" ed="#P" n="93"/>cati, scandalum dictum est a Theclogis, quod
+          <lb ed="#P" n="94"/>graecum nomen est, offendiculum vel 
+          offensio<lb break="no" ed="#P" n="95"/>nem signiticans. De quo bene Divus 
+          Hierony<lb break="no" ed="#P" n="96"/>mus, in caput decimum quintum Matth., ad
+          <lb ed="#P" n="97"/>illa verba: PAariscei, audito hoc verbo, 
+          scanda<lb break="no" ed="#P" n="98"/>lizati sunt.
+        </p>
+        <div xml:id="szthvi-b78753-Dd1e191">
+          <head xml:id="szthvi-b78753-Hd1e193">Sectio 1</head>
+          <head xml:id="szthvi-b78753-Hd1e195" type="question-title">Utrum scandalum sit peccatum ex suo genere mortale</head>
+          <p xml:id="szthvi-b78753-d1e198">
+            <lb ed="#P" n="99"/>SECTIO I.
+            <lb ed="#P" n="100"/>Utrum scandalum sit peccatum ex suo genere
+            <lb ed="#P" n="101"/>mortale.
+          </p>
+          <p xml:id="szthvi-b78753-d1e207">
+            <lb ed="#P" n="102"/>1. Scandali divisio.— Scandalum apud 
+            vul<lb break="no" ed="#P" n="103"/>gus. — De scandalo activo agitur, et definitur.
+            <lb ed="#P" n="104"/>— Duplex est scandalum: activum et passi-
+            <pb ed="#P" n="721"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>vum. Activum est offendiculum quod fratri
+            <lb ed="#P" n="2"/>ponitur, ut spiritualiter cadat; passivum est
+            <lb ed="#P" n="3"/>ipsa ruina proximi. Quod facile ex 
+            corporali<lb break="no" ed="#P" n="4"/>bus explicari potest cum Davide, Psal. 139:
+            <lb ed="#P" n="5"/>Iniqui cogitaverunt supplantare gressus meos;
+            <lb ed="#P" n="6"/>absconderunt superbi laqueum mihi, et funes
+            <lb ed="#P" n="7"/>extenderunt in laqueum, juata iter sandalum
+            <lb ed="#P" n="8"/>posuerunt amilhi ; et simili allusione sive 
+            meta<lb break="no" ed="#P" n="9"/>phora usus est Isai., c. 8, etrepetunt Paulus ad
+            <lb ed="#P" n="10"/>Roman. 9, et Petrus 1 epist., c. 2, dum 
+            Chris<lb break="no" ed="#P" n="11"/>tum lapidem offensionis et petram scandali 
+            in<lb break="no" ed="#P" n="12"/>credulis esse pronuntiat. Passivum scandalum
+            <lb ed="#P" n="13"/>nihil ad nos spectat, quia ut notat D. Thomas
+            <lb ed="#P" n="14"/>2. 2, quaest. 43, art. 3, non est speciale 
+            pec<lb break="no" ed="#P" n="15"/>catum habens propriam malitiam contra 
+            cha<lb break="no" ed="#P" n="16"/>ritatem, sed potest fundi per omnia vitia; ubi
+            <lb ed="#P" n="17"/>est advertendum vulgo solere putari, et dici
+            <lb ed="#P" n="18"/>hoc scandalum passivum, non tam ruinam
+            <lb ed="#P" n="19"/>spiritualem, quae consistit in peccaio, quam
+            <lb ed="#P" n="20"/>veluti admirationem, et rumorem qui excitatur
+            <lb ed="#P" n="21"/>in proximis ex peccato alterius; sed nunquam
+            <lb ed="#P" n="22"/>illud habet propriam rationem scandali, nisi
+            <lb ed="#P" n="23"/>aliquam malitiam includat, quae originem 
+            ali<lb break="no" ed="#P" n="24"/>quo modo ducat ab illo qui dedit scaudalum,
+            <lb ed="#P" n="25"/>nt colligitur ex Hieronymo, Matthaei 18, et divo
+            <lb ed="#P" n="26"/>Thoma 2. 2, quaest. 33, art. 1. Omisso ergo
+            <lb ed="#P" n="27"/>scandalo passivo, sermo est de activo, quod
+            <lb ed="#P" n="28"/>definit D. Thomas, q. 43, art. 1: Opus minus
+            <lb ed="#P" n="29"/>rectum prebens proaimo occasionem ruine ;
+            <lb ed="#P" n="30"/>quam definitionem et ipse bene declarat, et in
+            <lb ed="#P" n="31"/>sequentibus exponemus latius. Solum nunc
+            <lb ed="#P" n="32"/>est consideranda illa particula prebens, nam
+            <lb ed="#P" n="33"/>interdum aliquis sumit ex meo opere 
+            occasio<lb break="no" ed="#P" n="34"/>nem peccandi, quam ego non praebeo, quod
+            <lb ed="#P" n="35"/>scandalum dici solet pure passivum, estque
+            <lb ed="#P" n="36"/>peccatum tantum in sumente, non vero in eo
+            <lb ed="#P" n="37"/>a quo sumitur; oportet igitur ut occasio 
+            pec<lb break="no" ed="#P" n="38"/>candi sit vere et moraliter a me data.
+          </p>
+          <p xml:id="szthvi-b78753-d1e303">
+            <lb ed="#P" n="39"/>2. Prima conclusio de fide. — Secunda
+            <lb ed="#P" n="40"/>conclusio communis probatur dupliciter. —
+            <lb ed="#P" n="41"/>Horum nonnulli afferuntur a Benedict. 
+            Justi<lb break="no" ed="#P" n="42"/>niano, vers. 11 et 12. — Dico primo 
+            scanda<lb break="no" ed="#P" n="43"/>lum esse peccatum. Est certa de fide ; seepe
+            <lb ed="#P" n="44"/>enim in Scriptura illud reprehenditur, Matth.
+            <lb ed="#P" n="45"/>8 : Qui scandalizaverit unum de pusillis, eic.,
+            <lb ed="#P" n="46"/>ibidem copiose ; et Roman. 14, malum est 
+            ho<lb break="no" ed="#P" n="47"/>mini, qui per offendiculum manducat, et 
+            simi<lb break="no" ed="#P" n="48"/>lia in eodem capite, et 1 Cor. S, per totum.
+            <lb ed="#P" n="49"/>Ratio est, quia qui sic scandalizat est causa
+            <lb ed="#P" n="50"/>spiritualis mali proximi. Dico secundo : hoc
+            <lb ed="#P" n="51"/>peccatum est peculiaris speciei habens 
+            mah<lb break="no" ed="#P" n="52"/>uam charitati contrariam. Est communis, 
+            pri<lb break="no" ed="#P" n="53"/>mo, quia in Scriptura, ut jam allegavi, et 
+            Pa<lb break="no" ed="#P" n="54"/>tribus etiam, ut in Basilio, regula 64 ex 
+            bre<lb break="no" ed="#P" n="55"/>vioribus, Chrysostomo, homil. 21 in 1 ad
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>Corinth., ubi inter alia : Est quovis vulnere
+            <lb ed="#P" n="57"/>gravius scandali:are, scu offensionem afferre,
+            <lb ed="#P" n="58"/>et aliis, ad capit. 8 primae ad Corinth., vitium
+            <lb ed="#P" n="59"/>hoc reprehenditur, ut habens propriam 
+            mali<lb break="no" ed="#P" n="60"/>tiam. Secundo, inferre voluntarie proximo
+            <lb ed="#P" n="61"/>spirituale damnum est charitati contrarium ;
+            <lb ed="#P" n="62"/>sed haec est specialis malitiae ratio; ergo. Nec
+            <lb ed="#P" n="63"/>vero ea excusatur, eo quod proximus 
+            volun<lb break="no" ed="#P" n="64"/>tarie damnum illud patiatur. Nam licet hoc
+            <lb ed="#P" n="65"/>satis sit ad tollendam injustitiam, non tamcn
+            <lb ed="#P" n="66"/>ad vitandam laesionem charitatis. Et 
+            confir<lb break="no" ed="#P" n="67"/>matur, quia non subvenire proximo in 
+            spiri<lb break="no" ed="#P" n="68"/>tuali necessitate, est peccatum speciale contra
+            <lb ed="#P" n="69"/>charitatem, ut disp. 8 dictum est; ergo multo
+            <lb ed="#P" n="70"/>magis erit, inclinare illum positive ad 
+            peccan<lb break="no" ed="#P" n="71"/>dum. Confirmatur secundo ex corporalibus;
+            <lb ed="#P" n="72"/>nam si essem in causa, ut Petrus seipsum 
+            oc<lb break="no" ed="#P" n="73"/>cideret, etiam voluntarie, grave peccatum 
+            fo<lb break="no" ed="#P" n="74"/>ret contra charitatem et misericorliam per
+            <lb ed="#P" n="75"/>modum commissionis; ergo a fortiori si 
+            cau<lb break="no" ed="#P" n="76"/>sa essem spiritualis mortis, sive peccati, 
+            quan<lb break="no" ed="#P" n="77"/>tumvis ipsi voluntarii. Propter quod D. 
+            Tho<lb break="no" ed="#P" n="78"/>mas, citato art. 3, recte dixit hoc genus 
+            pec<lb break="no" ed="#P" n="79"/>cati esse contra praeceptuni correctionis 
+            tra<lb break="no" ed="#P" n="80"/>ternae per modum commissionis.
+          </p>
+          <p xml:id="szthvi-b78753-d1e400">
+            <lb ed="#P" n="81"/>3. Objicitur primo contra conclusionem. —
+            <lb ed="#P" n="82"/>Respondetur. — Sed contra, quia nullum est
+            <lb ed="#P" n="83"/>speciale vitium habituale, a quo eliciatur
+            <lb ed="#P" n="84"/>peccatum scandali; nam per actus omnium
+            <lb ed="#P" n="85"/>vitiorum possumus scandalizare proximum ;
+            <lb ed="#P" n="86"/>ergo non est malitia specialis. D. Thomas, in 4,
+            <lb ed="#P" n="87"/>d. 38, q. 2, art. 2, respondet vitium hoc in
+            <lb ed="#P" n="88"/>ratione habitus non esse speciale, sed 
+            nihilo<lb break="no" ed="#P" n="89"/>minus ex intentione peccantis posse habere
+            <lb ed="#P" n="90"/>peccatum specialem malitiam ; sed de hac 
+            spe<lb break="no" ed="#P" n="91"/>ciali intentione, an sit necessaria, dicetur
+            <lb ed="#P" n="92"/>sectione sequenti. Ad argumentum vero 
+            re<lb break="no" ed="#P" n="93"/>spondendum, ad speciale peccatum 
+            imperti<lb break="no" ed="#P" n="94"/>nens esse quod actus peccandi ab uno vel
+            <lb ed="#P" n="95"/>multis vitiis eliciatur ; nam commune fere est
+            <lb ed="#P" n="96"/>omnibus peccatis, quae sunt unius speciei in
+            <lb ed="#P" n="97"/>esse peccati, ratione materialium actuum posse
+            <lb ed="#P" n="98"/>elici a diversis habitibus, et e contrario saepe
+            <lb ed="#P" n="99"/>contingit ut peccata diversarum specierum,
+            <lb ed="#P" n="100"/>ratione actuum materialium eliciantur ab uno
+            <lb ed="#P" n="101"/>habitu. Exemplum prumi sit, cum quis honores
+            <lb ed="#P" n="102"/>affectet ac divitias ex invidia proximi; affe.
+            <lb ed="#P" n="103"/>ctus enim llli a diversis habitibus eliciuntur,
+            <lb ed="#P" n="104"/>cum tamen una specie malitia contra proximi
+            <lb ed="#P" n="105"/>charitatem vitientur; exempium secundi, s;
+            <lb ed="#P" n="106"/>quis divitias appetat, nunc ut vindictam sumat
+            <lb ed="#P" n="107"/>nunc ut feminam pelliceat ; illi namque 
+            ate<lb break="no" ed="#P" n="108"/>ctus ab eodem eliciuntur habitu, et tamen
+            <lb ed="#P" n="109"/>malitias induunt longe diversas. Ratio est, quia
+            <lb ed="#P" n="110"/>tales actus sumunt suam speciem positivam
+            <pb ed="#P" n="722"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>et realem a directivo motivo, malitiam autem
+            <lb ed="#P" n="2"/>non semper inde sumunt, sed ex intrinseca
+            <lb ed="#P" n="3"/>deformitate conjuncta materiae in qua 
+            versan<lb break="no" ed="#P" n="4"/>tur actus. Quicquid ergo sit de antecedente,
+            <lb ed="#P" n="5"/>negatur consequentia , praeterquam quod 
+            in<lb break="no" ed="#P" n="6"/>terdum accidere possit ut hoc peccatum 
+            profi<lb break="no" ed="#P" n="7"/>ciscatur ab habitu immediate charitati vel 
+            mi<lb break="no" ed="#P" n="8"/>sericordiae contrario, ut jam patcbit.
+          </p>
+          <p xml:id="szthvi-b78753-d1e489">
+            <lb ed="#P" n="9"/>4. Tertia conclusio probatur em locis pro
+            <lb ed="#P" n="10"/>prima allatis, et ratione. Dico tertio: 
+            pecca<lb break="no" ed="#P" n="11"/>tum hoc genere suo est mortale. Est certa ex
+            <lb ed="#P" n="12"/>citatis locis pro conclusionibus praecedentibus.
+            <lb ed="#P" n="13"/>Ratio est, quia ex genere suo est contrarium
+            <lb ed="#P" n="14"/>charitati. Item quia in eodem genere 
+            peccan<lb break="no" ed="#P" n="15"/>di, commissio est gravior omissione; atqui, ut
+            <lb ed="#P" n="16"/>ostendimus, omissio misericordiae genere suo
+            <lb ed="#P" n="17"/>est mortale; ergo a fortiori commissio scandali
+            <lb ed="#P" n="18"/>erit mortalis. Dixi ea genere, quia ex levitate
+            <lb ed="#P" n="19"/>materiae potest esse veniale. Advertendum 
+            au<lb break="no" ed="#P" n="20"/>tem est primo, materiam hujus peccati esse
+            <lb ed="#P" n="21"/>posse ruinam gravem, seu peccatum mortale
+            <lb ed="#P" n="22"/>proximi, et haec semper est gravis materia,
+            <lb ed="#P" n="23"/>sicut dictum est de correctione fraterna; esse
+            <lb ed="#P" n="24"/>quoque posse materiam veniale peccatum 
+            pro<lb break="no" ed="#P" n="25"/>ximi, et haec semper est levis materia, quia
+            <lb ed="#P" n="26"/>si in ipso proximo peccatum est veniale, etiam
+            <lb ed="#P" n="27"/>in alio per se non erit mortale. Item quia
+            <lb ed="#P" n="28"/>damnum proximi per se est leve; ergo qui
+            <lb ed="#P" n="29"/>illud infert, leviter peccat. An tamen hac
+            <lb ed="#P" n="30"/>materia interdum possit esse gravis, 
+            resolven<lb break="no" ed="#P" n="31"/>dum est sicut in simili dubio de correctione
+            <lb ed="#P" n="32"/>fraterna. Nam quando non corrigere 
+            proxi<lb break="no" ed="#P" n="33"/>mum de veniali esset mortale, tunc a fortiori
+            <lb ed="#P" n="34"/>inducere illam per scandalum esset mortale;
+            <lb ed="#P" n="35"/>in aliis vero casibus nunquam est gravis 
+            ma<lb break="no" ed="#P" n="36"/>teria, propter rationes factas hic, et supra in
+            <lb ed="#P" n="37"/>dicta materia de correctione, disputat. 8, 
+            sec<lb break="no" ed="#P" n="38"/>tion. 2. Dixi autem per se; nam per accidens,
+            <lb ed="#P" n="39"/>si illud scandalum vel inductio oriretur ex
+            <lb ed="#P" n="40"/>gravi odio, vel fieret cum gravi injuria, vel
+            <lb ed="#P" n="41"/>per vim, tunc posset esse peccatum mortale,
+            <lb ed="#P" n="42"/>non praecise ratione scandali. Advertendum
+            <lb ed="#P" n="43"/>secundo posse ad materiam hujus peccati 
+            re<lb break="no" ed="#P" n="44"/>duci, impedire proximum, ne quod perfectioris
+            <lb ed="#P" n="45"/>et majoris boni est, operetur; tunc enim 
+            pro<lb break="no" ed="#P" n="46"/>prie quidem non est scandalum, cum ibi non
+            <lb ed="#P" n="47"/>interveniat ruina proximi, quae proprie est
+            <lb ed="#P" n="48"/>scandalum passivum ; tamen in co actu potest
+            <lb ed="#P" n="49"/>esse aliqua malitia contra charitatem , quae
+            <lb ed="#P" n="50"/>sine dubio ad hoc vitium revocatur, et gravis
+            <lb ed="#P" n="51"/>non est praecise considerata, tamen ex 
+            inten<lb break="no" ed="#P" n="52"/>tione, si intercedat fraus et dolus, aut aliqua
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>vis cum gravi damno spirituali proximi, 
+            pote<lb break="no" ed="#P" n="54"/>rit esse peccatum mortale. Ultimo est 
+            adver<lb break="no" ed="#P" n="55"/>tendum, alio etiam modo posse esse peccatum
+            <lb ed="#P" n="56"/>hoc veniale ex inadvertentia, scilicet, 
+            occasio<lb break="no" ed="#P" n="57"/>nis quae datur proximo peccandi; quae ut 
+            ex<lb break="no" ed="#P" n="58"/>cuset a mortali, oportet ut procedat ex levi
+            <lb ed="#P" n="59"/>neghgentia, et ignorantia fere invincibili, 
+            ex<lb break="no" ed="#P" n="60"/>cusanteque a perfecto voluntario; et tunc, 
+            li<lb break="no" ed="#P" n="61"/>cet peccatum, quod est scandalum activum,
+            <lb ed="#P" n="62"/>alias ex genere suo sit mortale, tamen malitia
+            <lb ed="#P" n="63"/>quae ilii additur propter scandalum, erit 
+            ve<lb break="no" ed="#P" n="64"/>nialis tantum, quia quoad eam, primum non
+            <lb ed="#P" n="65"/>est perfecte voluntarium. In quo vero gradu
+            <lb ed="#P" n="66"/>malitiae sit, dicetur melius sectione sequenti.
+          </p>
+        </div>
+        <div xml:id="szthvi-b78753-Dd1e621">
+          <head xml:id="szthvi-b78753-Hd1e623">Sectio 2</head>
+          <head xml:id="szthvi-b78753-Hd1e625" type="question-title">Quod genus voluntarii requiratur ad contrahendam malitiam scandali</head>
+          <p xml:id="szthvi-b78753-d1e628">
+            <lb ed="#P" n="67"/>SECTIO II.
+            <lb ed="#P" n="68"/>Quod genus voluntarii requiratur ad 
+            contra<lb break="no" ed="#P" n="69"/>hendam malitiam scandali.
+          </p>
+          <p xml:id="szthvi-b78753-d1e637">
+            <lb ed="#P" n="70"/>1. Notatur triples modus inducendi alterum
+            <lb ed="#P" n="71"/>ad peccatum. — Tribus modis intelligi potest
+            <lb ed="#P" n="72"/>unum adducere aliquem ad peccandum; 
+            pri<lb break="no" ed="#P" n="73"/>mo, hac intentione directe ut spiritualter
+            <lb ed="#P" n="74"/>moriatur, sicut facit daemon. Secundo directe
+            <lb ed="#P" n="75"/>etiam inducendo ad opus, non ut ruat, sed
+            <lb ed="#P" n="76"/>propter utilitatem, vel oblectationem aliquam
+            <lb ed="#P" n="77"/>meam. Tertio indirecte tantum, aliquid coram
+            <lb ed="#P" n="78"/>alio faciendo, unde ille excitatur ad 
+            peccan<lb break="no" ed="#P" n="79"/>dum.
+          </p>
+          <p xml:id="szthvi-b78753-d1e661">
+            <lb ed="#P" n="80"/>2. Prima conclusio circa primum modun: 
+            in<lb break="no" ed="#P" n="81"/>ducendi, in qua conveniunt omnes post D. Thom.
+            <lb ed="#P" n="82"/>— Dico primo : qui primo modo inducit ad
+            <lb ed="#P" n="83"/>peccandum incurrit malitiam scandali. Hoc 
+            fa<lb break="no" ed="#P" n="84"/>tentur omnes post D. Thomam, quia illud est
+            <lb ed="#P" n="85"/>scandalum maximum quod esse potest. Unde
+            <lb ed="#P" n="86"/>colligitur, si quis illo modo inducat ad furtum,
+            <lb ed="#P" n="87"/>verbi gratia, et incurrere malitiam furti, quia
+            <lb ed="#P" n="88"/>est causa ejus, et praeterea scandah contra
+            <lb ed="#P" n="89"/>charitatem. Sed conitra, nam potius videtur
+            <lb ed="#P" n="90"/>illa malitia ad odium pertinere. Respondcetur
+            <lb ed="#P" n="91"/>primo id non semper oriri ex odio proximi,
+            <lb ed="#P" n="92"/>nam potest oriri ex ira, vel odio Dei. Et 
+            se<lb break="no" ed="#P" n="93"/>cundo, ex his oriri quidem posse imperative,
+            <lb ed="#P" n="94"/>tamen ex proprio objecto et materia suam 
+            ha<lb break="no" ed="#P" n="95"/>bere malitiam in charitate proximi.
+          </p>
+          <p xml:id="szthvi-b78753-d1e699">
+            <lb ed="#P" n="96"/>3. Secunda conclusio circa secundum modum
+            <lb ed="#P" n="97"/>inducendi.—bico secundo : qui secundo modo
+            <lb ed="#P" n="98"/>inducit ad actum peccati, licet id faciat 
+            pro<lb break="no" ed="#P" n="99"/>pter utilitatem, vel aliud simile; incurrit 
+            spe<lb break="no" ed="#P" n="100"/>cialem malitiam scandal ; sumitur assertio ex
+            <lb ed="#P" n="101"/>divo Thoma 2. 2, q. 43, articul. 1, ad 4, et est
+            <lb ed="#P" n="102"/>Adriani in 4, in materia de Confessione, quaest.
+            <lb ed="#P" n="103"/>4; Majoris, in 4, d. 38, q. ult., 83; 
+            principa<lb break="no" ed="#P" n="104"/>liter Antonini, 2 p., tit. 7, S 4, c. 4; Navarr.,
+            <pb ed="#P" n="723"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>in capit. Consideret, de Poenit., dist. 5, 8 
+            Ani<lb break="no" ed="#P" n="2"/>madvertere, n. 5 et seqq.; Alens., 2 p., q. ult.,
+            <lb ed="#P" n="3"/>menmbr. 2, in fine; Sylvest. et aliorum, verbo
+            <lb ed="#P" n="4"/>S candalum ; Petri Soto, lect. 9, de 
+            Confessio<lb break="no" ed="#P" n="5"/>ne, in fine. Probatur primo ex definitione
+            <lb ed="#P" n="6"/>scandali, quae tota ibi habet locum. Secundo,
+            <lb ed="#P" n="7"/>quia Scriptura reprehendit scandalum, ut 
+            fre<lb break="no" ed="#P" n="8"/>quenter est in hominibus; non reperitur autem
+            <lb ed="#P" n="9"/>frequenter primo modo, sed secundo; ergo.
+            <lb ed="#P" n="10"/>Tertio, ad contrahendam malitiam aliquam,
+            <lb ed="#P" n="11"/>non oportet illam intendere, sed satis est id
+            <lb ed="#P" n="12"/>voluntarie efficere. cui illa malitia est 
+            con<lb break="no" ed="#P" n="13"/>juncta, ut patet in furto. Dices forsan id esse
+            <lb ed="#P" n="14"/>verum, quando malitia oritur ex speciali 
+            cir<lb break="no" ed="#P" n="15"/>cumstantia, non vero si ex cenerali. Qua 
+            ra<lb break="no" ed="#P" n="16"/>tione proprium nocumentum spirituale non
+            <lb ed="#P" n="17"/>addit peccato specialem maltiam, nisi 
+            specia<lb break="no" ed="#P" n="18"/>liter intendatur. At vero circumstantia haec,
+            <lb ed="#P" n="19"/>quae est spirituale damnum proximi, per se
+            <lb ed="#P" n="20"/>includitur in omni peccato contra proximum.
+            <lb ed="#P" n="21"/>Respondetur falsum cesse hoc ultimum, nam
+            <lb ed="#P" n="22"/>spirituale damnum proximi per se non 
+            inclu<lb break="no" ed="#P" n="23"/>ditur in omnibus peccatis contra proximum,
+            <lb ed="#P" n="24"/>neque in omnibus peccatis furti, verbi gratia,
+            <lb ed="#P" n="25"/>vel similibus, quibus scandalizatur proximus.
+            <lb ed="#P" n="26"/>Et contirmatur primo, nam saepe una malitia
+            <lb ed="#P" n="27"/>talis peccati est contra justitiam, ut si inducam
+            <lb ed="#P" n="28"/>ad furtum ; et tamen malitia scandali est 
+            con<lb break="no" ed="#P" n="29"/>tra charitatem. Et confirmatur secundo, nam
+            <lb ed="#P" n="30"/>haec circumstantia aggravat peccatum, et non
+            <lb ed="#P" n="31"/>tantum intra eamdem speciem, ut patet ex
+            <lb ed="#P" n="32"/>tertio argumento facto, et quia sine dubio est
+            <lb ed="#P" n="33"/>aperienda in confessione. Ultimo, quia si unus
+            <lb ed="#P" n="34"/>proximus induceret alium ad vivendum 
+            libe<lb break="no" ed="#P" n="35"/>re, non determinando vitium aliquod, illud
+            <lb ed="#P" n="36"/>esset peccatum scandali sine ulla dubitatione;
+            <lb ed="#P" n="37"/>et non in aliqua specie determinati vitii, 
+            prae<lb break="no" ed="#P" n="38"/>terquam contra charitatem; quare, etc.
+          </p>
+          <p xml:id="szthvi-b78753-d1e808">
+            <lb ed="#P" n="39"/>4. Contra conclusionem sentit Cajetanus et
+            <lb ed="#P" n="40"/>alii.—Hujus fundamentum.—Confirmatur.—
+            <lb ed="#P" n="41"/>Solvitur fundamentum Cajetani, tract. 3, disp.
+            <lb ed="#P" n="42"/>1, sect. 8.— Disp. 5, sect. 2.—4Ad 
+            confirmatio<lb break="no" ed="#P" n="43"/>nem .—COppositum sentit Cajetanus quaest. illa
+            <lb ed="#P" n="44"/>43, art. 3, et favet illi D. Thomas ibi; et 
+            AI<lb break="no" ed="#P" n="45"/>bert., in A4, distinct. 17, art. 48; Durand.,
+            <lb ed="#P" n="46"/>38, q. 3; Angelus, in Summa, verbo 
+            Scanda<lb break="no" ed="#P" n="47"/>lun ; sed hi sicut et divus Thomas obscure
+            <lb ed="#P" n="48"/>loquuntur, et eamdem expositionem 
+            admit<lb break="no" ed="#P" n="49"/>tunt quam ille, ut videbimus numero 
+            sequen<lb break="no" ed="#P" n="50"/>ti, nam eisdem fere verbis loquuntur. hatio
+            <lb ed="#P" n="51"/>autem est, quia nocumentum proximi, si non
+            <lb ed="#P" n="52"/>sit per se intentum, non dat speciem; sicute
+            <lb ed="#P" n="53"/>contrario dare consilium bonum proximo non
+            <lb ed="#P" n="54"/>habet specialem bonitatem charitatis, nisi per
+            <lb ed="#P" n="55"/>se intendatur. Confirmatur, nam alias, qui
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>induceret alium ad peccandum, dupliciter
+            <lb ed="#P" n="57"/>peccaret, contra charitatem et justitiam ; quo1
+            <lb ed="#P" n="58"/>si concedatur, sequitur illum gravius peccare
+            <lb ed="#P" n="59"/>quam homicidam, quia ille occidit animam,
+            <lb ed="#P" n="60"/>hic tantum corpus. Respondetur 
+            fundamen<lb break="no" ed="#P" n="61"/>tum esse falsum; ostensum est enim in prima
+            <lb ed="#P" n="62"/>secundae peccatum aggravari etiam ex nova
+            <lb ed="#P" n="63"/>specie, ex nocumento praeviso. cum 
+            obligatio<lb break="no" ed="#P" n="64"/>ne vitandi illud, etiamsi non sit per se 
+            inten<lb break="no" ed="#P" n="65"/>tum; et est evidens, quia in moralibus 
+            volun<lb break="no" ed="#P" n="66"/>tarium directum et indirectum ad eamdem
+            <lb ed="#P" n="67"/>speciem pertinent; neque est eadem ratio de
+            <lb ed="#P" n="68"/>bonitate, ut etiam illo tractatu ostendi, quia
+            <lb ed="#P" n="69"/>cum in perfectione consistat, requirit 
+            perfec<lb break="no" ed="#P" n="70"/>tam causam ; malitia vero committitur ex
+            <lb ed="#P" n="71"/>quocumque defectu. Ad confirmationem 
+            ne<lb break="no" ed="#P" n="72"/>eatur sequela, quia homicida est causa efficax
+            <lb ed="#P" n="73"/>mortis corporalis, scandalosns vero inefticax.
+            <lb ed="#P" n="74"/>Deinde spirituale dampum est reparabile;
+            <lb ed="#P" n="75"/>mors vero corporis est irreparabile damnum.
+            <lb ed="#P" n="76"/>Addo tamen scandalum hoc suo genere 
+            gra<lb break="no" ed="#P" n="77"/>vius esse quam homicidium, quia proximius
+            <lb ed="#P" n="78"/>et directe magis opponitur proximo, et per se
+            <lb ed="#P" n="79"/>est contra bona altioris ordinis ; quare si 
+            dam<lb break="no" ed="#P" n="80"/>num spirituale esset aeterna mors, vel esset
+            <lb ed="#P" n="81"/>quodammodo per vim et injuriam, et 
+            praeci<lb break="no" ed="#P" n="82"/>pue si esset cum illa formali intentione, de
+            <lb ed="#P" n="83"/>qua in prima conclusione, posset haec malitia
+            <lb ed="#P" n="84"/>superare pravitatem homicidir.
+          </p>
+          <p xml:id="szthvi-b78753-d1e912">
+            <lb ed="#P" n="85"/>5. Tertia conclusio communis contra 
+            Caje<lb break="no" ed="#P" n="86"/>tanum et Durandum, et alios.—EHEempontur D.
+            <lb ed="#P" n="87"/>Thomas.—bico tertio: quando aliquis tertio
+            <lb ed="#P" n="88"/>modo, hoc est, indirecte, inducit alium ad
+            <lb ed="#P" n="89"/>peceandum per actionem malam, vel 
+            haben<lb break="no" ed="#P" n="90"/>tem speciem mali, etiam incurrit 
+            specia<lb break="no" ed="#P" n="91"/>lem malitiam scandali. Oppositum tenet 
+            Ca<lb break="no" ed="#P" n="92"/>jetanus hic, et in Summa verbo Scandalum ;
+            <lb ed="#P" n="93"/>Armilla, ibidem; Durandus, in 4, distinctione
+            <lb ed="#P" n="94"/>38, q. 3; Paludanus, quaest. 6, articulo 2,
+            <lb ed="#P" n="95"/>conclus. 2, et alii qui dicunt, quando opus
+            <lb ed="#P" n="96"/>quo inducitur proximus ad peccandum, vere
+            <lb ed="#P" n="97"/>non est malurm, sed apparet, tunc posse 
+            con<lb break="no" ed="#P" n="98"/>trahere malitiam scandali ; si vero sit malum,
+            <lb ed="#P" n="99"/>non contrahere malitiam scandali praeter eam
+            <lb ed="#P" n="100"/>quam in se habet. Sed conclusio est 
+            commu<lb break="no" ed="#P" n="101"/>nior: tenet Sylvester, verbo Scandalum, q.
+            <lb ed="#P" n="102"/>2, $3; Angel., eodem verbo, qui citat 
+            mul<lb break="no" ed="#P" n="103"/>tos. Et est clara sententia D. Thomae, hic,
+            <lb ed="#P" n="104"/>art. 3, ad 2, ubi obiter colligitur, in corpore
+            <lb ed="#P" n="105"/>non doceri contrarium secundae conclusionis;
+            <lb ed="#P" n="106"/>sed vel loqui late de intentione, ut patet in
+            <lb ed="#P" n="107"/>exemplo furti, quo utitur, vel certe loqui
+            <lb ed="#P" n="108"/>stricte de specie primaria actus. Nam D. 
+            Tho<lb break="no" ed="#P" n="109"/>mas circumstantias aggravantes, quamvis
+            <lb ed="#P" n="110"/>aggravent in alia specie, non solet vocare
+            <pb ed="#P" n="724"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>proprie dantes speciem, nisi accidentariam
+            <lb ed="#P" n="2"/>speciem addendo, ut patet ex prima secundae,
+            <lb ed="#P" n="3"/>quaest. 18, articulo 3.
+          </p>
+          <p xml:id="szthvi-b78753-d1e982">
+            <lb ed="#P" n="4"/>6. Probatur jam conclusio. — Probatur 
+            er<lb break="no" ed="#P" n="5"/>go conclusio primum, quia Sceriptura et 
+            Pa<lb break="no" ed="#P" n="6"/>tres non minus reprehendunt sic operantes
+            <lb ed="#P" n="7"/>tanquam scandalosos , quam consulentes, vel
+            <lb ed="#P" n="8"/>inducentes directe. Secundo, in hoc opere 
+            re<lb break="no" ed="#P" n="9"/>peri:ur voluntarium indirectum; sed hoc satis
+            <lb ed="#P" n="10"/>est ad contrahendam dictam malitiam, ut
+            <lb ed="#P" n="11"/>dictum est. Tertio ad hominem, nam si actio
+            <lb ed="#P" n="12"/>non re, sed specie tantum mala contrahit
+            <lb ed="#P" n="13"/>malitiam scandali per hoc voluntarium 
+            indi<lb break="no" ed="#P" n="14"/>rectum, ergo multo magis actio revera mala.
+            <lb ed="#P" n="15"/>Patet consequentia, quia respectu utriusque
+            <lb ed="#P" n="16"/>proximi est circumstantia eodem modo 
+            vo<lb break="no" ed="#P" n="17"/>luntaria, et quod in actione suppopatur alia
+            <lb ed="#P" n="18"/>malitia, est impertinens, quia non propterea
+            <lb ed="#P" n="19"/>actus fit incapax novae malitiae.
+          </p>
+          <p xml:id="szthvi-b78753-d1e1019">
+            <lb ed="#P" n="20"/>7. Evasio adversariorum. — Improbatur
+            <lb ed="#P" n="21"/>primo. — Improbatur secundo. — Dices 
+            mali<lb break="no" ed="#P" n="22"/>tiam illam quam contrahit actus specie 
+            ma<lb break="no" ed="#P" n="23"/>lus ex ruina alterius, non esse specialissimam
+            <lb ed="#P" n="24"/>illam malitiam scandali contrariam 
+            charita<lb break="no" ed="#P" n="25"/>ti, sed pertinere ad aliud genus malitiae, ad
+            <lb ed="#P" n="26"/>quod proximus inducitur. Sed imprimis hoc
+            <lb ed="#P" n="27"/>nihil refert ad utendum illa distinctione, quia
+            <lb ed="#P" n="28"/>sicut actus in apparentia tantum malus 
+            con<lb break="no" ed="#P" n="29"/>trahit ex ruina proximi, cujus est causa, 
+            il<lb break="no" ed="#P" n="30"/>lam malitiam, ita actus de se malus 
+            contra<lb break="no" ed="#P" n="31"/>he* augmentum mahtiae similis; nam si 
+            cir<lb break="no" ed="#P" n="32"/>cumstantia illa potest actum de indifferenti
+            <lb ed="#P" n="33"/>facere malum, a fortiori poterit de eodem 
+            ma<lb break="no" ed="#P" n="34"/>lo facere pejorem in eodem genere malitiae.
+            <lb ed="#P" n="35"/>Deinde falso negatur in hoc genere istorum
+            <lb ed="#P" n="36"/>actuum esse propriam speciticam malitiam
+            <lb ed="#P" n="37"/>contrariam charitati ; nam ille, qui sic 
+            ope<lb break="no" ed="#P" n="38"/>ratur , est causa moralis ruinae proximi. Et
+            <lb ed="#P" n="39"/>illa est circumstantia voluntaria ; ergo. Neque
+            <lb ed="#P" n="40"/>intelligi potest id quod Cajetanus ait, aliquid
+            <lb ed="#P" n="41"/>posse esse causaum scandali, et non esse 
+            scan<lb break="no" ed="#P" n="42"/>dalosum ; nam haec duo convertuntur in 
+            mo<lb break="no" ed="#P" n="43"/>ralibus, ut patet in caeteris vitiis.
+          </p>
+          <p xml:id="szthvi-b78753-d1e1074">
+            <lb ed="#P" n="44"/>S. Arguitur contra conclusionem primo.—
+            <lb ed="#P" n="45"/>Confirmatur primo. — Confirmatur secundo.
+            <lb ed="#P" n="46"/>— Sed contra conclusionem oppones, nam
+            <lb ed="#P" n="47"/>sequitur eum, qui exemplo suo inducit alium
+            <lb ed="#P" n="48"/>ad furandum, peccare contra justitiam 
+            res<lb break="no" ed="#P" n="49"/>pectu illius tertiae personae, a qua ille alius 
+            in<lb break="no" ed="#P" n="50"/>ductus furatur. Consequens est durissimum,
+            <lb ed="#P" n="51"/>imo et falsum ; ergo, etc. Sequela patet, quia
+            <lb ed="#P" n="52"/>ille est causa morahs damni alterius proximi
+            <lb ed="#P" n="53"/>et furti; ergo est fur Falsitas consequentis
+            <lb ed="#P" n="54"/>patet, nam tenceretur ille restituere quicquid
+            <lb ed="#P" n="55"/>alius suo exemplo motus furatus est. Confir-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>matur : nam sequitur eum qui petit mutuum
+            <lb ed="#P" n="57"/>sub usuris ab usurario, peccare contra 
+            justi<lb break="no" ed="#P" n="58"/>tiam, quia est causa actus injusti. 
+            Conse<lb break="no" ed="#P" n="59"/>quens est falsum; nam injustitia est ad 
+            alte<lb break="no" ed="#P" n="60"/>rum ; hic autem , si qua est injustitia, est
+            <lb ed="#P" n="61"/>contra seipsum petentem mutuum. Secundo
+            <lb ed="#P" n="62"/>sequitur eum qui praebet scandalum per 
+            ac<lb break="no" ed="#P" n="63"/>tionem non malam, sed habentem speciem
+            <lb ed="#P" n="64"/>mali, contrahere duas ma tias: unam 
+            scan<lb break="no" ed="#P" n="65"/>dali contra charitatem ; aliam illius speciei
+            <lb ed="#P" n="66"/>peccati, ad quam proximus inducitur. 
+            Conse<lb break="no" ed="#P" n="67"/>quens est contra divum Thomam hic, et 
+            su<lb break="no" ed="#P" n="68"/>mitur ex Paulo, primo ad Corinth. 8 et 12,
+            <lb ed="#P" n="69"/>ubi manducantem scandalose sacrificata 
+            ido<lb break="no" ed="#P" n="70"/>lis, non reprehendit ut idololatram , sed ut
+            <lb ed="#P" n="71"/>scandalosum. Sequela autem patet, quia ille
+            <lb ed="#P" n="72"/>est causa malis malitiae ; ergo incurret illam.
+          </p>
+          <p xml:id="szthvi-b78753-d1e1143">
+            <lb ed="#P" n="73"/>9. Primus modus respondendi ad id quod
+            <lb ed="#P" n="74"/>heec argumenta postulant. — Haec argumenta
+            <lb ed="#P" n="75"/>non tam impugnant nostram assertionem de
+            <lb ed="#P" n="76"/>malitia scandali, quam inquirunt an semper
+            <lb ed="#P" n="77"/>conjungatur illi alia illius speciei, in qua
+            <lb ed="#P" n="78"/>proximus peccat. Dupliciter ergo responderi
+            <lb ed="#P" n="79"/>potest : primo negative, et consequenter 
+            ne<lb break="no" ed="#P" n="80"/>gando omnes sequelas. Et advertendum ex 1.
+            <lb ed="#P" n="81"/>2, q. 6, tunc aliquem dici causam moralem
+            <lb ed="#P" n="82"/>alicujus peccati, quando potest teneturque 
+            il<lb break="no" ed="#P" n="83"/>lud vitare, et non facit '. Unde eo modo erit
+            <lb ed="#P" n="84"/>causa, quo tenetur; intelligi autem potest me
+            <lb ed="#P" n="85"/>teneri ad vitandum opus, ne proximus ad 
+            pec<lb break="no" ed="#P" n="86"/>candum inducatur, ex obligatione charitatis,
+            <lb ed="#P" n="87"/>non justitiae, vel alterius similis virtutis ; quia
+            <lb ed="#P" n="88"/>charitas est universalior et excellentior 
+            vir<lb break="no" ed="#P" n="89"/>tus, unde magis obligat ev in pluribus 
+            casi<lb break="no" ed="#P" n="90"/>bus ; et ideo ille in eo casu censetur esse
+            <lb ed="#P" n="91"/>causa moralis ruinae proximi, ut est contra
+            <lb ed="#P" n="92"/>charitatem, non vero ut est contra alias 
+            vir<lb break="no" ed="#P" n="93"/>tutes ; neque est simile de illo qui per 
+            con<lb break="no" ed="#P" n="94"/>silium directe inducit, nam hoc aperte est
+            <lb ed="#P" n="95"/>contra obligationem cujusvis virtutis: habe
+            <lb ed="#P" n="96"/>enim adjunctam voluntatem contrariam 
+            di<lb break="no" ed="#P" n="97"/>recte illi virtuti.
+          </p>
+          <p xml:id="szthvi-b78753-d1e1200">
+            <lb ed="#P" n="98"/>10. Secundus modus respondendi. — Ad
+            <lb ed="#P" n="99"/>argumentum in num. S responsio in forma.
+            <lb ed="#P" n="100"/>— Ad primam confirmationem et secundam.
+            <lb ed="#P" n="101"/>— Secundo modo possumus respondere 
+            afflir<lb break="no" ed="#P" n="102"/>mative, ct admittere omnes sequelas, quia
+            <lb ed="#P" n="103"/>non facile intelligitur aliquem esse causam
+            <lb ed="#P" n="104"/>moralem aliqua ratione actus, verbi gratia,
+            <lb ed="#P" n="105"/>intemperantiae in proximo, et non contrahere
+            <lb ed="#P" n="106"/>inde malitiam intemperantiae. Et tunc ad 
+            pri<lb break="no" ed="#P" n="107"/>mum , concessa prima sequela, negatur, 
+            mo<lb break="no" ed="#P" n="108"/>raliter loquendo, teneri illum ad restitutio-
+            <pb ed="#P" n="725"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>nem. Primo, quia non potest moraliter 
+            con<lb break="no" ed="#P" n="2"/>stare, alterum in eo exemplo fuisse efficaciter
+            <lb ed="#P" n="3"/>motum ad furandum. Secundo, quia non 
+            qui<lb break="no" ed="#P" n="4"/>libet modus contrahendi malitiam injustitiae
+            <lb ed="#P" n="5"/>inducit obligationem restitutionis, sed oportet
+            <lb ed="#P" n="6"/>actum illum per se habere malitiam ex 
+            trans<lb break="no" ed="#P" n="7"/>gressione justitiae, ut jam exponam. Et idem
+            <lb ed="#P" n="8"/>dico ad primam confirmationem. Ad 
+            secun<lb break="no" ed="#P" n="9"/>dam, concedo ibi esse duas malitias. Est 
+            ta<lb break="no" ed="#P" n="10"/>men advertendum dupliciter contra aliquam
+            <lb ed="#P" n="11"/>virtutem peccari. Uno modo, per se primo,
+            <lb ed="#P" n="12"/>quia directe agitur contra objectum ejus, vel
+            <lb ed="#P" n="13"/>circumstantias illi ex se debitas, et hoc modo
+            <lb ed="#P" n="14"/>actio solum mala in apparentia nullam 
+            vir<lb break="no" ed="#P" n="15"/>tutem offendit. Alio modo peccari potest 
+            tan<lb break="no" ed="#P" n="16"/>tum ex consequenti connexione virtutum;
+            <lb ed="#P" n="17"/>nam, ut dictum est 1. 2, quia actus virtutum
+            <lb ed="#P" n="18"/>sunt undique boni, quando hic et nunc actus
+            <lb ed="#P" n="19"/>alicujus virtutis potest esse contrarius alteri
+            <lb ed="#P" n="20"/>virtuti (quamvis in suo objecto, vel 
+            circcums<lb break="no" ed="#P" n="21"/>tantiis quast intrinsecis non habeat defectum),
+            <lb ed="#P" n="22"/>non potest prudenter fieri, atque adeo neque
+            <lb ed="#P" n="23"/>est actus virtutis simpliciter, et ideo participat
+            <lb ed="#P" n="24"/>malitiam contrariam uirique virtuti, sed 
+            al<lb break="no" ed="#P" n="25"/>teram per se, alteram quasi per accidens, et
+            <lb ed="#P" n="26"/>consequenter. Sic etiam propria malitia 
+            scan<lb break="no" ed="#P" n="27"/>dali fere semper fundatur in alia malitia; 
+            ta<lb break="no" ed="#P" n="28"/>men ex consequenti, et per accidens, semper
+            <lb ed="#P" n="29"/>habet aliquo modo illam conjunctam ex 
+            de<lb break="no" ed="#P" n="30"/>fectu circumstantiae debitae, saltem propter
+            <lb ed="#P" n="31"/>aliam virtutem, propter quam non laedendam
+            <lb ed="#P" n="32"/>prudenter cessandum esset ab opere hic et
+            <lb ed="#P" n="33"/>nunc habente speciem mali, quamvis ex se
+            <lb ed="#P" n="34"/>esset alias honestum.
+          </p>
+        </div>
+        <div xml:id="szthvi-b78753-Dd1e1305">
+          <head xml:id="szthvi-b78753-Hd1e1307">Sectio 3</head>
+          <head xml:id="szthvi-b78753-Hd1e1309" type="question-title">Quae aliae conditiones requirantur ad peccandum indirecte peccato scandali</head>
+          <p xml:id="szthvi-b78753-d1e1312">
+            <lb ed="#P" n="35"/>SECTIO III.
+            <lb ed="#P" n="36"/>Quae aliae conditiones requirantur ad 
+            peccan<lb break="no" ed="#P" n="37"/>dum indirecte peccato scandali.
+          </p>
+          <p xml:id="szthvi-b78753-d1e1321">
+            <lb ed="#P" n="38"/>1. Prima conclusio bipartita. — De priori
+            <lb ed="#P" n="39"/>modo scandali posito sectione praecedenti ,
+            <lb ed="#P" n="40"/>num. 1, quod, scilicet, directissima intentione
+            <lb ed="#P" n="41"/>committitur , nihil est quod dicamus ; per
+            <lb ed="#P" n="42"/>se enim patet; nam semper ille modus est
+            <lb ed="#P" n="43"/>malus, quia est intrinsece contra praeceptum
+            <lb ed="#P" n="44"/>naturale negativum, et fere idem de secundo
+            <lb ed="#P" n="45"/>modo censendun:. Tamen quia in illo est 
+            ali<lb break="no" ed="#P" n="46"/>quid etiam indirecti, ut explicetur exactius,
+            <lb ed="#P" n="47"/>dico primo : petere a proximo, vel consulere
+            <lb ed="#P" n="48"/>opus quod nulla ratione potest ipse sine 
+            pec<lb break="no" ed="#P" n="49"/>cato praestare , est intrinsece malum malitia
+            <lb ed="#P" n="50"/>scandali ; petere autem quod licite quidem
+            <lb ed="#P" n="51"/>fieri potest, moraliter tamen scio non sine
+            <lb ed="#P" n="52"/>peccato fore praestandum, interdum licet, in-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>terdum non licet. Prima pars constat, quia
+            <lb ed="#P" n="54"/>illud, moraliter loquendo, est directe 
+            indu<lb break="no" ed="#P" n="55"/>cere ad malum ; neque enim fieri potest haec
+            <lb ed="#P" n="56"/>inductio movendo ad malitiam ipsam, sed 
+            so<lb break="no" ed="#P" n="57"/>lum movendo ad actum, a quo non separatur
+            <lb ed="#P" n="58"/>malitia. Secunda etiam pars est certa et 
+            com<lb break="no" ed="#P" n="59"/>munis, ex Augustino, epist. 154, et D. 
+            Tho<lb break="no" ed="#P" n="60"/>ma, quaestion. 78, artic. 4; exemplisque 
+            pa<lb break="no" ed="#P" n="61"/>tet ; nam licet interdum juramentum petere
+            <lb ed="#P" n="62"/>ab idololatra, quem scio per idola juraturum;
+            <lb ed="#P" n="63"/>similiter licet petere mutuum ab eo quem scio
+            <lb ed="#P" n="64"/>petiturum usuras. Ratio est, quia ego utor
+            <lb ed="#P" n="65"/>jure meo petendo quod justum est , quo non
+            <lb ed="#P" n="66"/>semper teneor me privare ; unde malitia tuuc
+            <lb ed="#P" n="67"/>permissa est a me, non causata.
+          </p>
+          <p xml:id="szthvi-b78753-d1e1391">
+            <lb ed="#P" n="68"/>2. Quoad paratum ad peccandum legatur
+            <lb ed="#P" n="69"/>auctor, lib. 3 de Juram. , c. 13, et disput. 18,
+            <lb ed="#P" n="70"/>de Sacrament. , sect. 1. — Instantia. — 
+            Di<lb break="no" ed="#P" n="71"/>luitur. — Heplica non obstat , de qua idem
+            <lb ed="#P" n="72"/>auctor, de Pan., disp. 92, sect. 4, n. 18, qu
+            <lb ed="#P" n="73"/>huic loco non repugnat, cum ibi loguatur de
+            <lb ed="#P" n="74"/>actualiter parato, ubi nulla intercedit 
+            induc<lb break="no" ed="#P" n="75"/>tio. — Sed circa hoc sunt aliqua observanda,
+            <lb ed="#P" n="76"/>ut vitetur malitia scandali. Primum est, an
+            <lb ed="#P" n="77"/>ille sit paratus ad peccandum, necne? Si 
+            para<lb break="no" ed="#P" n="78"/>tus est, a multis communiter sine distinctione
+            <lb ed="#P" n="79"/>dicitur licere ab illo petere ; sed ego credo
+            <lb ed="#P" n="80"/>esse addendum : Si sit aliqua rationabilis
+            <lb ed="#P" n="81"/>causa petendi, alioquin sine causa praeberem
+            <lb ed="#P" n="82"/>proximo occasionem peccandi ; nunquam enim
+            <lb ed="#P" n="83"/>aliquis est ita paratus, ut hic et nunc sit in 
+            ac<lb break="no" ed="#P" n="84"/>tuali voluntate peccandi, sed solum in 
+            habi<lb break="no" ed="#P" n="85"/>tuali, quae praecise sumpta non est peccatum.
+            <lb ed="#P" n="86"/>Quocirca si ego non peterem et excitarem
+            <lb ed="#P" n="87"/>sic dispositum, hic et nunc revera non 
+            com<lb break="no" ed="#P" n="88"/>mitteret hoc peccatum ; ergo contra 
+            charita<lb break="no" ed="#P" n="89"/>tem est sine rationabili causa id facere. 
+            Obli<lb break="no" ed="#P" n="90"/>gat enim misericordia ad vitanda singula 
+            pec<lb break="no" ed="#P" n="91"/>cata proximi, etiam paratissimi ; imo magis
+            <lb ed="#P" n="92"/>hujus, quia est in majori miseria, quod plane
+            <lb ed="#P" n="93"/>sentit D. Thomas, illa quaest. 78, art. 4, illis
+            <lb ed="#P" n="94"/>verbis : Propter aliquod Lonum , quale est
+            <lb ed="#P" n="95"/>subjectio proprie necessitatis , vel alienee ; et
+            <lb ed="#P" n="96"/>idem significat ad secundum. Dices: ille est
+            <lb ed="#P" n="97"/>in voluntate promptus, et quamvis ego non
+            <lb ed="#P" n="98"/>petam, moraliter alius petet; vel certe ille
+            <lb ed="#P" n="99"/>habet desiderium ut ab illo petatur, ut patet
+            <lb ed="#P" n="100"/>in usurario avaro. hespondetur haec esse per
+            <lb ed="#P" n="101"/>accidens et incerta, et fortasse interdum 
+            te<lb break="no" ed="#P" n="102"/>mere judicari; per se autem charitas 
+            postu<lb break="no" ed="#P" n="103"/>lat ut ego vitem omne peccatum proximi,
+            <lb ed="#P" n="104"/>quando facile possum. Sed contra: ergo qui
+            <lb ed="#P" n="105"/>invitat mulierem expositam ad peccandum,
+            <lb ed="#P" n="106"/>peccat speciali pevcato scandali. Respondetur
+            <lb ed="#P" n="107"/>concedendo illationem ; maxime quia tunc
+            <pb ed="#P" n="726"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>procedit prima pars conclusionis, nam petit
+            <lb ed="#P" n="2"/>rem, quam illa non potest praestare sine 
+            pec<lb break="no" ed="#P" n="3"/>cato ; quod autem sponte et facile sit 
+            consen<lb break="no" ed="#P" n="4"/>sura, non excusat peccatum.
+          </p>
+          <p xml:id="szthvi-b78753-d1e1494">
+            <lb ed="#P" n="5"/>J. Quoad non paratum ad peccandum. —
+            <lb ed="#P" n="6"/>Quod si non est paratus ad peccandum ille,
+            <lb ed="#P" n="7"/>a quo petimus, tunc distinguitur ab omnibus;
+            <lb ed="#P" n="8"/>nam vel ego habeo speciale jus justitiae ad 
+            il<lb break="no" ed="#P" n="9"/>lud opus, ut fidelis habet jus petendi 
+            Sacra<lb break="no" ed="#P" n="10"/>mentum a parocho; vel nullum habet tale
+            <lb ed="#P" n="11"/>jus: si primo modo, communiter etiam dici
+            <lb ed="#P" n="12"/>solet sine distinctione, licitum esse petere, quia
+            <lb ed="#P" n="13"/>cullibet licet uti jure suo. Sed eodem modo,
+            <lb ed="#P" n="14"/>quo praeteritum dictum, limitandum censeo,
+            <lb ed="#P" n="15"/>nimirum considerandum esse ut bona aliqua
+            <lb ed="#P" n="16"/>causa intercedat, ut, scilicet, spiritualis 
+            utili<lb break="no" ed="#P" n="17"/>tas vel temporalis alicujus momenti, ita ut
+            <lb ed="#P" n="18"/>secundum ordinem charitatis non tenear ego
+            <lb ed="#P" n="19"/>privare me meo jure et utilitate, ne 
+            permit<lb break="no" ed="#P" n="20"/>tam proximum cadere. Nam si alias id quod
+            <lb ed="#P" n="21"/>peto non est nunc mihi ita necessarium, vel
+            <lb ed="#P" n="22"/>vaide utile, aut alia via possim facile illud
+            <lb ed="#P" n="23"/>obtinere, vel excusare, certe ratio et ordo
+            <lb ed="#P" n="24"/>charitatis postulat ut non petam, etiamsi illa
+            <lb ed="#P" n="25"/>duo conjungantur, me habere jus et alterum
+            <lb ed="#P" n="26"/>esse paratum. Quando vero neque habeo 
+            spe<lb break="no" ed="#P" n="27"/>ciale jus, neque alter est paratus, dici etiam
+            <lb ed="#P" n="28"/>solet simpliciter non licere petere, quia esset
+            <lb ed="#P" n="29"/>moraliter inducere ad malum, praebendo 
+            oc<lb break="no" ed="#P" n="30"/>casionem peccandi illi qui revera nullam 
+            ha<lb break="no" ed="#P" n="31"/>bet voluntatem. Sed imprimis raro accidit ut
+            <lb ed="#P" n="32"/>aliquis non sit paratus ad peccandum, et 
+            ta<lb break="no" ed="#P" n="33"/>men quod ego sim moraliter certus, illum non
+            <lb ed="#P" n="34"/>facturum, sine peccato, id quod sine peccato
+            <lb ed="#P" n="35"/>facere posset, siab alio petatur. Deinde 
+            quam<lb break="no" ed="#P" n="36"/>vis hoc probabiliter teneatur, non credo 
+            intrin<lb break="no" ed="#P" n="37"/>sece malum esse; nam peto rem licitam, et,
+            <lb ed="#P" n="38"/>ut suppono, mihi necessariam; vel eam peto
+            <lb ed="#P" n="39"/>ex aliqua valde rationahili causa; ergo non
+            <lb ed="#P" n="40"/>est cur moraliter censear inducere alterum ad
+            <lb ed="#P" n="41"/>malum.
+          </p>
+          <p xml:id="szthvi-b78753-d1e1577">
+            <lb ed="#P" n="42"/>4. Auctoris judicium de petentibus aliquid a
+            <lb ed="#P" n="43"/>parato, vel non parato ad peccandum. —
+            Dilui<lb break="no" ed="#P" n="44"/>tur obDjectio de suadente ad minus, paratum ad
+            <lb ed="#P" n="45"/>mapus maetum — Quapropter in his omnibus
+            <lb ed="#P" n="46"/>praecipue attendenda est causa petendi, et 
+            re<lb break="no" ed="#P" n="47"/>gulandum ex ordine charitatis an debeam 
+            il<lb break="no" ed="#P" n="48"/>lam praeferre periculo proximi, necne. Et in
+            <lb ed="#P" n="49"/>his dictis casibus solam hanc differentiam
+            <lb ed="#P" n="50"/>invenio, quia ab lroc parato ex leviori et 
+            fa<lb break="no" ed="#P" n="51"/>ciliori causa peti potest, propter ejus 
+            disposi<lb break="no" ed="#P" n="52"/>tionem, et quia fere nihil ea ratione pcccat ;
+            <lb ed="#P" n="53"/>a non parato vero gravior causa requiritur
+            <lb ed="#P" n="54"/>ad petendum; et similiter in habente jus 
+            mi<lb break="no" ed="#P" n="55"/>nor requirenda est causa, quam in non haben-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>te, propter specialem titulum juris. Sed 
+            obji<lb break="no" ed="#P" n="57"/>cies: siquis sit in voluntate occidendi 
+            inimi<lb break="no" ed="#P" n="58"/>cum, licet inducere eum ad destruendum 
+            do<lb break="no" ed="#P" n="59"/>mum inimici, verbi gratia, dummodo non
+            <lb ed="#P" n="60"/>occidat. Respondetur hoc non esse inducere ad
+            <lb ed="#P" n="61"/>malum, sed revocare a majori malo, 
+            permit<lb break="no" ed="#P" n="62"/>tendo minus malum ; quia vitari non potest
+            <lb ed="#P" n="63"/>utrumque ; unde sensus illius inductionis est
+            <lb ed="#P" n="64"/>conditionatus : Quandoquidem vis malum 
+            fa<lb break="no" ed="#P" n="65"/>cere, potius fac hoc quam illud.
+          </p>
+          <p xml:id="szthvi-b78753-d1e1634">
+            <lb ed="#P" n="66"/>5. Secunda conclusio. — Objectio ev 4 Reg.
+            <lb ed="#P" n="67"/>5. —Solvitur. — Dico secundo: opus malum,
+            <lb ed="#P" n="68"/>vel habens mali speciem, quod de se 
+            inducti<lb break="no" ed="#P" n="69"/>vum est ad peccandum, vitandum est ; alias 
+            in<lb break="no" ed="#P" n="70"/>curritur malitia scandali, nisi ex 
+            circumstan<lb break="no" ed="#P" n="71"/>tiis hic et nunc moraliter constet, illud 
+            nul<lb break="no" ed="#P" n="72"/>lum damnum allaturum proximo. Haec 
+            ulti<lb break="no" ed="#P" n="73"/>ma pars, sive exceptio per se patet, quia opus,
+            <lb ed="#P" n="74"/>alio ex capite malum, non contrahit malitiam
+            <lb ed="#P" n="75"/>scandali quia potest inducere proximum, sed
+            <lb ed="#P" n="76"/>quia moraliter inducit. Quare si hic et nunc
+            <lb ed="#P" n="77"/>praeveniatur et vitetur iste effectus, ita ut
+            <lb ed="#P" n="78"/>moraliter non timeatur, non incurritur illa
+            <lb ed="#P" n="79"/>malitia. Conclusio vero est certa. Nam illud
+            <lb ed="#P" n="80"/>est vere scandalum activum, ut patet ex 
+            defi<lb break="no" ed="#P" n="81"/>nitione ejus; moraliter enim inducit hominem
+            <lb ed="#P" n="82"/>ad malum ; quod vero non oporteat esse vere
+            <lb ed="#P" n="83"/>malum, sed satis sit apparere, patet ex illo 1
+            <lb ed="#P" n="84"/>ad Corinth. 3: Ab omni specie mali abstinete
+            <lb ed="#P" n="85"/>vos, propter quod dicitur 1 Corint. 12: Omnia
+            <lb ed="#P" n="86"/>mihi licent, sed non omnia eapediunt. Unde
+            <lb ed="#P" n="87"/>est illud : Si frater scandalizatur, non 
+            man<lb break="no" ed="#P" n="88"/>ducabo carnes in eternum. Watio est, quia 
+            te<lb break="no" ed="#P" n="89"/>nemur recte operari non solum coram Deo,
+            <lb ed="#P" n="90"/>sed etiam coram hominibus. Secundo, quia
+            <lb ed="#P" n="91"/>cum opus habet speciem mali, inducitur 
+            pro<lb break="no" ed="#P" n="92"/>ximus ad malum opus, non solum sua malitia,
+            <lb ed="#P" n="93"/>sed etiam ex vi mei operis, et ex quadam 
+            fra<lb break="no" ed="#P" n="94"/>gilitate. Sed objicies factum Ehsaei, 4 Reg. 5,
+            <lb ed="#P" n="95"/>qui permisit ut Naaman flecteret genua 
+            co<lb break="no" ed="#P" n="96"/>ram idolo, qui actus saltem habebat mali 
+            spe<lb break="no" ed="#P" n="97"/>ciem, et non sine scandalo. Respondetur ex
+            <lb ed="#P" n="98"/>circumstantiis facile potuisse vitari ibi omne
+            <lb ed="#P" n="99"/>scandalum. Primum, quia Naaman se publice
+            <lb ed="#P" n="100"/>profitebatur cultorem unius veri Dei, cui, ut
+            <lb ed="#P" n="101"/>creditur, templum exaedificavit, qua de causa
+            <lb ed="#P" n="102"/>terram adduxit ex Hierusalem. Deinde ex
+            <lb ed="#P" n="103"/>ipso opere constabat ipsum non idolo, sed regi
+            <lb ed="#P" n="104"/>praestare debitum obsequium, de quo diximus
+            <lb ed="#P" n="105"/>in materia de fide ( Disp. 14, sect. 4. — Vid.
+            <lb ed="#P" n="106"/>etiam lib. 6, contra Jacob., c.9).
+          </p>
+          <p xml:id="szthvi-b78753-d1e1725">
+            <lb ed="#P" n="107"/>6. Consectarium ex conclusione. — Contra
+            <lb ed="#P" n="108"/>iliud militare videtur factum Judith. — 
+            Res<lb break="no" ed="#P" n="109"/>ponsio D. Thomae non placet. — Auctoris 
+            res<lb break="no" ed="#P" n="110"/>ponsio multiplex. — Et ex hac conclusione a
+            <pb ed="#P" n="727"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>fortiori infertur non licere opus aliquod etiam
+            <lb ed="#P" n="2"/>omnino indifferens facere animo inducendi
+            <lb ed="#P" n="3"/>alterum ad malum, quia hoc non solum esset
+            <lb ed="#P" n="4"/>scandalum indirectum, sed participaret etiam
+            <lb ed="#P" n="5"/>malitiam scandali directi. In quo tamen 
+            vide<lb break="no" ed="#P" n="6"/>tur difficile factum Judith, cap. 8. Nam se
+            <lb ed="#P" n="7"/>ornavit animo inducendi Holofernem ad 
+            h<lb break="no" ed="#P" n="8"/>bidinem. Unde cap. 9, orat : Capiatur laqueo
+            <lb ed="#P" n="9"/>oculorum suorum, etc. Respondet divus 
+            Tho<lb break="no" ed="#P" n="10"/>mas 2. 2, quaest. 110, articulo 3, ad tertium,
+            <lb ed="#P" n="11"/>in illo facto non excusari Judith ab alio
+            <lb ed="#P" n="12"/>genere peccati, nempe mendacio; unde 
+            di<lb break="no" ed="#P" n="13"/>cit laudatam fuisse non propter malitiam,
+            <lb ed="#P" n="14"/>sed propter affectum quem habuit ad 
+            salu<lb break="no" ed="#P" n="15"/>tem populi; similiter ergo posset quis 
+            di<lb break="no" ed="#P" n="16"/>cere de malitia scandali, quod quidem illa
+            <lb ed="#P" n="17"/>praebuerit Holoferni, laudatam vero fuisse ob
+            <lb ed="#P" n="18"/>dictum affectum solummodo. Sed mihi hoc
+            <lb ed="#P" n="19"/>non placet, propter ea verba cap. 10: Cui
+            <lb ed="#P" n="20"/>etiam Dominus contulit splendorem , quia 
+            om<lb break="no" ed="#P" n="21"/>nis ista compositio non ex libidine, sed em 
+            cir<lb break="no" ed="#P" n="22"/>tute pendebat, et plane toium illud opus in
+            <lb ed="#P" n="23"/>tota historia Deo tribuitur, et instinctui 
+            Spi<lb break="no" ed="#P" n="24"/>ritus Sancti. Dico igitur non illam peccasse
+            <lb ed="#P" n="25"/>peccato scandali, nam imprimis bona 
+            inten<lb break="no" ed="#P" n="26"/>tione procedebat, opus etiam non erat per se
+            <lb ed="#P" n="27"/>malum. Deinde non intendebat alium excitare
+            <lb ed="#P" n="28"/>ad inhonestam libidinem, sed simpliciter ad
+            <lb ed="#P" n="29"/>amorem et familiaritatem, quam honeste 
+            ha<lb break="no" ed="#P" n="30"/>bere poterant, saltem inducendo etiam ad
+            <lb ed="#P" n="31"/>matrimonium, ut sentit Lyran., in cap. 9 
+            Ju<lb break="no" ed="#P" n="32"/>dith, quo mediante posset populum suum
+            <lb ed="#P" n="33"/>liberare, sicut fecit Esther. Addo etiam cum
+            <lb ed="#P" n="34"/>Abulens., Jud. 16, quaest. 41, a Spiritu Sancto
+            <lb ed="#P" n="35"/>fuisse edoctam, ut id faceret eo modo ct 
+            in<lb break="no" ed="#P" n="36"/>tentione, qua Ecite posset fieri. Certum est
+            <lb ed="#P" n="37"/>autem potuisse fieri aliquo modo licito, quia
+            <lb ed="#P" n="38"/>non erat malum per se, et scandalum non
+            <lb ed="#P" n="39"/>erat directum, sed poterat esse tantum 
+            indi<lb break="no" ed="#P" n="40"/>rectum, non tamen causatum, sed permissum,
+            <lb ed="#P" n="41"/>quia propter urgentem majorem necessitatem
+            <lb ed="#P" n="42"/>excusabatur ab obligatione vitandi illud. Vide
+            <lb ed="#P" n="43"/>etiam Carthusianum in eum locum.
+          </p>
+          <p xml:id="szthvi-b78753-d1e1834">
+            <lb ed="#P" n="44"/>7. Difficultas proponitur. — Resolutionis
+            <lb ed="#P" n="45"/>ratio. — Sed superest difficultas, an opus
+            <lb ed="#P" n="46"/>quod neque in re, neque in specie malum est,
+            <lb ed="#P" n="47"/>si rationabihter et prudenter pensetur, debeat
+            <lb ed="#P" n="48"/>interdum vitari propter scandalum, atque
+            <lb ed="#P" n="49"/>adeo an tale opus possit esse scandalum 
+            pusil<lb break="no" ed="#P" n="50"/>lorum, an potius dicendum sit pharisaeorum:
+            <lb ed="#P" n="51"/>videtur enim hoc posterius dicendum, quod
+            <lb ed="#P" n="52"/>non obscure colligitur ex illo Matth. 15: 
+            Sa<lb break="no" ed="#P" n="53"/>nite illos, ceci sunt. Propterea etiam Christus
+            <lb ed="#P" n="54"/>dicitur lapis offensionis , et petra scandali,
+            <lb ed="#P" n="55"/>Isa. 8; et Luc. 2, dicitur : Positus in ruinam
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>multorum, ubi particula, i», non dicit finem,
+            <lb ed="#P" n="57"/>sed futurum eventum. Ratio denique est,
+            <lb ed="#P" n="58"/>quia si opus est undique bonum re et specie,
+            <lb ed="#P" n="59"/>nullo modo videtur dari scandalum, sed ab
+            <lb ed="#P" n="60"/>alio accipi.
+          </p>
+          <p xml:id="szthvi-b78753-d1e1876">
+            <lb ed="#P" n="61"/>8. Tertia conclusio communis cum D. 
+            Tho<lb break="no" ed="#P" n="62"/>mae, art. 1. — Dico tamen tertio: quamvis
+            <lb ed="#P" n="63"/>hoc opus, de quo proxime, per se non habeat
+            <lb ed="#P" n="64"/>rationem scandali, tamen per accidens potest
+            <lb ed="#P" n="65"/>interdum habere malitiam scandali activi;
+            <lb ed="#P" n="66"/>unde nonnunquam vitandum est, ut vitetur
+            <lb ed="#P" n="67"/>passivum, seu ruina proximi. Conclusio est
+            <lb ed="#P" n="68"/>communis. Probatur et explicatur, quia iu
+            <lb ed="#P" n="69"/>genere ordo charitatis potest interdum 
+            obli<lb break="no" ed="#P" n="70"/>gare ad omittendum aliquod opus propter
+            <lb ed="#P" n="71"/>bonum proximi; nam si cura de bono 
+            proxi<lb break="no" ed="#P" n="72"/>mi potest obligare ad bonum faciendum, cur
+            <lb ed="#P" n="73"/>non etiam aliquando ad intermittendum ? 
+            prae<lb break="no" ed="#P" n="74"/>sertim quia nullo bono spirituali propterea
+            <lb ed="#P" n="75"/>privatur homo; tum quia ista omissio 
+            praeci<lb break="no" ed="#P" n="76"/>pue est necessaria in actu exteriori; in 
+            inte<lb break="no" ed="#P" n="77"/>riori autem desiderio potest retinere fructum
+            <lb ed="#P" n="78"/>et meritum ; tum etiam quia hoc ipsum quod
+            <lb ed="#P" n="79"/>est privare se merito iilius operis propter 
+            bo<lb break="no" ed="#P" n="80"/>num proximi, erit majus meritum quam 
+            ip<lb break="no" ed="#P" n="81"/>sum opus. Unde in operibus consilii res est
+            <lb ed="#P" n="82"/>clara.
+          </p>
+          <p xml:id="szthvi-b78753-d1e1927">
+            <lb ed="#P" n="83"/>9. Exceptio quorundam ab hac conclusione
+            <lb ed="#P" n="84"/>exponitur. — Ad objecta in n. 1. — De 
+            operi<lb break="no" ed="#P" n="85"/>bus tamen quae sunt sub praecepto, dici solet
+            <lb ed="#P" n="86"/>non esse omittenda propter tale scandalum
+            <lb ed="#P" n="87"/>vitandum, quod tamen intelligo durante 
+            obli<lb break="no" ed="#P" n="88"/>gatione praecepti, nam transgredi praeceptum
+            <lb ed="#P" n="89"/>propter bonum alterius, nullo modo licet, ut
+            <lb ed="#P" n="90"/>supra diximus, et hoc modo loquitur 
+            Inno<lb break="no" ed="#P" n="91"/>centius III, capit. Cum eg injuncto, de Novi
+            <lb ed="#P" n="92"/>operis nuntiatione ; Gregorius, homilia 
+            se<lb break="no" ed="#P" n="93"/>ptima in Ezechielem ; sic etiam intelligitur
+            <lb ed="#P" n="94"/>dictum commune: Utilius scandalum nasci
+            <lb ed="#P" n="95"/>permittitur, quam veritas relinguatur, capit.
+            <lb ed="#P" n="96"/>tertio, de Regulis juris, scilicet, dicendo
+            <lb ed="#P" n="97"/>mendacium ; nam tacendo vel occultando 
+            ve<lb break="no" ed="#P" n="98"/>ritatem, interdum relinqui potest et debet ;
+            <lb ed="#P" n="99"/>eademque ratione accidere potest ut opus, quod
+            <lb ed="#P" n="100"/>alias hic et nunc, si non timeretur scandalum
+            <lb ed="#P" n="101"/>proximi, esset praeceptum, interveniente illo
+            <lb ed="#P" n="102"/>timore moraliter probabili, careat illa 
+            obhga<lb break="no" ed="#P" n="103"/>tione, ut multis casibus ex jure collectis 
+            osten<lb break="no" ed="#P" n="104"/>dit Felin., c. 2 de Praescript., sub initium.
+            <lb ed="#P" n="105"/>Quod in praeceptis positivis facilius potest 
+            ac<lb break="no" ed="#P" n="106"/>cidere, quia non obligant cum tanto rigore,
+            <lb ed="#P" n="107"/>et quia praeceptum de curanda vita spirituali
+            <lb ed="#P" n="108"/>proximi est naturale et divinum: at in 
+            natu<lb break="no" ed="#P" n="109"/>ralibus praeceptis negativis nunquam habet 
+            lo<lb break="no" ed="#P" n="110"/>cum, quia haec semper et pro semper obligant,
+            <pb ed="#P" n="728"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>et opera illis contraria sunt intrinsece mala;
+            <lb ed="#P" n="2"/>in affirmativis vero habere potest locum, ut
+            <lb ed="#P" n="3"/>dixi, quia non obligant pro semper, sed cum
+            <lb ed="#P" n="4"/>debitis circumstantiis. Sed tunc oportet in 
+            in<lb break="no" ed="#P" n="5"/>dividuo prudenter judicare quid magis 
+            prae<lb break="no" ed="#P" n="6"/>ponderet, an ruina proximi vitanda, an opus
+            <lb ed="#P" n="7"/>illud omittendum. Considerandum etiam est
+            <lb ed="#P" n="8"/>quam grave sit illud praeceptum, quanta 
+            ne<lb break="no" ed="#P" n="9"/>cessitas vel utilitas ejus, et omnibus 
+            conaside<lb break="no" ed="#P" n="10"/>ratis ferendum judicium; ita enim diximus
+            <lb ed="#P" n="11"/>in 4. 9. tract. 3, disp. 12, sect. 5, n. 3, cum
+            <lb ed="#P" n="12"/>D. Thoma, q. 96, art. 6, et Covarr., reg. 
+            Pec<lb break="no" ed="#P" n="13"/>catum, 1 p., n. 4, faciendum esse, 
+            quandocum<lb break="no" ed="#P" n="14"/>que res occurrant ad diversa praecepta 
+            spectan<lb break="no" ed="#P" n="15"/>tes, quae temen simul fieri nequeunt, et 
+            colli<lb break="no" ed="#P" n="16"/>gitur cap. Duo mala, dist. 13. Ex quibus 
+            in<lb break="no" ed="#P" n="17"/>telligitur, cum dicitur pharisaeorum 
+            scanda<lb break="no" ed="#P" n="18"/>lum non esse vitandum omittendo spiritualia
+            <lb ed="#P" n="19"/>bona, intelligendum esse vel regulariter, vel
+            <lb ed="#P" n="20"/>certe in re nunquam esse omittendum, tamen
+            <lb ed="#P" n="21"/>necessarium esse interdum omittere bonum
+            <lb ed="#P" n="22"/>opus exterius.
+          </p>
+          <p xml:id="szthvi-b78753-d1e2042">
+            <lb ed="#P" n="23"/>10. Ec doctrina prosgime dota varii casus
+            <lb ed="#P" n="24"/>expediuntur. — Primus casus, de quo auctor,
+            <lb ed="#P" n="25"/>tomo tertio de Sacramentis, disputatione 
+            ul<lb break="no" ed="#P" n="26"/>tima, sect. ultima. — Secundus casus. — 
+            Rec<lb break="no" ed="#P" n="27"/>ius quam Nacarrus et Cajetanus , Sylv. et
+            <lb ed="#P" n="28"/>Anton. in prasenti casu sentiunt. — Tertius
+            <lb ed="#P" n="29"/>casus.— Atque hinc etiam sumuntur regulae
+            <lb ed="#P" n="30"/>ad dissolvendos casus varios. Primus sit, an
+            <lb ed="#P" n="31"/>teneatur mulier omittere sacrum ad vitandum
+            <lb ed="#P" n="32"/>scandalum. Respondetur enim interdum pos.
+            <lb ed="#P" n="33"/>se hoc licere, imo et esse necessarium; raro
+            <lb ed="#P" n="34"/>tamen accidere hanc obligationem : in 
+            par<lb break="no" ed="#P" n="35"/>ticulari vero circumstantiae sunt pensandae.
+            <lb ed="#P" n="36"/>Secundus est, an teneatur mulier non se 
+            or<lb break="no" ed="#P" n="37"/>nare propter vitandum scandalum. Dicendum
+            <lb ed="#P" n="38"/>est enim, si ornatus sit moderatus et decens,
+            <lb ed="#P" n="39"/>per se non teneri, quia de se actus non est
+            <lb ed="#P" n="40"/>malus, neque habet rationem scandali 
+            acti<lb break="no" ed="#P" n="41"/>vi, magis quam ipsa naturalis pulchritudo,
+            <lb ed="#P" n="42"/>et quia esset grave onus obligare ad hoc ; 
+            ta<lb break="no" ed="#P" n="43"/>men si esset ornatus superfluus et maximus,
+            <lb ed="#P" n="44"/>vel si de se esset quasi provocativus ad 
+            ma<lb break="no" ed="#P" n="45"/>Ium, erit obligatio. Navar. tamen, in 
+            Sum<lb break="no" ed="#P" n="46"/>ma, c. 13, n. 23, et Cajetanus 2. 2, q. 169,
+            <lb ed="#P" n="47"/>art. 4, tantum volunt esse sub veniali. Sed ex
+            <lb ed="#P" n="48"/>suo genere ego credo obligare ad mortale
+            <lb ed="#P" n="49"/>cum Sylvestro. verbo Ornatus, et verbo S'
+            can<lb break="no" ed="#P" n="50"/>dalum , et Antonin., 2 p., tit. 7, c. 4, quia
+            <lb ed="#P" n="51"/>est ex suo genere occasio gravis ruinae. Tertius
+            <lb ed="#P" n="52"/>est, an teneatur quis praetermittere 
+            tempo<lb break="no" ed="#P" n="53"/>ralia bona ad vitandum scandalum. 
+            Respon<lb break="no" ed="#P" n="54"/>detur cum D. Thoma, art. 8, Sylvestro, et
+            <lb ed="#P" n="55"/>Cajetano, verbo Scandalum, in his quorum
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>homo est dominus, posse illa praetermittere ;
+            <lb ed="#P" n="57"/>teneri autem solum juxta regulas positas de
+            <lb ed="#P" n="58"/>ordine charitatis; in his autem quorum non
+            <lb ed="#P" n="59"/>est dominus, sed curator, vel dispensator, ut
+            <lb ed="#P" n="60"/>est Episcopus, verbi gratia, in bonis Ecclesise,
+            <lb ed="#P" n="61"/>communiter tenetur quis non omittere suam
+            <lb ed="#P" n="62"/>curam, nec perdere bona temporalia propter
+            <lb ed="#P" n="63"/>scandalum aliorum, praecipue si dumnum 
+            tem<lb break="no" ed="#P" n="64"/>porale sit grave. Interdum tamen licet; unde
+            <lb ed="#P" n="65"/>fit excusari a praecepto Pontificem qui simulat
+            <lb ed="#P" n="66"/>vel connivet, quando princeps saecularis 
+            usur<lb break="no" ed="#P" n="67"/>pat bona temporalia Ecclesiae, si absque 
+            majo<lb break="no" ed="#P" n="68"/>ri scandalo vel damno non potest id impedire.
+            <lb ed="#P" n="69"/>Quartus est, an interdum debeat quis potius
+            <lb ed="#P" n="70"/>fame perire, quam uti cibo aliis scandaloso;
+            <lb ed="#P" n="71"/>dico enim interdum posse hoc licere, quia, ut
+            <lb ed="#P" n="72"/>supra dixi, non est hoc se occidere, sed solum
+            <lb ed="#P" n="73"/>non se cohservare; raro tamen aut nunquam
+            <lb ed="#P" n="74"/>cadit in obligationem, nisi interveniat 
+            neces<lb break="no" ed="#P" n="75"/>sitas honoris fidei, ct confitendi illam, vel 
+            ali<lb break="no" ed="#P" n="76"/>qua necessitas proximi, propter quam ex 
+            re<lb break="no" ed="#P" n="77"/>gulis charitatis sit vita exponenda ultimo 
+            pe<lb break="no" ed="#P" n="78"/>riculo, ut palam sumitur ex 1 Cor. 8, in fine.
+            <lb ed="#P" n="79"/>Vide Victoriam, relectione de temperantia,
+            <lb ed="#P" n="80"/>n. 10; Gerson., in tract. de Temperant.; 
+            Majo<lb break="no" ed="#P" n="81"/>rem, in 4, dist. 38; Richard., q. 4; Adrian.,
+            <lb ed="#P" n="82"/>Quodl. 1, q. 2, qui ita sentiunt; sicque 
+            intelli<lb break="no" ed="#P" n="83"/>gendus est D. Thomas, illo art. 8, ad 4.
+          </p>
+        </div>
+        <div xml:id="szthvi-b78753-Dd1e2180">
+          <head xml:id="szthvi-b78753-Hd1e2182">Sectio 4</head>
+          <head xml:id="szthvi-b78753-Hd1e2184" type="question-title">Quando sit peccatum scandali vendere vel dare alteri rem qua male est usurus</head>
+          <p xml:id="szthvi-b78753-d1e2187">
+            <lb ed="#P" n="84"/>SECTIO IV.
+            <lb ed="#P" n="85"/>Quando sit peccatum scandali vendere vel dare
+            <lb ed="#P" n="86"/>alteri rem qua male est usurus.
+          </p>
+          <p xml:id="szthvi-b78753-d1e2196">
+            <lb ed="#P" n="87"/>1. Prima sententia Antonini et Medine
+            <lb ed="#P" n="88"/>dura. — Secunda sententia Cajetani 
+            subobscu<lb break="no" ed="#P" n="89"/>ra d stinguit. —Prima sententia dicit, si 
+            prae<lb break="no" ed="#P" n="90"/>sciatur malus usus alterius, semper esse 
+            ma<lb break="no" ed="#P" n="91"/>lum, et peccatum scandali. fta Antonin., 2p.,
+            <lb ed="#P" n="92"/>tit. 1, cap. 23; Medina, Cod. de Restitutione,
+            <lb ed="#P" n="93"/>quaest. 30. Sed est dura sententia. Secunda
+            <lb ed="#P" n="94"/>ergo sententia Cajetani 2. 2, quaest. 10, art. 4,
+            <lb ed="#P" n="95"/>distinguit. Nam vel res sunt natura deputatae
+            <lb ed="#P" n="96"/>ad malum usum, et tunc semper est malum,
+            <lb ed="#P" n="97"/>vel sunt indifferentes , ego tamen intelligo 
+            al<lb break="no" ed="#P" n="98"/>terum malitia sua esse usurum, ct tunc dicit
+            <lb ed="#P" n="99"/>non esse scandalum. Sed est obscura 
+            distinc<lb break="no" ed="#P" n="100"/>tio, quia nullae res videntur destinatae ad 
+            ma<lb break="no" ed="#P" n="101"/>lum usum: si enim de naturalibus rebus 
+            lo<lb break="no" ed="#P" n="102"/>quamur, omnis creatura Dei bona est; si vero
+            <lb ed="#P" n="103"/>de arte factis, nullum est etiam, quod non
+            <lb ed="#P" n="104"/>possit accommodari ad bonum usum, vel 
+            sal<lb break="no" ed="#P" n="105"/>tem indifferentem, ut patet in idolo, et pane
+            <lb ed="#P" n="106"/>azymo, quae sunt exempla Cajetani ; nam 
+            ido<lb break="no" ed="#P" n="107"/>lum potest deservire ad ornatum vel memo-
+            <pb ed="#P" n="729"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>riam antiquitatis, vel ad exprimendam artem,
+            <lb ed="#P" n="2"/>ut videmus etiam usu venire; similiter in
+            <lb ed="#P" n="3"/>pane azymo facilius invenitur bonus usus.
+            <lb ed="#P" n="4"/>Praeterea in singulis assertionibus est 
+            difficul<lb break="no" ed="#P" n="5"/>tas; nam si ego scio aliquem emere idolum ad
+            <lb ed="#P" n="6"/>bonum usum, non est malum vendere ; e 
+            con<lb break="no" ed="#P" n="7"/>tra vero si sciam idololatram velle incensum
+            <lb ed="#P" n="8"/>ad idololatriam, poterit esse scandalum 
+            ven<lb break="no" ed="#P" n="9"/>dere, cum tamen illa res sit maxime 
+            indif<lb break="no" ed="#P" n="10"/>ferens.
+          </p>
+          <p xml:id="szthvi-b78753-d1e2270">
+            <lb ed="#P" n="11"/>2. Enucleatur distinctio aliter. — Pro 
+            dis<lb break="no" ed="#P" n="12"/>cernenda vel scandalosa attenditur finis in
+            <lb ed="#P" n="13"/>quem datwur. — Secundo scientia dantis. — Ut
+            <lb ed="#P" n="14"/>ergo res haec intelligatur amplius, explicanda
+            <lb ed="#P" n="15"/>est divisio. Sunt enim res quaedam vel 
+            natu<lb break="no" ed="#P" n="16"/>rales, vel arte factae, quibus homines vel ex
+            <lb ed="#P" n="17"/>consuetudine, vel propter legem 
+            prohiben<lb break="no" ed="#P" n="18"/>tem, raro aut nunquam hoc loco et tempore
+            <lb ed="#P" n="19"/>bene illis utuntur, ut veneno, verbi gratia,
+            <lb ed="#P" n="20"/>quod aliquando est talis generis, ut non 
+            de<lb break="no" ed="#P" n="21"/>serviat nisi ad nocendum. In arte factis 
+            facilio<lb break="no" ed="#P" n="22"/>ra sunt exempla, in quibus primo attendendus
+            <lb ed="#P" n="23"/>est primarius finis propter quem inventa sunt,
+            <lb ed="#P" n="24"/>et retinertur in hac regione et tempore, nam
+            <lb ed="#P" n="25"/>ex illo fine judicandus est, qualis sit usus 
+            mo<lb break="no" ed="#P" n="26"/>ralis talis rei. Similiter ex lege positiva potest
+            <lb ed="#P" n="27"/>esse malus usus aliquarum rerum, ut per se
+            <lb ed="#P" n="28"/>constat. Aliae vero sunt res quibus homines
+            <lb ed="#P" n="29"/>communiter utuntur bene, quamvis aliqui
+            <lb ed="#P" n="30"/>male, in quibus etiam individuis actibus 
+            con<lb break="no" ed="#P" n="31"/>sideranda sunt circumstantiae particulares.
+            <lb ed="#P" n="32"/>Aliae denique sunt res ad utrumlibet 
+            indiffe<lb break="no" ed="#P" n="33"/>rentes, ex quibus tamen quadam magis in
+            <lb ed="#P" n="34"/>bonum usum quam in malum veniunt. 
+            Se<lb break="no" ed="#P" n="35"/>cundo, attendenda est scientia venditoris vel
+            <lb ed="#P" n="36"/>donantis ; fieri enim potest ut existimet certo
+            <lb ed="#P" n="37"/>vel probabiliter alterum male usurum, vel
+            <lb ed="#P" n="38"/>bene, vel certe neutrum sciat.
+          </p>
+          <p xml:id="szthvi-b78753-d1e2334">
+            <lb ed="#P" n="39"/>3. Prima conclusio communis.—De 
+            Gabrie<lb break="no" ed="#P" n="40"/>lis et Nacar. sententiu, judicium auctoris. —
+            <lb ed="#P" n="41"/>Itom cautela.— Dico primo, vendere res 
+            in<lb break="no" ed="#P" n="42"/>differentes, aut quae de facili habent bonum
+            <lb ed="#P" n="43"/>usum, si venditor nihil sciat de intentione 
+            em<lb break="no" ed="#P" n="44"/>ptoris, non est scandalum, nec malum, per se
+            <lb ed="#P" n="45"/>loquendo, etiamsi in multis eveniat ut male
+            <lb ed="#P" n="46"/>illis rebus utantur. Conclusio est communis,
+            <lb ed="#P" n="47"/>D.Thomee 2. 9, q. 18, art. £, et 169, art. 2;
+            <lb ed="#P" n="48"/>Sylvest., verbo Infidelitas, et verb. Ars; 
+            Na<lb break="no" ed="#P" n="49"/>Warr., cap. 23.n. 90, c. 17, n. 195, c. 19, n.
+            <lb ed="#P" n="50"/>16, c. 21, n. 26, qui alios adducit. Ratio est,
+            <lb ed="#P" n="51"/>quia venditor non intendit peccatum alterius,
+            <lb ed="#P" n="52"/>nec facit opus, ex quo per se sequatur, nec
+            <lb ed="#P" n="53"/>quod illud excitet, et alias ignorat, alterum id
+            <lb ed="#P" n="54"/>velle ad malum usum; unde tenetur 
+            praesu<lb break="no" ed="#P" n="55"/>mere velle ad bonum; nam, ut est regula ju-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>ris, in dubiis unusquisque presumitur bonus.
+            <lb ed="#P" n="57"/>Confirmatur exemplis, quae facile occurrent
+            <lb ed="#P" n="58"/>ex dictis in num. praeced., et passim apud
+            <lb ed="#P" n="59"/>scribentes. Unde infert Cajetanus illam 
+            ulti<lb break="no" ed="#P" n="60"/>mam partem conclusionis, scilicet, hoc esse
+            <lb ed="#P" n="61"/>licitum, etiamsi constet communiter plures
+            <lb ed="#P" n="62"/>homines male uti illis rebus, si in individuo
+            <lb ed="#P" n="63"/>hic et nunc de hoc homine hoc non constet;
+            <lb ed="#P" n="64"/>quod intelligo, quandiu res vere manet intra
+            <lb ed="#P" n="65"/>latitudinem indifferentia. Quod ideo dico,
+            <lb ed="#P" n="66"/>quia si usus talis rei per se esset prohibitus,
+            <lb ed="#P" n="67"/>per accidens vero posset esse licitum ex 
+            ali<lb break="no" ed="#P" n="68"/>qua causa, ut usus carnium in quadragesima,
+            <lb ed="#P" n="69"/>etc., non deberet judicari omnino licitum 
+            in<lb break="no" ed="#P" n="70"/>differenter vendere tales res, totum negotium
+            <lb ed="#P" n="71"/>remittendo ad conscientias mentium. Ex quo
+            <lb ed="#P" n="72"/>Gabriel, in 4. d. 16, q. 3, art. 3, dub. 6, 
+            di<lb break="no" ed="#P" n="73"/>cit, peccare eos mortaliter, qui parati sunt
+            <lb ed="#P" n="74"/>omnes admittere ad coenam in die jejunii, nulla
+            <lb ed="#P" n="75"/>admonitione praemissa. Quod Navarr., c. 21,
+            <lb ed="#P" n="76"/>num. 36, probat; sed in hoc non 9st 
+            admo<lb break="no" ed="#P" n="77"/>dum scrupulose agendum, ut notavit bene 
+            Ca<lb break="no" ed="#P" n="78"/>jetan., q. 47, art. quarto, quia nullus tenetur
+            <lb ed="#P" n="79"/>conscientiam alterius aut privilegium 
+            exami<lb break="no" ed="#P" n="80"/>nare, et, ut dicebam, in publico omnis 
+            prae<lb break="no" ed="#P" n="81"/>sumitur bonus. Cavendum solum est ne ipsa
+            <lb ed="#P" n="82"/>facilitas det aliis occasionem peccandi. Item,
+            <lb ed="#P" n="83"/>in his actionibus quae per se prohibitae sunt,
+            <lb ed="#P" n="84"/>et tamen ex accidenti possunt esse licitae,
+            <lb ed="#P" n="85"/>minora indicia vel suspiciones sufficere, ut
+            <lb ed="#P" n="86"/>teneatur quis non dare materiam malae 
+            opera<lb break="no" ed="#P" n="87"/>tionis.
+          </p>
+          <p xml:id="szthvi-b78753-d1e2445">
+            <lb ed="#P" n="88"/>4. Secunda conclusio. — Dico secundo, res
+            <lb ed="#P" n="89"/>hujusmodi indifferentes vendere vel donare,
+            <lb ed="#P" n="90"/>quando praescitur alterum male illis usurum,
+            <lb ed="#P" n="91"/>quamvis intrinsece malum non sit, tamen si
+            <lb ed="#P" n="92"/>quis facile sine magno incommodo possit non
+            <lb ed="#P" n="93"/>dare alteri homini materiam peccati, 
+            scanda<lb break="no" ed="#P" n="94"/>lum committit, si id faciat. Conclusio 
+            commu<lb break="no" ed="#P" n="95"/>nis est, Sylvest., verbo Infidelitas , quaest. 4,
+            <lb ed="#P" n="96"/>verbo Ars, quaest. tertia ; Antonini, 2 p., 
+            ti<lb break="no" ed="#P" n="97"/>tulo primo, cap. 9; Adriani, Quodlib. 3, dub.
+            <lb ed="#P" n="98"/>2, sumiturque ex auctoribus citatis. Ratio
+            <lb ed="#P" n="99"/>vero est, quia unusquisque tenetur ex 
+            chari<lb break="no" ed="#P" n="100"/>tate vitare peccatum proximi, si facile potest.
+            <lb ed="#P" n="101"/>Unde si tale peccatum est contra alios 
+            proxi<lb break="no" ed="#P" n="102"/>mos, major erit obligatio vitandi talem 
+            ma<lb break="no" ed="#P" n="103"/>teriam, et respcctu illius tertii poterit esse
+            <lb ed="#P" n="104"/>obligatio non tantum ex charitate, sed etiam
+            <lb ed="#P" n="105"/>ex justitia, quae obligat non dare alicui 
+            instru<lb break="no" ed="#P" n="106"/>mentum ad inferendam injuriam alteri, quia
+            <lb ed="#P" n="107"/>hoc est moraliter cooperari injuriis.
+          </p>
+          <p xml:id="szthvi-b78753-d1e2491">
+            <lb ed="#P" n="108"/>5. Corollarium de vendentibus arma ad 
+            bel<lb break="no" ed="#P" n="109"/>landum. — Ex quo resolvitur illa quaestio, an
+            <lb ed="#P" n="110"/>liceat vendere arma injuste bellantibus. Nam
+            <pb ed="#P" n="730"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>si constet de injustitia, nullo modo lhicet ; si
+            <lb ed="#P" n="2"/>vero causa sit dubia, resolvenda est quaestio
+            <lb ed="#P" n="3"/>ex regulis datis de conscientia, in 1. 2, quae
+            <lb ed="#P" n="4"/>iterun applicabuntur infra in materia de
+            <lb ed="#P" n="5"/>bello. Oppones primo : si alter est in 
+            volun<lb break="no" ed="#P" n="6"/>tate peccandi, non evitatur peccatum ex eo
+            <lb ed="#P" n="7"/>quod non dem materiam, seu instrumentum
+            <lb ed="#P" n="8"/>peccandi, unde ibi non intervenit scandalum,
+            <lb ed="#P" n="9"/>quia ruina fratris jam datur. Respondetur
+            <lb ed="#P" n="10"/>primum fieri posse ut ille non conceperit eam
+            <lb ed="#P" n="11"/>voluntatem ; offerendeo autem vel donando,
+            <lb ed="#P" n="12"/>ilam ego excitem, atque ita scandalum 
+            ge<lb break="no" ed="#P" n="13"/>nerem. Secundo, militare etiam contra 
+            chari<lb break="no" ed="#P" n="14"/>tatem offerre proximo materiam, seu 
+            instru<lb break="no" ed="#P" n="15"/>mentum quo exequatur malam voluntatem;
+            <lb ed="#P" n="16"/>nam ipsamet executio est quaedam fratris 
+            exe<lb break="no" ed="#P" n="17"/>quentis ruina, eaque malitia amplius durat
+            <lb ed="#P" n="18"/>et augetur. Oppones secundo, quia quamvis
+            <lb ed="#P" n="19"/>non dem aut vendam, alius vendet. 
+            Respon<lb break="no" ed="#P" n="20"/>detur id nihil referre, sicut peccat servus 
+            exe<lb break="no" ed="#P" n="21"/>quens injustum mandatum domini, 
+            quantum<lb break="no" ed="#P" n="22"/>libet sciat alium facturum, si ipse exequi
+            <lb ed="#P" n="23"/>nolit. Ratio est, quia ipsa actio est mala, et
+            <lb ed="#P" n="24"/>non tollitur ab ea deformitas, propterea quod
+            <lb ed="#P" n="25"/>multi sunt parati ad similes actiones. Argues
+            <lb ed="#P" n="26"/>tertio: ergo peccat ille qui domum suam locat
+            <lb ed="#P" n="27"/>meretrici, quoniam certus est velle ad malum
+            <lb ed="#P" n="28"/>usum. Item peccabit famulus qui in die 
+            jeju<lb break="no" ed="#P" n="29"/>nii ministrat cibum domino, cum certus sit
+            <lb ed="#P" n="30"/>violandum esse jejunium. In hujus generis
+            <lb ed="#P" n="31"/>casibus valde laborant auctores, quia videntur
+            <lb ed="#P" n="32"/>sequi evidenter, cum tamen eos admittere 
+            vi<lb break="no" ed="#P" n="33"/>deatur durum : breviter dico ideo dixisse me
+            <lb ed="#P" n="34"/>in conclusione, hoc non esse intrinsece 
+            ma<lb break="no" ed="#P" n="35"/>lum; item addidisse : S facile potest, et sine
+            <lb ed="#P" n="36"/>magno gravamine. Unde in proposito, si quis
+            <lb ed="#P" n="37"/>sine ullo incommodo potest domum suam 
+            lo<lb break="no" ed="#P" n="38"/>cari alteri, concedo male facere, sine ulla 
+            ne<lb break="no" ed="#P" n="39"/>cessitate vel utilitate locando cum 
+            praescien<lb break="no" ed="#P" n="40"/>tia mali usus; et idem est in similibus 
+            actioni<lb break="no" ed="#P" n="41"/>bus. Si tamen non occurrerunt alii qui 
+            loca<lb break="no" ed="#P" n="42"/>rent, vel difficile possent inveniri, non 
+            tene<lb break="no" ed="#P" n="43"/>retur quis privare se suo jure, quia revera
+            <lb ed="#P" n="44"/>non intendit peccatum alterius, nec per se
+            <lb ed="#P" n="45"/>excitat aut praebet materiam peccati, sed 
+            so<lb break="no" ed="#P" n="46"/>lum non impedit eo tempore quo moraliter
+            <lb ed="#P" n="47"/>non censetur posse, atque adeo non teneri.
+            <lb ed="#P" n="48"/>Eadem fere regula servanda est in posteriori
+            <lb ed="#P" n="49"/>casu de famulo, licet ibi sit major ratio 
+            duhi<lb break="no" ed="#P" n="50"/>tandi, quia videtur cooperatio positiva 
+            mini<lb break="no" ed="#P" n="51"/>strare cibos. Respondet autem Cajetanus 
+            to<lb break="no" ed="#P" n="52"/>tam illam cooperationem de se esse ad actum
+            <lb ed="#P" n="53"/>indifferentem vel bonum, vel potius in eo
+            <lb ed="#P" n="54"/>eventu famulus aut locator proprie non 
+            coo<lb break="no" ed="#P" n="55"/>peratur active, sed facit aliquid de se indiffe-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>rens, quo alius postea male utitur. Denique in
+            <lb ed="#P" n="57"/>his quoque considerandae sunt circumstantiae
+            <lb ed="#P" n="58"/>particulares, ut monuimus. (V. Sanc., l. 1 
+            De<lb break="no" ed="#P" n="59"/>cal.c 7.)
+          </p>
+          <p xml:id="szthvi-b78753-d1e2634">
+            <lb ed="#P" n="60"/>6. Tertia conclusio bipartita, et communis.
+            <lb ed="#P" n="61"/>— Dico tertio : quando res sunt tales, ut ex
+            <lb ed="#P" n="62"/>institutione sua, vel ex usu aut lege sint 
+            pro<lb break="no" ed="#P" n="63"/>hibitae, vel destinatae ad malum finem in hoc
+            <lb ed="#P" n="64"/>tempore et loco, ita ut moraliter semper 
+            pro<lb break="no" ed="#P" n="65"/>babiliter timeatur pravus usus, non licet eas
+            <lb ed="#P" n="66"/>tradere alteri, nisi in particulari constet 
+            ces<lb break="no" ed="#P" n="67"/>sare periculum pravi usus. Conclusio quoad
+            <lb ed="#P" n="68"/>utramque partem est communis, et prior 
+            pa<lb break="no" ed="#P" n="69"/>tet, quia haec tradere, est moraliter praebere
+            <lb ed="#P" n="70"/>occasionem peccati; est ergo, moraliter 
+            lo<lb break="no" ed="#P" n="71"/>quendo, scandalum etiam cooperationis: patet
+            <lb ed="#P" n="72"/>etiam exemplis, in eo qui materiam praebet
+            <lb ed="#P" n="73"/>ad sacrificandum idolo, etc. Posterior vero 
+            in<lb break="no" ed="#P" n="74"/>ce constat, quia hujusmodi actio non est 
+            ma<lb break="no" ed="#P" n="75"/>la, nisi prout moraliter et in re habet 
+            mai<lb break="no" ed="#P" n="76"/>tiam et deformitatem adjunctam; si autem
+            <lb ed="#P" n="77"/>constet alterum nolie rem ad pravum usum,
+            <lb ed="#P" n="78"/>tollitur jam deformitas ; ergo cum tal scientia
+            <lb ed="#P" n="79"/>jam non erit malum vendere hujusmodi rem;
+            <lb ed="#P" n="80"/>sed oportet advertere non satis esse nescire
+            <lb ed="#P" n="81"/>malum usum determinate, sed necesse est
+            <lb ed="#P" n="82"/>moraliter censere res ad eum finem non 
+            or<lb break="no" ed="#P" n="83"/>dinari ab accipiente, ad quem, juxta 
+            conclu<lb break="no" ed="#P" n="84"/>sionem, communiter et quasi ex primaria 
+            in<lb break="no" ed="#P" n="85"/>stitutione referuntur.
+          </p>
+          <p xml:id="szthvi-b78753-d1e2693">
+            <lb ed="#P" n="86"/>7. Questiuncula. — Resolutio. —Quaeres:
+            <lb ed="#P" n="87"/>quid si res ipsa, prout a me fit, possit habere
+            <lb ed="#P" n="88"/>bonum usum, verbi gratia, ut remigatio 
+            con<lb break="no" ed="#P" n="89"/>tra Christianos, aedificatio templi, quod per se
+            <lb ed="#P" n="90"/>potest referri ad cultum veri Det, tamen hic
+            <lb ed="#P" n="91"/>et nunc scis referri ad idolum, et alias cogit
+            <lb ed="#P" n="92"/>metus mortis ad adjuvandum, ferendum 
+            la<lb break="no" ed="#P" n="93"/>teres, etc.? Eritne hoc intrinsece malum? 
+            Vide<lb break="no" ed="#P" n="94"/>tur enim non esse, quia quod ibi facio per se
+            <lb ed="#P" n="95"/>non est malum. hespondetur, in his 
+            caven<lb break="no" ed="#P" n="96"/>dum omnino esse positivam cooperationem ,
+            <lb ed="#P" n="97"/>quia haec intrinsece mala est, cum sit contra
+            <lb ed="#P" n="98"/>praeceptum negativum. Et hac de causa in illo
+            <lb ed="#P" n="99"/>exemplo, ut Cajetanus recte dixit, non licet,
+            <lb ed="#P" n="100"/>quia illud est moraliter cooperari; quando
+            <lb ed="#P" n="101"/>autem non est cooperatio positiva, sed solum
+            <lb ed="#P" n="102"/>non impedis, vel aliquid facis per se 
+            indiffe<lb break="no" ed="#P" n="103"/>rens, non erit intrinsece malum ; pro ratione
+            <lb ed="#P" n="104"/>ergo circumstantiarum (servato semper 
+            ordi<lb break="no" ed="#P" n="105"/>ne charitatis) quandone sit cooperari, aut
+            <lb ed="#P" n="106"/>quando sit tantum non impedire, in singulis
+            <lb ed="#P" n="107"/>materiis considerandum prudenter est. ( Vide
+            <lb ed="#P" n="108"/>auctorem de Censur., disp. 21, sect. 2, n. 60).
+          </p>
+          <p xml:id="szthvi-b78753-d1e2745">
+            <lb ed="#P" n="109"/>8. Quaestiones alie ev D. Thoma 
+            exponun<lb break="no" ed="#P" n="110"/>tur.— Ultima queestio : an dans scandalum
+            <pb ed="#P" n="731"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>damnificanti, teneatur de dumno. —Alias 
+            quaes<lb break="no" ed="#P" n="2"/>tiones quas D. Thomas, citata quaest. 43, 
+            trac<lb break="no" ed="#P" n="3"/>tat, a:t. 5 et 6, in quibus personis posset 
+            in<lb break="no" ed="#P" n="4"/>veniri scandalum , omitto, quia faciles sunt.
+            <lb ed="#P" n="5"/>Quod enim inquit, activum scandalum ad 
+            im<lb break="no" ed="#P" n="6"/>perfectos pertinere, non ad perfectos, 
+            passi<lb break="no" ed="#P" n="7"/>vum etiam simliliter, regulariter 
+            intelligen<lb break="no" ed="#P" n="8"/>dum est, quia virtus perfecta efficit ut neque
+            <lb ed="#P" n="9"/>homo facile moveatur ad ruinam exemplo
+            <lb ed="#P" n="10"/>aliorum, neque alios moveat. Non tamen 
+            re<lb break="no" ed="#P" n="11"/>pugnat interdum cadere in viros perfectos 
+            ra<lb break="no" ed="#P" n="12"/>tionem scandali , sicui possunt etiam ruere
+            <lb ed="#P" n="13"/>per suggestionem daemonis, quod tamen 
+            fa<lb break="no" ed="#P" n="14"/>cilius accidit in venialibus, quam in 
+            mortali<lb break="no" ed="#P" n="15"/>bus peccatis. Alia quaestio esse posset, an 
+            te<lb break="no" ed="#P" n="16"/>reatur quis restituere damnum cujus 
+            forma<lb break="no" ed="#P" n="17"/>liter causa fuit per scandalum. Dicendum
+            <lb ed="#P" n="18"/>enim est non teneri, nisi interveniat 
+            injusti<lb break="no" ed="#P" n="19"/>tia, quia sola illa obligat ad restitutionem, ut
+            <lb ed="#P" n="20"/>constat infra, quaest. 62. Unde etiam fit ut
+            <lb ed="#P" n="21"/>non teneatur ad restitutionem damni 
+            confes<lb break="no" ed="#P" n="22"/>sarius qui culpabiliter non obligat 
+            poeniten<lb break="no" ed="#P" n="23"/>tem ad restituendum ; quia in eo solum 
+            pec<lb break="no" ed="#P" n="24"/>cat contra religionem. Lege Sot., 4 de 
+            Justi<lb break="no" ed="#P" n="25"/>tia, quaest. 6, art. 3, conclus. 2 et sequent.;
+            <lb ed="#P" n="26"/>Sylvestrum, verbo Aestitutio, 3, part. 1. 
+            Con<lb break="no" ed="#P" n="27"/>trarium tenet Scot., in 4, distinct. 15, quaest.
+            <lb ed="#P" n="28"/>3; Richard., queest. 2, art. 5; Adrian., in
+            <lb ed="#P" n="29"/>materia de restitutione ; sed nullum habent
+            <lb ed="#P" n="30"/>probabile fundamentum. (Vide auctorem, de
+            <lb ed="#P" n="31"/>Poen., disp. 12, sect. 6, n. 8.)
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

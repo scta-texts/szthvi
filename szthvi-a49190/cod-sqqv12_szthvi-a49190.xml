@@ -1,0 +1,1973 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 7</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 7</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="203"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-a49190"><!-- t1-d7 -->
+        <head xml:id="szthvi-a49190-Hd1e101">Disputatio 7</head>
+        <head xml:id="szthvi-a49190-Hd1e103" type="question-title">De virtute fidei quantum ad habitus ejus</head>
+        <p xml:id="szthvi-a49190-d1e106">
+          <lb ed="#P" n="58"/>DISPUTATIO VII.
+          <lb ed="#P" n="59"/>DE VIRTUTE FIDEI QUANTUM AD HABITUS EJUS.
+        </p>
+        <p xml:id="szthvi-a49190-d1e113">
+          <lb ed="#P" n="60"/>Materia hujus disputationis magua ex 
+          par<lb break="no" ed="#P" n="61"/>te tractata est in libris de Gratia, agendo de
+          <lb ed="#P" n="62"/>habitibus infusis, et ideo in praesenti 
+          omitte<lb break="no" ed="#P" n="63"/>mus omnia quae generalia sunt, solum 
+          brevi<lb break="no" ed="#P" n="64"/>ter indicando quomodo in fidem conveniant ;
+          <lb ed="#P" n="65"/>illa vero quae fuerint fidei propria ex professo
+          <lb ed="#P" n="66"/>declarabimus.
+        </p>
+        <div xml:id="szthvi-a49190-Dd1e131">
+          <head xml:id="szthvi-a49190-Hd1e133">Sectio 1</head>
+          <head xml:id="szthvi-a49190-Hd1e135" type="question-title">Utrum fides ponat aliquem habitum in intellectu, et quis vel qualis ille sit</head>
+          <p xml:id="szthvi-a49190-d1e138">
+            <lb ed="#P" n="67"/>SECTIO I.
+            <lb ed="#P" n="68"/>Utrum fides ponat aliquem habitum in 
+            intel<lb break="no" ed="#P" n="69"/>lectu, et quis vel qualis ille sit?
+          </p>
+          <p xml:id="szthvi-a49190-d1e147">
+            <lb ed="#P" n="70"/>1. Assertio prima : datur fides habitualis. —
+            <lb ed="#P" n="71"/>Primo, suppono tanquam certum dari in 
+            intel<lb break="no" ed="#P" n="72"/>lectu habitum fidei per se infusum, ut ex
+            <lb ed="#P" n="73"/>professo disserui, lib. 6 de Grat., cap. 8. 
+            Cir<lb break="no" ed="#P" n="74"/>ca quam assertionem advertendum est, ex
+            <lb ed="#P" n="75"/>supra dictis, circa easdem res revelatas posse
+            <lb ed="#P" n="76"/>nos habere actus fidei acquisitae, qui 
+            natura<lb break="no" ed="#P" n="77"/>les sunt, et praeterea actus fidei infusae. Ex
+            <lb ed="#P" n="78"/>prioribus ergo manifestum est resultare in 
+            in<lb break="no" ed="#P" n="79"/>tellectu habitum acquisitum, qui fit propria
+            <lb ed="#P" n="80"/>virtute et actione talium actuum, et manere
+            <lb ed="#P" n="81"/>potest, etiamsi fides infusa amittatur, ut in
+            <lb ed="#P" n="82"/>haeretico constat. Unde fuit quaestio apud 
+            an<lb break="no" ed="#P" n="83"/>tiquos Doctores, an praeter hunc habitum 
+            re<lb break="no" ed="#P" n="84"/>quiratur alius in intellectu, qui sit infusus, et
+            <lb ed="#P" n="85"/>aliqui eorumn in partem negantem 
+            inclina<lb break="no" ed="#P" n="86"/>runt, quia putabant actum fidei infusae quoad
+            <lb ed="#P" n="87"/>substantiam non distingui ab acquisito. 
+            sic<lb break="no" ed="#P" n="88"/>que putabant habitum infusum non esse 
+            ne<lb break="no" ed="#P" n="89"/>cessarium. Jam vero certa res est dari hunc
+            <lb ed="#P" n="90"/>habitum infusum, natura sua distinctum ab
+            <lb ed="#P" n="91"/>acquisito. Ratio est, quia actus fidei infusae
+            <lb ed="#P" n="92"/>sunt specie distincti ab acquisitis, quia 
+            ha<lb break="no" ed="#P" n="93"/>bent rationem formalem objecti longe 
+            diver<lb break="no" ed="#P" n="94"/>sam. Item sunt supernaturales quoad 
+            substanu<lb break="no" ed="#P" n="95"/>tiam, ut supra visum est, disputat. 6, sect. 5;
+            <lb ed="#P" n="96"/>ergo requirunt habitum ejusdem ordinis.
+          </p>
+          <p xml:id="szthvi-a49190-d1e208">
+            <lb ed="#P" n="97"/>2. Dubium an sit certum de fide.—Auctoris
+            <lb ed="#P" n="98"/>resolutio affir nans. — Solet autem quaeri an
+            <lb ed="#P" n="99"/>hoc tempore conclusio quoad hanc partem sit
+            <lb ed="#P" n="100"/>de fide; nam aliqui simpliciter negant, licet
+            <lb ed="#P" n="101"/>dicant esse ita certam, ut sine temeritate 
+            ne<lb break="no" ed="#P" n="102"/>gari non possit. Alii dicunt esse de fide quo-
+            <pb ed="#P" n="204"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ad parvulos, non quoad adultos, quia in istis
+            <lb ed="#P" n="2"/>possunt Scripturae et Concilia explicari de 
+            ac<lb break="no" ed="#P" n="3"/>tibus, non autem in parvulis. Alii vero e 
+            con<lb break="no" ed="#P" n="4"/>trario dicunt esse de fide in adultis, propter
+            <lb ed="#P" n="5"/>definitionem Tridentini, sess. 6, cap. 6et 7,
+            <lb ed="#P" n="6"/>ubi post actum fidei dicit infundi justitiam,
+            <lb ed="#P" n="7"/>quae fidem, spem et charitatem includit, et
+            <lb ed="#P" n="8"/>postea dicit fidem non amitti per omne 
+            pec<lb break="no" ed="#P" n="9"/>catum, quod necesse est intelligi de 
+            habitua<lb break="no" ed="#P" n="10"/>li; negant autem de parvulis, quia in illis 
+            lo<lb break="no" ed="#P" n="11"/>cis Concilium solum loquitur de adultis. Mihi
+            <lb ed="#P" n="12"/>tamen videtur esse de fide quoad omnes, ut
+            <lb ed="#P" n="13"/>in materia de Gratia dixi, lib. 6, cap. 3 et S.
+            <lb ed="#P" n="14"/>Nam dictae definitiones recte probant de 
+            adul<lb break="no" ed="#P" n="15"/>tis, et ad parvulos extenduntur, quia, licet
+            <lb ed="#P" n="16"/>quoad dispositiones ad justitiam differant ab
+            <lb ed="#P" n="17"/>adultis, non tamen quoad ipsam formalem
+            <lb ed="#P" n="18"/>justitiam, ut manifeste tradit idem Concilium,
+            <lb ed="#P" n="19"/>in sess. 5, et ideo inter justos fideles et 
+            catho<lb break="no" ed="#P" n="20"/>licos, aequaliter et univoce parvuli 
+            numeran<lb break="no" ed="#P" n="21"/>tur.
+          </p>
+          <p xml:id="szthvi-a49190-d1e274">
+            <lb ed="#P" n="22"/>3. Corollarium primum de subjecto 
+            habitua<lb break="no" ed="#P" n="23"/>lis fidei.—Corollarium secundum de ejus 
+            defini<lb break="no" ed="#P" n="24"/>Ltione.—Corollarium tertium de causis et 
+            effec<lb break="no" ed="#P" n="25"/>Libus ejus. — Corollarium quartum, posse 
+            pye<lb break="no" ed="#P" n="26"/>diclum habitum intendi , remitti vero minime.
+            <lb ed="#P" n="27"/>—Ex quibus intelligitur primo, hunc habitum
+            <lb ed="#P" n="28"/>esse subjective in intellectu; probatur, quia
+            <lb ed="#P" n="29"/>actus ad quos eliciendos infunditur, sunt in
+            <lb ed="#P" n="30"/>intellectu, ut supra, disputatione praecedenu,
+            <lb ed="#P" n="31"/>sect. 1 et 9, probavi; habitus autem in 
+            poten<lb break="no" ed="#P" n="32"/>tia eliciente actus ponendus est, quia illi dat
+            <lb ed="#P" n="33"/>facultatem et inclinationem operandi. 
+            Secun<lb break="no" ed="#P" n="34"/>do, potest facile ex dictis colligi definitio 
+            hu<lb break="no" ed="#P" n="35"/>jus habitus seu virtutis; est enim habitus 
+            in<lb break="no" ed="#P" n="36"/>clinans et dans supernaturalem facultatem
+            <lb ed="#P" n="37"/>eliciendi assensum, propter auctoritatem 
+            pri<lb break="no" ed="#P" n="38"/>mae veritatis revelantis. Quae definitio tota 
+            sa<lb break="no" ed="#P" n="39"/>tis patet ex dictis; solet etiam ad hunc 
+            habi<lb break="no" ed="#P" n="40"/>tum applicari definitio Pauli, ad Hebr. 11, ut
+            <lb ed="#P" n="41"/>videri potest ex D. Thoma, q. 4, art. 1. Sed hoc
+            <lb ed="#P" n="42"/>omitto, quia in actu de quo revera Paulus ibi
+            <lb ed="#P" n="43"/>locutus est, satis est supra, disputat. 6, sect. 2,
+            <lb ed="#P" n="44"/>explicata definitio, et accommodatio a quovis,
+            <lb ed="#P" n="45"/>nullo negotio, fieri potest. Tertio, facile potest
+            <lb ed="#P" n="46"/>ex dictis intelligi quas causas vel effectus habeat
+            <lb ed="#P" n="47"/>hic habitus ; nam propria et principalis causa
+            <lb ed="#P" n="48"/>est solus Deus, sicut de Gratia habituali 
+            dixi<lb break="no" ed="#P" n="49"/>mus, l. 8, c. 3. Quia hic est unus ex habitibus
+            <lb ed="#P" n="50"/>gratiae, et supernaturalis; ac per se infusus.
+            <lb ed="#P" n="51"/>Potest vero instrumentaliter infundi per 
+            sacra<lb break="no" ed="#P" n="52"/>mentum, ut fit in parvulis per baptismum ;
+            <lb ed="#P" n="53"/>non fit autem per actus secundum propriam
+            <lb ed="#P" n="54"/>efficientiam, quia hoc etiam generale est 
+            ha<lb break="no" ed="#P" n="55"/>bitibus infusis; quamvis possit actus fidei es-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>se dispositio ad habitum. An vero per 
+            pri<lb break="no" ed="#P" n="57"/>mum actum fidei statim infundatur habitus,
+            <lb ed="#P" n="58"/>in materia de Gratia, lib. 8, cap. 13, a n. 14,
+            <lb ed="#P" n="59"/>disputatum est, et sectione 3 aliquid 
+            attin<lb break="no" ed="#P" n="60"/>gam. Quoad effectus vero, per se et 
+            immedia<lb break="no" ed="#P" n="61"/>te non habet hic habitus alium effectum,
+            <lb ed="#P" n="62"/>praeter suos actus, quia hoc est adaequatum
+            <lb ed="#P" n="63"/>munus ejus; mediante autem actu credendi,
+            <lb ed="#P" n="64"/>possunt huic habitui attribui omnes 
+            effec<lb break="no" ed="#P" n="65"/>tus ejusdem actus, disputatione praecedenti
+            <lb ed="#P" n="66"/>sec'ione ultima numerati, ut per se constat.
+            <lb ed="#P" n="67"/>Quarto, infertur habere hunc habitum illam
+            <lb ed="#P" n="68"/>proprietatem, quae est posse augeri et 
+            inten<lb break="no" ed="#P" n="69"/>di, quia communis est gratiae habituali, ut
+            <lb ed="#P" n="70"/>in lib. 9 de Gratia explicatum est. Unde cum
+            <lb ed="#P" n="71"/>proportione ita sentiendum de augmento vel
+            <lb ed="#P" n="72"/>intensione hujus habitus, sicut de augmento
+            <lb ed="#P" n="73"/>gratiae aut charitatis; et eadem ratione hic
+            <lb ed="#P" n="74"/>habitus diminui seu remitti non potest, 
+            uti<lb break="no" ed="#P" n="75"/>que in se; nam quoad species et 
+            apprehensio<lb break="no" ed="#P" n="76"/>nes objectorum diminui potest, sicut et 
+            auge<lb break="no" ed="#P" n="77"/>ri, ut notum est. Nihilominus tamen in 
+            to<lb break="no" ed="#P" n="78"/>tum corruptibilis est; quibus autem modis id
+            <lb ed="#P" n="79"/>contingat, sect. 3 et 4 dicemus.
+          </p>
+          <p xml:id="szthvi-a49190-d1e404">
+            <lb ed="#P" n="80"/>4. Assertio secunda : halitus fidei est 
+            sim<lb break="no" ed="#P" n="81"/>plea qualitas. — Assertio non loquitur de 
+            spe<lb break="no" ed="#P" n="82"/>ciebus ad apprehensionem requisitis .—Sed de ea
+            <lb ed="#P" n="83"/>qualitate que proxime concurrit ad judicium
+            <lb ed="#P" n="84"/>cum intellectu.—bico secundo: hic habitus 
+            fi<lb break="no" ed="#P" n="85"/>dei unicus est, et una simplex qualitas. Ut
+            <lb ed="#P" n="86"/>probetur et declaretur assertio, distinguenda
+            <lb ed="#P" n="87"/>sunt duo, quae ad cognitionem solent requiri,
+            <lb ed="#P" n="88"/>scilicet, apprehensio, et judicium, propter
+            <lb ed="#P" n="89"/>quae duo, sunt etiam duo principia 
+            necessa<lb break="no" ed="#P" n="90"/>ria, nimirum species, propter apprehensionem
+            <lb ed="#P" n="91"/>seu conceptionem objecti, et habitus, seu 
+            ali<lb break="no" ed="#P" n="92"/>quod lumen, propter judicium. Quando ergo
+            <lb ed="#P" n="93"/>dicimus fidem esse unicum habitum, seu 
+            qua<lb break="no" ed="#P" n="94"/>litatem, non comprehendimus species; nam
+            <lb ed="#P" n="95"/>illae, sine dubio, distinctae sunt; non sunt 
+            ta<lb break="no" ed="#P" n="96"/>men supernaturales aut infusae, per se ac de
+            <lb ed="#P" n="97"/>lege ordinaria loquendo; namrres fidei 
+            appre<lb break="no" ed="#P" n="98"/>hendimus modo naturali, et per analogiam,
+            <lb ed="#P" n="99"/>vel respectum aliquem ad eas res quas 
+            sensi<lb break="no" ed="#P" n="100"/>bus percipimus. Unde ante primum actum
+            <lb ed="#P" n="101"/>fidei, praecedunt omnes species necessariae ad
+            <lb ed="#P" n="102"/>credendum, et fieri potest ut aliquis, 
+            sufficien<lb break="no" ed="#P" n="103"/>ter apprehendens res fidei, infidelis maneat,
+            <lb ed="#P" n="104"/>non praebens assensum ; et similiter 
+            christia<lb break="no" ed="#P" n="105"/>nus qui fit haereticus, licet fidem amittat, non
+            <lb ed="#P" n="106"/>tamen species, ut experientia notum est. Non
+            <lb ed="#P" n="107"/>tractamus igitur de speciebus, quae plures
+            <lb ed="#P" n="108"/>ctiam esse possunt, sed de qualitate per se 
+            in<lb break="no" ed="#P" n="109"/>fusa. De qua est secundo advertendum fidem
+            <lb ed="#P" n="110"/>interdum appellari in Scriptura nomine luwmi-
+            <pb ed="#P" n="205"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>nis, de quo recte intelligi potest illud Joan.
+            <lb ed="#P" n="2"/>primo: Illuminat omnem hominem, etc., et
+            <lb ed="#P" n="3"/>illud Psalm. 4: Signatum est super nos lumen
+            <lb ed="#P" n="4"/>vultus tui; et clarius 1 Petri 2: Vocacit nos in
+            <lb ed="#P" n="5"/>admirabile lumen swum ; sumitur etiam ex 2
+            <lb ed="#P" n="6"/>ad Corinth. 4. ad Colossens. 1.
+          </p>
+          <p xml:id="szthvi-a49190-d1e491">
+            <lb ed="#P" n="7"/>5. Dicta qualitas dicitur etiam lumen 
+            super<lb break="no" ed="#P" n="8"/>naturale , quod est ipsemet habitus fidei. —
+            <lb ed="#P" n="9"/>Hinc ergo putarunt aliqui in fide habituali
+            <lb ed="#P" n="10"/>duas esse distinguendas qualitates, unam, quae
+            <lb ed="#P" n="11"/>sit lumen fidei; alteram, quae sit hahitus fidei;
+            <lb ed="#P" n="12"/>sicut in naturali scientia, habitus distinguitur
+            <lb ed="#P" n="13"/>a lumine intellectus ; sed haecsententia, quam
+            <lb ed="#P" n="14"/>similiter refutavi iu tomo de Incarnatione,
+            <lb ed="#P" n="15"/>disp. 29, sect. 2, non habet ullam 
+            verisimili<lb break="no" ed="#P" n="16"/>tudinem, quia neque necessitas, neque ratio
+            <lb ed="#P" n="17"/>aliqua talis distinctionis cogitari potest; 
+            nul<lb break="no" ed="#P" n="18"/>lum enim est officium habitualis fidei, quod
+            <lb ed="#P" n="19"/>per habitum sufficienter non exerceatur ; 
+            ha<lb break="no" ed="#P" n="20"/>bitus enimlle juvat potentiam, et quia in 
+            sub<lb break="no" ed="#P" n="21"/>stantia sua supernaturalis est, dat ei 
+            faculta<lb break="no" ed="#P" n="22"/>tem operandi, quantum per qualitatem 
+            super<lb break="no" ed="#P" n="23"/>additam et permanentem dari potest; et 
+            eo<lb break="no" ed="#P" n="24"/>dem modo inclinat potentiam ad assensum, et
+            <lb ed="#P" n="25"/>consequenter etiam illuminat habitualiter 
+            il<lb break="no" ed="#P" n="26"/>lam, quia lumen potentiae non illuminat illam,
+            <lb ed="#P" n="27"/>nisi dando vires ad attingendam veritatem.
+            <lb ed="#P" n="28"/>Unde actualis illuminatio, qua in actu 
+            con<lb break="no" ed="#P" n="29"/>sistit, non fit a tali lumine nisi effective, 
+            quo<lb break="no" ed="#P" n="30"/>modo etiam fit ab ipso habitu ; ergo in re non
+            <lb ed="#P" n="31"/>est distinctio inter habitum et lumen fidei,
+            <lb ed="#P" n="32"/>sed solum secundum diversos respectus illa
+            <lb ed="#P" n="33"/>nomina recipit. Dicitur enim lumen 
+            quate<lb break="no" ed="#P" n="34"/>nus manifestat objectum, habitus vero 
+            quate<lb break="no" ed="#P" n="35"/>nus permanenter informat potentiam; sicut
+            <lb ed="#P" n="36"/>lumen gloriae est etiam habitus potentiae, 
+            ne<lb break="no" ed="#P" n="37"/>que sunt ibi duae qualitates. Lumen autem 
+            fi<lb break="no" ed="#P" n="38"/>dei est quaedam illius luminis participatio.
+            <lb ed="#P" n="39"/>Non est tamen simile de lumine naturali 
+            in<lb break="no" ed="#P" n="40"/>tellectus, quia illud non distinguitur ab ipsa
+            <lb ed="#P" n="41"/>potentia, cui superadditur habitus, ut det illi
+            <lb ed="#P" n="42"/>facilitatem ; et ita lumen naturale est 
+            subje<lb break="no" ed="#P" n="43"/>ctum habitus acquisiti. quod in praesenti 
+            cogi<lb break="no" ed="#P" n="44"/>tari non potest; sed tam lumen quam habitus
+            <lb ed="#P" n="45"/>fidei immediate est in intellectu, et dat illi 
+            fa<lb break="no" ed="#P" n="46"/>cilitatem quantum potest.
+          </p>
+          <p xml:id="szthvi-a49190-d1e580">
+            <lb ed="#P" n="47"/>6. Probatur jam assertio. — Quod vero ipse
+            <lb ed="#P" n="48"/>habitus fidei, in ratione habitus, unus tantum
+            <lb ed="#P" n="49"/>sit, tradunt Doctores, in 3, d. 23, ubi 
+            praeci<lb break="no" ed="#P" n="50"/>pue Scotus et Gabriel; et docet etiam 
+            Augu<lb break="no" ed="#P" n="51"/>stinus. 13 de Trin., cap. 2, ubi recte declarat
+            <lb ed="#P" n="52"/>in unoquoque homine esse unam fidem, quae
+            <lb ed="#P" n="53"/>numero quidem multiplicatur, specie autem
+            <lb ed="#P" n="54"/>una est; et ita intelligit illud ad Ephesios 4:
+            <lb ed="#P" n="55"/>Unus Deus, una fides; et Scriptura semper lo-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>quitur de fide ut una, 1 ad Corinth. 13, et ad
+            <lb ed="#P" n="57"/>Heb. 11, ubi uni fidei tribuuntur omnes fidei
+            <lb ed="#P" n="58"/>actus; et eodem modo loquuntur Concilia,
+            <lb ed="#P" n="59"/>prassertim Tridentinum, sess. 6. Ratio vero
+            <lb ed="#P" n="60"/>est. quia unum est objectum formale fidei, ut
+            <lb ed="#P" n="61"/>supra probatum est disp. 3, unde etiam sumit
+            <lb ed="#P" n="62"/>habitus unitatem suam, ut nunc suppono; et
+            <lb ed="#P" n="63"/>ideo etiam supra dixi, in disp. 6, sect. 3, 
+            om<lb break="no" ed="#P" n="64"/>nes actus fidei esse ejusdem speciei. Et haec
+            <lb ed="#P" n="65"/>ratio probat hunc habitum etiam esse 
+            simpli<lb break="no" ed="#P" n="66"/>cem qualitatem, ut specialiter notavit Marsil..
+            <lb ed="#P" n="67"/>in 3, d. 14, q. 1; et Almayn., p. 13, q. 7.Dicitur
+            <lb ed="#P" n="68"/>autem simplex, non respectu intensionis ; nam
+            <lb ed="#P" n="69"/>si verum est per intensionem addi partem 
+            ali<lb break="no" ed="#P" n="70"/>quam entitatis, non potest qualitas intensa
+            <lb ed="#P" n="71"/>esse omnino simplex ; sed hoc nunc non 
+            agi<lb break="no" ed="#P" n="72"/>mus, philosophisque remittimus, in quorum
+            <lb ed="#P" n="73"/>gratiam id late discussimus, disp. 46 Metaphys.
+            <lb ed="#P" n="74"/>Dicitur ergo simplex quoad extensionem, quia,
+            <lb ed="#P" n="75"/>licet cognitio fidei possit extensive augeri in
+            <lb ed="#P" n="76"/>fideli, lumen ipsum fidei non augetur, sed illi
+            <lb ed="#P" n="77"/>plura objecta materialia applicantur; nam
+            <lb ed="#P" n="78"/>quodlibet lumen fidei, quantumvis remissum,
+            <lb ed="#P" n="79"/>dat facultatem assentiendi cuicumque veritati
+            <lb ed="#P" n="80"/>propositae, et de se aequaliter ad omnes 
+            incli<lb break="no" ed="#P" n="81"/>nat, ideoque ex hac parte non recipit 
+            augmen<lb break="no" ed="#P" n="82"/>tum; neque contra hoc difficultas alicujus
+            <lb ed="#P" n="83"/>momenti occurrit.
+          </p>
+          <p xml:id="szthvi-a49190-d1e665">
+            <lb ed="#P" n="84"/>7. Obljectio de fide pratica, et speculativa.
+            <lb ed="#P" n="85"/>Dilutio. — Solum posset quis objicere,
+            <lb ed="#P" n="86"/>quia datur fides speculativa et fides practica,
+            <lb ed="#P" n="87"/>quae non possunt in unum simplicem 
+            habi<lb break="no" ed="#P" n="88"/>tum convenire, quia practicum et 
+            speculati<lb break="no" ed="#P" n="89"/>vum distinguunt habitus secundum 
+            philoso<lb break="no" ed="#P" n="90"/>phum ; assumptum constat ex modo loquendi
+            <lb ed="#P" n="91"/>Scripturae ; aliquando enim tribuit fidei 
+            specu<lb break="no" ed="#P" n="92"/>lationem et contemplationem veritatis, ut ad
+            <lb ed="#P" n="93"/>Colossens. 3: Nos autem revelata facie gloriam
+            <lb ed="#P" n="94"/>Dominà speculantes ; etad Hebr. 11: Fide 
+            cre<lb break="no" ed="#P" n="95"/>dimus aptata esse seecula verbo Dei. Aliquando
+            <lb ed="#P" n="96"/>vero fidei tribuitur operatio, Jacobi 2: Fides
+            <lb ed="#P" n="97"/>cooperabatwur operibus ejus ; ad Galatas b: 
+            Fi<lb break="no" ed="#P" n="98"/>des per charitatem operatur. Respondeo hismet
+            <lb ed="#P" n="99"/>testimoniis probari unam esse fidem, qua
+            <lb ed="#P" n="100"/>utrumque munus esercet; nam saepe Scriptura
+            <lb ed="#P" n="101"/>de eadem fide loquitur. Ratio vero est, quia 
+            ea<lb break="no" ed="#P" n="102"/>dem revelatione cognoscimus et credimus 
+            ve<lb break="no" ed="#P" n="103"/>ritates speculativas et practicas nostrae fidei;
+            <lb ed="#P" n="104"/>et ita illa distinctio tantum materialis est, 
+            res<lb break="no" ed="#P" n="105"/>pectu fidei; ut, verbi gratia, eadem fides 
+            osten<lb break="no" ed="#P" n="106"/>dit Deum esse trinum et unum, quod est 
+            ob<lb break="no" ed="#P" n="107"/>jectum speculabile; et Deum esse diligendum
+            <lb ed="#P" n="108"/>super omnia, quod est principium practicum ;
+            <lb ed="#P" n="109"/>et ita eadem fides est principium vere 
+            cogno<lb break="no" ed="#P" n="110"/>scendi et recte amandi eumdem Deum, sicut
+            <pb ed="#P" n="206"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>in patria eadem visio Dei eamdem vim habet,
+            <lb ed="#P" n="2"/>ut in lib. 2 de Attributis, cap. 18, a n. 10, 
+            os<lb break="no" ed="#P" n="3"/>tendimus. Recte igitur dicit Cajetanus 2.2,
+            <lb ed="#P" n="4"/>q. 4, art. 2, circa tertium, fidem esse habitum
+            <lb ed="#P" n="5"/>unum, eminenti modo practicum et 
+            specula<lb break="no" ed="#P" n="6"/>tivum, licet soleat simpliciter dici 
+            speculati<lb break="no" ed="#P" n="7"/>vus, quia hoc habet ex primario objecto suo;
+            <lb ed="#P" n="8"/>et ita exponit D. Thomam ibi, idemque dici 
+            so<lb break="no" ed="#P" n="9"/>let de Theologia in principio primae partis, ubi
+            <lb ed="#P" n="10"/>de hoc late. Videri etiam possunt quae dicta
+            <lb ed="#P" n="11"/>sunt in Metaph., disp. 44, sect. ult.
+          </p>
+          <p xml:id="szthvi-a49190-d1e754">
+            <lb ed="#P" n="12"/>S. Assertio tertia : habitus fidei est cirtus
+            <lb ed="#P" n="13"/>intellectus. — Eam quidam negant. — Eorwmn
+            <lb ed="#P" n="14"/>ratio.—BHt confirmatio.—4Ali nobiscum 
+            astru<lb break="no" ed="#P" n="15"/>unt.—Alii mediam viam eligunt, qui 
+            refellun<lb break="no" ed="#P" n="16"/>tur.—Dbico tertio: Hic habitus fidei virtus est
+            <lb ed="#P" n="17"/>intellectualis. In hac assertione est aliqua 
+            dis<lb break="no" ed="#P" n="18"/>sensio inter Doctores; aliqui enim absolute
+            <lb ed="#P" n="19"/>illam negant, ut Durand. in 3, dist. 23, q. 4,
+            <lb ed="#P" n="20"/>art. 2, ubi divus Thomas, quaest. 2, art. 3,
+            <lb ed="#P" n="21"/>quaestiuncula 1, idem sentire videtur, et q.
+            <lb ed="#P" n="22"/>14 de Veritate, art. 3, ad 5. Ratio est, quia
+            <lb ed="#P" n="23"/>virtus est dispositio potentiae ad optimum, ut
+            <lb ed="#P" n="24"/>sumitur ex philosopho, 7 Physic., text. 17;
+            <lb ed="#P" n="25"/>optimum autem intellectus est evidens 
+            cogni<lb break="no" ed="#P" n="26"/>tio, et clara; ergo habitus fidei cum non det
+            <lb ed="#P" n="27"/>evidentiam, non est dispositio intellectus ad
+            <lb ed="#P" n="28"/>optimum; ergo non est virtus intellectualis;
+            <lb ed="#P" n="29"/>et confirmatur, quia Aristoteles tantum posuit
+            <lb ed="#P" n="30"/>quinque virtutes intellectuales, et nulla 
+            illa<lb break="no" ed="#P" n="31"/>rum est fides, ut patet 6 Ethic. Alii vero 
+            se<lb break="no" ed="#P" n="32"/>quuntur conclusionem positam, ut D. Thom.
+            <lb ed="#P" n="33"/>2. 2. q. A4, art. 5, ad 2, et 1. 2, quaest. 62,
+            <lb ed="#P" n="34"/>art. 3, ad 2, et moderni communiter 
+            eis<lb break="no" ed="#P" n="35"/>dem locis ; et Capreol., in 3, d. 23. quaest. 1,
+            <lb ed="#P" n="36"/>et Molin., 1 part., quaest. 1, art. 6; Valent.,
+            <lb ed="#P" n="37"/>tom. 3, disp. ,q. 4 punct. 5. Cajetanus 
+            ve<lb break="no" ed="#P" n="38"/>ro, illo art. 5, mediam quamdam viam elegit,
+            <lb ed="#P" n="39"/>dicens fidem esse virtutem intellectus, non
+            <lb ed="#P" n="40"/>intellectualem. Haec dissensio magna ex parte
+            <lb ed="#P" n="41"/>est de modo loquendi; inter omnes vero 
+            mi<lb break="no" ed="#P" n="42"/>hi maxime displicet distinctio Cajetani, quia
+            <lb ed="#P" n="43"/>neque in proprietate, neque in usu verborum
+            <lb ed="#P" n="44"/>fundata est , neque intelligi potest; nam si 
+            fi<lb break="no" ed="#P" n="45"/>des est virtus intellectus tanquam subjecti,
+            <lb ed="#P" n="46"/>oportet ut habeat differentiam virtutis 
+            infor<lb break="no" ed="#P" n="47"/>mantis intellectum, ab illa autem differentia
+            <lb ed="#P" n="48"/>intellectualis vocatur. Idem ergo est virtutem
+            <lb ed="#P" n="49"/>esse intellectualem ac esse virtutem 
+            intellec<lb break="no" ed="#P" n="50"/>tus. Inter alias autem duas sententias, dico
+            <lb ed="#P" n="51"/>esse discrimen in modo loquendi, quia 
+            utra<lb break="no" ed="#P" n="52"/>que confitetur fidem esse obscuram, et illi
+            <lb ed="#P" n="53"/>non posse subesse falsum; unde an hoc 
+            suf<lb break="no" ed="#P" n="54"/>ficiat ad appellandam illam virtutem, neene,
+            <lb ed="#P" n="55"/>solum videtur spectare ad modum loquendi,
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>in quo mihi multo magis placet ille quem in
+            <lb ed="#P" n="57"/>conclusione posui.
+          </p>
+          <p xml:id="szthvi-a49190-d1e859">
+            <lb ed="#P" n="58"/>9. Notationes pro assertione cujus modus
+            <lb ed="#P" n="59"/>loquendi magis placet.— Probatur jam assertio
+            <lb ed="#P" n="60"/>auctoritate. — Et ratione. — Responsio ad 
+            ra<lb break="no" ed="#P" n="61"/>tionem contrariam, et ejus confirmat. in a.
+            <lb ed="#P" n="62"/>8.—Ut autem melius intelligatur, notanda est
+            <lb ed="#P" n="63"/>doctrina D. Thomae 1. 2, quaest. 56, art. 3,
+            <lb ed="#P" n="64"/>ubi distinguit fidem, vel secundum se 
+            specta<lb break="no" ed="#P" n="65"/>tam, id est, ut praecise pertinet ad 
+            intellec<lb break="no" ed="#P" n="66"/>tum vel prout subest voluntati, et ab illa 
+            re<lb break="no" ed="#P" n="67"/>cipit moralem denominationem. Hic ergo
+            <lb ed="#P" n="68"/>priori tantum modo consideratur, nam de 
+            al<lb break="no" ed="#P" n="69"/>tero dicemus sectione 2 et 3. Item distinguit
+            <lb ed="#P" n="70"/>divus Thomas inter virtutem intellectualem
+            <lb ed="#P" n="71"/>et virtutem simpliciter ; docet enim nullam
+            <lb ed="#P" n="72"/>virtutem, nisi voluntatis, vel ut subest 
+            volun<lb break="no" ed="#P" n="73"/>tati, esse virtutem simpliciter; quia sola 
+            vir<lb break="no" ed="#P" n="74"/>tus voluntatis tendit ad bonum honestum, ut
+            <lb ed="#P" n="75"/>tale est, et confert actibus bonum moralem
+            <lb ed="#P" n="76"/>usum. Hic ergo non agimus de virtute 
+            sim<lb break="no" ed="#P" n="77"/>pliciter, sed solum in ratione virtutis 
+            intellec<lb break="no" ed="#P" n="78"/>tualis. Ita ergo dico fidem secundum se 
+            habe<lb break="no" ed="#P" n="79"/>re hunc gradum virtutis, quod imprimis est
+            <lb ed="#P" n="80"/>consentaneum modo loquendi Scripturae, nam
+            <lb ed="#P" n="81"/>ad Colossens. 2 dicitur per fidem dari, 
+            gleni<lb break="no" ed="#P" n="82"/>tudinem divitiarum intellectus ; quomodo ergo
+            <lb ed="#P" n="83"/>non est virtus ejus? Item Concilium 
+            Milevita<lb break="no" ed="#P" n="84"/>num, cap. 4, de fide exponit illud Psalmi 65:
+            <lb ed="#P" n="85"/>Qui docet hominem scientiam. Ratione dec!
+            a<lb break="no" ed="#P" n="86"/>ratur, quia virtus potentiae est habitus 
+            incli<lb break="no" ed="#P" n="87"/>nans indefectibiliter potentiam ad bonum
+            <lb ed="#P" n="88"/>suum, id est, semper ad bonum, et nunquam
+            <lb ed="#P" n="89"/>ad malum ; hoc autem habet fidei habitus,
+            <lb ed="#P" n="90"/>respectu intellectus; nam bonum intellectus
+            <lb ed="#P" n="91"/>est veritas, malum autem falsitas; fides vero
+            <lb ed="#P" n="92"/>ita inclinat ad verum, ut nunquam inclinet
+            <lb ed="#P" n="93"/>ad falsum; est ergo virtus. Consequentia est
+            <lb ed="#P" n="94"/>clara, et minor supponitur ex dictis disp.
+            <lb ed="#P" n="95"/>6, sect. 5; major autem probatur. quia non
+            <lb ed="#P" n="96"/>est de ratione virtutis, ut inclinet ad 
+            sum<lb break="no" ed="#P" n="97"/>mum bonum potentiae, alias sola una esset
+            <lb ed="#P" n="98"/>in unaquaque potentia, illa scilicet quae
+            <lb ed="#P" n="99"/>summum bonum attingeret. Item non est
+            <lb ed="#P" n="100"/>de ratuione virtutis quod attingat objectum
+            <lb ed="#P" n="101"/>summa perfectione, alias spes non esset 
+            vir<lb break="no" ed="#P" n="102"/>tus, quia non attingit Deum propter se, qui
+            <lb ed="#P" n="103"/>est modus perfectissimus; nec philosophia
+            <lb ed="#P" n="104"/>esset scientia, quia non est tam evidens, sicut
+            <lb ed="#P" n="105"/>Mathematica ; ergo ad rationem virtutis satis
+            <lb ed="#P" n="106"/>est quod attingat verum bonum, nunquam 
+            de<lb break="no" ed="#P" n="107"/>clinando ad malum ; et quod respectu illius
+            <lb ed="#P" n="108"/>conferat de se optimum operandi modum,
+            <lb ed="#P" n="109"/>scilicet prompte et delectabiliter, de quo 
+            ma<lb break="no" ed="#P" n="110"/>ximce locutus est Aristoteles definiendo virtu-
+            <pb ed="#P" n="207"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>tem; et ita simul responsum est ad 
+            funda<lb break="no" ed="#P" n="2"/>mentum contrariae sententiae. Ad 
+            numeratio<lb break="no" ed="#P" n="3"/>nem autem virtutum intellectualium, quam
+            <lb ed="#P" n="4"/>Aristoteles fecit, respondetur locutum esse de
+            <lb ed="#P" n="5"/>virtutibus acquisitis ; non enim cognovit 
+            in<lb break="no" ed="#P" n="6"/>fusas, neque etiam modum assentiendi 
+            obs<lb break="no" ed="#P" n="7"/>curum et infallibilem; nam, si cognovisset
+            <lb ed="#P" n="8"/>ilum, praesertim circa divina, proculdubio
+            <lb ed="#P" n="9"/>non negasset habitum conferentem talem 
+            as<lb break="no" ed="#P" n="10"/>sensum esse multo perfectiorem virtutem
+            <lb ed="#P" n="11"/>quam sit scientia naturalis, cum ipse alias
+            <lb ed="#P" n="12"/>dixerit, secundo de Partibus animalium, 
+            ca<lb break="no" ed="#P" n="13"/>pite tertio, melius esse divina utcumque 
+            at<lb break="no" ed="#P" n="14"/>tingere, quam creata perfecte cognoscere.
+            <lb ed="#P" n="15"/>Reductive tamen, sicut Doctores melius 
+            lo<lb break="no" ed="#P" n="16"/>quentes, Theologiam vocant scientiam, vel
+            <lb ed="#P" n="17"/>potius sapientiam, et. ita comprehendunt 
+            il<lb break="no" ed="#P" n="18"/>lam sub genere virtutis intellectualis , ita 
+            fi<lb break="no" ed="#P" n="19"/>des potest reduci ad intellectum propter suum
+            <lb ed="#P" n="20"/>simplicem assentiendi modum in superioribus
+            <lb ed="#P" n="21"/>explicatum.
+          </p>
+          <p xml:id="szthvi-a49190-d1e1026">
+            <lb ed="#P" n="22"/>10. Assertio quarta - fides est virtus 
+            Theo<lb break="no" ed="#P" n="23"/>logica. —Dico quarto : fides est una ex 
+            virtuti<lb break="no" ed="#P" n="24"/>bus Theologicis, quae assertio intelligitur de
+            <lb ed="#P" n="25"/>fide ratione habitus intellectualis, secundum
+            <lb ed="#P" n="26"/>se spectati; et ita est communis Doctorum, ac
+            <lb ed="#P" n="27"/>sumitur ex Paulo 1 ad Corinth. 13, ubi 
+            spe<lb break="no" ed="#P" n="28"/>cialiter dicit : IVunc manent tria hec, fides,
+            <lb ed="#P" n="29"/>spes et charitas ; ex quo modo loquendi 
+            colli<lb break="no" ed="#P" n="30"/>gimus, inter illa tria esse specialem 
+            conve<lb break="no" ed="#P" n="31"/>nientiam in ratione virtutis, quae explicatur
+            <lb ed="#P" n="32"/>nomine virtutis Theologalis, et consistit in
+            <lb ed="#P" n="33"/>hoc quod talis virtus attingit Deum immediate,
+            <lb ed="#P" n="34"/>et tanquam objectum materiale, et tanquam
+            <lb ed="#P" n="35"/>rationem objecti, et modo etiam divino et 
+            su<lb break="no" ed="#P" n="36"/>pernaturali; omnia autem haec in fide 
+            reperi<lb break="no" ed="#P" n="37"/>mus; nam et credit Deum, et Deo, et 
+            superna<lb break="no" ed="#P" n="38"/>turali modo, id est, certitudine quadam 
+            divi<lb break="no" ed="#P" n="39"/>na; est ergo Theologica virtus. Plura de hac
+            <lb ed="#P" n="40"/>assertione videri possunt, lib. 6 de Grat., 
+            ca<lb break="no" ed="#P" n="41"/>pit. 8. Neque in hoc est aliqua difticultas:
+            <lb ed="#P" n="42"/>solet autem quaeri quem ordinem servet haec
+            <lb ed="#P" n="43"/>virtus ad reliquas, quod divus Thomas 
+            quaesi<lb break="no" ed="#P" n="44"/>vit secunda secundae, quaest. 4, articulo 7, sub
+            <lb ed="#P" n="45"/>his terminis : An sit prima virtutum ? 
+            Brevi<lb break="no" ed="#P" n="46"/>ter autem dico, si comparatio fiat in 
+            perfec<lb break="no" ed="#P" n="47"/>tione, fidem non esse primam; nam excedit
+            <lb ed="#P" n="48"/>charitas, teste Paulo, loco citato, quamvis de
+            <lb ed="#P" n="49"/>modo excessus sit controversia, quae non 
+            po<lb break="no" ed="#P" n="50"/>test hic dirimi, nondum intellecta perfectione
+            <lb ed="#P" n="51"/>charitatis ; dirimetur autem tractat. 3, 
+            dispu<lb break="no" ed="#P" n="52"/>tat. 3, sect. 1, a num. 3. Et eadcem ratione
+            <lb ed="#P" n="53"/>omitto comparationem inter fidem et spem,
+            <lb ed="#P" n="54"/>quae videatur tract. sequenti, disputat. 1, 
+            sec<lb break="no" ed="#P" n="55"/>tion. 6, a numer. 4. Respectu autem aliarum
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>virtutum, non est dubium quin fides 
+            praece<lb break="no" ed="#P" n="57"/>dat ratione sui generis et objecti. Si autem
+            <lb ed="#P" n="58"/>comparatio fiat ordine generationis, sic fides
+            <lb ed="#P" n="59"/>est prima respectu omnium virtutum , quae
+            <lb ed="#P" n="60"/>ab ipsa omnino distinguuntur, quia est 
+            fun<lb break="no" ed="#P" n="61"/>damentum justitiae, ut saepe dictum est ; dico
+            <lb ed="#P" n="62"/>autem, que ab illa omnino distinguuntur ,
+            <lb ed="#P" n="63"/>quia si compararetur ad suum habitum 
+            vo<lb break="no" ed="#P" n="64"/>Iuntatis, de quo statim dicemus, potest 
+            ba<lb break="no" ed="#P" n="65"/>bere dubitationem, quam sectione etiam 
+            se<lb break="no" ed="#P" n="66"/>quenti expediemus.
+          </p>
+        </div>
+        <div xml:id="szthvi-a49190-Dd1e1130">
+          <head xml:id="szthvi-a49190-Hd1e1132">Sectio 2</head>
+          <head xml:id="szthvi-a49190-Hd1e1134" type="question-title">Utrum fides requirat in voluntate proprium habitum, et quis vel qualis ille sit</head>
+          <p xml:id="szthvi-a49190-d1e1137">
+            <lb ed="#P" n="67"/>SECTIO II.
+            <lb ed="#P" n="68"/>Utrum fides requirat in voluntate proprium
+            <lb ed="#P" n="69"/>habitum, et quis vel qualis ille sit.
+          </p>
+          <p xml:id="szthvi-a49190-d1e1146">
+            <lb ed="#P" n="70"/>1. Prima opinio negans talem habitum 
+            pro<lb break="no" ed="#P" n="71"/>pter ipsam fidem. — Fundamentum. — 
+            Alte<lb break="no" ed="#P" n="72"/>rum fundamentum .— Circa fundamentum 
+            hu<lb break="no" ed="#P" n="73"/>jus quaestionis aliqui Doctores negant dari in
+            <lb ed="#P" n="74"/>voluntate habitum infusum ad credendum,
+            <lb ed="#P" n="75"/>seu propter ipsam fidem ; ita tenuit Scotus in
+            <lb ed="#P" n="76"/>3, d. 25, q. 2. Fundatur, quia sufficit habitus
+            <lb ed="#P" n="77"/>in potentia eliciente actum fidei, quia ille 
+            so<lb break="no" ed="#P" n="78"/>lus est principium physicum, et per se talis
+            <lb ed="#P" n="79"/>actus ; lvoluntas autem solum est causa 
+            mo<lb break="no" ed="#P" n="80"/>vens, et quasi per accidens, et ideo non eget
+            <lb ed="#P" n="81"/>habituali perfectione. Eamdem sententiam 
+            te<lb break="no" ed="#P" n="82"/>nuit Henric., Quodlib. 5, q. 21. Et addit pro
+            <lb ed="#P" n="83"/>fundamento, quod intellectus informatus 
+            ha<lb break="no" ed="#P" n="84"/>bitu fidei est per se sufticiens principium 
+            ac<lb break="no" ed="#P" n="85"/>tus, et determinans intellectum, etiam sine
+            <lb ed="#P" n="86"/>positiva dependentia a motione voluntatis ,
+            <lb ed="#P" n="87"/>quia satis est ut non contradicat ; ad quod
+            <lb ed="#P" n="88"/>non indiget habitu. Non abest ab hac 
+            senten<lb break="no" ed="#P" n="89"/>tia Vasquez, 3p., q. 7, in commentario art. 3,
+            <lb ed="#P" n="90"/>dum nullum peculiarem habitum in hac re
+            <lb ed="#P" n="91"/>agnoscit.
+          </p>
+          <p xml:id="szthvi-a49190-d1e1196">
+            <lb ed="#P" n="92"/>2. Secunda opinio Cajetani. requirens 
+            haba<lb break="no" ed="#P" n="93"/>tum charitatis ad fidem formatam. —SSecunda
+            <lb ed="#P" n="94"/>sententia est Cajetani , secunda secunda,
+            <lb ed="#P" n="95"/>quaest. 4, artic. 2, qui dicit, ad perfectionem
+            <lb ed="#P" n="96"/>fidei requiri habitum aliquem in voluntate;
+            <lb ed="#P" n="97"/>declarat autem hoc esse intelligendum de 
+            per<lb break="no" ed="#P" n="98"/>fectione fidei formatae, non de perfectione 
+            fi<lb break="no" ed="#P" n="99"/>dei secundum se ; unde addit illum habitum
+            <lb ed="#P" n="100"/>non esse distinctum a charitate, et 
+            consequen<lb break="no" ed="#P" n="101"/>ter negat fidem secundum se, seu informem,
+            <lb ed="#P" n="102"/>postulare habitum aliquem in voluntate; quae
+            <lb ed="#P" n="103"/>sententia etiam placuit quibusdam 
+            posteriori<lb break="no" ed="#P" n="104"/>bus Thomistis ; et quidem, si attente 
+            specte<lb break="no" ed="#P" n="105"/>tur, non est diversa ab opinione Scoti et 
+            Hen<lb break="no" ed="#P" n="106"/>ritici ; nam Henricus expresse fatetur fidem
+            <pb ed="#P" n="208"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>formatam, seu omnino perfectam in ordinem
+            <lb ed="#P" n="2"/>ad finem ultimum, postulare consortium 
+            cha<lb break="no" ed="#P" n="3"/>ritatis, neque id negaret Scotus ; nam est 
+            per<lb break="no" ed="#P" n="4"/>fecte evidens, ut sectione sequenti 
+            declarabi<lb break="no" ed="#P" n="5"/>mus. In altera autem parte negante habitum
+            <lb ed="#P" n="6"/>voluntatis ad fidem secundum se, convenit
+            <lb ed="#P" n="7"/>Cajetanus cum Scoto; et Cajetanus ipse 
+            nul<lb break="no" ed="#P" n="8"/>Ium adducit fundamentum, praeter argumenta
+            <lb ed="#P" n="9"/>Scoti, quae dissolvit ac si facta essent contra
+            <lb ed="#P" n="10"/>necessitatem habitus voluntatis ad fidem 
+            for<lb break="no" ed="#P" n="11"/>matam, quod Scotus non cogitavit, nam 
+            intel<lb break="no" ed="#P" n="12"/>lexit D. Thomam de fide secundum se, et 
+            me<lb break="no" ed="#P" n="13"/>lius quidem quam Cajetanus, qui D. Thomam
+            <lb ed="#P" n="14"/>exposuit de fide formata.
+          </p>
+          <p xml:id="szthvi-a49190-d1e1267">
+            <lb ed="#P" n="15"/>3. Assertio prima affirmans : requiritur 
+            ha<lb break="no" ed="#P" n="16"/>bDitus in voluntate etiam ad fidam informem.
+            <lb ed="#P" n="17"/>Dico autem primo: ad habitualem fidem, etiam
+            <lb ed="#P" n="18"/>informem , perfectam autem in ordine ad
+            <lb ed="#P" n="19"/>suum actum et cbjectum, necessarius est 
+            spe<lb break="no" ed="#P" n="20"/>cialis habitus voluntatis. Ita tenent Medina,
+            <lb ed="#P" n="21"/>libro 4 de Recta in Deum fide, capite 2; et
+            <lb ed="#P" n="22"/>Molin., in Concord., q. 14 disputat. 8, S Hic
+            <lb ed="#P" n="23"/>etium breviter. Et sine dubio est expressa 
+            sen<lb break="no" ed="#P" n="24"/>tentia divi Thomae, dicta quaest. 4, art. 2, in
+            <lb ed="#P" n="25"/>corpore, et ad secundum ; nam ibi ad fidem
+            <lb ed="#P" n="26"/>requirit habitum voluntatis, non propter 
+            or<lb break="no" ed="#P" n="27"/>dinem ad finem ultimum, sed propter 
+            intrin<lb break="no" ed="#P" n="28"/>secam conditionem, quae est esse voluntariam,
+            <lb ed="#P" n="29"/>ut supra vidimus. Hoc etiam ostendit ratio
+            <lb ed="#P" n="30"/>divi Thomae, quae talis est: Quando actus per
+            <lb ed="#P" n="31"/>se pendet a duabus potentiis, una eliciente,
+            <lb ed="#P" n="32"/>altera imperante , necessarius est habitus in
+            <lb ed="#P" n="33"/>utraque potentia, ut subjectum sit integre 
+            dis<lb break="no" ed="#P" n="34"/>positum habitualiter, seu intrinsece 
+            constitu<lb break="no" ed="#P" n="35"/>tum in actu primo ad exercendum talem 
+            ac<lb break="no" ed="#P" n="36"/>tum ; sed actus fidei ita pendet ab intellectu
+            <lb ed="#P" n="37"/>et voluntate intrinsece, et ex vi suae speciei;
+            <lb ed="#P" n="38"/>ergo praeter habitum intellectus, requirit 
+            ha<lb break="no" ed="#P" n="39"/>bitum in voluntate. Consequentia evidens est,
+            <lb ed="#P" n="40"/>quia habitualis fides est integra dispositio, et
+            <lb ed="#P" n="41"/>actus primus ad credendum in actu secundo;
+            <lb ed="#P" n="42"/>minor vero in superioribus probata est, disp.
+            <lb ed="#P" n="43"/>6, sect. 6; major autem videtur ex terminis
+            <lb ed="#P" n="44"/>evidens, quia si causa integra coalescat ex 
+            dua<lb break="no" ed="#P" n="45"/>bus potentiis, et altera tantum habitualiter
+            <lb ed="#P" n="46"/>perficiatur, non potest causa adaequata esse
+            <lb ed="#P" n="47"/>perfecte disposita, et ita effectus ex altera parte
+            <lb ed="#P" n="48"/>claudicabit. Declaratur manifestius, quia, 
+            li<lb break="no" ed="#P" n="49"/>cet voluntas ad actum credendi comparetur ut
+            <lb ed="#P" n="50"/>potentia imperans, non potest tamen 
+            impe<lb break="no" ed="#P" n="51"/>rare, nisi eliciendo actum volendi credere;
+            <lb ed="#P" n="52"/>ille autem actus supernaturalis est ; ergo ut
+            <lb ed="#P" n="53"/>connaturaliter fiat, requirit proprium 
+            habi<lb break="no" ed="#P" n="54"/>tum ejusdem potentiae, non minus quam 
+            cae<lb break="no" ed="#P" n="55"/>teri actus supernaturales voluntatis ; quae ra-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>tio sine dubio convincit et solvit 
+            fundamen<lb break="no" ed="#P" n="57"/>tum contrariae sententiae, quia hic non 
+            requi<lb break="no" ed="#P" n="58"/>ritur habitus voluntatis immediate, nisi 
+            pro<lb break="no" ed="#P" n="59"/>pter actum elicitum ab illa, qui actus non
+            <lb ed="#P" n="60"/>solum necessarius est ad primum actum fidei,
+            <lb ed="#P" n="61"/>seu in eo instanti in quo infunditur fides, sed
+            <lb ed="#P" n="62"/>etiam postea ad exercendos studiose et 
+            con<lb break="no" ed="#P" n="63"/>stanter in suo ordine actus fidei.
+          </p>
+          <p xml:id="szthvi-a49190-d1e1378">
+            <lb ed="#P" n="64"/>4. Assertio secunda : praedictius habitus
+            <lb ed="#P" n="65"/>est virtus morais. — Dico secundo : hic 
+            ha<lb break="no" ed="#P" n="66"/>bitus voluntatis virtus est moralis, seu, latius
+            <lb ed="#P" n="67"/>loquendo, appetitiva, unde simpliciter est 
+            vir<lb break="no" ed="#P" n="68"/>tus, quoad essentiam suam. Hanc assertionem
+            <lb ed="#P" n="69"/>attigi, partim lib. 6 de Gratia, capite $,
+            <lb ed="#P" n="70"/>num. 17, partim lib. 11, cap. 5, a num. 10.
+            <lb ed="#P" n="71"/>Et sumo ex divo Thoma 1. 2, quaest. 56, art. 3,
+            <lb ed="#P" n="72"/>ubi dicit fidem, ut praecise spectatam in 
+            intel<lb break="no" ed="#P" n="73"/>lectu, esse virtutem secundum quid, id est 
+            in<lb break="no" ed="#P" n="74"/>tellectualem ; ut conjunctam autem voluntati,
+            <lb ed="#P" n="75"/>a qua pendet, esse virtutem simpliciter; ergo
+            <lb ed="#P" n="76"/>supponit ipsum habitum voluntatis esse 
+            vir<lb break="no" ed="#P" n="77"/>tutem simpliciter, nam propter quod 
+            unum<lb break="no" ed="#P" n="78"/>quodque tale, et illud magis. Loquitur 
+            au<lb break="no" ed="#P" n="79"/>tem de voluntate per se necessaria ad 
+            fi<lb break="no" ed="#P" n="80"/>dem , ut sic, et copsequenter de isto 
+            ha<lb break="no" ed="#P" n="81"/>bitu. Ratione etiam probatur facile ex 
+            dic<lb break="no" ed="#P" n="82"/>tis, quia imprimis habitus est per se 
+            infu<lb break="no" ed="#P" n="83"/>sus; nam est proportionatus actui propter
+            <lb ed="#P" n="84"/>quem eliciendum datur: ostendimus autcm
+            <lb ed="#P" n="85"/>supra, disp. 6, sect. 5, voluntatem credendi
+            <lb ed="#P" n="86"/>esse supernaturalem in substantia. Unde fit
+            <lb ed="#P" n="87"/>etiam ut talis habitus sit principium per se
+            <lb ed="#P" n="88"/>actus honesti et liberi, et propter motivum
+            <lb ed="#P" n="89"/>horestum ; nam haec omnia de voluntate 
+            cre<lb break="no" ed="#P" n="90"/>dendi determinata ibi sunt; sed alii habitus
+            <lb ed="#P" n="91"/>voluntatis non sunt virtutes simpliciter, nisi
+            <lb ed="#P" n="92"/>quia sunt principia talium actuum; ergo etiam
+            <lb ed="#P" n="93"/>hic habitus est virtus simpliciter, et per se 
+            in<lb break="no" ed="#P" n="94"/>fusa. Dixi autem hoc esse intelligendum 
+            se<lb break="no" ed="#P" n="95"/>cundum essentiam virtutis; nam secundum
+            <lb ed="#P" n="96"/>statum, vel relationem ad ultimum finem ali
+            <lb ed="#P" n="97"/>ter loquendum est, secundum D. Thomam,
+            <lb ed="#P" n="98"/>ut sectiene sequenti explicabo.
+          </p>
+          <p xml:id="szthvi-a49190-d1e1456">
+            <lb ed="#P" n="99"/>5. Assertio tertia : predictus habitus 
+            distin<lb break="no" ed="#P" n="100"/>guitur a charitate. — Dico tertio: haec virtus
+            <lb ed="#P" n="101"/>non est charitas, sed res et species ab illa 
+            dis<lb break="no" ed="#P" n="102"/>tincta. Haec est contra Cajetanum et nonnullos
+            <lb ed="#P" n="103"/>Thomistas, qui illum sequuntur. Et probatur
+            <lb ed="#P" n="104"/>ex dictis, primo, quia charitas non est per se,
+            <lb ed="#P" n="105"/>et ex intrinseca necessitate fidei, conjuncta
+            <lb ed="#P" n="106"/>cum habitu fidei, id est, ex natura rei requisita
+            <lb ed="#P" n="107"/>ad eliciendum connaturali modo integrum 
+            ac<lb break="no" ed="#P" n="108"/>tum fidei, ut moralis est et humanus; ergo est
+            <lb ed="#P" n="109"/>virtus distincta. Declaratur praeterea ex primo
+            <lb ed="#P" n="110"/>actu crcdendi, nam pia affectio quae ad illum
+            <pb ed="#P" n="209"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>praecedit, non est actus charitatis, ut recte 
+            no<lb break="no" ed="#P" n="2"/>tavit D. Thomas, dicta quaestione quarta, 
+            arti<lb break="no" ed="#P" n="3"/>culo septimo, ad quintum. Quod non solum
+            <lb ed="#P" n="4"/>est verum actualiter, quia tunc non elicitur a
+            <lb ed="#P" n="5"/>charitate, eo quod praecedit illam, sed etiam
+            <lb ed="#P" n="6"/>aptitudinaliter, ut ita rem explicem, quia non
+            <lb ed="#P" n="7"/>est actus natus elici a charitate, tum quia est
+            <lb ed="#P" n="8"/>quasi remota dispositio ad illam ; tum 
+            maxi<lb break="no" ed="#P" n="9"/>me quia non est amor Dei, nec propter 
+            bonita<lb break="no" ed="#P" n="10"/>tem Dei immediate. Unde sumitur ratio a
+            <lb ed="#P" n="11"/>priori, quia motivum hujus virtutis est longe
+            <lb ed="#P" n="12"/>diversum a motivo charitatis, nam charitas
+            <lb ed="#P" n="13"/>habet pro objecto formali ipsam Dei 
+            bonita<lb break="no" ed="#P" n="14"/>tem ; haec autem virtus habet pro objecto 
+            for<lb break="no" ed="#P" n="15"/>mali honestatem, quae in credendo invenitur:
+            <lb ed="#P" n="16"/>motiva autem formaiia sunt, quae distinguunt
+            <lb ed="#P" n="17"/>habitus et virtutes; neque major ratio 
+            distin<lb break="no" ed="#P" n="18"/>cionis invenitur inter religionem, verbi 
+            gra<lb break="no" ed="#P" n="19"/>tia, et charitatem, quam inter hanc virtutem
+            <lb ed="#P" n="20"/>et eamdem charitatem.
+          </p>
+          <p xml:id="szthvi-a49190-d1e1532">
+            <lb ed="#P" n="21"/>6. Corellarium prinum.— Secundum.— 
+            Ter<lb break="no" ed="#P" n="22"/>tium.—Et ex hac assertione intelligitur primo,
+            <lb ed="#P" n="23"/>quamv;s actus fidei in homine jnusto possit fieri
+            <lb ed="#P" n="24"/>ex affectu charitatis, iamen charitatem non
+            <lb ed="#P" n="25"/>esse proprium habitum elicientem affectum 
+            fi<lb break="no" ed="#P" n="26"/>dei, propter honestatem ejus; sed solum esse
+            <lb ed="#P" n="27"/>imperantem, sicut potest actum religionis vel
+            <lb ed="#P" n="28"/>aliarum virtutum imperare, et ita 
+            perfec<lb break="no" ed="#P" n="29"/>tio illa, quam addit fidei hoc imperium 
+            chari<lb break="no" ed="#P" n="30"/>tatis, extrinseca illi est, tam quoad 
+            certitudi<lb break="no" ed="#P" n="31"/>nem, quam quoad honestat.m fidei; et ideo
+            <lb ed="#P" n="32"/>habitus piae affectionis, de qua tractamus,
+            <lb ed="#P" n="33"/>propinquius et magis intrinsece se habet ad
+            <lb ed="#P" n="34"/>fidem, quam charitas. Secundo, sequitur ex
+            <lb ed="#P" n="35"/>dietis hanc virtutem non esse Theologalem:
+            <lb ed="#P" n="36"/>probatur, quia non est charitas, ut ostendi,
+            <lb ed="#P" n="37"/>et a fortiori non est spes, ut per se patet, et
+            <lb ed="#P" n="38"/>omnes fatentur : distinguitur etiam ab habitu
+            <lb ed="#P" n="39"/>fidei, qui est in intellectu, quem diximus esse
+            <lb ed="#P" n="40"/>propriam virtutem Theologalem ; ergo non est
+            <lb ed="#P" n="41"/>Theologalis virtus. Ratio vero a priori est,
+            <lb ed="#P" n="42"/>quia haec virtus non attingit Deum immediate,
+            <lb ed="#P" n="43"/>quod est necessarium ad virtutem 
+            Theologa<lb break="no" ed="#P" n="44"/>lem; sed immediate versatur in materia 
+            crea<lb break="no" ed="#P" n="45"/>ta, scilicet circa actum credendi, qui creatus
+            <lb ed="#P" n="46"/>cst, licet per illum attingat mediate Deum,
+            <lb ed="#P" n="47"/>quod non sufhicit, sicut alias late declaravimus
+            <lb ed="#P" n="48"/>in virtute religionis, lib. 3, cap. 2. Unde 
+            tan<lb break="no" ed="#P" n="49"/>dem concluditur hunc habitum esse quamdam
+            <lb ed="#P" n="50"/>virtutem moralem, sicut est religio; atque
+            <lb ed="#P" n="51"/>adeo in quo sensu in secunda assertione illam
+            <lb ed="#P" n="52"/>dixerimus moralem, nimirum, ut a Theo^
+            o<lb break="no" ed="#P" n="53"/>gali distinguitur.
+          </p>
+          <p xml:id="szthvi-a49190-d1e1606">
+            <lb ed="#P" n="54"/>7. Praedictam virtutem quidam putant esse
+            <lb ed="#P" n="55"/>obedientium. — Rejiciuntur si intelligant spe-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>cialem. — Hinc vero statim oritur dubitauio,
+            <lb ed="#P" n="57"/>quaenam virtus moralis haec sit. Quidam 
+            di<lb break="no" ed="#P" n="58"/>cunt esse virtutem obedientiae, quia per 
+            affec<lb break="no" ed="#P" n="59"/>tum fidei subjicitur intellectus ad 
+            obeuien<lb break="no" ed="#P" n="60"/>dum Deo; virtus autem obedientiae 
+            complec<lb break="no" ed="#P" n="61"/>titur omnem materiam, in qua obeditur Deo,
+            <lb ed="#P" n="62"/>qualis maxime est materia fidei. juxta illud ad
+            <lb ed="#P" n="63"/>Rom. 1: Ad obediendun fidei in omnibus 
+            gen<lb break="no" ed="#P" n="64"/>libus, et citatur pro hac sententia D. Thomas,
+            <lb ed="#P" n="65"/>3 part., quaest. 7, articut. 2. Sed haec 
+            senten<lb break="no" ed="#P" n="66"/>tia vera non est, quia duplex est obedientia
+            <lb ed="#P" n="67"/>unua materialis, quae exercetur in observatione
+            <lb ed="#P" n="68"/>omnium praeceptorum ; et hoc modo sine 
+            du<lb break="no" ed="#P" n="69"/>bio habet locum etiam in fide; et ita loquitur
+            <lb ed="#P" n="70"/>Paulas supra, quem allegat et imitatur D.
+            <lb ed="#P" n="71"/>Thomas. Haec vero obedientia non est 
+            spe<lb break="no" ed="#P" n="72"/>cialis virtus, et ideo sicut in aliis materiis
+            <lb ed="#P" n="73"/>moralibus non excludit necessitatem 
+            specia<lb break="no" ed="#P" n="74"/>lium virtutum, ita neque in praesenti. Alia
+            <lb ed="#P" n="75"/>est obedientia formalis , quae intendit 
+            obser<lb break="no" ed="#P" n="76"/>vationem praecepti, praecise quia praeceptum
+            <lb ed="#P" n="77"/>est , et veiuti ad reddendum jus suum 
+            su<lb break="no" ed="#P" n="78"/>periori, et haec est specialis virtus 
+            obedien<lb break="no" ed="#P" n="79"/>tiae, cum qua non potest hic habitus tidei 
+            co<lb break="no" ed="#P" n="80"/>incidere , quia motivum ejus non est ratio
+            <lb ed="#P" n="81"/>praecepti, sed sola honestas, quae invenitur in
+            <lb ed="#P" n="82"/>credendo primae veritati, quae est ratio 
+            for<lb break="no" ed="#P" n="83"/>malis longe diversa, ut attingit D. Thomas 2.
+            <lb ed="#P" n="84"/>2, quaest. 4, artic. 7, ad 3; et ideo non minus
+            <lb ed="#P" n="85"/>distinguitur hic habitus a virtute speciali 
+            obe<lb break="no" ed="#P" n="86"/>dientiae, quam aliae virtutes morales 
+            particu<lb break="no" ed="#P" n="87"/>lares. Unde etiam immerito recentiores aliqui
+            <lb ed="#P" n="88"/>pradictam sententiam de obedientia 
+            attri<lb break="no" ed="#P" n="89"/>buunt Medinae, citat. cap. 29, cum solum de
+            <lb ed="#P" n="90"/>generali obedientia ibi loquatur, et aperte 
+            vo<lb break="no" ed="#P" n="91"/>cet imperium et animi pietatem.
+          </p>
+          <p xml:id="szthvi-a49190-d1e1693">
+            <lb ed="#P" n="92"/>8. Alii putant esse religionem. — Non 
+            pla<lb break="no" ed="#P" n="93"/>cent. — Alii tribuunt hunc effectum credendi
+            <lb ed="#P" n="94"/>religioni, et ita dicunt hunc habitum esse 
+            ip<lb break="no" ed="#P" n="95"/>sam virtutem religionis prout circa talem 
+            ma<lb break="no" ed="#P" n="96"/>teriam versatur: sicut Cajetanus alias dixit
+            <lb ed="#P" n="97"/>poenitentiam esse ipsam religionem. Et 
+            fun<lb break="no" ed="#P" n="98"/>damentum potest esse idem, quia religio 
+            red<lb break="no" ed="#P" n="99"/>dit Deo omne debitum; inter illa autem, quae
+            <lb ed="#P" n="100"/>Deo debemus, unum est fides. Item quia
+            <lb ed="#P" n="101"/>credendo etiam colimus Deum, et religio est
+            <lb ed="#P" n="102"/>virtus quae movet ad colendum Deum. 
+            Ve<lb break="no" ed="#P" n="103"/>rumtamen neque hoc placet, ut citato cap. 3
+            <lb ed="#P" n="104"/>de Relig., num. 3, attigi, quia proprius 
+            affec<lb break="no" ed="#P" n="105"/>tus fidei non est formalis aftectus colendi
+            <lb ed="#P" n="106"/>Deum, sed solum assentiendi testimonio 
+            divi<lb break="no" ed="#P" n="107"/>no propter honestatem, quae in tali fide 
+            repe<lb break="no" ed="#P" n="108"/>ritur. Unde haec virtus non attendit, ut sic
+            <lb ed="#P" n="109"/>dicam, rationem cultus et honoris divini,
+            <lb ed="#P" n="110"/>quod est officiuin religionis, neque etiam at-
+            <pb ed="#P" n="210"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>tendit rationem debiti quasi personalis, quod
+            <lb ed="#P" n="2"/>magis pertinet ad justitiam, sed attendit, ut
+            <lb ed="#P" n="3"/>saepe dixi, honestatem talis materiae, quae est
+            <lb ed="#P" n="4"/>fides, quatenus per se est consentaueum 
+            ra<lb break="no" ed="#P" n="5"/>tioni, dare assensum his quae proponuntur
+            <lb ed="#P" n="6"/>sufficienter, ut a Deo testificata, quae est 
+            ra<lb break="no" ed="#P" n="7"/>tio formalis virtutis longe diversa.
+          </p>
+          <p xml:id="szthvi-a49190-d1e1757">
+            <lb ed="#P" n="8"/>9. Alii colunt esse studiositatem. — 
+            Refel<lb break="no" ed="#P" n="9"/>luntur. — Aliter dici potest hunc affectum
+            <lb ed="#P" n="10"/>pertinere ad virtutem studiositatis, quam 
+            po<lb break="no" ed="#P" n="11"/>suit D. Thomas 2. 2, quaest. 166. Et inter alia
+            <lb ed="#P" n="12"/>quae ihi tribuit, unum est bene disponere 
+            af<lb break="no" ed="#P" n="13"/>fectum ad recte movendum intellectum ad
+            <lb ed="#P" n="14"/>credendum, ut specialiter dicit artic. 2, ad 3.
+            <lb ed="#P" n="15"/>Cum ergo hic habitus bene disponat 
+            volun<lb break="no" ed="#P" n="16"/>tatem ad movendum intelectum recte in 
+            ma<lb break="no" ed="#P" n="17"/>teria fidei, videtur constitui sub studiositate,
+            <lb ed="#P" n="18"/>et hunc dicendi modum amplexi sunt Valent.,
+            <lb ed="#P" n="19"/>tom. 3, disputat. 1, quaest. 1, punct. 4, 8 
+            Sit<lb break="no" ed="#P" n="20"/>ne fides, versic. Ad tertium, et quaest. 4, punct.
+            <lb ed="#P" n="21"/>9; Salas, 1. 2, tom. 2, tract. 11, disput. 6,
+            <lb ed="#P" n="22"/>sect. 6, in fine; et alii recentiores. Si quis
+            <lb ed="#P" n="23"/>autem attente consideret objectum illius 
+            vir<lb break="no" ed="#P" n="24"/>tutis, et rationem ponendi illam, facile 
+            intelii<lb break="no" ed="#P" n="25"/>cet hane, de qua tractamus, esse al iorem 
+            vir<lb break="no" ed="#P" n="26"/>tutem ; nam studiositas posita est ad 
+            mode<lb break="no" ed="#P" n="27"/>randum affectum inter nimiam curiositatem
+            <lb ed="#P" n="28"/>et negligentiam seu tarditatem in affectu
+            <lb ed="#P" n="29"/>sciendi et cognoscendi res veras. Unde ad 
+            il<lb break="no" ed="#P" n="30"/>lam magis pertinet movere intellectum ad
+            <lb ed="#P" n="31"/>exercitium inquirendi et studendi, quam 
+            mo<lb break="no" ed="#P" n="32"/>vere ad specificationem et determinationem
+            <lb ed="#P" n="33"/>actus in assentiendo. Haec autem virtus fidei
+            <lb ed="#P" n="34"/>principaliter ponitur ad movendum 
+            intellec<lb break="no" ed="#P" n="35"/>tum quoad specificationem et 
+            determinatio<lb break="no" ed="#P" n="36"/>nem assensus; ergo est virtus distincta ; quod
+            <lb ed="#P" n="37"/>declaratur a contrario, nam peccatum haeresis
+            <lb ed="#P" n="38"/>est moraliter contrarium huic virtuti, et non
+            <lb ed="#P" n="39"/>potest proprie dici contrarium studiositaii ,
+            <lb ed="#P" n="40"/>quia non est vitium curiositatis aut 
+            negligen<lb break="no" ed="#P" n="41"/>tize, sed est duritia et pertinacia cordis; ergo
+            <lb ed="#P" n="42"/>virtus haec diversae rationis est ab 
+            studiosita<lb break="no" ed="#P" n="43"/>te. Unde haec euam virtus inclinat non solum
+            <lb ed="#P" n="44"/>ad internum assensum , sed etiam ad fidei
+            <lb ed="#P" n="45"/>confessionem, quod ad studiositatem non 
+            per<lb break="no" ed="#P" n="46"/>tinet.
+          </p>
+          <p xml:id="szthvi-a49190-d1e1844">
+            <lb ed="#P" n="47"/>10. Assertio quarta, statuens esse vartutem
+            <lb ed="#P" n="48"/>moralem ab omnibus aliis distinctam. — Quo
+            <lb ed="#P" n="49"/>nomine censenda haec virtus.—bico ergo quarto
+            <lb ed="#P" n="50"/>ct ultimo, hanc esse specialem virtutem 
+            mo<lb break="no" ed="#P" n="51"/>ralem, ab aliis distinctam. Haec assertio 
+            con<lb break="no" ed="#P" n="52"/>cluditur ex dictis, quasi per sufficientem 
+            enu<lb break="no" ed="#P" n="53"/>merationem, quia haec virtus non est 
+            Theolo<lb break="no" ed="#P" n="54"/>galis, ncque continetur sub aliis moralibus,
+            <lb ed="#P" n="55"/>quia exclusimus illas ad quas maxime reduci
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>posset ; ergo est specialis. Deinde probatur 
+            ra<lb break="no" ed="#P" n="57"/>tione a priori ex objecto suo, quia respicit in
+            <lb ed="#P" n="58"/>illo specialem honestatem ad nullam aliam
+            <lb ed="#P" n="59"/>virtutem pertinentem ; vincit etiam 
+            peculia<lb break="no" ed="#P" n="60"/>rem difficultatem quae est in credendo sicut
+            <lb ed="#P" n="61"/>oportet ; ergo est specialis,et ita explicatum est
+            <lb ed="#P" n="62"/>cujus essentiae et speciel haec virtus in re ipsa
+            <lb ed="#P" n="63"/>sit. $1 autem quaeratur quod nomen habeat,
+            <lb ed="#P" n="64"/>non est in eo multum immutandum : 
+            couve<lb break="no" ed="#P" n="65"/>nienter autem et consentanee ad communem
+            <lb ed="#P" n="66"/>usum potest per antonomasiam dici habitus
+            <lb ed="#P" n="67"/>pie affectionis voluntaus, utique ad res fidei.
+            <lb ed="#P" n="68"/>Aliqui etiam illam vocant specialem 
+            obedien<lb break="no" ed="#P" n="69"/>tiam ad credendum: quod sano modo 
+            intellec<lb break="no" ed="#P" n="70"/>tum potest admitti, ita ut non intelligatur 
+            for<lb break="no" ed="#P" n="71"/>maliter de obedientia ad Deum, ut 
+            praecipien<lb break="no" ed="#P" n="72"/>tem, sed de subjectione et obsequio intellectus
+            <lb ed="#P" n="73"/>ad Deum, ut testificantem. Unde potest etiam
+            <lb ed="#P" n="74"/>convenienter appellari, cirtus captcans, et
+            <lb ed="#P" n="75"/>recte movens inteliectum in obseguium Dei, u
+            <lb ed="#P" n="76"/>videtur sensisse D. Thomas, 3 part., quaest. 7,
+            <lb ed="#P" n="77"/>artic. 2, ad secundum. Denique si quis velit
+            <lb ed="#P" n="78"/>illam studiositatem vocare. sub illa voce 
+            com<lb break="no" ed="#P" n="79"/>prehendens omnem virtutem voluntatis recte
+            <lb ed="#P" n="80"/>moventem intellectum ad usum cognoscendi
+            <lb ed="#P" n="81"/>vel assentiendi, non est cum illo de nomine
+            <lb ed="#P" n="82"/>contendendum, dummodo non neget esse 
+            spe<lb break="no" ed="#P" n="83"/>cialem virtutem infusam, et habentem 
+            pro<lb break="no" ed="#P" n="84"/>priam excellentiam in illo genere.
+          </p>
+          <p xml:id="szthvi-a49190-d1e1931">
+            <lb ed="#P" n="85"/>11. Praedicta virtus non auget numerum 
+            cir<lb break="no" ed="#P" n="86"/>tutum Theologalium. — Hst polissima inter
+            <lb ed="#P" n="87"/>morales. — Solum potest contra hanc 
+            virtu<lb break="no" ed="#P" n="88"/>tem objici, quia sequitur non esse tantum tres
+            <lb ed="#P" n="89"/>habitus in virtutibus Theologalibus, sed 
+            qua<lb break="no" ed="#P" n="90"/>tuor, quod videtur repugnare Paulo dicenti:
+            <lb ed="#P" n="91"/>Nunc autem manent tria hec, 4 ad Cor. 13;
+            <lb ed="#P" n="92"/>respondeo concedendo esse quatuor habitus, in
+            <lb ed="#P" n="93"/>illis tamen tantum esse tres virtutes 
+            Theologa<lb break="no" ed="#P" n="94"/>les, de quibus locutus est Paulus; nam hic
+            <lb ed="#P" n="95"/>habitus non est virtus Theologalis, ut 
+            decla<lb break="no" ed="#P" n="96"/>ravi. Addo etiam fidem, ut dicit virtutem 
+            per<lb break="no" ed="#P" n="97"/>tinentem ad genus moris, sub quo etiam 
+            vir<lb break="no" ed="#P" n="98"/>tutes Theologales comprehenduntur, sic 
+            tan<lb break="no" ed="#P" n="99"/>tum esse unam virtutem quasi moraliter 
+            com<lb break="no" ed="#P" n="100"/>positam ex habitu voluntatis, et intellectus;
+            <lb ed="#P" n="101"/>nam sicut actus credendi est moraliter unus,
+            <lb ed="#P" n="102"/>licet compositus ex affectu et assensu, et in co
+            <lb ed="#P" n="103"/>tantum est una moralis bonitas et formalis 
+            ho<lb break="no" ed="#P" n="104"/>nestas, sicut etiam est una tantum libertas, ita
+            <lb ed="#P" n="105"/>etiam ex duplici habitu intellectus et 
+            volunta<lb break="no" ed="#P" n="106"/>tis, una virtus simpliciter constituitur; et ita
+            <lb ed="#P" n="107"/>etiam hoc modo et ratione Theologales 
+            virtu<lb break="no" ed="#P" n="108"/>tes etiam in gencre moris tres tantum sunt.
+            <lb ed="#P" n="109"/>Unde etiam obiter intelligi potest habitum
+            <lb ed="#P" n="110"/>hunc piae affectionis, inter virtutes post Theo-
+            <pb ed="#P" n="211"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>logales primum locum tenere, tum ordine 
+            ra<lb break="no" ed="#P" n="2"/>tionis, quia etiam ejus actus prior natura est,
+            <lb ed="#P" n="3"/>ut probavimus; tum etiam ordine 
+            perfectio<lb break="no" ed="#P" n="4"/>nis , ut verosimilius apparet, quia versatur in
+            <lb ed="#P" n="5"/>materia creata digniori et difficiliori caeteris,
+            <lb ed="#P" n="6"/>et per illam attingit Deum nobilissimo modo,
+            <lb ed="#P" n="7"/>et subjiciendo illi supremam hominis 
+            poten<lb break="no" ed="#P" n="8"/>tiam.
+          </p>
+        </div>
+        <div xml:id="szthvi-a49190-Dd1e2013">
+          <head xml:id="szthvi-a49190-Hd1e2015">Sectio 3</head>
+          <head xml:id="szthvi-a49190-Hd1e2017" type="question-title">An per omne peccatum mortale amittatur habitus fidei ; ubi simul de divisione fidei in formatam et informem</head>
+          <p xml:id="szthvi-a49190-d1e2020">
+            <lb ed="#P" n="9"/>SECTIO III
+            <lb ed="#P" n="10"/>An per omne peccatum mortale amittatur 
+            ha<lb break="no" ed="#P" n="11"/>bitus fidei ; ubi simul de divisione fidei in
+            <lb ed="#P" n="12"/>formatam et informem.
+          </p>
+          <p xml:id="szthvi-a49190-d1e2031">
+            <lb ed="#P" n="13"/>1. Partis affirmantis argumentum primum.
+            <lb ed="#P" n="14"/>— Argumentum secundum. — Argumentum
+            <lb ed="#P" n="15"/>tertium. — In sectionibus praecedentibus 
+            ex<lb break="no" ed="#P" n="16"/>plicata est essentia habitus fidei, cum 
+            omni<lb break="no" ed="#P" n="17"/>bus causis, effectibus et proprietatibus illius;
+            <lb ed="#P" n="18"/>solumque supererat aliquid dicendum de 
+            per<lb break="no" ed="#P" n="19"/>sonis in quibus hic habitus reperitur. Hoc 
+            au<lb break="no" ed="#P" n="20"/>tem declarando durationem ejus, 
+            consequen<lb break="no" ed="#P" n="21"/>ter explicabitur; quantum autem hic habitus
+            <lb ed="#P" n="22"/>duret, dicendo de modis quibus corrumpi 
+            po<lb break="no" ed="#P" n="23"/>test, constabit. Igitur habitus fidei corrumpi
+            <lb ed="#P" n="24"/>potest, vel in hac vita, vel in termino ejus, seu
+            <lb ed="#P" n="25"/>post illam; et hi duo modi declarandi a nobis
+            <lb ed="#P" n="26"/>sunt. Circa primum autem supponimus ut 
+            cer<lb break="no" ed="#P" n="27"/>tum, fidei habitum semel infusum, non amitti
+            <lb ed="#P" n="28"/>nisi per peccatum; nam dona Dei sunt sine
+            <lb ed="#P" n="29"/>paenitentia, et ideo, nisi homo ex parte sua
+            <lb ed="#P" n="30"/>illa abjiciat, vel demereatur, non auferuntur,
+            <lb ed="#P" n="31"/>quod maxime verum est de habitibus 
+            pertinen<lb break="no" ed="#P" n="32"/>übus ad justitiam et sanctitatem justitiae. 
+            Su<lb break="no" ed="#P" n="33"/>perest ergo inquirendum, quod propositum
+            <lb ed="#P" n="34"/>est, an quodlibet peccatum mortale sufficiat ad
+            <lb ed="#P" n="35"/>expellendum a nobis habitum fidei. Pars enim
+            <lb ed="#P" n="36"/>affirmans probari potest, primo, quia omne
+            <lb ed="#P" n="37"/>peccatum mortale expellit gratiam; habitus
+            <lb ed="#P" n="38"/>autem fidei pendet a gratia, sicut proprietas a
+            <lb ed="#P" n="39"/>forma; ergo consequenter etiam tollitur 
+            fi<lb break="no" ed="#P" n="40"/>des ; hac enim ratione per omne peccatum,
+            <lb ed="#P" n="41"/>omnes aliae virtutes infusae amittuntur, et ita
+            <lb ed="#P" n="42"/>dixit Paulus, 1 adTimoth. 1: Amittentes 
+            bo<lb break="no" ed="#P" n="43"/>nam conscientiam, circa fidem 
+            naufragave<lb break="no" ed="#P" n="44"/>runt : ergo, etc. Et probatur praeterea, quia
+            <lb ed="#P" n="45"/>ob hanc causam habitus fidei in sua infusione
+            <lb ed="#P" n="46"/>pendet ab habitu gratiae, quia sine illa non 
+            in<lb break="no" ed="#P" n="47"/>funditur, ut sentit Tridentinum, sessione
+            <lb ed="#P" n="48"/>sexta, capite septimo; ergo etiam sine 
+            gra<lb break="no" ed="#P" n="49"/>tia non conservatur. Secundo, potest sumi
+            <lb ed="#P" n="50"/>argumentum ex illo Jacobi 2: Fides sine 
+            ope<lb break="no" ed="#P" n="51"/>ribus mortua est : nam sicut homo mortuus
+            <lb ed="#P" n="52"/>non est verus homo, ita fides mortua non est
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="53"/>vera fides : unde est illud Gregorii, homilia
+            <lb ed="#P" n="54"/>vigesima sexta in Evangelio : Vera fides est,
+            <lb ed="#P" n="55"/>quee in hoc, quod cerbis dicit, mcrilus non 
+            con<lb break="no" ed="#P" n="56"/>tradicit ; ergo post peccatum non manet vera
+            <lb ed="#P" n="57"/>fides, ac subinde neque fides ; quia quod non
+            <lb ed="#P" n="58"/>est verum ens, non est ens. Tertio, 
+            pecca<lb break="no" ed="#P" n="59"/>tum mortale meretur privationem omnium
+            <lb ed="#P" n="60"/>donorum Dei; ergo etiam fidei: antecedcns
+            <lb ed="#P" n="61"/>patet, tum quia est infinitae malitia; tum
+            <lb ed="#P" n="62"/>etiam quia alias per nullum peccatum 
+            amitte<lb break="no" ed="#P" n="63"/>retur,quia non est major ratio de uno quam
+            <lb ed="#P" n="64"/>de alio; nam licet unum videri possit magis
+            <lb ed="#P" n="65"/>contrarium fidei quam aliud, nihilominus alia
+            <lb ed="#P" n="66"/>possunt essc graviora et magis demeritoria.
+          </p>
+          <p xml:id="szthvi-a49190-d1e2153">
+            <lb ed="#P" n="67"/>2 Error haereticorum in praesenti questione.
+            <lb ed="#P" n="68"/>— Quodnam ejus fundamentum, et quo in loco
+            <lb ed="#P" n="69"/>confutetur. — In hoc puncto haeretici hujus
+            <lb ed="#P" n="70"/>temporis simpliciter dicunt fidem amitti per
+            <lb ed="#P" n="71"/>omne peccatum mortale. Intelligunt autem
+            <lb ed="#P" n="72"/>de fide justificante, secundum ipsos, 
+            formali<lb break="no" ed="#P" n="73"/>ter et non tantum fundamentaliter ; quam 
+            di<lb break="no" ed="#P" n="74"/>cunt esse fidem particularem, qua quis credit
+            <lb ed="#P" n="75"/>sibi non imputari peccata, ac subinde se esse
+            <lb ed="#P" n="76"/>justum. Unde etiam loquuntur non de omni
+            <lb ed="#P" n="77"/>peccato, quatenus est transgressio legis 
+            divi<lb break="no" ed="#P" n="78"/>nae, quia si non imputetur, aiunt, non habet
+            <lb ed="#P" n="79"/>vim et efficaciam peccati ; loquuntur ergo de
+            <lb ed="#P" n="80"/>illo quod imputatur ad peccatum, quod solum
+            <lb ed="#P" n="81"/>fit, quando homo non habet fidem de ipsa non
+            <lb ed="#P" n="82"/>imputatione. Et ita facile patet fundamentum
+            <lb ed="#P" n="83"/>hujus erroris, quia ablata illa fide particulari
+            <lb ed="#P" n="84"/>aufertur forma justificans si autem illa 
+            per<lb break="no" ed="#P" n="85"/>severat, etiamsi homo peccet vel male 
+            opere<lb break="no" ed="#P" n="86"/>tur, semper manet forma justificans; ergo
+            <lb ed="#P" n="87"/>per quodlibet peccatum quod imputetur, 
+            amit<lb break="no" ed="#P" n="88"/>titur vera fides. Unde isti consequenter 
+            irri<lb break="no" ed="#P" n="89"/>dent distinctionem fidei in formatam et 
+            infor<lb break="no" ed="#P" n="90"/>mem, ut latius refert Ruardus, articulo 
+            octa<lb break="no" ed="#P" n="91"/>vo, et alii. Verumtamen fundamenta hujus
+            <lb ed="#P" n="92"/>erroris ineptissima sunt, et in materia de 
+            Gra<lb break="no" ed="#P" n="93"/>tia, libro octavo, capite decimo octavo, 
+            suffi<lb break="no" ed="#P" n="94"/>cienter improbata, ubi ostensum est inanem
+            <lb ed="#P" n="95"/>esse illam fidem particularem, cum de propria
+            <lb ed="#P" n="96"/>justitia sine speciali revelatione haberi non
+            <lb ed="#P" n="97"/>possit. Item ostensum est nvllam esse fidem
+            <lb ed="#P" n="98"/>justificantem, nisi fidem dogmatum, et illam
+            <lb ed="#P" n="99"/>non sufficere, neque esse formam, sed 
+            radi<lb break="no" ed="#P" n="100"/>cem justitiae.
+          </p>
+          <p xml:id="szthvi-a49190-d1e2230">
+            <lb ed="#P" n="101"/>3. Assertio de fide, non amitti habitum fidei
+            <lb ed="#P" n="102"/>per quodlibet mortale. — Veritas ergo 
+            Catho<lb break="no" ed="#P" n="103"/>lica est, fidei habitum non amitti per omne
+            <lb ed="#P" n="104"/>peccatum mortale; hanc docui libro 
+            unde<lb break="no" ed="#P" n="105"/>cimo de Gratia, capite quinto, numero 
+            quin<lb break="no" ed="#P" n="106"/>to. Estque de fide definita in Concilio 
+            Triden<lb break="no" ed="#P" n="107"/>tino, sessione sexta, canone decimo octavo,
+            <pb ed="#P" n="212"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ubi, licet non exprimat habitum, sed absolute
+            <lb ed="#P" n="2"/>dicat fidem non amitti, nihilominus tantum
+            <lb ed="#P" n="3"/>de habitu verificari potest ; nam actus 
+            mora<lb break="no" ed="#P" n="4"/>liter loquendo non est, sed potius impeditur
+            <lb ed="#P" n="5"/>dum homo actualiter peccat. Idem sumitur ex
+            <lb ed="#P" n="6"/>illo Jacobi secundo : Fides sine operibus 
+            mor<lb break="no" ed="#P" n="7"/>tua est ; et ex illo prima Corinth. decimo 
+            ter<lb break="no" ed="#P" n="8"/>tio: Si habuero omnem fidem, etc., 
+            charita<lb break="no" ed="#P" n="9"/>tem autem non habeum , uilil mihi prodest,
+            <lb ed="#P" n="10"/>ubi clare supponitur fidem posse esse sine
+            <lb ed="#P" n="11"/>charitate, qued esse non posset si per omne
+            <lb ed="#P" n="12"/>peccatum mortale amitteretur. Unde recte 
+            di<lb break="no" ed="#P" n="13"/>xit Augustinus, primo de Trinitate, capite 
+            de<lb break="no" ed="#P" n="14"/>cimo octavo, fidem sine charitate esse posse,
+            <lb ed="#P" n="15"/>non prodesse ; idem docet, de Fidc et operibus,
+            <lb ed="#P" n="16"/>ca pite decimo quarto, 21 deCivitate Dei, cajite
+            <lb ed="#P" n="17"/>vigesimo sexto, et alii Patres communiter,
+            <lb ed="#P" n="18"/>quos referre non oportet, quia res est clara
+            <lb ed="#P" n="19"/>et vulgaris. Ratio autem est, quia non omne
+            <lb ed="#P" n="20"/>peccatum est contrarium fidei, nec destruit
+            <lb ed="#P" n="21"/>rationem tormalem objecti ejus, ut per se 
+            con<lb break="no" ed="#P" n="22"/>stat; unde fit ut homo in peccato mortali 
+            exis<lb break="no" ed="#P" n="23"/>tens possit credere omnia revelata, et quia
+            <lb ed="#P" n="24"/>revelata sunt, et hanc fidem animo et 
+            propo<lb break="no" ed="#P" n="25"/>sito retinere; ergo et habitu; item potest 
+            spe<lb break="no" ed="#P" n="26"/>rare, poenitere, saltem imperfecte, per 
+            attri<lb break="no" ed="#P" n="27"/>tionem supernaturalem, et potest etiam 
+            ora<lb break="no" ed="#P" n="28"/>re ; at haec non fiunt sine vera fide; ergo 
+            re<lb break="no" ed="#P" n="29"/>tinet illam. Denique contra haereticos, licet 
+            fi<lb break="no" ed="#P" n="30"/>delis , quando peccat , credat sibi imputari
+            <lb ed="#P" n="31"/>peccatum, non ideo amittit fidem ; imo 
+            con<lb break="no" ed="#P" n="32"/>trarium credendo illam amitteret; ergo, 
+            quam<lb break="no" ed="#P" n="33"/>vis ita peccet ut sibi imputetur peccatum, non
+            <lb ed="#P" n="34"/>ideo fidem amittet. Plura contra eosdem 
+            vi<lb break="no" ed="#P" n="35"/>deri possunt libro undecimo de Gratia, capite
+            <lb ed="#P" n="36"/>sexto.
+          </p>
+          <p xml:id="szthvi-a49190-d1e2330">
+            <lb ed="#P" n="37"/>A. Ad primum argumentum in num. 1. —
+            <lb ed="#P" n="38"/>Fidei habitus non solum consercari, sed etiam
+            <lb ed="#P" n="39"/>generari potest sine charitate. — Ad primum
+            <lb ed="#P" n="40"/>argumentum , negamus fidem, quoad 
+            habi<lb break="no" ed="#P" n="41"/>tum , pendere necessario ab habitu gratiae,
+            <lb ed="#P" n="42"/>quia non comparatur ad gratiam tanquam
+            <lb ed="#P" n="43"/>proprietas necessario manans ab illa, in quo
+            <lb ed="#P" n="44"/>differt a charitate, et a virtutibus moralibus
+            <lb ed="#P" n="45"/>et donis infusis, sed comparatur ut 
+            funda<lb break="no" ed="#P" n="46"/>mentum quod potest manere destructo 
+            aedi<lb break="no" ed="#P" n="47"/>ficio. Cum vero Pauvlus dicit , amittendo 
+            bo<lb break="no" ed="#P" n="48"/>naw. conscientium naufragari circa fidem, non
+            <lb ed="#P" n="49"/>ideo dicit quia per omne peccatum contra
+            <lb ed="#P" n="50"/>conscientiam amittatur fides, sed quia 
+            pecca<lb break="no" ed="#P" n="51"/>tum aliquo modo debilitat fidem, quatenus
+            <lb ed="#P" n="52"/>aufert affectum erga Deum, et impedit gratiae
+            <lb ed="#P" n="53"/>influsum : unde fit ut, si peccata 
+            multiplicen<lb break="no" ed="#P" n="54"/>tur , saepe contingat cadere in haeresim, per
+            <lb ed="#P" n="55"/>quam amittatur fides, et hoc est naufragari
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>circa fidem, quod non dixit Paulus contingere
+            <lb ed="#P" n="57"/>omnibus peccatoribus, sed multis, quando
+            <lb ed="#P" n="58"/>majori facilitate et licentia contra 
+            conscien<lb break="no" ed="#P" n="59"/>tiam operantur. Petitur autem in illo 
+            argu<lb break="no" ed="#P" n="60"/>mento, an sit idem dicendum de prima 
+            infu<lb break="no" ed="#P" n="61"/>sione fidei quod de conservatione. Quod est
+            <lb ed="#P" n="62"/>quaerere an fidei habitus interdum infundatur
+            <lb ed="#P" n="63"/>prius tempore, quam habitus gratiae et 
+            chari<lb break="no" ed="#P" n="64"/>tatis; sed hoc dubium tractavi sufficienter in
+            <lb ed="#P" n="65"/>materia de Gratia, libro octavo, capite 
+            vige<lb break="no" ed="#P" n="66"/>simo tertio, a numero undecimo, ubi partem
+            <lb ed="#P" n="67"/>affirmantem tenui, quae nunc etiam vera mihi
+            <lb ed="#P" n="68"/>videtur, cum Cajetano, Soto, et aliis 
+            moder<lb break="no" ed="#P" n="69"/>nis quos ibi retuli, et videtur idem sentire
+            <lb ed="#P" n="70"/>D. Thomas, prima secundae, quaestione 
+            sexa<lb break="no" ed="#P" n="71"/>gesima secunda, articulo quarto, et secunda
+            <lb ed="#P" n="72"/>secundae, quaest. 6 , artic. 3, ad 3, ubt dicit,
+            <lb ed="#P" n="73"/>qui recipit fidem sine charitate non perfecte
+            <lb ed="#P" n="74"/>sanari a culpa, licet sanetur ab errore. Et 
+            ra<lb break="no" ed="#P" n="75"/>tio est, quia ante charitatem potest homo 
+            ha<lb break="no" ed="#P" n="76"/>bere verum actum fidei, ut aperte docet 
+            Tri<lb break="no" ed="#P" n="77"/>dentinum, sess. 6, cap. 1, et sumitur ex Joan.
+            <lb ed="#P" n="78"/>12; actus autem est sufficiens dispositio ad 
+            ha<lb break="no" ed="#P" n="79"/>bitum, qui non petit infundi per modum 
+            pro<lb break="no" ed="#P" n="80"/>prietatis manantis a gratia, ut fides revera
+            <lb ed="#P" n="81"/>non petit; item quia potest recipi Baptismus
+            <lb ed="#P" n="82"/>cum dispositione ad fidem, et non ad char:
+            ta<lb break="no" ed="#P" n="83"/>tem; sacramentum autem dat effectum cui
+            <lb ed="#P" n="84"/>non opponitur obex. Denique quia haereticus
+            <lb ed="#P" n="85"/>conversus ad fidem sine poenitentia 
+            peccato<lb break="no" ed="#P" n="86"/>rum incipit esse vere fidelis, et membrum
+            <lb ed="#P" n="87"/>Ecclesiae; ergo recipit fidem ; hac enim ratione
+            <lb ed="#P" n="88"/>justus peccans non creditur perdere fidem,
+            <lb ed="#P" n="89"/>quia nihilominus manet fidelis et verum 
+            mem<lb break="no" ed="#P" n="90"/>brum Ecclesiae. Quas rationes ideo repeto,
+            <lb ed="#P" n="91"/>quia confirmant assertionem ; et ita 
+            solvi<lb break="no" ed="#P" n="92"/>tur facilius illud argumentum. Quia vero
+            <lb ed="#P" n="93"/>contraria opinio, scilicet, quod habitus fidei
+            <lb ed="#P" n="94"/>in principio non infundatur sine charitate,
+            <lb ed="#P" n="95"/>probabilis est, ideo posset etiam responder:
+            <lb ed="#P" n="96"/>negando consequentiam, et aliquam rationem
+            <lb ed="#P" n="97"/>differentiae constituendo, qualis est ratio 
+            phy<lb break="no" ed="#P" n="98"/>sica, quod plura solent ad generationem 
+            re<lb break="no" ed="#P" n="99"/>quiri quam ad conservationem; vel ratio 
+            mo<lb break="no" ed="#P" n="100"/>ralis, quod difficilius quis privatur acceptis
+            <lb ed="#P" n="101"/>quam recipiendis; vel ratio Theologica, quod
+            <lb ed="#P" n="102"/>Deus non dat salutem spiritualem dimidiatam,
+            <lb ed="#P" n="103"/>et ideo, donec quis se disponat ad integram
+            <lb ed="#P" n="104"/>justitiam, Deus non confert aliquam partem
+            <lb ed="#P" n="105"/>ejus ; tamen, quia est benignior in puniendo,
+            <lb ed="#P" n="106"/>ideo non Semper aufert totam justitiam, quam
+            <lb ed="#P" n="107"/>contulit, usque ad fundamentum ejus, nisi
+            <lb ed="#P" n="108"/>specialis oppositio vel prava dispositio 
+            pec<lb break="no" ed="#P" n="109"/>cantis illud requirat.
+          </p>
+          <p xml:id="szthvi-a49190-d1e2493">
+            <lb ed="#P" n="110"/>5. Expeditur secundum argumentum decla-
+            <pb ed="#P" n="213"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ratione fidei formatae, et informis. — 
+            Secun<lb break="no" ed="#P" n="2"/>dum argumentum petit ut explicemus 
+            dis<lb break="no" ed="#P" n="3"/>tinctionem fidei in mortuam et vivam, seu
+            <lb ed="#P" n="4"/>formatam et informem, quam etiam tradidi
+            <lb ed="#P" n="5"/>citato capite de Gratia, a numero octavo,
+            <lb ed="#P" n="6"/>et docet divus Thomas secunda secunda,
+            <lb ed="#P" n="7"/>quaestione quarta, articulo trigesimo quarto,
+            <lb ed="#P" n="8"/>et sexto, et ibi Cajetanus, et reliqui 
+            exposito<lb break="no" ed="#P" n="9"/>res, et communiter Doctores in 3, distinctione
+            <lb ed="#P" n="10"/>vigesima tertia, et vigesima quarta, et 
+            sum<lb break="no" ed="#P" n="11"/>pserunt ex Augustino locis citatis, et libro de
+            <lb ed="#P" n="12"/>Cognitione verae vitae, capite trigesimo 
+            secun<lb break="no" ed="#P" n="13"/>do. Et eamdem attingit Bernardus, sermone
+            <lb ed="#P" n="14"/>secundo de Resurrectione; habetque 
+            funda<lb break="no" ed="#P" n="15"/>mentum in Jacobo, capite secundo, dicente,
+            <lb ed="#P" n="16"/>fidem sine operibus esse mortugm. Unde 
+            ue<lb break="no" ed="#P" n="17"/>cessario fit fidem aliquam, utique cum 
+            ope<lb break="no" ed="#P" n="18"/>ribus , esse vivam. Vivum autem et mortuum
+            <lb ed="#P" n="19"/>differunt tanquam formatum et informe
+            <lb ed="#P" n="20"/>secundum formam , quae possit vitam 
+            da<lb break="no" ed="#P" n="21"/>re; et quia vita animae in gratia et 
+            cha<lb break="no" ed="#P" n="22"/>ritate consistit, illa dicetur files viva, quae
+            <lb ed="#P" n="23"/>charitate formatur; illa vero mortua vel 
+            in<lb break="no" ed="#P" n="24"/>formis, quae sine charitate existit; et ita 
+            sequi<lb break="no" ed="#P" n="25"/>tur distinctio ex assertione posita. Nam 
+            pro<lb break="no" ed="#P" n="26"/>batum est posse esse fidem sine charitate ;
+            <lb ed="#P" n="27"/>ergo datur fides informis; datur etiam fides,
+            <lb ed="#P" n="28"/>qwe per charitatem operatur , teste Paulo,
+            <lb ed="#P" n="29"/>ad Galat. quinto; ergo datur etiam fides 
+            for<lb break="no" ed="#P" n="30"/>mata.
+          </p>
+          <p xml:id="szthvi-a49190-d1e2567">
+            <lb ed="#P" n="31"/>6. An re distinguantur. — An utraque sit
+            <lb ed="#P" n="32"/>donum Dei. — Ex qua probatione facile 
+            pos<lb break="no" ed="#P" n="33"/>sunt expediri omnia quae de his duobus 
+            mem<lb break="no" ed="#P" n="34"/>bris desiderari possunt. Primum est, quomodo
+            <lb ed="#P" n="35"/>distinguantur. Nam divus Thomas et Magister
+            <lb ed="#P" n="36"/>referunt opinionem dicentem distingui specie
+            <lb ed="#P" n="37"/>tanquam diversos habitus, quod sentit 
+            Glos<lb break="no" ed="#P" n="38"/>sa, in rubrica de summa Trinitate et fide
+            <lb ed="#P" n="39"/>Catholica, et alia glossa, priorem 
+            appro<lb break="no" ed="#P" n="40"/>bans, in Clement. unica, eodem titulo; 
+            cer<lb break="no" ed="#P" n="41"/>tum autem est esse unum et eumdem 
+            ha<lb break="no" ed="#P" n="42"/>bitum , secundum diversos status sumptos
+            <lb ed="#P" n="43"/>ex parte subjecti, et ex concomitantia vel
+            <lb ed="#P" n="44"/>habitudine ad habitus gratia et charitatis.
+            <lb ed="#P" n="45"/>Quod enim non possint esse duo habitus,
+            <lb ed="#P" n="46"/>non solum specie, verum etiam neque 
+            nu<lb break="no" ed="#P" n="47"/>mero distincti, patet ex dictis; quia idem
+            <lb ed="#P" n="48"/>habitus fidei qui erat in homine justo, 
+            per<lb break="no" ed="#P" n="49"/>severat in peccatore ; ergo idem qui prius erat
+            <lb ed="#P" n="50"/>formatus, postea est informis. Item utraque
+            <lb ed="#P" n="51"/>fides habet idem officium substantiale, ut sic
+            <lb ed="#P" n="52"/>dicam, nimirum assentiendi revelatis propter
+            <lb ed="#P" n="53"/>auctoritatem Dei, solumque differunt in 
+            ha<lb break="no" ed="#P" n="54"/>bitudine ad Deum, ut ultimum finem super
+            <lb ed="#P" n="55"/>omnia dilectum, et consequenter in fructu
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>seu merito in ordine ad vitam aeternam ; quae
+            <lb ed="#P" n="57"/>differentia accidentalis est; sicut idem opus
+            <lb ed="#P" n="58"/>virtutis, verbi gratia, jejunii, in homine justo
+            <lb ed="#P" n="59"/>est vivum, in peccatore mortuum, cum tamen
+            <lb ed="#P" n="60"/>opus substantialiter idem sit; unde facile
+            <lb ed="#P" n="61"/>etiam respondetur alteri interrogationi, an
+            <lb ed="#P" n="62"/>utraque fides sit donum Dei; affirmandum
+            <lb ed="#P" n="63"/>enim est sine dubio, quod de fide formata est
+            <lb ed="#P" n="64"/>clarum ; de informi vero id tradit divus 
+            Tho<lb break="no" ed="#P" n="65"/>mas secunda secundae, quaestione sexta, 
+            articu<lb break="no" ed="#P" n="66"/>lo secundo, et patet, quia fides informis retinet
+            <lb ed="#P" n="67"/>substantiam fidei; ostensum autem in 
+            superio<lb break="no" ed="#P" n="68"/>ribus est, fidem in substantia sua esse 
+            super<lb break="no" ed="#P" n="69"/>naturalem. Unde certissimum est etiam 
+            pec<lb break="no" ed="#P" n="70"/>catorem indigere speciali auxilio gratiae ad
+            <lb ed="#P" n="71"/>credendum fide christiana, quamvis ejus fides
+            <lb ed="#P" n="72"/>informis sit. Est ergo illa fides donum Dei,
+            <lb ed="#P" n="73"/>quamvis ejus informitas non sit ex Deo, sed
+            <lb ed="#P" n="74"/>ex ipso peccatore; nam est imperfectio ortaex
+            <lb ed="#P" n="75"/>peccato.
+          </p>
+          <p xml:id="szthvi-a49190-d1e2669">
+            <lb ed="#P" n="76"/>7. An utraque sit fundamentum justitie ? —
+            <lb ed="#P" n="77"/>An utraque sit virtus simpliciter ? — Alia 
+            in<lb break="no" ed="#P" n="78"/>terrogatio est, an utraque fides sit 
+            fundamen<lb break="no" ed="#P" n="79"/>tum justitia; nam Patres interdum hoc 
+            tri<lb break="no" ed="#P" n="80"/>buunt fidei formatae, interdum vero informi.
+            <lb ed="#P" n="81"/>Sed res est facilis, nam fides per substantiam
+            <lb ed="#P" n="82"/>suam, quatenus est talis Dei cognitio, est 
+            fun<lb break="no" ed="#P" n="83"/>damentum justitiae, ut ex supra dietis 
+            con<lb break="no" ed="#P" n="84"/>stat; unde, quia in utroque statu conservat
+            <lb ed="#P" n="85"/>illam substantiam, in utroque retinet rationem
+            <lb ed="#P" n="86"/>fundamenti, sed diverso modo: nam quanc
+            <lb ed="#P" n="87"/>formata est, actu sustinet aedificium spirituais
+            <lb ed="#P" n="88"/>justitiae ; quando vero est informis, apta 
+            qui<lb break="no" ed="#P" n="89"/>dem est sustentare. licet de facto desit 
+            justi<lb break="no" ed="#P" n="90"/>tia; illud autem sufficit ad denominationem
+            <lb ed="#P" n="91"/>fundamenti, ut ex materialibus etiam aedificiis
+            <lb ed="#P" n="92"/>constat. Denique interrogari solet an utraque
+            <lb ed="#P" n="93"/>fides sit virtus simpliciter; nam de formata
+            <lb ed="#P" n="94"/>non est dubium; de informi autem Durandus,
+            <lb ed="#P" n="95"/>dicta distinctione vigesima tertia, quaestione
+            <lb ed="#P" n="96"/>sexta. idem contendit, quia esse virtutem sir:-
+            <lb ed="#P" n="97"/>plciter est denominatio intrinseca, ex 
+            pro<lb break="no" ed="#P" n="98"/>prio objecto et ratione; esse autem formatam
+            <lb ed="#P" n="99"/>et informem, est denominatio extrinseca; ergo
+            <lb ed="#P" n="100"/>non tollit rationem virtutis simpliciter. 
+            Con<lb break="no" ed="#P" n="101"/>trarium autem docet divus Thomas supra, ex
+            <lb ed="#P" n="102"/>principio generali, quod charitas est forma
+            <lb ed="#P" n="103"/>virtutum, sine qua nulla est virtus simpliciter;
+            <lb ed="#P" n="104"/>et hoc defendunt Cajetanus ibidem, et alii, et
+            <lb ed="#P" n="105"/>cum Magistro in 3, distinctione vigesima tertia,
+            <lb ed="#P" n="106"/>ubi Albertus, articulo quinto; Bonaventura,
+            <lb ed="#P" n="107"/>articulo secundo, quaestione prima; 
+            Richar<lb break="no" ed="#P" n="108"/>dus, articulo A4, quaestione prima. Est tamen
+            <lb ed="#P" n="109"/>controversia de modo loquendi; nam haec
+            <lb ed="#P" n="110"/>deuominatio virtutis potest dicere essentiam
+            <pb ed="#P" n="214"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>vel statum virtutis. Priori modo nemo negat
+            <lb ed="#P" n="2"/>quin files informis sit virtus simpliciter quoad
+            <lb ed="#P" n="3"/>essentiam, quia retinet proprium bonum 
+            vo<lb break="no" ed="#P" n="4"/>luntatis essentialiter honestum a quo habet
+            <lb ed="#P" n="5"/>hanc rationem virtutis simpliciter, ut supra,
+            <lb ed="#P" n="6"/>sect. 1, cum D. Thoma etiam diximus. Quoad
+            <lb ed="#P" n="7"/>s'atum vero, dicitur virtus secundum quid,
+            <lb ed="#P" n="8"/>quia caret omnibus perfectionibus quae ex 
+            con<lb break="no" ed="#P" n="9"/>sortio charitatis proveniunt, et praesertim quia
+            <lb ed="#P" n="10"/>nihil fructuosum quoad meritum vitae aeternae
+            <lb ed="#P" n="11"/>opcrari potest, propter quod mortua etiam
+            <lb ed="#P" n="12"/>dicitur, non in ratione fidei, sed in ratione
+            <lb ed="#P" n="13"/>virtutis, et ita satis responsum est ad 
+            secun<lb break="no" ed="#P" n="14"/>dum argumentum.
+          </p>
+          <p xml:id="szthvi-a49190-d1e2782">
+            <lb ed="#P" n="15"/>8. Ad tertium argumentum. — Ad tertium
+            <lb ed="#P" n="16"/>fundamentum, de dernerito peccati mortalis,
+            <lb ed="#P" n="17"/>respondetur probare quidem potuisse Deum,
+            <lb ed="#P" n="18"/>utendo rigore justitia, privare peccatorem
+            <lb ed="#P" n="19"/>etiam habitu fidei, tamen de facto id non 
+            fa<lb break="no" ed="#P" n="20"/>cere, quia est magis consentaneum suavi 
+            pro<lb break="no" ed="#P" n="21"/>videntise divinae, quia quamvis peccator 
+            amit<lb break="no" ed="#P" n="22"/>tat justitiam, semper relinquitur iu hac vita
+            <lb ed="#P" n="23"/>spes recuperandi illam; et ideo fuit 
+            conve<lb break="no" ed="#P" n="24"/>niens non auferri fidem, quae est 
+            fundamen<lb break="no" ed="#P" n="25"/>tum spei et justitiae. Petitur autem in illo 
+            ar<lb break="no" ed="#P" n="26"/>gumento, an sit aliquol peccatum tanti 
+            deme<lb break="no" ed="#P" n="27"/>riti, ut propter illud fides amittatur, quod 
+            ex<lb break="no" ed="#P" n="28"/>plicabitur sectione sequenti.
+          </p>
+        </div>
+        <div xml:id="szthvi-a49190-Dd1e2816">
+          <head xml:id="szthvi-a49190-Hd1e2818">Sectio 4</head>
+          <head xml:id="szthvi-a49190-Hd1e2820" type="question-title">Utrum per omne peccatum heresis seu infidelitatis perdatur habitus fidei</head>
+          <p xml:id="szthvi-a49190-d1e2823">
+            <lb ed="#P" n="29"/>SECTIO IV.
+            <lb ed="#P" n="30"/>Utrum per omne peccatum heresis seu 
+            infide<lb break="no" ed="#P" n="31"/>litatis perdatur habitus fidei?
+          </p>
+          <p xml:id="szthvi-a49190-d1e2832">
+            <lb ed="#P" n="32"/>1. Qui negent. — Eorum argumentum 
+            pri<lb break="no" ed="#P" n="33"/>mum.—Secundum.— Tertium.— Envasioni 
+            oc<lb break="no" ed="#P" n="34"/>curritur. — Fuit opinio Durandi in 3, 
+            distinc<lb break="no" ed="#P" n="35"/>tione vigesima tertia, quaestione nona, 
+            haere<lb break="no" ed="#P" n="36"/>ticum ', quamvis discredat uni vel alteri 
+            arti<lb break="no" ed="#P" n="37"/>culofidei, non perdere habitum fidei, si aliquos
+            <lb ed="#P" n="38"/>credat; quam opinionem secuta est Glossa in
+            <lb ed="#P" n="39"/>cap. P'irmiter, in summa Trinitate. Fundari
+            <lb ed="#P" n="40"/>potest primo in argumento sumpto ex sectione
+            <lb ed="#P" n="41"/>praecedenti, quia si per tale peccatum 
+            amit<lb break="no" ed="#P" n="42"/>ieret habitus fidei, maxime demeritorie; sed
+            <lb ed="#P" n="43"/>hoc modo non amittitur ; ergo. Probatur 
+            mi<lb break="no" ed="#P" n="44"/>nor, quia multa sunt peccata majoris 
+            deme<lb break="no" ed="#P" n="45"/>riti, quam sit peccatum haeresis vel 
+            inficelita<lb break="no" ed="#P" n="46"/>tis, et per illa non tollitur fides; ergo neque
+            <lb ed="#P" n="47"/>per haeresim. Secundo, quia nonrepugnat 
+            cre<lb break="no" ed="#P" n="48"/>dere aliquid fide infusa quia Deus dicit, et non
+            <lb ed="#P" n="49"/>credere omnia quae Ecclesia dicit esse a Deo
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="50"/>revelata, sicut non repugnat fide acquisita
+            <lb ed="#P" n="51"/>credere dicenti unam rem, et non aliam; ergo
+            <lb ed="#P" n="52"/>non repugnat manere habitum fidei in 
+            haere<lb break="no" ed="#P" n="53"/>tico. Probatur, quia ille qui sic credit est 
+            hae<lb break="no" ed="#P" n="54"/>reticus, quatenus non credit Ecclesiae ; et 
+            nihi<lb break="no" ed="#P" n="55"/>lominus retinebit habitum fidei, quatenus 
+            ali<lb break="no" ed="#P" n="56"/>quem actum fidei habet, quia qui est capax
+            <lb ed="#P" n="57"/>actus, est etiam capax habitus. Antecedens 
+            au<lb break="no" ed="#P" n="58"/>tem patet, tum quia multi haeretici vilentur
+            <lb ed="#P" n="59"/>ita credere, et ita protitentur ; tum etiam quia,
+            <lb ed="#P" n="60"/>si quis haberet a Deo specialem revelationem,
+            <lb ed="#P" n="61"/>posset illi fidem adhibere, etiamsi alias non
+            <lb ed="#P" n="62"/>credat Ecclesiae. Tertio, quia post peccatum
+            <lb ed="#P" n="63"/>haeresis vel infidelitatis manet haereticus tam
+            <lb ed="#P" n="64"/>aptus, et facilis ad credenda reliqua iu quibus
+            <lb ed="#P" n="65"/>non errat, sicut antea erat; ergo signum est
+            <lb ed="#P" n="66"/>retinere eumdem habitum. Dices id esse verum
+            <lb ed="#P" n="67"/>de habitu acquisito. Sed contra, nam fieri 
+            po<lb break="no" ed="#P" n="68"/>test ut nullum habeat acquisitum circa 
+            verita<lb break="no" ed="#P" n="69"/>tes fidei, quia forte semper illas credidit per
+            <lb ed="#P" n="70"/>actus infusos, per quos non acquiritur 
+            habi<lb break="no" ed="#P" n="71"/>tus, et non per actus acquisitos, et praeterea
+            <lb ed="#P" n="72"/>si habitus acquisitus fidei non amittitur totus
+            <lb ed="#P" n="73"/>totus unico actu, cur amittetur habitus fidei
+            <lb ed="#P" n="74"/>infusae?
+          </p>
+          <p xml:id="szthvi-a49190-d1e2930">
+            <lb ed="#P" n="75"/>2. Assertio prima: per quamvis mortalem
+            <lb ed="#P" n="76"/>leresim fides amittitur. — Probatur em 
+            Scri<lb break="no" ed="#P" n="77"/>ptura primo.—Nihilominus dicendum est, per
+            <lb ed="#P" n="78"/>quemlibet actum haeresis, qui sit mortale 
+            pec<lb break="no" ed="#P" n="79"/>catum infidelitatis, amitti omnino habitum
+            <lb ed="#P" n="80"/>fidei. Haec est sententia divi Thomae, secunda
+            <lb ed="#P" n="81"/>secundae, quaestione quinta, articulo tertio,
+            <lb ed="#P" n="82"/>ubi Cajetanus et omnes. Et communiter 
+            Sco<lb break="no" ed="#P" n="83"/>lastici, in 3, distinctione vigesima tertia, ubi
+            <lb ed="#P" n="84"/>Scotus, quaestione prima, ad primum; Gabriel,
+            <lb ed="#P" n="85"/>quaestione prima, articulo tertio; Capreolus,
+            <lb ed="#P" n="86"/>distinctione vigesima quarta, ad argumenta
+            <lb ed="#P" n="87"/>contra tertiam conclusionem. Et est ita certa
+            <lb ed="#P" n="88"/>conclusio, ut sine errore negari jam non 
+            pos<lb break="no" ed="#P" n="89"/>sit. Primo, quia est maxime consentanea 
+            Scri<lb break="no" ed="#P" n="90"/>pturis; dicit enim Joan. de haereticis, prima
+            <lb ed="#P" n="91"/>epistola, capite secundo: E nobis prodierunt,
+            <lb ed="#P" n="92"/>sed non erant ex nobis ; nam si ea nobis essenut
+            <lb ed="#P" n="93"/>permansissent utique nobDiscum. Ex quibus
+            <lb ed="#P" n="94"/>verbis colligunt Patres haereticum non 
+            per<lb break="no" ed="#P" n="95"/>manere in Ecclesia, ut dicitur etiam in 
+            extra<lb break="no" ed="#P" n="96"/>vagante Unam sanctam, de majoritate et 
+            obe<lb break="no" ed="#P" n="97"/>dientia; ideo autem non permanet haereticus
+            <lb ed="#P" n="98"/>in Ecclesia, quia non habet fidem: peccatores
+            <lb ed="#P" n="99"/>cnim qui fidem informem retinent, in 
+            Eccle<lb break="no" ed="#P" n="100"/>sia manent, ut est res indubitata. Confirmat
+            <lb ed="#P" n="101"/>hoc Paulus, prima ad Timoth. primo, dieens,
+            <lb ed="#P" n="102"/>quosdam aittentes bonam conscientiam, circa
+            <lb ed="#P" n="103"/>fidem naufragasse ; loquitur autem de 
+            Alexan<lb break="no" ed="#P" n="104"/>dro et Hymenaeo haereticis, qui non totam fi-
+            <pb ed="#P" n="215"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>dem, sed articulum resurrectionis 
+            negave<lb break="no" ed="#P" n="2"/>rant, ut idem Paulus declaravit, prima ad 
+            Ti<lb break="no" ed="#P" n="3"/>moth. secundo; dicuntur autem naufragasse,
+            <lb ed="#P" n="4"/>quia navem, id est, Ecclesiam perdiderunt, ut
+            <lb ed="#P" n="5"/>exponit Chrysostomus, etiam quam habere 
+            vi<lb break="no" ed="#P" n="6"/>debantur, addit Hieronymus. Unde in eadem
+            <lb ed="#P" n="7"/>Epistola prima ad Timoth., capite sexto, de
+            <lb ed="#P" n="8"/>haeretico addit Paulus: Superbus est. mhil
+            <lb ed="#P" n="9"/>sciens, id est, nihil certo et firmiter credens,
+            <lb ed="#P" n="10"/>sed (ut subjungit) languens circa quaestones et
+            <lb ed="#P" n="11"/>pugnas verborum ; ac denique ad Titum, tertio
+            <lb ed="#P" n="12"/>capite: Subversus est qui hujusmodi est.
+          </p>
+          <p xml:id="szthvi-a49190-d1e3029">
+            <lb ed="#P" n="13"/>3. Probatur secundo ex Tridentino. — Ft
+            <lb ed="#P" n="14"/>ex Patribus. — Secundo docuit hoc expresse
+            <lb ed="#P" n="15"/>Tridentinum, sessione sexta, capite decimo
+            <lb ed="#P" n="16"/>quinto, dicens: Asserendum est non infidelitate
+            <lb ed="#P" n="17"/>per quam et ipsa fides amittitur, sed etiam
+            <lb ed="#P" n="18"/>quocumque alio peccato mortali, quamvis non
+            <lb ed="#P" n="19"/>a»ittatur fides, gratiam amitti. Dicunt vero
+            <lb ed="#P" n="20"/>aliqui hac verba non facere certam fidem,
+            <lb ed="#P" n="21"/>quia postea in canonibus posuit Concilium 
+            il<lb break="no" ed="#P" n="22"/>lam partem negativam, quod fides non 
+            amit<lb break="no" ed="#P" n="23"/>tatur per omnia peccata ; non tamen partem
+            <lb ed="#P" n="24"/>affirmativam, quod fides anittatur per 
+            infideli<lb break="no" ed="#P" n="25"/>latem. Sed hoc non multum refert, quia etiam
+            <lb ed="#P" n="26"/>doctrina capitum de fide tenenda est; nam in
+            <lb ed="#P" n="27"/>tine capitis 16, dicit Concilium, qui illam 
+            fir<lb break="no" ed="#P" n="28"/>miter fideliterque non crediderit, justificari
+            <lb ed="#P" n="29"/>non posse; nihilominus tamen omitti potuit
+            <lb ed="#P" n="30"/>illa pars in canone trigesimo octavo, quia illam
+            <lb ed="#P" n="31"/>non negabant haeretici, contra quos canones
+            <lb ed="#P" n="32"/>facti sunt. Magis videtur obstare, quia 
+            Conci<lb break="no" ed="#P" n="33"/>lium non directe, sed quasi obiter, et per 
+            pa<lb break="no" ed="#P" n="34"/>renthesim, illud docet ; propter quod non dixi
+            <lb ed="#P" n="35"/>rem esse de fide. Nihilominus tamen, quia 
+            ab<lb break="no" ed="#P" n="36"/>solute Concilium illud affirmat, sine errore
+            <lb ed="#P" n="37"/>negari non potest, praesertim cum consensus
+            <lb ed="#P" n="38"/>etiam Patrum accedat, et praecipue videri 
+            po<lb break="no" ed="#P" n="39"/>test Augustinus, capite quinto Enchiridii, et
+            <lb ed="#P" n="40"/>libro primo contra Epistolam Parmeniani, 
+            ca<lb break="no" ed="#P" n="41"/>pite septimo, et libro secando de Nuptiis et
+            <lb ed="#P" n="42"/>coneupiscent., capite septimo, et de Unitate
+            <lb ed="#P" n="43"/>Ecclesiae, capite quarto, et de Fide et Symbolo,
+            <lb ed="#P" n="44"/>capite decimo ; et Ambrosius, libro septimo in
+            <lb ed="#P" n="45"/>Luc., capite decimo primo, et sermonc 
+            quin<lb break="no" ed="#P" n="46"/>quagesimo tertio, et alii qui communiter 
+            di<lb break="no" ed="#P" n="47"/>cunt haereticos solo nomine esse Christianos,
+            <lb ed="#P" n="48"/>cum revera Christo non credant ; si autem 
+            ve<lb break="no" ed="#P" n="49"/>ram fidem in habitu, et quoad aliquos actus
+            <lb ed="#P" n="50"/>retinerent, vere ac proprie essent Christiani.
+          </p>
+          <p xml:id="szthvi-a49190-d1e3114">
+            <lb ed="#P" n="51"/>4. An infidelitas physice expellat fidem. —
+            <lb ed="#P" n="52"/>Affirmant quidam.—Prima ratio. —Ut autem
+            <lb ed="#P" n="53"/>ratione declaremus hanc veritatem, et 
+            argu<lb break="no" ed="#P" n="54"/>menta solvamus, explicare oportet quomodo
+            <lb ed="#P" n="55"/>unus actus infidelitatis totam fidem expellere
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>possit, id est, an physice, et ex intrinseca rei
+            <lb ed="#P" n="57"/>natura, vel moraliter, et ex ordinatione 
+            divi<lb break="no" ed="#P" n="58"/>na. Quidam enim dixerunt actum haeresis
+            <lb ed="#P" n="59"/>physice expellere habitum fidei, quia moralis
+            <lb ed="#P" n="60"/>expulsio potest esse per demeritum, quod non
+            <lb ed="#P" n="61"/>sufficit, ut primum argumentum probare 
+            vi<lb break="no" ed="#P" n="62"/>detur ; item, quia ita infidelitas excludit fidem,
+            <lb ed="#P" n="63"/>sicut peccatum mortale charitatem, cum sit
+            <lb ed="#P" n="64"/>eadem proportio et oppositio; sed mortale
+            <lb ed="#P" n="65"/>peccatum physice expellit charitatem, ut 
+            vide<lb break="no" ed="#P" n="66"/>tur sentire D. Thoinas, in materia de 
+            chari<lb break="no" ed="#P" n="67"/>tate, ac multi ejus discipuli sequuntur ; ergo
+            <lb ed="#P" n="68"/>idem erit in praesenti ; unde pro hac opinione
+            <lb ed="#P" n="69"/>citari possunt omnes , qui ita de charitate
+            <lb ed="#P" n="70"/>sentiunt, quod specialiter aliqui moderni 
+            opi<lb break="no" ed="#P" n="71"/>nati sunt ; fuitque antiqua opinio, quam refert
+            <lb ed="#P" n="72"/>et probabilem censet Ocham, in loco statim
+            <lb ed="#P" n="73"/>citando.
+          </p>
+          <p xml:id="szthvi-a49190-d1e3169">
+            <lb ed="#P" n="74"/>5. Secunda assertio in ordine communis 
+            ne<lb break="no" ed="#P" n="75"/>gativa, tam quoad habitum intellectus, quam
+            <lb ed="#P" n="76"/>quoad. piam affectionem. — Probatur quoad
+            <lb ed="#P" n="77"/>halitum intellectus, et primo impugnatur 
+            ea<lb break="no" ed="#P" n="78"/>pulsio physica effectiva. — Nibilominus 
+            dicen<lb break="no" ed="#P" n="79"/>dum censeo, quod jam libro undecimo de 
+            Gra<lb break="no" ed="#P" n="80"/>tia, capite septimo, a numero undecimo,
+            <lb ed="#P" n="81"/>scripsi, habitum fidei non expelli physice per
+            <lb ed="#P" n="82"/>peccatum infidelitatis. Haec est communior
+            <lb ed="#P" n="83"/>sententia, quam tenet Bonaventura, in tertio,
+            <lb ed="#P" n="84"/>distinctione vigesima septima, articulo primo,
+            <lb ed="#P" n="85"/>quaestione quarta, et distinctioue trigesima
+            <lb ed="#P" n="86"/>prima, articulo primo, quaestione prima, ad
+            <lb ed="#P" n="87"/>secundum ; et Durandus, ibidem, quaestione
+            <lb ed="#P" n="88"/>prima, ad primum, et in primo, distinctione
+            <lb ed="#P" n="89"/>decima septima, quaestione decima ; Seotus,
+            <lb ed="#P" n="90"/>in 3, distinctione vigesima tertia, quaestione
+            <lb ed="#P" n="91"/>prima, ad primum ; Gabriel, quaestione 
+            secun<lb break="no" ed="#P" n="92"/>da, articulo tertio, dubio secundo ; et 
+            ibi<lb break="no" ed="#P" n="93"/>dem Almaynus et Ocham, Quodlibeto tertio,
+            <lb ed="#P" n="94"/>quaestione septima. Quoniam vero diximus
+            <lb ed="#P" n="95"/>duos esse habitus in fide, unum intellectus,
+            <lb ed="#P" n="96"/>alterum voluntatis, neuterque manet in 
+            haere<lb break="no" ed="#P" n="97"/>tico, de utroque probanda est assertio. Et 
+            pri<lb break="no" ed="#P" n="98"/>mo de intellectu ; nam duobus modis potest
+            <lb ed="#P" n="99"/>una forma physice expellere aliam, scilicet,
+            <lb ed="#P" n="100"/>effective aut formaliter; neutro autem modo
+            <lb ed="#P" n="101"/>actus infidehtatis excludit habitum 
+            intellec<lb break="no" ed="#P" n="102"/>wualem fidei; ergo, etc.; probatur minor quoad
+            <lb ed="#P" n="103"/>priorem partem de effectiva cxpulsicne, quia
+            <lb ed="#P" n="104"/>tunc una forma expellit effective aliam, 
+            quan<lb break="no" ed="#P" n="105"/>do efficit aliquid cum quo forma, quae 
+            expel<lb break="no" ed="#P" n="106"/>litur, conservari non potest, ut ex philosophia
+            <lb ed="#P" n="107"/>suppono, ac videri potest in disputatione 45
+            <lb ed="#P" n="108"/>Metaph., sectione secunda ; actus autem 
+            erro<lb break="no" ed="#P" n="109"/>ris non efficit aliquid in intellectu, formaliter
+            <lb ed="#P" n="110"/>incompossibile habitui fidei; ergo. Probatur
+            <pb ed="#P" n="216"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>minor, nam maxime efficere potest habitum
+            <lb ed="#P" n="2"/>erroris inclinantem ad similem actum, quia
+            <lb ed="#P" n="3"/>actus immanens nihil aliud potest causare;
+            <lb ed="#P" n="4"/>id vero in praesenti non sufficit, primo, quia
+            <lb ed="#P" n="5"/>per primum actum non efficitur perfectus 
+            ha<lb break="no" ed="#P" n="6"/>bitus, sed ad summum dispositio imperfecta,
+            <lb ed="#P" n="7"/>quae non semper valet excludere contrarium
+            <lb ed="#P" n="8"/>habitum. Secundo, quia, licet daremus primum
+            <lb ed="#P" n="9"/>actum esse valde intensum, et inducere 
+            simi<lb break="no" ed="#P" n="10"/>lem habitum, nihilominus ex natura rei ille
+            <lb ed="#P" n="11"/>habitus non excluderet fidem, quia est 
+            avqui<lb break="no" ed="#P" n="12"/>situs. atque adeo natura sua non repugnat
+            <lb ed="#P" n="13"/>tormaliter cum infuso, ut videre licet in 
+            pec<lb break="no" ed="#P" n="14"/>catore habente habitus vitiorum valde 
+            inten<lb break="no" ed="#P" n="15"/>sos; nam si justificetur, recipit omnes virtutes
+            <lb ed="#P" n="16"/>iufusas, et tamen non statim amittit habitus
+            <lb ed="#P" n="17"/>omnes vitiorum; eodem enim modo manet
+            <lb ed="#P" n="18"/>propensus ad vitia; alias experimento posset
+            <lb ed="#P" n="19"/>cognoscere suam justificationem. Idemque 
+            ar<lb break="no" ed="#P" n="20"/>gumentum est de haeretico, qui cum primum
+            <lb ed="#P" n="21"/>ad fidem convertitur, recipit habitum 
+            infu<lb break="no" ed="#P" n="22"/>sum fidei, et tamen non statim perdit omnes
+            <lb ed="#P" n="23"/>habitus falsos quos in doctrina fidei habebat,
+            <lb ed="#P" n="24"/>ut docet etiam experientia. hatio vero est,
+            <lb ed="#P" n="25"/>quia habitus acquisitus et infusus sunt diversi
+            <lb ed="#P" n="26"/>ordinis ; contraria autem, ejusdem ordinis et
+            <lb ed="#P" n="27"/>ceneris esse debent, teste Philosopho, decim.
+            <lb ed="#P" n="28"/>Metaph., capite sexto, et satis explicul 
+            incita<lb break="no" ed="#P" n="29"/>to loco Metaph. Item, quia habitus acquisitus
+            <lb ed="#P" n="30"/>supponit potestatem, dat vero solam 
+            facilita<lb break="no" ed="#P" n="31"/>tem quam debet auferre contrarius habitus ;
+            <lb ed="#P" n="32"/>infusus autem ncque confert neque aufert 
+            fa<lb break="no" ed="#P" n="33"/>ciltatem in naturalibus, sed addit potestatem
+            <lb ed="#P" n="34"/>supernaturalem, et ideo in se formaliter non
+            <lb ed="#P" n="35"/>pugnant; et haec pars ex sequenti magis 
+            con<lb break="no" ed="#P" n="36"/>rmabitur.
+          </p>
+          <p xml:id="szthvi-a49190-d1e3334">
+            <lb ed="#P" n="37"/>6. Deinde impugnatur expulsio physica 
+            for<lb break="no" ed="#P" n="38"/>analis. — Quod autem actus erroris formaliter
+            <lb ed="#P" n="39"/>non expellat habitum intellectualem fidei, 
+            pro<lb break="no" ed="#P" n="40"/>batur primo, quia, si talis actus habeatur sine
+            <lb ed="#P" n="41"/>culpa mortali, ut fieri potest, per ignorantiam
+            <lb ed="#P" n="42"/>invincibilem vel moralem iudeliberationem,
+            <lb ed="#P" n="43"/>tunc per illum actum non excluditur habitus
+            <lb ed="#P" n="44"/>fidel; ergo manifestum est non esse formaliter
+            <lb ed="#P" n="45"/>et physice repugnantem illi, quia in illo actu
+            <lb ed="#P" n="46"/>est tota entitas physica, et tota informatio 
+            in<lb break="no" ed="#P" n="47"/>tellectus, quae solet esse cum peccato; ergo
+            <lb ed="#P" n="48"/>signum est expulsionem non provenire ex
+            <lb ed="#P" n="49"/>physica incompossibilitate, sed ex mortalitate
+            <lb ed="#P" n="50"/>peccati : et haec ratio probat etiam de habitu,
+            <lb ed="#P" n="51"/>quia ctiam actus ille potest habitum suum
+            <lb ed="#P" n="52"/>cfficere. Secundo probatur ex generali 
+            princi<lb break="no" ed="#P" n="53"/>pio physico, quia actus non expellit formaliter
+            <lb ed="#P" n="54"/>habitum, ut docuit etiam D. Thomas secunda
+            <lb ed="#P" n="55"/>secundae, quaestione vigesima quarta, articulo
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>decimo secundo. Et ratio est, quia non servant
+            <lb ed="#P" n="57"/>proportionem, sicut non repugnat formaliter
+            <lb ed="#P" n="58"/>motus sursum, cum habituali seu naturali
+            <lb ed="#P" n="59"/>propensione ad motum deorsum. Ergo etiam
+            <lb ed="#P" n="60"/>in praesenti actus erroris non pugnat 
+            forma<lb break="no" ed="#P" n="61"/>liter cum habitu fidei; ergo nullo modo illum
+            <lb ed="#P" n="62"/>potest formaliter expellere. Et hae rationes a
+            <lb ed="#P" n="63"/>fortiori probant actum infidelitatis, prout est
+            <lb ed="#P" n="64"/>in voluntate, non posse excludere physice 
+            ha<lb break="no" ed="#P" n="65"/>bitum fidei qui est in intellectu, quia neque
+            <lb ed="#P" n="66"/>habet formalem repugnantiam cum illo, cum
+            <lb ed="#P" n="67"/>non sint in eadem potentia, neque efficit 
+            ali<lb break="no" ed="#P" n="68"/>quid in intellectu formaliter excludens fidem.
+          </p>
+          <p xml:id="szthvi-a49190-d1e3408">
+            <lb ed="#P" n="69"/>7. Probatur ulterius assertio quond piam
+            <lb ed="#P" n="70"/>affectionem, imo quoad utrumque habitum. —
+            <lb ed="#P" n="71"/>Quod vero etiam habitus voluntatis non 
+            ex<lb break="no" ed="#P" n="72"/>cludatur physice per culpam voluntatis, eodem
+            <lb ed="#P" n="73"/>fere discursu facile probari potest , quia non
+            <lb ed="#P" n="74"/>effective, cum non inducat habitum formaliter
+            <lb ed="#P" n="75"/>incompossibilem, neque formalter, quia culpa
+            <lb ed="#P" n="76"/>illa non est habitus, sed actus. Accedit quod
+            <lb ed="#P" n="77"/>interdum potest amitti hic habitus piae 
+            atfec<lb break="no" ed="#P" n="78"/>tionis sine expresso et formali actu 
+            volunta<lb break="no" ed="#P" n="79"/>tis, per virtualem et tacitum consensum, in
+            <lb ed="#P" n="80"/>quo esse non potest efficacia seu causalitas
+            <lb ed="#P" n="81"/>physica. Assumptum declaratur in eo qui 
+            ha<lb break="no" ed="#P" n="82"/>bet dissensum vel dubitationem circa rem 
+            fi<lb break="no" ed="#P" n="83"/>dei, sine sufficiente advertentia ad peccatum
+            <lb ed="#P" n="84"/>mortale ; nam, si postea advertat quid agat, et
+            <lb ed="#P" n="85"/>nihilominus in eodem actu seu dubitatione
+            <lb ed="#P" n="86"/>persistat, incipit graviter peccare per 
+            virtua<lb break="no" ed="#P" n="87"/>lem consensum, nam prior actus, ex 
+            conside<lb break="no" ed="#P" n="88"/>ratione adveniente, fit deliberatus, et voluntas
+            <lb ed="#P" n="89"/>non tollens illum tacite consentit, etiamsi 
+            no<lb break="no" ed="#P" n="90"/>vum actum non habeat ; tunc autem 
+            expelle<lb break="no" ed="#P" n="91"/>tur habitus fidei; ergo signum est hanc 
+            expul<lb break="no" ed="#P" n="92"/>sionem non esse physicam, sed moralem. Et
+            <lb ed="#P" n="93"/>hoc etiam confirmatur quoad utrumque 
+            habi<lb break="no" ed="#P" n="94"/>tum, quia solum dubium in fide sufficienter
+            <lb ed="#P" n="95"/>voluntarium, etiam indirecte, ad illam 
+            expul<lb break="no" ed="#P" n="96"/>sionem sufficit, juxta cap. Dubius, de haereticis.
+          </p>
+          <p xml:id="szthvi-a49190-d1e3471">
+            <lb ed="#P" n="97"/>8. Tertia assertio : infidelitas empellit fidem
+            <lb ed="#P" n="98"/>mcraliter, tum demeritorie, tum dispositive.—
+            <lb ed="#P" n="99"/>Declaratur ez D. Thoma. — Objectioni satisfit.
+            <lb ed="#P" n="100"/>— Tunc vero urget primum argumentum.
+            <lb ed="#P" n="101"/>Nam inquiro qualis sit haec causalitas moralis.
+            <lb ed="#P" n="102"/>Doctores enim citati solum assignant rationem
+            <lb ed="#P" n="103"/>meriti vel demeriti, contra quam procedit 
+            dic<lb break="no" ed="#P" n="104"/>tum argumentum. quia ratio illa non videtur
+            <lb ed="#P" n="105"/>sufficiens, cum eadem vel major in aliis 
+            pec<lb break="no" ed="#P" n="106"/>catis inveniatur. Propter hoc ergo addo 
+            ulti<lb break="no" ed="#P" n="107"/>mo peccatum infidelitatis expellere habitum
+            <lb ed="#P" n="108"/>moraliter, tum demeritorie, tum etiam 
+            dispo<lb break="no" ed="#P" n="109"/>sitive. Prior pars clara est, posterior 
+            declara<lb break="no" ed="#P" n="110"/>tur optime a divo Thoma ; quia qui dissentit
+            <pb ed="#P" n="217"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>ab uno articulo fidei, eoipso manet impeditus
+            <lb ed="#P" n="2"/>et indispositus ad credendum aliquid per 
+            ve<lb break="no" ed="#P" n="3"/>rum assensum infusum, et cum certitudine
+            <lb ed="#P" n="4"/>orta ex formali motivo fidei; ergo manet 
+            in<lb break="no" ed="#P" n="5"/>dispositus ad habitum fidei; nam qui est 
+            in<lb break="no" ed="#P" n="6"/>dispositus ad operandum sicut oportet , in
+            <lb ed="#P" n="7"/>tota materia habitus, est etiam indispositus
+            <lb ed="#P" n="8"/>ad ipsum habitum. Antecedens fundatum est
+            <lb ed="#P" n="9"/>in iis quae supra diximus de ratione formali
+            <lb ed="#P" n="10"/>objecti fidei, in disputatione tertia , ubi 
+            os<lb break="no" ed="#P" n="11"/>tendimus omnia revelata per fidem ita esse
+            <lb ed="#P" n="12"/>connesxa in objecto formali suo, ut omnium
+            <lb ed="#P" n="13"/>certitudo a singulis pendeat ; nam si unum
+            <lb ed="#P" n="14"/>posset esse falsum , omnia essent incerta. 
+            Si<lb break="no" ed="#P" n="15"/>mili ergo ratione, qui per infidelitatem unum
+            <lb ed="#P" n="16"/>articulum negat, nihil potest cum certitudine
+            <lb ed="#P" n="17"/>fidei credere. Dicet aliquis rationem hanc non
+            <lb ed="#P" n="18"/>solum probare moralem indispositionem, sed
+            <lb ed="#P" n="19"/>etiam physicam repugnantiam. Respondetur
+            <lb ed="#P" n="20"/>non ita esse. tum quia sicut actus boni 
+            dis<lb break="no" ed="#P" n="21"/>ponunt ad habitus infusos non physice, sed
+            <lb ed="#P" n="22"/>moraliter, ut in materia de Gratia dixi, libro
+            <lb ed="#P" n="23"/>octavo , capite quinto, ita etiam e contrario
+            <lb ed="#P" n="24"/>actus mali moraliter disponunt ad 
+            amissio<lb break="no" ed="#P" n="25"/>nem habituum ; sicut etiam diximus libro
+            <lb ed="#P" n="26"/>undecimo , capite quarto, de peccato 
+            mor<lb break="no" ed="#P" n="27"/>tali respectu gratiae et charitatis; tum etiam
+            <lb ed="#P" n="28"/>quia, licet daremus actum infidelitatis circa
+            <lb ed="#P" n="29"/>unum articulum, quamdiu durat , omnino
+            <lb ed="#P" n="30"/>impedire, etiam physice, caeteros actus fidei,
+            <lb ed="#P" n="31"/>nihilominus non excluderet naturaliter 
+            ha<lb break="no" ed="#P" n="32"/>bitum fidei, quia homo semper manet potens
+            <lb ed="#P" n="33"/>ad mutandum illum actum infidelitatis , et
+            <lb ed="#P" n="34"/>exercendum habitum fidei; satis ergo est ut
+            <lb ed="#P" n="35"/>illa sit moralis dispositio repugnans.
+          </p>
+          <p xml:id="szthvi-a49190-d1e3585">
+            <lb ed="#P" n="36"/>9. Concluditur solutio ad primun 
+            argumen<lb break="no" ed="#P" n="37"/>lum in n.1. — Ad secundum argumentum in
+            <lb ed="#P" n="38"/>eod. n. 1. — Salas 4 2, q. 1M, tract. 3, disp.
+            <lb ed="#P" n="39"/>2, sect. 11, num. 150, et alii limitaut datam
+            <lb ed="#P" n="40"/>sclutionem. — Non admittuntur. — Ex quibus
+            <lb ed="#P" n="41"/>solutum relinquitur primum argumentum;
+            <lb ed="#P" n="42"/>nam, licet possit esse aliquod peccatum 
+            ma<lb break="no" ed="#P" n="43"/>joris demeriti, quam haeresis, non tamen 
+            po<lb break="no" ed="#P" n="44"/>test sicut haeresis, esse repugnans habitui fidei.
+            <lb ed="#P" n="45"/>Ad secundum vero, in quo fiebat comparatio
+            <lb ed="#P" n="46"/>inter fidem acquisitam et infusam, neganda
+            <lb ed="#P" n="47"/>est similitudo, quia cum fides acquisita de se
+            <lb ed="#P" n="48"/>sit incerta et fallibilis, non habet materia
+            <lb ed="#P" n="49"/>cjus tota eamdem connexionem cum ratione
+            <lb ed="#P" n="50"/>assentiendi, quae est auctoritas hujus vel illius
+            <lb ed="#P" n="51"/>hominis, quam habent credibilia per fidem,
+            <lb ed="#P" n="52"/>cum auctoritate divina. Quidam autem hoc
+            <lb ed="#P" n="53"/>limitant ad fidem infusam quae proxime 
+            niti<lb break="no" ed="#P" n="54"/>tur in auctoritate Ecclesiae, propter quamdam
+            <lb ed="#P" n="55"/>rationem supra factam, quia nemo potest dis-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>sentire in aliquo ab Ecclesia, quin credat illam
+            <lb ed="#P" n="57"/>posse errare, et ideo in:possibile est ut aliquid
+            <lb ed="#P" n="58"/>credat ex auctoritate illius, tanquam 
+            infallibi<lb break="no" ed="#P" n="59"/>le; respectu vero Dei, non ita se habet 
+            haereti<lb break="no" ed="#P" n="60"/>cus ; nunquam enim credit Deum mertiri vel
+            <lb ed="#P" n="61"/>errare, sed potius credit non dixisse Deum, illa
+            <lb ed="#P" n="62"/>quae non vult credere; et ideo, si extra 
+            Eccle<lb break="no" ed="#P" n="63"/>siam fieret revelatio. non putant repugnare
+            <lb ed="#P" n="64"/>credere unum et non aliud, etiam per fidem
+            <lb ed="#P" n="65"/>infusam. Verumtamen, licet in modo credendi
+            <lb ed="#P" n="66"/>per propositionem Ecclesiae, clarior sit 
+            repu<lb break="no" ed="#P" n="67"/>gnantia, nihilominus universalis censenda est
+            <lb ed="#P" n="68"/>in omnibus quae quocumque modo 
+            sufficien<lb break="no" ed="#P" n="69"/>ter proponuntur tanquam dicta a Deo, quia
+            <lb ed="#P" n="70"/>firmitas fidei postulat ut nunquam illis possit
+            <lb ed="#P" n="71"/>misceri falsum, ut supra ostendimus; et ideo,
+            <lb ed="#P" n="72"/>quacumque ratione aliquis nolit credere 
+            ali<lb break="no" ed="#P" n="73"/>quid sufficienter propositum, ut dictum a
+            <lb ed="#P" n="74"/>Deo, ineptus redditur ad credendum alia,
+            <lb ed="#P" n="75"/>ideoque habitum fidei amittit.
+          </p>
+          <p xml:id="szthvi-a49190-d1e3676">
+            <lb ed="#P" n="76"/>10. Ad tertium responsio quorumdam 
+            rejici<lb break="no" ed="#P" n="77"/>tur.—Ad tertium autem, sumptum ab 
+            expe<lb break="no" ed="#P" n="78"/>rientia, aliqui respondent, per actus infusos
+            <lb ed="#P" n="79"/>acquiri aliquos habitus distinctos ab infusis,
+            <lb ed="#P" n="80"/>qui manere possunt corruptis infusis, et ita in
+            <lb ed="#P" n="81"/>praesenti manere in haeretico habitum 
+            acquisi<lb break="no" ed="#P" n="82"/>tum fidei, licet infusum amittat. Sed non 
+            cen<lb break="no" ed="#P" n="83"/>seo veram illam sententiam, ut latius dixi in
+            <lb ed="#P" n="84"/>materia de Gratia, libro sexto, capite ultimo,
+            <lb ed="#P" n="85"/>quia non potest actus generare habitum, nisi
+            <lb ed="#P" n="86"/>sub eadem ratione formali objecti ; si autem
+            <lb ed="#P" n="87"/>actus est infusus, necessario habet 
+            supernatu<lb break="no" ed="#P" n="88"/>ralem rationem formalem objectivam, sub
+            <lb ed="#P" n="89"/>qua habitus acquisitus tendere non potest.
+            <lb ed="#P" n="90"/>Dico igitur ordinarie quidem manere in 
+            haere<lb break="no" ed="#P" n="91"/>tico habitum acquisitum, non tamen per 
+            ac<lb break="no" ed="#P" n="92"/>tus infusos, sed per naturales, quos saepe 
+            fi<lb break="no" ed="#P" n="93"/>deles exercent etiam circa supernaturalia, 
+            cre<lb break="no" ed="#P" n="94"/>dendo nimirum illa ex quadam humana fide.
+            <lb ed="#P" n="95"/>Neque casus qui in argumento fingitur 
+            mora<lb break="no" ed="#P" n="96"/>lis est; illo tamen admisso, maneret facilitas
+            <lb ed="#P" n="97"/>partim ex speciebus et apprehensionibus, tum
+            <lb ed="#P" n="98"/>rerum fidei, tum etiam motivorum 
+            credibili<lb break="no" ed="#P" n="99"/>tatis; partim ex formali habitu quem homo
+            <lb ed="#P" n="100"/>habet, ad credendum ea quae sub auctoritate
+            <lb ed="#P" n="101"/>humana sufficiente proponuntur; ita enim
+            <lb ed="#P" n="102"/>quamvis haereticus neget unum articulum, de
+            <lb ed="#P" n="103"/>aliis facile credit Deum illa revelasse. Credit
+            <lb ed="#P" n="104"/>autem hoc ex auctoritate humana, vel ex 
+            ju<lb break="no" ed="#P" n="105"/>dicio suo, non ex ipsamet divina revelatione,
+            <lb ed="#P" n="106"/>ut in superioribus ostensum est, disputatione
+            <lb ed="#P" n="107"/>tertia, sectione decima secunda.
+          </p>
+          <p xml:id="szthvi-a49190-d1e3748">
+            <pb ed="#P" n="218"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>SECTIO V.
+            <lb ed="#P" n="2"/>Quomodo post mortem amittatur fides, et in
+            <lb ed="#P" n="3"/>quibus subjectis maneat tandem.
+          </p>
+          <p xml:id="szthvi-a49190-d1e3761">
+            <lb ed="#P" n="4"/>1. Haec quaestio ex dictis de actu, in 
+            dispu<lb break="no" ed="#P" n="5"/>tatione praecedenti, sectione nona, resoluta
+            <lb ed="#P" n="6"/>est; nam generalis regula est, post hanc 
+            vi<lb break="no" ed="#P" n="7"/>tam in his tantum personis conservari 
+            habi<lb break="no" ed="#P" n="8"/>tum fidei, quae possunt actus fidei exercere.
+            <lb ed="#P" n="9"/>Etenim habitus est propter actum. Oportet
+            <lb ed="#P" n="10"/>vero modum corruptionis in singulis 
+            explica<lb break="no" ed="#P" n="11"/>re; suppono autem ex hoc principio, in 
+            pur<lb break="no" ed="#P" n="12"/>gatorio, quamdiu ille status durat, non perdi
+            <lb ed="#P" n="13"/>habitum, quia in illo statu animae vere 
+            cre<lb break="no" ed="#P" n="14"/>dunt fide infusa, ut dixi; solum ergo manet
+            <lb ed="#P" n="15"/>quaestio de statu damnationis et beatitudinis.
+          </p>
+          <p xml:id="szthvi-a49190-d1e3790">
+            <lb ed="#P" n="16"/>2. Opinio Durand, damnatis manere fid
+            <lb ed="#P" n="17"/>Labitum. — Ejus motivum primum. — 
+            Secun<lb break="no" ed="#P" n="18"/>dum. — Tertium. — De primo dixit Durandus,
+            <lb ed="#P" n="19"/>in tertia, distinctione vigesima tertia, 
+            quaes<lb break="no" ed="#P" n="20"/>tione nona, habitum fidei non corrumpi,
+            <lb ed="#P" n="21"/>etiam in illo statu, sed manere in damnatis,
+            <lb ed="#P" n="22"/>quia Magister ibi scripsit in daemonibus esse
+            <lb ed="#P" n="23"/>fidem informem, quod dixit etiam Glossa ad
+            <lb ed="#P" n="24"/>Itomanos primo; et Glossa in rubrica de 
+            sum<lb break="no" ed="#P" n="25"/>ma Trinitate et Fide Catholica. Item quia in
+            <lb ed="#P" n="26"/>damnatis nullus est error fidei contrarius. 
+            De<lb break="no" ed="#P" n="27"/>nique quia character manet in baptizatis ,
+            <lb ed="#P" n="28"/>etiamsi damnentur, ad testimonium culpae 
+            eo<lb break="no" ed="#P" n="29"/>rum; ergo simili modo potest manere fides
+            <lb ed="#P" n="30"/>quoad habitum, etiamsi hic nunquam 
+            opera<lb break="no" ed="#P" n="31"/>turus sit.
+          </p>
+          <p xml:id="szthvi-a49190-d1e3827">
+            <lb ed="#P" n="32"/>3. Opinio contraria multo probabilior ex 
+            auc<lb break="no" ed="#P" n="33"/>Loritate. — E rationibus. — Contraria 
+            senten<lb break="no" ed="#P" n="34"/>tia longe probabilior est, quam tenent divus
+            <lb ed="#P" n="35"/>Thomas, et omnes quos, illa sectione nona,
+            <lb ed="#P" n="36"/>retuli de actu fidei in damnatis. Neque 
+            Ma<lb break="no" ed="#P" n="37"/>gister aut Glossae citatae contradicunt, nam 
+            lo<lb break="no" ed="#P" n="38"/>quuntur de fide informilate, ut includit 
+            acqui<lb break="no" ed="#P" n="39"/>sitam. Et favet Dionysius, capite quarto de
+            <lb ed="#P" n="40"/>Divinis nominibus, dicens in daemonibus nulla
+            <lb ed="#P" n="41"/>fuisse relicta spiritualia dona. Rationes sunt,
+            <lb ed="#P" n="42"/>prima, quia damnati ex statu suo redduntur
+            <lb ed="#P" n="43"/>incapaces actuum fidei , ut supra est 
+            osten<lb break="no" ed="#P" n="44"/>sum; habitus autem est propter actum. 
+            Se<lb break="no" ed="#P" n="45"/>cunda, quia sunt incapaces spei, et 
+            omni<lb break="no" ed="#P" n="46"/>ro extra viam; fides autem datur ut sit 
+            fun<lb break="no" ed="#P" n="47"/>damentum spei, atque ut per illam 
+            ambule<lb break="no" ed="#P" n="48"/>mus. Etita patet responsio ad rationem in
+            <lb ed="#P" n="49"/>contrarium, nam ratione status aufertur hic
+            <lb ed="#P" n="50"/>habitus a damnatis. Addit Paludanus, dicta
+            <lb ed="#P" n="51"/>distinctione vigesima tertia, quaestione quar-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="52"/>ta, ut secundum motivum Durandi solvat,
+            <lb ed="#P" n="53"/>habere damnatos aliquos actus fidei 
+            contra<lb break="no" ed="#P" n="54"/>rios, ubi per evidentiam non coguntur, quod
+            <lb ed="#P" n="55"/>est probabile, sed incertum; satis ergo est
+            <lb ed="#P" n="56"/>quod habent voluntatem prave aftectam, et
+            <lb ed="#P" n="57"/>omnino indispositam ad credendum ; non
+            <lb ed="#P" n="58"/>enim amittunt habitum fidei per formam
+            <lb ed="#P" n="59"/>physice repugnantem, sed propter demeritum,
+            <lb ed="#P" n="60"/>utpote jam in ultimo termino constituti ; quae
+            <lb ed="#P" n="61"/>erat sufficiens ratio ad quam accedit illa prava
+            <lb ed="#P" n="62"/>dispositio. Ad ultimum motivum de 
+            characte<lb break="no" ed="#P" n="63"/>re, primo, non est certum manere in 
+            damna<lb break="no" ed="#P" n="64"/>tis, ut tertia parte, quaestione sexagesima 
+            ter<lb break="no" ed="#P" n="65"/>tia, articulo quinto, in commentario indicavi;
+            <lb ed="#P" n="66"/>et deinde non est eadem ratio, quia character
+            <lb ed="#P" n="67"/>non est virtus neque habitus simpliciter 
+            ope<lb break="no" ed="#P" n="68"/>rativus, sed quoddam signum; fides vero est
+            <lb ed="#P" n="69"/>virtus, et habitus operativus et infusus, quem
+            <lb ed="#P" n="70"/>non decet manere in illo statu.
+          </p>
+          <p xml:id="szthvi-a49190-d1e3917">
+            <lb ed="#P" n="71"/>4. Opinio ejusdem Durandi et aliorum, 
+            ma<lb break="no" ed="#P" n="72"/>nere in beatis fidei habitum.—Oppositum 
+            proba<lb break="no" ed="#P" n="73"/>bilius quoad habitum intellectus ; concinit 
+            au<lb break="no" ed="#P" n="74"/>ctor, 3 p., q. 1, art. 3, in Comment. — 
+            Super<lb break="no" ed="#P" n="75"/>est dicendum de Beatis, de quibus est eadem
+            <lb ed="#P" n="76"/>controversia ; nam Durandus probabile censet
+            <lb ed="#P" n="77"/>conservari in Beatis habitum fidei, et fuit 
+            opi<lb break="no" ed="#P" n="78"/>nio Gerson., in tractatu de Vita spirituali; et
+            <lb ed="#P" n="79"/>consequenter hoc affirmatur, si Beati possunt
+            <lb ed="#P" n="80"/>habere actum fidei, sicut etiam Durandus 
+            opi<lb break="no" ed="#P" n="81"/>natus est. Verumtamen etiamsi nunquam 
+            ha<lb break="no" ed="#P" n="82"/>beant actum, non videtur incredibile, retinere
+            <lb ed="#P" n="83"/>habitum, quia non repugnat, et per se est
+            <lb ed="#P" n="84"/>quaedam perfectio ; cui etiam favere videntur
+            <lb ed="#P" n="85"/>Irenaeus, libro secundo, capite quadragesimo
+            <lb ed="#P" n="86"/>septimo , et libro quarto, capite vigesimo
+            <lb ed="#P" n="87"/>quinto; Tertullianus, in libro de Patientia,
+            <lb ed="#P" n="88"/>circa finem, dum fidem, spem, charitatem in
+            <lb ed="#P" n="89"/>patria manere dicunt. Nihilominus contrarium
+            <lb ed="#P" n="90"/>est probabilius, quod tenet D. Thomas, et alii
+            <lb ed="#P" n="91"/>supra citati de actu. Oportet tamen 
+            distin<lb break="no" ed="#P" n="92"/>guere intellectualem habitum ab habitu 
+            vo<lb break="no" ed="#P" n="93"/>luntatis; nam dce hoc posteriori probabilius
+            <lb ed="#P" n="94"/>est manere in Beatis, quia, ut supra dixi,
+            <lb ed="#P" n="95"/>disputatione sexta, sectione nona, numero 
+            se<lb break="no" ed="#P" n="96"/>ptimo, in illis manet pia affectio, et animi
+            <lb ed="#P" n="97"/>praeparatio ad obediendum fidei, si oporteret,
+            <lb ed="#P" n="98"/>quia est actus per se bonus, et nullo modo
+            <lb ed="#P" n="99"/>repugnans beatidini ; ergo manet etiam 
+            ha<lb break="no" ed="#P" n="100"/>bitus. Quod aperte sentit D. Thomas, tertia
+            <lb ed="#P" n="101"/>parte, quaestione septima, articulo tertio, ad
+            <lb ed="#P" n="102"/>secundum, dicens manere in beatis 
+            obedicn<lb break="no" ed="#P" n="103"/>tiam ad fidem, in qua est honestas et meritum
+            <lb ed="#P" n="104"/>ejus, ut ibi etiam intellexit Cajetanus.
+          </p>
+          <p xml:id="szthvi-a49190-d1e3993">
+            <lb ed="#P" n="105"/>5. Quo pacto habitus luminis glorie 
+            emclu<lb break="no" ed="#P" n="106"/>dat habitum fidei. — Opinio ergo communis
+            <pb ed="#P" n="219"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>intelligenda est de habitu intellectuali. Circa
+            <lb ed="#P" n="2"/>rationem autem ejus difficultas est, an 
+            exclu<lb break="no" ed="#P" n="3"/>datur physice per formam incompossibilem.
+            <lb ed="#P" n="4"/>Nam Capreolus, in tertio, distinctione trigesima
+            <lb ed="#P" n="5"/>prima, et aliqui Thomistae, affirmant ita 
+            ex<lb break="no" ed="#P" n="6"/>cludi per lumen gloriae. Sed non existimo hoc
+            <lb ed="#P" n="7"/>verum, tum quia habitus fidei et scientiae non
+            <lb ed="#P" n="8"/>sunt formaliter repugnantes ; tum etiam quia
+            <lb ed="#P" n="9"/>ex vi luminis solius non repugnaret aliqua
+            <lb ed="#P" n="10"/>credere, saltem non visa, si alias perfectio 
+            sta<lb break="no" ed="#P" n="11"/>tus aliud non postularet. Et confirmatur, quia
+            <lb ed="#P" n="12"/>in Paulo, etiamsi supponatur vidisse Deum in
+            <lb ed="#P" n="13"/>raptu, mansit pro eodem tempore habitus 
+            fi<lb break="no" ed="#P" n="14"/>dei, ut sentit D. Thomas, secunda secunda,
+            <lb ed="#P" n="15"/>quaestione centesima septuagesima quinta, 
+            ar<lb break="no" ed="#P" n="16"/>ticulo tertio, et quaestione decima tertia de
+            <lb ed="#P" n="17"/>Veritat. articulo secundo, ad quintum, cum
+            <lb ed="#P" n="18"/>tamen pro eodem tempore habuerit lumen
+            <lb ed="#P" n="19"/>gloriae ejusdem rationis cum caeteris beatis,
+            <lb ed="#P" n="20"/>nam major vel minor duratio accidentaria
+            <lb ed="#P" n="21"/>est. Dico ergo tolli habitum fidei a Beatis per
+            <lb ed="#P" n="22"/>suspensionem influxus divini, ratione 
+            sta<lb break="no" ed="#P" n="23"/>tus; qui, cum sit ultimus et perfectissimus
+            <lb ed="#P" n="24"/>terminus, non requirit neque admittit 
+            for<lb break="no" ed="#P" n="25"/>mam quasi constituentem statum viatoris.
+            <lb ed="#P" n="26"/>Item, quia per visionem ct perfectionem ejus
+            <lb ed="#P" n="27"/>sunt Beati indispositi et quasi impediti ad 
+            ac<lb break="no" ed="#P" n="28"/>tum fidei, quod impedimentum stabile est et
+            <lb ed="#P" n="29"/>perpetuum; et ideo sunt etiam indispositi ad
+            <lb ed="#P" n="30"/>habitum fidei, et hac ratione usus est D. Tho-
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="31"/>mas, prima secundae, quaestione sexagesima
+            <lb ed="#P" n="32"/>septima, articulo quinto, ad tertium. Et 
+            ea<lb break="no" ed="#P" n="33"/>dem utuntur alii Doctores, dum peculiariter
+            <lb ed="#P" n="34"/>de fide tractant, vel generatim de 
+            perseveran<lb break="no" ed="#P" n="35"/>tia virtutum post hanc vitam, praesertim ad
+            <lb ed="#P" n="36"/>citatum locum D. Thom.
+          </p>
+          <p xml:id="szthvi-a49190-d1e4084">
+            <lb ed="#P" n="37"/>6. Recensentur subjecta in quibus detur 
+            fi<lb break="no" ed="#P" n="38"/>des, in nullo tamen nisi ad tempus. — Ultimo,
+            <lb ed="#P" n="39"/>ex dictis ceclaraium relinquitur , in quibus
+            <lb ed="#P" n="40"/>personis vel subjectis aliquando sit, vel 
+            conser<lb break="no" ed="#P" n="41"/>vetur habitus fidei. Nam de viatoribus, 
+            dicen<lb break="no" ed="#P" n="42"/>dum esse in omnibus baptizatis, tam infantibus
+            <lb ed="#P" n="43"/>quam adultis, qui non posuerunt obicem, quia
+            <lb ed="#P" n="44"/>receperunt effectum Baptismi, in quo habitus
+            <lb ed="#P" n="45"/>fidei includitur. Deinde vero addimus esse in
+            <lb ed="#P" n="46"/>omnibus adultis, etiam non baptizatis, qui
+            <lb ed="#P" n="47"/>actum fidei infusae aliquando habuerunt, et
+            <lb ed="#P" n="48"/>contrarium nunquam admiserunt, quia per
+            <lb ed="#P" n="49"/>actum infunditur habitus; et licet aliqui hoc
+            <lb ed="#P" n="50"/>limitent ad actum fidei formatum, nobis 
+            pro<lb break="no" ed="#P" n="51"/>babilius visum est, procedere de quocumque
+            <lb ed="#P" n="52"/>actu fillel, secundum substantiam et essentiam
+            <lb ed="#P" n="53"/>ejus. Praeterea post hanc vitam jam diximus
+            <lb ed="#P" n="54"/>manere ad tempus in animabus purgatorii, et
+            <lb ed="#P" n="55"/>in illis solis. Unde concluditur in nullo 
+            sub<lb break="no" ed="#P" n="56"/>jecto conservari habitum ftidei in perpetuum,
+            <lb ed="#P" n="57"/>ut ex dictis facile potest inductione ostendi.
+            <lb ed="#P" n="58"/>Et ratio optima est, quia est proprius habitus
+            <lb ed="#P" n="59"/>quasi constituens statum viae, qui nequaquam
+            <lb ed="#P" n="60"/>durat in perpetuum.
+          </p>
+          <p xml:id="szthvi-a49190-d1e4139">
+            <cb ed="#P" n="c"/>
+            <lb ed="#P" n="61"/>Quontam de Dono prophetiae tractatio cum hac de Fide speculativa tractatione magnam
+            <lb ed="#P" n="62"/>habet affinitatem , eam hoc loco seorsim sufficimus ex ipso auctore, qui in priori
+            <lb ed="#P" n="63"/>lectura utramque conjunxerat. Ex qua licet non pauca ipse conjecertt in caput
+            <lb ed="#P" n="64"/>quintum Prologomeni tertii de Gratia, noluimus tamen disputationem preecidere,
+            <lb ed="#P" n="65"/>sed pro praesenti instituto visum est integram edere, praesertim quia in citato capate 3,
+            <lb ed="#P" n="66"/>num. 22, id ipsum legimus animo destinasse Sociarum.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
