@@ -54,15 +54,15 @@
     <body>
       <div xml:id="szthvi-a25989"><!-- t1-d4 -->
         <head xml:id="szthvi-a25989-Hd1e101">Disputatio 4</head>
-        <head xml:id="szthvi-a25989-Hd1e103" type="question-title">De pbopositione objecti fidei sufficiente ac necessaria ad credendum</head>
+        <head xml:id="szthvi-a25989-Hd1e103" type="question-title">De propositione objecti fidei sufficiente ac necessaria ad credendum</head>
         <p xml:id="szthvi-a25989-d1e106">
           <lb ed="#P" n="40"/>DISPUTATIO IV.
-          <lb ed="#P" n="41"/>DE PBOPOSITIONE OBJECTI FIDEI SUFFICIENTE AC
+          <lb ed="#P" n="41"/>DE PROPOSITIONE OBJECTI FIDEI SUFFICIENTE AC
           <lb ed="#P" n="42"/>NECESSARIA AD CREDENDUM.
         </p>
         <p xml:id="szthvi-a25989-d1e115">
-          <lb ed="#P" n="43"/>Necessitas propositionis oritur tum ez parte
-          <lb ed="#P" n="44"/>objecti, quia obscurum est. — Twm ev parte
+          <lb ed="#P" n="43"/>Necessitas propositionis oritur tum ex parte
+          <lb ed="#P" n="44"/>objecti, quia obscurum est. — Tum ex parte
           <lb ed="#P" n="45"/>nostri, quia nequimus aliter credere prudenter.
           <lb ed="#P" n="46"/>—biximus hactenus de toto objecto fidei, tam
           <lb ed="#P" n="47"/>materiali quam formali. Indicavimus etiam,
@@ -138,7 +138,7 @@
             <lb ed="#P" n="3"/>suum, etc., significans omnes esse immediate
             <lb ed="#P" n="4"/>docendos a Deo. Secundum est illud 1.
             <lb ed="#P" n="5"/>Joann. 2: Unctio docebit vos de omnibus, unde
-            <lb ed="#P" n="6"/>ibidem etiam dicitur: Aon necesse habetis, ut
+            <lb ed="#P" n="6"/>ibidem etiam dicitur: Non necesse habetis, ut
             <lb ed="#P" n="7"/>aliquis doceat vos, etc.; cui etiam consonat illud
             <lb ed="#P" n="8"/>Matth. 23: Unus est magister vester, et illud
             <lb ed="#P" n="9"/>Joan. 10: Oves mem vocem meam audiunt, ac
@@ -186,7 +186,7 @@
             supre<lb break="no" ed="#P" n="49"/>mo angelo creditur Deus immediate revelasse
             <lb ed="#P" n="50"/>mysteria, et per eum caeteros suo ordine. Unde
             <lb ed="#P" n="51"/>etiam de Adamo licet verum sit immediate 
-            ac<lb break="no" ed="#P" n="52"/>cepisse a Deoinfusam fidem, nihilominus quoad
+            ac<lb break="no" ed="#P" n="52"/>cepisse a Deo infusam fidem, nihilominus quoad
             <lb ed="#P" n="53"/>objecti propositionem per angelos fuit 
             illumi<lb break="no" ed="#P" n="54"/>natus et doctus, juxta eamdem communem
             <lb ed="#P" n="55"/>doctrinam. Verum haec minus certa sunt, licet
@@ -201,39 +201,42 @@
             doce<lb break="no" ed="#P" n="63"/>rent, et sic per continuam traditionem fides
             <lb ed="#P" n="64"/>ad posteros deveniret, et hoc modo Adam
             <lb ed="#P" n="65"/>instruxit in fide filios suos, et de Abraham
-            <lb ed="#P" n="66"/>dicitur, Genes. 18: Scio quod precepturus sit
-            <lb ed="#P" n="67"/>filiis suis, ec. Deinde de tempore legis 
-            Moy<lb break="no" ed="#P" n="68"/>sis dicitur, Exod. 14: Crediderunt Deo, et
-            <lb ed="#P" n="69"/>Mogsi servo ejus, utique Deo, ut testificanti et
+            <lb ed="#P" n="66"/>
+            dicitur, <ref xml:id="szthvi-a25989-Rd1e419" corresp="#szthvi-a25989-Qd1e421">Genes. 18</ref>: <quote xml:id="szthvi-a25989-Qd1e421" source="http://scta.info/resource/gen18_19@1-7">Scio quod praecepturus sit
+            <lb ed="#P" n="67"/>
+            filiis suis</quote>, ec. Deinde de tempore legis
+            Moy<lb break="no" ed="#P" n="68"/>
+            sis dicitur, <ref xml:id="szthvi-a25989-Rd1e429" corresp="#szthvi-a25989-Qd1e431">Exod. 14</ref>: <quote xml:id="szthvi-a25989-Qd1e431" source="http://scta.info/resource/ex14_31@20-25">Crediderunt Deo, et
+            <lb ed="#P" n="69"/>Moysi servo ejus</quote>, utique Deo, ut testificanti et
             <lb ed="#P" n="70"/>immediate loquenti cum Moyse, Moysi autem
-            <lb ed="#P" n="71"/>ut suflicienter proponenti; nam Deus ad 
+            <lb ed="#P" n="71"/>ut sufficienter proponenti; nam Deus ad 
             to<lb break="no" ed="#P" n="72"/>tum populum per Moysem loquebatur ; 
-            Deu<lb break="no" ed="#P" n="73"/>ter. autem 10 additur: Eruntque verba heec in
-            <lb ed="#P" n="74"/>corde tuo, et docebis ea filiis tuis. Unde est 
-            il<lb break="no" ed="#P" n="75"/>lud Psalm. 71: Quanta mandavit Patribus 
-            no<lb break="no" ed="#P" n="76"/>stris, nota facere ca filiis suis. Praeter haec 
+            <ref xml:id="szthvi-a25989-Rd1e443" corresp="#szthvi-a25989-Qd1e448">Deu<lb break="no" ed="#P" n="73"/>ter. 10</ref> additur: <quote xml:id="szthvi-a25989-Qd1e448" source="http://scta.info/resource/deut6_6@1-11"><!-- todo check and add 6_7 -->Eruntque verba haec in
+            <lb ed="#P" n="74"/>corde tuo, et docebis ea filiis tuis</quote>. Unde est 
+            il<lb break="no" ed="#P" n="75"/>lud <ref xml:id="szthvi-a25989-Rd1e456" corresp="#szthvi-a25989-Qd1e458">Psalm. 71</ref>: <quote xml:id="szthvi-a25989-Qd1e458" source="http://scta.info/resource/ps77_5@11-18">Quanta mandavit Patribus 
+            no<lb break="no" ed="#P" n="76"/>stris, nota facere ea filiis suis</quote>. Praeter haec 
             au<lb break="no" ed="#P" n="77"/>tem saepe Deus per Prophetas loquebatur, et
             <lb ed="#P" n="78"/>novas revelationes proponebat, juxta illud
-            <lb ed="#P" n="79"/>Luc. 1: Sicut locutus est per os Sanctorum, qui
-            <lb ed="#P" n="80"/>a sceculo sunt, prophetarum ejus ; et ad Hebr.
-            <lb ed="#P" n="81"/>1: Olim Deus loguens Patribus in prophetis.
+            <lb ed="#P" n="79"/><ref xml:id="szthvi-a25989-Rd1e469" corresp="#szthvi-a25989-Qd1e471">Luc. 1</ref>: <quote xml:id="szthvi-a25989-Qd1e471" source="http://scta.info/resource/lc1_70">Sicut locutus est per os Sanctorum, qui
+            <lb ed="#P" n="80"/>a saeculo sunt, prophetarum ejus</quote> ; et ad <ref xml:id="szthvi-a25989-Rd1e476" corresp="#szthvi-a25989-Qd1e481">Hebr.
+            <lb ed="#P" n="81"/>1</ref>: <quote xml:id="szthvi-a25989-Qd1e481" source="http://scta.info/resource/hebr1_1">Olim Deus loquens Patribus in prophetis</quote>.
             <lb ed="#P" n="82"/>Denique in lege gratiae, idem modus 
             provi<lb break="no" ed="#P" n="83"/>dentiae et praedicationis fidei servatus est.
             <lb ed="#P" n="84"/>Nam imprimis missus est Joannes, ut omnes
-            <lb ed="#P" n="85"/>crederent per illum ; postea vero Dcus ipse per
+            <lb ed="#P" n="85"/>crederent per illum ; postea vero Deus ipse per
             <lb ed="#P" n="86"/>humanitatem assumptam docuit eos, qui 
             il<lb break="no" ed="#P" n="87"/>lum immediate audire potuerunt. Ad reliquos
-            <lb ed="#P" n="88"/>autem misit Apostolos dicens, Matth. 
-            ulti<lb break="no" ed="#P" n="89"/>mo: Pradicate Evangelium omnaà creaturae ; et
-            <lb ed="#P" n="90"/>subdit: Qui cred:derit, et baptizatus fuerit, 
-            sal<lb break="no" ed="#P" n="91"/>vus erit; et Actor. 1: Fritis mihi testes, etc.,
-            <lb ed="#P" n="92"/>usque ad ultimum terra. Ergo hic est modus
+            <lb ed="#P" n="88"/>autem misit Apostolos dicens, <ref xml:id="szthvi-a25989-Rd1e500" corresp="#szthvi-a25989-Qd1e506"><sic>Matth.</sic> 
+            ulti<lb break="no" ed="#P" n="89"/>mo</ref>: <quote xml:id="szthvi-a25989-Qd1e506" source="http://scta.info/resource/mc16_15@8-11">Praedicate Evangelium omnia creaturae</quote> ; et
+            <lb ed="#P" n="90"/>subdit: <quote xml:id="szthvi-a25989-Qd1e511" source="http://scta.info/resource/mc16_16@1-7">Qui crediderit, et baptizatus fuerit, 
+            sal<lb break="no" ed="#P" n="91"/>vus erit</quote>; et <ref xml:id="szthvi-a25989-Rd1e516" corresp="#szthvi-a25989-Qd1e519">Actor. 1</ref>: <quote xml:id="szthvi-a25989-Qd1e519" source="http://scta.info/resource/act1_8@10-12">Eritis mihi testes, etc.,
+            <lb ed="#P" n="92"/>usque ad ultimum terra</quote>. Ergo hic est modus
             <lb ed="#P" n="93"/>sufticiens, imo et ordinarius, ad proponendam
             <lb ed="#P" n="94"/>et concipiendam fidem. Et ideo dixit Paulus,
-            <lb ed="#P" n="95"/>ad Rom. 10: Fides ex auditu, auditus autem per
-            <lb ed="#P" n="96"/>cerbum Christi. Loquitur autem de verbo 
-            sen<lb break="no" ed="#P" n="97"/>sibili, nam subdit: Quomodo audient sine 
-            pree<lb break="no" ed="#P" n="98"/>dicante, etc.
+            <lb ed="#P" n="95"/>ad <ref xml:id="szthvi-a25989-Rd1e530" corresp="#szthvi-a25989-Qd1e532">Rom. 10</ref>: <quote xml:id="szthvi-a25989-Qd1e532" source="http://scta.info/resource/rom10_17@2-9">Fides ex auditu, auditus autem per
+            <lb ed="#P" n="96"/>cerbum Christi</quote>. Loquitur autem de verbo 
+            sen<lb break="no" ed="#P" n="97"/>sibili, nam subdit: <quote xml:id="szthvi-a25989-Qd1e540" source="http://scta.info/resource/rom10_14@15-19">Quomodo audient sine 
+            prae<lb break="no" ed="#P" n="98"/>dicante</quote>, etc.
           </p>
           <p xml:id="szthvi-a25989-d1e488">
             <lb ed="#P" n="99"/>3. Confirmatur ab absurdo. — Item ez 
@@ -244,9 +247,9 @@
             <lb ed="#P" n="104"/>locutio, et propositio ipsius Dei, haec non
             <lb ed="#P" n="105"/>sufficiunt, imo parum deserviunt. Consequens
             <lb ed="#P" n="106"/>autem est plane haereticum ; nam de 
-            Scri<lb break="no" ed="#P" n="107"/>pturis dicit Christus, Joann. 10: Scerutamini
-            <lb ed="#P" n="108"/>Scripturas, nam ipse testimonium perhübent
-            <lb ed="#P" n="109"/>de me; quamvis enim per homines scriptae
+            Scri<lb break="no" ed="#P" n="107"/>pturis dicit Christus, <ref xml:id="szthvi-a25989-Rd1e568" corresp="#szthvi-a25989-Qd1e572">Joann. <sic>10</sic></ref>: <quote xml:id="szthvi-a25989-Qd1e572" source="http://scta.info/resource/io5_39@1-18">Scrutamini
+            <lb ed="#P" n="108"/>Scripturas, nam ipse testimonium perhibent
+            <lb ed="#P" n="109"/>de me</quote>; quamvis enim per homines scriptae
             <lb ed="#P" n="110"/>sint, tamen Spiritu Sancto inspirati, locuti
             <pb ed="#P" n="113"/>
             <cb ed="#P" n="a"/>
@@ -295,17 +298,17 @@
             <lb ed="#P" n="41"/>lucis, et inde nascerentur infinitae divisiones
             <lb ed="#P" n="42"/>et schismata, quia non tenerentur homines
             <lb ed="#P" n="43"/>fidem dare exteriori doctrinae, sed interiori
-            <lb ed="#P" n="44"/>imaginationi, contra illud Pauli : Si Angelus
-            <lb ed="#P" n="45"/>de calo evangelizaverit vobis aliter quam 
-            evan<lb break="no" ed="#P" n="46"/>gelizatum est, anathema sit. Tertio, potuit hoc
+            <lb ed="#P" n="44"/>imaginationi, contra <ref xml:id="szthvi-a25989-Rd1e684" corresp="#szthvi-a25989-Qd1e686">illud Pauli</ref> : <quote xml:id="szthvi-a25989-Qd1e686" source="http://scta.info/resource/gal1_8@5-15">Si Angelus
+            <lb ed="#P" n="45"/>de caelo evangelizaverit vobis aliter quam 
+            evan<lb break="no" ed="#P" n="46"/>gelizatum est, anathema sit</quote>. Tertio, potuit hoc
             <lb ed="#P" n="47"/>conferre ad majus meritum fidei, et majorem
             <lb ed="#P" n="48"/>humilitatem exercendam, dum in re 
             difficil<lb break="no" ed="#P" n="49"/>lima homo subjicitur homini, etiam quoad 
-            in<lb break="no" ed="#P" n="50"/>tellectum, in quo solet esse major difticultas.
+            in<lb break="no" ed="#P" n="50"/>tellectum, in quo solet esse major difficultas.
             <lb ed="#P" n="51"/>Hae autem rationes omnes supponunt hunc
             <lb ed="#P" n="52"/>modum propositionis fidei posse esse 
             sufli<lb break="no" ed="#P" n="53"/>cientem, quod ex usu ipso satis probatum 
-            re<lb break="no" ed="#P" n="54"/>linquitur; modus autem hujus suflicientiae 
+            re<lb break="no" ed="#P" n="54"/>linquitur; modus autem hujus sufficientiae 
             in<lb break="no" ed="#P" n="55"/>sinuabitur statim respondendo ad rationem
             <cb ed="#P" n="b"/>
             <lb ed="#P" n="56"/>contrarii erroris, et latius in sequentibus 
@@ -360,19 +363,19 @@
             fi<lb break="no" ed="#P" n="103"/>dem, dici potest dignationis, seu specialis
             <lb ed="#P" n="104"/>dispensationis ; et haec fuit propositio fidei per
             <lb ed="#P" n="105"/>Christum Dominum facta, de qua Paulus, ad
-            <lb ed="#P" n="106"/>Hebr. 1: Oiin Deus loquens Patribus in 
-            Pro<lb break="no" ed="#P" n="107"/>phetis, novissime locutus est nobis in Filio, id
-            <lb ed="#P" n="108"/>est, per Filium; et hoc est quod, Isai. 14, 
-            prae<lb break="no" ed="#P" n="109"/>dictum erat: Dabo filios tuos doctos a Domino.
-            <lb ed="#P" n="110"/>Propter quod dixit Christus Dominus, Joan.
+            <lb ed="#P" n="106"/><ref xml:id="szthvi-a25989-Rd1e827" corresp="#szthvi-a25989-Qd1e829">Hebr. 1</ref>: <quote xml:id="szthvi-a25989-Qd1e829" source="http://scta.info/resource/hebr1_1@5-10 http://scta.info/resource/hebr1_2@1-8">Olim Deus loquens Patribus in 
+            Pro<lb break="no" ed="#P" n="107"/>phetis, novissime locutus est nobis in Filio</quote>, id
+            <lb ed="#P" n="108"/>est, per Filium; et hoc est quod, <ref xml:id="szthvi-a25989-Rd1e836">Isai. <sic>14</sic></ref>, 
+            prae<lb break="no" ed="#P" n="109"/>dictum erat: <quote xml:id="szthvi-a25989-Qd1e843" source="http://scta.info/resource/is54_13@2-6">Dabo filios tuos doctos a Domino</quote>.
+            <lb ed="#P" n="110"/>Propter quod dixit Christus Dominus, <ref xml:id="szthvi-a25989-Rd1e848">Joan.
             <pb ed="#P" n="114"/>
             <cb ed="#P" n="a"/>
-            <lb ed="#P" n="1"/>6: Scriptum est in Prophetis : Erunt omnes
-            <lb ed="#P" n="2"/>docibiles Dei, ut notavit Hieronymus ad 
+            <lb ed="#P" n="1"/>6</ref>: <quote xml:id="szthvi-a25989-Qd1e857" source="http://scta.info/resource/io6_45@1-9">Scriptum est in Prophetis : Erunt omnes
+            <lb ed="#P" n="2"/>docibiles Dei</quote>, ut notavit Hieronymus ad 
             dic<lb break="no" ed="#P" n="3"/>tum locum Isaiae. Tertius casus vocari potest
             <lb ed="#P" n="4"/>specialis privilegii, sicut Paulus de se dicit:
-            <lb ed="#P" n="5"/>Non ab hominibus , neque per hominem, sed per
-            <lb ed="#P" n="6"/>Jesum Christum, ad Galat. 1; et fortasse hoc
+            <lb ed="#P" n="5"/><quote xml:id="szthvi-a25989-Qd1e868" source="http://scta.info/resource/gal1_11@13-16 http://scta.info/resource/gal1_12@1-14">Non ab hominibus , neque per hominem, sed per
+            <lb ed="#P" n="6"/>Jesum Christum</quote>, <ref xml:id="szthvi-a25989-Rd1e873">ad Galat. 1</ref>; et fortasse hoc
             <lb ed="#P" n="7"/>privilegium concessum est Moysi, Davidi, aut
             <lb ed="#P" n="8"/>aliis eximiis Prophetis, quamvis, juxta 
             doc<lb break="no" ed="#P" n="9"/>trinam Dionysii et Theologorum, probabilius
@@ -392,9 +395,9 @@
             generali<lb break="no" ed="#P" n="21"/>ter concurrendo per modum causae primae,
             <lb ed="#P" n="22"/>quod per se clarum est, sed etiam speciahter
             <lb ed="#P" n="23"/>adjuvando, et peculiari modo doctrinam 
-            con<lb break="no" ed="#P" n="24"/>firmando, juxta illud Marci, ultimo: 
-            Predi<lb break="no" ed="#P" n="25"/>caverunt ubique Domino cooperante, et 
-            sermo<lb break="no" ed="#P" n="26"/>nem confirmante, sequentibus signis. Ratio 
+            con<lb break="no" ed="#P" n="24"/>firmando, juxta <ref xml:id="szthvi-a25989-Rd1e917">illud Marci, ultimo</ref>: 
+            <quote xml:id="szthvi-a25989-Qd1e919" source="http://scta.info/resource/mc16_20@4-12">Predi<lb break="no" ed="#P" n="25"/>caverunt ubique Domino cooperante, et 
+            sermo<lb break="no" ed="#P" n="26"/>nem confirmante, sequentibus signis</quote>. Ratio 
             au<lb break="no" ed="#P" n="27"/>tem est, quia doctrina fidei est valde 
             super<lb break="no" ed="#P" n="28"/>naturalis, et magna ex parte repugnans 
             hu<lb break="no" ed="#P" n="29"/>manae concupiscentiae, et ideo, ut credibilis
@@ -466,8 +469,8 @@
             <lb ed="#P" n="92"/>Spiritus Sancti illuminatio, danda hominibus
             <lb ed="#P" n="93"/>in hoc tempore legis gratiae, ad credenda et
             <lb ed="#P" n="94"/>intelligenda mysteria quae illis praedicantur,
-            <lb ed="#P" n="95"/>juxta illud Joel. 2: Fffundam de spiritu meo
-            <lb ed="#P" n="96"/>super omnem carnem ; unde in hoc valde 
+            <lb ed="#P" n="95"/>juxta <ref xml:id="szthvi-a25989-Rd1e1080">illud Joel. 2</ref>: <quote xml:id="szthvi-a25989-Qd1e1082" source="http://scta.info/resource/ioel2_28@5-10">Effundam de spiritu meo
+            <lb ed="#P" n="96"/>super omnem carnem</quote> ; unde in hoc valde 
             er<lb break="no" ed="#P" n="97"/>rant haeretici, nam confundunt internum 
             spi<lb break="no" ed="#P" n="98"/>ritum et auxilium gratiae necessarium ad
             <lb ed="#P" n="99"/>credendum , cum interna revelatione. Cum
@@ -485,22 +488,22 @@
             <pb ed="#P" n="115"/>
             <cb ed="#P" n="a"/>
             <lb ed="#P" n="1"/>regulariter loquendo, quod clare insinuavit
-            <lb ed="#P" n="2"/>ibidem Joannes, dicens: Quwod audistis ab
-            <lb ed="#P" n="3"/>initio, in vobis permaneat, ubi recte 
+            <lb ed="#P" n="2"/>ibidem Joannes, dicens: <quote xml:id="szthvi-a25989-Qd1e1126" source="http://scta.info/resource/Iio2_24@2-8">Quod audistis ab
+            <lb ed="#P" n="3"/>initio, in vobis permaneat</quote>, ubi recte 
             Augusti<lb break="no" ed="#P" n="4"/>nus, tract. 3, notat superfluum fuisse 
-            Joan<lb break="no" ed="#P" n="5"/>nem moncre, ut doctrinam datam retinerent,
-            <lb ed="#P" n="6"/>si sola interior illumipatio seu revelatio 
+            Joan<lb break="no" ed="#P" n="5"/>nem monere, ut doctrinam datam retinerent,
+            <lb ed="#P" n="6"/>si sola interior illuminatio seu revelatio 
             sufli<lb break="no" ed="#P" n="7"/>ceret, de quo etiam videri potest optime 
             Gre<lb break="no" ed="#P" n="8"/>gorius, 5 Moral., cap. 18, alias 19. Et hinc
             <lb ed="#P" n="9"/>patet responsio ad caetera testimonia ; nam
             <lb ed="#P" n="10"/>ratione interni auxilii gratiae, dicitur Deus
-            <lb ed="#P" n="11"/>specialiter docere credentes, juxta illud Psal.
-            <lb ed="#P" n="12"/>93 : Beatus quem tu erudieris, Domine, et de
-            <lb ed="#P" n="13"/>lege tua docueris eum ; et ideo Augustinus 
+            <lb ed="#P" n="11"/>specialiter docere credentes, juxta <ref xml:id="szthvi-a25989-Rd1e1149">illud Psal.
+            <lb ed="#P" n="12"/>93</ref> : <quote xml:id="szthvi-a25989-Qd1e1154" source="http://scta.info/resource/ps93_12@1-12">Beatus quem tu erudieris, Domine, et de
+            <lb ed="#P" n="13"/>lege tua docueris eum</quote> ; et ideo Augustinus 
             sae<lb break="no" ed="#P" n="14"/>pe auxilium gratiae vocat interiorem 
             doctri<lb break="no" ed="#P" n="15"/>nam, quae regulariter exteriorem supponit,
             <lb ed="#P" n="16"/>et hoc modo exponit Gregorius supra locum
-            <lb ed="#P" n="17"/>Matth. 23 : Unus est magister vester. Et sic
+            <lb ed="#P" n="17"/><ref xml:id="szthvi-a25989-Rd1e1167" corresp="#szthvi-a25989-Qd1e1169">Matth. 23</ref> : <quote xml:id="szthvi-a25989-Qd1e1169" source="http://scta.info/resource/mt23_8@6-10">Unus est magister vester</quote>. Et sic
             <lb ed="#P" n="18"/>etiam oves Christi dicuntur cocem ejus audire,
             <lb ed="#P" n="19"/>et spiritualis dicitur omnia judicare, per 
             regu<lb break="no" ed="#P" n="20"/>las tamen et documenta fidei, et ad hunc 
@@ -539,10 +542,10 @@
             <lb ed="#P" n="43"/>ut ait Basilius in Psalm. 115, reprehendere
             <lb ed="#P" n="44"/>Christianos, eo quod sine ratione, vel, ut ipsi
             <lb ed="#P" n="45"/>putant, contra rationem credant ; qua de 
-            cau<lb break="no" ed="#P" n="46"/>sa dixit Paulus, 1 ad Corinth. 1:Verbum 
-            cra<lb break="no" ed="#P" n="47"/>cis percuntibus videri stultitiam, et similiter
-            <lb ed="#P" n="48"/>ait Christum crucifizum Judeeis esse 
-            scauda<lb break="no" ed="#P" n="49"/>lum, Gentibus autem stultitiam. Prophirius
+            cau<lb break="no" ed="#P" n="46"/>sa dixit Paulus, <ref xml:id="szthvi-a25989-Rd1e1253" corresp="#szthvi-a25989-Qd1e1255">1 ad Corinth. 1</ref>: <quote xml:id="szthvi-a25989-Qd1e1255" source="http://scta.info/resource/Icor1_18@1-6">Verbum 
+            cru<lb break="no" ed="#P" n="47"/>cis pereuntibus videri stultitiam</quote>, et similiter
+            <lb ed="#P" n="48"/>ait <quote xml:id="szthvi-a25989-Qd1e1262" source="http://scta.info/resource/Icor1_23@4-11">Christum crucifixum Judaeis esse 
+            scanda<lb break="no" ed="#P" n="49"/>lum, Gentibus autem stultitiam</quote>. Prophirius
             <lb ed="#P" n="50"/>etiam, et Julianus Apostata, ut refert divus
             <lb ed="#P" n="51"/>Hieronymus, Matth. 9, irridebant stultitiam
             <lb ed="#P" n="52"/>eorum qui Christi doctrinam et vocationem
@@ -559,9 +562,9 @@
             pos<lb break="no" ed="#P" n="62"/>simus rationem reddere propriam earum 
             re<lb break="no" ed="#P" n="63"/>rum quas credimus, posse nihilominus 
             sufti<lb break="no" ed="#P" n="64"/>cientem rationem reddere cur credamus ; sic
-            <lb ed="#P" n="65"/>enim dixit Petrus, 1 can., cap. 3, paratos nos
-            <lb ed="#P" n="66"/>esse debere ad reddendam rationem ejus, quee
-            <lb ed="#P" n="67"/>in uolis est spei seu fidei. Hane ergo rationem
+            <lb ed="#P" n="65"/>enim dixit Petrus, <ref xml:id="szthvi-a25989-Rd1e1304" corresp="#szthvi-a25989-Qd1e1306">1 can., cap. 3</ref>, <quote xml:id="szthvi-a25989-Qd1e1306" source="http://scta.info/resource/Ipetr3_15@8-22">paratos nos
+            <lb ed="#P" n="66"/>esse debere ad reddendam rationem ejus, quae
+            <lb ed="#P" n="67"/>in nobis est spei seu fidei</quote>. Hanc ergo rationem
             <lb ed="#P" n="68"/>in praesenti inquirimus, nam ex hoc pendet
             <lb ed="#P" n="69"/>ut sciamus qtiomodo possit talis esse 
             proposi<lb break="no" ed="#P" n="70"/>tio fidei, ut sit rationi consentaneum illam
@@ -637,8 +640,8 @@
             circum<lb break="no" ed="#P" n="27"/>stantiis proponi, ut prudenter appareat 
             credi<lb break="no" ed="#P" n="28"/>bile, eo modo quo proponitur. Haec assertio
             <lb ed="#P" n="29"/>indubitata est apud omnes, et ratio est, quia
-            <lb ed="#P" n="30"/>qui cito credit, levis est corde, Ecclesiast.
-            <lb ed="#P" n="31"/>19; dicitur autem cito et leviter credere, qui
+            <lb ed="#P" n="30"/><quote xml:id="szthvi-a25989-Qd1e1475" source="http://scta.info/resource/sir19_4@1-5">qui cito credit, levis est corde</quote>, <ref xml:id="szthvi-a25989-Rd1e1478" corresp="#szthvi-a25989-Qd1e1475">Ecclesiast.
+            <lb ed="#P" n="31"/>19</ref>; dicitur autem cito et leviter credere, qui
             <lb ed="#P" n="32"/>imprudenter credit; ergo qui sic credit, non
             <lb ed="#P" n="33"/>potest credere fide divina; ergo necessaria est
             <lb ed="#P" n="34"/>talis propositio objecti credendi per hanc 
@@ -782,7 +785,7 @@
             <lb ed="#P" n="55"/>fides ita est certa, ut semel concepta mutari
             <cb ed="#P" n="b"/>
             <lb ed="#P" n="56"/>non possit, juxta testimonium Pauli saepe 
-            ci<lb break="no" ed="#P" n="57"/>tatum, ad Galat. 1: Si angelus de colo, etc.;
+            ci<lb break="no" ed="#P" n="57"/>tatum, <ref xml:id="szthvi-a25989-Rd1e1792" corresp="#szthvi-a25989-Qd1e1794">ad Galat. 1</ref>: <quote xml:id="szthvi-a25989-Qd1e1794" source="http://scta.info/resource/gal1_8@4-7">Si angelus de coelo, etc.</quote>;
             <lb ed="#P" n="58"/>ideo talem certitudinem practicam requirit in
             <lb ed="#P" n="59"/>judicio credendorum, ut fundetur in 
             eviden<lb break="no" ed="#P" n="60"/>tia credibilitatis, et non in sola probabilitate,
@@ -811,17 +814,17 @@
             argumen<lb break="no" ed="#P" n="83"/>tis, et signis divina auctoritatis. Ideo enim
             <lb ed="#P" n="84"/>quando praedicatores mittit, dat eis 
             potesta<lb break="no" ed="#P" n="85"/>tem faciendi signa, et mirabilia, ut patet
-            <lb ed="#P" n="86"/>Exod. 4, Luc. 19 et 10, et notat D. Thomas
-            <lb ed="#P" n="87"/>in illud ad Roman. 10: Quomodo credent sine
-            <lb ed="#P" n="88"/>predicante, et quomodo pradicabunt, utique
+            <lb ed="#P" n="86"/><ref xml:id="szthvi-a25989-Rd1e1859">Exod. 4</ref>, <ref xml:id="szthvi-a25989-Rd1e1861">Luc. 19 et 10</ref>, et notat D. Thomas
+            <lb ed="#P" n="87"/>in <ref xml:id="szthvi-a25989-Rd1e1865" corresp="#szthvi-a25989-Qd1e1867">illud ad Roman. 10</ref>: <quote xml:id="szthvi-a25989-Qd1e1867" source="http://scta.info/resource/rom10_14@9-19">Quomodo credent sine
+            <lb ed="#P" n="88"/>praedicante, et quomodo praedicabunt</quote>, utique
             <lb ed="#P" n="89"/>sufficienter, et ita ut obligent alios ad 
-            creden<lb break="no" ed="#P" n="90"/>dum, nisi miltantur, utique cum divina 
+            creden<lb break="no" ed="#P" n="90"/>dum, nisi militantur, utique cum divina 
             vir<lb break="no" ed="#P" n="91"/>tute, vel adjutorio quo possint res facere 
             suf<lb break="no" ed="#P" n="92"/>ficienter credibiles, juxta dicta in sectione
             <lb ed="#P" n="93"/>praecedente.
           </p>
           <p xml:id="szthvi-a25989-d1e1735">
-            <lb ed="#P" n="94"/>6. Assertio tertia.—sSequitur ex 
+            <lb ed="#P" n="94"/>6. Assertio tertia. —Sequitur ex 
             praceden<lb break="no" ed="#P" n="95"/>ti.—Ex quibus infero, et dico tertio, ut 
             objec<lb break="no" ed="#P" n="96"/>tum fidei sufficienter proponatur, non solum
             <lb ed="#P" n="97"/>objectum debere fieri evidenter credibile,
@@ -1085,15 +1088,15 @@
             de<lb break="no" ed="#P" n="8"/>nique ipsum Catholice nomen, quod non sine
             <lb ed="#P" n="9"/>causa inter tam mullas heereses sola hec 
             Ec<lb break="no" ed="#P" n="10"/>clesia obtinuit. Consonat etiam huic veritati
-            <lb ed="#P" n="11"/>Scriptura, dicens : Testimonia tua credibilia
-            <lb ed="#P" n="12"/>facta sunt nimis, Psalm. 92. Et quod dixit
-            <lb ed="#P" n="13"/>Paulus, ad Hebr. 2 : Quomodo nos effugiemus,
-            <lb ed="#P" n="14"/>scilicet iram Dei, s tantam negleserimus 
+            <lb ed="#P" n="11"/>Scriptura, dicens : <quote xml:id="szthvi-a25989-Qd1e2451" source="http://scta.info/resource/ps92_5@1-6">Testimonia tua credibilia
+            <lb ed="#P" n="12"/>facta sunt nimis</quote>, <ref xml:id="szthvi-a25989-Rd1e2456">Psalm. 92</ref>. Et quod dixit
+            <lb ed="#P" n="13"/>Paulus, <ref xml:id="szthvi-a25989-Rd1e2461" corresp="#szthvi-a25989-Qd1e2463">ad Hebr. 2</ref> : <quote xml:id="szthvi-a25989-Qd1e2463" source="http://scta.info/resource/hebr2_3@1-22 http://scta.info/resource/hebr2_4@1-5">Quomodo nos effugiemus,
+            <lb ed="#P" n="14"/>scilicet iram Dei, s tantam neglexerimus 
             sa<lb break="no" ed="#P" n="15"/>lutem, quae cum initium accepisset narrari per
             <lb ed="#P" n="16"/>Dominum, in nos confirmata est, contestante
-            <lb ed="#P" n="17"/>Deo, signis et portentis, etc.? Cui consonant
-            <lb ed="#P" n="18"/>illa verba Christi Domini, Joan. 15 : Si opera
-            <lb ed="#P" n="19"/>non fecissem n eis, etc., nunc autem 
+            <lb ed="#P" n="17"/>Deo, signis et portentis, etc.</quote>? Cui consonant
+            <lb ed="#P" n="18"/>illa verba Christi Domini, <ref xml:id="szthvi-a25989-Rd1e2476" corresp="#szthvi-a25989-Qd1e2478">Joan. 15</ref> : <quote xml:id="szthvi-a25989-Qd1e2478" source="http://scta.info/resource/io15_24@1-6">Si opera
+            <lb ed="#P" n="19"/>non fecissem in eis</quote>, etc., nunc autem 
             excusa<lb break="no" ed="#P" n="20"/>tionem non habent de peccato suo.
           </p>
           <p xml:id="szthvi-a25989-d1e2321">
@@ -1170,10 +1173,10 @@
             <lb ed="#P" n="88"/>omnia tradat, quae ad rectitudinem vitae 
             ne<lb break="no" ed="#P" n="89"/>cessaria sint et sufficiant; nam cum Deus sit
             <lb ed="#P" n="90"/>summe bonus, non potest pravitatem docere,
-            <lb ed="#P" n="91"/>aut consulere, juxta illud Psalm. 18: Lea 
-            Do<lb break="no" ed="#P" n="92"/>mini immaculata ; et Psalm. 118 : Non enim
+            <lb ed="#P" n="91"/>aut consulere, juxta <ref xml:id="szthvi-a25989-Rd1e2647" corresp="#szthvi-a25989-Qd1e2649">illud Psalm. 18</ref>: <quote xml:id="szthvi-a25989-Qd1e2649" source="http://scta.info/resource/ps18_8@1-3">Lex 
+            Do<lb break="no" ed="#P" n="92"/>mini immaculata</quote> ; et <ref xml:id="szthvi-a25989-Rd1e2654" corresp="#szthvi-a25989-Qd1e2657">Psalm. 118</ref> : <quote xml:id="szthvi-a25989-Qd1e2657" source="http://scta.info/resource/ps118_3@1-8">Non enim
             <lb ed="#P" n="93"/>qui operantur iniquitatem, in viis ejus 
-            ambu<lb break="no" ed="#P" n="94"/>laverunt. Et quia Dei etiam providentia 
+            ambu<lb break="no" ed="#P" n="94"/>laverunt</quote>. Et quia Dei etiam providentia 
             per<lb break="no" ed="#P" n="95"/>fecta est, nihil in sua doctrina omittit, quod
             <lb ed="#P" n="96"/>ad vitae honestatem sit necessarium. Quod
             <lb ed="#P" n="97"/>autem in doctrina nostrae fidei haec conditio
@@ -1185,7 +1188,7 @@
             <lb ed="#P" n="103"/>non solum nihil continet illi contrarium, 
             ve<lb break="no" ed="#P" n="104"/>rum etiam multa declarat et consulit, quae ad
             <lb ed="#P" n="105"/>perfectiorem illius observationem conferunt,
-            <lb ed="#P" n="106"/>ut constat ex doctrina Christi, Matth. 5, quae
+            <lb ed="#P" n="106"/>ut constat ex doctrina Christi, <ref xml:id="szthvi-a25989-Rd1e2690">Matth. 5</ref>, quae
             <lb ed="#P" n="107"/>est maxime consentanea rationi naturali; et
             <lb ed="#P" n="108"/>nullus philosophorum illam assequi potuit.
             <lb ed="#P" n="109"/>Supernaturalia vero habent easdem 
@@ -1236,12 +1239,12 @@
             hu<lb break="no" ed="#P" n="40"/>manam sapientiam non instructi, per hujus
             <lb ed="#P" n="41"/>doctrinae praedicationem mundum superarunt;
             <lb ed="#P" n="42"/>non ergo in humane sapientie verbis, sed in
-            <lb ed="#P" n="43"/>virtute Spiritus, ut dixit Paulus, 1 ad 
-            Corin<lb break="no" ed="#P" n="44"/>thios, 2. Nam quee infirma sunt Dei, fortiora
-            <lb ed="#P" n="45"/>sunt hominibus, ut idem dixit, in eadem 
-            Epis<lb break="no" ed="#P" n="46"/>tola; et in secunda, capitulo decimo: Arma
-            <lb ed="#P" n="47"/>mnilitie nostre, non carnalia sunt, sed 
-            spiri<lb break="no" ed="#P" n="48"/>tualia potentia Deo; et hoc maxime 
+            <lb ed="#P" n="43"/>virtute Spiritus, ut dixit Paulus, <ref xml:id="szthvi-a25989-Rd1e2801">1 ad 
+            Corin<lb break="no" ed="#P" n="44"/>thios, 2</ref>. Nam <quote xml:id="szthvi-a25989-Qd1e2806" source="http://scta.info/resource/Icor1_25@10-16">quae infirma sunt Dei, fortiora
+            <lb ed="#P" n="45"/>sunt hominibus</quote>, ut idem dixit, in eadem 
+            Epis<lb break="no" ed="#P" n="46"/>tola; et <ref xml:id="szthvi-a25989-Rd1e2813" corresp="#szthvi-a25989-Qd1e2816">in secunda, capitulo decimo</ref>: <quote xml:id="szthvi-a25989-Qd1e2816" source="http://scta.info/resource/IIcor10_4@2-9">Arma
+            <lb ed="#P" n="47"/>militie nostre, non carnalia sunt, sed 
+            spiri<lb break="no" ed="#P" n="48"/>tualia potentia Deo</quote>; et hoc maxime 
             persua<lb break="no" ed="#P" n="49"/>det, quod hujusmodi homines, nec 
             tempo<lb break="no" ed="#P" n="50"/>ralia praemia aut honores quaerebant, neque
             <lb ed="#P" n="51"/>illa suis discipulis promittebant, nec etiam
@@ -1251,10 +1254,10 @@
             <lb ed="#P" n="55"/>persuaserunt ; ergo signum est non fuisse ver-
             <cb ed="#P" n="b"/>
             <lb ed="#P" n="56"/>bum hominum, sed verbum Dei, quod 
-            effica<lb break="no" ed="#P" n="57"/>cissimum est ad concertendas animas, Psalm.
-            <lb ed="#P" n="58"/>18; et Jerem. 23 dicitur esse malleus conterens
-            <lb ed="#P" n="59"/>petras; et ad Hebr. quarto, dicitur sermo 
-            efft<lb break="no" ed="#P" n="60"/>cazx, et penetrabilior omni gladio ancigiti, etc.,
+            effica<lb break="no" ed="#P" n="57"/>cissimum est ad concertendas animas, <ref xml:id="szthvi-a25989-Rd1e2844">Psalm.
+            <lb ed="#P" n="58"/>18</ref>; et <ref xml:id="szthvi-a25989-Rd1e2850" corresp="#szthvi-a25989-Qd1e2852">Jerem. 23</ref> dicitur esse <quote xml:id="szthvi-a25989-Qd1e2852" source="http://scta.info/resource/ier23_29@12-14">malleus conterens
+            <lb ed="#P" n="59"/>petras</quote>; et <ref xml:id="szthvi-a25989-Rd1e2857" corresp="#szthvi-a25989-Qd1e2859">ad Hebr. quarto</ref>, dicitur <quote xml:id="szthvi-a25989-Qd1e2859" source="http://scta.info/resource/hebr4_12@5-12">sermo 
+            effi<lb break="no" ed="#P" n="60"/>cax, et penetrabilior omni gladio acipiti, etc.</quote>,
             <lb ed="#P" n="61"/>de quo videri potest Chrysostomus, homil. 66
             <lb ed="#P" n="62"/>ad Populum. Huc accedit quod, per efficaciam
             <lb ed="#P" n="63"/>hujus verbi, brevi tempore idola fuerunt 
@@ -1272,7 +1275,7 @@
             testi<lb break="no" ed="#P" n="75"/>monium ipsius Trinitatis in Christi baptismate,
             <lb ed="#P" n="76"/>et praesertim testimonium aeterni Patris, quod
             <lb ed="#P" n="77"/>in confirmatione suae doctrinae Christus 
-            ad<lb break="no" ed="#P" n="78"/>duxit, Joan. octavo. Item possemus afferre
+            ad<lb break="no" ed="#P" n="78"/>duxit, <ref xml:id="szthvi-a25989-Rd1e2903">Joan. octavo</ref>. Item possemus afferre
             <lb ed="#P" n="79"/>testimonia Angelorum in Christi nativitate,
             <lb ed="#P" n="80"/>et aliis mysteriis ; tamen, quia hujusmodi
             <lb ed="#P" n="81"/>personae testificantes non erant visibiles 
@@ -1292,8 +1295,8 @@
             praedi<lb break="no" ed="#P" n="95"/>cationibus suis. Deinde etiam ante adventum
             <lb ed="#P" n="96"/>Christi habuit haec doctrina testimonium a
             <lb ed="#P" n="97"/>lege et Prophetis, et specialiter Moyses 
-            prae<lb break="no" ed="#P" n="98"/>monuit : Prophetam sicut me suscitabit tibi
-            <lb ed="#P" n="99"/>Dominus, ipsum audies. Praecessit etiam 
+            prae<lb break="no" ed="#P" n="98"/>monuit : <quote xml:id="szthvi-a25989-Qd1e2949" source="http://scta.info/resource/deut18_15">Prophetam sicut me suscitabit tibi
+            <lb ed="#P" n="99"/>Dominus, ipsum audies</quote>. Praecessit etiam 
             tes<lb break="no" ed="#P" n="100"/>timonium Joannis Baptistae, quod maxime
             <lb ed="#P" n="101"/>propter vitae admirationem fuit sufficiens de
             <lb ed="#P" n="102"/>se ad persuadendum et praeparandum 
@@ -1399,8 +1402,8 @@
             ter<lb break="no" ed="#P" n="87"/>ram cadebant , mult?plicata enascebantur , ut
             <lb ed="#P" n="88"/>dixit Leo Magnus, serm. 1 de Apostolis Petro
             <lb ed="#P" n="89"/>et Paulo; et Justinus Martyr, Dialog. cum 
-            Tri<lb break="no" ed="#P" n="90"/>phone, multo ante finem, citans illud Psal.
-            <lb ed="#P" n="91"/>121 : Uzor tua sicut vitis abundans , dicit,
+            Tri<lb break="no" ed="#P" n="90"/>phone, multo ante finem, citans <ref xml:id="szthvi-a25989-Rd1e3182">illud Psal.
+            <lb ed="#P" n="91"/>121</ref> : <quote xml:id="szthvi-a25989-Qd1e3187" source="http://scta.info/resource/ps127_3">Uzor tua sicut vitis abundans</quote> , dicit,
             <lb ed="#P" n="92"/>sicut vinea crescit dum putatur, ita Ecclesiam
             <lb ed="#P" n="93"/>crevisse per suos martyres. Dc quo argumento
             <lb ed="#P" n="94"/>plura videri possunt in Cyprian. (si tamen
@@ -1465,8 +1468,8 @@
             <lb ed="#P" n="39"/>locum tenent miracula. Est enim miraculum
             <lb ed="#P" n="40"/>pignus quoddam omnipotentiae Dei, ut dixit
             <lb ed="#P" n="41"/>Chrysostomus, homil. 14 in Matth., quia est
-            <lb ed="#P" n="42"/>proprium opus ejus, juxta illud Psalm. 136:
-            <lb ed="#P" n="43"/>Qui facit mirabilia magna solus. Ratio est,
+            <lb ed="#P" n="42"/>proprium opus ejus, juxta <ref xml:id="szthvi-a25989-Rd1e3327">illud Psalm. 136</ref>:
+            <lb ed="#P" n="43"/><quote xml:id="szthvi-a25989-Qd1e3331" source="http://scta.info/resource/ps135_4">Qui facit mirabilia magna solus</quote>. Ratio est,
             <lb ed="#P" n="44"/>quia de ratione miraculi est, ut sit opus 
             ex<lb break="no" ed="#P" n="45"/>traordinarium et rarum praeter legem 
             ordina<lb break="no" ed="#P" n="46"/>riam Dei, et supra omnem virtutem 
@@ -1525,12 +1528,12 @@
             <lb ed="#P" n="96"/>daemonis fiunt similia prodigia, quae vix 
             pos<lb break="no" ed="#P" n="97"/>sunt humano modo discerni a veris miraculis,
             <lb ed="#P" n="98"/>ut constat ex his quae operabantur magi in
-            <lb ed="#P" n="99"/>JEgy pto, Exodi 7; item ex his quae, ut 3 p.,
+            <lb ed="#P" n="99"/>JEgy pto, <ref xml:id="szthvi-a25989-Rd1e3460">Exodi 7</ref>; item ex his quae, ut 3 p.,
             <lb ed="#P" n="100"/>tom. 2, disp. 54, sect. 4, dixi, Antichristus
             <lb ed="#P" n="101"/>operabitur, quae talia erunt, ut (s? fieri 
             po<lb break="no" ed="#P" n="102"/>test) per ea inducantur in errorem etiam electi,
-            <lb ed="#P" n="103"/>ut dicitur Matth. 24, et colligitur ex Apocal.
-            <lb ed="#P" n="104"/>13. Item haeretici interdum profitentur se 
+            <lb ed="#P" n="103"/>ut dicitur <ref xml:id="szthvi-a25989-Rd1e3470">Matth. 24</ref>, et colligitur ex <ref xml:id="szthvi-a25989-Rd1e3473">Apocal.
+            <lb ed="#P" n="104"/>13</ref>. Item haeretici interdum profitentur se 
             fa<lb break="no" ed="#P" n="105"/>cere miracula, et idem de gentibus refert 
             Ter<lb break="no" ed="#P" n="106"/>tullianus, in Apolog., cap. 22 et 23; et 
             Augus<lb break="no" ed="#P" n="107"/>tinus, lib. 10 de Civit., cap. 11; et Eusebius,
@@ -1605,9 +1608,9 @@
             credibili<lb break="no" ed="#P" n="61"/>tatem ; antecedens patet, quia operatio 
             mira<lb break="no" ed="#P" n="62"/>culorum pertinet ad gratias gratis datas, quae
             <lb ed="#P" n="63"/>et malis et bonis communicantur; unde est 
-            il<lb break="no" ed="#P" n="64"/>lud Pauli, 1 ad Corinth. 13: Si habuero 
+            il<lb break="no" ed="#P" n="64"/>lud Pauli, <ref xml:id="szthvi-a25989-Rd1e3640" corresp="#szthvi-a25989-Qd1e3642">1 ad Corinth. 13</ref>: <quote xml:id="szthvi-a25989-Qd1e3642" source="http://scta.info/resource/Icor13_2@13-25">Si habuero 
             om<lb break="no" ed="#P" n="65"/>nem fidem, ita ut montes transferam, charitatem
-            <lb ed="#P" n="66"/>autem non habuero, nihil mihi prodest ; 
+            <lb ed="#P" n="66"/>autem non habuero, nihil mihi prodest</quote> ; 
             con<lb break="no" ed="#P" n="67"/>sequentia autem probatur, quia si pravus 
             ho<lb break="no" ed="#P" n="68"/>mo potest facere verum miraculum, etiam
             <lb ed="#P" n="69"/>potest esse deceptor et falsum dicere: ergo ex
@@ -1658,10 +1661,10 @@
             <cb ed="#P" n="a"/>
             <lb ed="#P" n="1"/>auxilio , nulla virtus humana efficere 
             potuis<lb break="no" ed="#P" n="2"/>set. Atque ita experimento videmus impletam
-            <lb ed="#P" n="3"/>Christi prophetiam : Portae inferi non 
-            pre<lb break="no" ed="#P" n="4"/>calebunt adversus eam ; et ejusdem 
-            promissio<lb break="no" ed="#P" n="5"/>nem : Ecce ego vobiscum sum usque ad 
-            con<lb break="no" ed="#P" n="6"/>summationem seculi. Atque hoc ipsum 
+            <lb ed="#P" n="3"/>Christi prophetiam : <quote xml:id="szthvi-a25989-Qd1e3758" source="http://scta.info/resource/mt16_18@17-22">Portae inferi non 
+            pre<lb break="no" ed="#P" n="4"/>calebunt adversus eam</quote> ; et ejusdem 
+            promissio<lb break="no" ed="#P" n="5"/>nem : <quote xml:id="szthvi-a25989-Qd1e3765" source="http://scta.info/resource/mt28_20@9-18">Ecce ego vobiscum sum usque ad 
+            con<lb break="no" ed="#P" n="6"/>summationem seculi</quote>. Atque hoc ipsum 
             inten<lb break="no" ed="#P" n="7"/>dit Augustinus in suo tertio motivo, quod
             <lb ed="#P" n="8"/>sumpsit ex continua successione Summorum
             <lb ed="#P" n="9"/>Pontificum in sede Petri; nam quia illa est
@@ -1818,9 +1821,9 @@
             <lb ed="#P" n="37"/>ratio valet contra omnes antiquos Philoscphos
             <lb ed="#P" n="38"/>et eorum sectas; pauci enim illorum sunt qui
             <lb ed="#P" n="39"/>unum verum Deum agnoverint; et si aliqui
-            <lb ed="#P" n="40"/>illum cognoverunt, non illum glorificaverunt
-            <lb ed="#P" n="41"/>sicut Dewn, aut gratias cgerunt, ut ait 
-            Pau<lb break="no" ed="#P" n="42"/>lus, ad Rom. 1, quia vel circa Dei 
+            <lb ed="#P" n="40"/>illum cognoverunt, <quote xml:id="szthvi-a25989-Qd1e4106" source="http://scta.info/resource/rom1_21@5-11">non illum glorificaverunt
+            <lb ed="#P" n="41"/>sicut Deum, aut gratias egerunt</quote>, ut ait 
+            Pau<lb break="no" ed="#P" n="42"/>lus, <ref xml:id="szthvi-a25989-Rd1e4113">ad Rom. 1</ref>, quia vel circa Dei 
             providen<lb break="no" ed="#P" n="43"/>tiam, vel circa veram hominis felicitatem,
             <lb ed="#P" n="44"/>multum errarunt; unde etiam in alios errores
             <lb ed="#P" n="45"/>et vitia prolapsi sunt, ut prosequitur Paulus,
@@ -1862,9 +1865,9 @@
             <lb ed="#P" n="78"/>valet contra sectas quorumcumque 
             philoso<lb break="no" ed="#P" n="79"/>phorum; nam auctores carum regulariter 
             vi<lb break="no" ed="#P" n="80"/>tiis subjecti fuerunt, quae plurima et enormia
-            <lb ed="#P" n="81"/>Paulus reccnset in dicta Epist. ad Rom., ab
-            <lb ed="#P" n="82"/>illis verbis : Propter quod traditit ilos Deus
-            <lb ed="#P" n="83"/>in desideria, etc., usque ad fin. capit.; et si
+            <lb ed="#P" n="81"/>Paulus reccnset in <ref xml:id="szthvi-a25989-Rd1e4205">dicta Epist. ad Rom.</ref>, ab
+            <lb ed="#P" n="82"/>illis verbis : <quote xml:id="szthvi-a25989-Qd1e4210" source="http://scta.info/resource/rom1_24@1-7">Propter quod traditit ilos Deus
+            <lb ed="#P" n="83"/>in desideria, etc.</quote>, usque ad fin. capit.; et si
             <lb ed="#P" n="84"/>quis videtur bonis moribus fuisse, saltem 
             hu<lb break="no" ed="#P" n="85"/>manam gloriàm et vanitatem affectabat. 
             Pro<lb break="no" ed="#P" n="86"/>pter quod dixit Augustinus, l. 3 contr. 
@@ -1921,41 +1924,41 @@
             <lb ed="#P" n="24"/>continent promissionem ipsius Messiae, sed
             <lb ed="#P" n="25"/>etiam signa particularia et sufficientia 
             tempo<lb break="no" ed="#P" n="26"/>ris advertus ejus, et ideo subjuugit Christus
-            <lb ed="#P" n="27"/>Dominus : Si crederetis Moysi, crederetis 
-            uti<lb break="no" ed="#P" n="28"/>que et iihi, ille enim de me scripsit ; quod 
-            in<lb break="no" ed="#P" n="29"/>telligendum est, non solum quia, Deut. 18,
-            <lb ed="#P" n="30"/>habetur expressa promissio: Prophetam 
-            susci<lb break="no" ed="#P" n="31"/>lalo eis, etc. , sed etiam quia tota lex Moysis
+            <lb ed="#P" n="27"/>Dominus : <quote xml:id="szthvi-a25989-Qd1e4335" source="http://scta.info/resource/io5_46@1-13">Si crederetis Moysi, crederetis 
+            uti<lb break="no" ed="#P" n="28"/>que et mihi, ille enim de me scripsit</quote> ; quod 
+            in<lb break="no" ed="#P" n="29"/>telligendum est, non solum quia, <ref xml:id="szthvi-a25989-Rd1e4342">Deut. 18</ref>,
+            <lb ed="#P" n="30"/>habetur expressa promissio: <quote xml:id="szthvi-a25989-Qd1e4347" source="http://scta.info/resource/deut18_18@1-3">Prophetam 
+            susci<lb break="no" ed="#P" n="31"/>tabo eis, etc.</quote> , sed etiam quia tota lex Moysis
             <lb ed="#P" n="32"/>fuit quaedam prophetia et figura Christi, ut
             <lb ed="#P" n="33"/>dixit Augustinus, 16 cont. Faust., cap. 
             92<lb break="no" ed="#P" n="34"/>atque hoc modo persuadendi fidem de seipso
-            <lb ed="#P" n="35"/>usus est Christus Dominus, Luc. ult., ubi 
+            <lb ed="#P" n="35"/>usus est Christus Dominus, <ref xml:id="szthvi-a25989-Rd1e4360">Luc. ult.</ref>, ubi 
             in<lb break="no" ed="#P" n="36"/>cipiens a Moyse, ei omnibus Prophetis, 
-            inter<lb break="no" ed="#P" n="37"/>prctabatur illis in omuibus Scripturis, quae de
-            <lb ed="#P" n="38"/>ipso scripta erant ; et infra dicit : Neccesse erat
+            inter<lb break="no" ed="#P" n="37"/>pretabatur illis in omnibus Scripturis, quae de
+            <lb ed="#P" n="38"/>ipso scripta erant ; et infra dicit : <quote xml:id="szthvi-a25989-Qd1e4369" source="http://scta.info/resource/lc24_44@18-33">Neccesse erat
             <lb ed="#P" n="39"/>impleri omnia que scripta sunt in lege, et
-            <lb ed="#P" n="40"/>Prophetis , et Psalmis de me. Eodem 
+            <lb ed="#P" n="40"/>Prophetis , et Psalmis de me</quote>. Eodem 
             argu<lb break="no" ed="#P" n="41"/>mento usi sunt omnes qui testimonium Christo
             <lb ed="#P" n="42"/>dederunt. Angelus enim annuncians 
             myste<lb break="no" ed="#P" n="43"/>rium incarnationis, statim antiquas 
-            prophe<lb break="no" ed="#P" n="44"/>tias indicavit, dicens : Dabit illi Dominus 
-            se<lb break="no" ed="#P" n="45"/>dem David Patris ejus ; et Beatissima Virgo,
-            <lb ed="#P" n="46"/>in suo Cantico : Sicut locutus cst ad patres
-            <lb ed="#P" n="47"/>nostros ; et Zachar., in suo: Sicut locutus
+            prophe<lb break="no" ed="#P" n="44"/>tias indicavit, dicens : <quote xml:id="szthvi-a25989-Qd1e4385" source="http://scta.info/resource/lc1_32@9-16">Dabit illi Dominus 
+            se<lb break="no" ed="#P" n="45"/>dem David Patris ejus</quote> ; et Beatissima Virgo,
+            <lb ed="#P" n="46"/>in suo Cantico : <quote xml:id="szthvi-a25989-Qd1e4392" source="http://scta.info/resource/lc1_55@1-6">Sicut locutus est ad patres
+            <lb ed="#P" n="47"/>nostros</quote> ; et Zachar., in suo: <quote xml:id="szthvi-a25989-Qd1e4397" source="http://scta.info/resource/lc1_70@1-12">Sicut locutus
             <lb ed="#P" n="48"/>est per os Sanctorum , qui a seculo sunt 
-            pro<lb break="no" ed="#P" n="49"/>phetarum ejus; et Simeon in suo: Quod 
-            pa<lb break="no" ed="#P" n="50"/>rasti ante faciem omnium populorum, Luc. 1 et
-            <lb ed="#P" n="51"/>2; et Joan., Matth. 3: Hic est enim qui dictus
-            <lb ed="#P" n="52"/>est per Isaiam Prophetam. Ilem servarunt
-            <lb ed="#P" n="53"/>Evangelistae, ut de Incarnatione patet, Matt. 1,
+            pro<lb break="no" ed="#P" n="49"/>phetarum ejus</quote>; et Simeon in suo: <quote xml:id="szthvi-a25989-Qd1e4405" source="http://scta.info/resource/lc2_31@1-6">Quod 
+            pa<lb break="no" ed="#P" n="50"/>rasti ante faciem omnium populorum</quote>, <ref xml:id="szthvi-a25989-Rd1e4410" corresp="#szthvi-a25989-Qd1e4405">Luc. 1 et
+            <lb ed="#P" n="51"/>2</ref>; et <ref xml:id="szthvi-a25989-Rd1e4415">Joan.</ref>, <ref xml:id="szthvi-a25989-Rd1e4417" corresp="#szthvi-a25989-Qd1e4419">Matth. 3</ref>: <quote xml:id="szthvi-a25989-Qd1e4419" source="http://scta.info/resource/mt3_3@1-9">Hic est enim qui dictus
+            <lb ed="#P" n="52"/>est per Isaiam Prophetam</quote>. Ilem servarunt
+            <lb ed="#P" n="53"/>Evangelistae, ut de Incarnatione patet, <ref xml:id="szthvi-a25989-Rd1e4427">Matt. 1,
             <cb ed="#P" n="b"/>
-            <lb ed="#P" n="54"/>vers. 12; de Nativitate, Matth. 9, vers. 8; de
-            <lb ed="#P" n="55"/>Passione, Matth. 26, vers. 31, et Joan., 19,
-            <lb ed="#P" n="56"/>vers. 24, 36, 3T. Ac denique idem scervarunt
+            <lb ed="#P" n="54"/>vers. 12</ref>; de Nativitate, <ref xml:id="szthvi-a25989-Rd1e4434">Matth. 9, vers. 8</ref>; de
+            <lb ed="#P" n="55"/>Passione, <ref xml:id="szthvi-a25989-Rd1e4438">Matth. 26, vers. 31</ref>, et <ref xml:id="szthvi-a25989-Rd1e4440">Joan., 19,
+            <lb ed="#P" n="56"/>vers. 24, 36, 3T</ref>. Ac denique idem scervarunt
             <lb ed="#P" n="57"/>Apostoli, praecipue quando ad Judaeos 
-            praedi<lb break="no" ed="#P" n="58"/>cabant, ut patet Act. 2, 3et 13, ac 15;et
-            <lb ed="#P" n="59"/>optime Paulus in Epist. ad Hebr., et ad Rom.
-            <lb ed="#P" n="60"/>1, in principio ; et Petrus, 2 Epist., c. 1.
+            praedi<lb break="no" ed="#P" n="58"/>cabant, ut patet <ref xml:id="szthvi-a25989-Rd1e4450">Act. 2, 3 et 13, ac 15</ref>;et
+            <lb ed="#P" n="59"/>optime Paulus in <ref xml:id="szthvi-a25989-Rd1e4454">Epist. ad Hebr.</ref>, et <ref xml:id="szthvi-a25989-Rd1e4456">ad Rom.
+            <lb ed="#P" n="60"/>1, in principio</ref> ; et Petrus, <ref xml:id="szthvi-a25989-Rd1e4461">2 Epist., c. 1</ref>.
           </p>
           <p xml:id="szthvi-a25989-d1e4160">
             <lb ed="#P" n="61"/>5. Item ex Patrum argumentis. — 
@@ -1977,10 +1980,10 @@
             <lb ed="#P" n="77"/>fidem esse credibiliorem, sed etiam 
             convinci<lb break="no" ed="#P" n="78"/>tur judaicam, perfidiam plane esse, solumque
             <lb ed="#P" n="79"/>procedere ex nimia ignorantia et mentis 
-            cae<lb break="no" ed="#P" n="80"/>citate, ut dixit Paulus ad Ephes. 4, versu 18,
-            <lb ed="#P" n="81"/>et praedixit Christus Joan. 12: Ambulate dum
+            cae<lb break="no" ed="#P" n="80"/>citate, ut dixit Paulus <ref xml:id="szthvi-a25989-Rd1e4509">ad Ephes. 4, versu 18</ref>,
+            <lb ed="#P" n="81"/>et praedixit Christus <ref xml:id="szthvi-a25989-Rd1e4513" corresp="#szthvi-a25989-Qd1e4516">Joan. 12</ref>: <quote xml:id="szthvi-a25989-Qd1e4516" source="http://scta.info/resource/io12_35@11-19">Ambulate dum
             <lb ed="#P" n="82"/>lucem habetis , ut non tenebre vos 
-            comprehen<lb break="no" ed="#P" n="83"/>dant, etc.
+            comprehen<lb break="no" ed="#P" n="83"/>dant</quote>, etc.
           </p>
           <p xml:id="szthvi-a25989-d1e4212">
             <lb ed="#P" n="84"/>6. Christi facta specialiter dirigebantur ad
@@ -1997,20 +2000,20 @@
             <lb ed="#P" n="95"/>signa a prophetis praedicta, et praenuntiata
             <lb ed="#P" n="96"/>pro adventu Messiae , et ideo in his operibus
             <lb ed="#P" n="97"/>semper fecit vim magnam ipsemet Christus:
-            <lb ed="#P" n="98"/>Si mihi non vultis credere, operibus credite ; et:
-            <lb ed="#P" n="99"/>Si opera non fecissem in eis, etc. Ac denique
-            <lb ed="#P" n="100"/>Jean. 5: Zgo, inquit, habeo testimonium 
-            ma<lb break="no" ed="#P" n="101"/>jus Joanne ; et illud explicans addit: Opera
+            <lb ed="#P" n="98"/><quote xml:id="szthvi-a25989-Qd1e4557" source="http://scta.info/resource/io10_38@5-11">Si mihi non vultis credere, operibus credite</quote> ; et:
+            <lb ed="#P" n="99"/><quote xml:id="szthvi-a25989-Qd1e4561" source="http://scta.info/resource/io15_24@1-6">Si opera non fecissem in eis, etc.</quote> Ac denique
+            <lb ed="#P" n="100"/><ref xml:id="szthvi-a25989-Rd1e4566" corresp="#szthvi-a25989-Qd1e4568">Jean. 5</ref>: <quote xml:id="szthvi-a25989-Qd1e4568" source="http://scta.info/resource/io5_36@1-6">Ego, inquit, habeo testimonium 
+            ma<lb break="no" ed="#P" n="101"/>jus Joanne</quote> ; et illud explicans addit: <quote xml:id="szthvi-a25989-Qd1e4573" source="http://scta.info/resource/io5_36@17-24">Opera
             <lb ed="#P" n="102"/>qua ego facio , illa testimonium perhibent de
-            <lb ed="#P" n="103"/>e ; quod dixit esse testimonium Patris, non
+            <lb ed="#P" n="103"/>me</quote> ; quod dixit esse testimonium Patris, non
             <lb ed="#P" n="104"/>hominis. Denique ipsamet experientia possent
             <lb ed="#P" n="105"/>Judaei suum errorem cognoscere, nam in eis
             <lb ed="#P" n="106"/>impleta sunt quae ipsemet Christus praedixit :
-            <lb ed="#P" n="107"/>Auferetur a volis reguum Dei, Matt. 21; et
-            <lb ed="#P" n="108"/>non relinguetur hic lapis super lapidem,
+            <lb ed="#P" n="107"/><quote xml:id="szthvi-a25989-Qd1e4588" source="http://scta.info/resource/mt21_43@5-9">Auferetur a vobis regnum Dei</quote>, <ref xml:id="szthvi-a25989-Rd1e4591" corresp="#szthvi-a25989-Qd1e4588">Matt. 21</ref>; et
+            <lb ed="#P" n="108"/><quote xml:id="szthvi-a25989-Qd1e4594" source="http://scta.info/resource/lc19_44@12-18">non relinquetur hic lapis super lapidem</quote>,
             <pb ed="#P" n="128"/>
             <cb ed="#P" n="a"/>
-            <lb ed="#P" n="1"/>Matt. 24; et haec nunc sufficiunt de primo et
+            <lb ed="#P" n="1"/><ref xml:id="szthvi-a25989-Rd1e4603">Matt. 24</ref>; et haec nunc sufficiunt de primo et
             <lb ed="#P" n="2"/>proprio errore Judaeorum. Fuit vero etiam
             <lb ed="#P" n="3"/>alius, qui proprius dicitur judaizantium, 
             po<lb break="no" ed="#P" n="4"/>tius quam Judaeorum ; nam erant isti 
@@ -2038,8 +2041,8 @@
             tra<lb break="no" ed="#P" n="22"/>ditam esse veram ; in quo cum Catholicis 
             con<lb break="no" ed="#P" n="23"/>veniunt. Item conveniunt in hoc, quod 
             fa<lb break="no" ed="#P" n="24"/>tentur fidem Christi tantum esse unam, juxta
-            <lb ed="#P" n="25"/>illud Pauli, ad Ephes. 4: Unus Deus, una 
-            ft<lb break="no" ed="#P" n="26"/>des. Vtem fatentur hanc fidem debere esse 
+            <lb ed="#P" n="25"/>illud Pauli, <ref xml:id="szthvi-a25989-Rd1e4663" corresp="#szthvi-a25989-Qd1e4665">ad Ephes. 4</ref>: <quote xml:id="szthvi-a25989-Qd1e4665" source="http://scta.info/resource/eph4_5@1-4">Unus Deus, una 
+            ft<lb break="no" ed="#P" n="26"/>des</quote>. Vtem fatentur hanc fidem debere esse 
             pu<lb break="no" ed="#P" n="27"/>ram ab omni falsitate ; nam doctrina quae 
             re<lb break="no" ed="#P" n="28"/>vera procedit a Christo, necessario debet esse
             <lb ed="#P" n="29"/>in omnibus vera et infallibilis ; alias tota 
@@ -2212,10 +2215,10 @@
             <lb ed="#P" n="79"/>temporis durationem postulat , juxta illud:
             <lb ed="#P" n="80"/>Porte inferi non prevalebunt adversus eam,
             <lb ed="#P" n="81"/>et pro toto mundo fundata est, et pro 
-            omni<lb break="no" ed="#P" n="82"/>bus gentibus, juxta illud : Euntes in mundum
-            <lb ed="#P" n="83"/>universum , docete omnes gentes, etc. Et alibi:
-            <lb ed="#P" n="84"/>Praedicabitur Evangelium hoc in nuniverso
-            <lb ed="#P" n="85"/>mundo, et universee creature ; ergo fides hujus
+            omni<lb break="no" ed="#P" n="82"/>bus gentibus, juxta illud : <quote xml:id="szthvi-a25989-Qd1e5040" source="http://scta.info/resource/mt28_19@1-5">Euntes in mundum
+            <lb ed="#P" n="83"/>universum , docete omnes gentes</quote>, etc. Et alibi:
+            <lb ed="#P" n="84"/><quote xml:id="szthvi-a25989-Qd1e5046" source="http://scta.info/resource/mt24_14@2-8">Praedicabitur Evangelium hoc in universo
+            <lb ed="#P" n="85"/>mundo, et universee creature</quote> ; ergo fides hujus
             <lb ed="#P" n="86"/>Ecclesiae iisdem modis universalis esse debet;
             <lb ed="#P" n="87"/>quod ergo spectat ad universalitatem 
             tempo<lb break="no" ed="#P" n="88"/>ris, recte colligitur ex dictis, non inveniri in
@@ -2234,8 +2237,8 @@
             <lb ed="#P" n="99"/>11. Tertia praerogativa, quod sit doctrina
             <lb ed="#P" n="100"/>sana et irreprehensibilis. — Praeter has 
             condi<lb break="no" ed="#P" n="101"/>tiones doctrinae, considerari possunt aliae 
-            su<lb break="no" ed="#P" n="102"/>perius tactae, quas comprchendit Paulus ad
-            <lb ed="#P" n="103"/>Tit. 2, dicens, verbum fidei debere esse sanun
+            su<lb break="no" ed="#P" n="102"/>perius tactae, quas comprehendit Paulus <ref xml:id="szthvi-a25989-Rd1e5091">ad
+            <lb ed="#P" n="103"/>Tit. 2</ref>, dicens, verbum fidei debere esse sanun
             <lb ed="#P" n="104"/>et irreprehensibile, quale ostendimus esse in
             <lb ed="#P" n="105"/>Ecclesia Romana; doctrina autem haeretico-
             <pb ed="#P" n="130"/>
@@ -2287,7 +2290,7 @@
             <lb ed="#P" n="43"/>Secundo, aliquando mutant opinionem quam
             <lb ed="#P" n="44"/>prius tenuerant, quod est anertum signum
             <lb ed="#P" n="45"/>opinionis humanse, non verae fidei, juxta 
-            do<lb break="no" ed="#P" n="46"/>ctrinam Pauli, ad Gal. 1, fere per totum. 
+            do<lb break="no" ed="#P" n="46"/>ctrinam Pauli, <ref xml:id="szthvi-a25989-Rd1e5208">ad Gal. 1</ref>, fere per totum. 
             Ter<lb break="no" ed="#P" n="47"/>tio, frequentius contingit ut, post exortam
             <lb ed="#P" n="48"/>haeresim, statim dividatur in plures, per 
             va<lb break="no" ed="#P" n="49"/>rietatem discipulorum, quod repugnat etiam
@@ -2377,7 +2380,7 @@
             so<lb break="no" ed="#P" n="16"/>lent spiritu superbiae; unde Augustinus, lib.
             <lb ed="#P" n="17"/>de Pastoribus, cap. 8: Una, inquit, superbia
             <lb ed="#P" n="18"/>omnes illos genuwit ; saepe etiam ducuntur 
-            ava<lb break="no" ed="#P" n="19"/>ritia, ut de Simone Mago legimus, Actor. 8,
+            ava<lb break="no" ed="#P" n="19"/>ritia, ut de Simone Mago legimus, <ref xml:id="szthvi-a25989-Rd1e5402">Actor. 8</ref>,
             <lb ed="#P" n="20"/>et Cyprianus notat, l. 1, epistola 4, et videri
             <lb ed="#P" n="21"/>potest libro quarto, epistola nona, et Epiphan.,
             <lb ed="#P" n="22"/>haeres. vigesima quinta; aliquando vero 
@@ -2385,11 +2388,11 @@
             <lb ed="#P" n="24"/>Hieronymus, Epistola ad Ctesiphontem; et
             <lb ed="#P" n="25"/>Vincent. Lyrinensis, contrà profanas vocum
             <lb ed="#P" n="26"/>novitates ; quae omnia, et alia plura 
-            complec<lb break="no" ed="#P" n="27"/>titur Paulus 2 ad Timot. 3, dicens de 
-            haere<lb break="no" ed="#P" n="28"/>ticis: Erunt homines seipsos amantes, cupidi,
-            <lb ed="#P" n="29"/>elati, superbi ; et infra: Corrupti mente, et 
-            re<lb break="no" ed="#P" n="30"/>probi in fide. Similia habet epistola prima,
-            <lb ed="#P" n="31"/>capite quarto, quae loca ponderat Cyprianus,
+            complec<lb break="no" ed="#P" n="27"/>titur Paulus <ref xml:id="szthvi-a25989-Rd1e5421">2 ad Timot. 3</ref>, dicens de 
+            haere<lb break="no" ed="#P" n="28"/>ticis: <quote xml:id="szthvi-a25989-Qd1e5426" source="http://scta.info/resource/IItim3_2@2-9">Erunt homines seipsos amantes, cupidi,
+            <lb ed="#P" n="29"/>elati, superbi</quote> ; et infra: <quote xml:id="szthvi-a25989-Qd1e5431" source="http://scta.info/resource/IItim3_8@14-18">Corrupti mente, et 
+            re<lb break="no" ed="#P" n="30"/>probi in fide</quote>. Similia habet <ref xml:id="szthvi-a25989-Rd1e5436">epistola prima,
+            <lb ed="#P" n="31"/>capite quarto</ref>, quae loca ponderat Cyprianus,
             <lb ed="#P" n="32"/>dicta Epistola quarta, lib. primo, et epist.
             <lb ed="#P" n="33"/>etiam 6; et videri etiam potest Gregorius,
             <lb ed="#P" n="34"/>l. 3 Moral. cap. 17. His accedit, quod 
@@ -2882,9 +2885,9 @@
             <lb ed="#P" n="52"/>sufficientem instructionem; debent autem
             <lb ed="#P" n="53"/>imitari Philippum, qui postquam instruxit
             <lb ed="#P" n="54"/>Eunuchum, et ille interrogavit an liceret se
-            <lb ed="#P" n="55"/>baptizari, respondit: 5St credis ex toto corde,
+            <lb ed="#P" n="55"/>baptizari, respondit: <quote xml:id="szthvi-a25989-Qd1e6491" source="http://scta.info/resource/act8_37@4-9">Si credis ex toto corde,
             <cb ed="#P" n="b"/>
-            <lb ed="#P" n="56"/>licet; pondero enim ibi particulam, ex toto
+            <lb ed="#P" n="56"/>licet</quote>; pondero enim ibi particulam, ex toto
             <lb ed="#P" n="57"/>corde, per quam postulavit fidem super 
             om<lb break="no" ed="#P" n="58"/>nia, juxta phrasim Scripturae atque adeo 
             om<lb break="no" ed="#P" n="59"/>nino certam ; hanc ergo fidein debent 
@@ -2921,8 +2924,8 @@
             fa<lb break="no" ed="#P" n="82"/>cit actum evidentem, et non de veritate 
             objec<lb break="no" ed="#P" n="83"/>i; ergo saltem de credibilitate. Secundo hoc
             <lb ed="#P" n="84"/>confirmant, quia omne lumen manifestat 
-            ali<lb break="no" ed="#P" n="85"/>quid clare et evidenter, juxta illud, ad Ephes.
-            <lb ed="#P" n="86"/>5: Omne quod manifestatur, lumen est; sed
+            ali<lb break="no" ed="#P" n="85"/>quid clare et evidenter, juxta illud, <ref xml:id="szthvi-a25989-Rd1e6574">ad Ephes.
+            <lb ed="#P" n="86"/>5</ref>: <quote xml:id="szthvi-a25989-Qd1e6580" source="http://scta.info/resource/eph5_13@8-13">Omne quod manifestatur, lumen est</quote>; sed
             <lb ed="#P" n="87"/>fides est quoddam lumen; ergo aliquid 
             mani<lb break="no" ed="#P" n="88"/>festat evidenter ; et non sub propria et 
             speci<lb break="no" ed="#P" n="89"/>fica ratione; ergo saltem sub generali ratione
@@ -2946,9 +2949,9 @@
             <pb ed="#P" n="136"/>
             <cb ed="#P" n="a"/>
             <lb ed="#P" n="1"/>gratia haberi non potest, teste Augustino, de
-            <lb ed="#P" n="2"/>Praedest. Sanct., cap. 1, ex illo, ad Philipp.
-            <lb ed="#P" n="3"/>2: Non sumus sufficientes cogitare aliguid ex
-            <lb ed="#P" n="4"/>nobis, quasi ex nobis. Consequentia vero 
+            <lb ed="#P" n="2"/>Praedest. Sanct., cap. 1, ex illo, <ref xml:id="szthvi-a25989-Rd1e6635"><sic>ad Philipp.
+            <lb ed="#P" n="3"/>2</sic></ref>: <quote xml:id="szthvi-a25989-Qd1e6641" source="http://scta.info/resource/IIcor3_5@1-11">Non sumus sufficientes cogitare aliguid ex
+            <lb ed="#P" n="4"/>nobis, quasi ex nobis</quote>. Consequentia vero 
             pro<lb break="no" ed="#P" n="5"/>batur, quia nullus est alius habitus 
             superna<lb break="no" ed="#P" n="6"/>turalis ad quem possit ille actus pertinere.
           </p>
@@ -3112,22 +3115,21 @@
             <lb ed="#P" n="44"/>ejusdem speciei cum lumine intenso, et ex vi
             <lb ed="#P" n="45"/>suae speciei est clarum ; et ideo non est mirum
             <lb ed="#P" n="46"/>quod possit clare ostendere objectum, saltem
-            <lb ed="#P" n="47"/>sub genericaratione ; Iumen autem fidei iffert
+            <lb ed="#P" n="47"/>sub genericaratione ; Lumen autem fidei iffert
             <lb ed="#P" n="48"/>specie a lumine claro, et ex vi suae speciei 
             cla<lb break="no" ed="#P" n="49"/>ritatem non confert. Neque etiam ad rem facit
             <lb ed="#P" n="50"/>testimonium Pauli : Omne quod 
-            manifcsta<lb break="no" ed="#P" n="51"/>tur, eic., tum quia manifestatio potest 
+            manifesta<lb break="no" ed="#P" n="51"/>tur, eic., tum quia manifestatio potest 
             abs<lb break="no" ed="#P" n="52"/>tracte sumi, ut comprehendit claram et 
             obscu<lb break="no" ed="#P" n="53"/>ram; nam etiam res quae creduntur, suo 
             mo<lb break="no" ed="#P" n="54"/>do manifestantur, juxta illud Christi Domini,
-            <lb ed="#P" n="55"/>Joan. 16: Manifestavi nomen tuum homini-
-            <cb ed="#P" n="b"/>
-            <lb ed="#P" n="56"/>bus ; et ita universaliter verum est et omne
+            <lb ed="#P" n="55"/><ref xml:id="szthvi-a25989-Rd1e7011" corresp="#szthvi-a25989-Qd1e7013">Joan. 16</ref>: <quote xml:id="szthvi-a25989-Qd1e7013" source="http://scta.info/resource/io17_6@1-4">Manifestavi nomen tuum 
+              homini<cb ed="#P" n="b"/><lb ed="#P" n="56" break="no"/>bus</quote> ; et ita universaliter verum est et omne
             <lb ed="#P" n="57"/>lumen manifestare, et omnem 
             manifestatio<lb break="no" ed="#P" n="58"/>nem esse a lumine; tum etiam quia, licet
             <lb ed="#P" n="59"/>verba intelligantur de manifestatione 
-            evideu<lb break="no" ed="#P" n="60"/>te, Paulus solum dixit omne quod 
-            manifesta<lb break="no" ed="#P" n="61"/>tur, lumine manifestari , non tamen dicit, e
+            evideu<lb break="no" ed="#P" n="60"/>te, Paulus solum dixit <quote xml:id="szthvi-a25989-Qd1e7028" source="http://scta.info/resource/eph5_13@8-13">omne quod 
+            manifesta<lb break="no" ed="#P" n="61"/>tur, lumine manifestari</quote>, non tamen dicit, e
             <lb ed="#P" n="62"/>converso, omne lumen facere evidentem 
             ma<lb break="no" ed="#P" n="63"/>nifestationem alicujus rei. Ad tertium, 
             nega<lb break="no" ed="#P" n="64"/>tur omnem habitum evidenter discernere
