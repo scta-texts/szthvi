@@ -607,8 +607,8 @@
             <lb ed="#P" n="20"/>Praga et ossa Joannis Wicleph combusta sunt;
             <lb ed="#P" n="21"/>et aliud antiquius exemplum sumi potest ex
             <lb ed="#P" n="22"/>4 Reg. 23; et aliqui hoc voluerunt colligere
-            <lb ed="#P" n="23"/>ex illo Joan. 15 : S quis in me non manserit,
-            <lb ed="#P" n="24"/>et colligent eun, et in ignem mittent. Sed hoc
+            <lb ed="#P" n="23"/>ex illo <ref xml:id="szthvi-b43048-Rd1e1283">Joan. 15</ref>: <quote xml:id="szthvi-b43048-Qd1e1285" source="http://scta.info/resource/io15_6@1-19">Si quis in me non manserit,
+            et colligent eun, et in ignem mittent</quote>. Sed hoc
             <lb ed="#P" n="25"/>solum per quamdam accommodationem 
             acci<lb break="no" ed="#P" n="26"/>piendum est. Unde Villadiego, tractat. de 
             Hae<lb break="no" ed="#P" n="27"/>retic. quaest. 15, num. 4, existimat hujus 
@@ -665,7 +665,7 @@
             <lb ed="#P" n="75"/>possunt, quia se indispositos ostendunt.
           </p>
           <p xml:id="szthvi-b43048-d1e1398">
-            <lb ed="#P" n="76"/>6. Praecedentis assertionis eatensio ad 
+            <lb ed="#P" n="76"/>6. Praecedentis assertionis extensio ad 
             di<lb break="no" ed="#P" n="77"/>minutos confitentes. — Placitum Rojas 
             im<lb break="no" ed="#P" n="78"/>pugnatur. — Unde colligitur hanc 
             assertio<lb break="no" ed="#P" n="79"/>nem habere locum, non tantum in his qui
