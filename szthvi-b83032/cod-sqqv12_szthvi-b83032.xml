@@ -60,8 +60,8 @@
           <lb ed="#P" n="28"/>DE BELLO.
         </p>
         <p xml:id="szthvi-b83032-d1e113">
-          <lb ed="#P" n="29"/>Bellum absolute dictum duplev. — Pugna
-          <lb ed="#P" n="30"/>exterior, quae exteriori paci repugnat, tuuc
+          <lb ed="#P" n="29"/>Bellum absolute dictum duplex. — Pugna
+          <lb ed="#P" n="30"/>exterior, quae exteriori paci repugnat, tunc
           <lb ed="#P" n="31"/>proprie bellum dicitur, quando est inter duos
           <lb ed="#P" n="32"/>principes, vel duas respublicas; quando vero
           <lb ed="#P" n="33"/>est inter principem et suam rempublicam, vel
@@ -70,7 +70,7 @@
           <lb ed="#P" n="36"/>vel duellum; inter quae materialis magis
           <lb ed="#P" n="37"/>quam formalis differentia esse videtur, atque
           <lb ed="#P" n="38"/>de his omnibus dicemus, de quibus D. 
-          Tho<lb break="no" ed="#P" n="39"/>mas 2. 2, q. 40, A1 et 42, et alii infra 
+          <ref xml:id="szthvi-b83032-Rd1e137">Tho<lb break="no" ed="#P" n="39"/>mas 2. 2, q. 40, 41 et 42</ref>, et alii infra 
           refe<lb break="no" ed="#P" n="40"/>rendi.
         </p>
         <div xml:id="szthvi-b83032-Dd1e142">
@@ -85,109 +85,135 @@
             <lb ed="#P" n="44"/>de Laicis, l. 3, c. 14, et 16; Molina, de Just.,
             <lb ed="#P" n="45"/>disp. 99. — Secundus error. — Contra hos
             <lb ed="#P" n="46"/>eliam haereticos citantur alii a Cenedo, collect.
-            <lb ed="#P" n="47"/>59, prim. part.— Prima haeresis affirmat esse
+            <lb ed="#P" n="47"/>59, prim. part. — Prima haeresis affirmat esse
             <cb ed="#P" n="b"/>
             <lb ed="#P" n="48"/>intrinsece malum et contra charitatem, 
-            bel<lb break="no" ed="#P" n="49"/>lare. Ita tribuit Manichaeis Augustinus, 22,
-            <lb ed="#P" n="50"/>capite 74, quos secutus est Wicleph, teste
-            <lb ed="#P" n="51"/>Waldense, de Sacramentalibus, titul. ultim.,
-            <lb ed="#P" n="52"/>capit. penultim. Secundus error, bellum 
+            bel<lb break="no" ed="#P" n="49"/>lare. Ita tribuit Manichaeis <ref xml:id="szthvi-b83032-Rd1e180">Augustinus, 22,
+            <lb ed="#P" n="50"/>capite 74</ref>, quos secutus est Wicleph, teste
+            <lb ed="#P" n="51"/><ref xml:id="szthvi-b83032-Rd1e186">Waldense, de Sacramentalibus, titul. ultim.,
+            <lb ed="#P" n="52"/>capit. penultim</ref>. Secundus error, bellum 
             pe<lb break="no" ed="#P" n="53"/>culiariter esse prohibitum Christianis, et 
-            prae<lb break="no" ed="#P" n="54"/>cipue contra Christianos; ita refert Echius,
-            <lb ed="#P" n="55"/>in Enchiridio, capit. 22 ; et idem alii haeretici
+            prae<lb break="no" ed="#P" n="54"/>cipue contra Christianos; ita refert <ref xml:id="szthvi-b83032-Rd1e196">Echius,
+            <lb ed="#P" n="55"/>in Enchiridio, capit. 22</ref>; et idem alii haeretici
             <lb ed="#P" n="56"/>nostri temporis contendunt, distinguendo 
             ta<lb break="no" ed="#P" n="57"/>men duplex bellum, defensivum et 
-            aggressi<lb break="no" ed="#P" n="58"/>vum, quae membra num. 6 exponemus : 
+            aggressi<lb break="no" ed="#P" n="58"/>vum, quae <ref xml:id="szthvi-b83032-Rd1e208" target="http://scta.info/resource/szthvi-b83032-d1e517">membra num. 6 exponemus</ref>: 
             se<lb break="no" ed="#P" n="59"/>quentes conclusiones rem explicabunt.
           </p>
           <p xml:id="szthvi-b83032-d1e198">
-            <lb ed="#P" n="60"/>2. Prima conclusio negativa de fide. — 
-            Ob<lb break="no" ed="#P" n="61"/>jectio prima ea 4 Paral., 98. —Objectio secunda
-            <lb ed="#P" n="62"/>ex Matt. 26; Isa. 2, et M. —Tertia, e Concilio
-            <lb ed="#P" n="63"/>Niceno, Leone Papa. — Quarta, ea ratione.
-            <lb ed="#P" n="64"/>— Confirm atur. — Prima sit: bellum 
+            <!-- <lb ed="#P" n="60"/>2. Prima conclusio negativa de fide. — 
+            Ob<lb break="no" ed="#P" n="61"/>jectio prima ea 1 Paral., 28. — Objectio secunda
+            <lb ed="#P" n="62"/>ex Matt. 26; Isa. 2, et M. — Tertia, e Concilio
+            <lb ed="#P" n="63"/>Niceno, Leone Papa. — Quarta, ex ratione.
+            <lb ed="#P" n="64"/>— Confirmatur. — --> Prima sit: bellum
             simpli<lb break="no" ed="#P" n="65"/>citer nec est intrinsece malum, nec 
             Christia<lb break="no" ed="#P" n="66"/>nis prohibitum. Est de fide, atque expressa in
-            <lb ed="#P" n="67"/>Scriptura ; in veteri namque Testamento 
-            lau<lb break="no" ed="#P" n="68"/>dantur bella facta a sanctissimis viris, Genes.
-            <lb ed="#P" n="69"/>14 : Benedictus Abraham, et benedictus Deus,
-            <lb ed="#P" n="70"/>quo protegente, hostes in manibus tuis sunt.
+            <lb ed="#P" n="67"/>Scriptura; in veteri namque Testamento 
+            lau<lb break="no" ed="#P" n="68"/>dantur bella facta a sanctissimis viris, <ref xml:id="szthvi-b83032-Rd1e227">Genes.
+            <lb ed="#P" n="69"/>14</ref>: <quote xml:id="szthvi-b83032-Qd1e232" source="http://scta.info/resource/gen14_19@5-6 http://scta.info/resource/gen14_20@1-10">Benedictus Abraham, et benedictus Deus,
+            <lb ed="#P" n="70"/>quo protegente, hostes in manibus tuis sunt</quote>.
             <lb ed="#P" n="71"/>Idem legitur de Moyse, Josue, Samsone, 
             Ge<lb break="no" ed="#P" n="72"/>deone, Davide, Machabaeis, et alis, quibus
             <lb ed="#P" n="73"/>saepe jusserat Deus inferre bellum hostibus
-            <lb ed="#P" n="74"/>Hebraecrum ; et Paulus, ad Hebraeos 11, dicit
-            <lb ed="#P" n="75"/>Sanctos in fide vicisse regna; idem 
+            <lb ed="#P" n="74"/>Hebraecrum; et <ref xml:id="szthvi-b83032-Rd1e246">Paulus, ad Hebraeos 11</ref>, dicit
+            <lb ed="#P" n="75"/><quote xml:id="szthvi-b83032-Qd1e249" source="http://scta.info/resource/hebr11_33@1-5">Sanctos in fide vicisse regna</quote>; idem 
             confirma<lb break="no" ed="#P" n="76"/>tur aliis testimoniis Patrum, apud Gratian.,
-            <lb ed="#P" n="77"/>23, q. 1 et 2; item Ambros., lib. de Off,, per
-            <lb ed="#P" n="78"/>varia eapita. Objicies vero primo Dominum
-            <lb ed="#P" n="79"/>dixisse Davidi : IVon eedificabis mila templum,
-            <lb ed="#P" n="80"/>quia vir sanguinuwn es; secundo, quia 
-            Chri<lb break="no" ed="#P" n="81"/>stus Petro dixit, Joan. 18:Mitte gladium tuum
-            <lb ed="#P" n="82"/>in vaginam. etc.; Isaiae 2 : Conflabunt gladios
-            <lb ed="#P" n="83"/>in vomeres, et non emerceluntur ultra ad 
-            pree<lb break="no" ed="#P" n="84"/>lium, et cap. 11:IVon nocebunt, et non occident
-            <lb ed="#P" n="85"/>in monte sancto; loquitur autem Propheta de
+            <lb ed="#P" n="77"/><ref xml:id="szthvi-b83032-Rd1e255">23, q. 1 et 2</ref>; item <ref xml:id="szthvi-b83032-Rd1e257">Ambros. lib. de Off.</ref>, per
+            <lb ed="#P" n="78"/>varia capita. 
+          </p>
+          <p xml:id="szthvi-b83032-d1e264"> 
+            Objicies vero primo Dominum
+            <lb ed="#P" n="79"/>dixisse Davidi : <quote xml:id="szthvi-b83032-Qd1e268" source="http://scta.info/resource/Ichr28_3@5-17">Non aedificabis mihi templum,
+            <lb ed="#P" n="80"/>quia vir sanguinuum es</quote>; 
+          </p>
+          <p xml:id="szthvi-b83032-d1e274">
+            secundo, quia 
+            Chri<lb break="no" ed="#P" n="81"/>stus Petro dixit, Joan. 18: <quote xml:id="szthvi-b83032-Qd1e278" source="http://scta.info/resource/io18_11@5-8">Mitte gladium tuum
+            <lb ed="#P" n="82"/>in vaginam</quote>. etc.; Isaiae 2: <quote xml:id="szthvi-b83032-Qd1e283" source="http://scta.info/resource/is2_4@9-29">Conflabunt gladios
+            <lb ed="#P" n="83"/>in vomeres, et non exerceluntur ultra ad 
+            prae<lb break="no" ed="#P" n="84"/>lium</quote>, et cap. 11: <quote xml:id="szthvi-b83032-Qd1e290" source="http://scta.info/resource/is11_9@1-9">Non nocebunt, et non occident
+            <lb ed="#P" n="85"/>in monte sancto</quote>; loquitur autem Propheta de
             <lb ed="#P" n="86"/>tempore adventus Messiae, quo maxime, quid
             <lb ed="#P" n="87"/>licitum sit aut non sit, exploratum esset 
-            futu<lb break="no" ed="#P" n="88"/>rum. Tertio, in Concilio Nicano, capit. 11,
-            <lb ed="#P" n="89"/>imponitur paena Christianis , qui post 
-            acce<lb break="no" ed="#P" n="90"/>ptam fidem militiae sese adscribunt ; et Leo
-            <lb ed="#P" n="91"/>Papa, ep. 92, ait prohibitum esse bellum
+            futu<lb break="no" ed="#P" n="88"/>rum. 
+          </p>
+          <p xml:id="szthvi-b83032-d1e303">
+            Tertio, in <ref xml:id="szthvi-b83032-Rd1e305">Concilio Nicano, capit. 11</ref>,
+            <lb ed="#P" n="89"/>imponitur paena Christianis, qui post 
+            acce<lb break="no" ed="#P" n="90"/>ptam fidem militiae sese adscribunt; et <ref xml:id="szthvi-b83032-Rd1e311">Leo
+            <lb ed="#P" n="91"/>Papa, ep. 92</ref>, ait prohibitum esse bellum
             <lb ed="#P" n="92"/>Christianis post solemnem poenitentiam. 
+          </p>
+          <p xml:id="szthvi-b83032-d1e319">
             Quar<lb break="no" ed="#P" n="93"/>to, bellum moraliter affert secum infinita 
-            pec<lb break="no" ed="#P" n="94"/>cata : illud autem opus per se censetur 
+            pec<lb break="no" ed="#P" n="94"/>cata: illud autem opus per se censetur 
             ma<lb break="no" ed="#P" n="95"/>lum et prohibitum, quod moraliter semper
             <lb ed="#P" n="96"/>habet conjunctas indebitas circumstantias, et
-            <lb ed="#P" n="97"/>damna proximorum. Ad haec, bellum est 
-            con<lb break="no" ed="#P" n="98"/>tra pacem, et dilectionem inimicorum, ct 
+            <lb ed="#P" n="97"/>damna proximorum. 
+          </p>
+          <p xml:id="szthvi-b83032-d1e332">
+            Ad haec, bellum est 
+            con<lb break="no" ed="#P" n="98"/>tra pacem, et dilectionem inimicorum, et 
             in<lb break="no" ed="#P" n="99"/>juriarum remissionem.
           </p>
           <p xml:id="szthvi-b83032-d1e288">
-            <lb ed="#P" n="100"/>3. Ad primam objectionem. — Ad 
+            <!-- <lb ed="#P" n="100"/>3. Ad primam objectionem. — Ad 
             secun<lb break="no" ed="#P" n="101"/>dam. — Ad tertiam. — Ad quartam 
-            objectio<lb break="no" ed="#P" n="102"/>nem. — Ad confirmationem. — Respondetur
+            objectio<lb break="no" ed="#P" n="102"/>nem. — Ad confirmationem. — --> Respondetur
             <pb ed="#P" n="738"/>
             <cb ed="#P" n="a"/>
-            <lb ed="#P" n="1"/>ad primum, id dici propter injustum 
-            homi<lb break="no" ed="#P" n="2"/>cidium Uriae ; item, propter majorem templi
-            <lb ed="#P" n="3"/>reverentiam. Ad 2 dices Christum Dominum
+            <lb ed="#P" n="1"/><ref xml:id="szthvi-b83032-Rd1e352" target="szthvi-b83032-d1e264">ad primum</ref>, id dici propter injustum 
+            homi<lb break="no" ed="#P" n="2"/>cidium Uriae; item, propter majorem templi
+            <lb ed="#P" n="3"/>reverentiam. 
+          </p>
+          <p xml:id="szthvi-b83032-d1e356">
+            <ref xml:id="szthvi-b83032-Rd1e364" target="szthvi-b83032-d1e274">Ad 2</ref> dices Christum Dominum
             <lb ed="#P" n="4"/>loqui de illo, qui auctoritate privata vult 
             di<lb break="no" ed="#P" n="5"/>gladiari, et praecipue contra principis 
             volun<lb break="no" ed="#P" n="6"/>tatem. Verba autem Isaiae. praecipue in c. 11,
             <lb ed="#P" n="7"/>referri solent ad statum gloriae. Secundo 
             di<lb break="no" ed="#P" n="8"/>citur fuisse significatam pacem futuram in
-            <lb ed="#P" n="9"/>adventu Messia, ut exponit ibi Hieron., et
-            <lb ed="#P" n="10"/>Euseb., 1. 1 de Demonstr., c. 1, et alii Patres.
+            <lb ed="#P" n="9"/>adventu Messia, ut exponit <ref xml:id="szthvi-b83032-Rd1e371">ibi Hieron.</ref>, et
+            <lb ed="#P" n="10"/><ref xml:id="szthvi-b83032-Rd1e374">Euseb., 1. 1 de Demonstr., c. 1</ref>, et alii Patres.
             <lb ed="#P" n="11"/>Vel certe significatur ab Isaia spirituale 
-            bel<lb break="no" ed="#P" n="12"/>Ium Apostolorum, et praedicatorum 
-            Evange<lb break="no" ed="#P" n="13"/>lii, qui non materiali gladio , sed spirituali,
-            <lb ed="#P" n="14"/>mundum vicerunt : ita Justin., Apolog. 2 pro
-            <lb ed="#P" n="15"/>Christianis, et alii. Item Concilium Nicenum
-            <lb ed="#P" n="16"/>specialiter loquitur de iis Christianis , qui 
+            bel<lb break="no" ed="#P" n="12"/>lum Apostolorum, et praedicatorum 
+            Evange<lb break="no" ed="#P" n="13"/>lii, qui non materiali gladio, sed spirituali,
+            <lb ed="#P" n="14"/>mundum vicerunt: ita <ref xml:id="szthvi-b83032-Rd1e385">Justin., Apolog. 2 pro
+            <lb ed="#P" n="15"/>Christianis</ref>, et alii. 
+          </p>
+          <p xml:id="szthvi-b83032-d1e391">
+            <ref xml:id="szthvi-b83032-Rd1e404" target="szthvi-b83032-d1e303">Item</ref> Concilium Nicenum
+            <lb ed="#P" n="16"/>specialiter loquitur de iis Christianis, qui 
             si<lb break="no" ed="#P" n="17"/>gnum infidelium militum, quod deposuerant,
-            <lb ed="#P" n="18"/>iterum assumebant. Et Leo Papa, ut Glossa
-            <lb ed="#P" n="19"/>explicat, c. Si qui, et c. Contrarium, de 
-            Poeni<lb break="no" ed="#P" n="20"/>tentia, dist. 5, de his agit, qui post publicam
+            <lb ed="#P" n="18"/>iterum assumebant. Et Leo Papa, ut <ref xml:id="szthvi-b83032-Rd1e399">Glossa
+            <lb ed="#P" n="19"/>explicat, c. Si qui</ref>, et <ref xml:id="szthvi-b83032-Rd1e40Z">c. Contrarium, de 
+            Poeni<lb break="no" ed="#P" n="20"/>tentia, dist. 5</ref>, de his agit, qui post publicam
             <lb ed="#P" n="21"/>poenitentiam injunctam revertebantur ab 
-            bel<lb break="no" ed="#P" n="22"/>lum, ante illam expletam. Dico etiam, initio
+            bel<lb break="no" ed="#P" n="22"/>lum, ante illam expletam.  Dico etiam, initio
             <lb ed="#P" n="23"/>Ecclesia expedire potuisse prohibere iis, qui
             <lb ed="#P" n="24"/>convertebantur ad fidem, ne statim ad 
             mi<lb break="no" ed="#P" n="25"/>litiam irent cum infidelibus, et sub 
-            infideh<lb break="no" ed="#P" n="26"/>bus ducibus. Ad rationem, respondet 
-            Augus<lb break="no" ed="#P" n="27"/>tinus, 19 de Civit., capit. ult., bene probare,
+            infideli<lb break="no" ed="#P" n="26"/>bus ducibus. 
+          </p>
+          <p xml:id="szthvi-b83032-d1e426">
+            <ref xml:id="szthvi-b83032-Rd1e440" target="szthvi-b83032-d1e319">Ad rationem</ref>, respondet 
+            <ref xml:id="szthvi-b83032-Rd1e428">Augus<lb break="no" ed="#P" n="27"/>tinus, 19 de Civit., capit. ult.</ref>, bene probare,
             <lb ed="#P" n="28"/>bellum, quoad fieri possit, esse vitandum, et
-            <lb ed="#P" n="29"/>solum in necessitate extrema , quando 
-            nul<lb break="no" ed="#P" n="30"/>lum aliud medium superest, tentandum ; non
+            <lb ed="#P" n="29"/>solum in necessitate extrema, quando 
+            nul<lb break="no" ed="#P" n="30"/>lum aliud medium superest, tentandum; non
             <lb ed="#P" n="31"/>vero esse prorsus malum, quia quod ex eo 
-            se<lb break="no" ed="#P" n="32"/>quantur mala per accidens est, et majcra 
-            se<lb break="no" ed="#P" n="33"/>querentur, si nunquam liceret. Unde ad 
-            con<lb break="no" ed="#P" n="34"/>firmationem, negatur bellum esse contrarium
-            <lb ed="#P" n="35"/>honestae paci, sed iniquae ; est enim potius
+            se<lb break="no" ed="#P" n="32"/>quantur mala per accidens est, et majora 
+            se<lb break="no" ed="#P" n="33"/>querentur, si nunquam liceret.  
+          </p>
+          <p xml:id="szthvi-b83032-d1e447">
+            Unde <ref xml:id="szthvi-b83032-Rd1e464" target="szthvi-b83032-d1e332">ad 
+            con<lb break="no" ed="#P" n="34"/>firmationem</ref>, negatur bellum esse contrarium
+            <lb ed="#P" n="35"/>honestae paci, sed iniquae; est enim potius
             <lb ed="#P" n="36"/>medium ad veram et tutam pacem 
             obtinen<lb break="no" ed="#P" n="37"/>dam. Similiter non est contra inimicorum 
-            di<lb break="no" ed="#P" n="38"/>lectionem ; nam qui honeste bellum gerit,
+            di<lb break="no" ed="#P" n="38"/>lectionem; nam qui honeste bellum gerit,
             <lb ed="#P" n="39"/>non odit personas, sed opera, quae juste 
-            pu<lb break="no" ed="#P" n="40"/>nit ; et idem est de remissione injuriarum,
+            pu<lb break="no" ed="#P" n="40"/>nit; et idem est de remissione injuriarum,
             <lb ed="#P" n="41"/>praecipue quia haec non est omnino in 
             praece<lb break="no" ed="#P" n="42"/>pto, nam vindicta, via legitima, potest 
             inter<lb break="no" ed="#P" n="43"/>dum peti absque injuria.
