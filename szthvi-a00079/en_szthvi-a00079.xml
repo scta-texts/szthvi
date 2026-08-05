@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio 1</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio 1</title>
+          <date when="2026-01-16">January 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="8"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-a00079"><!-- t1-d1 -->
+        <head xml:id="szthvi-a00079-Hd1e101">Disputation 1</head>
+        <head xml:id="szthvi-a00079-Hd1e103" type="question-title">On the Object of This Doctrine and the Various Meanings of Faith</head>
+        <p xml:id="szthvi-a00079-d1e106">
+          <pb ed="#P" n="8"/>
+          <cb ed="#P" n="a"/>
+          DISPUTATION I: INTRODUCTORY.
+          ON THE OBJECT OF THIS DOCTRINE AND THE VARIOUS MEANINGS OF FAITH.
+        </p>
+        <p xml:id="szthvi-a00079-d1e119">
+          For the clarity and understanding of any doctrine, two things are especially necessary.
+          One is to have prior knowledge of the object whose knowledge is intended,
+          for it is as it were the end and goal of the whole doctrine.
+          The other is to distinguish terms and to remove their ambiguity,
+          lest on account of their equivocation the disputation be obscure and ineffective.
+          These two things, therefore, must be accomplished in the present disputation;
+          for we have proposed to treat of Faith;
+          but the word faith, in the common opinion of all, is usually taken in various ways,
+          and therefore it is necessary first to distinguish its meanings,
+          and from these to conclude and, as it were, to separate the proper object
+          with which the present doctrine is concerned.
+        </p>
+        <div xml:id="szthvi-a00079-Dd1e154">
+          <head xml:id="szthvi-a00079-Hd1e156">Section 1</head>
+          <head xml:id="szthvi-a00079-Hd1e158" type="question-title">In What Ways Faith Is Properly and Catholically Taken</head>
+          <p xml:id="szthvi-a00079-d1e161">
+            SECTION I.
+            In What Ways Faith Is Properly and Catholically Taken.
+          </p>
+          <p xml:id="szthvi-a00079-d1e170">
+            1. Authors do not agree in enumerating the meanings of faith. —
+            Although, as I have said, the word faith is multivalent and ambiguous,
+            nonetheless authors — even Catholics — do not agree in enumerating its meanings;
+            for Alexander of Hales, in Part 3, q. 64, memb. 1, enumerates eleven meanings of faith.
+            Bonaventure, however, in Book 3, dist. 23, dub. 2, on the text, posits only ten,
+            since he reduces the fifth and the last into one;
+            and Gabriel holds the same view there at q. 2,
+            for although he first simply reports and appears to follow Hales,
+            he afterwards imitates Bonaventure in his enumeration;
+            but Vega, in question 1 on Justification at the beginning, posits nine meanings,
+            adding some not found in the preceding authors and omitting some of theirs;
+            and in much the same way Castro, Against Heresies, s.v. Faith,
+            reduces these meanings to seven.
+            <cb ed="#P" n="b"/>
+            Likewise Roffensis and Albert Pighius, in the passage cited;
+            but Soto, book 2 on Nature and Grace, ch. 6, attacks this multiplication
+            and admits only two meanings of faith —
+            namely, insofar as it signifies either fidelity (fidelitatem) or assent founded on some testimony;
+            and Medina holds much the same, in book 1, On Right Faith toward God, ch. 1.
+            But although perhaps these two meanings are the principal ones,
+            we cannot nonetheless deny that this word has been extended to signify many other things,
+            which it is necessary to declare briefly,
+            because it will be very useful and opportune for refuting errors.
+          </p>
+          <p xml:id="szthvi-a00079-d1e242">
+            2. First assertion, bipartite: that faith pertains to both the will and the intellect. —
+            The prior part is certain. —
+            Budé and Valla have doubts about the latter. —
+            It is established nonetheless first from the usage of the Latins. —
+            Second, from the Philosophers. —
+            Third, from the Fathers. —
+            Fourth, from Scripture. —
+            Fifth, from reason. —
+            I say, therefore, first that the word faith, taken in its fullest proper sense,
+            sometimes signifies a perfection of the will, and sometimes of the intellect.
+            Concerning the prior part, neither heretics nor Catholics have doubts,
+            and therefore I pass over it, to be proved and explained more fully in the following assertion;
+            but concerning the latter part, some even Catholic authors have doubts,
+            at least insofar as the Latin propriety of the word is concerned;
+            for Budé, in his Annotations on the Pandects, book 1, on the Corrupted Slave,
+            together with Lorenzo Valla, book 5 of the Elegantiae, ch. 30,
+            considers that this word does not properly signify the persuasion of the intellect, or assent,
+            but that it has been adapted by the faithful for signifying this.
+
+            Nonetheless, the proposed part is certain —
+            first, from the usage of the Latins;
+            for Cicero, in book 2 of the Divinations,
+            said that faith should not be given to the vices of the insane —
+            that is, assent, credence;
+            hence Virgil, in Aeneid 4:
+            <quote xml:id="szthvi-a00079-Qd1e300">I believe indeed (nor is the faith vain) that the race of Gods exists.</quote>
+            And to have faith in someone, among approved Latin authors,
+            is the same as to assent to what he says,
+            as may be seen from Terence and others in Calepino, s.v. Faith.
+            <pb ed="#P" n="9"/>
+            <cb ed="#P" n="a"/>
+
+            Second, the Philosophers too, together with Boethius,
+            define an argument as a speech that produces faith in a doubtful matter;
+            and in Aristotle, Problems, sect. 18, q. 3,
+            we read that faith produced by testimony is very easily acquired;
+            but testimony produces assent and credence.
+
+            Third, this usage of the word is most frequent among the Fathers;
+            Augustine, On the Spirit and the Letter, ch. 31,
+            expressly posits the distinction of a twofold faith:
+            one is that by which we faithfully promise something to another;
+            the other is that by which we believe one who speaks;
+            he holds the same in the book On Lying, c. 20, and Letter 19 to Jerome.
+            Likewise Isidore, Etymologies, book 8, ch. 2;
+            Gregory Nazianzen, Oration 45, when he says that faith has no demonstration;
+            Chrysostom and other commentators commonly, on Hebrews 11,
+            and in other scriptural passages to be cited shortly.
+
+            Fourth, and what concerns us most,
+            this is the frequent usage of Scripture, even when speaking of justifying faith,
+            whatever the heretics may contend;
+            this is clear from Paul, <ref xml:id="szthvi-a00079-Rd1e364">Hebrews 11</ref>,
+            for after having said <ref xml:id="szthvi-a00079-Rd1e368" corresp="#szthvi-a00079-Qd1e370">at the end of chapter 10</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e370" source="http://scta.info/resource/hebr10_38">The just man lives by faith</quote>,
+            he adds <ref xml:id="szthvi-a00079-Rd1e375" corresp="#szthvi-a00079-Qd1e378">at the beginning of chapter 11</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e378" source="http://scta.info/resource/hebr11_1">Now faith is the substance of things hoped for, the evidence of things not seen</quote>,
+            which description we shall examine more fully in its proper place;
+            for now, that particle — evidence (argumentum) — is most to the point,
+            for it openly signifies an act of the intellect,
+            just as the Greek word <foreign>elegxos</foreign>, which the Greek Fathers expound,
+            means conviction and firm assent.
+            Then St. Paul adds:
+            <quote xml:id="szthvi-a00079-Qd1e398" source="http://scta.info/resource/hebr11_3">By faith we understand that the ages were made by the word of God</quote>;
+            therefore faith pertains to the intellect.
+            Finally he adds:
+            <quote xml:id="szthvi-a00079-Qd1e406" source="http://scta.info/resource/hebr11_6">Without faith it is impossible to please God</quote>,
+            and gives the reason, namely:
+            <quote xml:id="szthvi-a00079-Qd1e412" source="http://scta.info/resource/hebr11_6">He who comes to God must believe that he exists</quote>,
+            which does not pertain to the will, as is self-evident.
+            There is also the excellent testimony of <ref xml:id="szthvi-a00079-Rd1e421" corresp="#szthvi-a00079-Qd1e425">Romans 4</ref>,
+            where Paul says of Abraham:
+            <quote xml:id="szthvi-a00079-Qd1e425" source="http://scta.info/resource/rom4_20@9-11 http://scta.info/resource/rom4_21@1-9">He was fully strengthened in faith, knowing that he who promised is also able to bring it about</quote>;
+            but to know or to understand is an act of the intellect,
+            and he speaks of the faith by which Abraham was justified,
+            and plainly speaks of the same faith in the same sense throughout that epistle;
+            hence in <ref xml:id="szthvi-a00079-Rd1e439" corresp="#szthvi-a00079-Qd1e444">2 Corinthians 5</ref>,
+            he opposes faith to sight, saying:
+            <quote xml:id="szthvi-a00079-Qd1e444" source="http://scta.info/resource/IIcor5_7">We walk by faith and not by sight</quote>;
+            and in <ref xml:id="szthvi-a00079-Rd1e450" corresp="#szthvi-a00079-Qd1e454">chapter 10</ref>,
+            on account of faith he says that
+            <quote xml:id="szthvi-a00079-Qd1e454" source="http://scta.info/resource/IIcor10_5@11-17">the intellect is brought into captivity in obedience to Christ</quote>;
+            and in <ref xml:id="szthvi-a00079-Rd1e459" corresp="#szthvi-a00079-Qd1e463">1 Corinthians 13</ref>,
+            because of faith he says:
+            <quote xml:id="szthvi-a00079-Qd1e463" source="http://scta.info/resource/Icor13_12@12-15">We know in part</quote>, etc.
+            And finally, Christ the Lord, in <ref xml:id="szthvi-a00079-Rd1e469" corresp="#szthvi-a00079-Qd1e475 #szthvi-a00079-Qd1e482">Matthew 9</ref>,
+            when he had asked some who were seeking healing:
+            <quote xml:id="szthvi-a00079-Qd1e475" source="http://scta.info/resource/mt9_28@13-18">Do you believe that I am able to do this for you</quote>?
+            and they had answered affirmatively, he adds:
+            <quote xml:id="szthvi-a00079-Qd1e482" source="http://scta.info/resource/mt9_29@6-10">According to your faith, be it done to you</quote>.
+            Other passages I have cited in book 8 on Grace, ch. 15, n. 2.
+            <cb ed="#P" n="b"/>
+            Hence the following argument is concluded:
+            to believe something to be true, or to be possible, or simply to be,
+            is the function of the intellect;
+            but this is the function of faith, as is clear from the testimonies cited; therefore.
+          </p>
+          <p xml:id="szthvi-a00079-d1e447">
+            3. That faith referred to the will implies fidelity (fidelitatem) and trust (fiduciam). — On fidelity (fidelitate). —
+            Second, it must be said that the word faith, even insofar as it signifies a perfection of the will, signifies several things;
+            this can be proved, because this word signifies both fidelity (fidelitatem) and trust (fiduciam).
+            But neither of these is equally certain, and therefore each must be treated separately.
+            First, then, it is most well-known that fidelity (fidelitatem) pertains to the will;
+            for it is a certain moral virtue that provides constancy in keeping promises;
+            this virtue, therefore, is called faith by the Latins;
+            hence Cicero, in the first book of the Offices:
+            <quote source="http://scta.info/resource/gpza5l-laougy-d1e181@5-12">Faith is the constancy and truth of what has been said and agreed upon</quote>;
+            indeed, he conjectures there that faith was so called because through it what is said is done,
+            suggesting also that this was the original imposition of the word —
+            a view also endorsed by Augustine in the passages cited, and in his third Letter to Jerome,
+            and followed by Isidore;
+            and among jurists, and especially in civil law, this meaning is frequent.
+            In divine Scripture as well this meaning is found throughout:
+            Leviticus 6: The soul that has denied a deposit committed to its faith shall make restitution, etc. —
+            that is, to its fidelity (fidelitati);
+            Ecclesiasticus 27: He who reveals secrets loses faith — that is, fidelity (fidelitatem);
+            and the Councils and Fathers commonly understand it in this way,
+            as I said when treating of vows, book one, ch. 13, and book 4, chapter one,
+            in keeping with 1 Timothy 5[:12]: Having condemnation,
+            because they made void their first faith — that is, the fidelity (fidelitatem) owed by vow.
+            Finally, faith is attributed to God in this way:
+            Romans 3, Has their unbelief made the faith of God without effect? —
+            and from this God is called faithful,
+            for God is not capable of faith in the proper intellectual sense.
+          </p>
+          <p xml:id="szthvi-a00079-d1e528">
+            4. The aforesaid meaning is extended to truthfulness. —
+            It is likewise extended to its object,
+            and to the obligation of embracing that same truthfulness,
+            and to conscience, and to the faith of legal instruments. —
+            From this meaning the word has been derived to signify other things,
+            on account of the affinity or analogy that other authors number
+            among the various meanings of this word;
+            and they can conveniently be referred back to it.
+            For in the first place the word has been derived to signify truthfulness,
+            which is also a moral virtue,
+            because it is either not distinct from fidelity (fidelitate),
+            or is very closely akin to it,
+            as is gathered from St. Thomas, II-II, q. 109,
+            together with the notes of Cajetan, q. 113, at the beginning;
+            and Antoninus, Part 4, tit. 5, ch. 16.
+            <pb ed="#P" n="10"/>
+            <cb ed="#P" n="a"/>
+            And so Paul, in the aforesaid passage of <ref xml:id="szthvi-a00079-Rd1e624">Romans 3</ref>,
+            in order to prove that the faith of God is not made void, says:
+            <quote xml:id="szthvi-a00079-Qd1e628" source="http://scta.info/resource/rom3_4@1-4">God is truthful</quote>;
+            and in <ref xml:id="szthvi-a00079-Rd1e633" corresp="#szthvi-a00079-Qd1e636">Apocalypse 19</ref>, Christ is called
+            <quote xml:id="szthvi-a00079-Qd1e636" source="http://scta.info/resource/ap19_11@15-17">a faithful witness</quote> — that is, truthful.
+            And from this the word is further extended to signify the object of fidelity, or truthfulness,
+            and so it is said to signify the promise itself,
+            insofar as it ought to be made with faithful intent and afterwards fulfilled;
+            and in this way many understand the words cited: They made void their first faith.
+            And in the same way faith is commonly attributed to words themselves
+            insofar as in them there is objective truthfulness
+            with respect to the moral virtue of truthfulness.
+            So it is said in <ref xml:id="szthvi-a00079-Rd1e660">Jeremiah 7</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e662" source="http://scta.info/resource/ier7_28@18-25">Faith has perished and is not found in their mouth</quote>.
+            Furthermore, because in the right performance of any duty
+            there is found a certain moral obligation and a kind of implicit agreement,
+            therefore one who fulfills his duty is commonly called faithful,
+            which is frequent in the Gospel: <ref xml:id="szthvi-a00079-Rd1e678">Matthew 25</ref> and <ref xml:id="szthvi-a00079-Rd1e681">Luke 19</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e684" source="http://scta.info/resource/mt25_21@5-9">Well done, good and faithful servant</quote>;
+            <ref xml:id="szthvi-a00079-Rd1e687">1 Corinthians 4</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e690" source="http://scta.info/resource/Icor4_2@1-9">Here now it is required among stewards that a man be found faithful</quote>.
+            Finally, because the proximate obligation of acting rightly arises from conscience,
+            conscience too is commonly signified by the name faith:
+            <ref xml:id="szthvi-a00079-Rd1e702" corresp="#szthvi-a00079-Qd1e704">Romans 14</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e704" source="http://scta.info/resource/rom14_23@14-19">Whatever is not of faith is sin</quote> —
+            that is, what is not according to conscience,
+            although this derivation can also be understood from another angle, as I shall say shortly.
+            Faith is also commonly attributed to public legal instruments,
+            such as the titles in law regarding the Faith of Instruments,
+            insofar as in them there is morally certain truth
+            and consequently sufficient authority for proving the truth;
+            all of which pertains to that first meaning of this word that belongs to the will.
+          </p>
+          <p xml:id="szthvi-a00079-d1e645">
+            5. Regarding the meaning of trust (fiducia), some agree. —
+            Concerning the other meaning pertaining to trust (fiduciae),
+            there is a controversy not to be dismissed
+            on account of the heretics of this time,
+            who abuse this meaning and want the name of faith in Sacred Scripture —
+            wherever it speaks of justifying faith — to be understood in that sense.
+            Many Catholics, however, although they differ from the heretics on this point,
+            think that faith is often taken in Scripture in the sense of trust (fiduciam):
+            this is the view of Vega above, and in book 9 on the Council of Trent, ch. 28;
+            and Casale, On Fourfold Justice, part 1, book 2, ch. 5;
+            and Jansen in the Concordia, chs. 30, 32 and 35;
+            and modern commentators on St. Thomas II-II, at the beginning.
+            They principally adduce that text of James 1:
+            Let him ask in faith, nothing doubting —
+            because Catholic faith does not have as its object the obtaining of a prayer,
+            such that one could be certain it would come about;
+            therefore it cannot be in this sense that a praying believer is asked not to waver in faith;
+            therefore the meaning must be that he should not waver in trust (fiducia).
+            In the same way Luke 17 seems to be understood:
+            If you have faith, etc. —
+            for it cannot be understood of belief,
+            both for the same reason and because not everyone who believes obtains a miracle,
+            but only one who has a special trust (fiduciam).
+            And the rebuke of Christ in <ref xml:id="szthvi-a00079-Rd1e795" corresp="#szthvi-a00079-Qd1e797">Matthew 14</ref> also seems to be understood in this sense:
+            <quote xml:id="szthvi-a00079-Qd1e797" source="http://scta.info/resource/mt14_31@11-14">O you of little faith, why did you doubt</quote> —
+            for it cannot be understood of doubt in the assent of divine faith,
+            because that doubt destroys faith entirely;
+            so someone doubting in that way would not be called of little faith but of no faith,
+            a plain unbeliever.
+            It is therefore understood of wavering in trust (fiducia),
+            a sign of which is also this: that the doubt arose from fear —
+            for, as it says there, when Peter saw the strong wind, he was afraid;
+            but fear is opposed to trust (fiduciae), as St. Thomas (to be cited shortly) teaches.
+            Added to this is the fact that in Latin usage, as Calepino attests,
+            faith is also taken in the sense of trust (fiducia),
+            where he cites Cicero, in the Pro Quinto Ligario, saying:
+            Note with what faithfulness I defend his cause, who betray my own — and similar examples.
+          </p>
+          <p xml:id="szthvi-a00079-d1e743">
+            6. Others reject it — and their view is more appealing. —
+            Trust (fiducia) is distinguished from Catholic faith. —
+            Nonetheless, other theologians do not admit this meaning of faith, at least as a usage of Scripture.
+            This is the position of Soto, book 2 on Nature and Grace, ch. 6;
+            and Horantius, On Catholic Loci, book one, ch. 64;
+            and it is defended at length by Bellarmine, book one on Justification, ch. 11.
+            Their opinion, although perhaps not strictly necessary,
+            seems to me nonetheless very pious and probable,
+            better suited to confuting the heretics,
+            and simpler to speak with — or, as I would put it, more unambiguous in this matter.
+            To explain that position: I presuppose first, as regards the matter itself,
+            that trust (fiducia) is in reality something distinct from Catholic or justifying faith.
+            This is plainly gathered from the Council of Trent, session 6, ch. 8,
+            together with canons 9, 12 and 13,
+            where it condemns those who say that trust (fiducia) alone justifies,
+            and places faith as the first foundation of justification.
+            Then there is the excellent testimony of Paul,
+            <ref xml:id="szthvi-a00079-Rd1e882" corresp="#szthvi-a00079-Qd1e885">1 Timothy 3</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e885" source="http://scta.info/resource/Itim3_13@1-13">Those who have ministered well will acquire a good standing for themselves, and confidence (fiduciam) in faith</quote>.
+            Therefore trust (fiducia) is not faith, for he would not have rightly said: And confidence (fiduciam) in faith.
+            And <ref xml:id="szthvi-a00079-Rd1e896" corresp="#szthvi-a00079-Qd1e898">Ephesians 3</ref>,
+            he says that <quote xml:id="szthvi-a00079-Qd1e898" source="http://scta.info/resource/eph3_12@4-10">confidence (fiducia) in Christ is had or acquired through faith</quote>;
+            therefore it is distinct from faith.
+          </p>
+          <p xml:id="szthvi-a00079-d1e806">
+            7. Trust (fiducia) is strengthened hope. —
+            Next it must be added that trust (fiduciam), as it is distinguished from faith,
+            is nothing other than hope, connoting a certain perfection or strength of it.
+            <pb ed="#P" n="11"/>
+            <cb ed="#P" n="a"/>
+            This can be gathered from <ref xml:id="szthvi-a00079-Rd1e923" corresp="#szthvi-a00079-Qd1e925">Job chapter 8</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e925" source="http://scta.info/resource/iob8_13@8-10 http://scta.info/resource/iob8_14@6-11">The hope of the hypocrite shall perish, and his trust (fiducia) is like a spider's web</quote>;
+            the latter words explain the former.
+            Hence St. <ref xml:id="szthvi-a00079-Rd1e956">Thomas, in Book 3, dist. 26, q. 1, art. 3, ad 5</ref>,
+            said that <quote xml:id="szthvi-a00079-Qd1e962" source="http://scta.info/resource/ta-l3d26q1-d1e287@33-54" type="paraphrase">hope in good things is called trust (fiduciam)</quote>;
+            which he explains more fully in <ref xml:id="szthvi-a00079-Rd1e964">I-II, q. 40, art. 2, ad 2</ref>,
+            saying that <quote xml:id="szthvi-a00079-Qd1e973" source="http://scta.info/resource/TAca84-d1e879-d1e521@19-30">trust (fiduciam) is derived from faith</quote>,
+            but is nonetheless hope, as it were strengthened by its conjunction with faith.
+            And still better in <ref xml:id="szthvi-a00079-Rd1e975">II-II, q. 129, art. 6, ad 2</ref>,
+            and it is plainly gathered from Paul in the passages cited;
+            for on this account he calls for trust (fiduciam) in faith, or through faith.
+            Hence, in <ref xml:id="szthvi-a00079-Rd1e954" corresp="#szthvi-a00079-Qd1e956 #szthvi-a00079-Qd1e968 #szthvi-a00079-Qd1e973">Romans 4</ref>, he says of Abraham:
+            <quote xml:id="szthvi-a00079-Qd1e956" source="http://scta.info/resource/rom4_18@2-6">he believed in hope against hope</quote>,
+            because out of perfect faith he conceived hope concerning the promised son,
+            against the hope that nature did not promise;
+            hence he adds:
+            <quote xml:id="szthvi-a00079-Qd1e968" source="http://scta.info/resource/rom4_19@1-3">he did not weaken in distrust (diffidentia)</quote>;
+            and further:
+            <quote xml:id="szthvi-a00079-Qd1e97x" source="http://scta.info/resource/rom4_20@5-11">he did not waver in distrust (diffidentia), but was strengthened in faith</quote>;
+            that firm hope, therefore, was trust (fiducia), which is the contrary of distrust (diffidentiae).
+            He adds moreover that
+            <quote xml:id="szthvi-a00079-Qd1e1012" source="http://scta.info/resource/rom4_19@2-8">he did not weaken in faith, because he did not consider his own body as dead</quote>,
+            but rather the power and word of God.
+            Trust (fiducia) is therefore a perfection of the will,
+            whose hope is founded in faith.
+          </p>
+          <p xml:id="szthvi-a00079-d1e874">
+            8. Faith in Scripture Is Not Taken for Trust (fiducia),
+            Except Perhaps by Taking the Cause for the Effect. —
+            From these things, therefore, I conclude that,
+            although the former opinion can be defended with probability,
+            by saying that the name of a cause is sometimes transferred to signify the effect,
+            and so the name of faith can sometimes signify the trust (fiduciam) of the will,
+            insofar as it receives its perfection from faith,
+            nevertheless this analogy is not necessary for us,
+            nor do the passages of Scripture cited above compel us to admit that signification.
+            For first, as regards the faith of prayer, of which James speaks,
+            it is certain that some true and Catholic faith is required for the efficacy of prayer.
+            For, as Paul said, <ref xml:id="szthvi-a00079-Rd1e1024">Romans 10</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e1029" source="http://scta.info/resource/rom10_14@1-7">How will they call upon him in whom they have not believed</quote>?
+            Hence what James says:
+            <quote xml:id="szthvi-a00079-Qd1e1035" source="http://scta.info/resource/iac1_6@3-6">Let him ask in faith without wavering</quote>,
+            can first be understood of the wavering that is opposed to the truth of divine faith;
+            not because it is necessary for each person to believe absolutely
+            that his prayer will have its effect,
+            but only conditionally, if it has all the necessary conditions
+            under which the promise of prayer was made,
+            so that he does not waver concerning that promise:
+            <quote xml:id="szthvi-a00079-Qd1e1055" source="http://scta.info/resource/mc11_24@5-10">Whatever you ask for in prayer, believe that you shall receive it</quote>,
+            which is to be understood in that sense.
+            Or secondly, if we wish James to be speaking of non-wavering
+            in the very affect of praying,
+            he therefore said that one asking in faith should not waver at all,
+            <cb ed="#P" n="b"/>
+            not because that faith is trust (fiducia),
+            but because it is the root of trust (fiduciae),
+            and because from perfect consideration of faith,
+            and of the goodness and benevolence of God, which faith teaches,
+            it comes about that the faithful person prays with firm affect and without wavering;
+            just as Peter, <ref xml:id="szthvi-a00079-Rd1e1080" corresp="#szthvi-a00079-Qd1e1085">1 Peter, ch. 5</ref>, said:
+            <quote xml:id="szthvi-a00079-Qd1e1085" source="http://scta.info/resource/Ipetr5_9@1-4">Resist him, strong in faith</quote>.
+            Not because resistance to temptation formally occurs through faith —
+            for it occurs through the will aided by grace —
+            but because faith is what moves and directs the will.
+            And so also in our present case,
+            Paul said that Abraham, confirmed in faith, did not waver in distrust (diffidentia).
+            And in another place he advises to have trust (fiduciam) in faith,
+            that is, founded in faith.
+            And for the same reason, when Christ rebuked Peter for being of little faith,
+            and similarly the other Apostles, he speaks of true faith;
+            and he did not rebuke them because they doubted the truth of faith or revelation,
+            but because they had a weak faith
+            and did not rightly use it to consider those things
+            that could raise up the affect and trust (fiduciam).
+            And in this way I have explained this faith of prayer more extensively
+            in <ref xml:id="szthvi-a00079-Rd1e1162">Book 1, On Prayer, ch. 24</ref>,
+            and it is very consistent with the teaching of
+            <ref xml:id="szthvi-a00079-Rd1e1170">St. Thomas, II-II, in the passage cited</ref>,
+            and it seems to me to be the opinion of
+            <ref xml:id="szthvi-a00079-Rd1e1174">Jerome in the Dialogue against the Luciferians</ref>,
+            somewhat past the middle,
+            whatever Marianus Victor may say there in the scholium.
+            For Jerome does not expound those passages concerning trust (fiducia),
+            but concerning faith, whether living or efficaciously working,
+            and considering the truth of faith.
+            And the same thing is to be said proportionally concerning the faith of miracles,
+            of which Jerome also speaks there;
+            but concerning this faith something must be said specifically
+            in the course of the material.
+            And therefore in the present I do not explain it further.
+          </p>
+          <p xml:id="szthvi-a00079-d1e1018">
+            9. Third Assertion: Faith, Even as Related to the Intellect, Has Various Meanings. —
+            Third, it must be principally said that the name of faith,
+            even as related to the intellect, has multiple meanings,
+            partly equivocal or analogical, partly under some common notion;
+            which it is necessary to explain briefly for the use of the word in this matter,
+            and for establishing its object.
+
+            First, therefore, any assent of the intellect determined toward one part
+            is customarily called faith, which is common among all.
+            And in this way can be understood that saying of
+            <ref xml:id="szthvi-a00079-Rd1e1230">Augustine, On the Predestination of the Saints, ch. 29</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e1235">To believe is to think with assent</quote>.
+            For to believe is the same as to give faith.
+            And in the same way many understand the common description of an argument,
+            that it is a discourse about a doubtful matter that produces credence,
+            which some extend even to demonstration.
+            Indeed, Hales, Bonaventure, and Gabriel, cited above,
+            think that even intuitive knowledge and even a clear vision of God
+            is sometimes called faith, so understanding that passage of
+            <pb ed="#P" n="12"/>
+            <cb ed="#P" n="a"/>
+            <ref xml:id="szthvi-a00079-Rd1e1207">Romans 1</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e1209" source="http://scta.info/resource/rom1_17@1-5">The justice of God in it</quote>,
+            that is, in the Gospel,
+            <quote xml:id="szthvi-a00079-Qd1e1271" source="http://scta.info/resource/rom1_17@6-10">is revealed from faith to faith</quote>,
+            that is, from obscure faith to clear vision —
+            which was Bede's exposition of that passage;
+            but this does not seem right to me,
+            because it is not the mind of Paul there;
+            for he is not dealing with vision, but with proper faith in the coming Christ;
+            and this is what he says:
+            <quote xml:id="szthvi-a00079-Qd1e1285" source="http://scta.info/resource/rom1_17@7-10">From faith to faith</quote>.
+            As Toletus, Benedict Pererius, and others declare
+            from the common opinion of the Fathers there.
+            Likewise it does not accord with other passages of Paul,
+            in which he opposes faith to vision:
+            <quote xml:id="szthvi-a00079-Qd1e1234" source="http://scta.info/resource/IIcor5_7@1-8">We walk by faith and not by sight</quote>.
+            Hence I do not believe that the vision of God is anywhere called faith in Scripture;
+            indeed not even in common speech is any intuitive vision called by the name of faith.
+            Wherefore, if this word is extended to evident knowledge,
+            it is only to abstractive knowledge,
+            and that which is had through discourse;
+            more frequently however, and less improperly,
+            it is said of any opinative assent,
+            either because it is fearful, or obscure,
+            or because it regularly includes authority.
+            Hence <ref xml:id="szthvi-a00079-Rd1e1261">Aristotle, De Anima 3, ch. 3, text 157</ref>,
+            said: <quote xml:id="szthvi-a00079-Qd1e1329">Faith follows opinion</quote>.
+            And <ref xml:id="szthvi-a00079-Rd1e1334">St. Thomas, II-II, q. 129, art. 6</ref>,
+            said that <quote xml:id="szthvi-a00079-Qd1e1339" source="http://scta.info/resource/TAca84-d1e1938-d1e1657@55-60">a vehement opinion is called faith</quote>.
+          </p>
+          <p xml:id="szthvi-a00079-d1e1129">
+            10. From this meaning two others could be derived, which I have touched on above. —
+            One is that by which faith is said of conscience.
+            For conscience is an act of the intellect, as
+            <ref xml:id="szthvi-a00079-Rd1e1355">St. Thomas teaches, I, q. 79</ref>
+            and <ref xml:id="szthvi-a00079-Rd1e1361">I-II, q. 19, art. 5</ref>,
+            and it consists in a certain firm practical judgment about things to be done;
+            which judgment regularly rests on conjectures and authority;
+            and therefore it could be called faith,
+            and can be called by us practical faith,
+            according to which a person is said to be of good or bad faith,
+            which is very commonly used in law.
+            The other meaning was that in which faith is attributed to instruments
+            and public documents and the like,
+            according to the legal titles on the credibility of instruments.
+            For because such instruments are apt to generate faith in the mind, or assent,
+            they are therefore called faithful (fidelia);
+            just as a medicine apt to generate health is called healthful (sana).
+          </p>
+          <p xml:id="szthvi-a00079-d1e1173">
+            11. The Most Important Meaning of Faith Is for Obscure Knowledge
+            Founded on the Testimony of a Speaker, Which Is Divided into Divine and Human. —
+            Now indeed in common usage, the word faith has been contracted
+            to signify obscure knowledge founded on the testimony of a speaker,
+            and this is the sense which serves the present purpose.
+            But further, this faith must be distinguished into divine and human,
+            which two members, although they are not equivocal as the preceding ones are
+            (for they can have a common notion, perhaps univocal — about which elsewhere),
+            <cb ed="#P" n="b"/>
+            nonetheless differ essentially by reason of the formal objects on which they are founded;
+            for divine faith is founded on the testimony of God (as we shall see),
+            while human faith is founded on human, or created, authority —
+            if we wish to include under this member the faith that can be given
+            to an angel speaking in his own name, or by his proper authority.
+            In the present, therefore, we omit human faith, which pertains to the Philosophers,
+            and we treat of supernatural and divine faith.
+            In the supernatural order, moreover, there is also a multiple use of this word,
+            even as pertaining to the intellect,
+            which I shall explain better in the following section.
+          </p>
+        </div>
+        <div xml:id="szthvi-a00079-Dd1e1234">
+          <head xml:id="szthvi-a00079-Hd1e1236">Section 2</head>
+          <head xml:id="szthvi-a00079-Hd1e1238" type="question-title">Which Supernatural Faith Is the Proper Object of This Matter, and in What Order It Is to Be Treated</head>
+          <p xml:id="szthvi-a00079-d1e1241">
+            SECTION II.
+            Which Supernatural Faith Is the Proper Object of This Matter,
+            and in What Order It Is to Be Treated.
+          </p>
+          <p xml:id="szthvi-a00079-d1e1252">
+            1. Although We Must Treat of Faith of the Intellect,
+            the Pious Affect of the Will Is Not Excluded. —
+            I presuppose here that the faith of the will is not treated,
+            even if it be infused;
+            for if the discourse concerns trust (fiducia),
+            admitting the name of faith in that signification,
+            its consideration pertains to the doctrine on hope,
+            because, as I said, it is not distinguished from it.
+            But if we speak of fidelity (fidelitate),
+            that saying of Augustine, in the book On the Spirit and the Letter, ch. 31,
+            aptly applies:
+            <quote xml:id="szthvi-a00079-Qd1e1498">We are now speaking of that faith which we employ when we believe something,
+            not that which we give when we promise something</quote>;
+            for this faith is a moral virtue and a potential part of justice,
+            and therefore pertains to its treatment.
+            But when we say here that the faith of the will is not treated,
+            we speak of that faith which, in its proper notion, is consummated in the will;
+            nonetheless we do not exclude that will
+            which the Council of Orange called the beginning of faith;
+            for that is of present consideration,
+            insofar as the faith of the intellect itself is voluntary;
+            yet that will is not faith, but a pious affect toward faith.
+          </p>
+          <p xml:id="szthvi-a00079-d1e1307">
+            2. Although We Must Treat of Divine Faith,
+            the Declaration of Human Faith or That Common to Both Still Serves. —
+            Next it must be established that the object of the present doctrine
+            is not human faith,
+            nor the notion of faith common to human and divine alone,
+            but divine faith according to its proper notion;
+            for that alone is a theological virtue and the foundation of salvation,
+            <pb ed="#P" n="13"/>
+            <cb ed="#P" n="a"/>
+            and tends toward God as a supernatural end,
+            for which reasons it is considered above all in Theology;
+            but because the proper notion of this faith presupposes the common one,
+            and because, generally speaking, it is not obtained
+            without some ministry and as it were the assistance of human faith,
+            Theology cannot therefore abstract entirely from considering these notions;
+            not however as parts of its proper object,
+            but either by presupposing them
+            or by explaining them insofar as is necessary for itself.
+          </p>
+          <p xml:id="szthvi-a00079-d1e1356">
+            3. Divine Faith Includes Three Things. —
+            A Question: Which of These Three Is the Matter of This Treatise. —
+            It must further be considered that divine faith intrinsically includes three things:
+            the habit or light of faith, its act, and its object;
+            and these three, even taken individually,
+            are customarily signified in Scripture by the name of faith.
+            For the doctrine, or object of faith, is understood that passage of
+            <ref xml:id="szthvi-a00079-Rd1e1520">Gal. <sic>1</sic></ref>:
+            <quote xml:id="szthvi-a00079-Qd1e1525">When faith had come</quote>, etc.,
+            and <ref xml:id="szthvi-a00079-Rd1e1527">ch. 3</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e1531">from the hearing of faith</quote>;
+            and <ref xml:id="szthvi-a00079-Rd1e1534">Eph. 4</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e1536">One God, one faith</quote>;
+            and <ref xml:id="szthvi-a00079-Rd1e1541">Apoc. 2</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e1543">You have not denied my faith</quote>;
+            and so also said <ref xml:id="szthvi-a00079-Rd1e1634">Athanasius, in the Creed</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e1639">This is the Catholic faith, which unless one believes firmly and faithfully</quote> —
+            for the faith that is believed is the object of the virtue of faith.
+            For the act, that passage of <ref xml:id="szthvi-a00079-Rd1e1557">Matthew 9</ref> is understood:
+            <quote xml:id="szthvi-a00079-Qd1e1559">According to your faith be it done to you</quote>;
+            and that of <ref xml:id="szthvi-a00079-Rd1e1565">Rom. 1</ref>:
+            <quote xml:id="szthvi-a00079-Qd1e1568">Your faith is proclaimed in the whole world</quote>;
+            and in <ref xml:id="szthvi-a00079-Rd1e1666">the whole eleventh chapter of Hebrews</ref>, faith is taken in the same way
+            when those various effects are attributed to it;
+            and whenever Scripture commands faith as necessary for salvation,
+            that faith is what is spoken of, since precepts are given concerning acts.
+            For the habit of faith, that passage of
+            <ref xml:id="szthvi-a00079-Rd1e1586">1 Cor. 13</ref> is rightly understood:
+            <quote xml:id="szthvi-a00079-Qd1e1588">Now there remain these three: faith, etc.</quote>;
+            and in the same sense speaks
+            <ref xml:id="szthvi-a00079-Rd1e1690">the Council of Trent, session six, chapter seven</ref>,
+            when it says that in justification faith, hope, and charity are infused simultaneously.
+            And beyond these meanings, we find three others in Scripture
+            pertaining also to faith of the supernatural order:
+            namely, insofar as faith is required for miracles
+            (which is called the faith of miracles or signs),
+            and insofar as a certain faith is placed among the freely given graces,
+            and another among the fruits of the Holy Spirit.
+            It can therefore be asked whether faith, as it encompasses all these things,
+            is the proper object of this doctrine, or under which notion.
+            On this it must be said briefly that all these things are indeed explained in this matter;
+            yet, by the common consensus and mind of the Theologians,
+            the habit or light of faith itself is the proper object of this doctrine.
+            For the matter or object believed
+            is called faith through faith only by reason of the habit or act of faith itself,
+            and is thus considered only insofar as it can terminate the relation of faith to itself;
+            but the habit and act, although they are considered per se and principally,
+            nevertheless the habit is as it were a permanent form and the principle of the act itself,
+            and is therefore posited as the chief object of the whole doctrine;
+            the rest are considered as annexed to faith itself.
+          </p>
+          <p xml:id="szthvi-a00079-d1e1478">
+            4. A Small Question That Arises. — It Is Resolved. —
+            But someone will ask: since the light of faith is the first principle
+            and foundation of the whole of Theology and all its parts,
+            how can it be the object of some part of that same Theology?
+            For the notion of object has the notion of a term;
+            but the same thing cannot be both principle and term with respect to the same thing,
+            since these denote contrary relations.
+            Also, because otherwise either the principle would be begged
+            in the course of such a doctrine,
+            or it would be necessary to resolve it into some higher principle.
+            Nevertheless this is easily resolved and understood
+            by considering that intellectual light is reflexive upon itself;
+            for the intellect is the principle of knowing itself,
+            and the light of glory is also the principle of seeing itself,
+            and so in these cases the notions of principle and term do not conflict,
+            because they are distinguished by reason and denomination alone.
+            Thus, therefore, the light of faith is the principle of believing itself;
+            for by the same faith we believe that faith is infused in us,
+            and that it is supernatural, and other such things.
+            And so it comes about that Theology can reason from believed principles
+            about faith itself,
+            and gather other properties belonging to that same faith
+            without begging the question,
+            and without resolution into a higher principle;
+            and in this way faith can be a part of the object of faith.
+          </p>
+          <p xml:id="szthvi-a00079-d1e1541">
+            5. The Order and Distribution of This Treatise. —
+            From all this it is finally clear what order we must follow
+            in treating this matter;
+            for since we treat of the virtue of faith,
+            we must also necessarily speak of the vices contrary to it,
+            and therefore we divide the matter into two principal parts:
+            the first will be on the virtue, which is more speculative;
+            the second on the vices, which is almost entirely moral,
+            since in it must be considered the precepts of faith,
+            and the sins by which they are violated,
+            and the penalties that correspond to them.
+            The former part we will divide into four members:
+            the first will be on the object, because from it the species of the virtue is taken;
+            the second on the act, because through it the habit is also specified;
+            the third on the habit; and the fourth on the things annexed to the virtue of faith.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

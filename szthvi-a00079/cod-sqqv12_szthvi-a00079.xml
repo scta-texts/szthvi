@@ -91,12 +91,12 @@
             <lb ed="#P" n="22"/>1. Non conveniunt auctores in recensendis
             <lb ed="#P" n="23"/>fidei significatis. — Quamvis, ut dixi, vox
             <lb ed="#P" n="24"/>fides sit multiplex et ambigua, nihilominus in
-            <lb ed="#P" n="25"/>cnumerandis ejus significatis auctores, etiam
+            <lb ed="#P" n="25"/>enumerandis ejus significatis auctores, etiam
             <lb ed="#P" n="26"/>Catholici, non conveniunt; Alex. enim Alens.,
             <lb ed="#P" n="27"/>in 3 part., q. 64, memb. 1, undecim fidei 
             ac<lb break="no" ed="#P" n="28"/>ceptiones enumerat. Bonaventura vero, in 3,
             <lb ed="#P" n="29"/>dist. 23, dub. 2, circa litteram, ponit tantum
-            <lb ed="#P" n="30"/>decem , nam quintam et ultimam ad unam
+            <lb ed="#P" n="30"/>decem, nam quintam et ultimam ad unam
             <lb ed="#P" n="31"/>revocat; et idem sentit ibi Gabriel, q. 2, nam
             <lb ed="#P" n="32"/>licet prius simpliciter referat et sequi 
             videa<lb break="no" ed="#P" n="33"/>tur Alensem, postea in enumeratione 
@@ -104,7 +104,7 @@
             <lb ed="#P" n="35"/>de Justif., in principio, novem significationes
             <lb ed="#P" n="36"/>ponit, addendo nonnullas superioribus, et
             <lb ed="#P" n="37"/>aliquas ex illis omittendo; et eodem fere 
-            mo<lb break="no" ed="#P" n="38"/>do Castr., contra haercs., verb. 7ides, reducit
+            mo<lb break="no" ed="#P" n="38"/>do Castr., contra haercs., verb. Fides, reducit
             <lb ed="#P" n="39"/>haec significata ad septem. Idem fere Roffens,
             <cb ed="#P" n="b"/>
             <lb ed="#P" n="40"/>et Albertus Pyghius, loco citato; Scotus 
@@ -116,17 +116,17 @@
             Me<lb break="no" ed="#P" n="46"/>dina, lib. 1 de Recta in Deum fide, cap. 1.
             <lb ed="#P" n="47"/>Sed quamvis fortasse haec duo significata
             <lb ed="#P" n="48"/>praecipua sint, nihilominus negare non 
-            pos<lb break="no" ed="#P" n="49"/>sumus extensam esse hanc vocem ad ala
+            pos<lb break="no" ed="#P" n="49"/>sumus extensam esse hanc vocem ad alia
             <lb ed="#P" n="50"/>multa significanda, quod breviter declarare
             <lb ed="#P" n="51"/>necessarium est, quia ad impugnandos 
             erro<lb break="no" ed="#P" n="52"/>res erit valde utile et opportunum.
           </p>
           <p xml:id="szthvi-a00079-d1e242">
-            <lb ed="#P" n="53"/>2. Prima assertio biparlita, quod fides ad
+            <lb ed="#P" n="53"/>2. Prima assertio bipartita, quod fides ad
             <lb ed="#P" n="54"/>voluntatem et ad intellectum refertur. — Prior
-            <lb ed="#P" n="55"/>pars certa. — De posteriori dubitant Budeeus
-            <lb ed="#P" n="56"/>et Valla. — Suadetur tamen primo ez usu 
-            La<lb break="no" ed="#P" n="57"/>tinorum. — Secundo ex Phülosophis. — 
+            <lb ed="#P" n="55"/>pars certa. — De posteriori dubitant Budaeus
+            <lb ed="#P" n="56"/>et Valla. — Suadetur tamen primo ex usu 
+            La<lb break="no" ed="#P" n="57"/>tinorum. — Secundo ex Philosophis. — 
             Ter<lb break="no" ed="#P" n="58"/>tio ex Patribus. — Quarto ex Scriptura. —
             <lb ed="#P" n="59"/>Quinto ex ratione. — Dico ergo primo vocem
             <lb ed="#P" n="60"/>fides, in omni proprietate sumptam, interdum
@@ -143,35 +143,42 @@
             vo<lb break="no" ed="#P" n="71"/>cem proprie non significare intellectus 
             per<lb break="no" ed="#P" n="72"/>suasionem, seu assensum, sed a fidelibus ad
             <lb ed="#P" n="73"/>hoc significandum esse accommodatam. 
+
             Nihi<lb break="no" ed="#P" n="74"/>lominus tamen pars proposita certa est, 
-            pri<lb break="no" ed="#P" n="75"/>mo ex usu Latinorum ; nam Cicero, lib. 2 de
+            pri<lb break="no" ed="#P" n="75"/>mo ex usu Latinorum; nam Cicero, lib. 2 de
             <lb ed="#P" n="76"/>Divinat., dixit insanorum vitiis non esse 
             adhi<lb break="no" ed="#P" n="77"/>bendam fidem, id est, assensum, 
-            credulita<lb break="no" ed="#P" n="78"/>tem; unde Virgilius, in 4 AEncid. :
+            credulita<lb break="no" ed="#P" n="78"/>tem; unde Virgilius, in 4 AEneid. :
             <quote xml:id="szthvi-a00079-Qd1e300">Credo quidem (nec vaua fides) genus esse Deorum :</quote>
             <lb ed="#P" n="79"/>et habere fidem alicui, apud probatos 
-            bLati<lb break="no" ed="#P" n="80"/>nos, idem est quod assentiri dictis ejus, ut ex
+            Lati<lb break="no" ed="#P" n="80"/>nos, idem est quod assentiri dictis ejus, ut ex
             <lb ed="#P" n="81"/>Terentio et aliis videre licet in Calepin., verb.
             <pb ed="#P" n="9"/>
             <cb ed="#P" n="a"/>
-            <lb ed="#P" n="1"/>Fides. Secundo etiam Philosophi, cum 
+            <lb ed="#P" n="1"/>Fides. 
+            
+            Secundo etiam Philosophi, cum 
             Boe<lb break="no" ed="#P" n="2"/>tio, definiunt argumentum esse orationem
             <lb ed="#P" n="3"/>quae rei dubiae facit fidem; et apud 
             Aristote<lb break="no" ed="#P" n="4"/>lem, sect. 18 Problem., q. 3, legimus fidem
             <lb ed="#P" n="5"/>perfacilem esse quam testimonium facit; 
             tes<lb break="no" ed="#P" n="6"/>timonium autem facit assensum et 
-            creduh<lb break="no" ed="#P" n="7"/>tatem. Tertio hic usus hujus vocis 
+            creduli<lb break="no" ed="#P" n="7"/>tatem. 
+            
+            Tertio hic usus hujus vocis 
             frequen<lb break="no" ed="#P" n="8"/>tissimus est apud Patres; Augustinus, de
             <lb ed="#P" n="9"/>Spiritu et litter., capit. 31, expresse ponit
-            <lb ed="#P" n="10"/>distinctionem duplicis fidei : una est, qua
-            <lb ed="#P" n="11"/>fideliter promittimus alteri ; alia, qua 
+            <lb ed="#P" n="10"/>distinctionem duplicis fidei: una est, qua
+            <lb ed="#P" n="11"/>fideliter promittimus alteri; alia, qua 
             credi<lb break="no" ed="#P" n="12"/>mus dicenti; idem habet lib. de Mendac.,
             <lb ed="#P" n="13"/>c. 20, et Epist. 19 ad Hieronymum. Item 
             Isi<lb break="no" ed="#P" n="14"/>dorus, lib. 8 Etymolog., cap. 2; Nazianzenus,
             <lb ed="#P" n="15"/>orat. 45, cum dicit fidem non habere 
             de<lb break="no" ed="#P" n="16"/>monstrationem ; Chrysostomus et alii 
             exposi<lb break="no" ed="#P" n="17"/>tores communiter, ad Hebr. 11, et in aliis 
-            lo<lb break="no" ed="#P" n="18"/>cis Scripturae statim citandis. Quarto, et
+            lo<lb break="no" ed="#P" n="18"/>cis Scripturae statim citandis. 
+            
+            Quarto, et
             <lb ed="#P" n="19"/>quod ad nos maxime spectat, hic est frequens
             <lb ed="#P" n="20"/>usus Scriptura, etiam cum loquitur de fide
             <lb ed="#P" n="21"/>justificante, quidquid haeretici contendant; id
@@ -183,7 +190,7 @@
             <lb ed="#P" n="27"/>suo loco latius expendemus; nunc illa 
             parti<lb break="no" ed="#P" n="28"/>cula, argumentum, ad rem maxime facit, nam
             <lb ed="#P" n="29"/>aperte significat opus intellectus, sicut etiam
-            <lb ed="#P" n="30"/>vox graeca BDeyyo, quam exponunt Patres
+            <lb ed="#P" n="30"/>vox graeca <foreign>elegxos</foreign>, quam exponunt Patres
             <lb ed="#P" n="31"/>Graeci, idem est ac convictio, et firmus 
             assen<lb break="no" ed="#P" n="32"/>sus. Deinde subjungit D. Paulus : <quote xml:id="szthvi-a00079-Qd1e398" source="http://scta.info/resource/hebr11_3">Fide 
             intel<lb break="no" ed="#P" n="33"/>ligimus aptata esse secula verbo DET</quote>; ergo
@@ -217,7 +224,7 @@
             fi<lb break="no" ed="#P" n="60"/>dei, ui ex citatis testimoniis constat ; ergo.
           </p>
           <p xml:id="szthvi-a00079-d1e447">
-            <lb ed="#P" n="61"/>3. Quod. fides ad voluntatem relata 
+            <lb ed="#P" n="61"/>3. Quod fides ad voluntatem relata 
             fidelita<lb break="no" ed="#P" n="62"/>tem et fiduciam importat. — De fidelitate. —
             <lb ed="#P" n="63"/>Secundo, dicendum est vocem fidei, etiam ut
             <lb ed="#P" n="64"/>significat perfectionem voluntatis, plura 
@@ -226,11 +233,11 @@
             utrum<lb break="no" ed="#P" n="67"/>que horum non est aque certum, et ideo 
             si<lb break="no" ed="#P" n="68"/>gillatim de illis dicendum est. Primo ergo 
             no<lb break="no" ed="#P" n="69"/>tissimum est fidelitatem ad voluntatem 
-            per<lb break="no" ed="#P" n="70"/>tinere ; est enim quaedam virtus moralis, quae
+            per<lb break="no" ed="#P" n="70"/>tinere; est enim quaedam virtus moralis, quae
             <lb ed="#P" n="71"/>praebet constantiam in servandis promissis;
             <lb ed="#P" n="72"/>haec ergo virtus fides a Latinis appellatur;
-            <lb ed="#P" n="73"/>unde Cicero, in libro primo Officior. : Fides est
-            <lb ed="#P" n="74"/>dictorum et conventorum constantia et veritas ;
+            <lb ed="#P" n="73"/>unde Cicero, in libro primo Officior.: <quote xml:id="szthvi-a00079-Qd1e539" source="http://scta.info/resource/gpza5l-laougy-d1e181@5-12">Fides est
+            <lb ed="#P" n="74"/>dictorum et conventorum constantia et veritas</quote> ;
             <lb ed="#P" n="75"/>imo ibi conjectat fidem inde dictam esse, quia
             <lb ed="#P" n="76"/>per eam fit quod dicitur, insinuans etiam
             <lb ed="#P" n="77"/>hanc fuisse primam vocis impositionem, quod
@@ -255,8 +262,8 @@
             <lb ed="#P" n="96"/>Deus est capax propriae fidei intellectualis.
           </p>
           <p xml:id="szthvi-a00079-d1e528">
-            <lb ed="#P" n="97"/>A. Esxtenditur predicta significatio ad 
-            ve<lb break="no" ed="#P" n="98"/>ritatem. — Ttem eatenditur ad objectum ejus,
+            <lb ed="#P" n="97"/>4. Extenditur praedicta significatio ad 
+            ve<lb break="no" ed="#P" n="98"/>ritatem. — Item extenditur ad objectum ejus,
             <lb ed="#P" n="99"/>et ad obligationem ejusdem veritatis amplendee,
             <lb ed="#P" n="100"/>et ad conscientiam et ad fidem instrumentorum.
             <lb ed="#P" n="101"/>— Et ex hac significatione derivata est haec
@@ -267,7 +274,7 @@
             <lb ed="#P" n="106"/>nam imprimis derivata est haec vox ad 
             signi<lb break="no" ed="#P" n="107"/>ficandam veritatem, quae est etiam virtus 
             mo<lb break="no" ed="#P" n="108"/>ralis, quia vel non est distincta a fidelitate,
-            <lb ed="#P" n="109"/>vel est illi valde aftinis, ut sumitur ex divo
+            <lb ed="#P" n="109"/>vel est illi valde affinis, ut sumitur ex divo
             <lb ed="#P" n="110"/>Thoma 2. 2, quaestione 109, adjunctis quae
             <pb ed="#P" n="10"/>
             <cb ed="#P" n="a"/>
@@ -275,7 +282,7 @@
             An<lb break="no" ed="#P" n="2"/>tonin., 4 p., tit. 5, cap. 16; et ita Paulus, in
             <lb ed="#P" n="3"/>d. loco <ref xml:id="szthvi-a00079-Rd1e624">ad Romanos tertio</ref>, ut probet fidem
             <lb ed="#P" n="4"/>Dei non evacuari, dicit: <quote xml:id="szthvi-a00079-Qd1e628" source="http://scta.info/resource/rom3_4@1-4">Est autem Deus 
-            ve<lb break="no" ed="#P" n="5"/>rax</quote> ,; et <ref xml:id="szthvi-a00079-Rd1e633" corresp="#szthvi-a00079-Qd1e636">Apocalyp. 10</ref>, Christus appellatur <quote xml:id="szthvi-a00079-Qd1e636" source="http://scta.info/resource/ap19_11@15-17">festis
+            ve<lb break="no" ed="#P" n="5"/>rax</quote>; et <ref xml:id="szthvi-a00079-Rd1e633" corresp="#szthvi-a00079-Qd1e636">Apocalyp. 10</ref>, Christus appellatur <quote xml:id="szthvi-a00079-Qd1e636" source="http://scta.info/resource/ap19_11@15-17">festis
             <lb ed="#P" n="6"/>fidelis</quote>, id est verax. Et hinc ulterius 
             extendi<lb break="no" ed="#P" n="7"/>tur haec vox ad significandum objectum 
             fide<lb break="no" ed="#P" n="8"/>litatis, seu veritatis, et sic dicitur significare
@@ -327,9 +334,8 @@
             <lb ed="#P" n="52"/>praecipue adducunt illud Jacobi primo: 
             Po<lb break="no" ed="#P" n="53"/>stulet autem in fide nihil heesitans, quia fides
             <lb ed="#P" n="54"/>catholica non habet pro objecto 
-            impetratio<lb break="no" ed="#P" n="55"/>nem orationis, ut certo credat illam esse fu-
-            <cb ed="#P" n="b"/>
-            <lb ed="#P" n="56"/>turam; ergo non potest in hoc sensu postulari
+            impetratio<lb break="no" ed="#P" n="55"/>nem orationis, ut certo credat illam esse 
+            fu<cb ed="#P" n="b"/><lb ed="#P" n="56" break="no"/>turam; ergo non potest in hoc sensu postulari
             <lb ed="#P" n="57"/>a fideli orante, ut non haesitet in fide; ergo
             <lb ed="#P" n="58"/>sensus est ut non haesitet in fiducia. Quomodo
             <lb ed="#P" n="59"/>videtur etiam intelligi illud Luc. decimo 
@@ -386,7 +392,7 @@
             <lb ed="#P" n="108"/>illa distincta.
           </p>
           <p xml:id="szthvi-a00079-d1e806">
-            <lb ed="#P" n="109"/>1. Fiducia est roborata spes. — Deinde 
+            <lb ed="#P" n="109"/>7. Fiducia est roborata spes. — Deinde 
             ad<lb break="no" ed="#P" n="110"/>dendum est fiduciam, prout distinguitur a
             <pb ed="#P" n="11"/>
             <cb ed="#P" n="a"/>
@@ -395,13 +401,13 @@
             <lb ed="#P" n="3"/>colligi potest ex <ref xml:id="szthvi-a00079-Rd1e923" corresp="#szthvi-a00079-Qd1e925">capite octavo Job</ref>: <quote xml:id="szthvi-a00079-Qd1e925" source="http://scta.info/resource/iob8_13@8-10 http://scta.info/resource/iob8_14@6-11">Spes 
             hypo<lb break="no" ed="#P" n="4"/>crite peribit, et sicut tela aranearum fiducia
             <lb ed="#P" n="5"/>ejus</quote> ; quae posteriora verba explicant priora.
-            <lb ed="#P" n="6"/>Unde divus Thomas in 3, dist. 26, quaest. 1,
-            <lb ed="#P" n="7"/>art. 3, ad quintum, dixit spem in bonis 
-            vo<lb break="no" ed="#P" n="8"/>cari fiduciam; quod magis explicat 1. 2,
-            <lb ed="#P" n="9"/>quaestione 40, art. 2, ad secundum, dicens
-            <lb ed="#P" n="10"/>fiduciam esse dictama fide; esse tamen spem,
+            <lb ed="#P" n="6"/>Unde divus <ref xml:id="szthvi-a00079-Rd1e956">Thomas in 3, dist. 26, quaest. 1,
+            <lb ed="#P" n="7"/>art. 3, ad quintum</ref>, dixit <quote xml:id="szthvi-a00079-Qd1e962" source="http://scta.info/resource/ta-l3d26q1-d1e287@33-54" type="paraphrase">spem in bonis 
+            vo<lb break="no" ed="#P" n="8"/>cari fiduciam</quote>; quod magis explicat <ref xml:id="szthvi-a00079-Rd1e964">1. 2,
+            <lb ed="#P" n="9"/>quaestione 40, art. 2, ad secundum</ref>, dicens
+            <lb ed="#P" n="10"/><quote xml:id="szthvi-a00079-Qd1e973" source="http://scta.info/resource/TAca84-d1e879-d1e521@19-30">fiduciam esse dictam a fide</quote>; esse tamen spem,
             <lb ed="#P" n="11"/>quasi roboratam ex conjunctione ad fidem.
-            <lb ed="#P" n="12"/>Et melius 2. 2, q. 129, art. 6, ad 2, et plane
+            <lb ed="#P" n="12"/>Et melius <ref xml:id="szthvi-a00079-Rd1e975" target="http://scta.info/resource/TAca84-d1e1938-d1e1751">2. 2, q. 129, art. 6, ad 2</ref>, et plane
             <lb ed="#P" n="13"/>colligitur ex Paulo, in citatis locis. Nam hac
             <lb ed="#P" n="14"/>ratione postulat fiduciam in fide, vel per 
             fi<lb break="no" ed="#P" n="15"/>dem. Unde, <ref xml:id="szthvi-a00079-Rd1e954" corresp="#szthvi-a00079-Qd1e956 #szthvi-a00079-Qd1e968 #szthvi-a00079-Qd1e973">ad Rom. 4</ref>, de Abraham dicit: <quote xml:id="szthvi-a00079-Qd1e956" source="http://scta.info/resource/rom4_18@2-6">in
@@ -409,17 +415,17 @@
             <lb ed="#P" n="17"/>fide concepit spem de filio promisso, contra
             <lb ed="#P" n="18"/>spem, quam non promittebat natura; unde
             <lb ed="#P" n="19"/>subjungit : <quote xml:id="szthvi-a00079-Qd1e968" source="http://scta.info/resource/rom4_19@1-3">Non est infirmatus diffidentia</quote> ; et
-            <lb ed="#P" n="20"/>infra: <quote xml:id="szthvi-a00079-Qd1e973" source="http://scta.info/resource/rom4_20@5-11">Non hesitavit diffidentia, sed confortatus
-            <lb ed="#P" n="21"/>est fide</quote> ; illa ergo spes firma erat fiducia, quae
-            <lb ed="#P" n="22"/>est contraria diflfidentiae. Addit autem, non
-            <lb ed="#P" n="23"/>esse anfirmatum fide, quia non consideravit 
-            cor<lb break="no" ed="#P" n="24"/>pus swum emortuum, sed potentiam et verbum
+            <lb ed="#P" n="20"/>infra: <quote xml:id="szthvi-a00079-Qd1e97x" source="http://scta.info/resource/rom4_20@5-11">Non hesitavit diffidentia, sed confortatus
+            <lb ed="#P" n="21"/>est fide</quote>; illa ergo spes firma erat fiducia, quae
+            <lb ed="#P" n="22"/>est contraria diffidentiae. Addit autem, <quote xml:id="szthvi-a00079-Qd1e1012" source="http://scta.info/resource/rom4_19@2-8">non
+            <lb ed="#P" n="23"/>esse infirmatum fide, quia non consideravit 
+            cor<lb break="no" ed="#P" n="24"/>pus suum emortuum</quote>, sed potentiam et verbum
             <lb ed="#P" n="25"/>Dei. Est ergo fiducia perfectio voluntatis,
             <lb ed="#P" n="26"/>cujus est spes in fide fundata.
           </p>
           <p xml:id="szthvi-a00079-d1e874">
             <lb ed="#P" n="27"/>8. Fides in Scriptura non accipitur pro 
-            fidu<lb break="no" ed="#P" n="28"/>cia, nisi forte sumendo causam pro effectu. Ex
+            fidu<lb break="no" ed="#P" n="28"/>cia, nisi forte sumendo causam pro effectu. - Ex
             <lb ed="#P" n="29"/>his ergo concludo, quod, licet prior opinio 
             pos<lb break="no" ed="#P" n="30"/>sit probabiliter defendi, dicendo nomen causae
             <lb ed="#P" n="31"/>transferri interdum ad significandum effectum,
@@ -431,10 +437,10 @@
             <lb ed="#P" n="37"/>significationem admittendam. Nam imprimis,
             <lb ed="#P" n="38"/>quod attinet ad fidem orationis, de qua 
             lo<lb break="no" ed="#P" n="39"/>quitur Jacobus, certum est aliquam fidem
-            <lb ed="#P" n="40"/>veram et catholicam requiri ad eftficaciam
+            <lb ed="#P" n="40"/>veram et catholicam requiri ad efficaciam
             <lb ed="#P" n="41"/>orationis. Nam, ut dixit Paulus, <ref xml:id="szthvi-a00079-Rd1e1024">ad Roman.
             <lb ed="#P" n="42"/>10</ref>: <quote xml:id="szthvi-a00079-Qd1e1029" source="http://scta.info/resource/rom10_14@1-7">Quomodo invocabunt eum in quem non 
-            cre<lb break="no" ed="#P" n="43"/>diderunt</quote> ? Unde quod ait Jacobus: <quote xml:id="szthvi-a00079-Qd1e1035" source="http://scta.info/resource/iac1_6@3-6">In fide 
+            cre<lb break="no" ed="#P" n="43"/>diderunt</quote>? Unde quod ait Jacobus: <quote xml:id="szthvi-a00079-Qd1e1035" source="http://scta.info/resource/iac1_6@3-6">In fide 
             ni<lb break="no" ed="#P" n="44"/>hil haesitet</quote>, primo intelligi potest de 
             haesita<lb break="no" ed="#P" n="45"/>tione repugnante veritati fidei divinae; non
             <lb ed="#P" n="46"/>quia necessarium sit unicuique credere suam
@@ -461,19 +467,19 @@
             propo<lb break="no" ed="#P" n="66"/>sito, dixit Paulus Abraham, fide confirmatum,
             <lb ed="#P" n="67"/>non haesitasse diffidentia. Et in alio loco 
             mo<lb break="no" ed="#P" n="68"/>net habere fiduciam in fide, id est fundatam in
-            <lb ed="#P" n="69"/>fide; et ob eamdem causam, quando Cbristus
+            <lb ed="#P" n="69"/>fide; et ob eamdem causam, quando Christus
             <lb ed="#P" n="70"/>reprehendit Petrum quod esset modice fidei,
             <lb ed="#P" n="71"/>et similiter alios Apostolos, de fide vera 
-            loqui<lb break="no" ed="#P" n="72"/>tur ; non vero illos reprehendit quia 
+            loqui<lb break="no" ed="#P" n="72"/>tur; non vero illos reprehendit quia 
             dubita<lb break="no" ed="#P" n="73"/>rent de veritate fidei aut revelationis, sed quia
             <lb ed="#P" n="74"/>haberent languidam fidem, et non recte illa
             <lb ed="#P" n="75"/>uterentur ad considerandum ea quae possent
             <lb ed="#P" n="76"/>affectum et fiduciam erigere. Atque hoc modo
-            <lb ed="#P" n="77"/>explicui latius hanc fidem orationis, libro 
-            pri<lb break="no" ed="#P" n="78"/>mo de Orat., cap. 24, et est valde consentanea
-            <lb ed="#P" n="79"/>doctrinae divi Thomae 2. 2, loco citato, et 
-            vi<lb break="no" ed="#P" n="80"/>detur mihi sententia Hieronymi in Dialogo
-            <lb ed="#P" n="81"/>contra Luciferianos, satis post medium, 
+            <lb ed="#P" n="77"/>explicui latius hanc fidem orationis, <ref xml:id="szthvi-a00079-Rd1e1162">libro 
+            pri<lb break="no" ed="#P" n="78"/>mo de Orat., cap. 24</ref>, et est valde consentanea
+            <lb ed="#P" n="79"/>doctrinae <ref xml:id="szthvi-a00079-Rd1e1170">divi Thomae 2. 2, loco citato</ref>, et 
+            vi<lb break="no" ed="#P" n="80"/>detur mihi sententia <ref xml:id="szthvi-a00079-Rd1e1174">Hieronymi in Dialogo
+            <lb ed="#P" n="81"/>contra Luciferianos</ref>, satis post medium, 
             quid<lb break="no" ed="#P" n="82"/>quid ibi in scholio dicat Marianus Victor. Non
             <lb ed="#P" n="83"/>enim exponit Hieronymus illa loca de fiducia,
             <lb ed="#P" n="84"/>sed de fide, vel viva, vel efficaciter operante,
@@ -487,21 +493,22 @@
           <p xml:id="szthvi-a00079-d1e1018">
             <lb ed="#P" n="91"/>9. Tertia assertio: fides etiam ad intellectum
             <lb ed="#P" n="92"/>relata varias habet significationes. — Tertio,
-            <lb ed="#P" n="93"/>principahter dicendum est, nomen fidei etiam
+            <lb ed="#P" n="93"/>principaliter dicendum est, nomen fidei etiam
             <lb ed="#P" n="94"/>ad intellectum relatum plura habere 
             signifi<lb break="no" ed="#P" n="95"/>cata, partim aequivoca vel analoga, partim
             <lb ed="#P" n="96"/>sub aliqua ratione communi; quod explicare
             <lb ed="#P" n="97"/>breviter oportet ad usum vocis in hac 
             ma<lb break="no" ed="#P" n="98"/>teria, et ad constituendum ejus objectum.
+
             <lb ed="#P" n="99"/>Primo igitur quilibet assensus intellectus
             <lb ed="#P" n="100"/>quoad unam partem determinatus, solet fides
             <lb ed="#P" n="101"/>appellari, quod commune est apud omnes.
-            <lb ed="#P" n="102"/>Et ita potest intelligi illud Augustini de 
-            Prae<lb break="no" ed="#P" n="103"/>destin. Sanctor., cap. 29: Credere, est cum 
-            as<lb break="no" ed="#P" n="104"/>sensione cogitare. Nam idem est credere quod
+            <lb ed="#P" n="102"/>Et ita potest intelligi illud <ref xml:id="szthvi-a00079-Rd1e1230">Augustini de 
+            Prae<lb break="no" ed="#P" n="103"/>destin. Sanctor., cap. 29</ref>: <quote xml:id="szthvi-a00079-Qd1e1235">Credere, est cum 
+            as<lb break="no" ed="#P" n="104"/>sensione cogitare</quote>. Nam idem est credere quod
             <lb ed="#P" n="105"/>adhibere fidem. Et eodem modo intelligunt
             <lb ed="#P" n="106"/>multi illam vulgarem descriptionem 
-            argu<lb break="no" ed="#P" n="107"/>menti, quod sit oratio rei dubie faciens fidem,
+            argu<lb break="no" ed="#P" n="107"/>menti, quod sit oratio rei dubiae faciens fidem,
             <lb ed="#P" n="108"/>quod aliqui extendunt etiam ad 
             demonstra<lb break="no" ed="#P" n="109"/>tionem. Imo. Alensis, Bonaventura et Gabriel,
             <lb ed="#P" n="110"/>supra citati, existimant etiam cognitionem
@@ -509,14 +516,14 @@
             <cb ed="#P" n="a"/>
             <lb ed="#P" n="1"/>intuitivam et visionem etiam Dei claram, 
             in<lb break="no" ed="#P" n="2"/>terdum appellari fidem, ita intelligentes illud
-            <lb ed="#P" n="3"/><ref xml:id="szthvi-a00079-Rd1e1207">ad Roman. 1</ref>: <quote xml:id="szthvi-a00079-Qd1e1209" source="http://scta.info/resource/rom1_17@1-10">Iustitia Dei in eo, id est, in
-            <lb ed="#P" n="4"/>Evangelio, revelatur em fide in fidem</quote>, id est,
+            <lb ed="#P" n="3"/><ref xml:id="szthvi-a00079-Rd1e1207">ad Roman. 1</ref>: <quote xml:id="szthvi-a00079-Qd1e1209" source="http://scta.info/resource/rom1_17@1-5">Iustitia Dei in eo</quote>, id est, in
+            <lb ed="#P" n="4"/>Evangelio, <quote xml:id="szthvi-a00079-Qd1e1271" source="http://scta.info/resource/rom1_17@6-10">revelatur em fide in fidem</quote>, id est,
             <lb ed="#P" n="5"/>ex fide obscura in claram visionem, quae fuit
             <lb ed="#P" n="6"/>expositio Bedae in illum locum; sed mihi non
             <lb ed="#P" n="7"/>probatur, quia non est ad mentem Pauli ibi;
             <lb ed="#P" n="8"/>non enim agit de visione, sed de propria fide
-            <lb ed="#P" n="9"/>Christi venturi : et hoc est quod ait: E fide in
-            <lb ed="#P" n="10"/>fidem. Ut ex communi sententia Patrum ibi 
+            <lb ed="#P" n="9"/>Christi venturi : et hoc est quod ait: <quote xml:id="szthvi-a00079-Qd1e1285" source="http://scta.info/resource/rom1_17@7-10">Ex fide in
+            <lb ed="#P" n="10"/>fidem</quote>. Ut ex communi sententia Patrum ibi 
             de<lb break="no" ed="#P" n="11"/>clarat Toletus, Benedictus Perer., et alii. Item
             <lb ed="#P" n="12"/>non consonat aliis locis Pauli, in quibus fidem
             <lb ed="#P" n="13"/>opponit visioni: <quote xml:id="szthvi-a00079-Qd1e1234" source="http://scta.info/resource/IIcor5_7@1-8">Per fidem ambulamus, et non
@@ -531,17 +538,17 @@
             quocum<lb break="no" ed="#P" n="22"/>que assensu opinativo, vel quia formidolosus
             <lb ed="#P" n="23"/>est, vel obscurus, vel quia regulariter 
             in<lb break="no" ed="#P" n="24"/>cludit auctoritatem. Unde <ref xml:id="szthvi-a00079-Rd1e1261">Aristoteles, 3 de
-            <lb ed="#P" n="25"/>Anim., cap. 3, text. 157</ref>, dixit: Opinionem
-            <lb ed="#P" n="26"/>sequitur fides. Et Divus Thomas 2. 2, q. 129,
-            <lb ed="#P" n="27"/>art. 6, dixit opinionem vehementem appellari
-            <lb ed="#P" n="28"/>fidem.
+            <lb ed="#P" n="25"/>Anim., cap. 3, text. 157</ref>, dixit: <quote xml:id="szthvi-a00079-Qd1e1329">Opinionem
+            <lb ed="#P" n="26"/>sequitur fides</quote>. Et <ref xml:id="szthvi-a00079-Rd1e1334">Divus Thomas 2. 2, q. 129,
+            <lb ed="#P" n="27"/>art. 6</ref>, dixit <quote xml:id="szthvi-a00079-Qd1e1339" source="http://scta.info/resource/TAca84-d1e1938-d1e1657@55-60">opinionem vehementem appellari
+            <lb ed="#P" n="28"/>fidem</quote>.
           </p>
           <p xml:id="szthvi-a00079-d1e1129">
             <lb ed="#P" n="29"/>10. Et ex hac significatione derivari 
             potue<lb break="no" ed="#P" n="30"/>runt duae aliae, quas supra attigi. Una est, qua
             <lb ed="#P" n="31"/>fides dicitur de conscientia. Est enim 
-            con<lb break="no" ed="#P" n="32"/>scientia actus intellectus ut docet D. Thomas,
-            <lb ed="#P" n="33"/>1p., dguosi. T9. et 1. 9, q. 19. art. 5, el
+            con<lb break="no" ed="#P" n="32"/>scientia actus intellectus ut docet <ref xml:id="szthvi-a00079-Rd1e1355">D. Thomas,
+            <lb ed="#P" n="33"/>1 p., quaeset. 79.</ref> et <ref xml:id="szthvi-a00079-Rd1e1361">1. 2, q. 19. art. 5</ref>, et
             <lb ed="#P" n="34"/>consistit in quodam firmo judicio practico de
             <lb ed="#P" n="35"/>agendis; quod judicium regulariter nititur
             <lb ed="#P" n="36"/>conjecturis, et auctoritate; ideoque potuit
@@ -551,7 +558,7 @@
             <lb ed="#P" n="40"/>jure. Altera significatio erat, in qua fides 
             tri<lb break="no" ed="#P" n="41"/>buitur instrumentis et scripturae publicae, et
             <lb ed="#P" n="42"/>similibus, juxta titulos Juris, de fide 
-            instru<lb break="no" ed="#P" n="43"/>mentorun. Nam quia talia instrumenta apta
+            instru<lb break="no" ed="#P" n="43"/>mentorum. Nam quia talia instrumenta apta
             <lb ed="#P" n="44"/>sunt ad generandam fidem in mente, seu 
             as<lb break="no" ed="#P" n="45"/>sensu, ideo fidelia dicuntur; sicut medicina
             <lb ed="#P" n="46"/>apta ad generandam sanitatem, sana 
@@ -560,7 +567,7 @@
           <p xml:id="szthvi-a00079-d1e1173">
             <lb ed="#P" n="48"/>11. Potissima significatio fidei est pro 
             cogni<lb break="no" ed="#P" n="49"/>tione obscura fundata in testimonio dicentis,
-            <lb ed="#P" n="50"/>que in divinam et humanam dividitur. — Jam
+            <lb ed="#P" n="50"/>quae in divinam et humanam dividitur. — Jam
             <lb ed="#P" n="51"/>vero in communi usu, vox fidei contracta est
             <lb ed="#P" n="52"/>ad significandam cognitionem obscuram, et
             <lb ed="#P" n="53"/>fundatam in testimonio dicentis, et haec 
@@ -568,11 +575,11 @@
             Ulte<lb break="no" ed="#P" n="55"/>rius vero distinguenda est haec fides in divinam
             <cb ed="#P" n="b"/>
             <lb ed="#P" n="56"/>et humanam, quae duo membra, licet non sint
-            <lb ed="#P" n="57"/>eequivoca, sicut praecedentia (habere enim 
+            <lb ed="#P" n="57"/>aequivoca, sicut praecedentia (habere enim 
             pos<lb break="no" ed="#P" n="58"/>sunt rationem communem fortasse univocam,
             <lb ed="#P" n="59"/>de quo alibi), nihilominus essentialiter 
             diffe<lb break="no" ed="#P" n="60"/>runt ratione formalium obiectorum in quibus
-            <lb ed="#P" n="61"/>fundantur ; nam divina fides in Deitestimonio
+            <lb ed="#P" n="61"/>fundantur; nam divina fides in Dei testimonio
             <lb ed="#P" n="62"/>fundatur (ut videbimus), humana vero in 
             hu<lb break="no" ed="#P" n="63"/>mana, seu in creata auctoritate, si velimus
             <lb ed="#P" n="64"/>sub hoc membro comprehendere fidem, quae
@@ -580,7 +587,7 @@
             <lb ed="#P" n="66"/>propria auctoritate. In praesenti ergo fidem
             <lb ed="#P" n="67"/>humanam omittimus, quae ad Philosophos
             <lb ed="#P" n="68"/>spectat; et de supernaturali et divina 
-            tracta<lb break="no" ed="#P" n="69"/>mus. In ordine autem supernaturah datur
+            tracta<lb break="no" ed="#P" n="69"/>mus. In ordine autem supernaturali datur
             <lb ed="#P" n="70"/>etiam multiplex usus hujus vocis, etiam ut
             <lb ed="#P" n="71"/>pertinentis ad intellectum, quem melius in
             <lb ed="#P" n="72"/>sequenti sectione explicabo.
@@ -592,23 +599,23 @@
           <p xml:id="szthvi-a00079-d1e1241">
             <lb ed="#P" n="73"/>SECTIO II.
             <lb ed="#P" n="74"/>Quae fides supernaturalis sit proprium 
-            objec<lb break="no" ed="#P" n="75"/>tum hujus materie, et quo ordine 
+            objec<lb break="no" ed="#P" n="75"/>tum hujus materiae, et quo ordine 
             tractan<lb break="no" ed="#P" n="76"/>dum sit.
           </p>
           <p xml:id="szthvi-a00079-d1e1252">
             <lb ed="#P" n="77"/>1. Quamvis agendum de fide intellectus, non
-            <lb ed="#P" n="78"/>tamen eacluditur affectio pia voluntatis. —
+            <lb ed="#P" n="78"/>tamen excluditur affectio pia voluntatis. —
             <lb ed="#P" n="79"/>Suppono hic jam non tractari de fide 
             volun<lb break="no" ed="#P" n="80"/>tatis, etiamsi infusa sit; nam si sermo sit de
             <lb ed="#P" n="81"/>fiducia, admittendo nomen fidei in illa 
             signi<lb break="no" ed="#P" n="82"/>ficatione, illius consideratio pertinet ad 
             doc<lb break="no" ed="#P" n="83"/>trinam de spe, quia, ut dixi, ab illa non 
-            dis<lb break="no" ed="#P" n="84"/>tinguitur. Si vero loquamur de fidelitate ,
+            dis<lb break="no" ed="#P" n="84"/>tinguitur. Si vero loquamur de fidelitate,
             <lb ed="#P" n="85"/>recte quadrat illud Augustini, libro de Spirit.
-            <lb ed="#P" n="86"/>et littera, capite trigesimo primo : De hac
+            <lb ed="#P" n="86"/>et littera, capite trigesimo primo: <quote xml:id="szthvi-a00079-Qd1e1498">De hac
             <lb ed="#P" n="87"/>fide nunc loquimur, quam adhibemus cum 
             ali<lb break="no" ed="#P" n="88"/>quid credimus, non quam damus cum aliquid
-            <lb ed="#P" n="89"/>promittimus ; nam haec fides moralis virtus
+            <lb ed="#P" n="89"/>promittimus</quote>; nam haec fides moralis virtus
             <lb ed="#P" n="90"/>est, et pars potentialis justitiae, ideoque ad
             <lb ed="#P" n="91"/>illius tractationem spectat. Cum autem 
             dici<lb break="no" ed="#P" n="92"/>mus hic non tractari de fide voluntatis, 
@@ -616,14 +623,14 @@
             <lb ed="#P" n="94"/>in voluntate consummatur; non tamen 
             exclu<lb break="no" ed="#P" n="95"/>dimus voluntatem illam, quam Concilium
             <lb ed="#P" n="96"/>Arausicanum initium fidei vocavit; illa enim
-            <lb ed="#P" n="97"/>praesentis considerationis est , quatenus ipsa
+            <lb ed="#P" n="97"/>praesentis considerationis est, quatenus ipsa
             <lb ed="#P" n="98"/>fides intellectus voluntaria est; illa tamen
             <lb ed="#P" n="99"/>voluntas non est fides, sed pia affectio ad
             <lb ed="#P" n="100"/>fidem.
           </p>
           <p xml:id="szthvi-a00079-d1e1307">
             <lb ed="#P" n="101"/>2. Rursus licet agendum de fide divina, 
-            sub<lb break="no" ed="#P" n="102"/>servit tamen declaratio humanee vel utrique
+            sub<lb break="no" ed="#P" n="102"/>servit tamen declaratio humanae vel utrique
             <lb ed="#P" n="103"/>communis. — Deinde statuendum est 
             praesen<lb break="no" ed="#P" n="104"/>tis doctrinae objectum non esse fidem 
             huma<lb break="no" ed="#P" n="105"/>nam, nec solam rationem fidei communem
@@ -635,7 +642,7 @@
             <lb ed="#P" n="1"/>mentum, et ad Deum tendit ut finis 
             superna<lb break="no" ed="#P" n="2"/>turalis est, quibus rationibus maxime in
             <lb ed="#P" n="3"/>Theologia consideratur; quia vero propria
-            <lb ed="#P" n="4"/>ratio hujus fidei supponit communem , et
+            <lb ed="#P" n="4"/>ratio hujus fidei supponit communem, et
             <lb ed="#P" n="5"/>quia, regulariter loquendo, non comparatur
             <lb ed="#P" n="6"/>sine aliquo ministerio et quasi adjutorio fidei
             <lb ed="#P" n="7"/>humanae, ideo non potest Theologia omnino
@@ -645,25 +652,25 @@
             expli<lb break="no" ed="#P" n="11"/>cando quantum sibi necessarium est.
           </p>
           <p xml:id="szthvi-a00079-d1e1356">
-            <lb ed="#P" n="12"/>3. Fides divina includit tria. — Dubium :
+            <lb ed="#P" n="12"/>3. Fides divina includit tria. — Dubium:
             <lb ed="#P" n="13"/>quodnam illorum trium sit materia hujus 
             trac<lb break="no" ed="#P" n="14"/>tatus. — Est autem considerandum ulterius
             <lb ed="#P" n="15"/>fidem divinam tria per se includere, habitum
             <lb ed="#P" n="16"/>seu lumen fidei, actum ejus, et objectum, quae
             <lb ed="#P" n="17"/>tria, sigillatim etiam sumpta, solent in 
-            Scrip<lb break="no" ed="#P" n="18"/>tura nomine fidei significari ; nam de 
+            Scrip<lb break="no" ed="#P" n="18"/>tura nomine fidei significari; nam de 
             doctri<lb break="no" ed="#P" n="19"/>na, seu objecto fidei intelligitur illud <ref xml:id="szthvi-a00079-Rd1e1520">ad 
-            Ga<lb break="no" ed="#P" n="20"/>lat. 1</ref> : <quote xml:id="szthvi-a00079-Qd1e1525">Cum venisset fides</quote>, eic., et <ref xml:id="szthvi-a00079-Rd1e1527">cap. 3</ref>:
+            Ga<lb break="no" ed="#P" n="20"/>lat. <sic>1</sic></ref>: <quote xml:id="szthvi-a00079-Qd1e1525" source="http://scta.info/resource/gal3_23@1-5">Cum venisset fides</quote>, etc., et <ref xml:id="szthvi-a00079-Rd1e1527">cap. 3</ref>:
             <lb ed="#P" n="21"/><quote xml:id="szthvi-a00079-Qd1e1531" source="http://scta.info/resource/gal3_2@13-15">Ex auditu fidei</quote> ; et <ref xml:id="szthvi-a00079-Rd1e1534">ad Ephes. 4</ref>: <quote xml:id="szthvi-a00079-Qd1e1536" source="http://scta.info/resource/eph4_5@1-4">Unus Deus,
-            <lb ed="#P" n="22"/>una fides</quote> ; et <ref xml:id="szthvi-a00079-Rd1e1541">Apocalyps. 2</ref>: <quote xml:id="szthvi-a00079-Qd1e1543" source="http://scta.info/resource/ap2_13@13-16">Non negasti fidem
-            <lb ed="#P" n="23"/>meam</quote> ; et ita etiam dixit Athanasius, in
-            Sym<lb break="no" ed="#P" n="24"/>bolo : Heec est fides Catholica, quam nisi quis
-            <lb ed="#P" n="25"/>firmiter fideliterque crediderit, nam fides quae
+            <lb ed="#P" n="22"/>una fides</quote>; et <ref xml:id="szthvi-a00079-Rd1e1541">Apocalyps. 2</ref>: <quote xml:id="szthvi-a00079-Qd1e1543" source="http://scta.info/resource/ap2_13@13-16">Non negasti fidem
+            <lb ed="#P" n="23"/>meam</quote>; et ita etiam dixit <ref xml:id="szthvi-a00079-Rd1e1634">Athanasius, in
+            Sym<lb break="no" ed="#P" n="24"/>bolo</ref>: <quote xml:id="szthvi-a00079-Qd1e1639" source="http://scta.info/resource/acnkop-c1c1c1-d1e499@1-10">Haec est fides Catholica, quam nisi quis
+            <lb ed="#P" n="25"/>firmiter fideliterque crediderit</quote>, nam fides quae
             <lb ed="#P" n="26"/>creditur, objectum est virtutis fidei. De actu
             <lb ed="#P" n="27"/>vero intelligitur illud <ref xml:id="szthvi-a00079-Rd1e1557" corresp="#szthvi-a00079-Qd1e1559">Matthaei 9</ref> : <quote xml:id="szthvi-a00079-Qd1e1559" source="http://scta.info/resource/mt9_29@6-10">Secundum
             <lb ed="#P" n="28"/>fidem vestram fiat vobis</quote> ; et illud <ref xml:id="szthvi-a00079-Rd1e1565">ad Rom. 1</ref>:
             <lb ed="#P" n="29"/><quote xml:id="szthvi-a00079-Qd1e1568" source="http://scta.info/resource/rom1_8@14-19">Fides vestra auunciatur in universo mundo</quote>,
-            <lb ed="#P" n="30"/>et in toto capite undecimo ad Hebraeos, 
+            <lb ed="#P" n="30"/>et in <ref xml:id="szthvi-a00079-Rd1e1666" target="http://scta.info/resource/bible-hebr11">toto capite undecimo ad Hebraeos</ref>, 
             eo<lb break="no" ed="#P" n="31"/>dem modo sumitur fides, cum illi varii 
             effec<lb break="no" ed="#P" n="32"/>tus tribuuntur, et quoties in Scriptura 
             praeci<lb break="no" ed="#P" n="33"/>pitur fides tanquam ad salutem necessaria,
@@ -671,8 +678,8 @@
             acti<lb break="no" ed="#P" n="35"/>bus dantur. De habitu autem fidei recte 
             in<lb break="no" ed="#P" n="36"/>telligitur illud, <ref xml:id="szthvi-a00079-Rd1e1586" corresp="#szthvi-a00079-Qd1e1588">1 ad Corinth. 13</ref>: <quote xml:id="szthvi-a00079-Qd1e1588" source="http://scta.info/resource/Icor13_13@1-8">Nunc 
             au<lb break="no" ed="#P" n="37"/>tem manent tria haec, fides, etc.</quote> ; et in eodem
-            <lb ed="#P" n="38"/>sensu loquitur Tridentinum, sessione sexta,
-            <lb ed="#P" n="39"/>capite septimo, cum dicit in justificatione 
+            <lb ed="#P" n="38"/>sensu loquitur <ref xml:id="szthvi-a00079-Rd1e1690">Tridentinum, sessione sexta,
+            <lb ed="#P" n="39"/>capite septimo</ref>, cum dicit in justificatione 
             si<lb break="no" ed="#P" n="40"/>mul infundi fidem, spem et charitatem. Et
             <lb ed="#P" n="41"/>ultra has significationes, invenimus tres alias
             <lb ed="#P" n="42"/>in Scriptura, pertinentes etiam ad fidem 
@@ -682,18 +689,18 @@
             quae<lb break="no" ed="#P" n="46"/>dam fides ponitur inter gratias gratis datas,
             <lb ed="#P" n="47"/>et alia inter fructus Spiritus Sancti. Dubitari
             <lb ed="#P" n="48"/>ergo potest an fides, ut haec omnia 
-            complec<lb break="no" ed="#P" n="49"/>ütur, sit proprium objectum hujus doctrinae,
+            complec<lb break="no" ed="#P" n="49"/>titur, sit proprium objectum hujus doctrinae,
             <lb ed="#P" n="50"/>vel sub qua ratione. In quo breviter 
             dicen<lb break="no" ed="#P" n="51"/>dum est haec omnia quidem explicari in hac
-            <lb ed="#P" n="52"/>materia ; tamen, ex communi consensu et
+            <lb ed="#P" n="52"/>materia; tamen, ex communi consensu et
             <lb ed="#P" n="53"/>mente Theologorum, ipsum habitum, seu 
             lu<lb break="no" ed="#P" n="54"/>men fidei esse proprium objectum hujus 
-            doc<lb break="no" ed="#P" n="55"/>trinae. Nam materia seu-objectum creditum
+            doc<lb break="no" ed="#P" n="55"/>trinae. Nam materia seu objectum creditum
             <cb ed="#P" n="b"/>
             <lb ed="#P" n="56"/>per fidem solum denominatur fides ab ipso
             <lb ed="#P" n="57"/>habitu, seu actu fidei, et ita solum 
             considera<lb break="no" ed="#P" n="58"/>tur quatenus terminare potest habitudinem
-            <lb ed="#P" n="59"/>fidei ad ipsum ; habitus vero et actus licet per
+            <lb ed="#P" n="59"/>fidei ad ipsum; habitus vero et actus licet per
             <lb ed="#P" n="60"/>se ac principaliter considerentur, tamen 
             ha<lb break="no" ed="#P" n="61"/>bitus est quasi forma permanens, et 
             princi<lb break="no" ed="#P" n="62"/>pium ipsius actus, ideoque tanquam 
@@ -702,7 +709,7 @@
             <lb ed="#P" n="65"/>ipsi fidei.
           </p>
           <p xml:id="szthvi-a00079-d1e1478">
-            <lb ed="#P" n="66"/>4. Suborta questiuncula. — Eapeditur. —
+            <lb ed="#P" n="66"/>4. Suborta questiuncula. — Expeditur. —
             <lb ed="#P" n="67"/>Sed interrogabit aliquis, cum lumen fidei sit
             <lb ed="#P" n="68"/>primum principium et fundamentum totius
             <lb ed="#P" n="69"/>Theologiae, et omnium partium ejus, quomodo
@@ -710,19 +717,19 @@
             <lb ed="#P" n="71"/>Theologiae, quia ratio objecti habet rationem
             <lb ed="#P" n="72"/>termini; non potest autem idem esse 
             princi<lb break="no" ed="#P" n="73"/>pium et terminus respectu ejusdem, cum
-            <lb ed="#P" n="74"/>dicant contrarias habitudines. Item , quia
+            <lb ed="#P" n="74"/>dicant contrarias habitudines. Item, quia
             <lb ed="#P" n="75"/>alias vel peteretur principium in discursu
             <lb ed="#P" n="76"/>talis doctrinae, vel oporteret ad aliud altius
             <lb ed="#P" n="77"/>principium illam resolvere. Verumtamen hoc
             <lb ed="#P" n="78"/>facile expeditur et intelligitur, considerando
             <lb ed="#P" n="79"/>lumen intellectuale esse reflexivum in 
-            seip<lb break="no" ed="#P" n="80"/>sum ; nam intellectus est principium 
+            seip<lb break="no" ed="#P" n="80"/>sum; nam intellectus est principium 
             cognos<lb break="no" ed="#P" n="81"/>cendi se, et lumen gloriae est etiam 
             princi<lb break="no" ed="#P" n="82"/>pium videndi seipsum, et ita in his non 
             repu<lb break="no" ed="#P" n="83"/>gnant illae rationes principii et termini, quia
             <lb ed="#P" n="84"/>sola ratione et denominatione distinguuntur.
             <lb ed="#P" n="85"/>Sic ergo lumen fidei est principium credendi
-            <lb ed="#P" n="86"/>ipsum ; nam eadem fide credimus infundi
+            <lb ed="#P" n="86"/>ipsum; nam eadem fide credimus infundi
             <lb ed="#P" n="87"/>nobis fidem, et illam esse supernaturalem, et
             <lb ed="#P" n="88"/>alia hujusmodi. Atque ita fit ut possit 
             Theo<lb break="no" ed="#P" n="89"/>logia ex principiis creditis de ipsa fide 
@@ -740,12 +747,12 @@
             <lb ed="#P" n="99"/>ideo in duas partes principales materiam 
             di<lb break="no" ed="#P" n="100"/>videmus: prima erit de virtute, quae magis
             <lb ed="#P" n="101"/>speculativa est; secunda vero de vitiis, quae
-            <lb ed="#P" n="102"/>fere tota est moralis , quia in illa est 
+            <lb ed="#P" n="102"/>fere tota est moralis, quia in illa est 
             conside<lb break="no" ed="#P" n="103"/>randum de praeceptis fidei, et de peccatis 
             qui<lb break="no" ed="#P" n="104"/>bus violantur, et de poenis quae illis 
             respon<lb break="no" ed="#P" n="105"/>dent. Priorem vero partem in quatuor 
             mem<lb break="no" ed="#P" n="106"/>bra partiemur. Primum erit de objecto, quia
-            <lb ed="#P" n="107"/>ab illo sumitur species virtutis ; secundum de
+            <lb ed="#P" n="107"/>ab illo sumitur species virtutis; secundum de
             <lb ed="#P" n="108"/>actu, quia per illum etiam habitus specifica
             <lb ed="#P" n="109"/>tur; tertium de habitu, et quartum de annexis
             <lb ed="#P" n="110"/>virtuti fidei.

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Disputatio 3</title>
+        <title>Disputation 3</title>
         <author ref="#FranciscoSuarez">Francisco Suarez</author>
         <respStmt>
           <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
@@ -12,8 +12,8 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Disputatio 3</title>
-          <date when="2026-01-16">January 16, 2026</date>
+          <title>Disputation 3</title>
+          <date when="2026-07-12">January 12, 2026</date>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -38,13 +38,13 @@
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
-        <change when="2026-01-16" status="draft" n="0.0.0">
+        <change when="2026-07-12" status="draft" n="0.0.0">
           <p>Created file for the first time.</p>
         </change>
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text xml:lang="la">
+  <text xml:lang="en">
     <front>
       <div xml:id="starts-on">
         <pb ed="#P" n="38"/>
@@ -53,1173 +53,1021 @@
     </front>
     <body>
       <div xml:id="szthvi-a07691"><!-- t1-d3 -->
-        <head xml:id="szthvi-a07691-Hd1e101">Disputatio 3</head>
-        <head xml:id="szthvi-a07691-Hd1e103" type="question-title">De obiecto formali fidei; et quomodo ad illud fiat ultima fidei resolutio</head>
+        <head xml:id="szthvi-a07691-Hd1e101">Disputation 3</head>
+        <head xml:id="szthvi-a07691-Hd1e103" type="question-title">On the Formal Object of Faith, 
+          and How the Ultimate Resolution of Faith Terminates in It</head>
         <p xml:id="szthvi-a07691-d1e106">
-          <lb ed="#P" n="26"/>DISPUTATIO III
-          <lb ed="#P" n="27"/>DE OBIECTO FORMALI FIDEI; ET QUOMODO AD ILLUD
-          <lb ed="#P" n="28"/>FIAT ULTIMA FIDEI RESOLUTIO.
+          DISPUTATION III —
+          On the Formal Object of Faith, 
+          and How the Ultimate Resolution of Faith Terminates in It.
         </p>
         <p xml:id="szthvi-a07691-d1e115">
-          <lb ed="#P" n="29"/>Objectum formale duplex. — Primus modus
-          <lb ed="#P" n="30"/>objecti formalis apud Capreolum. — Duplex
-          <lb ed="#P" n="31"/>solet distingui objectum formale in potentiis
-          <lb ed="#P" n="32"/>vel habitibus, praesertim cognoscitivis, 
-          scili<lb break="no" ed="#P" n="33"/>cet, in esse rei, et in esse cognoscibilis, ut 
-          tra<lb break="no" ed="#P" n="34"/>dit <ref xml:id="szthvi-a07691-Rd1e131" target="http://scta.info/resource/TAcCaj-d1e51-d1e1576">Cajetanus, 1 p., quaest. 1, art. 3</ref>; et ante
-          <lb ed="#P" n="35"/>illum <ref xml:id="szthvi-a07691-Rd1e135">Capreolus, quaest. 4 Prolog., art. 1</ref>,
-          <lb ed="#P" n="36"/>ubi distinctionem hanc colligit ex variis locis
-          <lb ed="#P" n="37"/>D. Thomee; et applicando illam ad nostram
-          <lb ed="#P" n="38"/>materiam, aliquid de ea dicemus in 
-          <ref xml:id="szthvi-a07691-Rd1e144">sectio<lb break="no" ed="#P" n="39"/>ne 2</ref>. Ratio ergo formalis objecti <mentioned>in esse rei</mentioned>,
-          <lb ed="#P" n="40"/>est ratio principaliter cognita; unde vocari
-          <lb ed="#P" n="41"/>solet <mentioned>objectum quod</mentioned>, seu <mentioned>terminativum</mentioned>. Ratio
-          <lb ed="#P" n="42"/>autem formalis in <mentioned>esse cognoscibilis</mentioned>, est ratio
-          <lb ed="#P" n="43"/>seu medium cognoscendi, et ideo vocatur
-          <lb ed="#P" n="44"/><mentioned>objectum quo</mentioned>. Unde fit ut, comparando illas
-          <lb ed="#P" n="45"/>duas rationes inter se, illa quae pertinet ad
-          <lb ed="#P" n="46"/>esse rei, in objecto materiali 
-          comprehenda<lb break="no" ed="#P" n="47"/>tur; quare de illa hic non tractamus, nam
-          <lb ed="#P" n="48"/>in praecedenti disputatione explicata est. 
-          Agi<lb break="no" ed="#P" n="49"/>mus ergo de ratione formali <mentioned>motiva</mentioned>, quae 
-          so<lb break="no" ed="#P" n="50"/>let etiam vocari ratio sub qua. Addit vero 
-          Ca<lb break="no" ed="#P" n="51"/>preolus tertiam rationem objecti, quam ipse
-          <lb ed="#P" n="52"/>vocat concomitantem, in <ref xml:id="szthvi-a07691-Rd1e189">3, dist. 25, art. 3,
-          <lb ed="#P" n="53"/>ad 1</ref>; sed non oportet membra multiplicare,
+          The formal object is twofold. — The first mode of the formal object according to Capreolus. —
+          The formal object in powers or habits, especially cognitive ones,
+          is customarily distinguished in two ways:
+          namely, <mentioned>in esse rei</mentioned> and <mentioned>in esse cognoscibilis</mentioned>,
+          as <ref xml:id="szthvi-a07691-Rd1e131">Cajetan teaches in ST I, q. 1, a. 3</ref>,
+          and before him <ref xml:id="szthvi-a07691-Rd1e135">Capreolus in Prol. q. 4, a. 1</ref>,
+          where he collects this distinction from various places in St. Thomas.
+          Applying it to our subject, we will say something about it in <ref xml:id="szthvi-a07691-Rd1e144">Section 2</ref>.
+          The formal aspect of the object <mentioned>in esse rei</mentioned> is the aspect primarily known;
+          hence it is customarily called the <mentioned>objectum quod</mentioned>, or the <mentioned>terminativum</mentioned>.
+          The formal aspect <mentioned>in esse cognoscibilis</mentioned>, on the other hand,
+          is the aspect or medium of knowing, and is therefore called the <mentioned>objectum quo</mentioned>.
+          It follows that, when comparing these two aspects with each other,
+          the one that pertains to being as a thing is included within the material object;
+          and so we do not treat it here, for it was explained in the preceding disputation.
+          We are therefore treating the <mentioned>motiva</mentioned> formal aspect,
+          which is also customarily called the <mentioned>ratio sub qua</mentioned>.
+          Capreolus adds a third aspect of the object, which he calls the concomitant,
+          in <ref xml:id="szthvi-a07691-Rd1e189">Sentences III, d. 25, a. 3, ad 1</ref>.
+          But there is no need to multiply members
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="54"/>quae obscuritatem et confusionem parturiunt;
-          <lb ed="#P" n="55"/>nam ut ipsemet explicat, illa ratio 
-          concomi<lb break="no" ed="#P" n="56"/>tans nihil aliud est quam denominatio objecti
-          <lb ed="#P" n="57"/>materialis a formali, ut in praesenti materia
-          <lb ed="#P" n="58"/>est <mentioned>ratio credibilis</mentioned>. Quapropter non 
-          distin<lb break="no" ed="#P" n="59"/>guuntur illa duo, nisi tanquam abstractum et
-          <lb ed="#P" n="60"/>concretum, ideoque eadem est utriusque 
-          con<lb break="no" ed="#P" n="61"/>sideratio. Magis distingui possent in objecto
-          <lb ed="#P" n="62"/>formali fidei, <mentioned>Deus ipse revelans</mentioned>, et <mentioned>ejus 
-          reve<lb break="no" ed="#P" n="63"/>latio</mentioned>, quia revera illa duo distincta sunt, cum
-          <lb ed="#P" n="64"/>revelatio sit actio Dei ad extra; 
-          verumta<lb break="no" ed="#P" n="65"/>men, si attente considerentur, illa duo se 
-          ha<lb break="no" ed="#P" n="66"/>bent tanquam forma, et informatio seu unio,
-          <lb ed="#P" n="67"/>et ideo unam rationem formalem objecti 
-          con<lb break="no" ed="#P" n="68"/>stituunt, sicque sub una ratione utramque
-          <lb ed="#P" n="69"/>considerabimus; oportebit tamen utriusque
-          <lb ed="#P" n="70"/>conditiones explicare.
+          that give birth to obscurity and confusion.
+          For as he himself explains, that concomitant aspect is nothing other than
+          the denomination of the material object from the formal —
+          as in the present matter the <mentioned>ratio credibilis</mentioned> is.
+          Therefore those two are distinguished only as abstract and concrete,
+          and so the consideration of both is the same.
+          A greater distinction could be made in the formal object of faith between
+          <mentioned>Deus ipse revelans</mentioned> and <mentioned>ejus revelatio</mentioned>,
+          since those two are truly distinct, as revelation is an action of God ad extra.
+          Yet if they are considered carefully,
+          those two are related as form and information or union,
+          and therefore they constitute one formal aspect of the object.
+          And so we will consider both under one aspect,
+          though we will need to explain the conditions of each.
         </p>
         <div xml:id="szthvi-a07691-Dd1e211">
           <head xml:id="szthvi-a07691-Hd1e213">Sectio 1</head>
-          <head xml:id="szthvi-a07691-Hd1e215" type="question-title">Utrum deus, seu dei auctoritas, vel potius humana ratio sit objectum formale fidei</head>
+          <head xml:id="szthvi-a07691-Hd1e215" type="question-title">Whether God, or the Authority of God, or Rather Human Reason, Is the Formal Object of Faith</head>
           <p xml:id="szthvi-a07691-d1e218">
-            <lb ed="#P" n="71"/>SECTIO I.
-            <lb ed="#P" n="72"/>Utrum Deus, seu Dei auctoritas, vel potius
-            <lb ed="#P" n="73"/>humana ratio sit objectum formale fidei.
+            SECTION I.
+            Whether God, or the authority of God, or rather human reason, is the formal object of faith.
           </p>
           <p xml:id="szthvi-a07691-d1e227">
-            <lb ed="#P" n="74"/>1. Error haereticorum in hac quaestione. —
-            <lb ed="#P" n="75"/>Fundamentum erroris. — Confirmatur ex 
-            ra<lb break="no" ed="#P" n="76"/>tione. — Secundo. — In hoc principio oportet
-            <lb ed="#P" n="77"/>ante omnia refutare errorem quorumdam,
-            <lb ed="#P" n="78"/>qui dixerunt nihil esse credendum, nisi quod
-            <lb ed="#P" n="79"/>humana ratione intelligitur ac persuadetur.
-            <lb ed="#P" n="80"/>Ita Manichaeos sensisse indicat <ref xml:id="szthvi-a07691-Rd1e277">Augustinus,
-            <lb ed="#P" n="81"/>lib. de Utilit. credendi, cap. 1</ref>; dicit enim 
-            il<lb break="no" ed="#P" n="82"/>los docuisse, superstitiosum esse fidem ante
-            <lb ed="#P" n="83"/>rationem imperare, quasi nihil credendum
-            <lb ed="#P" n="84"/>sit, nisi quod ratio suaserit. Eumdem 
-            erro<lb break="no" ed="#P" n="85"/>rem tribuit <ref xml:id="szthvi-a07691-Rd1e291">Abailardo Bernardus epist. 190
-            <lb ed="#P" n="86"/>ad Innocentium</ref>; ille enim primum etiam
-            <lb ed="#P" n="87"/>fundamentum credendi in ratione 
-            constitue<lb break="no" ed="#P" n="88"/>bat; unde cum illud sit objectum formale
-            <lb ed="#P" n="89"/>fidei, in quo per se ac principaliter fundatur
-            <lb ed="#P" n="90"/>assensus fidei, ut videbimus, merito dicere
-            <lb ed="#P" n="91"/>possumus hos haereticos constituisse 
-            objec<lb break="no" ed="#P" n="92"/>tum formale fidei, non in Deo, sed in 
-            huma<lb break="no" ed="#P" n="93"/>na ratione. Fundabatur Abailardus, ut 
-            Ber<lb break="no" ed="#P" n="94"/>nardus refert, in illo <ref xml:id="szthvi-a07691-Rd1e276" corresp="#szthvi-a07691-Qd1e278">Eccl. 19</ref>: <quote xml:id="szthvi-a07691-Qd1e278" source="http://scta.info/resource/sir19_4@1-5">Qui cito
-            cre<lb break="no" ed="#P" n="95"/>dit, levis est corde</quote>; nam cito credere, dicebat
-            <lb ed="#P" n="96"/>esse adhibere fidem ante rationem; nam, qui
-            <lb ed="#P" n="97"/>ita credit, periculo errandi se exponit, et
-            <lb ed="#P" n="98"/>ideo admonet Joannes, <ref xml:id="szthvi-a07691-Rd1e290" corresp="#szthvi-a07691-Qd1e292">1 epist., cap 4</ref>: 
-            <quote xml:id="szthvi-a07691-Qd1e292" source="http://scta.info/resource/Iio4_1@7-12">Pro<lb break="no" ed="#P" n="99"/>bate spiritus, an ex Deo sint</quote>; et Paulus, <ref xml:id="szthvi-a07691-Rd1e297" corresp="#szthvi-a07691-Qd1e303">1 ad
-            <lb ed="#P" n="100"/>Thessal. 5</ref>: <quote xml:id="szthvi-a07691-Qd1e303" source="http://scta.info/resource/Ith5_21@1-7">Omnia probate, quod bonum est
-            <lb ed="#P" n="101"/>tenete</quote>; probatio autem haec non fit nisi per
-            <lb ed="#P" n="102"/>lumen rationis, quia si dicatur fieri per 
-            reve<lb break="no" ed="#P" n="103"/>lationem, illa erat probanda; unde cum in
-            <lb ed="#P" n="104"/>revelationibus non procedatur in infinitum,
-            <lb ed="#P" n="105"/>nec perveniatur ad revelationem claram,
-            <pb ed="#P" n="39"/>
-            <cb ed="#P" n="a"/>
-            <lb ed="#P" n="1"/>oportet sistere in lumine rationis, tanquam
-            <lb ed="#P" n="2"/>in regula credendorum; et hoc est esse 
-            objec<lb break="no" ed="#P" n="3"/>tum formale; atque haec est praecipua ratio
-            <lb ed="#P" n="4"/>hujus erroris. Et confirmatur, quia nisi per
-            <lb ed="#P" n="5"/>rationem credendum sit, poterunt etiam credi
-            <lb ed="#P" n="6"/>quae sunt contra rationem, et ita poterunt
-            <lb ed="#P" n="7"/>excusari infideles, etiamsi absurdissima 
-            cre<lb break="no" ed="#P" n="8"/>dant, et rationi contraria, dicentes se credere
-            <lb ed="#P" n="9"/>Deo, contempta ratione sua; hoc autem 
-            ab<lb break="no" ed="#P" n="10"/>surdissimum est, ut constat. Denique 
-            videba<lb break="no" ed="#P" n="11"/>tur his haereticis impossibile, credere sine 
-            ra<lb break="no" ed="#P" n="12"/>tione ostendente veritatem; quia credere, est
-            <lb ed="#P" n="13"/>assentiri; non potest autem intellectus 
-            assen<lb break="no" ed="#P" n="14"/>tiri, nisi cognoscat ac percipiat connexionem
-            <lb ed="#P" n="15"/>praedicati cum subjecto (alias posset credere
-            <lb ed="#P" n="16"/>astra esse paria suo arbitratu); illud autem
-            <lb ed="#P" n="17"/>sine ratione non fit.
+            1. The error of the heretics on this question. — The basis of the error. — Confirmed from reason. — Secondly. —
+            In beginning this subject, one must above all refute the error of certain people
+            who said that nothing should be believed except what is understood and persuaded by human reason.
+            That the Manichees held this view is indicated by <ref xml:id="szthvi-a07691-Rd1e277">Augustine, On the Usefulness of Believing, ch. 1</ref>;
+            for he says they taught that it is superstitious to impose faith before reason,
+            as though nothing should be believed except what reason has commended.
+            <ref xml:id="szthvi-a07691-Rd1e291">Bernard attributes the same error to Abelard, in Epistle 190 to Innocent</ref>;
+            for Abelard likewise placed even the first foundation of believing in reason.
+            And since that is the formal object of faith —
+            the thing in which the assent of faith is grounded per se and principally, as we will see —
+            we can rightly say that these heretics placed the formal object of faith
+            not in God but in human reason.
+            Abelard based himself, as Bernard reports, on the text of <ref xml:id="szthvi-a07691-Rd1e276">Sir. 19</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e278">He who believes quickly is light of heart</quote>;
+            for to believe quickly, he said, is to give faith before reason,
+            and whoever believes in this way exposes himself to the danger of erring.
+            And so John warns in <ref xml:id="szthvi-a07691-Rd1e290">1 John, ch. 4</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e292">Test the spirits, whether they are from God</quote>;
+            and Paul in <ref xml:id="szthvi-a07691-Rd1e297">1 Thess. 5</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e303">Test all things; hold fast what is good</quote>.
+            But this testing cannot be done except by the light of reason;
+            for if it is said to be done by revelation, that revelation itself would need to be tested.
+            And since one cannot proceed to infinity in revelations,
+            nor arrive at a clear revelation,
+            one must rest in the light of reason as the rule of what is to be believed;
+            and this is what it means to be the formal object
+            (and this is the principal basis of this error).
+            And it is further confirmed since:
+            unless belief is be grounded in reason,
+            things contrary to reason could equally be believed,
+            and unbelievers could be excused even for holding the most absurd views,
+            so long as they claim to believe God while contemning their own reason —
+            but this is utterly absurd, as is evident.
+            Finally, it seemed impossible to these heretics to believe without reason showing the truth;
+            for to believe is to assent,
+            and the intellect cannot assent unless it knows and perceives
+            the connection of predicate with subject
+            (otherwise it could believe that the stars are even in number at its own discretion);
+            but that cannot happen without reason.
           </p>
           <p xml:id="szthvi-a07691-d1e340">
-            <lb ed="#P" n="18"/>2. Contra hunc errorem notatur quadruplex
-            <lb ed="#P" n="19"/>modus necessariae intelligentiae rei ut credi
-            <lb ed="#P" n="20"/>possit. — Primus modus. — Secundus. —
-            <lb ed="#P" n="21"/>Tertius. — Quartus. — Ad impugnandum
-            <lb ed="#P" n="22"/>hunc errorem, et fundandam veritatem,
-            <lb ed="#P" n="23"/>oportet advertere quatuor modis posse 
-            intel<lb break="no" ed="#P" n="24"/>ligi rationem et intelligentiam rei creditae
-            <lb ed="#P" n="25"/>esse necessariam ad credendum. Primo, quia
-            <lb ed="#P" n="26"/>oportet prius percipere id quod proponitur
-            <lb ed="#P" n="27"/>ad credendum, et intelligere, saltem conceptu
-            <lb ed="#P" n="28"/>apprehensivo, quid sit id quod asseritur seu
-            <lb ed="#P" n="29"/>proponitur; et in hoc sensu clarum est 
-            intel<lb break="no" ed="#P" n="30"/>ligentiam et rationem necessariam ad hanc
-            <lb ed="#P" n="31"/>apprehensionem, esse etiam necessariam ad
-            <lb ed="#P" n="32"/>fidem; quomodo dixit Augustinus (<ref xml:id="szthvi-a07691-Rd1e392" corresp="#szthvi-a07691-Qd1e397">Psalmo
-            <lb ed="#P" n="33"/>118</ref>, circa illa verba: <quote xml:id="szthvi-a07691-Qd1e397" source="http://scta.info/resource/ps118_73@9-11 http://scta.info/resource/ps118_125@5-7">Da mihi intellectum</quote>):
-            <quote xml:id="szthvi-a07691-Qd1e401">Nisi aliquid intelligatur, nemo potest credere
-            <lb ed="#P" n="34"/>in Deum</quote>; haec autem intelligentia non potest
-            <lb ed="#P" n="36"/>pertinere ad objectum formale fidei; quia
-            <lb ed="#P" n="37"/>apprehensio non est ratio assentiendi, ut per
-            <lb ed="#P" n="38"/>se constat, sed est una ex conditionibus 
-            ne<lb break="no" ed="#P" n="39"/>cessariis. Secundo, potest concurrere ratio,
-            <lb ed="#P" n="40"/>ut ostendens esse prudenter credibile id,
-            <lb ed="#P" n="41"/>quod proponitur, et ad hoc sufficienter 
-            pro<lb break="no" ed="#P" n="42"/>poni; et sic etiam concursus rationis 
-            neces<lb break="no" ed="#P" n="43"/>sarius est, et illum persuadet sententia illa
-            <lb ed="#P" n="44"/><ref xml:id="szthvi-a07691-Rd1e435" corresp="#szthvi-a07691-Qd1e440">Sapientis</ref>: <quote xml:id="szthvi-a07691-Qd1e440" source="http://scta.info/resource/sir19_4@1-5">Qui cito credit, levis est corde</quote>,
-            <lb ed="#P" n="45"/>quia prudentis est considerare prius quid
-            cre<lb break="no" ed="#P" n="46"/>dat. Verumtamen hoc etiam non spectat ad
-            <lb ed="#P" n="47"/>objectum formale fidei, sed est conditio 
-            prae<lb break="no" ed="#P" n="48"/>via, de qua post disputationem praesentem
-            <lb ed="#P" n="49"/>late dicturi sumus. Tertio, potest esse 
-            neces<lb break="no" ed="#P" n="50"/>saria ratio, ut ostendat non esse 
-            impossibi<lb break="no" ed="#P" n="51"/>lia, nec rectae rationi contraria, ea quae 
-            cre<lb break="no" ed="#P" n="52"/>denda proponuntur, sive hoc fiat positive
-            <lb ed="#P" n="53"/>probando illas res esse possibiles, sive 
-            tan<lb break="no" ed="#P" n="54"/>tum negative, ostendendo non probari 
-            impos<lb break="no" ed="#P" n="55"/>sibiles, quod fieri solet solvendo rationes,
+            2. Against this error, four modes of necessary understanding of a thing in order for it to be believed are noted. —
+            First mode. — Second. — Third. — Fourth. —
+            In order to refute this error and establish the truth,
+            one must note that the role of reason and understanding with respect to what is believed
+            can be understood as necessary in four ways.
+            First, because one must first perceive what is proposed for belief
+            and understand, at least by apprehensive concept, what it is that is asserted or proposed.
+            And in this sense it is clear that the understanding and reason necessary for this apprehension
+            is also necessary for faith —
+            as Augustine said (<ref xml:id="szthvi-a07691-Rd1e392">Psalm 118</ref>,
+            concerning the words <quote xml:id="szthvi-a07691-Qd1e397">Give me understanding</quote>):
+            <quote xml:id="szthvi-a07691-Qd1e401">Unless something is understood, no one can believe in God</quote>.
+            Yet this understanding cannot pertain to the formal object of faith,
+            because apprehension is not the reason for assenting, as is plain,
+            but is one of the necessary prior conditions.
+            Second, reason can cooperate as showing that what is proposed is prudently credible
+            and is sufficiently proposed for belief.
+            And in this sense too the cooperation of reason is necessary,
+            as the saying of the <ref xml:id="szthvi-a07691-Rd1e435">Wise Man</ref> persuades:
+            <quote xml:id="szthvi-a07691-Qd1e440">He who believes quickly is light of heart</quote>,
+            for it belongs to a prudent person to consider first what he believes.
+            Yet this also does not pertain to the formal object of faith,
+            but is a prior condition, about which we will speak at length after the present disputation.
+            Third, reason can be necessary for showing that what is proposed for belief
+            is neither impossible nor contrary to right reason —
+            whether this is done positively, by proving those things to be possible,
+            or only negatively, by showing that they are not proved impossible,
+            which is customarily done by resolving objections
             <cb ed="#P" n="b"/>
-            <lb ed="#P" n="56"/>potius quam oppositum convincendo. Et hoc
-            <lb ed="#P" n="57"/>munus rationis circa res fidei, etiam est
-            <lb ed="#P" n="58"/>verum et necessarium, saltem in hominibus
-            <lb ed="#P" n="59"/>doctis; quia quae credenda sunt non possunt
-            <lb ed="#P" n="60"/>esse contra rationem, licet supra illam sint.
-            <lb ed="#P" n="61"/>Tamen hoc etiam non pertinet ad objectum
-            <lb ed="#P" n="62"/>formale, sed ad conditiones praevias ad 
-            cre<lb break="no" ed="#P" n="63"/>dendum; imo continetur sub praecedente,
-            <lb ed="#P" n="64"/>non enim potest objectum prudenter judicari
-            <lb ed="#P" n="65"/>credibile, nisi judicetur non impossibile, vel
-            <lb ed="#P" n="66"/>saltem non probari impossibile, ac subinde
-            <lb ed="#P" n="67"/>nec esse contra rationem. Quarto igitur modo
-            <lb ed="#P" n="68"/>potest postulari ratio ad credendum, 
-            tan<lb break="no" ed="#P" n="69"/>quam ostendens veritatem credendam, et
-            <lb ed="#P" n="70"/>tanquam proprium fundamentum ac per se
-            <lb ed="#P" n="71"/>ipsius assensus; et in hoc sensu locuti sunt
-            <lb ed="#P" n="72"/>dicti haeretici, ut citati Patres significant et
-            <lb ed="#P" n="73"/>impugnant.
+            rather than by proving the opposite.
+            And this function of reason with respect to matters of faith is also true and necessary,
+            at least for learned men,
+            since what is to be believed cannot be contrary to reason, even if it is above it.
+            Yet this also does not pertain to the formal object,
+            but to the prior conditions for believing;
+            indeed it is contained within the preceding mode,
+            for an object cannot be prudently judged credible
+            unless it is judged not impossible, or at least not proved impossible,
+            and hence not contrary to reason.
+            In the fourth way, then, reason can be required for believing
+            as showing the truth to be believed
+            and as the proper foundation and per se basis of assent itself.
+            And it is in this sense that the said heretics spoke,
+            as the Fathers cited attest and refute.
           </p>
           <p xml:id="szthvi-a07691-d1e467">
-            <lb ed="#P" n="74"/>3. Prima assertio, partim de fide, partim
-            <lb ed="#P" n="75"/>Theologica. — Probatur primo ex Scriptura. —
-            <lb ed="#P" n="76"/>Dico ergo primo: humana ratio non est
-            <lb ed="#P" n="77"/>fundamentum in quo per se nititur fides
-            <lb ed="#P" n="78"/>Christiana, et ita non potest esse objectum
-            <lb ed="#P" n="79"/>formale fidei. Haec assertio est de fide quoad
-            <lb ed="#P" n="80"/>priorem partem; quoad posteriorem vero
-            <lb ed="#P" n="81"/>est Theologica et certa. Probatur primo ex
-            <lb ed="#P" n="82"/>Paulo, <ref xml:id="szthvi-a07691-Rd1e513" corresp="#szthvi-a07691-Qd1e515">1 ad Cor. 2</ref>, dicente: <quote xml:id="szthvi-a07691-Qd1e515" source="http://scta.info/resource/Icor2_4@5-17 http://scta.info/resource/Icor2_5@1-12">Praedicatio 
-            nos<lb break="no" ed="#P" n="83"/>tra non est an persuasibilibus humanae 
-            sapien<lb break="no" ed="#P" n="84"/>tiae verbis, sed in ostensione spiritus et virtutis,
-            <lb ed="#P" n="85"/>ut fides vestra non sit in sapientia hominum,
-            <lb ed="#P" n="86"/>sed in virtute Dei</quote>; per quae verba, et per 
-            to<lb break="no" ed="#P" n="87"/>tum illud caput, satis expresse impugnat 
-            Pau<lb break="no" ed="#P" n="88"/>lus dictum errorem. Et ideo dicebat, <ref xml:id="szthvi-a07691-Rd1e531">2 ad
-            <lb ed="#P" n="89"/>Cor. 10</ref>, <quote xml:id="szthvi-a07691-Qd1e536" source="http://scta.info/resource/IIcor10_5@10-17">oportere captivare intellectum in 
-            obse<lb break="no" ed="#P" n="90"/>quium Christi</quote>; quae autem esset captivitas
-            <lb ed="#P" n="91"/>intellectus, si illa tantum crederet, quae per
-            <lb ed="#P" n="92"/>rationem vera esse cognosceret? Praeterea,
-            <lb ed="#P" n="93"/><ref xml:id="szthvi-a07691-Rd1e547" corresp="#szthvi-a07691-Qd1e549">Matt. 21</ref>, Christus dixit Petro: <quote xml:id="szthvi-a07691-Qd1e549" source="http://scta.info/resource/mt16_17@12-17">Caro et 
-            san<lb break="no" ed="#P" n="94"/>guis non revelavit tibi</quote>, per carnem et 
-            san<lb break="no" ed="#P" n="95"/>guinem intelligens naturam et vires ejus, et
-            <lb ed="#P" n="96"/>ideo addidit: <quote xml:id="szthvi-a07691-Qd1e558" source="http://scta.info/resource/mt16_17@18-24">Sed Pater meus, qui in coelis
-            <lb ed="#P" n="97"/>est</quote>; et sic etiam dixit, <ref xml:id="szthvi-a07691-Rd1e564" corresp="#szthvi-a07691-Qd1e566">Matth. 10</ref>: <quote xml:id="szthvi-a07691-Qd1e566" source="http://scta.info/resource/mt11_25@7-24">Confiteor
-            <lb ed="#P" n="98"/>tibi, Pater, quia abscondisti haec a sapientibus,
-            <lb ed="#P" n="99"/>et revelasti ea parvulis</quote>; et <ref xml:id="szthvi-a07691-Rd1e573" corresp="#szthvi-a07691-Qd1e575">Joan. 3</ref>: <quote xml:id="szthvi-a07691-Qd1e575" source="http://scta.info/resource/io3_12">Si terrena
-            <lb ed="#P" n="100"/>dixi vobis, et non creditis, quomodo si divero
-            <lb ed="#P" n="101"/>caelestia, credetis</quote>? Unde <ref xml:id="szthvi-a07691-Rd1e582" corresp="#szthvi-a07691-Qd1e584">Joan. 4</ref> dicitur: 
-            <quote xml:id="szthvi-a07691-Qd1e584" source="http://scta.info/resource/io1_18">Uni<lb break="no" ed="#P" n="102"/>genitus, qui est in sinu Patris, ipse enarravit</quote>.
+            3. First assertion, partly of faith, partly theological. — Proved first from Scripture. —
+            I say, then, first: human reason is not the foundation on which Christian faith per se rests,
+            and therefore cannot be the formal object of faith.
+            This assertion is of faith with regard to the first part;
+            with regard to the second, it is theological and certain.
+            It is proved first from Paul in <ref xml:id="szthvi-a07691-Rd1e513">1 Cor. 2</ref>, saying:
+            <quote xml:id="szthvi-a07691-Qd1e515">Our preaching is not in the persuasive words of human wisdom,
+            but in the manifestation of spirit and power,
+            so that your faith might not rest in the wisdom of men, but in the power of God</quote>.
+            By these words, and through that entire chapter,
+            Paul sufficiently and expressly refutes the said error.
+            And for this reason he said in <ref xml:id="szthvi-a07691-Rd1e531">2 Cor. 10</ref>
+            that <quote xml:id="szthvi-a07691-Qd1e536">the intellect must be taken captive in obedience to Christ</quote>;
+            but what captivity of the intellect would there be
+            if it believed only what it recognized to be true through reason?
+            Furthermore, in <ref xml:id="szthvi-a07691-Rd1e547">Matt. 21</ref>,
+            Christ said to Peter: <quote xml:id="szthvi-a07691-Qd1e549">Flesh and blood has not revealed this to you</quote>,
+            meaning by "flesh and blood" human nature and its powers,
+            and therefore he added: <quote xml:id="szthvi-a07691-Qd1e558">But my Father, who is in heaven</quote>.
+            And thus also he said in <ref xml:id="szthvi-a07691-Rd1e564">Matt. 10</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e566">I confess to you, Father,
+            because you have hidden these things from the wise and revealed them to little ones</quote>;
+            and in <ref xml:id="szthvi-a07691-Rd1e573">John 3</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e575">If I have spoken earthly things to you and you do not believe,
+            how will you believe if I speak heavenly things?</quote>
+            Hence in <ref xml:id="szthvi-a07691-Rd1e582">John 4</ref> it is said:
+            <quote xml:id="szthvi-a07691-Qd1e584">The Only-Begotten, who is in the bosom of the Father, he himself has declared him</quote>.
           </p>
           <p xml:id="szthvi-a07691-d1e532">
-            <lb ed="#P" n="103"/>4. Secundo probatur ex Patribus. — 
-            Se<lb break="no" ed="#P" n="104"/>cundo principaliter probatur ex Patribus,
-            <lb ed="#P" n="105"/>qui ubique docent in fide non requiri, imo
-            <lb ed="#P" n="106"/>nec intervenire scientiam, sed potius 
-            igno<lb break="no" ed="#P" n="107"/>rantiam, non quia fides non praebeat 
-            ali<lb break="no" ed="#P" n="108"/>quam rei cognitionem, sed quia non ostendit
-            <lb ed="#P" n="109"/>res creditas, quoad earum veritatem, per 
-            ra<lb break="no" ed="#P" n="110"/>tionem. Sic dixit <ref xml:id="szthvi-a07691-Rd1e658">Augustinus, serm. 1 de
+            4. Proved secondly from the Fathers. —
+            The assertion is proved secondly, and principally, from the Fathers,
+            who everywhere teach that faith does not require, indeed does not even admit, knowledge,
+            but rather ignorance —
+            not because faith does not provide some cognition of the thing,
+            but because it does not show the things believed, as to their truth, through reason.
+            Thus <ref xml:id="szthvi-a07691-Rd1e658">Augustine, in Sermon 1 on the Trinity</ref>,
             <pb ed="#P" n="40"/>
             <cb ed="#P" n="a"/>
-            <lb ed="#P" n="1"/>Trinitat.</ref>: <quote xml:id="szthvi-a07691-Qd1e667">Fidelis sum, credo quod nescio</quote>; et
-            <lb ed="#P" n="2"/><ref xml:id="szthvi-a07691-Rd1e671">sermone 20 de Verbis Apostoli</ref>: <quote xml:id="szthvi-a07691-Qd1e673">Melior est
-            <lb ed="#P" n="3"/>fidelis ignorantia, quam temeraria scientia</quote>;
-            <lb ed="#P" n="4"/>et <ref xml:id="szthvi-a07691-Rd1e630" target="http://scta.info/resource/iuy75t-d1e369" corresp="#szthvi-a07691-Qd1e635">tract. 40 in Joann.</ref>, ponderans illud <ref xml:id="szthvi-a07691-Rd1e622" corresp="#szthvi-a07691-Qd1e625">Isai. 7</ref>:
-            <lb ed="#P" n="5"/><quote xml:id="szthvi-a07691-Qd1e625" source="http://scta.info/resource/is7_9@10-14">Nisi credideritis, non intelligetis</quote> , inquit:
-            <lb ed="#P" n="6"/><quote xml:id="szthvi-a07691-Qd1e635" source="http://scta.info/resource/iuy75t-d1e369-d1e877@27-34">Credamus ut cognoscamus; non cognoscimus
-            <lb ed="#P" n="7"/>ut credamus</quote>; et <ref xml:id="szthvi-a07691-Rd1e697">l. 50 Homiliarum, in 32</ref>,
-            <lb ed="#P" n="8"/>inquit: <quote xml:id="szthvi-a07691-Qd1e701">Arcana regni Dei prius querunt, ut
-            <lb ed="#P" n="9"/>fiant intelligentes</quote>. Praeterea <ref xml:id="szthvi-a07691-Rd1e707">Dionysius, in
-            <lb ed="#P" n="10"/>capite septimo de Divin. nomin.</ref>: <quote xml:id="szthvi-a07691-Qd1e712">Fides, 
-            in<lb break="no" ed="#P" n="11"/>quit, est stabilis credentium sedes et simplex
-            <lb ed="#P" n="12"/>veritatis notio impersuasibili veritate certa</quote>;
-            <lb ed="#P" n="13"/>vocat <mentioned>impersuasibile</mentioned>, quia ratione probari
-            <lb ed="#P" n="14"/>non potest; unde etiam dixit <ref xml:id="szthvi-a07691-Rd1e725">Damascen., l. 4,
-            <lb ed="#P" n="15"/>cap. 12</ref>: <quote xml:id="szthvi-a07691-Qd1e731">Fides est assensus ab omni curiositate
-            <lb ed="#P" n="16"/>dissitus</quote>; vel, ut ait <ref xml:id="szthvi-a07691-Rd1e736">ibi Clictov.</ref>, <quote xml:id="szthvi-a07691-Qd1e738">est 
-            incrusta<lb break="no" ed="#P" n="17"/>bilis consensus</quote>, quia non datur per rationis
-            <lb ed="#P" n="18"/>inquisitionem; sic etiam <ref xml:id="szthvi-a07691-Rd1e745">Basilius, homil. in
-            <lb ed="#P" n="19"/>Psal. 119</ref>, dicit fidem non inniti geometricis
-            <lb ed="#P" n="20"/>probationibus, <quote xml:id="szthvi-a07691-Qd1e753">sed animis nostris, inquit, se
-            <lb ed="#P" n="21"/>insinuat efficaci operatione Spiritus Sancti</quote>;
-            <lb ed="#P" n="22"/>unde infra dicit, fidem esse <quote xml:id="szthvi-a07691-Qd1e760">assensum naulla
-            <lb ed="#P" n="23"/>praevia inquisitione nitentem</quote>; facit etiam 
-            il<lb break="no" ed="#P" n="24"/>lud <ref xml:id="szthvi-a07691-Rd1e767">Gregorius, homil. 26 in Evangel.</ref>: <quote xml:id="szthvi-a07691-Qd1e769">Fides
-            <lb ed="#P" n="25"/>non habet meritum, ubi humana ratio prebet
-            <lb ed="#P" n="26"/>experimentum</quote>; quod etiam habetur inter
-            <lb ed="#P" n="27"/>opera <ref xml:id="szthvi-a07691-Rd1e779">Cypriani, lib. de Cardinal. Christi 
-            ope<lb break="no" ed="#P" n="28"/>ribus, capite de Christi Nativ</ref>. Sic etiam 
-            <ref xml:id="szthvi-a07691-Rd1e784">Na<lb break="no" ed="#P" n="29"/>zianzenus, orat. 34, alias 2, de Theologia</ref>,
-            <lb ed="#P" n="30"/>fidem rationi opponit, dicens: <quote xml:id="szthvi-a07691-Qd1e791">Fidem potius
-            <lb ed="#P" n="31"/>quam rationem sequamnur</quote>; et <ref xml:id="szthvi-a07691-Rd1e796">Hilarius, 8 de
-            <lb ed="#P" n="32"/>Trinit., ante medium</ref>, inquit: <quote xml:id="szthvi-a07691-Qd1e802">Maximum fidei
-            <lb ed="#P" n="33"/>meritum est sperare quod nesciat</quote>. Denique
-            <lb ed="#P" n="34"/><ref xml:id="szthvi-a07691-Rd1e808">Irenaeus, lib. 2, cap. 45</ref>: <quote xml:id="szthvi-a07691-Qd1e810">Melius est (inquit)
-            <lb ed="#P" n="35"/>credere Deo, neque aliud inquirere ad 
-            scien<lb break="no" ed="#P" n="36"/>tiam, nisi Iesum filium Dei, quam per 
-            quaes<lb break="no" ed="#P" n="37"/>tionum subtilitates in impietatem cadere</quote>. Et
-            <lb ed="#P" n="38"/>plura de hoc videri possunt in <ref xml:id="szthvi-a07691-Rd1e821">Cyrillo 
-            Ale<lb break="no" ed="#P" n="39"/>xandrino, libr. 1 contra Julianum</ref>; et 
-            <ref xml:id="szthvi-a07691-Rd1e827">Hiero<lb break="no" ed="#P" n="40"/>nymo, Jonae cap. 3</ref>; et <ref xml:id="szthvi-a07691-Rd1e832">Chrysostomo, hom. 2
-            <lb ed="#P" n="41"/>et 8 ad Roman.</ref>
+            said: <quote xml:id="szthvi-a07691-Qd1e667">I am a believer; I believe what I do not know</quote>;
+            and in <ref xml:id="szthvi-a07691-Rd1e671">Sermon 20 on the Words of the Apostle</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e673">Faithful ignorance is better than rash knowledge</quote>;
+            and in <ref xml:id="szthvi-a07691-Rd1e630">Tractate 40 on John</ref>,
+            weighing that text of <ref xml:id="szthvi-a07691-Rd1e622">Isaiah 7</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e625">Unless you believe, you will not understand</quote>,
+            he says: <quote xml:id="szthvi-a07691-Qd1e635">Let us believe in order to know; we do not know in order to believe</quote>;
+            and in <ref xml:id="szthvi-a07691-Rd1e697">Book 50 of the Homilies, no. 32</ref>,
+            he says: <quote xml:id="szthvi-a07691-Qd1e701">They first seek the secrets of the kingdom of God, so that they may come to understand</quote>.
+            Furthermore, <ref xml:id="szthvi-a07691-Rd1e707">Dionysius, in chapter 7 of the Divine Names</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e712">Faith, he says, is the stable seat of believers
+            and a simple knowledge of the truth, certain with an <mentioned>impersuasibile</mentioned> truth</quote>;
+            he calls it <mentioned>impersuasibile</mentioned> because it cannot be proved by reason.
+            Hence also <ref xml:id="szthvi-a07691-Rd1e725">Damascene, Book 4, ch. 12</ref> said:
+            <quote xml:id="szthvi-a07691-Qd1e731">Faith is an assent removed from all curiosity</quote>;
+            or, as <ref xml:id="szthvi-a07691-Rd1e736">Clichtove</ref> says there,
+            <quote xml:id="szthvi-a07691-Qd1e738">it is an unshakeable consensus</quote>,
+            because it is not given through rational inquiry.
+            Thus also <ref xml:id="szthvi-a07691-Rd1e745">Basil, in his homily on Psalm 119</ref>,
+            says that faith does not rest on geometrical proofs,
+            <quote xml:id="szthvi-a07691-Qd1e753">but insinuates itself into our souls, he says,
+            by the efficacious operation of the Holy Spirit</quote>;
+            hence further on he says that faith is
+            <quote xml:id="szthvi-a07691-Qd1e760">an assent resting on no prior inquiry</quote>.
+            There is also the testimony of <ref xml:id="szthvi-a07691-Rd1e767">Gregory, Homily 26 on the Gospels</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e769">Faith has no merit where human reason provides the proof</quote>;
+            which is also found among the works of
+            <ref xml:id="szthvi-a07691-Rd1e779">Cyprian, in the book on the Principal Works of Christ, in the chapter on the Nativity of Christ</ref>.
+            Thus also <ref xml:id="szthvi-a07691-Rd1e784">Nazianzenus, Oration 34 (otherwise 2) on Theology</ref>
+            opposes faith to reason, saying:
+            <quote xml:id="szthvi-a07691-Qd1e791">Let us follow faith rather than reason</quote>;
+            and <ref xml:id="szthvi-a07691-Rd1e796">Hilary, On the Trinity 8, before the middle</ref>, says:
+            <quote xml:id="szthvi-a07691-Qd1e802">The greatest merit of faith is to hope for what one does not know</quote>.
+            Finally, <ref xml:id="szthvi-a07691-Rd1e808">Irenaeus, Book 2, ch. 45</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e810">It is better, he says, to believe God
+            and to seek no other knowledge than Jesus the Son of God,
+            than to fall into impiety through the subtleties of questions</quote>.
+            And more on this can be seen in
+            <ref xml:id="szthvi-a07691-Rd1e821">Cyril of Alexandria, Book 1 against Julian</ref>;
+            and <ref xml:id="szthvi-a07691-Rd1e827">Jerome, on Jonah ch. 3</ref>;
+            and <ref xml:id="szthvi-a07691-Rd1e832">Chrysostom, Homilies 2 and 8 on Romans</ref>.
           </p>
           <p xml:id="szthvi-a07691-d1e645">
-            <lb ed="#P" n="42"/>5. Probatur tertio ex ratione. — Tertio,
-            <lb ed="#P" n="43"/>probatur ratione, quia praecipua mysteria,
-            <lb ed="#P" n="44"/>quae fide credimus, talia sunt, ut ratione 
-            na<lb break="no" ed="#P" n="45"/>turali cognosci non possint, sicut de 
-            myste<lb break="no" ed="#P" n="46"/>rio Trinitatis, Incarnationis et Eucharistiae in
-            <lb ed="#P" n="47"/>suis locis ostensum est, <ref xml:id="szthvi-a07691-Rd1e859">l. 1 de Trin., cap. 11</ref>;
-            <lb ed="#P" n="48"/><ref xml:id="szthvi-a07691-Rd1e862">de Incarn., disp. 3, sect. 1</ref>; <ref xml:id="szthvi-a07691-Rd1e864">de Sacram., 
-            dis<lb break="no" ed="#P" n="49"/>put. 48, sect. 3</ref>, et est per se evidens, quia
-            <lb ed="#P" n="50"/>nulla sunt naturalia principia, neque effectus
-            <lb ed="#P" n="51"/>Dei naturaliter cognoscibiles, per quos 
-            ra<lb break="no" ed="#P" n="52"/>tione possimus aliquod ex his mysteriis 
-            osten<lb break="no" ed="#P" n="53"/>dere; ergo non potest ratio naturalis esse in
-            <lb ed="#P" n="54"/>nobis principale fundamentum credendi haec
-            <lb ed="#P" n="55"/>mysteria. Et confirmatur: nam vel illa 
-            ra<cb ed="#P" n="b"/><lb ed="#P" n="56" break="no"/>tio, qua fundaret fidem, esset evidens, vel
-            <lb ed="#P" n="57"/>tantum probabilis: neutrum dici potest; ergo.
-            <lb ed="#P" n="58"/>Probatur prior pars minoris, quia evidentia
-            <lb ed="#P" n="59"/>convincit intellectum, et necessitat ad 
-            assen<lb break="no" ed="#P" n="60"/>sum, ut ex Philosophia constat; fides autem
-            <lb ed="#P" n="61"/>non necessitat, sed voluntarie suscipitur, ut
-            <lb ed="#P" n="62"/><ref xml:id="szthvi-a07691-Rd1e898">infra videbimus</ref>; unde etiam negari potest
-            <lb ed="#P" n="63"/>pro arbitrii libertate, ut in haereticis 
-            experi<lb break="no" ed="#P" n="64"/>mur; ergo assensus fidei non fundatur in
-            <lb ed="#P" n="65"/>evidenti ratione ostendente veritatem, et 
-            in<lb break="no" ed="#P" n="66"/>fra ostendemus non fundari etiam in 
-            revela<lb break="no" ed="#P" n="67"/>tione evidente. Altera vero pars probatur,
-            <lb ed="#P" n="68"/>quia alias fides tantum esset quaedam opinio,
-            <lb ed="#P" n="69"/>quod (ut scribit <ref xml:id="szthvi-a07691-Rd1e915">Bernardus, Epist. 490, ante
-            <lb ed="#P" n="70"/>medium</ref>) videtur sensisse Abailardus, vocans
-            <lb ed="#P" n="71"/>fidem aestimationem, quasi ex opinione 
-            pen<lb break="no" ed="#P" n="72"/>deat, non certa veritate subsistat; alioqui
-            <lb ed="#P" n="73"/>posset quilibet formidare, et dubitare de 
-            ve<lb break="no" ed="#P" n="74"/>ritate fidei, sicut formidamus et dubitamus
-            <lb ed="#P" n="75"/>de his, qua per solam rationem probabilem
-            <lb ed="#P" n="76"/>tenentur. Non ergo fundatur fides in ratione,
-            <lb ed="#P" n="77"/>sed (ut inquit Petrus, <ref xml:id="szthvi-a07691-Rd1e789">2 Canon., capit. 1</ref>)
-            <lb ed="#P" n="78"/><quote xml:id="szthvi-a07691-Qd1e792" source="http://scta.info/resource/IIpetr1_19@2-9">habemus firmiorem propheticum sermonem, cui
-            <lb ed="#P" n="79"/>benefacitis attendentes</quote>, etc.
+            5. Proved thirdly from reason. —
+            The assertion is proved thirdly from reason,
+            because the principal mysteries that we believe by faith
+            are of such a kind that they cannot be known by natural reason,
+            as has been shown in the proper places
+            concerning the mystery of the Trinity, the Incarnation, and the Eucharist —
+            <ref xml:id="szthvi-a07691-Rd1e859">On the Trinity, Book 1, ch. 11</ref>;
+            <ref xml:id="szthvi-a07691-Rd1e862">On the Incarnation, Disp. 3, Sect. 1</ref>;
+            <ref xml:id="szthvi-a07691-Rd1e864">On the Sacraments, Disp. 48, Sect. 3</ref> —
+            and this is self-evident, because there are no natural principles,
+            nor any naturally knowable effects of God,
+            by which we could demonstrate any of these mysteries through reason.
+            Therefore natural reason cannot be in us the principal foundation for believing these mysteries.
+            And this is confirmed: for the reason on which faith would be grounded
+            would have to be either evident or merely probable —
+            but neither can be said; therefore.
+            The first part of the minor is proved as follows:
+            evidence compels the intellect and necessitates assent, as is established in Philosophy;
+            but faith does not necessitate, but is accepted voluntarily,
+            as <ref xml:id="szthvi-a07691-Rd1e898">we will see below</ref>;
+            hence it can even be denied by the freedom of the will, as we experience in heretics.
+            Therefore the assent of faith is not grounded in an evident reason showing the truth;
+            and we will show below that it is not grounded even in an evident revelation either.
+            The second part is proved as follows:
+            otherwise faith would be merely a kind of opinion,
+            which (as <ref xml:id="szthvi-a07691-Rd1e915">Bernard writes, Epistle 490, before the middle</ref>)
+            Abelard seems to have held,
+            calling faith an estimation [aestimationem],
+            as though it depended on opinion rather than resting on certain truth.
+            For otherwise anyone could waver and doubt about the truth of faith,
+            just as we waver and doubt about things held only through probable reason.
+            Faith is therefore not grounded in reason,
+            but (as Peter says in <ref xml:id="szthvi-a07691-Rd1e789">2 Peter, ch. 1</ref>)
+            <quote xml:id="szthvi-a07691-Qd1e792">we have a more firm prophetic word, to which you do well to attend</quote>, etc.
           </p>
           <p xml:id="szthvi-a07691-d1e732">
-            <lb ed="#P" n="80"/>6. Secunda assertio bipartita.— Ostenditur
-            <lb ed="#P" n="81"/>prior pars assertionis ex Scriptura. — Dico
-            <lb ed="#P" n="82"/>secundo: Deus ipse, quem credimus, est
-            <lb ed="#P" n="83"/>etiam prima ratio credendi, atque adeo 
-            ob<lb break="no" ed="#P" n="84"/>jectum formale fidei. In hac assertione 
-            con<lb break="no" ed="#P" n="85"/>veniunt Theologi, <ref xml:id="szthvi-a07691-Rd1e964" target="http://scta.info/resource/TAca84-d1e1277-d1e280">D. Thomas, hic, art. 1</ref>, et
-            <lb ed="#P" n="86"/><ref xml:id="szthvi-a07691-Rd1e968" target="http://scta.info/resource/TAca84-d1e51-d1e590">1 part., q. 1, art. 3</ref> et <ref xml:id="szthvi-a07691-Rd1e971" target="http://scta.info/resource/TAca84-d1e51-d1e1307">7</ref>; et reliqui in <ref xml:id="szthvi-a07691-Rd1e974">Prolog.
-            <lb ed="#P" n="87"/>sent.</ref>, et in <ref xml:id="szthvi-a07691-Rd1e980">3, dist. 24</ref>; <ref xml:id="szthvi-a07691-Rd1e982">Altisiodor., statim in
-            <lb ed="#P" n="88"/>principio Summae, in Prooemio</ref>; et <ref xml:id="szthvi-a07691-Rd1e987">Alens., 3
-            <lb ed="#P" n="89"/>p., q. 68</ref>. Et quoad substantiam, seu 
-            funda<lb break="no" ed="#P" n="90"/>mentum assertionis, est clara doctrina fidei;
-            <lb ed="#P" n="91"/>nam Scriptura saepe docet, veram fidem, ad
-            <lb ed="#P" n="92"/>salutem necessariam, ipsi Deo inniti; sic 
-            dici<lb break="no" ed="#P" n="93"/>tur <ref xml:id="szthvi-a07691-Rd1e830" corresp="#szthvi-a07691-Qd1e832">Gen. 15</ref>: <quote xml:id="szthvi-a07691-Qd1e832" source="http://scta.info/resource/gen15_6@1-8">Credidit Abraham Deo, et 
-            repu<lb break="no" ed="#P" n="94"/>tatum est illi ad justitiam</quote>, quod dicit Paulus,
-            <lb ed="#P" n="95"/><ref xml:id="szthvi-a07691-Rd1e839">ad Rom. 4</ref>, scriptum esse propter nos, quia
-            <lb ed="#P" n="96"/>fidem illam, et credendi modum imitari 
-            debe<lb break="no" ed="#P" n="97"/>mus, ut justificemur, et ita de scipso dicit
-            <lb ed="#P" n="98"/>idem Paulus, <ref xml:id="szthvi-a07691-Rd1e847" corresp="#szthvi-a07691-Qd1e849">2 ad Timoth. 1</ref>: <quote xml:id="szthvi-a07691-Qd1e849" source="http://scta.info/resource/IItim1_12@10-16">Scio cui 
-            cre<lb break="no" ed="#P" n="99"/>didi, et certus sum</quote>; et <ref xml:id="szthvi-a07691-Rd1e855">ad Thess., epist. 1, c.
-            <lb ed="#P" n="100"/>2</ref>: <quote xml:id="szthvi-a07691-Qd1e860" source="http://scta.info/resource/Ith2_13@17-27">Accepistis illud, non ut verbum hominum,
-            <lb ed="#P" n="101"/>sed ut vere est verbum Dei</quote>; et sic etiam <ref xml:id="szthvi-a07691-Rd1e865">Joan.
-            <lb ed="#P" n="102"/>prima epist., cap. 5</ref>: <quote xml:id="szthvi-a07691-Qd1e870" source="http://scta.info/resource/Iio5_10@1-10">Qui credit Filium Dei,
-            <lb ed="#P" n="103"/>habet testimonium Dei in se</quote>; et similia sunt
-            <lb ed="#P" n="104"/>frequentia in Scriptura; et ideo merito dixit
-            <lb ed="#P" n="105"/><ref xml:id="szthvi-a07691-Rd1e1052">Ambrosius, lib. de Abraham, cap. 3, et l. 2
-            <lb ed="#P" n="106"/>Epistolarum, epistol. 12 ad Valentinianum</ref>:
-            <lb ed="#P" n="107"/><quote xml:id="szthvi-a07691-Qd1e1058">Celi mysterium doceat me Deus ipse, quà 
-            con<lb break="no" ed="#P" n="108"/>didit, non homo, qui seipsum ignoravit. Cui
-            <lb ed="#P" n="109"/>magis de Deo, quam Deo credam?</quote> et 
-            <ref xml:id="szthvi-a07691-Rd1e1066">Augus<lb break="no" ed="#P" n="110"/>tinus, de Spirit. et litt., cap. 32</ref>: <quote xml:id="szthvi-a07691-Qd1e1071">Non dubium
-            <pb ed="#P" n="41"/>
-            <cb ed="#P" n="a"/>
-            <lb ed="#P" n="1"/>est illam fidem ab Apostolo commendari, qua
-            <lb ed="#P" n="2"/>creditur Deo</quote>.
-            <!-- why not para break here-->
-            Ratione etiam facile ostendi
-            <lb ed="#P" n="3"/>potest ; nam imprimis de ratione fidei in 
-            com<lb break="no" ed="#P" n="4"/>muni est, ut nitatur in testimonio dicentis,
-            <lb ed="#P" n="5"/>quia in hoc distinguitur a scientia, et ab 
-            opi<lb break="no" ed="#P" n="6"/>nione proprie sumpta; ergo hoc etiam 
-            con<lb break="no" ed="#P" n="7"/>venit nostrae fidei, et necessario sequitur ex
-            <lb ed="#P" n="8"/>praecedenti assertione, quia cum non nitatur
-            <lb ed="#P" n="9"/>ratione, necesse est ut in testimonio 
-            funde<lb break="no" ed="#P" n="10"/>tur. Hoc autem testimonium, in quo 
-            funda<lb break="no" ed="#P" n="11"/>tur fides Christiana, non est humanum, ut
-            <lb ed="#P" n="12"/>expresse docuit <ref xml:id="szthvi-a07691-Rd1e875" target="http://scta.info/resource/Icor2_4">Paulus, in citato loco, ad 1
-            <lb ed="#P" n="13"/>Corinth. 2</ref>, atque etiam Christus, cum
-            di<lb break="no" ed="#P" n="14"/>xit: <quote xml:id="szthvi-a07691-Qd1e880" source="http://scta.info/resource/mt16_17@12-17">Caro et sanguis non revelavit tibi</quote>.
-            Ne<lb break="no" ed="#P" n="15"/>que etiam esse potest testimonium angelicum,
-            <lb ed="#P" n="16"/>tum quia ipsimet Angeli indiguerunt fide
-            <lb ed="#P" n="17"/>fundata in altiori testimonio, et ejusdem 
-            ra<lb break="no" ed="#P" n="18"/>tionis est nostra fides; tum etiam quia 
-            testi<lb break="no" ed="#P" n="19"/>monium Angelicum, secundum se spectatum,
-            <lb ed="#P" n="20"/>allibile est, sicut testimonium humanum, et
-            <lb ed="#P" n="21"/>ita mali Angeli seepe homines decipiunt. Quod
-            <lb ed="#P" n="22"/>si boni Angeli loquantur ut ministri Dei, sic
-            <lb ed="#P" n="23"/>Deus est qui principaliter testificatur; ergo
-            <lb ed="#P" n="24"/>solum relinquitur testimonium divinum, quod
-            <lb ed="#P" n="25"/>sit proprium fidei fundamentum, juxta illud
-            <lb ed="#P" n="26"/><ref xml:id="szthvi-a07691-Rd1e885" corresp="#szthvi-a07691-Qd1e890">Joan. 1</ref>: <quote xml:id="szthvi-a07691-Qd1e890" source="http://scta.info/resource/io1_18@1-13">Deum nemo vidit unquam; Unigenitus,
-            <lb ed="#P" n="27"/>qui est in sinu Patris, ipse enarravit</quote>; et illud
-            <lb ed="#P" n="28"/><ref xml:id="szthvi-a07691-Rd1e895" corresp="#szthvi-a07691-Qd1e900">ad Galat. 1</ref>: <quote xml:id="szthvi-a07691-Qd1e900" source="http://scta.info/resource/gal1_11@13-16">Non secundum hominem, sed
-            se<lb break="no" ed="#P" n="29"/>cundum revelationem Jesu Christi</quote>; imo
-            Chris<lb break="no" ed="#P" n="30"/>tus ipse, in quantum homo, totum hoc refert
-            <lb ed="#P" n="31"/>ad Patrem, dicens, <ref xml:id="szthvi-a07691-Rd1e905" corresp="#szthvi-a07691-Qd1e910">Joann. 12</ref>: <quote xml:id="szthvi-a07691-Qd1e910" source="http://scta.info/resource/io12_44@6-19">Qui credit in
-            <lb ed="#P" n="32"/>me, non credit in me, sed in eum qui misit
-            <lb ed="#P" n="33"/>me</quote>. Est ergo Deus ipse nostrae credulitatis ac
-            <lb ed="#P" n="34"/>fidei fundamentum.
+            6. The second assertion is bipartite. — The prior part of the assertion is shown from Scripture. —
+            I say secondly: God himself, whom we believe, is also the first reason for believing,
+            and thus the formal object of faith.
+            Theologians agree in this assertion:
+            <ref xml:id="szthvi-a07691-Rd1e964">St. Thomas, here, art. 1</ref>,
+            and <ref xml:id="szthvi-a07691-Rd1e968">Part I, q. 1, art. 3</ref>
+            and <ref xml:id="szthvi-a07691-Rd1e971">7</ref>;
+            and others in <ref xml:id="szthvi-a07691-Rd1e974">the Prologue of the Sentences</ref>,
+            and in <ref xml:id="szthvi-a07691-Rd1e980">Book 3, dist. 24</ref>;
+            <ref xml:id="szthvi-a07691-Rd1e982">Altissiodorensis, immediately at the beginning of his Summa, in the Prooemium</ref>;
+            and <ref xml:id="szthvi-a07691-Rd1e987">Alexander of Hales, Part III, q. 68</ref>.
+            And as regards the substance or foundation of the assertion, it is a clear doctrine of faith;
+            for Scripture often teaches that true faith, necessary for salvation, rests upon God himself.
+            Thus it is said in <ref xml:id="szthvi-a07691-Rd1e830">Gen. 15</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e832">Abraham believed God, and it was reckoned to him as righteousness</quote>,
+            which Paul, in <ref xml:id="szthvi-a07691-Rd1e839">Rom. 4</ref>, says was written for our sake,
+            because we must imitate that faith and that manner of believing in order to be justified.
+            And likewise Paul says of himself in <ref xml:id="szthvi-a07691-Rd1e847">2 Tim. 1</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e849">I know whom I have believed, and I am certain</quote>;
+            and in <ref xml:id="szthvi-a07691-Rd1e855">1 Thess. 2</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e860">You received it not as the word of men, but as it truly is, the word of God</quote>;
+            and likewise in <ref xml:id="szthvi-a07691-Rd1e865">1 John, ch. 5</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e870">Whoever believes in the Son of God has the testimony of God in himself</quote>;
+            and similar passages are frequent in Scripture.
+            And therefore <ref xml:id="szthvi-a07691-Rd1e1052">Ambrose, in his book On Abraham, ch. 3,
+            and in Book 2 of the Letters, letter 12 to Valentinian</ref>, rightly said:
+            <quote xml:id="szthvi-a07691-Qd1e1058">Let God himself teach me the mystery of heaven, which he founded —
+            not man, who did not know himself. Whom should I believe more concerning God than God?</quote>
+            And <ref xml:id="szthvi-a07691-Rd1e1066">Augustine, in On the Spirit and the Letter, ch. 32</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e1071">There is no doubt that the faith commended by the Apostle
+            is the faith by which one believes God.</quote>
+            It can also be shown easily by reason:
+            for first, it belongs to the nature of faith in general to rest upon the testimony of the one speaking,
+            since it is in this that faith is distinguished from knowledge and from opinion properly so called.
+            Therefore this also applies to our faith,
+            and it follows necessarily from the preceding assertion,
+            since, as faith does not rest upon reason, it must be grounded in testimony.
+            Now this testimony, upon which Christian faith is grounded, is not human —
+            as <ref xml:id="szthvi-a07691-Rd1e875">Paul expressly taught in the cited passage in 1 Cor. 2</ref>,
+            and as Christ himself taught when he said:
+            <quote xml:id="szthvi-a07691-Qd1e880">Flesh and blood has not revealed this to you.</quote>
+            Nor can it be angelic testimony:
+            first, because the angels themselves required faith grounded in a higher testimony,
+            and our faith is of the same kind;
+            and second, because angelic testimony, considered in itself, is fallible,
+            just as human testimony is, and thus evil angels often deceive men.
+            But if good angels speak as ministers of God, then God is the one who testifies principally;
+            therefore the only remaining option is divine testimony,
+            which is the proper foundation of faith, according to
+            <ref xml:id="szthvi-a07691-Rd1e885">John 1</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e890">No one has ever seen God;
+            the Only-Begotten, who is in the bosom of the Father, has made him known</quote>;
+            and <ref xml:id="szthvi-a07691-Rd1e895">Gal. 1</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e900">Not according to man, but according to the revelation of Jesus Christ</quote>;
+            and indeed Christ himself, insofar as he is man, refers all of this to the Father,
+            saying in <ref xml:id="szthvi-a07691-Rd1e905">John 12</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e910">Whoever believes in me does not believe in me,
+            but in him who sent me.</quote>
+            God himself, therefore, is the foundation of our belief and faith.
           </p>
           <p xml:id="szthvi-a07691-d1e880">
-            <lb ed="#P" n="35"/>7. Ostenditur posterior assertionis pars. —
-            <lb ed="#P" n="36"/>Ex hoc autem principio facile ac manifeste
-            <lb ed="#P" n="37"/>concluditur altera pars assertionis, 
-            scili<lb break="no" ed="#P" n="38"/>cet, Deum esse objectum formale nostrae
-            <lb ed="#P" n="39"/>fidei, quia in omni habitu intellectus, vel
-            <lb ed="#P" n="40"/>scientia, objectum formale est illud quod 
-            illu<lb break="no" ed="#P" n="41"/>minat objectum, et est medium seu ratio 
-            as<lb break="no" ed="#P" n="42"/>sentiendi illi; sed Deus hoc modo est ratio
-            <lb ed="#P" n="43"/>credendi per fidem infusam; ergo est ejus
-            <lb ed="#P" n="44"/>objectum formale. Minor probata est; major
-            <lb ed="#P" n="45"/>autem constat ex principiis Metaphysicae, et
-            <lb ed="#P" n="46"/>potest inductione ostendi in fide humana,
-            <lb ed="#P" n="47"/>cujus formale objectum est testimonium 
-            hu<lb break="no" ed="#P" n="48"/>manum, quia illud est ratio credendi per 
-            ta<lb break="no" ed="#P" n="49"/>lem fidem; similter scientiae habent objecta
-            <lb ed="#P" n="50"/>formalia ex mediis assentiendi: et ratio est,
-            <lb ed="#P" n="51"/>quia intellectus tendit in veritatem sui 
-            ob<lb break="no" ed="#P" n="52"/>jecti; ergo id, quod ostendit veritatem in 
-            ob<lb break="no" ed="#P" n="53"/>jecto, est formale objectum cognitionis, seu
-            <lb ed="#P" n="54"/>assensus. Atque hoc magis explicabitur et 
-            con<lb break="no" ed="#P" n="55"/>firmabitur ex duabus sectionibus sequentibus.
+            7. The posterior part of the assertion is shown. —
+            From this principle, the other part of the assertion follows easily and clearly:
+            namely, that God is the formal object of our faith.
+            For in every intellectual habit or science,
+            the formal object is that which illuminates the object
+            and is the medium or reason for assenting to it.
+            But God is in this way the reason for believing through infused faith;
+            therefore he is its formal object.
+            The minor premise has been proved;
+            the major, however, is plain from the principles of Metaphysics,
+            and can be shown by induction from human faith,
+            whose formal object is human testimony,
+            because that is the reason for believing through such faith.
+            Likewise, the sciences have their formal objects from the means of assenting;
+            and the reason is that the intellect tends toward the truth of its object —
+            therefore that which shows the truth in the object
+            is the formal object of cognition, or assent.
+            And this will be more fully explained and confirmed from the two following sections.
           </p>
           <p xml:id="szthvi-a07691-d1e928">
-            <cb ed="#P" n="b"/>
-            <lb ed="#P" n="56"/>8. Ad fundamentum erroris in num. 1. —
-            <lb ed="#P" n="57"/>Ad primam confirmationem ea ratione, ibid.
-            <lb ed="#P" n="58"/>— Ad secundam. — Ad fundamenta 
-            haeretico<lb break="no" ed="#P" n="59"/>rum solutio patet ex dictis. Ad illud 
-            Sapien<lb break="no" ed="#P" n="60"/>tis: Qui cito credit, levis est corde, Bernardus
-            <lb ed="#P" n="61"/>respondet, Sapientem loqui de fide humana,
-            <lb ed="#P" n="62"/>quae, cum nitatur homini, qui facile potest
-            <lb ed="#P" n="63"/>decipere, non est cito adhibenda, et sine 
-            du<lb break="no" ed="#P" n="64"/>bio est sensus litteralis; nam Sapiens loquitur
-            <lb ed="#P" n="65"/>de his qui facile credunt detrahentibus de
-            <lb ed="#P" n="66"/>aliis. Addere vero possumus, etiam illud esse
-            <lb ed="#P" n="67"/>verum, sano modo intellectum, in fide 
-            divi<lb break="no" ed="#P" n="68"/>na; non enim cito est credendum dicentes
-            <lb ed="#P" n="69"/>se habere revelationem divinam; sed 
-            opor<lb break="no" ed="#P" n="70"/>tet expectare prudenter an fides vel 
-            revela<lb break="no" ed="#P" n="71"/>tio sufficienter proponatur, ut <ref xml:id="szthvi-a07691-Rd1e1265">infra 
-            videbi<lb break="no" ed="#P" n="72"/>mus, disput. 4, sect. 2</ref>; et qui hoc modo 
-            cre<lb break="no" ed="#P" n="73"/>dit, non cito credit. Imo discipuli, qui non ita
-            <lb ed="#P" n="74"/>crediderunt, ut stulti et tardi corde 
-            reprehen<lb break="no" ed="#P" n="75"/>duntur, et Zacharias punitus est, quia non
-            <lb ed="#P" n="76"/>credidit facta sufficienti revelatione. Atque
-            <lb ed="#P" n="77"/>hoc modo intelliguntur alia testimonia: <quote xml:id="szthvi-a07691-Qd1e1078" source="http://scta.info/resource/Iio4_1@7-8">Quod
-            <lb ed="#P" n="78"/>spiritus probandi sint</quote>, sicut Beatissima Virgo
-            <lb ed="#P" n="79"/><quote xml:id="szthvi-a07691-Qd1e1085" source="http://scta.info/resource/lc1_29@10-14">cogitabat qualis esset illa salutatio</quote>, et tamen
-            <lb ed="#P" n="80"/>nec nimis cito, nec tarde credidit, sed
-            quan<lb break="no" ed="#P" n="81"/>do oportuit, et ideo fides ejus commendatur:
-            <lb ed="#P" n="82"/><quote xml:id="szthvi-a07691-Qd1e1092" source="http://scta.info/resource/lc1_45@2-4">Beata, quae credidisti</quote>; et non credidit propter
-            <lb ed="#P" n="83"/>rationem, sed propter testimonium sibi
-            pro<lb break="no" ed="#P" n="84"/>positum, <quote xml:id="szthvi-a07691-Qd1e1099" source="http://scta.info/resource/lc1_37@1-8">quia non erit impossibile apud Deum
-            <lb ed="#P" n="85"/>omne cerlum</quote>. Ad rationem primam 
-            respon<lb break="no" ed="#P" n="86"/>detur, ad credendum necessariam esse 
-            ali<lb break="no" ed="#P" n="87"/>quam intelligentiam objecti, non prout in se
-            <lb ed="#P" n="88"/>est, sed prout proponitur et offertur ad 
-            cre<lb break="no" ed="#P" n="89"/>dendum. Neque est impossibile assentiri 
-            ve<lb break="no" ed="#P" n="90"/>ritati, quae per rationem non ostenditur; nam
-            <lb ed="#P" n="91"/>satis est quod in testimonio dicentis 
-            ostenda<lb break="no" ed="#P" n="92"/>tur. Imo <ref xml:id="szthvi-a07691-Rd1e1323">Augustinus, dicto libro de Utilitate
-            <lb ed="#P" n="93"/>credendi, c. 12 et seq.</ref>, ostendit sine hoc 
-            ge<lb break="no" ed="#P" n="94"/>nere cognitionis et assensus, non posse 
-            ho<lb break="no" ed="#P" n="95"/>mines gubernari, neque in humana societate
-            <lb ed="#P" n="96"/>vivere, quia praecipua pars humanarum 
-            actio<lb break="no" ed="#P" n="97"/>num in aliqua fide fundatur; non enim esset
-            <lb ed="#P" n="98"/>amicitia, vel quivis humanus contractus, nisi
-            <lb ed="#P" n="99"/>unus alteri crederet, et sic de aliis.
+            8. In reply to the foundation of the error in number 1. —
+            In reply to the first confirmation, by the same argument, ibid. —
+            In reply to the second. —
+            The reply to the foundations of the heretics is clear from what has been said.
+            As for that saying of the Sage, "He who believes quickly is light of heart,"
+            Bernard replies that the Sage is speaking about human faith,
+            which, since it rests on a man who can easily deceive,
+            is not to be readily accepted — and this is doubtless the literal sense;
+            for the Sage speaks of those who easily believe those who speak ill of others.
+            We can add, however, that this is also true, understood in a sound way, of divine faith:
+            for one should not quickly believe those who claim to have a divine revelation,
+            but one must wait prudently to see whether the faith or revelation is sufficiently proposed,
+            as we shall see below, <ref xml:id="szthvi-a07691-Rd1e1265">Disp. 4, Sect. 2</ref>;
+            and one who believes in this way does not believe quickly.
+            Indeed, those disciples who did not believe thus are rebuked as foolish and slow of heart,
+            and Zacharias was punished because he did not believe
+            even when a sufficient revelation had been made.
+            And in this sense other testimonies are also understood:
+            <quote xml:id="szthvi-a07691-Qd1e1078">that the spirits are to be tested</quote>,
+            just as the Blessed Virgin
+            <quote xml:id="szthvi-a07691-Qd1e1085">considered what manner of greeting this might be</quote> —
+            and yet she believed neither too quickly nor too slowly, but at the right time,
+            and thus her faith is commended:
+            <quote xml:id="szthvi-a07691-Qd1e1092">Blessed are you who believed</quote>;
+            and she did not believe because of reason,
+            but because of the testimony proposed to her,
+            <quote xml:id="szthvi-a07691-Qd1e1099">that nothing would be impossible with God</quote>.
+            To the first objection, the reply is that for believing,
+            some understanding of the object is necessary —
+            not as the object is in itself,
+            but as it is proposed and offered for belief.
+            Nor is it impossible to assent to a truth that is not demonstrated by reason;
+            for it is enough that it be shown in the testimony of the one speaking.
+            Indeed, <ref xml:id="szthvi-a07691-Rd1e1323">Augustine, in the aforementioned book On the Usefulness of Believing, ch. 12 and following</ref>,
+            shows that without this kind of cognition and assent
+            men cannot be governed, nor can they live in human society,
+            because the greater part of human activities is founded on some form of faith;
+            for there would be no friendship, nor any human contract,
+            unless one believed another, and so with other matters.
           </p>
         </div>
         <div xml:id="szthvi-a07691-Dd1e1030">
           <head xml:id="szthvi-a07691-Hd1e1032">Sectio 2</head>
-          <head xml:id="szthvi-a07691-Hd1e1034" type="question-title">Utrum deus, quatenus revelatione sua constituit objectum credibile, sit objectum formale fidei</head>
+          <head xml:id="szthvi-a07691-Hd1e1034" type="question-title">Whether God, insofar as he constitutes the believable object through his revelation, is the formal object of faith</head>
           <p xml:id="szthvi-a07691-d1e1037">
-            <lb ed="#P" n="100"/>SECTIO II
-            <lb ed="#P" n="101"/>Utrum Deus, quatenus revelatione sua 
-            consti<lb break="no" ed="#P" n="102"/>tuit objectum credibile, sit objectum formale
-            <lb ed="#P" n="103"/>fidei?
+            SECTION II.
+            Whether God, insofar as he constitutes the believable object through his revelation,
+            is the formal object of faith?
           </p>
           <p xml:id="szthvi-a07691-d1e1048">
-            <lb ed="#P" n="104"/>1. Prima ratio dubitandi. — Secunda ratio.
-            <lb ed="#P" n="105"/>— Tertia ratio ex triplici similitudine. — Ratio
-            <lb ed="#P" n="106"/>dubitandi esse potest, primo, quia objectum
-            <lb ed="#P" n="107"/>formale debet esse aliquid reale et 
-            intrin<pb ed="#P" n="42"/><cb ed="#P" n="a"/><lb ed="#P" n="1" break="no"/>secum, existens in objecto cognoscendo; sed
-            <lb ed="#P" n="2"/>Deus, ut revelans, non ponit in objecto 
-            cre<lb break="no" ed="#P" n="3"/>dibili aliquid reale, sed tantum extrinsecam
-            <lb ed="#P" n="4"/>denominationem; ergo, ut sic, non potest
-            <lb ed="#P" n="5"/>esse objectum formale, alias tale objectum
-            <lb ed="#P" n="6"/>consisteret in relatione rationis, quia illa 
-            de<lb break="no" ed="#P" n="7"/>nominatio nihil aliud ponit in objecto. 
-            Se<lb break="no" ed="#P" n="8"/>cundo, objectum constituitur in esse 
-            credibi<lb break="no" ed="#P" n="9"/>lis per ipsummet habitum fidei, quatenus 
-            re<lb break="no" ed="#P" n="10"/>latum ad objectum credendi; ergo fides non
-            <lb ed="#P" n="11"/>terminatur ad illud objectum, ut credibile est,
-            <lb ed="#P" n="12"/>seu sub ratione credibilis; ergo objectum 
-            for<lb break="no" ed="#P" n="13"/>male fidei non est credibile, ut credibile;
-            <lb ed="#P" n="14"/>ergo neque est Deus, ut revelans et 
-            consti<lb break="no" ed="#P" n="15"/>tuens objectum credibile. Primum antecedens
-            <lb ed="#P" n="16"/>sumitur a simili ex <ref xml:id="szthvi-a07691-Rd1e1350" target="http://scta.info/resource/aristmet-l5-d1e281@418-426">Aristotele, 5 Metaph.,
-            <lb ed="#P" n="17"/>cap. 15</ref>, dicente objectum esse scibile, 
-            qua<lb break="no" ed="#P" n="18"/>tenus scientia refertur ad ipsum; est enim ex
-            <lb ed="#P" n="19"/>relativis non mutuis, quae talia 
-            denominan<lb break="no" ed="#P" n="20"/>tur per habitudinem aliorum ad ipsa; ergo
-            <lb ed="#P" n="21"/>idem est cum proportione in objecto 
-            credi<lb break="no" ed="#P" n="22"/>bili, et fide. Prima vero consequentia 
-            pro<lb break="no" ed="#P" n="23"/>batur ex <ref xml:id="szthvi-a07691-Rd1e1428">Aristolele, ibidem</ref>, quia alias 
-            com<lb break="no" ed="#P" n="24"/>mitteretur circulus, et idem a seipso constitui
-            <lb ed="#P" n="25"/>diceretur; nam scientia constituitur per 
-            habi<lb break="no" ed="#P" n="26"/>tudinem ad suum objectum formale; ergo si
-            <lb ed="#P" n="27"/>hoc objectum est ipsum scibile, quatenus 
-            sci<lb break="no" ed="#P" n="28"/>bile est, objectum formale scientiae 
-            constitue<lb break="no" ed="#P" n="29"/>retur per ipsammet scientiam, quia per illam
-            <lb ed="#P" n="30"/>constituitur objectum scibile, ut dictum est.
-            <lb ed="#P" n="31"/>Item est hoc impossibile, quia objectum est
-            <lb ed="#P" n="32"/>prius, et praesupponitur ad scientiam; sed ut
-            <lb ed="#P" n="33"/>est scibile non est prius, cum sit tale per 
-            ha<lb break="no" ed="#P" n="34"/>bitudinem scientiae ad ipsum; ergo ut sic non
-            <lb ed="#P" n="35"/>potest esse objectum formale; ergo idem est
-            <lb ed="#P" n="36"/>cum proportione de credibili, ut credibile
-            <lb ed="#P" n="37"/>est. Tertio, ita se habet revelatio Dei ad 
-            ob<lb break="no" ed="#P" n="38"/>jectum credibile, sicut lumen intelligentis ad
-            <lb ed="#P" n="39"/>objecta cognoscibilia naturaliter; sed non
-            <lb ed="#P" n="40"/>propter hanc causam lumen intellectus 
-            agen<lb break="no" ed="#P" n="41"/>tis est objectum formale omnium cognitionum
-            <lb ed="#P" n="42"/>intellectualium; alias omnes scientiae, imo 
-            om<lb break="no" ed="#P" n="43"/>nes intellectiones naturales essent unius 
-            spe<lb break="no" ed="#P" n="44"/>ciei; ergo neque in praesenti id sufficit, ut
-            <lb ed="#P" n="45"/>Deus, quatenus revelans, sit objectum formale
-            <lb ed="#P" n="46"/>fidei. Et confirmatur, nam Deus revelando est
-            <lb ed="#P" n="47"/>ut praeceptor, qui non dicitur constituere 
-            for<lb break="no" ed="#P" n="48"/>male objectum. Denique si Deus infunderet
-            <lb ed="#P" n="49"/>alicui omnes scientias, revelaret illas, et 
-            ta<lb break="no" ed="#P" n="50"/>men revelatio illa non esset objectum 
-            for<lb break="no" ed="#P" n="51"/>male, alias omnes illae scientiae essent una;
-            <lb ed="#P" n="52"/>ergo, etc.
+            1. First reason for doubt. — Second reason. — Third reason, from a threefold analogy. —
+            A first reason for doubt can be this:
+            the formal object must be something real and intrinsic,
+            <pb ed="#P" n="42"/>
+            <cb ed="#P" n="a"/>
+            existing in the object to be known;
+            but God, insofar as he reveals, does not place anything real in the believable object,
+            but only an extrinsic denomination;
+            therefore, as such, he cannot be the formal object —
+            otherwise such an object would consist in a relation of reason,
+            since that denomination places nothing else in the object.
+            Secondly, the object is constituted in its being as believable
+            by the habit of faith itself, insofar as that habit is related to the object of believing;
+            therefore faith does not terminate at that object as it is believable,
+            or under the aspect of the believable;
+            therefore the formal object of faith is not the believable as such;
+            therefore neither is it God insofar as he reveals and constitutes the believable object.
+            The first antecedent is taken by analogy from
+            <ref xml:id="szthvi-a07691-Rd1e1350">Aristotle, Metaphysics 5, ch. 15</ref>,
+            who says the object is knowable insofar as knowledge is referred to it;
+            for it belongs to non-mutual relatives,
+            which are so denominated by virtue of the relation of other things to them.
+            Therefore the same holds proportionally for the believable object and faith.
+            The first consequence is proved from <ref xml:id="szthvi-a07691-Rd1e1428">Aristotle in the same place</ref>,
+            because otherwise a circle would be committed,
+            and the same thing would be said to constitute itself;
+            for knowledge is constituted through its relation to its formal object;
+            therefore if this object is the knowable as such,
+            the formal object of knowledge would be constituted by knowledge itself,
+            since it is by knowledge that the knowable object is constituted, as has been said.
+            Moreover, this is impossible, because the object is prior and presupposed to knowledge;
+            but as knowable it is not prior,
+            since it is such only by virtue of knowledge's relation to it;
+            therefore as such it cannot be the formal object.
+            The same holds proportionally for the believable as believable.
+            Thirdly, God's revelation stands in relation to the believable object
+            as the light of the intellect stands in relation to naturally knowable objects;
+            but for this reason the light of the agent intellect is not the formal object
+            of all intellectual cognitions —
+            otherwise all the sciences, indeed all natural intellectual acts, would be of one species.
+            Therefore in the present case it likewise does not suffice
+            that God, insofar as he reveals, be the formal object of faith.
+            And this is confirmed: for God in revealing is like a teacher,
+            who is not said to constitute the formal object.
+            Finally, if God were to infuse all the sciences into someone, he would be revealing them;
+            and yet that revelation would not be the formal object,
+            otherwise all those sciences would be one. Therefore, etc.
           </p>
           <p xml:id="szthvi-a07691-d1e1176">
-            <lb ed="#P" n="53"/>2. Aureolus stat pro parte negante. — Male
-            <lb ed="#P" n="54"/>arguit contradictionis D. Thomam. — 
-            Eam<lb break="no" ed="#P" n="55"/>dem partem negativam sequitur Vazquez. —
+            2. Aureolus takes the negative side. — He wrongly charges St. Thomas with contradiction. —
+            Vázquez follows the same negative position. —
             <cb ed="#P" n="b"/>
-            <lb ed="#P" n="56"/>Haec fere argumenta proponit <ref xml:id="szthvi-a07691-Rd1e1508">Aureolus in
-            <lb ed="#P" n="57"/>Prologo, quaest. de Unit. Theolog., art. 3</ref>, et
-            <lb ed="#P" n="58"/>propter illa, praesertim propter tertium, 
-            im<lb break="no" ed="#P" n="59"/>pugnat D. Thomam dicentem Theologiam
-            <lb ed="#P" n="60"/>esse unam, quia omnia cognoscit sub divina
-            <lb ed="#P" n="61"/>revelatione, sentiens Deum ut revelantem
-            <lb ed="#P" n="62"/>non esse objectum formale Theologiae, ac 
-            su<lb break="no" ed="#P" n="63"/>binde neque fidei, utrinque enim est eadem
-            <lb ed="#P" n="64"/>ratio, ut dicemus. Arguit etiam D. Thomam
-            <lb ed="#P" n="65"/>contradictionis, quia in <ref xml:id="szthvi-a07691-Rd1e1450" target="http://scta.info/resource/TAca84-d1e51-d1e1307">1 p., quaestione prima,
-            <lb ed="#P" n="66"/>articulo septimo</ref>, dicit Deum sub ratione 
-            dei<lb break="no" ed="#P" n="67"/>tatis esse objectum formale Theologiae, et in
-            <lb ed="#P" n="68"/><ref xml:id="szthvi-a07691-Rd1e1457" target="http://scta.info/resource/TAca84-d1e51-d1e590">art. 3</ref>, dicit revelationem Dei constituere
-            ob<lb break="no" ed="#P" n="69"/>jectum formale; et <ref xml:id="szthvi-a07691-Rd1e1464" target="http://scta.info/resource/TAca84-d1e1277-d1e459">2. 2, quaest. 1, art. 2</ref>,
-            <lb ed="#P" n="70"/>Deum sub ratione primae veritatis esse
-            obje<lb break="no" ed="#P" n="71"/>ctum formale fidei. Sed haec contradictio (ut
-            <lb ed="#P" n="72"/>hoc breviter expediamus) nulla est; nam in
-            <lb ed="#P" n="73"/>illo articulo septimo loquitur de objecto quod,
-            <lb ed="#P" n="74"/>et de ratione formali ejus in esse rei, sicut
-            <lb ed="#P" n="75"/>diximus in sectione praecedenti; in aliis vero
-            <lb ed="#P" n="76"/>locis loquitur de objecto formali, prout est
-            <lb ed="#P" n="77"/>ratio assentiendi, a quo solct habitus sumere
-            <lb ed="#P" n="78"/>unitatem suam, ut patet in <ref xml:id="szthvi-a07691-Rd1e1471" target="http://scta.info/resource/TAca84-d1e51-d1e590">illo art. 3 primae
-            <lb ed="#P" n="79"/>partis</ref>. Nihilominus tamen <ref xml:id="szthvi-a07691-Rd1e1572">Vazquez, circa illum
-            <lb ed="#P" n="80"/>articulum, disp. 7, cap. 3, loquendo de 
-            Theo<lb break="no" ed="#P" n="81"/>logia</ref>, negat Deum, ut revelantem, esse 
-            ob<lb break="no" ed="#P" n="82"/>jectum formale ejus, et ex professo impugnat
-            <lb ed="#P" n="83"/>distinctionem supra datam, quam etiam ibi
-            <lb ed="#P" n="84"/>tradit Cajetanus de objecto in esse rei, et in
-            <lb ed="#P" n="85"/>esse scibilis, seu credibilis, quia esse scibile
-            <lb ed="#P" n="86"/>seu credibile non potest pertinere ad 
-            obje<lb break="no" ed="#P" n="87"/>ctum formale specificans scientiam, vel fidem,
-            <lb ed="#P" n="88"/>et praecipue movetur secundo argumento seu
-            <lb ed="#P" n="89"/>ratione dubitandi supra posita.
+            These are essentially the arguments put forward by
+            <ref xml:id="szthvi-a07691-Rd1e1508">Aureolus in the Prologue, question on the Unity of Theology, art. 3</ref>,
+            and on account of them — especially the third —
+            he attacks St. Thomas, who holds that Theology is one
+            because it knows all things under divine revelation,
+            arguing that God as revealing is not the formal object of Theology,
+            and consequently not of faith either,
+            since the same reasoning applies in both cases, as we shall explain.
+            He also charges St. Thomas with contradiction,
+            because in <ref xml:id="szthvi-a07691-Rd1e1450">Part I, question 1, article 7</ref>,
+            Thomas says God under the aspect of deity is the formal object of Theology;
+            and in <ref xml:id="szthvi-a07691-Rd1e1457">art. 3</ref>,
+            he says that God's revelation constitutes the formal object;
+            and in <ref xml:id="szthvi-a07691-Rd1e1464">II-II, q. 1, art. 2</ref>,
+            that God under the aspect of First Truth is the formal object of faith.
+            But this alleged contradiction (to dispose of it briefly) is no contradiction at all;
+            for in article 7, Thomas speaks of the <mentioned>objectum quod</mentioned>
+            and of its formal aspect in the being of the thing,
+            as we explained in the preceding section;
+            in the other passages, however, he speaks of the formal object
+            insofar as it is the reason for assenting,
+            from which a habit customarily derives its unity,
+            as is plain from <ref xml:id="szthvi-a07691-Rd1e1471">article 3 of Part I</ref>.
+            Nevertheless, <ref xml:id="szthvi-a07691-Rd1e1572">Vázquez, treating of that article, Disp. 7, ch. 3, on Theology</ref>,
+            denies that God as revealing is its formal object,
+            and expressly attacks the distinction just given —
+            which Cajetan also advances there —
+            between the object in the being of the thing
+            and in its being as knowable or believable,
+            arguing that being knowable or believable
+            cannot pertain to the formal object that specifies a science or faith;
+            and he is moved chiefly by the second argument or reason for doubt set out above.
           </p>
           <p xml:id="szthvi-a07691-d1e1262">
-            <lb ed="#P" n="90"/>3. Assertio affirmans. — Colligitur assertio
-            <lb ed="#P" n="91"/>ex Scriptura et Patribus. — Ratione eliam
-            <lb ed="#P" n="92"/>convincitur. — Dicendum vero est Deum, ut
-            <lb ed="#P" n="93"/>revelantem, seu testificantem res credendas
-            <lb ed="#P" n="94"/>per fidem, esse objectum formale fidei. Haec
-            <lb ed="#P" n="95"/>est aperta sententia <ref xml:id="szthvi-a07691-Rd1e1613">D. Thomae, dicto art. 3</ref>;
-            <lb ed="#P" n="96"/>nam licet loquatur de Theologia, necessario
-            <lb ed="#P" n="97"/>inde infertur idem de fide, quia revelatio 
-            di<lb break="no" ed="#P" n="98"/>vina non spectat ad Theologiam immediate,
-            <lb ed="#P" n="99"/>sed mediante fide, quia accipit propositiones
-            <lb ed="#P" n="100"/>fidei, ut immediate revelatas, et illis utitur
-            <lb ed="#P" n="101"/>tanquam principiis; hic etiam, <ref xml:id="szthvi-a07691-Rd1e1628">art. 1</ref>, ait D.
-            <lb ed="#P" n="102"/>Thomas primam veritatem esse objectum 
-            for<lb break="no" ed="#P" n="103"/>male fidei, quia nihil creditur nisi ut 
-            revela<lb break="no" ed="#P" n="104"/>tum ab ipsa, quod bene explicuit et notavit
-            <lb ed="#P" n="105"/><ref xml:id="szthvi-a07691-Rd1e1638">ibi Cajetanus, dub. 2</ref>, ubi expresse hanc 
-            sen<lb break="no" ed="#P" n="106"/>tentiam docet; et latius <ref xml:id="szthvi-a07691-Rd1e1642">Capreolus, in q. 4
-            <lb ed="#P" n="107"/>Prologi, concl. 3 et 6</ref>, et <ref xml:id="szthvi-a07691-Rd1e1647">ad argumenta 
-            Au<lb break="no" ed="#P" n="108"/>reoli contra illas</ref>. <ref xml:id="szthvi-a07691-Rd1e1652">Idem tenet Scotus, in 3,
-            <lb ed="#P" n="109"/>dist. 22, quaest. unic.</ref>, et <ref xml:id="szthvi-a07691-Rd1e1658">dist. 25, quaest. 2,
-            <lb ed="#P" n="110"/>in fine</ref>; <ref xml:id="szthvi-a07691-Rd1e1663">Richardus, dist. 23, art. 4, quaest. 3</ref>,
+            3. The affirmative assertion. — The assertion is gathered from Scripture and the Fathers. —
+            It is also proved by reason. —
+            We must hold that God, insofar as he reveals or testifies to the things to be believed by faith,
+            is the formal object of faith.
+            This is the clear teaching of <ref xml:id="szthvi-a07691-Rd1e1613">St. Thomas, in the said art. 3</ref>;
+            for although he speaks of Theology,
+            the same conclusion necessarily follows for faith,
+            because divine revelation does not pertain to Theology immediately but through faith,
+            since Theology receives the propositions of faith as immediately revealed
+            and uses them as principles.
+            Also in this same place, <ref xml:id="szthvi-a07691-Rd1e1628">art. 1</ref>,
+            St. Thomas says that First Truth is the formal object of faith,
+            because nothing is believed except as revealed by it —
+            which <ref xml:id="szthvi-a07691-Rd1e1638">Cajetan rightly explained and noted there, dub. 2</ref>,
+            where he expressly teaches this view;
+            and more extensively <ref xml:id="szthvi-a07691-Rd1e1642">Capreolus, in q. 4 of the Prologue, concl. 3 and 6</ref>,
+            and <ref xml:id="szthvi-a07691-Rd1e1647">in his replies to the arguments of Aureolus against them</ref>.
+            <ref xml:id="szthvi-a07691-Rd1e1652">Scotus holds the same position, in Book 3, dist. 22, q. uniq.</ref>,
+            and <ref xml:id="szthvi-a07691-Rd1e1658">dist. 25, q. 2, at the end</ref>;
+            <ref xml:id="szthvi-a07691-Rd1e1663">Richard, dist. 23, art. 4, q. 3</ref>,
             <pb ed="#P" n="43"/>
             <cb ed="#P" n="a"/>
-            <lb ed="#P" n="1"/>
-            <!-- line coord error -->
-            <lb ed="#P" n="2"/>et <ref xml:id="szthvi-a07691-Rd1e1676">dist. 24, art. 1, q. 5</ref>, et alii Scholastici,
-            <lb ed="#P" n="3"/>tam ibi quam in Prologo; et recentiores 
-            com<lb break="no" ed="#P" n="4"/>muniter hic, et in principio primae partis; et
-            <lb ed="#P" n="5"/><ref xml:id="szthvi-a07691-Rd1e1683">Bellarminus, l. 4 de Justif., q. 1</ref>; <ref xml:id="szthvi-a07691-Rd1e1686">Conradus, 1.
-            <lb ed="#P" n="6"/>2. q. 3, art. 6, § Nota profundam</ref>; <ref xml:id="szthvi-a07691-Rd1e1691">Sylvester,
-            <lb ed="#P" n="7"/>q. 1 conflati, art. 10 ad 2</ref>, et <ref xml:id="szthvi-a07691-Rd1e1696">art. 12, § 1</ref>; 
-            <ref xml:id="szthvi-a07691-Rd1e1698">His<lb break="no" ed="#P" n="8"/>palens., 3, dist. 23, q. 2, art. 3, notab. 3</ref>;
-            <lb ed="#P" n="9"/><ref xml:id="szthvi-a07691-Rd1e1704">Vega, l. 9 in Trident., c. 47</ref>. Et videtur mihi
-            <lb ed="#P" n="10"/>non minus colligi ex Scriptura et Patribus 
-            re<lb break="no" ed="#P" n="11"/>solutionem hanc, quam secundam 
-            assertio<lb break="no" ed="#P" n="12"/>nem sectionis praecedentis, quia aequaliter et
-            <lb ed="#P" n="13"/>eodem fere modo docent Deum, et 
-            testimo<lb break="no" ed="#P" n="14"/>nium Dei, seu verbum Dei esse fundamentum
-            <lb ed="#P" n="15"/>primarium nostrae fidei, juxta illud: <quote xml:id="szthvi-a07691-Qd1e1720" source="http://scta.info/resource/Iio5_10@1-10">Qui 
-            cre<lb break="no" ed="#P" n="16"/>dit in Filium Dei, habet testimonium Dei in
-            <lb ed="#P" n="17"/>se</quote>; et illud: <quote xml:id="szthvi-a07691-Qd1e1727" source="http://scta.info/resource/Ith2_13@17-27">Accepistis illud, non ut verbum
-            <lb ed="#P" n="18"/>hominum, sed ut est vere verbum Dei</quote>; et ideo
-            <lb ed="#P" n="19"/>Christus Dominus de se dicit, <ref xml:id="szthvi-a07691-Rd1e1447" corresp="#szthvi-a07691-Qd1e1449">Joan. 18</ref>: <quote xml:id="szthvi-a07691-Qd1e1449" source="http://scta.info/resource/io18_37@23-31">Ad
-            <lb ed="#P" n="20"/>hoc veni in mundum, ut testimonium perhibeam
-            <lb ed="#P" n="21"/>veritati</quote>; et alibi, <ref xml:id="szthvi-a07691-Rd1e1456" corresp="#szthvi-a07691-Qd1e1458">Joan. 15</ref>: <quote xml:id="szthvi-a07691-Qd1e1458" source="http://scta.info/resource/io15_22@1-18">Si non venissem,
-            <lb ed="#P" n="22"/>et locutus eis fuissem, peccatum non haberent,
-            <lb ed="#P" n="23"/>nunc autem excusationem non habent de 
-            pec<lb break="no" ed="#P" n="24"/>cato suo</quote>; et similia sunt multa, quae supra 
-            re<lb break="no" ed="#P" n="25"/>tuli, ex quibus plane constat Deum non ut in
-            <lb ed="#P" n="26"/>se manentem (ut sic dicam), seu hoc ipso quod
-            <lb ed="#P" n="27"/>Deus est, sed ut testificantem et dicentem, esse
-            <lb ed="#P" n="28"/>objectum tormale fidei. Ratio etiam hoc 
-            con<lb break="no" ed="#P" n="29"/>vincit, quia Deus non movet ad credendum
-            <lb ed="#P" n="30"/>nisi mediante testimonio suo; quomodo enim
-            <lb ed="#P" n="31"/>ei crederemus, nisi nobis loqueretur? Ergo
-            <lb ed="#P" n="32"/>non est objectum formale fidei, nisi ut 
-            testi<lb break="no" ed="#P" n="33"/>ficans et revelans.
+            and <ref xml:id="szthvi-a07691-Rd1e1676">dist. 24, art. 1, q. 5</ref>;
+            and other Scholastics, both there and in the Prologue;
+            and the more recent theologians commonly, both here and at the beginning of Part I;
+            and <ref xml:id="szthvi-a07691-Rd1e1683">Bellarmine, Book 4 On Justification, q. 1</ref>;
+            <ref xml:id="szthvi-a07691-Rd1e1686">Conrad, I.2. q. 3, art. 6, § Nota profundam</ref>;
+            <ref xml:id="szthvi-a07691-Rd1e1691">Sylvester, q. 1 conflati, art. 10 ad 2</ref>,
+            and <ref xml:id="szthvi-a07691-Rd1e1696">art. 12, § 1</ref>;
+            <ref xml:id="szthvi-a07691-Rd1e1698">Hispalensis, Book 3, dist. 23, q. 2, art. 3, notab. 3</ref>;
+            <ref xml:id="szthvi-a07691-Rd1e1704">Vega, Book 9 on the Council of Trent, ch. 47</ref>.
+            And it seems to me that this resolution is no less gathered from Scripture and the Fathers
+            than the second assertion of the preceding section,
+            because they equally and in much the same way teach
+            that God, and the testimony of God, or the word of God,
+            is the primary foundation of our faith —
+            according to that text: <quote xml:id="szthvi-a07691-Qd1e1720">Whoever believes in the Son of God
+            has the testimony of God in himself</quote>;
+            and that other: <quote xml:id="szthvi-a07691-Qd1e1727">You received it not as the word of men,
+            but as it truly is, the word of God</quote>;
+            and therefore Christ the Lord says of himself, <ref xml:id="szthvi-a07691-Rd1e1447">John 18</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e1449">For this I came into the world,
+            to bear witness to the truth</quote>;
+            and elsewhere, <ref xml:id="szthvi-a07691-Rd1e1456">John 15</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e1458">If I had not come and spoken to them,
+            they would have no sin;
+            but now they have no excuse for their sin</quote>;
+            and there are many similar passages, cited above,
+            from which it is plain that God is the formal object of faith —
+            not as he remains in himself (so to speak),
+            or simply by virtue of being God,
+            but as testifying and speaking.
+            Reason also confirms this:
+            for God moves to belief only through his testimony;
+            for how could we believe him unless he spoke to us?
+            Therefore he is the formal object of faith only insofar as he testifies and reveals.
           </p>
           <p xml:id="szthvi-a07691-d1e1388">
-            <lb ed="#P" n="34"/>4. Objectio contra proximam rationem 
-            sol<lb break="no" ed="#P" n="35"/>vitur. — Data solutio patet. — Dices inde
-            <lb ed="#P" n="36"/>solum probari revelationem esse 
-            conditio<lb break="no" ed="#P" n="37"/>nem necessariam ad credendum; nam cum
-            <lb ed="#P" n="38"/>sit quid creatum, non videtur posse 
-            perti<lb break="no" ed="#P" n="39"/>nere ad objectum formale fidei, quae est 
-            vir<lb break="no" ed="#P" n="40"/>tus Theologica, et in solo Deo fundari debet.
-            <lb ed="#P" n="41"/>Respondetur, licet species intelligibiles vel
-            <lb ed="#P" n="42"/>signa, per quae nobis proponitur, et 
-            manife<lb break="no" ed="#P" n="43"/>statur testimonium divinum, pertineant ad
-            <lb ed="#P" n="44"/>conditionem necessariam, et quasi 
-            applicatio<lb break="no" ed="#P" n="45"/>nem objecti fidei, ut postea videbimus, 
-            nihi<lb break="no" ed="#P" n="46"/>lominus testimonium Dei, ut nobis objective
-            <lb ed="#P" n="47"/>propositum (quod nomine revelationis semper
-            <lb ed="#P" n="48"/>hic intelligimus), non esse tantum 
-            conditio<lb break="no" ed="#P" n="49"/>nem necessariam, sed per se pertinere ad 
-            for<lb break="no" ed="#P" n="50"/>malitatem objecti: nam Deus ipse, seu veritas
-            <lb ed="#P" n="51"/>ejus, est quasi forma informans materiam
-            <lb ed="#P" n="52"/>fidei in esse credibilis; testificatio autem est
-            <lb ed="#P" n="53"/>quasi unio, seu informatio talis formae; unde,
-            <lb ed="#P" n="54"/>sicut unio forma ad materiam non est sola
-            <lb ed="#P" n="55"/>conditio, sed causalitas formalis, ita etiam in
-            <lb ed="#P" n="56"/>praessenti se habet, cum proportione, 
-            testifica<cb ed="#P" n="b"/><lb ed="#P" n="57" break="no"/>tio. Quod patet primo, quia Deus absolute
-            <lb ed="#P" n="58"/>consideratus non informat hanc materiam in
-            <lb ed="#P" n="59"/>esse credibilis; et prima, ac fortasse unica
-            <lb ed="#P" n="60"/>conjunctio, quam in ratione objecti habet ad
-            <lb ed="#P" n="61"/>illam materiam, est testimonium ejus; ergo
-            <lb ed="#P" n="62"/>illa est quasi unio et causalitas formalis.
-            <lb ed="#P" n="63"/>Deinde Deus secundum se potest multis modis
-            <lb ed="#P" n="64"/>revelare illas res, praesertim clare, vel 
-            obs<lb break="no" ed="#P" n="65"/>cure, et secundum hanc veritatem induit 
-            di<lb break="no" ed="#P" n="66"/>versas rationes objecti formalis; ergo signum
-            <lb ed="#P" n="67"/>est revelationem pertinere ad objectum 
-            for<lb break="no" ed="#P" n="68"/>male. Tertio, id quod est proprium motivum
-            <lb ed="#P" n="69"/>credendi, est objectum formale fidei, sicut
-            <lb ed="#P" n="70"/>esse solet, cum proportione, in scientia, et in
-            <lb ed="#P" n="71"/>quocumque habitu intellectuali; sed 
-            moti<lb break="no" ed="#P" n="72"/>vum credendi non est Deus utcumque, sed
-            <lb ed="#P" n="73"/>ut dicens et testificans; ergo ut sic etiam est
-            <lb ed="#P" n="74"/>objectum formale fidei. Denique ab hoc 
-            ob<lb break="no" ed="#P" n="75"/>jecto habet fides suam unitatem; nam, licet
-            <lb ed="#P" n="76"/>versetur circa res varias et distinctissimas,
-            <lb ed="#P" n="77"/>una est, quia idem testimonium Dei, seu 
-            re<lb break="no" ed="#P" n="78"/>velatio ejusdem rationis, in omnes illas cadit,
-            <lb ed="#P" n="79"/>ut notavit <ref xml:id="szthvi-a07691-Rd1e1888">D. Thomas supra</ref>, et in <ref xml:id="szthvi-a07691-Rd1e1890" target="http://scta.info/resource/ta-l3d23q1-Dd1e175">3, d. 23,
-            <lb ed="#P" n="80"/>quaest. 1, art. 1, quaestiunc. 1</ref>, et e contra per
-            <lb ed="#P" n="81"/>idem objectum distinguitur haec fides ab omni
-            <lb ed="#P" n="82"/>alio habitu intellectuali, et specialiter a fide
-            <lb ed="#P" n="83"/>humana, etiamsi circa eamdem materiam
-            <lb ed="#P" n="84"/>versari contingat; ergo signum est hoc 
-            perti<lb break="no" ed="#P" n="85"/>nere ad objectum formale, quod magis 
-            con<lb break="no" ed="#P" n="86"/>stabit ex solutionibus argumentorum.
+            4. An objection against the proximate argument is resolved. — The given solution is evident. —
+            You will say that from this it is proved only that revelation is a necessary condition for believing;
+            for since it is something created, it does not seem able to pertain to the formal object of faith,
+            which is a theological virtue and must be founded in God alone.
+            The reply is: although the intelligible species or signs
+            through which the divine testimony is proposed and made known to us
+            pertain to the necessary condition and, as it were, the application of the object of faith
+            (as we shall see later),
+            nonetheless the testimony of God, as objectively proposed to us
+            (which we always understand here by the name of revelation),
+            is not merely a necessary condition
+            but pertains per se to the formality of the object.
+            For God himself, or his truth, is as it were the form informing the matter of faith in its being believable;
+            and the act of testimony is as it were the union or information of such a form;
+            hence, just as the union of form to matter is not merely a condition but formal causality,
+            so too in the present case, with due proportion, testimony <cb ed="#P" n="b"/> operates similarly.
+            This is evident first, because God considered absolutely does not inform this matter in its being believable;
+            and the first — and perhaps only — conjunction that he has, in the role of the object, with that matter
+            is his testimony;
+            therefore that testimony is, as it were, the union and formal causality.
+            Second, God in himself can reveal those things in many ways,
+            especially clearly or obscurely,
+            and according to this variety he takes on diverse roles of formal object;
+            therefore it is a sign that revelation pertains to the formal object.
+            Third, what is the proper motive for believing is the formal object of faith,
+            as is customarily the case, with due proportion, in science and in any intellectual habit;
+            but the motive for believing is not God in any manner whatsoever,
+            but as speaking and testifying;
+            therefore as such he is also the formal object of faith.
+            Finally, from this object faith derives its unity;
+            for although it bears upon diverse and very distinct things,
+            it is one,
+            because the same testimony of God, or revelation of the same character, extends to all of them —
+            as <ref xml:id="szthvi-a07691-Rd1e1888">St. Thomas noted above</ref>,
+            and in <ref xml:id="szthvi-a07691-Rd1e1890">Book 3, dist. 23, q. 1, art. 1, quaestiuncula 1</ref> —
+            and conversely, through this same object this faith is distinguished from every other intellectual habit,
+            and especially from human faith,
+            even if they happen to bear upon the same subject matter;
+            therefore it is a sign that this pertains to the formal object,
+            which will be more evident from the solutions to the arguments.
           </p>
           <p xml:id="szthvi-a07691-d1e1508">
-            <lb ed="#P" n="87"/>5. Ad rationem dubitandi in n. 1, Cajetani
-            <lb ed="#P" n="88"/>responsio. — Non placet. — Cur scientia Dei
-            <lb ed="#P" n="89"/>perperam dicatur revelatio. — Responsio 
-            Ca<lb break="no" ed="#P" n="90"/>preoli qualis. — Ad primum, <ref xml:id="szthvi-a07691-Rd1e1950" target="http://scta.info/resource/TAcCaj-d1e1277-d1e1189">Cajetanus, hic,
-            <lb ed="#P" n="91"/>art. 2, ad 2 dub.</ref>, respondet negando quod in
-            <lb ed="#P" n="92"/>objecto fidei, esse revelatum, sit aliquid 
-            extrin<lb break="no" ed="#P" n="93"/>secum, vel relatio rationis; quia, licet esse
-            <lb ed="#P" n="94"/>revelatum (inquit) absolute sumptum possit
-            <lb ed="#P" n="95"/>esse denominatio extrinseca, tamen esse 
-            re<lb break="no" ed="#P" n="96"/>velatum a se in Deo est quid intrinsecum,
-            <lb ed="#P" n="97"/>scilicet, revelatio activa, seu actus revelandi,
-            <lb ed="#P" n="98"/>qui est ipsa substantia Dei. Sed non placet
-            <lb ed="#P" n="99"/>responsio. Primo, quia sub fidem non solum
-            <lb ed="#P" n="100"/>cadit Deus, sed multa alia a Deo, quae non
-            <lb ed="#P" n="101"/>revelant se, sed revelantur a Deo; ergo in
-            <lb ed="#P" n="102"/>illis, esse revelatum est mera denominatio 
-            ex<lb break="no" ed="#P" n="103"/>trinseca. Secundo, quamvis loquamur 
-            res<lb break="no" ed="#P" n="104"/>pectu ipsiusmet Dei, Deum esse revelatum a se,
-            <lb ed="#P" n="105"/>non potest addere Deo aliquid reale 
-            intrinse<lb break="no" ed="#P" n="106"/>cum; tum quia illud est liberum Deo, et 
-            quid<lb break="no" ed="#P" n="107"/>quid est liberum, ut tale est, solum addit Deo
-            <lb ed="#P" n="108"/>respectum rationis; tum etiam quia esse 
-            reve<lb break="no" ed="#P" n="109"/>latum:, est quid conveniens Deo ex tempore;
-            <lb ed="#P" n="110"/>at temporale praedicatum solum ponit in Deo
-            <lb ed="#P" n="111"/>relationem rationis, vel denominationem 
-            ex<pb ed="#P" n="44"/><cb ed="#P" n="a"/><lb ed="#P" n="1" break="no"/>trinsecam; tum denique quia revelatio activa
-            <lb ed="#P" n="2"/>non est substantia Dei, sed actio transiens;
-            <lb ed="#P" n="3"/>immerito enim dicunt aliqui, ipsam scientiam
-            <lb ed="#P" n="4"/>Dei internam, seu increatam, esse 
-            revelatio<lb break="no" ed="#P" n="5"/>nem; nam scientia Dei non innotescit nobis
-            <lb ed="#P" n="6"/>per seipsam, sed per aliquid aliud, scilicet,
-            <lb ed="#P" n="7"/>per locutionem: illa est ergo revelatio. 
-            Locu<lb break="no" ed="#P" n="8"/>tio autem Dei actio transiens est, ut ostendi
-            <lb ed="#P" n="9"/><ref xml:id="szthvi-a07691-Rd1e1990">l. 2 de Oration. mentali, cap. 12, num. 21</ref>.
-            <lb ed="#P" n="10"/>Confirmatur, quia alias possemus credere
-            <lb ed="#P" n="11"/>omnia quae scit Deus, quia omnia essent 
-            re<lb break="no" ed="#P" n="12"/>velata: addit ergo revelatio aliquid 
-            extrinse<lb break="no" ed="#P" n="13"/>cum Deo, vel aliquid rationis. Propter quod
-            <lb ed="#P" n="14"/><ref xml:id="szthvi-a07691-Rd1e2002">Capreolus supra</ref> respondet, quod licet formale
-            <lb ed="#P" n="15"/>objectum quod sit aliquid reale, ratio 
-            forma<lb break="no" ed="#P" n="16"/>lis potest esse ens rationis. Sed licet fortasse
-            <lb ed="#P" n="17"/>in re non multum discrepet a veritate, 
-            mo<lb break="no" ed="#P" n="18"/>dus tamen loquendi mihi non placet, quia ens
-            <lb ed="#P" n="19"/>rationis in rigore est quid fictum et 
-            acciden<lb break="no" ed="#P" n="20"/>tale, et non potest esse motivum et ratio 
-            as<lb break="no" ed="#P" n="21"/>sentiendi.
+            5. The reply to the first argument for doubt. — Cajetan's response. — It is not satisfactory. —
+            Why God's knowledge is wrongly called revelation. — What Capreolus's response amounts to. —
+            To the first argument, <ref xml:id="szthvi-a07691-Rd1e1950">Cajetan, here, art. 2, at the second dubitatio</ref>,
+            replies by denying that in the object of faith
+            "being revealed" is anything extrinsic or a relation of reason;
+            because, although "being revealed" taken absolutely (he says) can be an extrinsic denomination,
+            nonetheless "being revealed by itself" in God is something intrinsic —
+            namely, active revelation, or the act of revealing, which is the very substance of God.
+            But this response is not satisfactory.
+            First, because under faith falls not only God
+            but many other things from God, which do not reveal themselves but are revealed by God;
+            therefore in those things, "being revealed" is a mere extrinsic denomination.
+            Second, even speaking with respect to God himself,
+            "God being revealed by himself" cannot add anything really intrinsic to God:
+            both because that revelation is free to God,
+            and whatever is free, as such, adds to God only a relation of reason;
+            and also because "being revealed" is something that belongs to God in time;
+            but a temporal predicate posits in God only a relation of reason or an extrinsic
+            <pb ed="#P" n="44"/><cb ed="#P" n="a"/>
+            denomination;
+            and finally because active revelation is not the substance of God but a transient action.
+            For some wrongly say that God's internal or uncreated knowledge itself is revelation;
+            for God's knowledge does not become known to us through itself
+            but through something else, namely through locution:
+            therefore it is that locution which is revelation.
+            But God's locution is a transient action,
+            as I showed in <ref>Book 2, On Mental Prayer, ch. 12, n. 21</ref>.
+            This is confirmed: because otherwise we could believe all things that God knows,
+            since they would all be revealed.
+            Revelation therefore adds something extrinsic to God, or something of reason.
+            For this reason <ref>Capreolus above</ref> replies
+            that although the <mentioned>formal object quod</mentioned> is something real, the formal ratio can be a being of reason.
+            But although this perhaps does not differ much from the truth in the matter,
+            the manner of speaking does not please me,
+            because a being of reason in the strict sense is something fictitious and accidental,
+            and cannot be a motive and reason for assenting.
           </p>
           <p xml:id="szthvi-a07691-d1e1615">
-            <lb ed="#P" n="22"/>6. Vera solutio. — Dico ergo objectum 
-            for<lb break="no" ed="#P" n="23"/>male in se, quid reale esse, scilicet divinam
-            <lb ed="#P" n="24"/>veritatem suo testimonio applicatam, et ita
-            <lb ed="#P" n="25"/>posse esse rationem assentiendi rei testificatae,
-            <lb ed="#P" n="26"/>etiamsi in illa nihil ponat intrinsecum, sed
-            <lb ed="#P" n="27"/>solam extrinsecam denominationem, quae dici
-            <lb ed="#P" n="28"/>potest fundamentum relationis rationis. Neque
-            <lb ed="#P" n="29"/>hoc est novum, quia respectu actuum 
-            huma<lb break="no" ed="#P" n="30"/>norum et moralium, magnam virtutem 
-            ha<lb break="no" ed="#P" n="31"/>bent formae extrinsece denominantes ad 
-            mo<lb break="no" ed="#P" n="32"/>vendum intellectum, vel affectum; amo enim
-            <lb ed="#P" n="33"/>amantem me, quamvis esse amatum, in me
-            <lb ed="#P" n="34"/>sit denominatio extrinseca; et in fide humana
-            <lb ed="#P" n="35"/>credo aliquid, quia est dictum ab alio, etiamsi
-            <lb ed="#P" n="36"/>esse dictum sit denominatio extrinseca. Neque
-            <lb ed="#P" n="37"/>in praesenti obstabit quod revelatio sit quid
-            <lb ed="#P" n="38"/>creatum; nam veritas Dei est increata, et illa
-            <lb ed="#P" n="39"/>est, ut dixi, quasi principalis forma; revelatio
-            <lb ed="#P" n="40"/>autem est quasi informatio, quae totam suam
-            <lb ed="#P" n="41"/>excellentiam et infallibilitatem habet a forma
-            <lb ed="#P" n="42"/>increata, quod explicari facile potest exemplo
-            <lb ed="#P" n="43"/>beatitudinis objectivae, et formalis, respectu
-            <lb ed="#P" n="44"/>spei; nam satis est quod beatitudo objeectiva
-            <lb ed="#P" n="45"/>sit increata, licet formalis creata sit; sicut
-            <lb ed="#P" n="46"/>etiam in mysterio Incarnationis, licet unio sit
-            <lb ed="#P" n="47"/>quid creatum, quia Verbum increatum est,
-            <lb ed="#P" n="48"/>inde habet suam excellentiam et infinitatem.
+            6. The true solution. —
+            I say, therefore, that the formal object in itself is something real,
+            namely divine truth applied through its testimony,
+            and that it can thus be the reason for assenting to the thing testified —
+            even if it posits nothing intrinsic in that thing,
+            but only an extrinsic denomination,
+            which can be called the foundation of a relation of reason.
+            Nor is this novel,
+            because with respect to human and moral acts,
+            extrinsically denominating forms have great power to move the intellect or the will;
+            for I love one who loves me,
+            even though "being loved" in me is an extrinsic denomination;
+            and in human faith I believe something because it has been said by another,
+            even though "being said" is an extrinsic denomination.
+            Nor will it be an obstacle in the present case that revelation is something created;
+            for the truth of God is uncreated,
+            and that truth is, as I said, as it were the principal form;
+            revelation, however, is as it were the information,
+            which derives all its excellence and infallibility from the uncreated form —
+            as can easily be explained by the example of objective and formal beatitude with respect to hope;
+            for it suffices that objective beatitude be uncreated,
+            even if formal beatitude is created;
+            just as also in the mystery of the Incarnation,
+            although the union is something created,
+            it derives its excellence and infinity from the fact that the Word is uncreated.
           </p>
           <p xml:id="szthvi-a07691-d1e1676">
-            <lb ed="#P" n="49"/>7. Ad secundum in eodem n. 3, resp. 1. —
-            <lb ed="#P" n="50"/>Respondetur secundo notando dupliciter dici
-            <lb ed="#P" n="51"/>objectum scibile. — Item dupliciter credibile.
-            <lb ed="#P" n="52"/>— Ad secundum, imprimis negari non potest
-            <lb ed="#P" n="53"/>distinctio objecti in esse rei et in esse 
-            co<lb break="no" ed="#P" n="54"/>gnoscibilis, quam, praeter auctores citatos,
-            <lb ed="#P" n="55"/>docet expresse <ref xml:id="szthvi-a07691-Rd1e2050" target="http://scta.info/resource/TAca84-d1e951-d1e562@12-25">D. Thomas 1. 2, quaestione
+            7. Reply to the second argument (same §3), first response. —
+            Note that the knowable object is said in two ways. — Likewise the believable. —
+            To the second argument: first, the distinction of the object
+            in its being as a thing (<mentioned>esse rei</mentioned>)
+            and in its being as knowable (<mentioned>esse cognoscibilis</mentioned>)
+            cannot be denied —
+            which, besides the authors already cited,
+            <ref xml:id="szthvi-a07691-Rd1e2050">St. Thomas expressly teaches in I-II, q. 54, a. 2, ad 1</ref>
             <cb ed="#P" n="b"/>
-            <lb ed="#P" n="56"/>54, art. 2, ad 1</ref>, et patet, quia constat in 
-            in<lb break="no" ed="#P" n="57"/>tellectu aliud esse objectum quod 
-            cognosci<lb break="no" ed="#P" n="58"/>tur, seu cui intellectus praebet assensum, et
-            <lb ed="#P" n="59"/>aliud esse rationem assentiendi; et in 
-            volun<lb break="no" ed="#P" n="60"/>tate constat eamdem materiam posse amari,
-            <lb ed="#P" n="61"/>vel odio haberi ex diversis motivis, quae 
-            mi<lb break="no" ed="#P" n="62"/>rum in modum actus distinguunt, ut patet in
-            <lb ed="#P" n="63"/>detestatione eorumdem peccatorum propter
-            <lb ed="#P" n="64"/>Deum, vel propter timorem inferni, et 
-            poe<lb break="no" ed="#P" n="65"/>nas ejus. Ratio autem motiva constituit rem
-            <lb ed="#P" n="66"/>in ratione cognoscibilis, vel amablilis, et
-            <lb ed="#P" n="67"/>ita necessario distinguitur objectum in esse
-            <lb ed="#P" n="68"/>rei, ab objecto in esse cognoscibilis, et inde
-            <lb ed="#P" n="69"/>contingit ut quae sunt distincta in esse rei,
-            <lb ed="#P" n="70"/>sint unum in esse cognoscibilis; et e 
-            con<lb break="no" ed="#P" n="71"/>tra, ut quod est unum in esse rei, sit 
-            multi<lb break="no" ed="#P" n="72"/>plex in esse cognoscibilis, vel amabilis. 
-            Se<lb break="no" ed="#P" n="73"/>cundo dico argumentum fundari in sola 
-            aequi<lb break="no" ed="#P" n="74"/>vocatione vocis, et ideo nullius esse 
-            mo<lb break="no" ed="#P" n="75"/>menti. Dupliciter ergo potest denominari 
-            ob<lb break="no" ed="#P" n="76"/>jectum scibile: uno modo, tanquam 
-            correla<lb break="no" ed="#P" n="77"/>tivum scientiae, eo modo quo esse potest, et ita
-            <lb ed="#P" n="78"/>de illo locutus est <ref xml:id="szthvi-a07691-Rd1e2153">Aristot., in 5 Metaphys.</ref>,
-            <lb ed="#P" n="79"/>et de illo, ut sic, procedit argumentum; 
-            ta<lb break="no" ed="#P" n="80"/>men sub illa denominatione non ponitur 
-            ob<lb break="no" ed="#P" n="81"/>jectum formale scientiae, et hoc probat illa
-            <lb ed="#P" n="82"/>ratio, et dicetur latius in sectione sequenti.
-            <lb ed="#P" n="83"/>Alio vero modo dicitur in objectum scibile
-            <lb ed="#P" n="84"/>ratione objecti motivi, quatenus est veluti in
-            <lb ed="#P" n="85"/>aptitudine proxima, ut possit movere 
-            intelle<lb break="no" ed="#P" n="86"/>ctum ad scientiam, seu assensum, quod bene
-            <lb ed="#P" n="87"/>notavit <ref xml:id="szthvi-a07691-Rd1e2174">Alexander Alens., 1 p., q. 23, memb.
-            <lb ed="#P" n="88"/>4, art. 6, ad penult.</ref>, et in eodem sensu dixit
-            <lb ed="#P" n="89"/><ref xml:id="szthvi-a07691-Rd1e2055" target="http://scta.info/resource/TAca84-d1e113-d1e2313@78-96">D. Thomas, 1 p., q. 13, art. 7, ad 6</ref>, scibile
-            <lb ed="#P" n="90"/>secundum potentiam esse prius quam 
-            scien<lb break="no" ed="#P" n="91"/>tiam; hoc ergo modo sumitur scibile quando
-            <lb ed="#P" n="92"/>constituitur in ratione objecti formalis, et
-            <lb ed="#P" n="93"/>contra hoc nihil urget ratio facta. Idem ergo
-            <lb ed="#P" n="94"/>est cum proportione de credibili: nam uno
-            <lb ed="#P" n="95"/>modo sumitur, ut terminus denominatus ab
-            <lb ed="#P" n="96"/>ipsa credulitate, et ut sic non habet rationem
-            <lb ed="#P" n="97"/>objecti formalis; alio modo sumitur ut 
-            obje<lb break="no" ed="#P" n="98"/>ctum dignum fide, vel aptum ad movendum
-            <lb ed="#P" n="99"/>intellectum ad assensum, et sic dicitur esse
-            <lb ed="#P" n="100"/>objectum formale. Imo hoc ipsum credibile
-            <lb ed="#P" n="101"/>subdistingui potest, ut infra videbimus; nam
-            <lb ed="#P" n="102"/>dici potest etiam credibile ratione sufficientis
-            <lb ed="#P" n="103"/>propositionis, et hoc etiam modo non pertinet
-            <lb ed="#P" n="104"/>ab objectum formale, sed ad conditionem 
-            ne<lb break="no" ed="#P" n="105"/>cessariam fidei ad credendum: alio vero modo
-            <lb ed="#P" n="106"/>sumitur ut constitutum per proprium 
-            moti<lb break="no" ed="#P" n="107"/>vum et rationem credendi, et sic dicimus esse
-            <lb ed="#P" n="108"/>objectum formale. Denique hoc non negat
-            <lb ed="#P" n="109"/>idem <ref xml:id="szthvi-a07691-Rd1e2230">Vazquez, nam statim, cap. 4</ref>, fatetur
-            <lb ed="#P" n="110"/>testimonium divinum, quatenus est ratio cre-
+            — and it is evident:
+            because in the intellect the object which is known
+            (or to which the intellect gives assent) is clearly one thing,
+            and the reason for assenting is another;
+            and in the will it is clear that the same matter can be loved or hated from diverse motives,
+            which distinguish acts in a remarkable way,
+            as is evident in the detestation of the same sins
+            out of love of God, or out of fear of hell and its punishments.
+            The motivating ratio constitutes the thing in the role of the knowable or the lovable,
+            and so the object in its being as a thing is necessarily distinguished
+            from the object in its being as knowable;
+            and hence it comes about that things which are distinct in their being as things
+            may be one in their being as knowable;
+            and conversely, what is one in its being as a thing
+            may be multiple in its being as knowable or lovable.
+            Second, I say the argument rests on a mere equivocation of the word,
+            and is therefore of no weight.
+            For the knowable object can be denominated in two ways:
+            in one way, as the correlative of science, in the manner in which it can exist as such —
+            and in this way <ref xml:id="szthvi-a07691-Rd1e2153">Aristotle spoke of it in Metaphysics 5</ref>,
+            and the argument proceeds from it taken in this way;
+            but under that denomination the formal object of science is not posited,
+            and this is what that argument proves,
+            as will be discussed more extensively in the following section.
+            In another way, the object is called knowable by reason of the motive object,
+            insofar as it is in a proximate aptitude to be able to move the intellect toward science or assent —
+            which <ref xml:id="szthvi-a07691-Rd1e2174">Alexander of Hales rightly noted, Part 1, q. 23, memb. 4, art. 6, ad penult.</ref>,
+            and in the same sense <ref xml:id="szthvi-a07691-Rd1e2055">St. Thomas said, Part 1, q. 13, art. 7, ad 6</ref>,
+            that the knowable according to potency is prior to science;
+            it is in this way that the knowable is taken
+            when it is constituted in the role of the formal object,
+            and against this the argument already made has no force.
+            The same holds, with due proportion, for the believable:
+            for in one way it is taken as a term denominated by belief itself —
+            and taken in this way it does not have the role of the formal object;
+            in another way it is taken as an object worthy of faith,
+            or apt to move the intellect to assent,
+            and in this way it is said to be the formal object.
+            Indeed, the believable itself can be further sub-distinguished, as we shall see below;
+            for it can also be called believable by reason of sufficient proposition,
+            and in this way also it does not pertain to the formal object
+            but to the necessary condition of faith for believing;
+            but in another way it is taken as constituted through the proper motive and reason for believing,
+            and in this way we say it is the formal object.
+            Finally, Vázquez himself does not deny this:
+            for immediately in <ref xml:id="szthvi-a07691-Rd1e2230">ch. 4</ref> he admits that divine testimony,
+            insofar as it is the reason for believing all revealed things,
+            is the formal object of faith;
+            yet I do not see why, or by what inference and doctrine,
+            he denied that that same revelation is the formal object of Theology —
             <pb ed="#P" n="45"/>
             <cb ed="#P" n="a"/>
-            <lb ed="#P" n="1"/>dendi omnia revelata, esse objectum formale
-            <lb ed="#P" n="2"/>fidei; non video tamen cur, vel qua 
-            consecu<lb break="no" ed="#P" n="3"/>tione et doctrina negaverit eamdem 
-            cevelatio<lb break="no" ed="#P" n="4"/>nem esse objectum formale Theologiae, cum
-            <lb ed="#P" n="5"/>proportione sumptam, scilicet mediate, et
-            <lb ed="#P" n="6"/>quatenus per discursum applicatur ad 
-            con<lb break="no" ed="#P" n="7"/>clusiones elicitas ex principiis fidei; unde
-            <lb ed="#P" n="8"/>etiam incidit in aliud inconveniens, dicens
-            <lb ed="#P" n="9"/>eamdem esse Theologiam in homine 
-            Catho<lb break="no" ed="#P" n="10"/>lico et haeretico, quoad conclusiones quas
-            <lb ed="#P" n="11"/>uterque eliciunt ex principiis quae credunt;
-            <lb ed="#P" n="12"/>nam sicut illi duo non habent eamdem fidem,
-            <lb ed="#P" n="13"/>neque plane habere possunt Theologiam 
-            ejus<lb break="no" ed="#P" n="14"/>dem rationis, cum Theologia nitatur 
-            princi<lb break="no" ed="#P" n="15"/>piis eo modo quo credita sunt, de quo latius,
-            <lb ed="#P" n="16"/><ref xml:id="szthvi-a07691-Rd1e2273">sect. 2.</ref>
+            taken with due proportion, namely mediately,
+            and insofar as it is applied through reasoning
+            to conclusions drawn from the principles of faith.
+            Hence he also falls into another inconsistency,
+            saying that Theology is the same in a Catholic and a heretic
+            with respect to the conclusions that each draws from the principles they believe;
+            for just as those two do not have the same faith,
+            neither can they have Theology of the same character,
+            since Theology relies on principles in the way they are believed —
+            on which more in <ref xml:id="szthvi-a07691-Rd1e2273">section 2</ref>.
           </p>
           <p xml:id="szthvi-a07691-d1e1854">
-            <lb ed="#P" n="17"/>8. Ad tertiam rationem dubitandi quoad
-            <lb ed="#P" n="18"/>primam similitudinem. — Quoad secundam.
-            <lb ed="#P" n="19"/>— Quoad tertiam. — Quae in tertio argumento
-            <lb ed="#P" n="20"/>proponebat <name xml:id="szthvi-a07691-Nd1e2288">Aureolus</name> parvi sunt momenti;
-            <lb ed="#P" n="21"/>nam imprimis nulla est comparatio quae fit de
-            <lb ed="#P" n="22"/>intellectu agente, vel potius de naturali lumine
-            <lb ed="#P" n="23"/>intellectus possibilis, ad revelationem, seu
-            <lb ed="#P" n="24"/>testimonium Dei; etenim lumen intellectus
-            <lb ed="#P" n="25"/>non est ratio objectiva, sed est principium
-            <lb ed="#P" n="26"/>efficiens cognitionem. Unde potius comparari
-            <lb ed="#P" n="27"/>posset cum habitu fidei, de quo dicemus 
-            se<lb break="no" ed="#P" n="28"/>ctione sequenti; et ideo illud lumen non dat
-            <lb ed="#P" n="29"/>speciem actui, sed est veluti causa aequivoca,
-            <lb ed="#P" n="30"/>quae potest facere effectus, seu actus specie
-            <lb ed="#P" n="31"/>distinctos, quatenus per diversa media praebet
-            <lb ed="#P" n="32"/>assensus; quae media solent esse objecta 
-            for<lb break="no" ed="#P" n="33"/>malia motiva, et ad hunc modum se habet
-            <lb ed="#P" n="34"/>in praesenti testimonium divinum. Secunda
-            <lb ed="#P" n="35"/>etiam comparatio de praeceptore non est ad
-            <lb ed="#P" n="36"/>rem, quia praeceptor non est ratio credendi
-            <lb ed="#P" n="37"/>quae docet, sed est proponens, applicans et 
-            ex<lb break="no" ed="#P" n="38"/>plicans rationem credendi, seu assentiendi;
-            <lb ed="#P" n="39"/>nam si discipuli aliqua credant ex solo 
-            testi<lb break="no" ed="#P" n="40"/>monio praeceptoris, in illis, seu respectu illius
-            <lb ed="#P" n="41"/>assensus, non solum se habet ut praeceptor,
-            <lb ed="#P" n="42"/>sed etiam ut testis, et ratio credendi; ita
-            <lb ed="#P" n="43"/>ergo se habet Deus in fide, non solum ut 
-            prae<lb break="no" ed="#P" n="44"/>ceptor, sed etiam ut testis cui credendum est,
-            <lb ed="#P" n="45"/>et hoc modo dicimus esse objectum formale.
-            <lb ed="#P" n="46"/>Tertia denique comparatio nullam habet 
-            si<lb break="no" ed="#P" n="47"/>militudinem: nam si Deus infundat scientias,
-            <lb ed="#P" n="48"/>non ideo est ratio assentiendi, nec testis 
-            eo<lb break="no" ed="#P" n="49"/>rum quae per tales scientias cognoscuntur,
-            <lb ed="#P" n="50"/>sed est tantum causa efficiens, vel 
-            extraordi<lb break="no" ed="#P" n="51"/>naria, et quasi ex accidente, si scientiae sint
-            <lb ed="#P" n="52"/>ex suo genere acquisitae, et per accidens 
-            in<lb break="no" ed="#P" n="53"/>fusae; vel est causa connaturalis, si scientiae
-            <lb ed="#P" n="54"/>sint per se infusae, et ideo non sequitur illas
-            <lb ed="#P" n="55"/>scientias esse unam, quia effectus non habent
+            8. Reply to the third argument for doubt: regarding the first analogy. —
+            Regarding the second. — Regarding the third. —
+            What <name xml:id="szthvi-a07691-Nd1e2288">Aureolus</name> proposed in the third argument is of little weight.
+            For first of all, the comparison drawn from the agent intellect —
+            or rather from the natural light of the possible intellect — to revelation or the testimony of God
+            has no force;
+            for the light of the intellect is not an objective ratio
+            but an efficient principle of cognition.
+            Hence it could better be compared to the habit of faith,
+            of which we shall speak in the following section;
+            and therefore that light does not give species to the act,
+            but is as it were an equivocal cause,
+            which can produce effects or acts distinct in species
+            insofar as it furnishes assents through diverse means —
+            which means are customarily the formal motive objects,
+            and in this way divine testimony functions in the present case.
+            The second analogy, regarding the teacher, is also not to the point,
+            because the teacher is not the reason for believing what he teaches,
+            but rather one who proposes, applies, and explains the reason for believing or assenting;
+            for if students believe certain things solely on the testimony of the teacher,
+            in those cases, with respect to that assent,
+            he functions not merely as teacher but also as witness and reason for believing;
+            and thus God functions in faith —
+            not only as teacher, but also as witness to be believed,
+            and in this way we say he is the formal object.
+            The third analogy finally has no resemblance at all:
+            for if God infuses knowledge, he is not thereby the reason for assenting,
+            nor the witness of the things known through those sciences,
+            but is only an efficient cause —
+            either extraordinary, and quasi-accidental,
+            if the sciences are by nature acquired but infused per accidens;
+            or a connatural cause, if the sciences are infused per se —
+            and therefore it does not follow that those sciences are one,
+            because effects do not derive their unity from a cause,
+            especially an eminent and equivocal one.
             <cb ed="#P" n="b"/>
-            <lb ed="#P" n="56"/>unitatem a causa, praesertim eminenti et
-            <lb ed="#P" n="57"/>aequivoca. In fide autem Deus est ratio 
-            cre<lb break="no" ed="#P" n="58"/>dendi, quia est testis veritatum quas revelat;
-            <lb ed="#P" n="59"/>nulla ergo est comparatio. Alia vero 
-            difficul<lb break="no" ed="#P" n="60"/>tas, quam in praesenti tangit Scotus, de 
-            pro<lb break="no" ed="#P" n="61"/>cessu in infinitum, qui sequi videtur ex hoc
-            <lb ed="#P" n="62"/>modo explicandi objectum formale fidei, 
-            <ref xml:id="szthvi-a07691-Rd1e2384">in<lb break="no" ed="#P" n="63"/>fra, sectione 12, a n. 8</ref>, tractabitur.
+            In faith, however, God is the reason for believing
+            because he is the witness of the truths he reveals;
+            there is therefore no comparison.
+            The other difficulty, which Scotus raises here — concerning the infinite regress
+            that seems to follow from this way of explaining the formal object of faith —
+            will be treated <ref xml:id="szthvi-a07691-Rd1e2384">below, in section 12, from n. 8</ref>.
           </p>
         </div>
         <div xml:id="szthvi-a07691-Dd1e1962">
           <head xml:id="szthvi-a07691-Hd1e1964">Sectio 3</head>
-          <head xml:id="szthvi-a07691-Hd1e1966" type="question-title">Utrum Deus sit objectum formale fidei tantum ut revelans, vel etiam ut auxilians, seu lumen fidei infundens</head>
+          <head xml:id="szthvi-a07691-Hd1e1966" type="question-title">Whether God is the formal object of faith only insofar as he reveals, or also insofar as he assists, that is, infuses the light of faith</head>
           <p xml:id="szthvi-a07691-d1e1969">
-            <lb ed="#P" n="64"/>SECTIO III.
-            <lb ed="#P" n="65"/>Utrum Deus sit objectum formale fidei tantum
-            <lb ed="#P" n="66"/>ut revelans, vel etiam ut auxilians, seu 
-            lu<lb break="no" ed="#P" n="67"/>men fidei infundens?
+            SECTION III.
+            Whether God is the formal object of faith only insofar as he reveals,
+            or also insofar as he assists, that is, infuses the light of faith?
           </p>
           <p xml:id="szthvi-a07691-d1e1980">
-            <lb ed="#P" n="68"/>1. Modus quidam dicendi es Scoto. — Non
-            <lb ed="#P" n="69"/>solet haec quaestio sub his terminis disputari;
-            <lb ed="#P" n="70"/>tamen ad eam tractandam, occasionem nobis
-            <lb ed="#P" n="71"/>praebuere varia dicta Doctorum: primum sit
-            <lb ed="#P" n="72"/><ref xml:id="szthvi-a07691-Rd1e1993">Scoti, in 3, dist. 23, art. 2</ref>, ubi, postquam
-            <lb ed="#P" n="73"/>proposuit aliqua argumenta contra modum
-            <lb ed="#P" n="74"/>explicandi objectum formale fidei per 
-            reve<lb break="no" ed="#P" n="75"/>lationem ei testimonium Dei, aliam adducit
-            <lb ed="#P" n="76"/>explicationem modi assentiendi fidei, 
-            nimi<lb break="no" ed="#P" n="77"/>rum, ut assentiatur intellectus, non ex motivo
-            <lb ed="#P" n="78"/>aliquo, sed per se tendendo in veritatem 
-            pro<lb break="no" ed="#P" n="79"/>positam, ac si esset per se nota, solum ex 
-            in<lb break="no" ed="#P" n="80"/>trinseca virtute, et inclinatione ad objectum
-            <lb ed="#P" n="81"/>apprehensum, ad eum modum quo habitus
-            <lb ed="#P" n="82"/>intellectus assentitur primis principiis; hac
-            <lb ed="#P" n="83"/>interveniente differentia, quod habitus 
-            prin<lb break="no" ed="#P" n="84"/>cipiorum connaturaliter assentitur, quia videt
-            <lb ed="#P" n="85"/>connexionem immediatam extremorum. 
-            Fi<lb break="no" ed="#P" n="86"/>des autem, quia illam non videt, operatur
-            <lb ed="#P" n="87"/>supra naturam intellectus. Ad quem dicendi
-            <lb ed="#P" n="88"/>modum suadendum, duo motiva pracipua
-            <lb ed="#P" n="89"/>intendit Scotus: unum est proxime 
-            insinua<lb break="no" ed="#P" n="90"/>tum, quia alias procederetur in infinitum in
-            <lb ed="#P" n="91"/>rationibus assentiendi per fidem; aliud est,
-            <lb ed="#P" n="92"/>quia alioqui nulla esset ratio sufficiens ad
-            <lb ed="#P" n="93"/>ponendam fidem infusam, ut necessariam ad
-            <lb ed="#P" n="94"/>credendum.
+            1. A certain mode of speaking from Scotus. —
+            This question is not usually disputed under these terms;
+            nonetheless, the occasion to treat it was provided by various sayings of the Doctors.
+            First, consider <ref xml:id="szthvi-a07691-Rd1e1993">Scotus, in Book 3, dist. 23, art. 2</ref>,
+            where, after having proposed certain arguments
+            against the mode of explaining the formal object of faith
+            through revelation and the testimony of God,
+            he brings forward another explanation of the mode of assenting in faith —
+            namely, that the intellect assents not from any motive,
+            but by tending per se toward the proposed truth as if it were per se known,
+            from intrinsic virtue and inclination alone toward the apprehended object,
+            in the manner in which the habit of the intellect assents to first principles;
+            with this intervening difference:
+            that the habit of principles assents connaturally,
+            because it sees the immediate connection of the extremes,
+            whereas faith, because it does not see that connection,
+            operates above the nature of the intellect.
+            To recommend this mode of speaking,
+            Scotus intends two principal motives:
+            one is the one just intimated —
+            that otherwise there would be an infinite regress in the reasons for assenting through faith;
+            the other is that otherwise there would be no sufficient reason
+            to posit infused faith as necessary for believing.
           </p>
           <p xml:id="szthvi-a07691-d1e2043">
-            <lb ed="#P" n="95"/>2. In eo tamen non persistit. — 
-            Verumta<lb break="no" ed="#P" n="96"/>men neque ipse Scotus in hoc dicendi modo
-            <lb ed="#P" n="97"/>persistit, nec videtur satis intelligibilis, ut ipse
-            <lb ed="#P" n="98"/>etiam statim objicit; quia sequeretur fidem
-            <lb ed="#P" n="99"/>non praebere assensum rationali et 
-            intellec<lb break="no" ed="#P" n="100"/>tuali modo, sed per modum naturalis agentis,
-            <lb ed="#P" n="101"/>quod nec dici nec cogitari potest; quomodo
-            <lb ed="#P" n="102"/>enim intellectus praebebit assensum nisi videat
-            <lb ed="#P" n="103"/>et cognoscat aliquod sufficiens motivum 
-            as<lb break="no" ed="#P" n="104"/>sentiendi? Item alias assensus fidei non esset
-            <lb ed="#P" n="105"/>liber, nec a voluntate pendens, quod dici
-            <lb ed="#P" n="106"/>nequit, ut <ref xml:id="szthvi-a07691-Rd1e2502">infra</ref> videbimus. Denique 
-            sequere<lb break="no" ed="#P" n="107"/>tur infantem baptizatum quasi necessario 
-            as<pb ed="#P" n="46"/><cb ed="#P" n="a"/><lb ed="#P" n="1" break="no"/>sentiri propositioni, seu veritati fidei sibi 
-            pro<lb break="no" ed="#P" n="2"/>positae, sine alia instructione vel motivo ex 
-            par<lb break="no" ed="#P" n="3"/>te objecti, ex sola inclinatione habitus, quem
-            <lb ed="#P" n="4"/>in Baptismo recepit, quod est manifeste 
-            fal<lb break="no" ed="#P" n="5"/>sum, et contra ipsam experientiam. Et ideo
-            <lb ed="#P" n="6"/>ipse <ref xml:id="szthvi-a07691-Rd1e2521">Scotus, q. 1 Prolog.</ref>, et in <ref xml:id="szthvi-a07691-Rd1e2523">3, dist. 25</ref>, 
-            fate<lb break="no" ed="#P" n="7"/>tur non posse lumen fidei praebere assensum,
-            <lb ed="#P" n="8"/>nisi ex parte objecti praecedat propositio illius,
-            <lb ed="#P" n="9"/>cum suffhicienti instructione et revelatione
-            <lb ed="#P" n="10"/>objectiva.
+            2. Yet he does not persist in it. —
+            Nevertheless, Scotus himself does not persist in this mode of speaking,
+            nor does it seem sufficiently intelligible —
+            as he himself immediately objects —
+            because it would follow that faith does not furnish assent in a rational and intellectual manner
+            but after the manner of a natural agent,
+            which can neither be said nor conceived;
+            for how will the intellect furnish assent
+            unless it sees and recognizes some sufficient motive for assenting?
+            Likewise, on this account the assent of faith would not be free
+            nor dependent on the will — which cannot be said,
+            as we shall see <ref xml:id="szthvi-a07691-Rd1e2502">below</ref>.
+            Finally, it would follow that a baptized infant assents quasi-necessarily
+            to the proposition or truth of faith proposed to it,
+            <pb ed="#P" n="46"/><cb ed="#P" n="a"/>
+            without any other instruction or motive on the part of the object,
+            from the inclination of the habit alone received in Baptism —
+            which is manifestly false and contrary to experience itself.
+            And therefore <ref xml:id="szthvi-a07691-Rd1e2521">Scotus himself, in q. 1 of the Prologue</ref>,
+            and in <ref xml:id="szthvi-a07691-Rd1e2523">Book 3, dist. 25</ref>,
+            concedes that the light of faith cannot furnish assent
+            unless on the part of the object the proposition of that object precedes,
+            together with sufficient instruction and objective revelation.
           </p>
           <p xml:id="szthvi-a07691-d1e2101">
-            <lb ed="#P" n="11"/>3. Alius dicendi modus. — Ejus 
-            fundamen<lb break="no" ed="#P" n="12"/>tum. — Confirmatur. — Dicunt vero aliqui,
-            <lb ed="#P" n="13"/>non multum recedentes ab illo priori dicendi
-            <lb ed="#P" n="14"/>modo, totum hoc, quod praecedit ex parte 
-            ob<lb break="no" ed="#P" n="15"/>jecti, solum esse conditionem necessariam
-            <lb ed="#P" n="16"/>sine qua non posset fides assentiri, 
-            nihilomi<lb break="no" ed="#P" n="17"/>nus tamen rationem formalem et motivum per
-            <lb ed="#P" n="18"/>se assentiendi esse ipsummet lumen fidei, ac
-            <lb ed="#P" n="19"/>subinde objectum ipsum credibile constitui in
-            <lb ed="#P" n="20"/>ratione objecti formalis, quatenus est sub
-            <lb ed="#P" n="21"/>dicto lumine, et per illud illuminatur ac 
-            reve<lb break="no" ed="#P" n="22"/>latur. Unde fit ut Deus, quatenus infundens
-            <lb ed="#P" n="23"/>hoc lumen, sit objectum formale fidei, et
-            <lb ed="#P" n="24"/>consequenter etiam sequitur Deum, ut 
-            auxi<lb break="no" ed="#P" n="25"/>liantem ad credendum, esse objectum 
-            for<lb break="no" ed="#P" n="26"/>male fidei, quia infundendo hoc lumen, 
-            auxi<lb break="no" ed="#P" n="27"/>liatur. Atque ita videtur sentire <ref xml:id="szthvi-a07691-Rd1e2578">Aragon. 2. 2,
-            <lb ed="#P" n="28"/>q. 1, art. 1</ref>, quatenus dicit ipsummet lumen
-            <lb ed="#P" n="29"/>fidei esse motivum et rationem credendi;
-            <lb ed="#P" n="30"/>idem sentit <ref xml:id="szthvi-a07691-Rd1e2587">Bannez ibi, dub. 1, concl. 6</ref>, et <ref xml:id="szthvi-a07691-Rd1e2589">ad
-            <lb ed="#P" n="31"/>3</ref>, ubi ait revelationem solum esse 
-            illumina<lb break="no" ed="#P" n="32"/>tionem veritatis, veritates autem fidei non
-            <lb ed="#P" n="33"/>illuminari nisi per habitum fidei, et ideo 
-            illu<lb break="no" ed="#P" n="34"/>minationem seu revelationem, quae est 
-            forma<lb break="no" ed="#P" n="35"/>lis ratio fidei, non esse a Deo nisi effective, a
-            <lb ed="#P" n="36"/>lumine autem fidei formaliter; quod etiam 
-            pla<lb break="no" ed="#P" n="37"/>ne sentit <ref xml:id="szthvi-a07691-Rd1e2060" target="http://scta.info/resource/Z4Yt34-d1e1112"><!-- target imprecise; certainty low -->Cano, 1. 12 de Locis, cap. 3,
-            con<lb break="no" ed="#P" n="38"/>clus. 2 et 3</ref>. Fundamentum ergo est, quia
-            <lb ed="#P" n="39"/>formalis ratio credendi est revelatio; sed 
-            reve<lb break="no" ed="#P" n="40"/>latio non est nisi infusio luminis fidei, ut 
-            pro<lb break="no" ed="#P" n="41"/>batum est, referendo ipsam sententiam, et
-            <lb ed="#P" n="42"/>colligi potest ex illo <ref xml:id="szthvi-a07691-Rd1e2065" corresp="#szthvi-a07691-Qd1e2067">2 ad Cor. 3</ref>: <quote xml:id="szthvi-a07691-Qd1e2067" source="http://scta.info/resource/IIcor3_18@1-8">Nos autem
-            <lb ed="#P" n="43"/>revelata facie glorium Domina speculantes</quote>;
-            <lb ed="#P" n="44"/>scilicet, per fidem, ut ibi communiter 
-            expo<lb break="no" ed="#P" n="45"/>nitur. Et confirmatur, quia objectum formale
-            <lb ed="#P" n="46"/>intellectus semper est res cognoscenda, ut 
-            exi<lb break="no" ed="#P" n="47"/>stens sub aliquo lumine, quia, ut diximus,
-            <lb ed="#P" n="48"/>constituitur objectum formale in ratione 
-            co<lb break="no" ed="#P" n="49"/>gnoscibilis; per lumen autem fit 
-            cognoscibi<lb break="no" ed="#P" n="50"/>lis, quia omne quod manifestatur, lumen est;
-            <lb ed="#P" n="51"/>ergo etiam objectum fidei formale 
-            constitui<lb break="no" ed="#P" n="52"/>tur per aliquod lumen fidei, quia nullum aliud
-            <lb ed="#P" n="53"/>supernaturale lumen est in credentibus, 
-            ob<lb break="no" ed="#P" n="54"/>jectum autem formale fidei supernaturale 
-            es<lb break="no" ed="#P" n="55"/>se debet.
+            3. Another mode of speaking. — Its foundation. — It is confirmed. —
+            Some say, not departing far from the prior mode,
+            that everything on the part of the object that precedes
+            is only a necessary condition without which faith could not assent,
+            but that nonetheless the formal ratio and per se motive for assenting
+            is the light of faith itself,
+            and consequently that the believable object itself is constituted
+            in the role of the formal object insofar as it is under that light
+            and is illuminated and revealed by it.
+            Hence it follows that God, insofar as he infuses this light,
+            is the formal object of faith,
+            and consequently that God, insofar as he assists toward believing,
+            is the formal object of faith, since by infusing this light he assists.
+            And this seems to be the view of <ref xml:id="szthvi-a07691-Rd1e2578">Aragón, II-II, q. 1, art. 1</ref>,
+            insofar as he says that the light of faith itself is the motive and reason for believing;
+            the same is held by <ref xml:id="szthvi-a07691-Rd1e2587">Báñez, there, dub. 1, concl. 6</ref>,
+            and <ref xml:id="szthvi-a07691-Rd1e2589">ad 3</ref>,
+            where he says that revelation is only the illumination of truth,
+            and that the truths of faith are not illuminated except through the habit of faith,
+            and therefore that illumination or revelation — which is the formal ratio of faith —
+            is not from God except effectively, but from the light of faith formally;
+            which <ref xml:id="szthvi-a07691-Rd1e2060">Cano also plainly holds, De Locis, Book 12, ch. 3, concl. 2 and 3</ref>.
+            The foundation, then, is this: the formal ratio for believing is revelation;
+            but revelation is nothing other than the infusion of the light of faith —
+            as has been shown by reporting the position itself —
+            and can be gathered from that text of <ref xml:id="szthvi-a07691-Rd1e2065">2 Cor. 3</ref>:
+            <quote xml:id="szthvi-a07691-Qd1e2067">But we, with unveiled face, beholding the glory of the Lord</quote> —
+            that is, through faith, as it is commonly explained there.
+            And this is confirmed: because the formal object of the intellect
+            is always the thing to be known as existing under some light,
+            since, as we said, the formal object is constituted in the role of the knowable,
+            and it is made knowable through light, since everything that is manifested is light;
+            therefore the formal object of faith is also constituted through some light of faith,
+            because there is no other supernatural light in believers,
+            and the formal object of faith must be supernatural.
           </p>
           <p xml:id="szthvi-a07691-d1e2201">
             <cb ed="#P" n="b"/>
-            <lb ed="#P" n="56"/>4. Praecedenti modo accedit Molina. — Ratio
-            <lb ed="#P" n="57"/>praecipua Molinee. — Ejus confirmatio. — 
-            Confir<lb break="no" ed="#P" n="58"/>matio secunda ea quadruplici exemplo. — Ad
-            <lb ed="#P" n="59"/>hanc sententiam ex parte accessit <ref xml:id="szthvi-a07691-Rd1e2671">Molina, 1
-            <lb ed="#P" n="60"/>p., q.1, art. 3, disp. 2</ref>, licet alio modo, et ex
-            <lb ed="#P" n="61"/>distincto fundamento; fatetur enim 
-            testimo<lb break="no" ed="#P" n="62"/>nium Dei pertinere ad rationem formalem
-            <lb ed="#P" n="63"/>objecti fidei, non tamen esse integram 
-            ratio<lb break="no" ed="#P" n="64"/>nem, sed quasi inchoatam, et consummari
-            <lb ed="#P" n="65"/>per habitudinem ad ipsummet lumen seu 
-            au<lb break="no" ed="#P" n="66"/>xilium fidei, ita ut integra ratio formalis sit
-            <lb ed="#P" n="67"/>revelatio Dei, ut credibilis per lumen infusum;
-            <lb ed="#P" n="68"/>in cujus favorem citari potest <ref xml:id="szthvi-a07691-Rd1e2207" target="http://scta.info/resource/alalal-e85021">Albertus
-            Ma<lb break="no" ed="#P" n="69"/>gnus, in 2, dist. 24, art. 1</ref>, dum dicit fidem
-            <lb ed="#P" n="70"/>esse de his, quae supra rationem sunt,
-            quate<lb break="no" ed="#P" n="71"/>nus probatur per revelationem Dei et lumen
-            <lb ed="#P" n="72"/>fidei, quod etiam habet <ref xml:id="szthvi-a07691-Rd1e2208" target="http://scta.info/resource/alalal-e85021">art. 1, ad 5</ref>. 
-            Funda<lb break="no" ed="#P" n="73"/>mentum praecipuum Molinae fuit, quia 
-            testimo<lb break="no" ed="#P" n="74"/>nium seu revelatio Dei est motivum de se 
-            in<lb break="no" ed="#P" n="75"/>differens ad fidem infusam et acquisitam
-            <lb ed="#P" n="76"/>earumdem propositionum; ergo non potest
-            <lb ed="#P" n="77"/>esse integrum objectum formale fidei 
-            infu<lb break="no" ed="#P" n="78"/>sae. Probatur consequentia, quia integrum
-            <lb ed="#P" n="79"/>objectum formale dat speciem ultimam, et
-            <lb ed="#P" n="80"/>habet quamdam adaequationem cum illa, et
-            <lb ed="#P" n="81"/>cum ea convertitur. Antecedens vero 
-            pro<lb break="no" ed="#P" n="82"/>batur, quia etiam haereticus qui retinet
-            <lb ed="#P" n="83"/>aliquas propositiones fidei, illas credit,
-            <lb ed="#P" n="84"/>quia Deus illas revelavit, et tamen non 
-            cre<lb break="no" ed="#P" n="85"/>dit fide infusa, sed acquisita, ut est constans
-            <lb ed="#P" n="86"/>apud omnes. Unde sumitur confirmatio: nam
-            <lb ed="#P" n="87"/>objectum formale, si sit specificum, 
-            determi<lb break="no" ed="#P" n="88"/>nat sufficienter potentiam ad specificum 
-            ac<lb break="no" ed="#P" n="89"/>tum; objectum autem, ut revelatum a Deo
-            <lb ed="#P" n="90"/>praecise sumptum, non determinat intellectum
-            <lb ed="#P" n="91"/>ad actum fidei infusae, nisi accedat lumen
-            <lb ed="#P" n="92"/>fidei, vel auxilium; ergo signum est non esse
-            <lb ed="#P" n="93"/>illud completum objectum fidei infusae. 
-            Tan<lb break="no" ed="#P" n="94"/>dem confirmatur, quia nec repugnat, neque
-            <lb ed="#P" n="95"/>est novum, ut idem lumen, quod ex parte 
-            in<lb break="no" ed="#P" n="96"/>tellectus est principium intelligendi, ex parte
-            <lb ed="#P" n="97"/>objecti compleat rationem formalem 
-            ob<lb break="no" ed="#P" n="98"/>jecti, illuminando, scilicet, ipsum objectum;
-            <lb ed="#P" n="99"/>sic enim lumen gloria et est principium 
-            vi<lb break="no" ed="#P" n="100"/>sionis, et complet in Deo rationem formalem
-            <lb ed="#P" n="101"/>objecti illius visionis; nam Deus, quatenus
-            <lb ed="#P" n="102"/>illuminabilis illo lumine, seu quatenus 
-            medi<lb break="no" ed="#P" n="103"/>ante illo potest uniri intellectui in ratione
-            <lb ed="#P" n="104"/>speciei, est objectum formale illius visionis,
-            <lb ed="#P" n="105"/>quia nullum aliud formale objectum ibi 
-            exco<lb break="no" ed="#P" n="106"/>gitari potest; nam Deus secundum se tantum
-            <lb ed="#P" n="107"/>est materiale objectum. Simile est de naturali
-            <lb ed="#P" n="108"/>lumine intellectus, quod est principium 
-            assen<lb break="no" ed="#P" n="109"/>tiendi propositionibus per se notis, et 
-            nihilo<lb break="no" ed="#P" n="110"/>minus propositio per se nota non est 
-            objec<pb ed="#P" n="47"/><cb ed="#P" n="a"/><lb ed="#P" n="1" break="no"/>tum formale talis assensus, nisi quatenus est
-            <lb ed="#P" n="2"/>vel esse potest sub illo lumine, reliquum
-            <lb ed="#P" n="3"/>enim materiale est. Sic etiam medium 
-            de<lb break="no" ed="#P" n="4"/>monstrationis, secundum Philosophum, est
-            <lb ed="#P" n="5"/>principium efficiens assensum conclusionis,
-            <lb ed="#P" n="6"/>et nihilominus est ratio formalis objecti 
-            ejus<lb break="no" ed="#P" n="7"/>dem assensus, quia est motivum assentiendi,
-            <lb ed="#P" n="8"/>ut hic dixit <ref xml:id="szthvi-a07691-Rd1e2810">D. Thomas, art. 1.</ref> Denique lumen
-            <lb ed="#P" n="9"/>visibile juvat effective potentiam visivam ad
-            <lb ed="#P" n="10"/>videndum, et nihilominus est objectum 
-            for<lb break="no" ed="#P" n="11"/>male respectu coloris in esse visibilis; ergo
-            <lb ed="#P" n="12"/>similiter lumen fidei, licet effective juvet 
-            poten<lb break="no" ed="#P" n="13"/>tiam ad credendum, potest simul complere
-            <lb ed="#P" n="14"/>objectum formale fidei in esse credibilis.
+            4. Molina approaches the previous position. — Molina's chief argument. —
+            Its confirmation. — A second confirmation through four examples. —
+            <ref xml:id="szthvi-a07691-Rd1e2671">Molina, ST I, q. 1, art. 3, disp. 2</ref>
+            approached this position in part, though in a different way and from a
+            distinct foundation. For he acknowledges that the testimony of God
+            pertains to the formal reason of the object of faith, yet not as the
+            complete reason — rather as something inchoate, to be consummated through
+            its relation to the light or aid of faith itself, so that the complete
+            formal reason is the revelation of God as believable through infused
+            light. In support of this,
+            <ref xml:id="szthvi-a07691-Rd1e2207">Albert the Great, in [Book] 2, dist. 24, art. 1</ref>
+            can be cited, where he says that faith is about those things that are
+            above reason, insofar as they are proven through the revelation of God
+            and the light of faith — which he also holds in
+            <ref xml:id="szthvi-a07691-Rd1e2208">art. 1, ad 5</ref>.
+            Molina's chief argument was that the testimony or revelation of God is a
+            motive that is of itself indifferent as between infused and acquired
+            faith in the same propositions; therefore it cannot be the complete
+            formal object of infused faith.
+            The consequence is proven because the complete formal object gives the
+            ultimate species of an act, is adequated to it, and is convertible with
+            it. The antecedent in turn is proven: even a heretic who retains some
+            propositions of faith believes them because God revealed them, and yet
+            does not believe with infused faith but with acquired faith — as is
+            universally agreed. From this a further confirmation is drawn: for the
+            formal object, if it is specific, sufficiently determines the power to
+            its specific act; but the object considered precisely as revealed by God
+            does not determine the intellect to the act of infused faith unless the
+            light or aid of faith is added; therefore this is a sign that it is not
+            the complete formal object of infused faith.
+            Finally, the position is confirmed because it is neither contradictory
+            nor unprecedented that the same light, which on the side of the intellect
+            is the principle of understanding, should on the side of the object
+            complete the formal reason of the object by illuminating the object
+            itself. For the light of glory is both the principle of vision and
+            completes in God the formal reason of the object of that vision; for God,
+            insofar as he can be illumined by that light — or insofar as through it
+            he can be united to the intellect in the role of a species — is the
+            formal object of that vision, since no other formal object can be
+            conceived there; for God taken in himself is only the material object.
+            The same holds for the natural light of the intellect, which is the
+            principle of assenting to self-evident propositions,
+            <pb ed="#P" n="47"/><cb ed="#P" n="a"/>
+            and yet the self-evident proposition is not the formal object of such
+            assent except insofar as it is or can be under that light; the remainder
+            is material. So too the middle term of a demonstration, according to the
+            Philosopher, is the efficient principle of assent to the conclusion, and
+            yet is the formal reason of the object of that same assent, because it
+            is the motive for assenting — as
+            <ref xml:id="szthvi-a07691-Rd1e2810">St. Thomas says here, art. 1</ref>.
+            Finally, visible light effectively aids the power of sight in seeing, and
+            yet is the formal object with respect to color in the mode of the
+            visible; therefore, similarly, the light of faith, even though it
+            effectively aids the power to believe, can at the same time complete
+            the formal object of faith in the mode of the believable.
           </p>
           <p xml:id="szthvi-a07691-d1e2360">
-            <lb ed="#P" n="15"/>5. Vera assertio partim affirmativa, partim
-            <lb ed="#P" n="16"/>negativa. — Notandum pro assertione probanda
-            <lb ed="#P" n="17"/>duo requiri ad credendum: unum ex parte 
-            ob<lb break="no" ed="#P" n="18"/>jecti, alterum ex parte potentiae. — 
-            Nihilomi<lb break="no" ed="#P" n="19"/>nus tota haec sententia quoad utramque ejus
-            <lb ed="#P" n="20"/>partem mihi valde displicet; censeo enim 
-            lu<lb break="no" ed="#P" n="21"/>men fidei, sive sumatur pro habitu, sive pro
-            <lb ed="#P" n="22"/>auxilio, non posse esse objectum formale 
-            fi<lb break="no" ed="#P" n="23"/>dei, nec complementum ejus, et consequenter
-            <lb ed="#P" n="24"/>Deum, ut auxiliantem intellectum ad 
-            creden<lb break="no" ed="#P" n="25"/>dum ex parte potentiae, non pertinere ad 
-            ob<lb break="no" ed="#P" n="26"/>jectum formale, sed tantum ad principalem
-            <lb ed="#P" n="27"/>causam efficientem fidei, ac proinde Deum,
-            <lb ed="#P" n="28"/>ut testificantem, seu revelantem res fidei, esse
-            <lb ed="#P" n="29"/>completum objectum formale illius. Ad 
-            pro<lb break="no" ed="#P" n="30"/>bandam hanc sententiam, ut tollatur 
-            quae<lb break="no" ed="#P" n="31"/>dam aequivocatio, quae in verbo <mentioned>luminis, 
-            illu<lb break="no" ed="#P" n="32"/>muinationis, et revelationis</mentioned> esse solet, suppono
-            <lb ed="#P" n="33"/>ad credendum duo esse necessaria: unum
-            <lb ed="#P" n="34"/>ex parte objecti, aliud ex parte poientiae; nam
-            <lb ed="#P" n="35"/>ex parte objecti necessario praecedere
-            <lb ed="#P" n="36"/>aliqua ostensio, seu propositio ejus su» divina
-            <lb ed="#P" n="37"/>auctoritate ; ex parte vero potentiae requiritur
-            <lb ed="#P" n="38"/>virtus effectiva actus, sive illa virtus sit 
-            habi<lb break="no" ed="#P" n="39"/>tus, sive auxilium; hoc secundum suppono
-            <lb ed="#P" n="40"/>tanquam certum ex materia de Guatia. 
-            Pri<lb break="no" ed="#P" n="41"/>mum vero non solum certum, sed evidens est,
-            <lb ed="#P" n="42"/>ex natura potentiae cognoscitivae, ut constare
-            <lb ed="#P" n="43"/>potest ex dictis, et amplius confirmabitur in
-            <lb ed="#P" n="44"/>sequentibus , et tradunt communiter 
-            Theo<lb break="no" ed="#P" n="45"/>logi, in Prol. Sententiar., et in d. 23, et 
-            spe<lb break="no" ed="#P" n="46"/>cialiter <ref xml:id="szthvi-a07691-Rd1e2390" target="http://scta.info/resource/alalal-e79789-d1e203@51-53">Albertus Magnus ibi, art. 8</ref>; et in hoc
-            <lb ed="#P" n="47"/>sensu dixit <ref xml:id="szthvi-a07691-Rd1e2906">Augustinus, l. de Praedest. Sanct.,
-            <lb ed="#P" n="48"/>c. 2</ref>: <quote xml:id="szthvi-a07691-Qd1e2912">Nemo credit aliquid, nisi prius cogitet
-            <lb ed="#P" n="49"/>esse credendum</quote>; imo hac ratione dixit Paulus,
-            <lb ed="#P" n="50"/><ref xml:id="szthvi-a07691-Rd1e2541" corresp="#szthvi-a07691-Qd1e2543">ad Rom. 10</ref>, <quote xml:id="szthvi-a07691-Qd1e2543" source="http://scta.info/resource/rom10_17@2-4">fidem esse ex auditu</quote>, quia per
-            <lb ed="#P" n="51"/>auditum formatur in mente conceptus, et 
-            ap<lb break="no" ed="#P" n="52"/>prehensio rerum credendarum. Unde etiam
-            <lb ed="#P" n="53"/>constat utrumque horum supernaturale esse,
-            <lb ed="#P" n="54"/>et specialiter a Deo; nam de virtute seu 
-            auxi<lb break="no" ed="#P" n="55"/>dlio requisito ex parte potentiae, id etiam late
-            <lb ed="#P" n="56"/>ostensum est in materia de <ref xml:id="szthvi-a07691-Rd1e2937">Grat., l. 2, cap.
-            <lb ed="#P" n="57"/>10</ref>, estque specialiter definitum contra 
-            Pela<lb break="no" ed="#P" n="58"/>gium ; de doctrina vero ipsa seu revelatione
-            <lb ed="#P" n="59"/>objecti fidei, etiam Pelagius id non negabat,
-            <lb ed="#P" n="60"/>ut constat ex <ref xml:id="szthvi-a07691-Rd1e2949">Augustino, lib. de Grat. Christi,
-            <lb ed="#P" n="61"/>cap. 7 et seq</ref>. Et patet, quia doctrina fidei 
-            ha<lb break="no" ed="#P" n="62"/>beri non poterat sine revelatione et 
-            testimo<lb break="no" ed="#P" n="63"/>nio Spiritus Sancti, et ideo dixit Petrus, 
-            <quote xml:id="szthvi-a07691-Qd1e2958" source="http://scta.info/resource/IIpetr1_21@1-17">Spi<lb break="no" ed="#P" n="64"/>ritu Sancto inspiratos locutos fuisse 
-            Prophe<lb break="no" ed="#P" n="65"/>tas</quote>; et Joan. dixit, eos, qui credunt, <quote xml:id="szthvi-a07691-Qd1e2966" source="http://scta.info/resource/Iio5_10@6-10">habere
-            <lb ed="#P" n="66"/>testimonuum Dei in se</quote>; et propter eamdem
-            <lb ed="#P" n="67"/>causam verbum fidei dicitur verbum Dei, quia
-            <lb ed="#P" n="68"/>Deus est principalis auctor doctrina fidei:
-            <lb ed="#P" n="69"/>propter quod dixit <ref xml:id="szthvi-a07691-Rd1e2460" corresp="#szthvi-a07691-Qd1e2462">Augustinus, l. 11 de Civ.,
-            <lb ed="#P" n="70"/>c. 25</ref>: <quote xml:id="szthvi-a07691-Qd1e2462" source="http://scta.info/resource/adcd-l11-d1e1631@366-382">Quia natura nostra ut esset, Deum habet
-            <lb ed="#P" n="71"/>auctorem, procul dubio, ut vera sapiamus,
-            ip<lb break="no" ed="#P" n="72"/>sum debemus habere Doctorem</quote>. Denique in hoc
-            <lb ed="#P" n="73"/>sensu docent omnes Theologi doctrinam 
-            sa<lb break="no" ed="#P" n="74"/>cram, divinam et supernaturalem, esse 
-            ne<lb break="no" ed="#P" n="75"/>cessariam ad salutem, ut patet ex <ref xml:id="szthvi-a07691-Rd1e2996">D. Thoma
-            <lb ed="#P" n="76"/>hic, et q. 1, prima parte</ref>, et aliis Theologis, in
-            <lb ed="#P" n="77"/>locis citatis.
+            5. The true assertion, partly affirmative, partly negative. — Note that
+            two things are required for belief: one on the side of the object, the
+            other on the side of the power. —
+            Nevertheless, the entire position just described displeases me greatly
+            in both its parts. For I hold that the light of faith — whether taken as
+            a habit or as an aid — cannot be the formal object of faith, nor its
+            complement; and consequently that God, as aiding the intellect to
+            believe on the side of the power, does not pertain to the formal object
+            but only to the principal efficient cause of faith; and accordingly that
+            God, as testifying or revealing the things of faith, is the complete
+            formal object of faith.
+            To prove this position, in order to remove an ambiguity that commonly
+            occurs in the words <mentioned>light, illumination, and revelation</mentioned>,
+            I presuppose that two things are necessary for belief: one on the side
+            of the object, the other on the side of the power. On the side of the
+            object there must necessarily precede some showing or proposition of it
+            under divine authority; on the side of the power, an effective power for
+            the act is required, whether that power be a habit or an aid. The second
+            I presuppose as certain from the treatise on Grace.
+            The first, however, is not only certain but evident from the nature of
+            the cognitive power, as can be gathered from what has been said and will
+            be further confirmed below — and it is the common teaching of theologians
+            in the Prologue to the Sentences and in dist. 23, and especially
+            <ref xml:id="szthvi-a07691-Rd1e2390">Albert the Great there, art. 8</ref>.
+            In this sense
+            <ref xml:id="szthvi-a07691-Rd1e2906">Augustine, De Praedestinatione Sanctorum, c. 2</ref>
+            said: <quote xml:id="szthvi-a07691-Qd1e2912">No one believes anything unless he first thinks
+            it worthy of belief</quote>. Indeed for this same reason Paul said,
+            <ref xml:id="szthvi-a07691-Rd1e2541">Rom. 10</ref>,
+            that <quote xml:id="szthvi-a07691-Qd1e2543">faith is from hearing</quote>,
+            because through hearing a concept and apprehension of the things to be
+            believed is formed in the mind. From this it is also clear that both of
+            these things are supernatural and from God in a special way. Regarding
+            the power required on the side of the faculty, this has been shown at
+            length in the treatise on
+            <ref xml:id="szthvi-a07691-Rd1e2937">Grace, Book 2, chapter 10</ref>,
+            and has been specially defined against Pelagius. As for the teaching
+            itself or the revelation of the object of faith, even Pelagius did not
+            deny this, as is clear from
+            <ref xml:id="szthvi-a07691-Rd1e2949">Augustine, De Gratia Christi, c. 7 and following</ref>.
+            And it is plain, because the teaching of faith could not be had without
+            the revelation and testimony of the Holy Spirit; and so Peter said that
+            <quote xml:id="szthvi-a07691-Qd1e2958">the Prophets spoke inspired by the Holy Spirit</quote>; 
+            and John said that those who believe
+            <quote xml:id="szthvi-a07691-Qd1e2966">have the testimony of God in themselves</quote>. 
+            And for the same reason the word of faith is called the
+            word of God, because God is the principal author of the teaching of
+            faith — for which reason
+            <ref xml:id="szthvi-a07691-Rd1e2460">Augustine, De Civitate Dei XI, c. 25</ref>
+            said: <quote xml:id="szthvi-a07691-Qd1e2462">Because our nature, in order to exist, has God as
+            its author, beyond doubt, in order that we may know true things, we
+            ought to have him as our Teacher</quote>. Finally, in this sense all
+            theologians teach that sacred, divine, and supernatural doctrine is
+            necessary for salvation, as is clear from
+            <ref xml:id="szthvi-a07691-Rd1e2996">St. Thomas here and in ST I, q. 1</ref>,
+            and from other theologians in the places cited.
           </p>
           <p xml:id="szthvi-a07691-d1e2499">
-            <lb ed="#P" n="78"/>6. Utrumque ex illis requisitis spectat ad 
-            di<lb break="no" ed="#P" n="79"/>vinamn illuminationem. — Differentia inter illa
-            <lb ed="#P" n="80"/>duo. — Ex quo ulterius sequitur utrumque
-            <lb ed="#P" n="81"/>horum pertinere ad divinam illuminationem,
-            <lb ed="#P" n="82"/>et consequenter in utroque intervenire 
-            ali<lb break="no" ed="#P" n="83"/>quod lumen divinum. Declaratur hoc ex divo
-            <lb ed="#P" n="84"/><ref xml:id="szthvi-a07691-Rd1e3020">Thoma, 1 p., quaest. 106, art. primo</ref>, ubi dicit
-            <lb ed="#P" n="85"/>spiritualem illuminationem interdum fieri ex
-            <lb ed="#P" n="86"/>parte objecti, iuterdum vero ex parte 
-            poten<lb break="no" ed="#P" n="87"/>tiae. Priori modo fit manifestando in objecto
-            <lb ed="#P" n="88"/>veritatem ejus, vel rationem assentiendi illi;
-            <lb ed="#P" n="89"/>sic enim praeceptor illuminat auditores, et
-            <lb ed="#P" n="90"/>Angelus superior illuminat inferiorem, 
-            quam<lb break="no" ed="#P" n="91"/>vis lumen es parte potentiae illi non infundat.
-            <lb ed="#P" n="92"/>Sic ergo Deus, revelans et testificans res fidei,
-            <lb ed="#P" n="93"/>merito dicitur illuminare illas, et sic dicitur
-            <lb ed="#P" n="94"/>illuminasse Prophetas, et Christus Dominus
-            <lb ed="#P" n="95"/>dicitur illuminasse mundum praedicatione sua,
-            <lb ed="#P" n="96"/>juxta illud : <quote xml:id="szthvi-a07691-Qd1e2550" source="http://scta.info/resource/io3_19@6-16">Lux venit in mundum, et
-            dileme<lb break="no" ed="#P" n="97"/>runt homines magis tenebras quam lucem</quote>.
-            Deni<lb ed="#P" n="98" break="no"/>que ait Paulus, <quote xml:id="szthvi-a07691-Qd1e2555" source="http://scta.info/resource/eph5_13@8-13">omne quod manifestatur,
-            lu<lb break="no" ed="#P" n="99"/>men esse</quote>, atque etiam manifestatio objecti est
-            <lb ed="#P" n="100"/>quaedam illuminatio. Deinde ipsa etiam
-            infu<lb break="no" ed="#P" n="101"/>sio fidei divinae illuminatio est ; nam fides est
-            <lb ed="#P" n="102"/>quoddam lumen, et ideo <ref xml:id="szthvi-a07691-Rd1e2560" corresp="#szthvi-a07691-Qd1e2562">Paulus, ad Hebr. 6</ref>,
-            <lb ed="#P" n="103"/>baptizatos vocat <quote xml:id="szthvi-a07691-Qd1e2562" source="http://scta.info/resource/hebr6_4@8-8">illuminatos</quote>, quia lumen 
-            fi<lb break="no" ed="#P" n="104"/>dei recipiunt, ut <ref xml:id="szthvi-a07691-Rd1e3078">ibi notat D. Thomas</ref>. Unde
-            <lb ed="#P" n="105"/><ref xml:id="szthvi-a07691-Rd1e3081">Augustinus, lib. 2 contra Epist. Parmeniani
-            <lb ed="#P" n="106"/>cap. 14</ref>: <quote xml:id="szthvi-a07691-Qd1e3086">Credimus (inquit) non hominibus,
-            <lb ed="#P" n="107"/>sed ipsi Deo, intrinsecus animam nostram 
-            fir<lb break="no" ed="#P" n="108"/>manti et illuminanti</quote>. Estque notanda 
-            differen<lb break="no" ed="#P" n="109"/>tia inter haec duo genera illuminationum:
-            <lb ed="#P" n="110"/>nam illa, quae est ex parte objecti, fit a Deo
+            6. Both of those requirements pertain to divine illumination. — The
+            difference between them. —
+            From this it further follows that both of these pertain to divine
+            illumination, and consequently that some divine light intervenes in
+            each of them. This is clarified from
+            <ref xml:id="szthvi-a07691-Rd1e3020">St. Thomas, ST I, q. 106, art. 1</ref>,
+            where he says that spiritual illumination sometimes occurs on the side
+            of the object and sometimes on the side of the power. In the former
+            way it occurs by manifesting in the object its truth or the reason for
+            assenting to it; for in this way a teacher illumines his hearers, and
+            a superior angel illumines an inferior, even without infusing light on
+            the side of the power. Thus God, in revealing and testifying to the
+            things of faith, is rightly said to illumine them; and in this sense
+            he is said to have illumined the Prophets, and Christ the Lord is said
+            to have illumined the world by his preaching, according to the text:
+            <quote xml:id="szthvi-a07691-Qd1e2550">Light came into the world, and men loved darkness more
+            than light</quote> (Jn 3:19). And Paul says that
+            <quote xml:id="szthvi-a07691-Qd1e2555">everything that is manifested is light</quote> (Eph 5:13),
+            so that even the manifestation of the object is a kind of illumination.
+            Moreover, the very infusion of faith is itself a divine illumination;
+            for faith is a kind of light, and for this reason
+            <ref xml:id="szthvi-a07691-Rd1e2560">Paul, at Heb. 6</ref>,
+            calls the baptized <quote xml:id="szthvi-a07691-Qd1e2562">illuminated</quote>,
+            because they receive the light of faith, as
+            <ref xml:id="szthvi-a07691-Rd1e3078">St. Thomas notes there</ref>.
+            Hence <ref xml:id="szthvi-a07691-Rd1e3081">Augustine, Against the Letter of Parmenianus,
+            Book 2, c. 14</ref>, says:
+            <quote xml:id="szthvi-a07691-Qd1e3086">We believe not men but God himself, who inwardly
+            strengthens and illumines our soul</quote>.
+            One must also note the difference between these two kinds of
+            illumination. The illumination on the side of the object is brought
+            about by God sometimes immediately — because a medium cannot always be
+            found, since one cannot proceed to infinity —
             <pb ed="#P" n="48"/>
             <cb ed="#P" n="a"/>
-            <lb ed="#P" n="1"/>intcerdum immediate, quia non potest semper
-            <lb ed="#P" n="2"/>invenire medium, cum non procedatur in 
-            in<lb break="no" ed="#P" n="3"/>finitum; regulariter vero fit a Deo 
-            medianti<lb break="no" ed="#P" n="4"/>bus angelis, ut sumitur ex <ref xml:id="szthvi-a07691-Rd1e3111">D. Thoma 2. 2,
-            <lb ed="#P" n="5"/>q. 172, art. 1</ref>, quia suaviter omnia disponit,
-            <lb ed="#P" n="6"/>et inferiora per superiora administrat; altera
-            <lb ed="#P" n="7"/>vero illuminatio, quae est ex parte intellectus,
-            <lb ed="#P" n="8"/>fit a Deo semper immediate, ut tradit <ref xml:id="szthvi-a07691-Rd1e3122">divus
-            <lb ed="#P" n="9"/>Thomas, 2. 2, quaest. 6, art. 1</ref>, quia infusio 
-            lu<lb break="no" ed="#P" n="10"/>minis supernaturalis est actio propria Dei, ut
-            <lb ed="#P" n="11"/>in materia de Gratia dictum est, <ref xml:id="szthvi-a07691-Rd1e3132">lib. 8, cap. 3</ref>.
+            but regularly through the mediation of angels, as is gathered from
+            <ref xml:id="szthvi-a07691-Rd1e3111">St. Thomas, ST II-II, q. 172, art. 1</ref>,
+            because he disposes all things gently and governs lower things through
+            higher ones. The other illumination, on the side of the intellect, is
+            always brought about by God immediately, as
+            <ref xml:id="szthvi-a07691-Rd1e3122">St. Thomas, ST II-II, q. 6, art. 1</ref>
+            teaches, because the infusion of supernatural light is an action proper
+            to God, as was said in the treatise on Grace,
+            <ref xml:id="szthvi-a07691-Rd1e3132">Book 8, c. 3</ref>.
           </p>
           <p xml:id="szthvi-a07691-d1e2601">
-            <lb ed="#P" n="12"/>7. Utraque tamen vocari potest revelatio.—
+            <lb ed="#P" n="12"/>1. Utraque tamen vocari potest revelatio.—
             <lb ed="#P" n="13"/>Ut duplea velamen, sic duplem vrezelatio. —
             <lb ed="#P" n="14"/>Propria revelatio que. — Revelatio 
             distingui<lb break="no" ed="#P" n="15"/>tur ab instinctu divino. — Ultimo 
@@ -1363,7 +1211,7 @@
             <lb ed="#P" n="35"/>solam revelationem Dei ponunt pro objecto
             <lb ed="#P" n="36"/>formali, praesertim D. Thomas supra, cum
             <lb ed="#P" n="37"/>tota ejus schola, et Alexander Alens., 3 p.,
-            <lb ed="#P" n="38"/>q. 68; <ref xml:id="szthvi-a07691-Rd1e3200" target="http://scta.info/resource/alalal-e79789-d1e203@51-53">Albert. Magn., in 3, dist. 23, art. 8</ref>;
+            <lb ed="#P" n="38"/>q. 68; Albert. Magn., in 3, dist. 23, art. 8;
             <lb ed="#P" n="39"/>et ibi Richard. et alii; Vega, lib. 9, in 
             Tri<lb break="no" ed="#P" n="40"/>dentin., cap. 47; et Bellarmin., libro primo
             <lb ed="#P" n="41"/>de Justific., c. 1; Valentia, tom. 3, disp. 1,
@@ -1395,7 +1243,7 @@
             ma<lb break="no" ed="#P" n="65"/>nifestum est, quia adultus, qui primo 
             conver<lb break="no" ed="#P" n="66"/>titur ad fidem, prius natura praebet assensum
             <lb ed="#P" n="67"/>fidei quam recipiat habitum, ut ex malteria
-            <lb ed="#P" n="68"/>de Grat., libro octavo, a c. 11, suppono; 
+            <lb ed="#P" n="68"/>de Grat., libro octavo, a c.11, suppono; 
             cr<lb break="no" ed="#P" n="69"/>go totum motivum fidei, et tota ratio 
             cre<lb break="no" ed="#P" n="70"/>dendi, praecedit ad infusionem habitus ; ergo
             <lb ed="#P" n="71"/>habitus nullo modo constituit objectum 
@@ -1553,7 +1401,7 @@
             <lb ed="#P" n="106"/>haeretici, et infusam Catholici, etiam ut 
             ver<lb break="no" ed="#P" n="107"/>santur circa idem objectum materiale, habere
             <lb ed="#P" n="108"/>idem objectum formale. Ostendimus enim in
-            <lb ed="#P" n="109"/>materia <ref xml:id="szthvi-a07691-Rd1e3319">de Grat., l. 2, c. 11,</ref> non posse 
+            <lb ed="#P" n="109"/>materia de <ref xml:id="szthvi-a07691-Rd1e3319">Grat., l. 2, c. 11,</ref> non posse 
             ali<lb break="no" ed="#P" n="110"/>quem credere Dco ex proprio motivo fidci
             <pb ed="#P" n="51"/>
             <cb ed="#P" n="a"/>
@@ -1569,7 +1417,7 @@
             <lb ed="#P" n="8"/>ideo non habere eamdem rationem formalem
             <lb ed="#P" n="9"/>credendi, quam habet Catholicus. Et haec est
             <lb ed="#P" n="10"/>communis Doctorum Theologorum doctrina,
-            <lb ed="#P" n="11"/><ref xml:id="szthvi-a07691-Rd1e3330" target="http://scta.info/resource/TAca84-d1e1298-d1e762@38-89">D. Thomae 2. 2, q. 5, art. 3, in corpore</ref>, et
+            <lb ed="#P" n="11"/>D. Thomae 2. 2, q. 5, art. 3, in corpore, et
             <lb ed="#P" n="12"/>ad 1, et in 3, dist. 24, art. 1, quastiunc. 1;
             <lb ed="#P" n="13"/>et Alexandro Alens., 3 p., q. 64, memb.2;
             <lb ed="#P" n="14"/>idem Bonaventura, in 3, dist. 22, art. 2, q.

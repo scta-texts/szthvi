@@ -1,0 +1,2489 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disutation 2</title>
+        <author ref="#FranciscoSuarez">Francisco Suarez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disutation 2</title>
+          <date when="2026-06-26">June 26, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-sqqv12">Paris 1858, v. 12</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-06-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="14"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="szthvi-a01566"><!-- t1-d2 -->
+        <head xml:id="szthvi-a01566-Hd1e101">Disputation 2</head>
+        <head xml:id="szthvi-a01566-Hd1e103" type="question-title">De objecto, seu subjecto materiali fidei</head>
+        <p xml:id="szthvi-a01566-d1e106">
+          <pb ed="#P" n="14"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>DISPUTATIO II.
+          <lb ed="#P" n="2"/>DE OBJECTO, SEU SUBJECTO MATERIALI FIDEI.
+        </p>
+        <p xml:id="szthvi-a01566-d1e117">
+          Three things distinguished in the object of faith. — I do not treat
+          the question that is usually premised in any science concerning its
+          subject matter, whether it exists; for I presuppose that faith exists,
+          from what was said in the treatise on grace, and from what will be
+          said below on the necessity of faith and on its habit; especially
+          since, from the testimonies of Sacred Scripture adduced in the
+          preceding disputation, it is sufficiently evident that there is in us
+          an intellectual, supernatural, and infused faith. Having set aside,
+          therefore, the question whether faith exists, we begin to investigate
+          what it is; and so we take our beginning from the object, because the
+          whole virtue is ordered to it. Now in this object
+          <ref xml:id="szthvi-a01566-Rd1e150">St. Thomas, in the
+          Secunda Secundae, question one, article one,</ref> distinguishes three
+          things: namely, the material object — that is, the subject matter with
+          which the virtue is concerned — and the formal object — that is, the
+          aspect under which it is concerned, or the motive on account of which
+          faith believes. The third Thomas calls accidental, and
+          <ref xml:id="szthvi-a01566-Rd1e200">in the replies to the arguments</ref>
+          explains that under this heading he includes all created objects, which
+          he says pertain to faith secondarily and, as it were, consequently. I,
+          however, include all those things that are believed on the basis of
+          divine testimony under the material object of faith, as I will explain
+          in the second section; and so I understand that third member
+          differently: for beyond the material and formal object, there is
+          required for believing a sufficient proposition of the doctrine of
+          faith, according to that text: <quote xml:id="szthvi-a01566-Qd1e207">How shall they hear without a
+          preacher?</quote> For since neither God testifying nor the things testified to
+          are seen, it is necessary that they be sufficiently proposed through
+          hearing — for faith is therefore said to be <quote xml:id="szthvi-a01566-Qd1e214">from hearing</quote>. These
+          three things, therefore, are to be explained by us in the same order,
+          and we begin with the material object, as the clearer. In this,
+          furthermore, subject (subjectum) can be distinguished from object
+          (objectum); for, although these terms are more frequently confused and
+          we use them interchangeably in a good sense, now, for the sake of
+          clarity, we distinguish them, following
+          <ref xml:id="szthvi-a01566-Rd1e186" target="http://scta.info/resource/jsnvu6-d1e133-d1e243@72-222">Durandus in Book One,
+          Question Five of the Prologue</ref>, and in
+          <ref xml:id="szthvi-a01566-Rd1e193" target="http://scta.info/resource/jsnvu6-e182018-d1e200@10-24">Book Three,
+          Distinction Twenty-Four, Question One</ref>;
+          and <ref xml:id="szthvi-a01566-Rd1e228">Capreolus, Question Four of the Prologue, Article Two</ref>.
+          We call the subject (subjectum) the simple or incomplex thing about
+          which something is believed, because it is the subject of that
+          proposition which is believed; but the complex and believed proposition
+          itself is called the object (objectum), because it is that which faith
+          <cb ed="#P" n="b"/>
+          immediately believes and to which it assents; each of these,
+          therefore, is to be explained separately.
+        </p>
+        <div xml:id="szthvi-a01566-Dd1e234">
+          <head xml:id="szthvi-a01566-Hd1e236">Sectio 1</head>
+          <head xml:id="szthvi-a01566-Hd1e238" type="question-title">An deus sub ratione deitatis sit subjectum principale fidei</head>
+          <p xml:id="szthvi-a01566-d1e241">
+            <lb ed="#P" n="55"/>SECTIO I.
+            <lb ed="#P" n="56"/>An Deus sub ratione Deitatis sit subjectum
+            <lb ed="#P" n="57"/>principale fidei?
+          </p>
+          <p xml:id="szthvi-a01566-d1e250">
+            1. First assertion concerning faith. — Setting aside opinions that
+            will be touched upon incidentally later, since they are not of great
+            moment, the first thing to be said is that God is the subject
+            (subjectum) of Christian faith. This is self-evident and certain in
+            faith, because our faith tends toward God and is concerned with God,
+            and is therefore one of the theological virtues,
+            <ref xml:id="szthvi-a01566-Rd1e263">1 Corinthians, chapter thirteen</ref>;
+            and so, in Mark eleven, Christ says:
+            <quote xml:id="szthvi-a01566-Qd1e270">Have faith in God</quote>;
+            and Paul, in 1 Thessalonians 1:
+            <quote xml:id="szthvi-a01566-Qd1e277">faith which is toward God,</quote>
+            etc. Hence <ref xml:id="szthvi-a01566-Rd1e306">Cyril of Jerusalem, Catechesis 5 for the Illuminated</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e312">Faith, he says, contemplates God, gazes upon God.</quote>
+            The reason indeed is that we believe many things about God —
+            namely, that he exists, and that he is one and triune, etc. Therefore
+            God is the subject of faith, according to the explanation already given.
+          </p>
+          <p xml:id="szthvi-a01566-d1e289">
+            9. Second assertion, most certain. — Second, it must be said that
+            God is the principal subject (subjectum) of faith, which is
+            customarily called the subject of attribution of a virtue or habit;
+            the theologians to be cited shortly agree on this as well, and it is
+            nearly equally certain. First, from the manner of speaking of
+            Scripture: <ref xml:id="szthvi-a01566-Rd1e308">Hebrews 11</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e310">Without faith it is impossible to please God</quote>;
+            and it immediately adds:
+            <quote xml:id="szthvi-a01566-Qd1e316">For one who draws near to God must believe that he exists</quote>;
+            it therefore sets forth God as the primary term toward which faith
+            tends. And so <ref xml:id="szthvi-a01566-Rd1e324">Ephesians four</ref> says:
+            <quote xml:id="szthvi-a01566-Qd1e329">One Lord, one faith</quote>;
+            and <ref xml:id="szthvi-a01566-Rd1e334">Colossians two</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e336">unto the knowledge of the mystery of God</quote>,
+            signifying that all faith tends principally toward knowing God —
+            which is also found in
+            <ref xml:id="szthvi-a01566-Rd1e346">Colossians three</ref>
+            and <ref xml:id="szthvi-a01566-Rd1e348">Philippians one</ref>.
+            And so Christ says in <ref xml:id="szthvi-a01566-Rd1e353">John 14</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e355">You believe in God; believe also in me</quote>,
+            because that is primary and this is consequent. Hence
+            <ref xml:id="szthvi-a01566-Rd1e363">Augustine, City of God, Book 4, Chapter 20</ref>, says:
+            <quote xml:id="szthvi-a01566-Qd1e370">The first and greatest office of faith is that the one God be believed</quote>;
+            and in <ref xml:id="szthvi-a01566-Rd1e413">Book 11, Chapter 2</ref>, he says
+            <quote xml:id="szthvi-a01566-Qd1e416">that the end of all faith and of Christ himself is to arrive at God</quote>.
+            And this is the reason for the assertion: the principal subject of
+            attribution is that to which all things are referred that fall under
+            a virtue or habit; but all things revealed through faith tend toward
+            God being better known and honored;
+            <pb ed="#P" n="15"/>
+            <cb ed="#P" n="a"/>
+            therefore. Likewise, in the blessed life God is the primary object;
+            therefore also in faith, because the vision of faith succeeds it.
+            Hence in <ref xml:id="szthvi-a01566-Rd1e398">John 17</ref>, Christ says:
+            <quote xml:id="szthvi-a01566-Qd1e400">This is eternal life, that they know you, the only true God, and Jesus Christ whom you have sent</quote>,
+            which the Fathers understand of both the homeland and the way.
+            Finally, the light of faith is a certain supernatural participation
+            in the divine light; but God himself is the primary object of the
+            divine light by essence, and of the created light of glory; therefore
+            also of the light of faith. It can be asked, however, whether this
+            is from the intrinsic nature of such a quality or from divine
+            ordination; but this will be better explained a little below.
+          </p>
+          <p xml:id="szthvi-a01566-d1e390">
+          3. Durandus holds the view contrary to the preceding assertion. —
+            His foundation is refuted in two ways. — Against this assertion,
+            however, <ref xml:id="szthvi-a01566-Rd1e419">Durandus, Question 5 of the Prologue</ref>,
+            held that the meritorious act is the principal object of Theology;
+            he had explained that by Theology he means faith. His argument is
+            that all things handed down in Scripture are ordered toward the merit
+            of glory to be obtained in this life. But this is an improbable
+            opinion, in which he himself did not persist, for in
+            <ref xml:id="szthvi-a01566-Rd1e426">Book Three, Distinction 24, Question 1, number 7</ref>,
+            he teaches our conclusion. And his argument is of no force, and
+            proves the contrary, because merit itself is ordered toward glory,
+            and created glory toward God himself. There is also another reason
+            to avoid this opinion of Durandus: namely, because it has a certain
+            affinity with the opinion of <name xml:id="szthvi-a01566-Nd1e524">Chemnitz</name> and
+            the heretics of this time, who say that the principal object of
+            faith is God's promise concerning our justification and the
+            remission of sins through Christ. These err most gravely when they
+            speak of this promise as absolute and made to each individual
+            believer in particular — which is false and heretical, as the
+            Council of Trent teaches, and as I have discussed at length in the
+            treatise <ref xml:id="szthvi-a01566-Rd1e544">On Grace, Book 8, from Chapter 15</ref>.
+            Nevertheless, even if one speaks of the general promise made under
+            the due condition — which indeed is one of the things to be
+            believed — it still cannot be called the primary material subject;
+            for this promise itself is ordered toward God, and so pertains to
+            the secondary objects of belief.
+          </p>
+          <p xml:id="szthvi-a01566-d1e467">
+            4. An Objection Against the Same Assertion from the Council of Trent. — Response. —
+            Certain words of the Council of Trent can be raised as an objection,
+            <ref xml:id="szthvi-a01566-Rd1e572">Session 6, Chapter 6</ref>,
+            where, explaining what is necessary to believe for justification, it says:
+            <quote xml:id="szthvi-a01566-Qd1e580">and first of all, that God through his grace remits sins on account of Christ</quote>;
+            therefore it posits this as the primary subject of justifying faith.
+            <cb ed="#P" n="b"/>The response, however, is easy:
+            the Council first premised those words:
+            <quote xml:id="szthvi-a01566-Qd1e594">they are disposed toward justification when,
+            aroused by divine grace and conceiving faith from hearing,
+            they freely move toward God, believing those things which have been revealed</quote>;
+            the first movement, then, it places in God as the primary object;
+            but in the other subordinate words it declares how that faith is to be applied
+            to conceiving penitence with due trust,
+            for which the consideration of God through faith as remitting sins is especially helpful,
+            in which it is also not excluded that God himself is the primary object
+            around which that faith is concerned,
+            but only through it something secondary is believed about God,
+            such as his being a justifier,
+            which will be more fully explained in the following assertion.
+          </p>
+          <p xml:id="szthvi-a01566-d1e524">
+            5. The Third Common Assertion. —
+            I say therefore thirdly: God, according to the absolute ratio of his Deity and essence,
+            is the primary object of faith.
+            This is, as I believe, the common opinion of the theologians,
+            of <ref xml:id="szthvi-a01566-Rd1e64x">St. Thomas here</ref>, and
+            <ref xml:id="szthvi-a01566-Rd1e565">Part 1, q. 1, art. 7</ref>, and
+            <ref xml:id="szthvi-a01566-Rd1e647">q. 14 of De Veritate, art. 8</ref>, and
+            in <ref xml:id="szthvi-a01566-Rd1e569">Book 3, dist. 24, art. 1</ref>;
+            and the same is held by <ref xml:id="szthvi-a01566-Rd1e655">Scotus, dist. 23, single question</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e573">Durandus, dist. 24, question 1</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e665">Capreolus, question 4 of the Prologue, art. 2</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e668">Albert and others, in Book 3, dist. 23</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e671">Marsilius also holds this, in Book 1, q. 2</ref>,
+            where he reports various opinions;
+            also held by <ref xml:id="szthvi-a01566-Rd1e581">Henry of Ghent, Quodlibet 12, q. 1</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e679">Alexander of Hales, Part 3, q. 68, member 7, final article</ref>.
+            Now, in order to explain and prove this,
+            we must distinguish a twofold formal ratio,
+            as is commonly held regarding the objects of sciences or habits:
+            one is the formal ratio under which,
+            and this is that which moves toward knowledge of the object,
+            or constitutes it in the ratio of the knowable;
+            the other is the ratio which is primarily intended, or known in the subject.
+            Here, then, we are not speaking of the ratio under which,
+            for that pertains to the following disputation,
+            but of the ratio which is principally intended by faith;
+            and in this mode we say that God himself, insofar as he is God,
+            is the primary scope of faith.
+            This seems sufficiently proved from those words of Paul:
+            <quote xml:id="szthvi-a01566-Qd1e623">one approaching God must believe that he is</quote>;
+            for since God's being is his substance and essence,
+            to know that God is, is the same as to know that God is the true God,
+            and thus to have true divinity;
+            therefore this is the primary object which faith intends.
+            And so Christ was saying, <ref xml:id="szthvi-a01566-Rd1e641">John 14</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e644">believe in God, and believe also in me</quote>;
+            because that first is the foundation of the rest;
+            there is also that passage, <ref xml:id="szthvi-a01566-Rd1e652">John 17</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e654">this is eternal life, that they know you</quote>;
+            therefore this absolute knowledge of God is what is intended by faith.
+            Likewise, it is the primary and essential object
+            <pb ed="#P" n="16"/><cb ed="#P" n="a"/>of our beatitude and the vision of God;
+            therefore also of faith:
+            both because vision succeeds faith, as I said;
+            and also because faith and vision have the same primary object,
+            with only the ratio of clear and obscure varying.
+            Finally, whatever is revealed through faith is ordered to this end,
+            that God, according to himself and according to his absolute ratio,
+            may be more perfectly known, according to the capacity of the present state;
+            therefore God, according to the aforesaid absolute ratio of Deity,
+            is the subject of faith.
+          </p>
+          <p xml:id="szthvi-a01566-d1e639">
+            6. Against This Assertion: the Views of Gregory of Rimini, Thomas of Strasbourg, and Others. — Calvin's Objection. — Both Are Refuted. —
+            Against this assertion, however, many theologians have held
+            that God, under the ratio of Savior or Glorifier, is the subject of faith,
+            which is the view of
+            <ref xml:id="szthvi-a01566-Rd1e726">Gregory of Rimini, Prologue, question 4</ref>,
+            and <ref xml:id="szthvi-a01566-Rd1e806">Thomas of Strasbourg</ref>
+            and <ref xml:id="szthvi-a01566-Rd1e810">Giles of Rome</ref>,
+            and others there, speaking about the subject of Theology,
+            as is treated more extensively in <ref xml:id="szthvi-a01566-Rd1e816">the beginning of Part 1</ref>.
+            Their foundation is that all things revealed through faith
+            are ordered to the salvation and glory of human beings,
+            according to that passage, <ref xml:id="szthvi-a01566-Rd1e719">John 20</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e721">these things are written so that you may believe,
+            and believing may have life in his name</quote>.
+            Hence also <name xml:id="szthvi-a01566-Nd1e835">Calvin</name> rebukes the Scholastics
+            on the grounds that they say God, as God, is the primary subject of faith,
+            and not also God as man, that is, Christ,
+            since faith in Christ is demanded above all in the Gospel
+            and our salvation is attributed to him.
+            But these opinions have no solid foundation.
+            For we must distinguish two orders of predicates or perfections
+            that are known of God:
+            some are altogether necessary and intrinsic to God,
+            such as being one, triune, and good;
+            others are contingent, or free, and in some way extrinsic to God,
+            such as being actually creator, justifier, and so forth.
+            Although faith therefore knows God as the subject to which all these belong,
+            since it believes all these things about him,
+            it is nonetheless certain that predicates of the first order are prior
+            and primarily intended by faith;
+            for all other things are ordered to the manifestation of those attributes of God:
+            God creates so that he may be known as omnipotent, and so with the rest.
+            Therefore God cannot be the subject of faith under any extrinsic
+            or contingent ratio or denomination,
+            such as those of Savior or Glorifier, and so forth.
+            Nor does it matter that faith is ordered to our salvation and glory,
+            because our very salvation and glory is itself ordered to the glory of God
+            and the manifestation of his nature;
+            just as charity too is ordered to our salvation,
+            and yet its object is God according to himself
+            <cb ed="#P" n="b"/>and according to the absolute goodness he has in himself;
+            and this is generally true of each theological virtue according to its own ratio.
+            Now <name xml:id="szthvi-a01566-Nd1e913">Calvin</name>'s objection is either empty or false:
+            for if he says that theologians omit Christ altogether
+            in assigning the material object of faith,
+            he says something utterly false, as will be clear from what follows;
+            but if he objects because they place him not in the first position but in the second,
+            he speaks against Christ himself, who says,
+            <quote xml:id="szthvi-a01566-Qd1e695">believe in God, and believe also in me</quote>;
+            and elsewhere:
+            <quote xml:id="szthvi-a01566-Qd1e702">this is eternal life, that they know you,
+            and Jesus Christ whom you have sent</quote>;
+            and the same order is observed in the creeds of faith,
+            for first are taught the things that pertain to divinity,
+            then those that pertain to humanity;
+            and so rightly says <ref xml:id="szthvi-a01566-Rd1e710">St. Thomas, Summa II-II, q. 176, art. 6</ref>,
+            that faith consists principally in two things:
+            first in the knowledge of God, and then in faith in the Incarnation.
+          </p>
+          <p xml:id="szthvi-a01566-d1e782">
+            7. A Doubt from the Text of St. Thomas. — Resolution. — Satisfaction of St. Thomas's Text. —
+            Someone may ask, since there are many divine attributes that necessarily belong to God,
+            whether God is subject to faith according to some determinate attribute,
+            or according to the whole collection of them.
+            And the reason for doubt can be that
+            <ref xml:id="szthvi-a01566-Rd1e970">St. Thomas here, in article one</ref>,
+            said <quote xml:id="szthvi-a01566-Qd1e975">that God under the aspect of first truth is the formal object of faith</quote>,
+            and he seems to speak not only of the formal ratio under which,
+            but also of the ratio which is primarily known;
+            yet to be first truth is a particular attribute of God.
+            I respond that God is not the primary object of faith according to some special attribute
+            conceived by us in the manner of a property or some power of God,
+            but according to the absolute aspect of Deity,
+            in which, in a confused or quasi-radical way according to our manner of conceiving,
+            all attributes are included.
+            This is gathered from the cited authors and the scriptural testimonies adduced;
+            and the reason is that faith primarily intends the knowledge of the true God by essence;
+            but the essence of God essentially includes all attributes,
+            and therefore faith of itself does not first tend toward any special attribute,
+            but toward Deity as such.
+            But if, according to our manner of conceiving,
+            the substance of God is understood under the absolute concept of essence,
+            and the other attributes as consequent properties according to reason,
+            then God, according to the aspect of his essence, is the primary object,
+            in accord with the text: <quote xml:id="szthvi-a01566-Qd1e1010">he who comes to God must believe that he exists</quote>;
+            for, as I have said, the very being of God is conceived as the primary essence of God,
+            because he is being itself by essence,
+            <pb ed="#P" n="17"/><cb ed="#P" n="a"/>
+            in accord with the text: <quote xml:id="szthvi-a01566-Qd1e1015">I am who I am</quote>.
+            Nor does the above-cited statement of St. Thomas conflict with this;
+            for a twofold truth in God must be distinguished,
+            namely truth in being and truth in speaking,
+            concerning which distinction more will be said in the following chapter.
+            The former truth is not properly a special attribute of God,
+            but is transcendental truth, which adds nothing to the nature of a thing,
+            and so true Deity says nothing other than Deity itself;
+            and it is this truth that is meant when it is said that God,
+            as first truth, is the primary material object of faith —
+            which amounts to saying that God, according to his true Deity,
+            and thus according to his essence, is such an object.
+            The latter truth, however, is a special attribute,
+            and belongs primarily to the formal object, as we will say below;
+            but insofar as it is also the thing believed,
+            it is not properly the primary object according to aspect,
+            but comes after Deity as such,
+            although perhaps, with respect to the other attributes,
+            it has a certain priority according to aspect,
+            as I will touch on presently and treat more fully in the following disputation.
+          </p>
+          <p xml:id="szthvi-a01566-d1e918">
+            8. The Fourth Assertion Proceeding in a Twofold Sense. — The Difference between Human and Divine Faith. —
+            Fourth, it must be said that among the material objects of faith,
+            God is the most necessary and inseparable from the revelation of faith.
+            This can be understood in two ways.
+            In one way, concerning the necessity relative to the end of the one revealing,
+            and to the worship and honor due to him,
+            and also to the salvation of those to whom the revelation is made;
+            and in this sense the matter is clear,
+            because unless God were to speak to human beings about himself,
+            he could not be worthily worshipped by them,
+            in accord with <ref xml:id="szthvi-a01566-Rd1e1001">Romans 10</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e1006">How will they call upon one in whom they have not believed?</quote>
+            Nor could they be saved, since the salvation of the human person is placed in God,
+            and <quote xml:id="szthvi-a01566-Qd1e1013">without faith in God a human being cannot please God</quote>,
+            <ref xml:id="szthvi-a01566-Rd1e1018">Hebrews 11</ref>.
+            In another way the assertion can be understood of the intrinsic and essential necessity
+            of the habit of faith itself,
+            and it is in this sense too that I understand the conclusion.
+            The reason is that nothing is believable through faith except under divine testimony,
+            as I now presuppose;
+            therefore whoever believes something through infused faith
+            believes that it has been revealed by God
+            and that the testimony of God is infallible;
+            therefore it is impossible to believe anything by divine faith that is not God,
+            without something being presupposed as believed about God himself —
+            which must be, at minimum, that God exists and is truthful in what he testifies.
+            Thus God, as material object, or as the thing known,
+            has a necessary connection with faith
+            that the other objects do not have;
+            for God could reveal many things about himself and nothing about creatures.
+            <cb ed="#P" n="b"/>
+            And here must be noted a difference between human and divine faith;
+            for through the faith by which we believe some human being,
+            we need not believe anything about the speaker himself;
+            for his existence and his speaking we do not believe but see;
+            and as for his being truthful, or worthy of belief,
+            even if we perhaps do not see this,
+            we nonetheless do not believe it on his testimony
+            but presuppose it as known from elsewhere, at least through conjecture.
+            In divine faith, however, it is not so,
+            because God cannot through this faith reveal anything to us
+            without in some way revealing himself,
+            since we do not see him speaking or existing but believe it,
+            nor do we believe him to be truthful through other conjectures or reasons alone,
+            but through the same faith which tells us:
+            <quote xml:id="szthvi-a01566-Qd1e1050">God, however, is truthful</quote>.
+            You will say: granted this is true for wayfarers,
+            yet among the blessed who see God,
+            it could happen that God testifies to them something outside himself
+            and not yet seen by the blessed, even in the Word,
+            and so a revelation of faith could be given concerning a created thing
+            and not concerning God, since he is already seen;
+            and thus seems to have thought <ref xml:id="szthvi-a01566-Rd1e1249">Scotus, in Book 3, d. 30</ref>.
+            But this touches on the question of whether faith can exist in the blessed,
+            which I will treat <ref xml:id="szthvi-a01566-Rd1e1256">below</ref>;
+            for now I say briefly that that revelation,
+            if it is in some way founded on the vision of God speaking,
+            does not belong to infused faith
+            but is a knowledge and light of another kind,
+            and therefore presents no obstacle to the conclusion stated.
+          </p>
+        </div>
+        <div xml:id="szthvi-a01566-Dd1e1059">
+          <head xml:id="szthvi-a01566-Hd1e1061">Sectio 2</head>
+          <head xml:id="szthvi-a01566-Hd1e1063" type="question-title">Utrum deus sit adaequatum subjectum materiale fidei, vel quod illud sit</head>
+          <p xml:id="szthvi-a01566-d1e1066">
+            SECTION II.
+            Whether God is the adequate material subject of faith, or what that subject is.
+          </p>
+          <p xml:id="szthvi-a01566-d1e1075">
+            1. The First Assertion, Against Which Palude's Statement Militates. — That Statement Appears Contrary to Faith. —
+            First, it must be certain that not only God but also created things are the material subject of faith,
+            because many things concerning creatures are believed through faith.
+            Hence I am greatly surprised how <ref xml:id="szthvi-a01566-Rd1e1308">Palude, in Book 3, dist. 24, q. 4, concl. 2</ref>,
+            could have said that there is no proposition believed through infused faith
+            whose subject is a creature, however much the predicate may be, if not God.
+            From this position it openly follows, against our assertion,
+            that nothing created is a subject of faith;
+            for, as I explained above, that is called a subject of faith
+            about which something is predicated that is believed through infused faith;
+            if therefore propositions about a created subject are not believed through infused faith,
+            there is no created subject of faith.
+            Yet that position appears not only improbable
+            but openly contrary to faith,
+            <pb ed="#P" n="18"/><cb ed="#P" n="a"/>
+            for this proposition, <quote xml:id="szthvi-a01566-Qd1e1110">Abraham begat Isaac</quote>,
+            must be believed through infused faith, since it is expressed in Scripture;
+            and likewise this one: <mentioned>Blessed Mary was a perpetual Virgin</mentioned>;
+            and similar propositions in which the subjects are created things.
+            There can therefore be no doubt about the assertion stated.
+          </p>
+          <p xml:id="szthvi-a01566-d1e1136">
+            2. The Second Assertion. —
+            Second, it must be said that God is not the adequate subject, or, as I would put it, the direct object of faith,
+            but that this is rather any being revealable by God through obscure revelation.
+            This is gathered from <ref xml:id="szthvi-a01566-Rd1e1372">St. Thomas here, art. 1</ref>,
+            and <ref xml:id="szthvi-a01566-Rd1e1377">the said question 15 of De Veritate, art. 8</ref>;
+            it is taught by <ref xml:id="szthvi-a01566-Rd1e1381">Scotus, in Book 3, dist. 23, q. unica</ref>;
+            and by <ref xml:id="szthvi-a01566-Rd1e1383">Gabriel and others commonly, partly there and partly in dist. 14</ref>;
+            and by <ref xml:id="szthvi-a01566-Rd1e1390">Antoninus, Part 3, tit. 8, c. 4</ref>;
+            and by <ref xml:id="szthvi-a01566-Rd1e1393">Abulensis, on Matthew 22, q. 301</ref>.
+            And it is easily proved, because first of all, for something to be comprehended under the object of faith,
+            it is necessary that something about it can be believed through faith,
+            since only that is contained under the matter or subject of a habit
+            about which the habit can operate;
+            but faith cannot operate except concerning a subject revealed by God,
+            as will be evident from what will be said below about the formal aspect of the object of faith;
+            therefore, for something to be contained under the object of faith,
+            it is necessary that it be revealable by God.
+            And therefore a lie, insofar as it is such, cannot be an object of faith,
+            because it is not revealable by God;
+            I say insofar as it is such, that is, insofar as it contains falsehood
+            in what I would call the exercised act;
+            for if a lie is taken insofar as something true can be affirmed of it,
+            in that way it can also be comprehended among the subjects of faith;
+            for this proposition, <mentioned>lying is a sin</mentioned>, is of faith;
+            but this very thing is revealable by God;
+            so this is required in the first place.
+            That this suffices is proved by the contrary argument:
+            for every matter that can be informed by the formal objective aspect of some habit
+            belongs to the material object of that habit and is comprehended under the adequate object;
+            but whatever can be revealed by God can be informed by divine testimony,
+            which is the formal object of faith;
+            therefore all of this is comprehended under the adequate subject of faith;
+            but it is clear that not only God but also many created things are revealed by God;
+            therefore God alone is not the adequate direct object of faith;
+            therefore no other description can be assigned except being revealable —
+            by a revelation, namely, that is obscure and suited to faith;
+            for no other common aspect can be assigned to all these subjects.
+          </p>
+          <p xml:id="szthvi-a01566-d1e1241">
+            3. First Objection. — Reply. —
+            You will say: faith cannot extend to everything revealable;
+            therefore that is not the adequate object, since such an object is coextensive with the habit.
+            <cb ed="#P" n="b"/>
+            The antecedent is clear, because faith can believe only what has been revealed;
+            but there are many revealable things that have not been revealed;
+            and also because revealable things are infinite,
+            yet faith cannot extend to infinitely many things.
+            The response is that speaking of aptitude is one thing, speaking of act is another.
+            It is true that faith cannot elicit or exercise an act except concerning things that have been revealed;
+            yet the very light of faith is of itself apt to assent to whatever is revealable,
+            if it were in fact revealed;
+            and in this sense we say that being revealable is the adequate object,
+            and we speak rather of the revealable than of the revealed,
+            so that we may not appear to exclude altogether what has not been revealed,
+            and so that we may better explain the nature and power of faith.
+            And in the same way it must be said that,
+            although faith in act always extends to finite things,
+            it can of itself extend to infinitely many things syncategorematically, as they say,
+            because this does not exceed the power of a finite faculty or habit,
+            as <ref xml:id="szthvi-a01566-Rd1e1544">Scotus above</ref> rightly shows,
+            and <ref xml:id="szthvi-a01566-Rd1e1546">St. Thomas, the said art. 8 of De Veritate, ad ultimum</ref>.
+          </p>
+          <p xml:id="szthvi-a01566-d1e1302">
+            4. Second Objection. — Reply to the Objection. —
+            A further objection can be raised: not all things revealed through faith are equally believable;
+            therefore not all are directly contained under the adequate material object of faith.
+            The antecedent is clear because not all things are equally true,
+            for divine things are more true than created things,
+            since they are more necessary and more beings.
+            This is confirmed first because with respect to charity,
+            God and creature are not equally comprehended under its object;
+            therefore neither with respect to faith.
+            Finally, St. Thomas above says that all things outside God belong to faith only per accidens;
+            therefore this is a sign that they do not belong to its direct object,
+            just as what is only accidentally visible is not the direct object of sight.
+            To the argument the response is by denying the assumption.
+            Indeed, the assertion is thereby confirmed,
+            because truths of faith about a created subject are no less certain than those about an uncreated subject;
+            for this proposition is just as certain:
+            <mentioned>the most Blessed Virgin is the Mother of God</mentioned>,
+            as this one: <mentioned>God is three and one</mentioned>;
+            because each equally participates in the formal aspect of faith, which is to be said by God,
+            and God is equally truthful and infallible in small matters as in great ones,
+            for he would forfeit all his truthfulness and authority
+            if he could say something false in even the smallest matter;
+            and therefore no less is a heretic, and loses the whole faith,
+            one who denies one of those truths
+            <pb ed="#P" n="19"/><cb ed="#P" n="a"/>
+            than one who denies another.
+            The antecedent is therefore false;
+            and its proof suffers from an equivocation,
+            for it is one thing to speak of the truth of a thing in itself
+            and its knowledge through intrinsic principles,
+            and another to speak of truth in the being of the credible,
+            which is founded on extrinsic testimony.
+            In the former truth there is inequality between the created and uncreated object;
+            but this is irrelevant to faith as such;
+            what matters is credibility, which arises from testimony,
+            and this is equal in things that are in themselves unequal,
+            because the testimony is the same and equally informs the thing testified, as I would say.
+            And from this the response to the first confirmation is clear:
+            for in charity the divine goodness is participated in extrinsically by the creature,
+            and therefore it is not equally present in the creature and in God,
+            and for this reason creature and God are not equally loved through charity;
+            but revelation, or the testimony of God, extrinsically informs credible things,
+            and therefore can fall equally on created and uncreated objects —
+            a doctrine drawn from <ref xml:id="szthvi-a01566-Rd1e1550">St. Thomas, Book 3, dist. 29, q. 1, art. 2, ad 1</ref>.
+            To the second confirmation the response is that St. Thomas used the phrase
+            <mentioned>per accidens</mentioned> broadly, to signify the same as <mentioned>through another</mentioned>,
+            or <mentioned>by reason of another</mentioned>, or <mentioned>secondarily</mentioned>;
+            but when speaking in terms of the credible object,
+            a created subject is believed per se just as much as an uncreated one,
+            if something has been revealed about it in itself and properly.
+          </p>
+          <p xml:id="szthvi-a01566-d1e1441">
+            5. The Third Assertion, in Two Parts. —
+            I say third: God can in some way be called the adequate direct or indirect object of faith,
+            or partly in the direct sense and partly in the oblique sense.
+            The first part is self-evident: for God is believed through faith,
+            indeed most of all and principally, as is clear from the preceding section.
+            The second part is drawn from <ref xml:id="szthvi-a01566-Rd1e1724">St. Thomas here, art. 1</ref>,
+            where he compares faith to the science of medicine,
+            which, having health as its object, treats other things insofar as they lead to health:
+            <quote xml:id="szthvi-a01566-Qd1e1733">thus, he says, faith believes either God or what pertains to God</quote>;
+            the same point is made in <ref xml:id="szthvi-a01566-Rd1e1740">the said art. 8 of De Veritate, in the replies to the arguments</ref>;
+            and <ref xml:id="szthvi-a01566-Rd1e1745">St. Thomas, Part 1, q. 1, art. 7, on the object of Theology</ref>
+            holds the same, concerning which we said the argument is the same;
+            and in the same sense theologians commonly,
+            both in <ref xml:id="szthvi-a01566-Rd1e1757">the Prologue of the Sentences</ref>
+            and in <ref xml:id="szthvi-a01566-Rd1e1759">Book 3, dist. 23 and 24</ref>,
+            teach that God is the object of attribution of faith or theology —
+            that object of attribution being called what all things that fall under the habit are referred to.
+            From this is drawn the argument for the assertion:
+            because all things believed through faith are ordered to God,
+            <cb ed="#P" n="b"/>
+            as was also said in the <ref xml:id="szthvi-a01566-Rd1e1779">preceding section</ref>;
+            therefore all things are believed as in some way divine, or pertaining to God;
+            therefore in every object about which faith believes something,
+            God is in some way included;
+            thus God is the adequate object of faith, directly or obliquely —
+            which can also be confirmed by induction:
+            for in the mysteries of divinity the matter is clear;
+            and the mysteries of the Incarnation all have to do with God;
+            and angels and human beings are made in God's image and are his temple,
+            they flow from him and tend toward him,
+            and it is under these titles that they fall under faith;
+            and the same holds for the rest.
+          </p>
+          <p xml:id="szthvi-a01566-d1e1528">
+            6. A Doubt. — Resolved. —
+            You will say: sins are neither contained in God, since they are not his works,
+            nor are they referred to God, as is clear;
+            and yet they pertain to the material subject of faith,
+            for many things about sins are believed through faith;
+            therefore with respect to those things God cannot be called the adequate object of faith,
+            even obliquely.
+            I respond that just as sins fall under divine knowledge,
+            so they can be contained under the object of faith;
+            for divine knowledge has its own essence as its adequate object in some way,
+            and yet through it God knows sins as contrary to his goodness,
+            and thus God is said to know evil through the good.
+            In the same way, then, faith reveals sins insofar as they are turnings away from God,
+            and so even with respect to them God is the object in some respect —
+            not because God is the end toward which sins are ordered,
+            but because he is the end from which they turn away,
+            and consequently because they are judged by God
+            and ordered to punishment, through which divine justice is manifested.
+          </p>
+          <p xml:id="szthvi-a01566-d1e1578">
+            7. A Minor Question Arising. — The Response and Argument of Some. — The True Response. —
+            But someone will ask whether this mode of relation to God is so essential to faith
+            that it is inseparable from it,
+            such that it is impossible for something to be believed by the true assent of infused faith
+            without being ordered to God,
+            both as believed through faith and as supernatural end.
+            Some think so,
+            and the argument can be that faith is essentially an infused virtue,
+            and therefore by its nature and from within is ordered to the supernatural end;
+            therefore it is essential to it that all things believed through it be ordered to the same end;
+            therefore, by reason of this relation,
+            it is essential to this virtue to have God as its adequate object in the stated sense.
+            Also because this seems essential to a theological virtue as such,
+            as can be shown from other cases;
+            but faith is a theological virtue; therefore.
+            Nevertheless I respond that this is not essential to faith
+            according to the actual ordering of all credible things to that supernatural end,
+            but that an aptitudinal order suffices —
+            <pb ed="#P" n="20"/><cb ed="#P" n="a"/>
+            namely the innate relation that every creature has to God.
+            This is briefly explained and proved:
+            for God could have ordered the human being to a natural end,
+            as has been shown in the <ref xml:id="szthvi-a01566-Rd1e1928">treatise on Grace</ref>,
+            and nevertheless something could be revealed to that person to be believed through faith —
+            for example, the creation of the world or the immortality of the soul;
+            therefore in that case those created things would be subjects of faith
+            without an actual relation to that supernatural end,
+            retaining only the aptitudinal one.
+            What some say — that in that case the faith would not have been supernatural —
+            does not seem probable to me,
+            because it would have the same formal aspect of believing
+            and consequently the same certitude,
+            which cannot be had without the help of infused faith.
+            Hence the a priori argument is that the essence of a virtue is taken from its motive or formal object,
+            and therefore on the side of matter it is only essentially required
+            that the matter be sufficiently contained under the formal objective aspect;
+            but the order of one partial matter to another is not so essential,
+            except insofar as it conduces to or is necessary for participation in the formal object.
+            To the argument on the other side the response is
+            that for an infused virtue and its supernatural act,
+            it suffices that the aspect under which the virtue tends be supernatural.
+            And for the nature of a theological virtue,
+            it would suffice that the principal object immediately attained through it be God —
+            and this faith has by its own nature.
+            Hence it can also be said that it is connatural to faith
+            that all credible things through it be ordered to God,
+            as <ref xml:id="szthvi-a01566-Rd1e1995">St. Thomas held, the said q. 14 of De Veritate, art. 8, ad 18</ref>,
+            and as the argument made above suggests;
+            yet it cannot be called essential according to actual ordering,
+            since this depends on the free will of God.
+          </p>
+        </div>
+        <div xml:id="szthvi-a01566-Dd1e1718">
+          <head xml:id="szthvi-a01566-Hd1e1720">Sectio 3</head>
+          <head xml:id="szthvi-a01566-Hd1e1722" type="question-title">An objectum quod immediate creditur per fidem complexum sit, et quotuplex</head>
+          <p xml:id="szthvi-a01566-d1e1725">
+            SECTION III.
+            Whether the object immediately believed through faith is complex, 
+            and in how many ways.
+          </p>
+          <p xml:id="szthvi-a01566-d1e1734">
+            1. The First Assertion. — Explained and Proved. —
+            First, it is certain that the object which faith immediately believes is something complex;
+            for it is a catholic truth to which our intellect gives assent by composing or dividing.
+            So holds <ref xml:id="szthvi-a01566-Rd1e1802">St. Thomas here, art. 2</ref>,
+            and the other scholastics in Book 3, dist. 23 and
+            <cb ed="#P" n="b"/>
+            24, who use various distinctions to explain this matter;
+            but there is no need to dwell on what is clear.
+            It must therefore be said that the complexity we are treating
+            is formally and properly in the formal conceptions of the mind,
+            and from there is shared by the signs of words or writings by which those concepts are expressed;
+            whereas to things or subjects it is attributed only by extrinsic denomination from the concepts of the mind;
+            since therefore we do not believe through faith except through complex concepts,
+            by composing and dividing,
+            faith is said to be immediately concerned with a complex object.
+            And therefore <ref xml:id="szthvi-a01566-Rd1e1815">St. Thomas, in the said art. 2</ref>,
+            said that the things or truths believed, as they are in themselves, are simple;
+            but as they are in us through faith, they are complex —
+            by denomination from our acts.
+            But when he says that such things are simple in themselves,
+            this must not be understood universally of a simplicity that excludes all composition;
+            for this is proper to those truths that pertain to the divinity —
+            for to this complex proposition, God is three and one,
+            there corresponds a thing that is utterly simple in itself;
+            but truths of faith that contain something created admit real composition in the object itself;
+            yet it is called simple insofar as it is opposed to composition of the mind.
+            Hence it can also be noted in passing that this complexity befalls faith
+            and its object as it exists in us,
+            for in angels it can be found without it.
+          </p>
+          <p xml:id="szthvi-a01566-d1e1823">
+            2. Second Assertion. — The Heretics' Threefold Division of Faith. — Refuted from Scripture. — Second,
+            it must be said that the various complex truths of faith, while many,
+            are all composed into one single object of one faith,
+            because they all agree in the same credible thing.
+            This assertion is put forward partly to explain the complexity of this object,
+            partly because of the heretics of this age;
+            for they distinguish three faiths, which they call historical, of miracles, and of promises;
+            and they subdivide this third into two,
+            namely into a general faith, which concerns universal promises, such as:
+            <mentioned>Whoever believes and is baptized will be saved</mentioned>;
+            and a special faith, by which each just person, in order to be such,
+            must formally believe that his sins have been forgiven him
+            and that he will infallibly attain glory —
+            and this last they call justifying faith.
+            But beyond this last error concerning this special faith,
+            which was refuted in <ref xml:id="szthvi-a01566-Rd1e2169">the treatise on Grace, book 8, chapter 16</ref>,
+            they err further by multiplying faiths,
+            since Paul says <ref xml:id="szthvi-a01566-Rd1e1948">in Ephesians 4</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e1950">One Lord, one faith</quote>;
+            <pb ed="#P" n="21"/>
+            <cb ed="#P" n="a"/>
+            and <ref xml:id="szthvi-a01566-Rd1e1959">in 2 Corinthians 4</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e1881">Having the same spirit of faith</quote>;
+            hence in <ref xml:id="szthvi-a01566-Rd1e1967">Hebrews 11</ref>,
+            to this same faith, which he had said was the
+            <quote xml:id="szthvi-a01566-Qd1e2202">evidence of things not seen</quote>,
+            he attributes all those gifts;
+            for when he says:
+            <quote xml:id="szthvi-a01566-Qd1e1972">By faith we understand that the ages were fashioned by the word of God</quote>,
+            he posits historical faith;
+            but when he says that Abraham and Sarah through faith had a son,
+            he clearly posits faith of promise, saying:
+            <quote xml:id="szthvi-a01566-Qd1e1978">Because she judged faithful him who had promised</quote>;
+            and what he adds about the sons of Israel:
+            <quote xml:id="szthvi-a01566-Qd1e1982">By faith they crossed the Red Sea</quote>,
+            pertains to faith of miracles;
+            and further below he encompasses all, saying:
+            <quote xml:id="szthvi-a01566-Qd1e1986">By faith they conquered kingdoms, they worked justice, they attained the promises</quote>;
+            although therefore it is true that the matter of faith encompasses those three things,
+            nonetheless there is the same faith concerning all of them,
+            and among them there is only a material diversity.
+          </p>
+          <p xml:id="szthvi-a01566-d1e1923">
+            3. From Reason. — Furthermore, it must be added that this very material (so to speak) multiplication
+            of the objects of faith is not rightly or sufficiently explained in that way;
+            for that God exists, and is triune, and similar dogmas,
+            pertain neither to history, nor to promises, nor to miracles.
+            But if they wish to comprehend these under history,
+            then faith of promises also pertains to history;
+            for the fact that God promised this or that is a kind of history, which faith believes;
+            but the fact that he will fulfill what he promised
+            pertains to the dogma of faith, by which we believe God to be truthful and faithful.
+            And nearly the same holds for faith of miracles, insofar as it is catholic,
+            because through it we believe both that God can work a miracle, since we believe him to be omnipotent,
+            and that he will do so as he promised, if the necessary conditions concur.
+            There is therefore no need to use these distinctions,
+            but there is one faith embracing many dogmas, as we said in the assertion,
+            under which it is true that histories and promises are comprehended,
+            and moreover the truths by which the nature of God is revealed to us.
+          </p>
+          <p xml:id="szthvi-a01566-d1e1978">
+            4. Third Assertion. — Resolution of an Objection. — It must further be added that
+            the object of faith embraces not only necessary truths, such as that God exists and the like,
+            but also contingent ones, whether of the past or of the future,
+            such as: the Antichrist will come, or: there will be a universal judgment;
+            this is established from the divine Scriptures,
+            and the reason is that all these things are revealed.
+            You will say: faith must be certain; but certainty can only concern necessary things.
+            <cb ed="#P" n="b"/>
+            The reply is that, just as the knowledge of God is certain even though it concerns contingent things —
+            because it attains them according to the state of presence and necessity,
+            by which everything that is, necessarily is —
+            so faith concerning contingent things can be certain,
+            because it attains them as they stand under divine revelation,
+            which flows from the knowledge of God.
+          </p>
+          <p xml:id="szthvi-a01566-d1e2020">
+            5. Fourth Assertion. — Finally, this object embraces not only supernatural truths
+            but also many natural ones, that is, those which could be known by the light of nature.
+            Both points are clear from the Scriptures and from practice;
+            and the reason is that the former truths cannot be known except through revelation,
+            according to that of <ref xml:id="szthvi-a01566-Rd1e2121">Matthew 16</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e2123">Flesh and blood has not revealed this to you</quote>,
+            and the like;
+            the latter, however, although they can in some way be known by natural light,
+            as <ref xml:id="szthvi-a01566-Rd1e2043">Paul witnesses in Romans 2</ref>,
+            are nevertheless known by few;
+            and therefore faith in them was necessary for the multitude of men —
+            indeed even for the wise, so that they might hold those truths more firmly and certainly,
+            which was also necessary so that they could firmly believe all the rest,
+            as we shall see more fully in what follows;
+            and thus it is also clear that in this entire matter of faith
+            there is no other common note by which one could constitute a single adequate object of faith,
+            except insofar as the whole of it stands, or can stand,
+            immediately under divine revelation,
+            by reason of which it has the same character of the credible —
+            and thus the conclusion put forward is explained and proved.
+          </p>
+        </div>
+        <div xml:id="szthvi-a01566-Dd1e2076">
+          <head xml:id="szthvi-a01566-Hd1e2078">Sectio 4</head>
+          <head xml:id="szthvi-a01566-Hd1e2080" type="question-title">Utrum inter objecta complexa seu veritates credendas sit aliquis ordo</head>
+          <p xml:id="szthvi-a01566-d1e2083">
+            SECTION IV.
+            Whether among the complex objects or truths to be believed there is any order?
+          </p>
+          <p xml:id="szthvi-a01566-d1e2092">
+            1. The Ground for Doubt in this Question. — Since we have said in the preceding section
+            that the material object of faith embraces several truths within itself,
+            it is necessary to explain whether they have among themselves any order of prior and posterior;
+            and the ground for doubt can be that where there is a multitude without order, there is confusion,
+            and thus there could be no per se unity in the object of faith —
+            and consequently none in faith itself —
+            unless among the credible objects there were some order.
+            On the contrary, however, it seems sufficient for this unity
+            that all these credible things have an order toward the same formal character,
+            and have their unity in that.
+          </p>
+          <p xml:id="szthvi-a01566-d1e2125">
+            2. A Twofold Order among the Credible Things in the Order of Being and in the Order of the Credible. —
+            The Order in the Order of Being: First, of Existence; Then, of Dignity. —
+            To explain this, then, I note that these objects can be considered in two ways:
+            first, in the order of being; second, in the order of the credible.
+            <pb ed="#P" n="22"/>
+            <cb ed="#P" n="a"/>
+            Then a manifold order can be conceived among them:
+            namely, of existence, of dignity, of the relation of one to another,
+            or of greater or lesser proportion and connaturality to faith itself,
+            or finally of dependence or emanation of one from another.
+            Speaking then of the credible things themselves according to themselves and according to their being,
+            there is hardly any difficulty, because, as <ref xml:id="szthvi-a01566-Rd1e649">Scotus rightly said in book 3, distinction 23</ref>,
+            it cannot be doubted that in this way there is some order among the credible things themselves.
+            First, in being, because some are prior in existence to others —
+            namely divine things to created, necessary to contingent, and eternal to temporal;
+            for all these fall under this object, as we said.
+            Second, they have an order of dignity in nearly the same way,
+            because those that pertain to God are more worthy, as is clear.
+            Here one can observe, among the propositions of faith,
+            that some are such in which divine things are predicated of divine things,
+            such as: God is Father, or omnipotent, and so forth;
+            and these hold the first place of dignity, because both extremes are uncreated.
+            Other propositions, however, are those in which created things are predicated of uncreated things,
+            such as: God is man, or died, and the like;
+            and among these can be counted those in which actions ad extra are predicated of God,
+            for those actions are created and temporal, such as: God justifies, God creates, etc.
+            And all these hold the second place of dignity,
+            because they regard God himself proximately and contain his principal works and mysteries.
+            There are also other propositions in which something uncreated is predicated of a created subject,
+            such as: Man is God;
+            but the same reasoning applies to these as to the preceding,
+            because they differ only by conversion or transposition of the extremes.
+            Finally there are other truths of faith in which a created thing is predicated of a created thing,
+            such as: The soul is immortal;
+            and these hold the lowest place, as is self-evident;
+            and in each grade of these propositions great variety and inequality is found,
+            as anyone can easily consider.
+          </p>
+          <p xml:id="szthvi-a01566-d1e2239">
+            <lb ed="#P" n="47"/>3. Tum denique habitudinis unius objecti ad
+            <lb ed="#P" n="48"/>aliud. — Atque hinc constat esse etiam inter
+            <lb ed="#P" n="49"/>has veritates ordinem habitudinis unius ad
+            <lb ed="#P" n="50"/>allud; nam creata omnia ad divina 
+            ordinan<lb break="no" ed="#P" n="51"/>tur. Sicut enim supra dictum est, inter 
+            sub<lb break="no" ed="#P" n="52"/>jecta fidei incomplexa, Deum esse ad quem
+            <lb ed="#P" n="53"/>caetera referuntur, ita veritates, quae Deum
+            <lb ed="#P" n="54"/>ipsum spectant, primario intentae sunt, et 
+            re<lb break="no" ed="#P" n="55"/>liquae omnes ad illas ordinantur. Unde etiam
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="56"/>fit consequens ut respectu etiam ipsius fidei
+            <lb ed="#P" n="57"/>habeant proportionatum ordinem; nam illa
+            <lb ed="#P" n="58"/>quae sunt divina majorem proportionem 
+            ha<lb break="no" ed="#P" n="59"/>bent cum fide, quae supernaturalis etiam est,
+            <lb ed="#P" n="60"/>et divina; unde fit ut ipsamet fides majorem
+            <lb ed="#P" n="61"/>quamdam propensionem habeat ad divinas
+            <lb ed="#P" n="62"/>veritates, quam ad reliquas, quia magis 
+            con<lb break="no" ed="#P" n="63"/>naturales illi sunt, ut sic dicam, et quia in
+            <lb ed="#P" n="64"/>universum quaelibet virtus magis propensa est
+            <lb ed="#P" n="65"/>in nobiliora, et meliora. Denique concluditur
+            <lb ed="#P" n="66"/>ex dictis reperiri inter haec objecta ordinem
+            <lb ed="#P" n="67"/>dependentiae, vel secundum se, vel in ordine
+            <lb ed="#P" n="68"/>ad nos. Si enim creata ad divina 
+            comparen<lb break="no" ed="#P" n="69"/>tur, ab his pendent illa secundum veram 
+            cau<lb break="no" ed="#P" n="70"/>salitatem et realem; si vero comparentur 
+            di<lb break="no" ed="#P" n="71"/>vina inter se, sic habent ordinem in ordine
+            <lb ed="#P" n="72"/>ad nos; sic enim concipimus Deum esse 
+            vo<lb break="no" ed="#P" n="73"/>lentem, quia est intelligens, et sic de aliis
+            <lb ed="#P" n="74"/>attributis; qui ordo solet sufficere ad 
+            scien<lb break="no" ed="#P" n="75"/>tiam et demonstrationem, ac subinde ad 
+            con<lb break="no" ed="#P" n="76"/>nexionem rerum quae creduntur.
+          </p>
+          <p xml:id="szthvi-a01566-d1e2309">
+            4. A Doubt about the Order of the Object in the Mode of the Credible. —
+            First Opinion, Denying It. — First Foundation of that Opinion. — Second. — Third. —
+            The principal difficulty of this passage concerns these objects considered in the mode of the credible,
+            and especially regarding the order of dependence,
+            for in the other respects the matter is clear;
+            for it is certain that all these objects, as credible through faith,
+            are equal in certainty, infallibility, and the authority on account of which they are believed.
+            Regarding the order of dependence, however, there is a doubt
+            whether one credible thing is prior to another,
+            and thus whether there is some first credible thing
+            upon which the rest depend in the mode of the credible.
+            On this doubt, the first opinion simply denies that any such order is given among the credible things of faith.
+            Cited in favor of this opinion are all the authors who say
+            that all truths of faith immediately rest, as regards their credibility, upon divine authority,
+            such as <ref xml:id="szthvi-a01566-Rd1e2694">Cajetan and other modern authors, II-II, q.4, a.1</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e2699">William of Auxerre, in the Prologue of the whole Summa</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e2704">Major, in book 3, distinction 23, question 9</ref>,
+            and others there.
+            But these authors by virtue of that principle do not commit themselves to this opinion;
+            for, as we shall see, it is not inconsistent that all truths of faith
+            are immediately credible by divine authority,
+            and yet that one is prior to another in the mode of the credible.
+            More clearly pointing to this opinion is
+            <ref xml:id="szthvi-a01566-Rd1e2724">Scotus, in book 3, distinction 23, question 2, toward the end</ref>;
+            for he says that faith immediately assents to all things
+            and not to one on account of another, as if by syllogistic reasoning;
+            and <ref xml:id="szthvi-a01566-Rd1e2733">Gabriel, question 2</ref> holds the same there;
+            and <ref xml:id="szthvi-a01566-Rd1e2738">Capreolus, article 3, reply to the third objection, against the second conclusion</ref>,
+            <pb ed="#P" n="23"/>
+            <cb ed="#P" n="a"/>
+            saying that one who believes God to be triune and one, because God said so,
+            does not elicit two assents but one,
+            by which he believes both that God is triune and that God said this —
+            just as <ref xml:id="szthvi-a01566-Rd1e2756">Thomas said in question 2, article 2</ref>
+            that it is the same act by which we believe God and believe in God.
+            The foundation of this opinion is that,
+            if among the credible things through faith, insofar as they are such, this order were given,
+            faith would use reasoning in believing: but the consequent is false; therefore.
+            The sequence is proved because the order of dependence among propositions as regards assent
+            is grounded in this: that the assent to one is the reason for assenting to another, and this is reasoning.
+            The falsity of the consequent, moreover, is proved because faith is grounded solely in divine authority,
+            not in human reasoning;
+            otherwise it would have no greater certainty than human reasoning or the force of inference,
+            which cannot be said, as will be clear below.
+            Secondly, I argue in this way:
+            divine revelation of itself regards immediately and without order
+            the propositions that are or can be believed through faith;
+            therefore such propositions have no order or dependence among themselves in the mode of the credible.
+            The consequence is evident, because all those propositions are constituted in the mode of the credible
+            through divine revelation.
+            The antecedent is proved because, since God freely reveals,
+            he can reveal any truth and not another;
+            and therefore, whatever truth is assigned as first in the order of the credible,
+            God could reveal others and not that one,
+            and thus it is shown not to be first, speaking per se and from the intrinsic necessity of faith.
+            Thirdly, if there were any order among the propositions of faith,
+            it would be chiefly between those that contain the formal reason for believing
+            and the others that are merely believed;
+            but not even between those is there an order; therefore neither between any others.
+            The major is clarified: among the propositions of faith,
+            some signify the formal reason for believing,
+            such as: God is the first truth who can neither be deceived nor deceive, and: God said this;
+            while others are merely believed, such as: Christ rose, and we shall rise.
+            Now if these latter propositions are compared among themselves,
+            they have no order in the mode of the credible;
+            for, though in reality one follows from another,
+            and we sometimes therefore argue from one to the other,
+            as Paul argues in <ref xml:id="szthvi-a01566-Rd1e2590">Romans 8</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e2596">If children, then heirs</quote>;
+            and <ref xml:id="szthvi-a01566-Rd1e2599">1 Corinthians 15</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e2602">If Christ rose, then we also shall rise</quote>;
+            <cb ed="#P" n="b"/>
+            nevertheless that argumentation is not per se necessary for believing,
+            nor is it the reason for believing;
+            for faith would equally believe both propositions even if one did not follow from the other,
+            and simple believers who do not know how to argue believe both equally firmly.
+            In these propositions, then, it is manifest that there is no order of prior and posterior among them
+            insofar as they are credible;
+            and thus the major proposition is established,
+            because if there is any order, it can only be conceived between the material and the formal.
+            Now the minor is proved: those propositions by which we signify the formal reason for believing
+            are not the reason for believing the others as believed propositions;
+            rather the reason for believing is only the first truth itself, as revealing any proposition;
+            and the first truth thus revealing is not something complex, but is God himself,
+            as testifying or revealing what is believed;
+            therefore, by virtue of this formal reason, there is no order among the propositions believed,
+            but only between the material and the formal object of faith,
+            insofar as the formal object is that by which we believe,
+            and not insofar as it is itself something believed.
+          </p>
+          <p xml:id="szthvi-a01566-d1e2563">
+            5. Second, More Probable Opinion, Affirming It. — Nevertheless, I consider it more probable
+            that among the material objects of faith, even the complex ones,
+            there is something, or some things, that must be believed first
+            from the intrinsic nature of faith,
+            and consequently that these are prior to others even in the mode of the credible.
+            This was the teaching of <ref xml:id="szthvi-a01566-Rd1e2901">Durandus, in book 3, distinction 24, question 4</ref>,
+            and <ref xml:id="szthvi-a01566-Rd1e2906">Palude there, question 1</ref>;
+            and <ref xml:id="szthvi-a01566-Rd1e2911">Almain, question 3</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e2914">Marsilius, in book 3, question 14, article 1</ref>;
+            and <ref xml:id="szthvi-a01566-Rd1e2917">Vasquez held the same, in the first part, disputation 5, chapter 5</ref>,
+            and it is commonly attributed to <ref xml:id="szthvi-a01566-Rd1e2924">Thomas here, article 1</ref>,
+            insofar as he says that the first truth is the reason for believing
+            all other things that are believed through faith;
+            though he does not explain whether he is speaking of the first truth
+            as a quo principle, or also as something believed in a complex way as well.
+            This must therefore be proved by argument.
+            And first we grant to the previous opinion what it asserted in its third argument,
+            namely, that among the purely material objects of faith there is no per se order,
+            as that third argument rightly proves,
+            and the second argument of the previous opinion as well.
+            We therefore establish an order only between the material and the formal,
+            even insofar as the formal is itself something believed.
+            And this is proved and explained, first, by analogy with human faith;
+            for human faith depends upon two principles that must necessarily be known beforehand
+            if anything is to be believed on someone's authority:
+            one is that this person says it; the other is that this person is worthy of belief;
+            hence also in the schools, when we argue from someone's authority,
+            we first carefully inquire whether he actually says this,
+            and then we emphasize his authority or presuppose it as
+            <pb ed="#P" n="24"/><cb ed="#P" n="a"/>
+            known.
+            Therefore in human faith those are, as it were, two first principles
+            upon which the other credible things depend in the mode of the credible;
+            therefore the same must be said proportionally of divine faith;
+            for they agree in the essential character of faith
+            and differ only in the authority of the one testifying.
+          </p>
+          <p xml:id="szthvi-a01566-d1e2659">
+            6. An Evasion. — One can reply that in human faith those two principles are indeed presupposed,
+            but not as believed on the authority of the same person
+            to whom faith is given regarding other matters;
+            rather, they are known either through experience — because I hear the person speaking,
+            or read his writings —
+            or through an opinion I form about his authority from other indications.
+            And thus, staying precisely within the character of human faith
+            with respect to such a person,
+            those principles are not first credible things,
+            nor is any order to be found among the credible things.
+            Some reason about infused faith in this same way;
+            for they grant that it presupposes these two principles:
+            God said this, and: God cannot deceive —
+            but not as known through infused faith itself, but from elsewhere:
+            the first through the human testimony of those who propose the faith,
+            such as through the preaching of the Apostles and the miracles they performed, etc.;
+            the second through natural evidence, since it is evident
+            that God is the first and infallible truth, who cannot deceive.
+            And thus those principles stand outside the character of things credible through faith,
+            and therefore, though they are prior in themselves,
+            nonetheless among the credible things themselves there is no order.
+          </p>
+          <p xml:id="szthvi-a01566-d1e2714">
+            7. Refutation. — Nevertheless, although divine and human faith agree in this,
+            that each is grounded in those two principles as adapted to itself,
+            they differ greatly in the kind of knowledge of such principles that each requires.
+            For human faith is uncertain and fallible,
+            and therefore can presuppose those principles as known in a more perfect way,
+            or at least in a way no less perfect;
+            and thus it often presupposes the testimony of the speaker
+            as evidently known as regards the act of testifying itself;
+            and the truthfulness of the one testifying it likewise presupposes as known,
+            either through another human faith,
+            or through the testimony of another person,
+            or through conjecture and opinion no less probable than the faith generated from it.
+            Divine faith, however, is infallibly certain —
+            indeed more certain than any natural knowledge, as I shall show below —
+            and therefore it cannot rest per se and formally upon those principles
+            as known by any other natural knowledge; for if
+            <cb ed="#P" n="b"/>
+            that knowledge is human faith, it is imperfect.
+            Hence whoever believes God to be triune because God said so
+            must believe that God said it just as certainly as that God is triune;
+            therefore human faith in the proposition: God said this —
+            even if confirmed by the testimony of very many people and by human arguments —
+            does not suffice, because it is always uncertain,
+            especially in comparison with divine faith.
+            And by the same reasoning, it does not suffice
+            that the other proposition: God is the first truth who cannot deceive,
+            be known by natural light alone;
+            for even that knowledge is less certain,
+            so much so that there have been theologians who have doubted it;
+            therefore it is impossible that the first truth known only in that way
+            should ground the certain assent of infused faith,
+            since a building cannot be more solid than its foundation,
+            just as a conclusion cannot be more certain than its principle.
+            From this it is concluded that those principles must be known by a supernatural light;
+            and in this life there is no supernatural light prior to or better than faith,
+            speaking according to the ordinary and general rule;
+            therefore those two principles are the foundation of faith in no other way
+            than as known through faith itself;
+            therefore in the mode of the credible by divine faith,
+            they are prior to the other credible things, which depend on them under that character.
+          </p>
+          <p xml:id="szthvi-a01566-d1e2825">
+            8. The Evasion Pressed Further. — Confirmed. — Others reply, however,
+            that those two principles — God said this, and: God cannot deceive —
+            are included in every credible thing through faith insofar as it is such,
+            but they are not necessarily presupposed per se as known as objects (ut quod),
+            but only as a means (ut quo), or as the reason for believing;
+            and thus, insofar as they are among the credible things,
+            they are not prior, since they are not necessarily known first.
+            The assumption is explained as follows:
+            one who believes God to be triune because he said so
+            believes this truth — God is triune — by a single act,
+            and attends only to God's saying it as the reason for believing.
+            For this is how simple believers believe,
+            and they do not distinguish multiple credible things there.
+            Indeed it does not even seem necessary that divine revelation
+            directly bear upon both,
+            but only upon the truth itself that is believed;
+            for by the very fact that God reveals himself to be triune,
+            he says that he says it, and no other revelation is necessary;
+            and still less does a revelation of the other proposition —
+            God is truthful — seem necessary,
+            since this too is virtually included in any testimony of God:
+            for if such testimony is such as to oblige belief in God,
+            by that very fact, and as it were in the exercise of the act,
+            it obliges belief that God is truthful in that testimony.
+            And this is confirmed: for it is not 
+            necessary that in every assent of the intellect
+            the reason for assenting be known reflectively and as an object (ut quod);
+            for in assenting to first principles, natural light is the reason for assenting,
+            and yet it is not foreknown in that way.
+            Indeed there are those who think the same holds in human faith as well,
+            namely, that it gives assent to the thing said
+            on the basis of a person's testimony considered only as the reason for assenting,
+            even though it is not thought of as a known object.
+          </p>
+          <p xml:id="szthvi-a01566-d1e2913">
+            9. Refutation of What Was Said in the Preceding Evasion. — But this opinion cannot be approved by me;
+            for I do not understand how something that is not truly known by the intellect
+            can be a reason for assenting.
+            To remove equivocation, however, one must note
+            that the discussion here concerns the formal objective reason,
+            not the principle of assenting on the part of the intellect;
+            for speaking of this latter principle,
+            it is clear that it is not necessary for the object to be known first,
+            as is evident from species and from the cognitive power itself.
+            And therefore the example of assenting to first principles is not to the point,
+            because there the light of the intellect is the principle or reason for assenting
+            only on the part of the power;
+            for on the part of the object, the reason for assenting
+            is the immediate connection of the terms and the truth that shines forth in it.
+            Here, however, we are not treating of the reason for assenting on the part of the intellect —
+            for this is the light of faith itself,
+            which we also grant need not be foreknown as an object —
+            but we are treating of the reason for knowing on the part of the object;
+            for since the truths of faith are not self-evident to believers,
+            the reason for believing cannot be the immediate connection of terms
+            or the truth of the thing in itself, since this is not seen by the intellect;
+            and therefore another reason is needed upon which the assent is grounded,
+            and that reason is the testimony of God.
+            Regarding this reason, then, we say it is necessary
+            that it be presupposed as known and believed as a certain revealed truth,
+            because it is impossible for the intellect to be moved and drawn to assent
+            by a thing or medium of assenting that it does not know,
+            since it is moved only through cognition;
+            just as in the will it is impossible for any object or its goodness
+            to move the will without being foreknown —
+            so much more is it necessary in the intellect
+            that the medium which moves it to assent be foreknown by it.
+          </p>
+          <p xml:id="szthvi-a01566-d1e3002">
+            10. The Refutation Corroborated. — Nor is the difficulty of this argument avoided
+            by that distinction between an object known as a means (ut quo) or as an object (ut quod),
+            and by saying that the formal reason for assenting in faith is known as a means (ut quo)
+            but not as an
+            <cb ed="#P" n="b"/>
+            object (ut quod).
+            For I ask: does being known as a means (ut quo) constitute being truly known,
+            such that the intellect assents that it is so,
+            as is necessary for a motive of believing?
+            For if this is not truly known,
+            the argument already made presses: that it is impossible
+            for such a reason to be a motive inclining and drawing the intellect to assent.
+            But if all of that is truly known regarding such a medium,
+            it is falsely said not to be an object (ut quod),
+            because it terminates the cognition of the mind in itself, and this is an object (ut quod).
+            And this is finally clarified as follows:
+            the intellect does not assent through faith to the truths that are material objects of faith
+            as self-evident from knowledge of the terms,
+            since it does not see the terms as they are in themselves;
+            therefore it must know their connection through some medium,
+            and that medium is nothing other than divine revelation and truth;
+            therefore it is necessary that the intellect know that medium properly and in itself,
+            and consequently it is also necessary that it know
+            that such a medium truly applies to the given object or matter,
+            and that it has the property necessary to render that object infallibly credible;
+            and this is nothing other than knowing that the revelation or testimony of God
+            is infallible and bears upon such an object as something said by God.
+          </p>
+          <p xml:id="szthvi-a01566-d1e3076">
+            11. Reply to the Objection in Number 8. — Hence the objection just made is easily answered:
+            it is true that one cannot believe God to be triune and one
+            unless one believes that this was said by God,
+            whether this is done by distinct acts or by one;
+            for perhaps it can happen either way.
+            I think, however, that at the beginning of believing, when faith is generated,
+            it happens by distinct acts:
+            first one arrives at believing that this was said by God,
+            and then one believes what was said;
+            but afterward, in virtue of preceding acts,
+            it can happen that the whole is apprehended at once and believed by one act —
+            just as with a scientific conclusion, it customarily happens
+            that one must first know expressly the middle term by which the extremes are joined,
+            but afterward, from habit, the intellect assents to it by a single simple act.
+            Nor does it matter that both that it is God who speaks and what he says
+            are proposed by one revelation or utterance of God;
+            for this does not prevent them from being distinct credible propositions,
+            which the human mind — especially one beginning the assent of faith —
+            cannot apprehend so simply and by one act,
+            and therefore must first know the one that is the reason for knowing the other.
+            And the same must be said proportionally of the other proposition:
+            God is the first infallible
+            <pb ed="#P" n="26"/><cb ed="#P" n="a"/>
+            truth, or: God cannot lie;
+            for the very utterance of God is not efficacious for grounding the assent of faith
+            except in virtue of this truth,
+            and therefore this too must be foreknown.
+            Nor does it suffice to say that by believing something because God said it,
+            one necessarily believes that God does not lie;
+            for granted that one believes this of that particular act or object,
+            it is necessary that it be grounded in the universal judgment
+            that God can never lie, and thus that he is in himself an infallible truth.
+            And the same holds proportionally in human faith
+            (in which a great equivocation seems to be committed).
+            For though by believing something to someone I believe that he does not lie in it,
+            nevertheless this faith necessarily presupposes a credence or estimate
+            about such a person — that he is not accustomed to lying,
+            or that he is worthy of such faith;
+            and so it is proportionally in the present case.
+            As for the evident knowledge of first principles through the natural light of the intellect,
+            the reasoning is not similar;
+            because there the light of the intellect is not a medium or reason for knowing on the part of the object,
+            but only on the part of the power;
+            rather the reason for knowing on the part of the object
+            is the immediate connection of terms,
+            which the intellect sees once the terms are known —
+            which is not the case here, as we have explained.
+          </p>
+          <p xml:id="szthvi-a01566-d1e3204">
+            12. Reply to the First Foundation in Number 4. — To the first argument of the previous opinion,
+            which concerned reasoning in faith,
+            some do not hesitate to grant that faith assents by means of reasoning;
+            but I do not settle this now, for I shall speak of it
+            <ref xml:id="szthvi-a01566-Rd1e3604">below, in disputation 6, section 4, treating the act of faith</ref>;
+            for now, however, an easy reply can be given by denying the sequence.
+            For it is one thing for the intellect to need the composition of several propositions
+            and a passage (so to speak) from one to another in order to conceive the assent of faith;
+            it is another thing to assent through faith by virtue of reasoning.
+            The first is true, and especially with respect to those propositions
+            that are not the reason for believing and do not contain it within themselves;
+            and this alone is what that first argument proves —
+            indeed below we shall show the same to be necessary in its own way
+            for the sufficient proposition of faith.
+            The second, however, is not necessary;
+            for to assent by virtue of reasoning is to be grounded in it,
+            such that the per se cause of assenting is the connection of the extremes with the middle;
+            but it is not necessary that faith assent in this way;
+            rather, once the intellect conceives that the medium of faith is sufficiently applied to the given object,
+            it simply believes it on account of the authority of God,
+            without the proper and per se foundation of
+            <cb ed="#P" n="b"/>
+            reasoning, or of the necessity of inference or consequence.
+          </p>
+          <p xml:id="szthvi-a01566-d1e3272">
+            13. Reply to the Second Foundation, ibid. — And to the Third. — To the second argument,
+            about the immediate relation of divine revelation to all credible objects,
+            the reply is that this is true of purely material objects,
+            but not of the formal and material compared with each other.
+            And this is why I said in <ref xml:id="szthvi-a01566-Rd1e3677">section one</ref>
+            that God is a necessary object of faith,
+            because he cannot sufficiently reveal other things
+            without revealing himself — at least those properties necessary
+            for faith to be given to him.
+            And therefore it is no obstacle that God freely reveals what he wills;
+            for given that he wills to reveal something as to be believed on his authority,
+            it is necessary that he propose himself as the one revealing and worthy of faith.
+            The third argument, moreover, is resolved from what has been said:
+            for we granted that among purely material objects there is no order;
+            but between the formal and the material it cannot be denied,
+            even insofar as the formal object itself can be known in a complex way
+            and thus be one of the material objects known.
+          </p>
+          <p xml:id="szthvi-a01566-d1e3322">
+            14. A Small Question Appended to What Has Been Said. — Its Resolution. — Someone will ask:
+            since two propositions to be believed by faith are formed about the formal object —
+            namely: God has spoken the things of faith, and: God could not be a false witness —
+            whether there is an order between them, and which of them is prior.
+            Likewise, since each of them presupposes another — namely, that God exists —
+            whether this should be placed first.
+            I reply briefly that in the order of reality these truths do indeed have an order;
+            for that God exists is presupposed for everything,
+            and that he is truthful is a universal and necessary property,
+            and thus prior to any particular divine revelation.
+            Nevertheless, in the mode of the credible,
+            they so mutually include each other or depend upon each other
+            that they do not appear to have among themselves an order of prior and posterior
+            in the mode of the credible:
+            for it is not credible through faith that God says something
+            unless it rests upon divine truthfulness;
+            nor is it credible through the same faith that God is truthful,
+            except insofar as it has been said or revealed by God —
+            and so these two mutually support each other.
+            As for that God exists, it is included in each of them
+            and is not presupposed per se in any way in order for the rest to be believed.
+          </p>
+        </div>
+        <div xml:id="szthvi-a01566-Dd1e3382">
+          <head xml:id="szthvi-a01566-Hd1e3384">Sectio 5</head>
+          <head xml:id="szthvi-a01566-Hd1e3386" type="question-title">Utrum materia fidei convenienter in symbolo fidei tradatur</head>
+          <p xml:id="szthvi-a01566-d1e3389">
+            <pb ed="#P" n="27"/>
+            <cb ed="#P" n="a"/>
+            SECTION V.
+            Whether the matter of faith is fittingly handed down in the Symbol of faith?
+          </p>
+          <p xml:id="szthvi-a01566-d1e3402">
+            1. The Etymology of the Symbol and Its Use in the Church. —
+            The Symbol, as all presuppose in this matter,
+            is a Greek word, signifying sign or indication and collection,
+            as in military service, for example,
+            the sign that is given to soldiers so that they may recognize one another
+            and be distinguished from others is called a symbol.
+            Also the collection that is customarily made from many contributors for some work
+            is also accustomed to be called a symbol.
+            And from both significations this word has been applied by the Church
+            to signify a certain brief summary or rule of faith,
+            collected from various articles of faith,
+            and proposed to the faithful as the sign of their profession.
+            Concerning this symbol, therefore, which
+            <ref xml:id="szthvi-a01566-Rd1e3828">Clement, in the Letter to James</ref>,
+            <ref xml:id="szthvi-a01566-Rd1e3833">Augustine, sermon 125 on the season</ref>,
+            <ref xml:id="szthvi-a01566-Rd1e3839">Cyprian</ref>, and
+            <ref xml:id="szthvi-a01566-Rd1e3841">Ruffinus, in the exposition of the symbol</ref>,
+            and other Fathers explain,
+            all theologians in Book 3, distinction 25 dispute in common,
+            and especially <ref xml:id="szthvi-a01566-Rd1e3850">St. Thomas here, articles 6, 8, and 9</ref>,
+            and therefore the rationale of this symbol must be briefly explained by us,
+            especially since <name xml:id="szthvi-a01566-Nd1e3858">Luther</name>
+            also criticizes this custom in the Church,
+            because for believing (he says) Scripture sufficed,
+            without the addition of the Symbol.
+          </p>
+          <p xml:id="szthvi-a01566-d1e3459">
+            2. A Note from St. Thomas for the Resolution. —
+            In order to explain the truth, St. Thomas notes that among the matter of faith
+            some things are handed down per se,
+            because faith is <quote xml:id="szthvi-a01566-Qd1e883">the substance of things hoped for</quote>,
+            and therefore those things which pertain to the beatitude that we hope for,
+            or are necessary means, or are ordered per se to attaining it,
+            are said to pertain per se to faith;
+            the rest, however, which are innumerable,
+            are revealed as it were by occasion or per accidens,
+            and thus the entire matter of faith embraces both orders of credible things.
+            Speaking therefore of the matter of faith in this universality,
+            it is clear that it neither ought to have been,
+            nor could it practically have been, proposed under a brief symbol,
+            because thus all things that are in Scripture pertain to the matter of faith,
+            and not only those, but also what is held by tradition and the definition of the Church,
+            all of which could neither be reduced to a brief summary,
+            nor was this necessary for the Christian people.
+            Therefore in the present case there is discussion only of the matter per se,
+            and especially of that which is necessary for salvation.
+          </p>
+          <p xml:id="szthvi-a01566-d1e3512">
+            3. First Assertion Concerning Faith. — Proved by Induction. —
+            <cb ed="#P" n="b"/>
+            In How Many Ways the Symbol Could Have Been Composed by the Apostles. —
+            When It Was Composed. — For What Reasons They Composed It. —
+            I say first, that it was most fitting for the Church to make a symbol
+            embracing the matter of faith of this kind.
+            This is a matter of faith from perpetual tradition and the common consent of the Church,
+            and it is proved first of all by induction;
+            for the first symbol was handed down to us by the Apostles,
+            which is called the Apostles' Creed,
+            as <ref xml:id="szthvi-a01566-Rd1e3953">Clement, Letter 1 to James</ref> testifies,
+            and <ref xml:id="szthvi-a01566-Rd1e3958">Book 1 of the Recognitions</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e3963">Pope Leo, Letter 13 to Pulcheria</ref>,
+            and <ref xml:id="szthvi-a01566-Rd1e3967">sermon 3 on the Passion of the Lord</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e3970">Augustine, sermons 115 and 181 on the Seasons</ref>,
+            elsewhere in the <ref xml:id="szthvi-a01566-Rd1e3977">Appendix, sermons 42 and 57,
+            and the book on Faith and the Symbol</ref>, and often elsewhere;
+            and <ref xml:id="szthvi-a01566-Rd1e3982">Jerome, Letter 61 to Pammachius</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e3987">Ambrose, sermon 38</ref>;
+            and <ref xml:id="szthvi-a01566-Rd1e3992">Chrysostom, homilies 1 and 2 on the Symbol</ref>,
+            and others to be cited shortly.
+            <ref xml:id="szthvi-a01566-Rd1e3998">Tertullian, however, in the book on the Prescription of Heretics, chapter 14</ref>,
+            says that the Symbol was instituted by Christ;
+            but this must be understood as through the Apostles,
+            because it is not established, nor can it be affirmed with any foundation,
+            that Christ himself composed this Symbol in the manner and order
+            in which it has always been retained in the Church.
+            Now this Symbol could have been composed in two ways:
+            either because both the whole and its individual parts were collected
+            and approved by all the Apostles together,
+            or because individual Apostles contributed individual articles and sentences.
+            And although it is uncertain in which of these ways it was composed,
+            the Fathers point to the latter, especially Clement and Augustine,
+            who relates that individual sentences were contributed by individual Apostles;
+            and <ref xml:id="szthvi-a01566-Rd1e4035">Pope Leo</ref> says thus:
+            <quote xml:id="szthvi-a01566-Qd1e4040">The brief and perfect confession of the Catholic symbol
+            is marked by the sentences of the twelve Apostles</quote>,
+            and nearly the same is found in
+            <ref xml:id="szthvi-a01566-Rd1e4049">Isidore, Book 1 of the Divine Offices, chapter 16, and Book 2, chapter 22</ref>.
+            From this we also understand that this Symbol was composed by the Apostles
+            before the death of James,
+            for he too contributed his sentence, as the said Fathers note;
+            and so <ref xml:id="szthvi-a01566-Rd1e4062">Baronius, in volume 1, year 44</ref>,
+            thinks it was composed in that year,
+            that is, the tenth year after the Passion of Christ.
+            And this is consonant with what the Fathers say in the cited places:
+            that the Apostles composed the Symbol when they wished to separate from one another
+            and be distributed throughout the whole world.
+            And from this they also gather the reasons for which they composed it:
+            first, so that they might have one and the same
+            <pb ed="#P" n="28"/><cb ed="#P" n="a"/>rule of faith,
+            which all might propose to all peoples:
+            so <ref xml:id="szthvi-a01566-Rd1e4088">Ruffinus in the preface to the symbol</ref>.
+            Second, so that individual faithful might have a brief formula of faith,
+            which they could retain in memory and profess daily and frequently;
+            so <ref xml:id="szthvi-a01566-Rd1e4100">Augustine, homily 42</ref>, and in the sermon on the Symbol.
+            Third, so that the faithful might be protected from false preachers
+            who intended to corrupt the faith:
+            so <ref xml:id="szthvi-a01566-Rd1e4109">Chrysostom, homily on the Apostles' Creed</ref>.
+            From this the said Fathers also note that the Apostles did not hand down
+            the Symbol written on paper and ink,
+            lest it could be corrupted by heretics,
+            but handed it down by word alone, so that it might be retained in the heart,
+            as besides those cited
+            <ref xml:id="szthvi-a01566-Rd1e4125">Peter Chrysologus, sermon 57 and the following sermons on the Symbol</ref> often repeats;
+            and <ref xml:id="szthvi-a01566-Rd1e4130">Eusebius of Emesa, homilies 1 and 2 on the Symbol</ref>,
+            and most excellently <ref xml:id="szthvi-a01566-Rd1e4137">Ruffinus, in the Exposition of the Symbol</ref>.
+          </p>
+          <p xml:id="szthvi-a01566-d1e3675">
+            4. Those Who Doubted Whether the Symbol Was Composed by the Apostles Were in Error. —
+            The Foundation of the Error Is Refuted in Multiple Ways. —
+            From these things, therefore, it is sufficiently concluded
+            that some who profess themselves Catholics gravely erred
+            in calling into doubt whether this symbol is apostolic,
+            since they could have had no reason for doubting
+            against so many Fathers and the universal tradition of the Church.
+            But they say: if this Symbol was composed by the Apostles,
+            then it is canonical Scripture;
+            for if a letter written by one Apostle is canonical Scripture,
+            why not the Symbol composed by all of them.
+            It is easily replied, however, by denying the inference;
+            first, because although it is certain that this Symbol is apostolic,
+            it is nevertheless not simply a matter of faith, nor has it been defined by the Church.
+            Second, because although the Apostles handed it down,
+            with the Holy Spirit governing and directing the truth of the sentences,
+            he did not however dictate the individual words,
+            which is necessary for canonical Scripture.
+            Third, because the Church does not receive it among the canonical Scriptures.
+            Fourth, because we said, from the teaching of the Fathers,
+            that the symbol itself was not written by the Apostles, but handed down orally,
+            so that it might be preserved in the memories of the faithful,
+            as <ref xml:id="szthvi-a01566-Rd1e4205">Augustine, sermon 119 on the Seasons</ref> also thought;
+            how then could it be Sacred Scripture?
+            Indeed, from this a powerful argument is drawn against the heretics
+            who believe in canonical Scriptures alone —
+            for from this we have that apostolic tradition suffices <supplied>to show that Scripture alone does not</supplied>.
+            Moreover, what some say — that the Apostles collected the Symbol from the Scriptures —
+            is to be understood in a sound sense;
+            both because something is contained in that Symbol which is not found in Scripture,
+            namely that Christ descended into hell;
+            <cb ed="#P" n="b"/>
+            and also because that Symbol is older than the writings of the New Testament,
+            from which it could chiefly have been drawn:
+            therefore it could be said in a broad sense to be taken from Scripture,
+            because it contains in substance the same mysteries that are handed down in Scripture.
+          </p>
+         <p xml:id="szthvi-a01566-d1e3773">
+            5. The Stated Assertion Proceeds Also Concerning the Symbol Enriched in Various Councils. —
+            Also Concerning the Symbol of Athanasius. —
+            Other Symbols Are Reduced to the Aforementioned Ones. —
+            The second Symbol is the Nicene, or Constantinopolitan,
+            which St. Thomas here called the Symbol of the Fathers,
+            because it was not completed in one Council,
+            but was begun in the Nicene Council,
+            then augmented and more fully declared in the Constantinopolitan,
+            and afterwards also approved in the First Council of Ephesus,
+            and moreover after these Councils it received some addition —
+            as we said concerning that clause, "and the Son" (Filioque),
+            in <ref xml:id="szthvi-a01566-Rd1e4276">Book 10 on the Trinity, chapter 1, numbers 15 and following</ref>,
+            where we also noted that it is not altogether certain at what time,
+            or by which Pontiff or Council, it was added,
+            although by certain faith it is established that it was rightly added;
+            and thus we also say now that it is not established
+            when that Symbol was completed in every respect,
+            as it is now sung in the Church;
+            it is certain, however, that it too is an infallible rule of faith,
+            confirmed by the authority of the Church and the Supreme Pontiffs.
+            The third symbol is that of Athanasius;
+            for they greatly err who dare to deny that it was composed by Athanasius,
+            since Gregory Nazianzen, in his oration in praise of Athanasius,
+            says that Athanasius wrote an outstanding confession of his faith,
+            nor does he undeservedly call it a confession and not a Symbol,
+            because Athanasius, since he was not the Supreme Pontiff but a particular bishop,
+            could not hand down an authentic symbol of the Church,
+            as <ref xml:id="szthvi-a01566-Rd1e4322">St. Thomas said here, article <sic>3</sic>, ad 3</ref>;
+            nevertheless, since it has now been approved by the Church,
+            it is rightly numbered among the symbols,
+            and so <ref xml:id="szthvi-a01566-Rd1e4332">Pope Eugenius, in the Council of Florence,
+            in the Decree for the Armenians, chapter six</ref>
+            handed down the Symbol of Athanasius to them as a rule of faith,
+            and Augustine often uses it to confirm the truths of faith,
+            and specifically on Psalm 120 reports it under the name of Athanasius.
+            Besides these symbols, moreover, various propositions of faith
+            are found in almost all Councils,
+            which in sum contain the matter of faith;
+            all of these, however, are reduced to the aforementioned symbols,
+            as can be seen especially in
+            <ref xml:id="szthvi-a01566-Rd1e4358">the Sixth Council of Carthage, chapter 10</ref>,
+            and in <ref xml:id="szthvi-a01566-Rd1e4364">the Eleventh Council of Toledo, at the beginning</ref>.
+          </p>
+          <p xml:id="szthvi-a01566-d1e3880">
+            6. The Assertion Is Then Proved by Reason. — From these things, therefore,
+            <pb ed="#P" n="29"/>
+            <cb ed="#P" n="a"/>
+            the conclusion remains sufficiently proved by authority;
+            but its reason is the same as what has already been touched upon
+            in declaring what moved the Apostles to compose a symbol,
+            namely, that the faithful might have a brief form for professing the faith;
+            for the Apostle says in <ref xml:id="szthvi-a01566-Rd1e4392">Rom. 10</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e4395">With the heart one believes unto righteousness,
+            and with the mouth confession — namely of faith — is made unto salvation</quote>;
+            therefore, lest simple faithful err in a confession of this kind,
+            it was necessary to hand down a symbol to them,
+            so that, with fixed and certain words, as the cited Fathers say,
+            they might make this confession;
+            likewise so that through this uniformity it might be established
+            that the faith of the entire Catholic Church is one,
+            as <ref xml:id="szthvi-a01566-Rd1e4415">Epiphanius, in the Ancoratus, at the end</ref> said;
+            finally, so that the faithful might always have at hand
+            the matter which it is necessary to believe explicitly.
+          </p>
+          <p xml:id="szthvi-a01566-d1e3926">
+            7. Second Assertion. — Proved First from Hebrews 11. —
+            Proved Second from John 14. — Proved Third by Reason. —
+            Hence I say second: this matter of faith is sufficiently contained in the Symbol.
+            This is proved briefly: first, with <ref xml:id="szthvi-a01566-Rd1e4437">St. Thomas</ref>,
+            from that text in Hebrews 11:
+            <quote xml:id="szthvi-a01566-Qd1e3941">Faith is the substance of things hoped for</quote>;
+            for in the Symbol all things are contained that pertain to this substance,
+            for there God is taught, who is the object of the beatitude we hope for;
+            Christ is also handed down, who is the way through which we tend toward it;
+            and concerning both, all the substantial and most necessary mysteries are taught;
+            and finally the present Church is set forth, within which alone salvation can be hoped for;
+            likewise eternal life and the resurrection are set forth, which we hope for,
+            and finally the future judgment is not omitted,
+            and consequently the eternal punishment prepared for the wicked is also intimated,
+            because fear too is necessary, lest hope pass into presumption;
+            therefore the Symbol most sufficiently embraces the matter of faith.
+            From this it can also be confirmed by the words of Christ,
+            <ref xml:id="szthvi-a01566-Rd1e4081">John 14</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e4084">This is eternal life, that they may know you,
+            the only true God, and Jesus Christ whom you have sent</quote>,
+            together with the words of <ref xml:id="szthvi-a01566-Rd1e4493">Augustine, sermon 181 on the Seasons</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e4498">The Symbol is brief in words but great in mysteries;
+            for whatever has been handed down in the Scriptures concerning God and Christ
+            is contained in the symbol</quote>.
+            Finally this is most aptly confirmed from the necessity of explicit faith;
+            because in the Symbol is contained whatever is necessary or must be believed explicitly.
+            Whence <ref xml:id="szthvi-a01566-Rd1e4514">Pope Leo above</ref>
+            says that this rule suffices for the instruction of the faithful,
+            for it contains everything that God willed no one in the Church to be ignorant of.
+          </p>
+          <p xml:id="szthvi-a01566-d1e4010">
+            8. Objection Against the Proximate Assertion. — Confirmed First. — Confirmed Second. —
+            <cb ed="#P" n="b"/>
+            But someone will object: for either this sufficiency exists in each individual symbol,
+            and so multiple symbols are multiplied superfluously,
+            or it exists only in their collection,
+            and thus the individual ones are insufficient, which cannot be said.
+            And the difficulty is increased, because in one symbol some things are omitted
+            that are contained in another:
+            as in the Apostles' Symbol the descent of Christ to hell and the communion of saints
+            are placed, which are omitted in the Nicene Symbol;
+            and conversely in the Symbol of the Fathers
+            the procession of the Holy Spirit from the Father is placed,
+            which is omitted in the Apostolic,
+            and in the same [Apostolic Symbol] the procession of the Holy Spirit from the Son
+            was afterwards added, which had previously been omitted.
+            And what presses more urgently: since Paul says that first of all
+            one must believe that God exists and that he is a rewarder,
+            neither of these is placed in the symbols.
+            And finally the mystery of the Eucharist seems most necessary to believe,
+            and is one of the more difficult mysteries,
+            and yet it is not placed in the symbols;
+            therefore there is not a sufficiency of doctrine in the symbols.
+          </p>
+          <p xml:id="szthvi-a01566-d1e4070">
+            9. Replies to the Objections. — The Threefold End of the Symbol. —
+            To the First Confirmation. — To the Second Confirmation. —
+            The reply to the principal difficulty is given, with
+            <ref xml:id="szthvi-a01566-Rd1e4594">Alexander of Hales, 3rd part, question 69, member 2</ref>,
+            that the ends of each individual symbol must be considered,
+            and thus each is sufficient for its own end,
+            and all together are sufficient for all the ends taken together.
+            Now these ends are three: namely, the instruction of the faithful,
+            the refutation of heresies, and the greater explanation of the mysteries.
+            For the first end the Apostles' Symbol was instituted,
+            and for that end it is most sufficient;
+            for if the faithful know and believe what is contained in it, it suffices for salvation.
+            For the second end, namely the refutation of errors,
+            the Symbol of the Fathers, or of the Councils, was instituted — as I think —
+            although Alexander of Hales attributes this to the Symbol of Athanasius;
+            yet it is in fact clear that this was the aim of the Nicene Council and those that followed;
+            and thus if anyone pays careful attention,
+            he will find that the individual clauses added to this Symbol beyond the Apostolic
+            were aimed at refuting individual heresies,
+            especially against the mystery of the Trinity and the Incarnation,
+            as <ref xml:id="szthvi-a01566-Rd1e4643">Gabriel, distinction 25, question 1</ref> discusses;
+            Athanasius, however, composed his Symbol for a greater explanation of these mysteries,
+            and therefore in it he added many things and omitted almost everything else.
+            And from this the other difficulty is easily resolved:
+            for those two articles concerning the communion of saints and the descent into hell
+            were omitted in the Symbol of the
+            <pb ed="#P" n="30"/><cb ed="#P" n="a"/>Fathers,
+            either because no heresies had arisen concerning them,
+            or perhaps because it is not necessary for individual faithful
+            to believe these more explicitly than they are contained
+            in the articles concerning the death of Christ
+            and the holiness and unity of the Church,
+            as I treated in part in <ref xml:id="szthvi-a01566-Rd1e4676">the 2nd volume of the third part, disputation 43</ref>,
+            and in part we shall see below, treating the precepts of faith
+            in <ref xml:id="szthvi-a01566-Rd1e4684">the 2nd moral part, disputation 13, section 6</ref>.
+            As for the confirmation concerning the existence and providence of God,
+            St. Thomas indicates that these things which can be known by natural light
+            concerning God are not placed in faith but presupposed.
+            And it can rightly be said that God's existence is sufficiently taught
+            at the beginning of the Symbol, when we say we believe
+            in one God the Father Almighty,
+            for if God is one, he most certainly exists;
+            and that God is a rewarder is sufficiently and specifically contained
+            in the article on the future judgment and on eternal life.
+            Finally, concerning the mystery of the Eucharist,
+            <ref xml:id="szthvi-a01566-Rd1e4713">St. Thomas, II-II, question 1, article 8, ad 6</ref>
+            says it was comprehended under the omnipotence of God
+            or under the mystery of the Incarnation;
+            but this is very implicit, since that mystery must nevertheless be believed explicitly,
+            as I said in <ref xml:id="szthvi-a01566-Rd1e4724">disputation 46 on the Sacraments, section 1, at the end</ref>,
+            and therefore I add that what was placed in the symbols are things
+            that pertain per se to the knowledge of God and Christ,
+            for the sake of the perfection and obedience of the intellect,
+            and for strengthening hope and exciting charity;
+            but beyond those things it is necessary to know and believe many other things
+            for the sake of acting, which were not placed in the symbols;
+            and therefore beyond the symbols, knowledge of the commandments is necessary,
+            to which belongs instruction about the necessary sacraments,
+            one of which is the Eucharist, as also knowledge of the Lord's Prayer.
+          </p>
+          <p xml:id="szthvi-a01566-d1e4226">
+            10. First Assertion: The Symbol Rightly Consists of Articles. —
+            An Article Adds More Than a Proposition of Faith. —
+            I say third, that the Symbol of faith is aptly and fittingly composed of articles of faith.
+            I set forth this assertion in order to explain the name "article of faith"
+            and the number of the articles,
+            because on this many things are written by theologians,
+            as can be seen in <ref xml:id="szthvi-a01566-Rd1e4775">St. Thomas</ref>,
+            and <ref xml:id="szthvi-a01566-Rd1e4779">Alexander of Hales, in the cited places</ref>,
+            <ref xml:id="szthvi-a01566-Rd1e4782">Scotus</ref>, and
+            <ref xml:id="szthvi-a01566-Rd1e4784">Gabriel, in Book 3, distinction 25, first question</ref>.
+            All agree, therefore, that not every proposition of faith is an article of faith,
+            although conversely every article of faith is a proposition of faith to be believed.
+            What it adds, first of all, is that it pertains per se to faith;
+            but this too is common to many other propositions which are not articles of faith.
+            St. Thomas therefore adds that for an article of faith
+            it is necessary that it have a special
+            difficulty,
+            and consequently he distinguishes articles by the special difficulties of credible things,
+            which is probable.
+            Others, however, think that an article is a special proposition of faith
+            pertaining per se to faith, which must be believed explicitly;
+            and perhaps this is what Richard of St. Victor meant,
+            whom <ref xml:id="szthvi-a01566-Rd1e4823">Alexander of Hales cites above, member 5</ref>,
+            when he said that an article is an indivisible proposition of faith
+            constraining us to believe.
+            Others, finally, think that an article is nothing other than a clause of faith
+            approved by some Apostle for the composition of the Symbol,
+            according to what we reported above from Clement and Augustine;
+            and thus for the distinction of articles a distinct relationship to its author suffices,
+            along with some usefulness accruing to the faithful
+            from the distinction of such sentences;
+            and each of these explanations suffices,
+            since it is more a matter of the signification of the word than of the thing itself.
+            From this it is also clear what must be said about the number of articles;
+            for if they are distinguished with respect to the first authors of the Symbol,
+            there will be twelve articles, just as there were twelve Apostles —
+            for Paul and Barnabas were not present there;
+            and so think <ref xml:id="szthvi-a01566-Rd1e4865">Augustine above</ref>,
+            and <ref xml:id="szthvi-a01566-Rd1e4870">Pope Leo, in the said thirteenth letter</ref>,
+            and <ref xml:id="szthvi-a01566-Rd1e4875">sermon eleven on the Passion, chapter two</ref>.
+            But if they are distinguished by the difficulty of credible things,
+            or by the distinction of mysteries,
+            then fourteen are rightly distinguished, as is the common distinction
+            that the Scholastics are accustomed to approve,
+            with St. Thomas in that eighth article, especially Gabriel and Scotus above;
+            and these too suffice for the proof of the conclusion:
+            for from the tenor of the symbol it is clear
+            that in it the mysteries of faith are openly explained
+            through various sentences or clauses,
+            insofar as was fitting for the explicit faith of the faithful;
+            and the order of these, although it might seem to be somewhat inverted
+            by proposing first the mysteries of the humanity of Christ
+            before the mysteries of the divinity of the Holy Spirit,
+            was nevertheless most apt,
+            both for the sake of greater brevity
+            and for the sake of signifying more fully
+            the unity of the person of Christ as God and man.
+          </p>
+          <p xml:id="szthvi-a01566-d1e4367">
+            11. A Two-Part Doubt. — The Second Member. —
+            There remains one doubt only:
+            how all the faithful can profess that they believe in God [<mentioned>credere in Deum</mentioned>],
+            since not all have formed faith;
+            but that phrase, <mentioned>in Deum</mentioned>, as toward the ultimate end loved above all things,
+            indicates a movement of faith toward God,
+            as <ref xml:id="szthvi-a01566-Rd1e4942">St. Thomas, following Augustine, teaches below, question 2, article 2</ref>.
+            From this it is also more difficult to explain
+            that in the Symbol the faithful are said to believe in the holy Church,
+            <pb ed="#P" n="31"/>
+            <cb ed="#P" n="a"/>
+            although the Church is a creature;
+            and thus indeed <ref xml:id="szthvi-a01566-Rd1e4957">Epiphanius, in the Ancoratus, near the end</ref> reads it,
+            reporting the Symbol of the Fathers, which he says is held by the Church;
+            in the same way <ref xml:id="szthvi-a01566-Rd1e4964">Cyril of Jerusalem, Catechesis 18</ref> reads it,
+            and says that that phrase is placed in the symbol
+            so that the faithful may flee the conventicles of heretics
+            and persevere in the Catholic Church, in which they were reborn;
+            and <ref xml:id="szthvi-a01566-Rd1e4978">Jerome, in the Dialogue against the Luciferians</ref>
+            seems to speak in the same way,
+            and it is also reported from
+            <ref xml:id="szthvi-a01566-Rd1e4983">Augustine, in chapter 1 on Consecration, distinction 4</ref>.
+          </p>
+          <p xml:id="szthvi-a01566-d1e4419">
+            12. St. Thomas's Reply to the First Member. — An Easier Reply. —
+            To the prior part St. Thomas replies that the faithful,
+            through the symbol, profess the faith of the entire Catholic Church,
+            and because the Church always believes in God with formed faith,
+            although not each individual member of the Church always believes thus —
+            since not all members of the Church are just,
+            although the just never fail in the Church —
+            for whose sake the Church is said to believe in God with formed faith,
+            and therefore this is proposed in the symbol to individual faithful.
+            This is probably stated; but since each individual faithful person,
+            when professing the faith, speaks not in the person of the Church but in his own,
+            it seems necessary that those words be able to be said truly
+            by individual faithful in their own person, even if they are in a state of sin.
+            Hence it can more easily be said that that phrase, <mentioned>in Deum</mentioned>,
+            does not always denote the disposition of formed faith,
+            but it suffices that it denote the disposition toward the principal object of faith,
+            or also toward the ultimate end which is lovable above all things,
+            even if it is perhaps not actually loved by the one believing.
+            For thus we read in <ref xml:id="szthvi-a01566-Rd1e4575">John 12</ref>,
+            concerning certain ones:
+            <quote xml:id="szthvi-a01566-Qd1e4579">And they believed in him</quote>, namely in Christ,
+            of whom it is immediately added:
+            <quote xml:id="szthvi-a01566-Qd1e4584">they did not confess him,
+            because they loved the glory of men more than God</quote>;
+            and in <ref xml:id="szthvi-a01566-Rd1e4591">1 John 5</ref>
+            we are said to believe in <quote xml:id="szthvi-a01566-Qd1e4596">the testimony of God</quote>,
+            that is, in his testimony.
+          </p>
+          <p xml:id="szthvi-a01566-d1e4484">
+            13. Reply to the Second Member. — Erasmus to Be Avoided. —
+            And from this a reply can be given to the other part,
+            by admitting that reading — to believe in the one and holy Church —
+            does not signify a disposition toward the ultimate end,
+            but either only toward the object believed,
+            so that to believe in the holy Church is nothing other than to believe
+            that it is one and holy,
+            or at most it is to believe in it as the infallible rule of faith,
+            witnessing and proposing [the faith] from the movement of the Holy Spirit.
+            In this regard the manner of speaking of
+            <ref xml:id="szthvi-a01566-Rd1e5101"><name xml:id="szthvi-a01566-Nd1e5102">Erasmus</name>, in the dialogue on Faith</ref>
+            must be avoided, where he says he does not believe in the Church,
+            because it is a congregation of men which can deceive;
+            for although the Church, as it consists of men,
+            <cb ed="#P" n="b"/>
+            could from this standpoint be deceived and deceive,
+            yet insofar as it is governed by the Holy Spirit,
+            it is <quote xml:id="szthvi-a01566-Qd1e5118">the pillar and foundation of truth</quote>,
+            <ref xml:id="szthvi-a01566-Rd1e5123">1 Tim. 2</ref>.
+            Thus then it could be said in a good sense:
+            <mentioned>I believe in the Church</mentioned>,
+            just as in <ref xml:id="szthvi-a01566-Rd1e4649">Exod. 14</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e4651">They believed in God and in Moses</quote>;
+            and in the Hebrew it has:
+            <quote xml:id="szthvi-a01566-Qd1e5140">In God and in Moses</quote>;
+            and in <ref xml:id="szthvi-a01566-Rd1e4659">Psalm 70</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e4661">They did not believe in his wonders</quote>.
+            Nevertheless the truth is that in the Symbol one does not have
+            <mentioned>Credo in sanctam</mentioned>, but <mentioned>Credo sanctam Ecclesiam</mentioned>,
+            so that it is the thing believed, not the reason or end of believing,
+            and thus it is commonly found in the Symbol of the Church and in the Councils,
+            and <ref xml:id="szthvi-a01566-Rd1e5170">Augustine admonishes this in sermon 115 on the Seasons, and chapter 12</ref>,
+            and <ref xml:id="szthvi-a01566-Rd1e5175">the book on Faith and the Symbol, chapter 10</ref>,
+            and another passage cited from the Decree in the Gregorian Code has been corrected;
+            and Marius Victorinus also corrected the readings of Jerome
+            according to older and more reliable codices;
+            so also read Eusebius of Emesa, sermons 1 and 2 on the Symbol;
+            Ruffinus, Chrysologus, and others who write on the symbol,
+            while Epiphanius and Cyril do not seem to have distinguished so carefully
+            between those words with the particle <mentioned>in</mentioned> or without it,
+            and therefore seem to have written thus.
+          </p>
+        </div>
+        <div xml:id="szthvi-a01566-Dd1e4576">
+          <head xml:id="szthvi-a01566-Hd1e4578">Section 6</head>
+          <head xml:id="szthvi-a01566-Hd1e4580" type="question-title">Whether the matter of faith has grown over the course of time, or has at times been diminished</head>
+          <p xml:id="szthvi-a01566-d1e4583">
+            SECTION VI.
+            Whether the matter of faith has grown over the course of time, or has at times been diminished.
+          </p>
+          <p xml:id="szthvi-a01566-d1e4592">
+            1. The Sense of the Question Explained. — Three Periods of the Church. —
+            In this question, just as in the preceding one, we speak of the matter of faith per se;
+            for in accidental matters change can easily occur, as we shall also see.
+            But the essential matter of faith is entirely reducible to knowledge of the mysteries of God,
+            as he is God, and of Christ, as he is redeemer,
+            according to that saying:
+            <quote xml:id="szthvi-a01566-Qd1e5241">This is eternal life,
+            that they may know you, the only true God,
+            and Jesus Christ whom you have sent</quote>;
+            and thus the sense of the question is whether this knowledge of God and Christ
+            was greater or lesser in different times or ages of the Church.
+            To explain this, three principal periods of the Church must be distinguished,
+            namely, the age of the natural law, the written law, and the law of grace;
+            and within each of those periods various times can also be considered,
+            as <ref xml:id="szthvi-a01566-Rd1e5266">Gregory, in his Homilies on the Gospels</ref>,
+            distinguishes the age of the natural law from the beginning up to the flood,
+            and from <name xml:id="szthvi-a01566-Nd1e5273">Noah</name> up to <name xml:id="szthvi-a01566-Nd1e5277">Abraham</name>,
+            and from <name xml:id="szthvi-a01566-Nd1e5279">Abraham</name> up to <name xml:id="szthvi-a01566-Nd1e5282">Moses</name>.
+            Likewise, in each of these ages one must distinguish those men who were
+            the leaders and pastors of the Church in their times
+            from the common people and laity of the Church,
+            and thus
+            <pb ed="#P" n="32"/>
+            <cb ed="#P" n="a"/>
+            various comparisons arise concerning the perfections of faith,
+            which we shall briefly explain.
+          </p>
+          <p xml:id="szthvi-a01566-d1e4657">
+            2. Two Modes of Believing: Explicitly and Implicitly. —
+            The Mode of Believing Explicitly Varies Only by More and Less. —
+            The Mode of Believing Implicitly Varies from Various Principles. —
+            First. — Second. — Third. — Fourth. —
+            I further suppose that two modes are distinguished by which the matter of faith can be believed,
+            namely, explicitly and implicitly,
+            a distinction which will serve for nearly the whole of the matter.
+            To believe explicitly is nothing other than to believe something in itself,
+            so that it is the proximate object upon which the assent of faith falls.
+            But to believe implicitly is to believe only in another thing;
+            for what is thus believed is in truth not known,
+            nor does the intellect form its own concept of the proposition
+            that is said to be believed only implicitly,
+            but rather of the other proposition in which it is contained.
+            And the former mode varies only by more and less,
+            insofar as a more or less perfect concept can be formed about the same mystery of faith,
+            or also insofar as more or fewer things can be known about the same thing believed.
+            If one considers rightly, however, this variety consists only
+            either in more acts of faith, by which more truths pertaining to the same mystery
+            or to the same thing believed are believed explicitly and in themselves;
+            or certainly, if there is greater or lesser expression regarding the very same truth,
+            the diversity lies more in the apprehension than in the assent of faith itself,
+            and thus it can arise from human learning and effort
+            through acquired science, or through a better intellect or better intelligible species.
+            But the latter mode — namely, of implicit faith — can be founded on various principles.
+            For first, in one thing believed explicitly, other things can be said to be believed implicitly
+            by reason of the formal object, in which all believable things are connected,
+            so that it is impossible to believe one thing because God has revealed it
+            without the soul being disposed to believe all revealed things, if they are sufficiently proposed,
+            and for this reason they are believed implicitly;
+            just as, on the contrary, one who denies one article of faith implicitly denies all,
+            because he cannot adhere to others through faith if he departs from one;
+            or just as one who explicitly detests one sin on account of God
+            implicitly detests all by force and implication.
+            Second, this implicit faith can exist by relation to others who believe explicitly;
+            for in this way the simple faithful are said to believe all that the Church believes,
+            or what the Apostles handed down, even though they are ignorant of those things.
+            Third, this can occur on the part of the matter itself, and that in many ways,
+            namely, either because one proposition is contained in another as a conclusion in a principle,
+            from which it can be evidently drawn —
+            and in this way, one who believes that Christ is a man implicitly believes that he is visible;
+            or because one proposition is connected with another in the thing itself,
+            or through the identity of the thing,
+            although the connection itself cannot be known without faith —
+            and in this way, one who believes that God is infinite implicitly believes that he is triune;
+            or also, a particular is known implicitly in a universal, as is self-evident.
+            And finally, the circumstances of a mystery are said to be known implicitly in its substance,
+            and so one who believes that Christ is the redeemer
+            implicitly believes that he died for men, and the like.
+          </p>
+          <p xml:id="szthvi-a01566-d1e4812">
+            3. First Assertion. — Proved from Paul. — Likewise from the Fathers. — Likewise from Reason. —
+            With these points established, it must be said first that faith with regard to the substance
+            of things to be believed has always been the same from the beginning of the human race until now.
+            So teaches <ref xml:id="szthvi-a01566-Rd1e5476">St. Thomas here, article 7</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e5478">Hugh of St. Victor, Book 1 on the Sacraments, part 10, chapter 4 and following</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e5485">the Master, in Book 3, distinction 25</ref>, where the Doctors commonly [agree];
+            <ref xml:id="szthvi-a01566-Rd1e5490">Bonaventure, article 2, question 1</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e5497">Albert, article 1, to the second</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e5499">Scotus</ref>,
+            <ref xml:id="szthvi-a01566-Rd1e5502">Durandus</ref>,
+            <ref xml:id="szthvi-a01566-Rd1e5504">Richard, and others, question 1</ref>;
+            and <ref xml:id="szthvi-a01566-Rd1e5509">Alensis, third part, question sixty-nine</ref>.
+            And it is clearly proved from <ref xml:id="szthvi-a01566-Rd1e5514">Paul, in Hebrews 11</ref>,
+            where, when he had said:
+            <quote xml:id="szthvi-a01566-Qd1e5519">Without faith it is impossible to please God;
+            for one who approaches God must believe that he exists and that he is a rewarder</quote>;
+            these two things contain by force the whole substance of the matter of faith.
+            Likewise in the same place he defines
+            <quote xml:id="szthvi-a01566-Qd1e5532">faith as the substance of things hoped for</quote>;
+            but the things hoped for have always been the same in substance,
+            namely, eternal beatitude and those things that pertain to it.
+            Whence <ref xml:id="szthvi-a01566-Rd1e5544">Paul adds in the same place</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e5546">All these died in faith, not having received the promises,
+            but seeing them afar off</quote>.
+            Furthermore, <ref xml:id="szthvi-a01566-Rd1e5555">2 Corinthians 4</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e5557">Having (he says) the same spirit of faith</quote>;
+            and he is speaking of the ancient Fathers.
+            Also relevant is that of <ref xml:id="szthvi-a01566-Rd1e5564">Acts 4</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e5566">There is no other name under heaven given to men
+            by which we must be saved</quote>;
+            whence it is established that faith in Christ was always and ever necessary for salvation,
+            as Paul also expounded in <ref xml:id="szthvi-a01566-Rd1e5015">Acts 17</ref>,
+            <ref xml:id="szthvi-a01566-Rd1e5017">Romans 3</ref>,
+            and <ref xml:id="szthvi-a01566-Rd1e5023">Hebrews 9</ref>;
+            and as St. <ref xml:id="szthvi-a01566-Rd1e5590">Gregory expounded in homily seventeen on Ezekiel</ref>,
+            applying that of <ref xml:id="szthvi-a01566-Rd1e5029">Mark 11</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e5031">And those who went before and those who followed
+            all cried out: Hosanna to the son of David</quote>.
+            Moreover, this is the common consensus of the Fathers,
+            as is evident from <ref xml:id="szthvi-a01566-Rd1e5608">Irenaeus,
+            <pb ed="#P" n="33"/>
+            <cb ed="#P" n="a"/>
+            book four, chapter thirteen</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e5617">Eusebius, book one of the History, chapter four</ref>,
+            where on this ground he says that all the faithful from the beginning of the world
+            could be called Christians;
+            <ref xml:id="szthvi-a01566-Rd1e5627">likewise Epiphanius, heresy 66</ref>;
+            more extensively <ref xml:id="szthvi-a01566-Rd1e5632">Augustine, tractate 45 on John</ref>:
+            "The times have changed, not the faith" —
+            and he is speaking of faith with respect to its matter —
+            whence he adds: "The sound of the word has changed — 'he will come' or 'he has come' —
+            yet the same faith joins both."
+            He has similar things in <ref xml:id="szthvi-a01566-Rd1e5646">book eighteen of the City of God,
+            chapter forty-seven</ref>,
+            and in <ref xml:id="szthvi-a01566-Rd1e5651">sermon eight on the Seasons</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e5656">One (he says) is the faith of the New and Old Testament</quote>;
+            <ref xml:id="szthvi-a01566-Rd1e5661">likewise Letter 157 to Optatus</ref>;
+            at length in <ref xml:id="szthvi-a01566-Rd1e5666">book nineteen against Faustus, chapter fourteen and following</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e5080">Jerome, on Galatians 2 and 3</ref>;
+            Chrysostom and others.
+            The argument from reason is that there has always been the same Church among wayfaring men,
+            as will be said more fully below;
+            therefore there has always been the same faith with regard to its substance,
+            because faith is the bond and, as it were, the form constituting the Church and its members.
+            Likewise there has always been the same righteousness and holiness in substance
+            among wayfaring men; but the foundation of righteousness is faith.
+            Finally, all tend toward the same beatitude, and through the same mediator Christ;
+            therefore all must agree in the same faith, at least with respect to its substance.
+          </p>
+          <p xml:id="szthvi-a01566-d1e4966">
+            6. Second Assertion. — The Assertion is Supported by Authority. — Also Supported by Reason. —
+            Second, it must be said that this faith has always been explicit in the Church.
+            This assertion too is taught by the theologians cited,
+            and it is understood principally of the faith of men;
+            for we discuss the faith of Angels in
+            <ref xml:id="szthvi-a01566-Rd1e5731">book five on Angels, chapter six</ref>,
+            although both assertions can be verified of it as well;
+            for wayfaring Angels also tended through faith toward the same beatitude as men,
+            and through the same Christ, as the more probable opinion holds;
+            and therefore they also had explicit faith in the Trinity and the Incarnation,
+            as is treated in <ref xml:id="szthvi-a01566-Rd1e5748">the first part, question fifty-seven</ref>,
+            and as I said in <ref xml:id="szthvi-a01566-Rd1e5754">volume 1 on the Incarnation, disputation 32</ref>.
+            The assertion is also understood principally of fallen men,
+            for the state of innocence is treated elsewhere;
+            but since it will be necessary to explain the assertion,
+            I suppose that Adam also in the state of innocence
+            had explicit faith in Christ and his Incarnation.
+            I proved this at length in <ref xml:id="szthvi-a01566-Rd1e5772">part 3, question 1,
+            in the Commentary on article 3</ref>,
+            from the common teaching of the Fathers, and it is now a commonly received opinion.
+            From this it is thus credible in itself that Adam taught and handed on this faith to his sons,
+            and so it was preserved by tradition in the Church of the faithful,
+            even with respect to explicit faith in Christ;
+            whence <ref xml:id="szthvi-a01566-Rd1e5792">Pope Leo, Letter 23</ref>,
+            says that from the beginning of the human race
+            it was announced to men that Christ would come in the flesh;
+            and <ref xml:id="szthvi-a01566-Rd1e5801">Bernard, sermon 6 on the Vigil of the Nativity</ref>,
+            says that prophecy about Christ took its beginning from Adam himself.
+            Whence Job had this faith, when in chapter 19 he said:
+            <quote xml:id="szthvi-a01566-Qd1e5812">I know that my Redeemer lives</quote>;
+            from which <ref xml:id="szthvi-a01566-Rd1e5815">Augustine, book 18 of the City of God, chapter 57</ref>,
+            also infers that this faith was preserved among some of the gentiles.
+            Whence also the sacrifices which the faithful then offered
+            are believed to have been some signification of the Christ to come,
+            for which reason it is said in <ref xml:id="szthvi-a01566-Rd1e5208">Revelation</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e5210">the Lamb slain from the foundation of the world</quote>,
+            as many expound it;
+            and from <ref xml:id="szthvi-a01566-Rd1e5217">Hebrews 7</ref>,
+            it is established that Melchisedech offered sacrifice as a figure of Christ.
+            But later, when this faith had been obscured by sins
+            and men began to decline toward idolatry,
+            it was renewed in Abraham, who had a more express faith in the mysteries,
+            according to that of <ref xml:id="szthvi-a01566-Rd1e5231">John 8</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e5233">Abraham rejoiced to see my day; he saw it, and was glad</quote>,
+            and afterwards through the hands of the Fathers
+            and through the frequent revelations of God made to Isaac, Jacob, and others,
+            it came down to Moses, of whom, before he received the law,
+            Paul says in <ref xml:id="szthvi-a01566-Rd1e5247">Hebrews 11</ref>: by faith, he preferred
+            <quote xml:id="szthvi-a01566-Qd1e5251">the reproach of Christ to the treasures of Egypt</quote>;
+            and afterwards, in <ref xml:id="szthvi-a01566-Rd1e5256">Exodus 6</ref>,
+            there is narrated an excellent knowledge of God communicated to him.
+            David also had this faith very expressly,
+            as is evident from his Psalms and from the words of Christ in
+            <ref xml:id="szthvi-a01566-Rd1e5267">Matthew 22</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e5269">David in spirit calls him Lord</quote>;
+            and the same is true of the other Prophets,
+            especially Isaiah, of whom it is said in <ref xml:id="szthvi-a01566-Rd1e5277">John 12</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e5910">that he saw the glory of God, and spoke of him</quote>;
+            and in <ref xml:id="szthvi-a01566-Rd1e5283">Luke 10</ref> it is said generally
+            <quote xml:id="szthvi-a01566-Qd1e5919">that many kings and Prophets desired to see him</quote>;
+            whence also, in <ref xml:id="szthvi-a01566-Rd1e5290"><sic>Genes. 19</sic></ref>, it is said:
+            <quote xml:id="szthvi-a01566-Qd1e5929">the desired one of all nations</quote>.
+            From which <ref xml:id="szthvi-a01566-Rd1e5934">Irenaeus, book 4, chapter 24</ref>,
+            rightly concludes:
+            <quote xml:id="szthvi-a01566-Qd1e5939">If they desired, therefore they believed in him</quote>,
+            which desires lasted until aged Simeon;
+            but for the later period of the Church the matter is clear.
+            The argument from reason is none other than this:
+            it was so ordained and provided by God for his own glory and that of Christ,
+            that he might be more perfectly believed and loved by the faithful Church;
+            likewise because it was fitting that the principal mysteries of God,
+            which are to be seen in the homeland, should always
+            be explicitly believed by men on the way.
+          </p>
+          <p xml:id="szthvi-a01566-d1e5146">
+            5. Third Assertion, in Two Parts. — The First Part on What Basis It Stands. —
+            The Second Part Shown by Authority. —
+            I say thirdly: this explicit faith was always present in the Church
+            in its heads or leaders, but in the common people it was for the most part absent
+            until the age of the law of grace.
+            This assertion too is clear, and the first part has just been proved
+            in the preceding assertion;
+            for what we adduced proves it especially of the leaders of the Church.
+            But the other part can be drawn from that passage in
+            <ref xml:id="szthvi-a01566-Rd1e5347">Ephesians 3</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e5349">which was not made known to the sons of men in other generations</quote>,
+            that is, to the common people,
+            where Salmerón, Justinianus, and Cornelius, our commentators,
+            note this from certain Fathers,
+            weighing also what follows:
+            <quote xml:id="szthvi-a01566-Qd1e6011">as it has now been revealed to the holy Apostles</quote>,
+            etc., as if to say, it was far more obscure formerly to ordinary men than it is now.
+            Whence <ref xml:id="szthvi-a01566-Rd1e6019">John, first canonical epistle, chapter five</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e6021">We know that the Son of God has come,
+            and has given us understanding,
+            that we may know the true God, and be in his true Son</quote>;
+            whence <ref xml:id="szthvi-a01566-Rd1e6030">Gregory, homily 16 on Ezekiel, a little past the middle</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e6036">The knowledge (he says) that was in the spiritual Fathers
+            was not known to the whole people of the Hebrews;
+            for when the Prophets preached the omnipotent God — namely, the holy Trinity —
+            the people were ignorant of it,
+            holding only the Decalogue in faith, not knowing the law of the Trinity</quote>.
+            This view holds true with much greater reason in the Church of the Gentiles,
+            which existed before the written law, or even alongside it.
+            Indeed, the people of God surpassed in this,
+            because it had a more express knowledge of God himself;
+            for <quote xml:id="szthvi-a01566-Qd1e6064">the oracles of God were entrusted to it</quote>,
+            <ref xml:id="szthvi-a01566-Rd1e6067">Romans <sic>4</sic></ref>.
+            It was also obliged to believe explicitly that the Messiah would come,
+            to which the Gentiles were not obliged, because it was not proposed to them in that way.
+            Yet not even the people of the Hebrews recognized the Trinity,
+            nor was the divinity of the coming Messiah explicitly proposed to them;
+            nor were the other specific mysteries of him,
+            all of which the Christian people now believes explicitly,
+            as is evident from what was said about the Symbol.
+            The argument from reason for this truth also depends principally on divine ordination;
+            the fittingness on the part of men is given because those states of men were imperfect,
+            according to that of <ref xml:id="szthvi-a01566-Rd1e6099">Hebrews 7</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e6101">the law brought nothing to perfection</quote>.
+            Likewise because the human race was in a state of enmity,
+            inasmuch as satisfaction had not been made to God for the common offense;
+            and therefore, until the presence of Christ,
+            knowledge of faith, like the other gifts of grace,
+            was not communicated to men with great abundance,
+            but only as much as was expedient
+            <cb ed="#P" n="b"/>
+            for the greater glory of Christ and for the execution of divine predestination.
+          </p>
+          <p xml:id="szthvi-a01566-d1e5272">
+            6. Fourth Assertion, which Formally Answers the Title. — Its Argument. —
+            Fourth, from this a response is gathered to the proposed question,
+            namely that the matter of faith, with respect to explicit faith,
+            has grown over the course of time.
+            I say <mentioned>with respect to explicit faith</mentioned>,
+            because implicit faith was always present, and in all persons,
+            concerning the whole matter of faith,
+            through some of the modes of implicit faith enumerated above,
+            as each one will easily be able to see by applying them.
+            Concerning explicit faith, however, it is easily established from what has been said.
+            The argument is that through various times divine revelations and prophecies were multiplied,
+            by which the doctrine and matter of faith was proposed more expressly to men,
+            as is evident from Scripture,
+            and as <ref xml:id="szthvi-a01566-Rd1e6130">St. Thomas teaches at length in 2.2, q.174, art. 6</ref>.
+            There remains a difficulty, however, in explaining how this growth is to be understood
+            and what rule is to be observed in it;
+            for two rules are handed down by the Fathers, which are not without difficulty.
+          </p>
+          <p xml:id="szthvi-a01566-d1e5320">
+            7. First Rule of St. Thomas for Understanding the Proximate Assertion. —
+            His Conjecture. — Another Conjecture. —
+            The first rule is that of <ref xml:id="szthvi-a01566-Rd1e6150">St. Thomas here, q.1, art. 7, ad 4</ref>,
+            and <ref xml:id="szthvi-a01566-Rd1e6160">q. <sic>176</sic>, art.6</ref>:
+            that men who were closer to Christ, whether before or after his coming,
+            had faith more explicit or more perfect than the rest.
+            St. Thomas supports this rule only by this conjecture:
+            that in any given man, the state closer to youth is more perfect and robust;
+            therefore the same holds proportionately in the Church;
+            but the time of Christ's coming was like the youth of the Church,
+            for then was the <quote xml:id="szthvi-a01566-Qd1e6220">fullness of time</quote> in the world,
+            as <ref xml:id="szthvi-a01566-Rd1e6225">Paul says in Galatians 4</ref>;
+            therefore men closer to that age were also more perfect in faith.
+            We can add another conjecture:
+            those who are closer to the sun are more illuminated;
+            but Christ <quote xml:id="szthvi-a01566-Qd1e5543">was the true light</quote>,
+            as is said in <ref xml:id="szthvi-a01566-Rd1e5546">John 1</ref>,
+            and as long as he was in the world, he was the light of the world,
+            as he himself also said;
+            therefore men closer to him were more illuminated by him.
+          </p>
+          <p xml:id="szthvi-a01566-d1e5370">
+            8. A Dilemma Against the Said Rule. — The First Part of the Dilemma is Refuted. —
+            The Second Part of the Dilemma. — It is Argued Against It. —
+            Second Rule from St. Gregory. — Fittingness for the Second Rule. —
+            This rule, however, is not without difficulty:
+            for it is understood either universally or indefinitely;
+            but it seems unable to stand in either way.
+            Not universally, that is, of all men;
+            for before the coming of Christ many of the more ancient
+            had greater knowledge of the mysteries of faith
+            than many who came later and were closer to Christ —
+            <pb ed="#P" n="35"/>
+            <cb ed="#P" n="a"/>
+            for example, Moses surpassed those who came after him in the old law,
+            as <ref xml:id="szthvi-a01566-Rd1e6200">St. Thomas himself holds in the said article 6</ref>,
+            and as can be gathered from <ref xml:id="szthvi-a01566-Rd1e5595">Exodus 6</ref>.
+            Likewise David surpassed the later kings,
+            and Isaiah the later Prophets, and so with others.
+            But after the coming of Christ there were many in the Church
+            who came later in time and were nonetheless more learned in the wisdom of faith,
+            as experience also shows;
+            indeed the whole Church seems to grow from day to day
+            in greater explication of faith.
+            If however that rule is understood indefinitely, it will indeed be easier,
+            and the sense does not seem foreign to the mind of St. Thomas;
+            for he places the example only in John the Baptist and the Apostles,
+            and so he seems only to have meant that some men of that age surpassed all others;
+            yet even in this sense it is not without difficulty.
+            First, because Adam, as the parent of the whole human race,
+            seems to have had more explicit faith and greater wisdom than John the Baptist;
+            indeed even concerning Abraham, Moses, David, and the like,
+            that comparison seems at least uncertain.
+            Second, after the coming of Christ many propositions of faith have been defined
+            that were not previously of faith —
+            such as that Christ had two wills,
+            that the Blessed Virgin never sinned even venially,
+            that justification comes about through an inherent quality, and the like;
+            therefore the faith of the Church now seems more explicit
+            than it was even in the primitive Church among the Apostles,
+            since to have more explicit faith is nothing other than to extend it to more believable things.
+            Finally, St. Thomas's argument does not seem efficacious,
+            because Christ is a light of infinite activity, so to speak, and illuminates voluntarily,
+            and therefore his greater or lesser action is not to be inferred
+            from greater or lesser nearness in time,
+            but from the order established by his divine wisdom and predestination,
+            and thus he could by his will have ordained
+            that at this or that time the Church would be more or less instructed in faith,
+            whether that time was closer to or farther from the time of his Incarnation.
+          </p>
+          <p xml:id="szthvi-a01566-d1e5499">
+            9. Second Rule from Gregory. — Fitness argument for the Second Rule. —
+            The second rule, then, is that of <ref xml:id="szthvi-a01566-Rd1e639x">St. Gregory, in homily 16 on Ezekiel</ref>,
+            who says: <quote xml:id="szthvi-a01566-Qd1e6399">As the world is led toward its end, so for us the access to eternal knowledge is opened more broadly</quote>;
+            by which words he indicates that in the Church there is more explicit faith at any later time than at a preceding one,
+            which is supported by that saying of the Wise Man:
+            <quote xml:id="szthvi-a01566-Qd1e6415">The path of the just, like a shining light,
+            <cb ed="#P" n="b"/>
+            goes forward and grows until the perfect day</quote>.
+            Gregory also proves this by a certain induction;
+            for Abraham had more explicit faith than those who preceded him,
+            and Moses more perfect than Abraham, and David more than Moses,
+            as he himself says, and proves from that <ref xml:id="szthvi-a01566-Rd1e5723">Psalm 118</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e5729">I have had understanding above the elders.</quote>
+            And afterward John the Baptist surpassed all those who preceded him,
+            and the Apostles even surpassed him, at least in the excellence of doctrine.
+            Finally, a fitness argument can be added,
+            because it is natural for a human being to proceed from imperfect to perfect and to advance gradually,
+            and therefore in the elderly there is usually greater wisdom;
+            but God accommodates grace to nature;
+            therefore it is likely that he illuminated the world and the Church in like manner.
+          </p>
+          <p xml:id="szthvi-a01566-d1e5558">
+            10. Argument against this Second Rule. —
+            Yet this rule also is not without difficulty,
+            for nearly the same objections can be raised against it as against the preceding one,
+            except that many things are assumed in it as uncertain.
+            What is more difficult is this: that from it it follows that the doctors of the Church who came after the Apostles
+            were wiser in faith, or had it more explicitly, than the Apostles themselves —
+            which cannot be said, and is commonly rejected by theologians, even as rash;
+            for Christ promised especially to those <ref xml:id="szthvi-a01566-Rd1e5780">John 14, 15, and 16</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e5782">He will teach you all things, and will bring all things to your mind, whatsoever I shall have said to you</quote>;
+            and in the same place he says:
+            <quote xml:id="szthvi-a01566-Qd1e6501">All things whatsoever I have known from my Father, I have made known to you</quote>;
+            and therefore they are said to have the firstfruits of the Spirit, <ref xml:id="szthvi-a01566-Rd1e5796">Romans 8</ref>,
+            and <ref xml:id="szthvi-a01566-Rd1e5798">2 Corinthians 3</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e5801">But we all, beholding the glory of the Lord with open face</quote>;
+            and <ref xml:id="szthvi-a01566-Rd1e5806">Ephesians 1</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e5808">According to the riches of his grace, which hath superabounded in us in the wisdom of God</quote>;
+            whence <ref xml:id="szthvi-a01566-Rd1e6532">Epiphanius, Heresies 66, near the end</ref>, says that
+            <quote xml:id="szthvi-a01566-Qd1e6537">the Apostles received a gift by which the Holy Spirit clearly set forth all things for them</quote>,
+            namely with the clarity of explicit faith, not of science;
+            and <ref xml:id="szthvi-a01566-Rd1e6546">Cyprian, Epistle 74</ref>, <ref xml:id="szthvi-a01566-Rd1e6551">Augustine, Book 5 On Baptism, ch. 26</ref>,
+            and <ref xml:id="szthvi-a01566-Rd1e6557">Cyril, Book 4 on Isaiah, homily 4</ref>, hold the same view about the Apostles;
+            and reason seems to show this, because they were the teachers of the faith of the New Testament,
+            and therefore the faith of the Church is said to be founded upon the faith of the Apostles;
+            therefore faith cannot be greater in the Church than it was in the Apostles.
+          </p>
+          <p xml:id="szthvi-a01566-d1e5630">
+            11. The said rules are sustained, and certain notes are made for them. —
+            Notwithstanding these objections, the said rules, when properly explained, are true
+            and can easily be brought into agreement.
+            It is necessary, however, first to distinguish between the common people of the faithful
+            and the leaders or heads of the Church, and to make the comparison proportionately.
+            <pb ed="#P" n="36"/><cb ed="#P" n="a"/>
+            Then this comparison must be made precisely in the knowledge of faith
+            insofar as it depends on divine revelation and infused light,
+            not in acquired knowledge, which can be obtained by human industry
+            even in matters divine, faith itself being presupposed.
+            And finally, comparisons of this sort are not to be understood as needing to be verified
+            exactly and in all persons and times, but regularly and for the most part,
+            or as they say "from the whole class," or by comparing state with state,
+            or the heads of those states among themselves —
+            all of which is drawn from <ref xml:id="szthvi-a01566-Rd1e6570">St. Thomas, the said question 174, article 6</ref>,
+            and from <ref xml:id="szthvi-a01566-Rd1e6575">Cajetan, question 1, article 7</ref>.
+          </p>
+          <p xml:id="szthvi-a01566-d1e5682">
+            12. First pronouncement for the First Rule: a two-part statement. — First part. — Second part. —
+            First, then, comparing the state of the Church with respect to its body, or common people,
+            it is true that there was more explicit faith in the Church in the state or time closer to Christ the Lord.
+            This is sufficiently known from what has been said and from the discussion made above;
+            for in the law of nature, faith was more obscure or implicit than under the law of Moses;
+            and in the law of grace it was much more explicit, both with regard to the mystery of the Trinity —
+            for, as <ref xml:id="szthvi-a01566-Rd1e6655">Gregory above</ref> says,
+            <quote xml:id="szthvi-a01566-Qd1e6660">through the New Testament the faith of the Trinity grew in the heart of the faithful people,
+            in accordance with that text of Matthew, the last chapter:
+            <quote xml:id="szthvi-a01566-Qd1e6666">Go, teach all nations</quote></quote>, etc. —
+            and with regard to the mystery of the Incarnation, concerning which <ref xml:id="szthvi-a01566-Rd1e6673">Paul, in Ephesians 3</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e6676">In former generations the mystery of Christ was not known,
+            as it has now been revealed to the holy Apostles and Prophets</quote>;
+            and therefore <ref xml:id="szthvi-a01566-Rd1e6687">Irenaeus, Book 3, ch. 47</ref> said:
+            <quote xml:id="szthvi-a01566-Qd1e6689">In the New Testament, the faith of men which is before God has been increased</quote>.
+            But when distinguishing within those same states the times closer to or farther from Christ,
+            or from the end of the world, I believe nothing certain can be affirmed;
+            for in each state there could be great variety and change of affairs,
+            and so in the state of the law of nature faith could have been sufficiently explicit at its beginning,
+            in keeping with the capacity of that state, and then gradually obscured until the time of Abraham,
+            in whom it was, as it were, renewed, and perhaps increased in the knowledge of God
+            as regards his omnipotence, as <ref xml:id="szthvi-a01566-Rd1e6718">St. Thomas above</ref> says,
+            and as regards hope in the coming Christ,
+            on account of the special promise made to Abraham and his children.
+            But then gradually the knowledge of faith began to diminish,
+            and so it proceeded until Moses.
+            Similarly, also in the state of the old law there was great vicissitude and change,
+            as is evident from Scripture;
+            and therefore God at certain times sent Prophets,
+            through whom the knowledge of faith would be, as it were, renewed;
+            hence it could happen that at the time of the coming of Christ
+            <cb ed="#P" n="b"/>
+            that people suffered greater ignorance than in earlier times.
+            Finally, such changes have been found also in the Church of Christ.
+            But if they are carefully considered, they were more in variety or geographical extension
+            than in the substantial faith of the body of the Church;
+            for this always seems to have been equally explicit in the common people of the faithful,
+            at least as regards the Apostles' Creed.
+            Nor is this contrary to the rule of St. Thomas,
+            for this Church is always equally near to Christ:
+            for he promised both his own presence, saying:
+            <quote xml:id="szthvi-a01566-Qd1e6580">Behold, I am with you until the consummation of the world</quote>;
+            and the assistance of the divine Spirit, saying:
+            <quote xml:id="szthvi-a01566-Qd1e6585">That he may remain with you forever</quote>.
+          </p>
+          <p xml:id="szthvi-a01566-d1e5810">
+            13. Second pronouncement for the same First Rule. — It is rash to think anyone after the Apostles had more explicit faith. — Second qualification of the pronouncement. —
+            Second, comparing the heads, it must be said that those persons closer to Christ
+            who were the heads of the Church in each state were more illuminated in faith, speaking regularly.
+            This is how St. Thomas explains his view, and this is also how the rule of Gregory is to be interpreted,
+            and it is easily evident from his discussion,
+            because Moses seems to have been more excellent in divine illuminations than those who preceded him;
+            and St. Thomas says specifically that he surpassed them in knowledge of the divinity
+            as regards its simplicity, which God showed him when he revealed that name:
+            <quote xml:id="szthvi-a01566-Qd1e6822">I am who I am</quote>,
+            in accordance with <ref xml:id="szthvi-a01566-Rd1e6828">that text of Exodus 6</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e6830">I have made my name manifest to them</quote>.
+            And afterward the Apostles received greater knowledge,
+            as the arguments already made rightly prove;
+            nor is it to be thought that anyone after them had greater knowledge of faith,
+            nor could that be affirmed without rashness, as has also been sufficiently proven.
+            I said "regularly," however, because in any state some exception can be conceived —
+            for example, in the state of the law of nature perhaps Adam surpassed those who came after him,
+            and in the state of the written law David perhaps surpassed Moses, Isaiah, and others,
+            as has also been touched upon.
+            Furthermore, John the Baptist can be compared with the Apostles;
+            and regarding <name xml:id="szthvi-a01566-Nd1e6861">Elijah</name> and <name xml:id="szthvi-a01566-Nd1e6863">Enoch</name>,
+            insofar as they are to come at the time of the last judgment,
+            one can consider whether they will have equal or greater knowledge of faith;
+            and thus in these matters nothing more certain can be affirmed.
+          </p>
+          <p xml:id="szthvi-a01566-d1e5886">
+            14. Third pronouncement for both rules. —
+            Third, it must be said specifically regarding the Church of Christ
+            that with the passage of time it has grown in acquired wisdom concerning divine things,
+            mediated by faith, as experience makes clear.
+            Hence with regard to this wisdom there could also be change and variety in the Church,
+            in which none of the said rules can have moral certainty;
+            for in certain times closer to the coming of Christ the Church seems to have abounded
+            with greater light and knowledge, there being in it more illustrious doctors,
+            which afterward could diminish as those doctors passed away,
+            and again afterward increase as others arrived —
+            for this all depends on the order of divine providence,
+            together with the diligence of the pastors of the Church;
+            and this is proven by the difficulties raised, which are easily resolved from what has been said.
+          </p>
+          <p xml:id="szthvi-a01566-d1e5933">
+            15. A small question. — Motivation for the negative part. —
+            There remains only one difficulty still to be resolved, which was also already proposed
+            and is of greater moment: namely, whether faith in the Church of Christ has grown,
+            with regard to certain propositions to be believed as matters of faith, in a later time,
+            which previously were not believed as matters of faith?
+            For from what has been said the negative part seems to follow,
+            because infused wisdom could not continue to grow extensively in this Church,
+            otherwise later pastors of the Church could surpass the Apostles in this wisdom;
+            likewise, in this Church there are no new revelations; therefore neither are there new objects of belief.
+            Finally, the Scholastics cited above seem to hold this view,
+            saying that the faith of the Church does not grow with respect to the number of objects of belief,
+            but only with respect to their explanation;
+            and <ref xml:id="szthvi-a01566-Rd1e6964">St. Thomas, in this question 1, article 10, ad 1</ref>,
+            says that nothing is taught by the Church that is not contained in the doctrine of the Apostles,
+            but is explained more fully and proposed to the faithful on account of heretics;
+            whence also <ref xml:id="szthvi-a01566-Rd1e6977">Waldensis, Book 2 of the Doctrinale fidei antiquae, chapters 22 and 23</ref>,
+            says that the Church cannot establish a new article of faith but only explain the ancient ones,
+            which is also taught by <ref xml:id="szthvi-a01566-Rd1e6987">Castro, Book 1 Against Heretics, chapter 8</ref>;
+            and <ref xml:id="szthvi-a01566-Rd1e6992">Cano, Book 2 of the Loci, chapter 7</ref>
+            and <ref xml:id="szthvi-a01566-Rd1e6997">Book 4, chapter 3</ref>.
+          </p>
+          <p xml:id="szthvi-a01566-d1e5994">
+            16. Prior part of the true resolution. — Posterior part. —
+            But because this point touches on the matter of the power of the Pope and Council
+            to define the truths of faith, which we will treat expressly
+            <ref xml:id="szthvi-a01566-Rd1e7011">below, Disputation 5, sections 1 and 8</ref>,
+            I therefore say briefly that it must simply be asserted
+            that the Church does not hand down a new faith, but always establishes and explains the ancient one;
+            for that is why it always has recourse to Scripture and the Apostolic traditions,
+            and the ancient Fathers also teach this, such as
+            <ref xml:id="szthvi-a01566-Rd1e7030">Vincent of Lérins, in the book Against the Profane Novelties of Words, chapters 7 and 37</ref>;
+            <ref xml:id="szthvi-a01566-Rd1e7037">Irenaeus, Book 3 Against Heresies, chapter 2</ref>; and
+            <cb ed="#P" n="b"/>
+            <ref xml:id="szthvi-a01566-Rd1e7042">Jerome</ref> on <ref xml:id="szthvi-a01566-Rd1e6238">Psalm 86</ref>:
+            <quote xml:id="szthvi-a01566-Qd1e6240">The Lord has told it in the scriptures of the peoples,
+            and of those princes who were in it</quote>,
+            where he expounds the word <mentioned>were</mentioned> to explain that those princes were the Apostles.
+            Notwithstanding this, however, it is true that some proposition is now believed explicitly as a matter of faith,
+            which previously was not believed explicitly by the Church,
+            even though it was contained implicitly in the ancient doctrine;
+            this is proven by the examples adduced above,
+            and an excellent example is also that of baptism conferred by a heretic in the form of the Church —
+            whether it should be repeated, or whether it is valid;
+            for in the time of Cyprian neither was a matter of faith;
+            and therefore, although he and Pope Stephen held contrary views,
+            they nonetheless remained in the unity of the same faith, because Stephen defined nothing;
+            but afterward it was handed down as a matter of faith that such baptism is not to be repeated;
+            and many similar examples can be adduced,
+            and without doubt this pertains to the defining power of the Church.
+            Nor is a new revelation necessary for this,
+            but the infallible assistance of the Holy Spirit suffices
+            to explain and propose explicitly what was previously contained only implicitly in the revealed deposit.
+          </p>
+          <p xml:id="szthvi-a01566-d1e6079">
+            17. The motivations of the negative part in no. 15 are answered. — And thus the said authors are to be explained. —
+            For the explanation which they say the Church can make
+            is sometimes by means of the explanation of a new proposition contained within the ancient ones.
+            But that proposition is never a new article,
+            because it does not pertain to the, as it were, substantial matter of faith
+            to be believed explicitly by all —
+            for that has always been sufficiently explained in the Creed —
+            but it often pertains to the doctrine of faith
+            that must be known by the doctors of the Church,
+            according to the variety or necessity of the times.
+          </p>
+          <p xml:id="szthvi-a01566-d1e6110">
+            18. One class of propositions that over time come to be believed explicitly. — Another class. —
+            Finally, on account of what has been touched upon regarding the Apostles,
+            we can distinguish a twofold order of propositions that over the course of time come to be believed explicitly.
+            For some pertain, as it were, to the substance of mysteries —
+            as in the mystery of the Incarnation, that Christ had two wills;
+            and in the mystery of the Eucharist, that the substance of bread does not remain after consecration,
+            and similar propositions.
+            Of these kinds it must be believed that they were known by the Apostles
+            not only implicitly but explicitly,
+            because they understood the Scriptures most excellently,
+            and all the mysteries that pertained to the tradition of faith.
+            But there are other contingent propositions
+            that had not yet come about in the time of the Apostles —
+            such that this or that person is the Pope, that this is a
+            <pb ed="#P" n="38"/>
+            <cb ed="#P" n="a"/>
+            true Council, and similar matters.
+            These did not need to be known explicitly by the Apostles, but only in a general way,
+            because it was not necessary that all future things be revealed to them.
+            And perhaps in this way on the day of Pentecost they were not explicitly taught
+            about all the mysteries of faith with regard to their particular circumstances —
+            such as the manner of the calling of the Gentiles and the cessation of the legal observances —
+            as is plainly gathered from <ref xml:id="szthvi-a01566-Rd1e6394">Acts 10 and 15</ref>.
+            And thus also John, in the <ref xml:id="szthvi-a01566-Rd1e6398">Apocalypse</ref>,
+            understood many things about the future that had not been revealed to others,
+            and perhaps many of these will not be understood certainly and explicitly until they are fulfilled.
+            In this way, therefore, the Church can advance in knowing these matters,
+            even with the certainty of faith,
+            through the definition of the Church,
+            which, by reason of the assistance of the Holy Spirit, has the force of revelation,
+            or infallibly applies the universal revelation to a particular object.
+          </p>
+          <p xml:id="szthvi-a01566-d1e6201">
+            And these remarks suffice concerning the material object.
+            For the other matters that could be treated here —
+            regarding propositions believed only mediately,
+            or those handed down but not written —
+            depend on what will be said about the formal object and about the rules of faith,
+            and will be treated there.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
