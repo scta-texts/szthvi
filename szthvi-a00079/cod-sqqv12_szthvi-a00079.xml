@@ -253,9 +253,9 @@
             eo<lb break="no" ed="#P" n="87"/>dem modo intelligunt communiter Concilia et
             <lb ed="#P" n="88"/>Patres, ut tractando de voto dixi, libro 
             pri<lb break="no" ed="#P" n="89"/>mo, cap. 13, et lib. 4, capite primo, juxta 
-            il<lb break="no" ed="#P" n="90"/>lud 14 ad Timoth. 5: Habentes damnationem,
+            il<lb break="no" ed="#P" n="90"/>lud 14 ad Timoth. 5: <quote xml:id="szthvi-a00079-Qd1e579" source="http://scta.info/resource/Itim5_12@1-7">Habentes damnationem,
             <lb ed="#P" n="91"/>quia primam fidem. id est, fidelitatem ex voto
-            <lb ed="#P" n="92"/>debitam, irritam fecerunt. Denique hoc modo
+            <lb ed="#P" n="92"/>debitam, irritam fecerunt</quote>. Denique hoc modo
             <lb ed="#P" n="93"/>attribuitur fides Deo, ad Rom. 3: Numquid
             <lb ed="#P" n="94"/>incredulitas eorum fidem Dei evacuavit? ei ab
             <lb ed="#P" n="95"/>hac denominatur Deus fidelis, neque enim
@@ -332,7 +332,7 @@
             <lb ed="#P" n="50"/>Concord., cap. 30, 32 et 35; et moderni 
             ex<lb break="no" ed="#P" n="51"/>positores divi Thomae 2. 2, in principio; et
             <lb ed="#P" n="52"/>praecipue adducunt illud Jacobi primo: 
-            Po<lb break="no" ed="#P" n="53"/>stulet autem in fide nihil heesitans, quia fides
+            <quote xml:id="szthvi-a00079-Qd1e785" source="http://scta.info/resource/iac1_6@1-6">Po<lb break="no" ed="#P" n="53"/>stulet autem in fide nihil heesitans</quote>, quia fides
             <lb ed="#P" n="54"/>catholica non habet pro objecto 
             impetratio<lb break="no" ed="#P" n="55"/>nem orationis, ut certo credat illam esse 
             fu<cb ed="#P" n="b"/><lb ed="#P" n="56" break="no"/>turam; ergo non potest in hoc sensu postulari

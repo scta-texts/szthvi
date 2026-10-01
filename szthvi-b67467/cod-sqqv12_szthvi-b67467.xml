@@ -71,7 +71,7 @@
           <lb ed="#P" n="27"/>esse velit actum, quo suae ipsius necessitati
           <lb ed="#P" n="28"/>quis subvenit : Est enim (inquit) eleemosyna
           <lb ed="#P" n="29"/>opus misericordie - verissimeque dictum est:
-          <lb ed="#P" n="30"/><quote source="http://scta.info/resource/sir30_24@1-5">Miserere anime tuae placens Deo</quote>, Ecclesiastici
+          <lb ed="#P" n="30"/><quote xml:id="szthvi-b67467-Qd1e141" source="http://scta.info/resource/sir30_24@1-5">Miserere anime tuae placens Deo</quote>, Ecclesiastici
           <lb ed="#P" n="31"/>capite trigesimo. De eleemosyna multa eaque
           <lb ed="#P" n="32"/>praclara scripsere Sancti Patres. Cyprianus
           <lb ed="#P" n="33"/>de Opere et eleemosyna ; Basilius, Concione in
@@ -115,15 +115,15 @@
             di<lb break="no" ed="#P" n="63"/>vino, quod ex genere suo sub mortali obligat.
             <lb ed="#P" n="64"/>Conclusio in genere est certa de fide, Matth.
             <lb ed="#P" n="65"/>25, ubi damnantur homines ob hujus praecepti
-            <lb ed="#P" n="66"/>transgressionem : Discedite in ignem eternum;
-            <lb ed="#P" n="67"/><quote source="http://scta.info/resource/mt25_42@1-7">esurivi enim, et non dedistis mihi manducare</quote>,
-            <lb ed="#P" n="68"/>etc.; Eccles. 4: Hleemosynam pauperis ue 
-            de<lb break="no" ed="#P" n="69"/>fraudes ; et infra : Declina pauperi aurem
-            <lb ed="#P" n="70"/>tuam et redde debitum tuum. Unde recte 
+            <lb ed="#P" n="66"/>transgressionem : <quote xml:id="szthvi-b67467-Qd1e237" source="http://scta.info/resource/mt25_41@9-15">Discedite in ignem eternum</quote>;
+            <lb ed="#P" n="67"/><quote xml:id="szthvi-b67467-Qd1e241" source="http://scta.info/resource/mt25_42@1-7">esurivi enim, et non dedistis mihi manducare</quote>,
+            <lb ed="#P" n="68"/>etc.; Eccles. 4: <quote xml:id="szthvi-b67467-Qd1e246" source="http://scta.info/resource/sir4_1@2-5">Hleemosynam pauperis ue 
+            de<lb break="no" ed="#P" n="69"/>fraudes</quote> ; et infra : <quote xml:id="szthvi-b67467-Qd1e252" source="http://scta.info/resource/sir4_8@1-8">Declina pauperi aurem
+            <lb ed="#P" n="70"/>tuam et redde debitum tuum</quote>. Unde recte 
             Am<lb break="no" ed="#P" n="71"/>brosius, in lib. de Nabute, cap. 12: 
             Debi<lb break="no" ed="#P" n="72"/>tum (inquit) reddis, non largiris indebitum :
-            <lb ed="#P" n="73"/>ideoque tibi dicit Scriptura - Declina pauperi
-            <lb ed="#P" n="74"/>aurem tuam, et redde deb tum tuum. Et 
+            <lb ed="#P" n="73"/>ideoque tibi dicit Scriptura - <quote xml:id="szthvi-b67467-Qd1e263" source="http://scta.info/resource/sir4_8@1-8">Declina pauperi
+            <lb ed="#P" n="74"/>aurem tuam, et redde deb tum tuum</quote>. Et 
             Na<lb break="no" ed="#P" n="75"/>zianzenus, oratione de Pauperum amore, late
             <lb ed="#P" n="76"/>probat eleemosynam in praecepto esse, et in
             <lb ed="#P" n="77"/>tine addit : An tu benignitatem non 
@@ -140,9 +140,9 @@
             <lb ed="#P" n="88"/>oportere super fluum in egenos distribuere ; 
             nul<lb break="no" ed="#P" n="89"/>lam praecepti habuit rationem : Ne abstineas
             <lb ed="#P" n="90"/>benefacere inopi, et eleemosgna, et fides non 
-            de<lb break="no" ed="#P" n="91"/>serant te, Tobiae 4; et <quote source="http://scta.info/resource/is58_7@1-4">frange esurienti 
+            de<lb break="no" ed="#P" n="91"/>serant te, Tobiae 4; et <quote xml:id="szthvi-b67467-Qd1e305" source="http://scta.info/resource/is58_7@1-4">frange esurienti 
             pa<lb break="no" ed="#P" n="92"/>nem tuum</quote>, Isaiae 58. Ratio denique hujus
-            <lb ed="#P" n="93"/>praecepti sumitur ex 1 Joannis 3: <quote source="http://scta.info/resource/Iio3_17@1-22">Qui 
+            <lb ed="#P" n="93"/>praecepti sumitur ex 1 Joannis 3: <quote xml:id="szthvi-b67467-Qd1e313" source="http://scta.info/resource/Iio3_17@1-22">Qui 
             habue<lb break="no" ed="#P" n="94"/>rit substantiam Intjus mundi, et viderit 
             fra<lb break="no" ed="#P" n="95"/>irem suum necessitatem habere et clauserit
             <lb ed="#P" n="96"/>viscera sua ab eo, quomodo charitas Dei 
@@ -168,8 +168,8 @@
             simi<lb break="no" ed="#P" n="9"/>libus, et ex Patribus confirmant; sed illum
             <lb ed="#P" n="10"/>Augustinus refellit libro 21 de Civitat., cap.
             <lb ed="#P" n="11"/>22. et sufficit locus Pauli, prima ad Corinth.
-            <lb ed="#P" n="12"/>13: <quote source="http://scta.info/resource/Icor13_3@2-6">Si distribuero in cibos pauperum</quote>, etc.,
-            <lb ed="#P" n="13"/><quote source="http://scta.info/resource/Icor13_3@17-20">charitatem autem non habuero, nihil sum</quote>.
+            <lb ed="#P" n="12"/>13: <quote xml:id="szthvi-b67467-Qd1e369" source="http://scta.info/resource/Icor13_3@2-6">Si distribuero in cibos pauperum</quote>, etc.,
+            <lb ed="#P" n="13"/><quote xml:id="szthvi-b67467-Qd1e374" source="http://scta.info/resource/Icor13_3@17-20">charitatem autem non habuero, nihil sum</quote>.
             <lb ed="#P" n="14"/>Unde constat hoc praeceptum esse quidem 
             ne<lb break="no" ed="#P" n="15"/>cessarium, non tamen sufficere. Judicantur
             <lb ed="#P" n="16"/>autem homines ex illo, vel quia ejus opera
@@ -260,10 +260,10 @@
             reji<lb break="no" ed="#P" n="94"/>citur. —Duico tertio praceptum hoc se 
             exten<lb break="no" ed="#P" n="95"/>dere ad omnem proximum in necessitate 
             con<lb break="no" ed="#P" n="96"/>stitutum, sive propinquus sit, sive alienus, sive
-            <lb ed="#P" n="97"/>peccator, sive justus. Est de fide, Tobiae 4: Voli
-            <lb ed="#P" n="98"/>acertere faciem tuum ab ullo paupere ; etsupra
+            <lb ed="#P" n="97"/>peccator, sive justus. Est de fide, Tobiae 4: <quote xml:id="szthvi-b67467-Qd1e570" source="http://scta.info/resource/tob4_7@7-13">Voli
+            <lb ed="#P" n="98"/>acertere faciem tuum ab ullo paupere</quote> ; etsupra
             <lb ed="#P" n="99"/>vidimus praeceptum charitatis se extendere ad
-            <lb ed="#P" n="100"/>inumicos; et expresse Proverbiorum 25: <quote source="http://scta.info/resource/prov25_21@1-6">Si
+            <lb ed="#P" n="100"/>inumicos; et expresse Proverbiorum 25: <quote xml:id="szthvi-b67467-Qd1e580" source="http://scta.info/resource/prov25_21@1-6">Si
             esurierit inimicus tuus, ciba illum</quote>. Unde 
             ex<lb break="no" ed="#P" n="102"/>cluditur error Wiclephi, et aliorum 
             haeretico<lb break="no" ed="#P" n="103"/>rum apud Waldensem, libro secundo Doctrin.,
@@ -421,8 +421,8 @@
             <lb ed="#P" n="19"/>aliquis est dominus, vel habet legitimam et
             <lb ed="#P" n="20"/>absolutam administrationem. Est certa, et
             <lb ed="#P" n="21"/>constat Proverb. 3: Si cales, et ipse benefac ,
-            <lb ed="#P" n="22"/>et honora Dominum de tua substantia ; et Isaiae
-            <lb ed="#P" n="23"/>58 : Frange esurienti panem iuum. Idem 
+            <lb ed="#P" n="22"/>et <quote xml:id="szthvi-b67467-Qd1e915" source="http://scta.info/resource/prov3_9@1-5">honora Dominum de tua substantia</quote> ; et Isaiae
+            <lb ed="#P" n="23"/>58 : <quote xml:id="szthvi-b67467-Qd1e920" source="http://scta.info/resource/is58_7@1-4">Frange esurienti panem iuum</quote>. Idem 
             ira<lb break="no" ed="#P" n="24"/>dunt Patres. Ratio est, quia non licet alicui
             <lb ed="#P" n="25"/>dispensare aliena; item per eleemosynam
             <lb ed="#P" n="26"/>transfertur dominium, ut ex sectione 5 
@@ -1462,9 +1462,9 @@
             so<lb break="no" ed="#P" n="101"/>lum obligat ad subveniendum necessitati
             <lb ed="#P" n="102"/>proximi ; at satis sublevatur per mutuum.
             <lb ed="#P" n="103"/>Unde in Sceriptura interdum haec obligatio per
-            <lb ed="#P" n="104"/>mutuum esxplicatur, Luc. 6: Benefacite et 
-            mu<lb break="no" ed="#P" n="105"/>tuwn date ; et Psal. 36, de justo dicitur : Tota
-            <lb ed="#P" n="106"/>die miseretur, et commodat ; idemque reperitur
+            <lb ed="#P" n="104"/>mutuum esxplicatur, Luc. 6: <quote xml:id="szthvi-b67467-Qd1e3129" source="http://scta.info/resource/lc6_35@6-9">Benefacite et 
+            mu<lb break="no" ed="#P" n="105"/>tuwn date</quote> ; et Psal. 36, de justo dicitur : <quote xml:id="szthvi-b67467-Qd1e3134" source="http://scta.info/resource/ps36_26@1-5">Tota
+            <lb ed="#P" n="106"/>die miseretur, et commodat</quote> ; idemque reperitur
             <lb ed="#P" n="107"/>Psalm. 111, Eccles. 29: Feenerare progimo tuo
             <pb ed="#P" n="688"/>
             <cb ed="#P" n="a"/>

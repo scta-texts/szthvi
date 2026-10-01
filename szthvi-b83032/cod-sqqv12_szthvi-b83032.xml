@@ -287,8 +287,8 @@
             ag<lb break="no" ed="#P" n="104"/>gressio est, sed defensio. Quomodo leges 
             civi<lb break="no" ed="#P" n="105"/>les dicentes, si quis velit me expellere a 
             pos<lb break="no" ed="#P" n="106"/>sessione, licere vim vi repellere, etiam in 
-            con<lb break="no" ed="#P" n="107"/>scientia verae sunt, ut in <ref>leg. 1, Cod. Unde vi</ref>,
-            <lb ed="#P" n="108"/>et <ref>lege 1 et 3, ff. de Vi, et vi armata</ref>. Quia illa
+            con<lb break="no" ed="#P" n="107"/>scientia verae sunt, ut in <ref xml:id="szthvi-b83032-Rd1e696">leg. 1, Cod. Unde vi</ref>,
+            <lb ed="#P" n="108"/>et <ref xml:id="szthvi-b83032-Rd1e700">lege 1 et 3, ff. de Vi, et vi armata</ref>. Quia illa
             <lb ed="#P" n="109"/>non est aggressio, sed defensio, quam etiam
             <lb ed="#P" n="110"/>licet aggredi propria auctoritate; atque 
             ex<pb ed="#P" n="739"/><cb ed="#P" n="a"/><lb ed="#P" n="1" break="no"/>tenduntur haec jura ad eum qui, cum esset 
@@ -297,7 +297,7 @@
             <lb ed="#P" n="4"/>recuperet. Decernunt quippe spoliatum posse
             <lb ed="#P" n="5"/>armis rem aggredi, etiam propria auctoritate,
             <lb ed="#P" n="6"/>quia illa non est vere aggressio, sed defensio
-            <lb ed="#P" n="7"/>possessionis civilis; habetur in <ref>cap. Solum,
+            <lb ed="#P" n="7"/>possessionis civilis; habetur in <ref xml:id="szthvi-b83032-Rd1e724">cap. Solum,
             <lb ed="#P" n="8"/>extra, de Restitutione spoliatorum</ref>. Quocirca
             <lb ed="#P" n="9"/>notandum est, an injuria sit in fieri moraliter,
             <lb ed="#P" n="10"/>an facta jam sit et per bellum satisfactio 
@@ -316,7 +316,7 @@
             <lb ed="#P" n="23"/>quoad potest, suum jus tueri, non censetur
             <lb ed="#P" n="24"/>simpliciter passus injuriam, nec dejectus a sua
             <lb ed="#P" n="25"/>possessione. Ita exponunt communiter 
-            Docto<lb break="no" ed="#P" n="26"/>res, <ref>Sylv., verbo Bellum, 2</ref>; <ref>Bartol. et Juristae,
+            Docto<lb break="no" ed="#P" n="26"/>res, <ref xml:id="szthvi-b83032-Rd1e768">Sylv., verbo Bellum, 2</ref>; <ref xml:id="szthvi-b83032-Rd1e770">Bartol. et Juristae,
             <lb ed="#P" n="27"/>in dicta lege 3, § Cum igitur, ff. de Vi, et vi
             <lb ed="#P" n="28"/>armata</ref>.
           </p>
@@ -334,7 +334,7 @@
             incom<lb break="no" ed="#P" n="39"/>moda quae secum affert, ex iis negotiis est
             <lb ed="#P" n="40"/>quae saepe male tiunt. Et ideo etiam multis 
             in<lb break="no" ed="#P" n="41"/>diget circumstantiis ut honestetur. (De quo
-            <lb ed="#P" n="42"/><ref>Bellar., de Laicis, l. 3, cap. 15</ref>; <ref>Molin., disp.
+            <lb ed="#P" n="42"/><ref xml:id="szthvi-b83032-Rd1e809">Bellar., de Laicis, l. 3, cap. 15</ref>; <ref xml:id="szthvi-b83032-Rd1e811">Molin., disp.
             <lb ed="#P" n="43"/>10 et sequent.</ref>)
           </p>
         </div>
@@ -358,8 +358,8 @@
             tempo<lb break="no" ed="#P" n="51"/>ralibus non habet, vel respublica quae similem
             <lb ed="#P" n="52"/>jurisdictionem apud se retinuit, habet jure 
             na<cb ed="#P" n="b"/><lb ed="#P" n="53" break="no"/>turae potestatem legitimam indicendi bellum.
-            <lb ed="#P" n="54"/>Ita <ref>D. Thomas 2. 2, quaest. 40, art. 1</ref>, 
-            proba<lb break="no" ed="#P" n="55"/>turque ab omnibus. Vide <ref>Covarr., regula 
+            <lb ed="#P" n="54"/>Ita <ref xml:id="szthvi-b83032-Rd1e861">D. Thomas 2. 2, quaest. 40, art. 1</ref>, 
+            proba<lb break="no" ed="#P" n="55"/>turque ab omnibus. Vide <ref xml:id="szthvi-b83032-Rd1e865">Covarr., regula 
             Pec<lb break="no" ed="#P" n="56"/>catum, 2 part., § 9, pleraque jura</ref>, et Doctores
             <lb ed="#P" n="57"/>etiam Theologos adducit. 
             <!-- para break point? -->
@@ -385,7 +385,7 @@
             <lb ed="#P" n="75"/>sit paratus ad satisfaciendum, compelli potest
             <lb ed="#P" n="76"/>per bellum. 
             <!-- para break point? -->
-            Dixi in conclusione, <quote source="http://scta.info/resource/szthvi-b83032-d1e668@30-31">vel respublica</quote>,
+            Dixi in conclusione, <quote xml:id="szthvi-b83032-Qd1e920" source="http://scta.info/resource/szthvi-b83032-d1e668@30-31">vel respublica</quote>,
             <lb ed="#P" n="77"/>ut comprehenderem omnem modum 
             regimi<lb break="no" ed="#P" n="78"/>nis: in omnibus enim est eadem ratio. Solum
             <lb ed="#P" n="79"/>est advertendum in monarchico regimine,
@@ -421,8 +421,8 @@
             <lb ed="#P" n="102"/>supremi principis, cui haec facultas praecipue
             <lb ed="#P" n="103"/>commissa est, quia sine illa non posset 
             paci<lb break="no" ed="#P" n="104"/>fice et convenienter gubernare. Haec vero 
-            li<lb break="no" ed="#P" n="105"/>mitat <ref>Victoria supra</ref>, et indicat etiam 
-            <ref>Cajeta<lb break="no" ed="#P" n="106"/>nus</ref>, et alii:
+            li<lb break="no" ed="#P" n="105"/>mitat <ref xml:id="szthvi-b83032-Rd1e995">Victoria supra</ref>, et indicat etiam 
+            <ref xml:id="szthvi-b83032-Rd1e997">Cajeta<lb break="no" ed="#P" n="106"/>nus</ref>, et alii:
             <!-- para break point? -->
             primo, nisi antiquissima 
             consue<lb break="no" ed="#P" n="107"/>tudine aliud esset observatum. Quod verum
@@ -498,7 +498,7 @@
             <!-- para break point? -->
             Respondetur
             <lb ed="#P" n="55"/>primum omnes reges hac in parte esse 
-            supre<cb ed="#P" n="b"/><lb ed="#P" n="56" break="no"/>mos. Ita <ref target="http://scta.info/resource/cice-l4t17-Dd1e290">Innocentius III, cap. Per venerabilem,
+            supre<cb ed="#P" n="b"/><lb ed="#P" n="56" break="no"/>mos. Ita <ref xml:id="szthvi-b83032-Rd1e1152" target="http://scta.info/resource/cice-l4t17-Dd1e290">Innocentius III, cap. Per venerabilem,
             <lb ed="#P" n="57"/>Qui filii sint legitimi</ref>. Multi etiam duces <sic>han</sic>
             <lb ed="#P" n="58"/>vendicant supremam potestatem. Quare 
             fal<lb break="no" ed="#P" n="59"/>luntur Canonistarum nonnulli dicentes, solum
@@ -539,14 +539,14 @@
             <lb ed="#P" n="88"/>notandum, Summum Pontificem, quamvis
             <lb ed="#P" n="89"/>non habeat directam potestatem in 
             tempora<lb break="no" ed="#P" n="90"/>libus extra suum dominium, habere tamen
-            <lb ed="#P" n="91"/>indirectam, ex <ref target="http://scta.info/resource/cice-l1t6-Dd1e603">c. Venerabilem, de Electione</ref>,
-            <lb ed="#P" n="92"/>et <ref target="http://scta.info/resource/cice-l2t1-Dd1e290">capit. Novit, de Judiciis</ref>. Hoc ergo titulo
+            <lb ed="#P" n="91"/>indirectam, ex <ref xml:id="szthvi-b83032-Rd1e1240" target="http://scta.info/resource/cice-l1t6-Dd1e603">c. Venerabilem, de Electione</ref>,
+            <lb ed="#P" n="92"/>et <ref xml:id="szthvi-b83032-Rd1e1245" target="http://scta.info/resource/cice-l2t1-Dd1e290">capit. Novit, de Judiciis</ref>. Hoc ergo titulo
             <lb ed="#P" n="93"/>habet jus avocandi sibi causam belli, et 
             po<lb break="no" ed="#P" n="94"/>testatem ferendi sententiam, cui partes 
             tenen<lb break="no" ed="#P" n="95"/>tur obedire, nisi manifestam faciat 
             injusti<lb break="no" ed="#P" n="96"/>tiam; nam id certe necessarium est ad 
             bo<lb break="no" ed="#P" n="97"/>num spirituale Ecclesiae, et ad infinita prope
-            <lb ed="#P" n="98"/>mala devitanda; quapropter <ref>Soto, ad Rom.
+            <lb ed="#P" n="98"/>mala devitanda; quapropter <ref xml:id="szthvi-b83032-Rd1e1261">Soto, ad Rom.
             <lb ed="#P" n="99"/>12</ref>, dixit raro inter principes christianos esse
             <lb ed="#P" n="100"/>bellum justum, quia aliam viam expeditam 
             ha<lb break="no" ed="#P" n="101"/>bere possunt ad terminandas causas 
@@ -558,7 +558,7 @@
             <lb ed="#P" n="107"/>suum prosequi; oportet tamen cavere, ne ipsi
             <lb ed="#P" n="108"/>in causa sint ut Pontifex non audeat se 
             inter<lb break="no" ed="#P" n="109"/>ponere; nam tunc non excusabuntur a 
-            cul<lb break="no" ed="#P" n="110"/>pa. (Vide in <ref>Defensione fidei, lib. 3, c. 22</ref>).
+            cul<lb break="no" ed="#P" n="110"/>pa. (Vide in <ref xml:id="szthvi-b83032-Rd1e1290">Defensione fidei, lib. 3, c. 22</ref>).
           </p>
           <p xml:id="szthvi-b83032-d1e1062">
             <pb ed="#P" n="741"/>
@@ -583,7 +583,7 @@
             <lb ed="#P" n="16"/>proprie non fecit injuriam, nisi fortasse in
             <lb ed="#P" n="17"/>modo, ex quo tamen praecise sumpto non 
             ori<lb break="no" ed="#P" n="18"/>tur obligatio restituendi. Unde etiam infertur
-            <lb ed="#P" n="19"/>quod <ref>Sylvester, verbo <mentioned>Bellum</mentioned>, primo, quaest.
+            <lb ed="#P" n="19"/>quod <ref xml:id="szthvi-b83032-Rd1e1342">Sylvester, verbo <mentioned>Bellum</mentioned>, primo, quaest.
             <lb ed="#P" n="20"/>10</ref>, notavit, eum, qui sine hac auctoritate 
             bel<lb break="no" ed="#P" n="21"/>lum facit, etsi alias habeat legitimum 
             titu<lb break="no" ed="#P" n="22"/>lum, incurrere poenas injuste bellantium,
@@ -643,7 +643,7 @@
             <lb ed="#P" n="58"/>supremam potestatem in temporalibus 
             repe<lb break="no" ed="#P" n="59"/>riri in principibus ecclesiasticis, oportet 
             expo<lb break="no" ed="#P" n="60"/>nere an supradictum jus commune sit illis; et
-            <lb ed="#P" n="61"/>simul etiam explicabimus quod quaerit <ref target="http://scta.info/resource/TAca84-d1e1479-Dd1e484">D. 
+            <lb ed="#P" n="61"/>simul etiam explicabimus quod quaerit <ref xml:id="szthvi-b83032-Rd1e1466" target="http://scta.info/resource/TAca84-d1e1479-Dd1e484">D. 
             Tho<lb break="no" ed="#P" n="62"/>mas secunda secundae, quaestione 
             quadragesi<lb break="no" ed="#P" n="63"/>ma, articulo secundo, an liceat clericis et 
             epi<lb break="no" ed="#P" n="64"/>scopis pugnare</ref>; et quaestio est de bello 
@@ -678,12 +678,12 @@
             <lb ed="#P" n="88"/>supremam potestatem, quae integra et 
             perfec<lb break="no" ed="#P" n="89"/>ta est in hujusmodi principibus, et talis actus
             <lb ed="#P" n="90"/>non est illis prohibitus, ut patet ex multis 
-            <ref>de<lb break="no" ed="#P" n="91"/>cretis, 23, quaestione octava</ref>. Rursus ipsi 
+            <ref xml:id="szthvi-b83032-Rd1e1538">de<lb break="no" ed="#P" n="91"/>cretis, 23, quaestione octava</ref>. Rursus ipsi 
             di<lb break="no" ed="#P" n="92"/>recte non persuadent homicidium aut 
             mutila<lb break="no" ed="#P" n="93"/>tionem, sed actum fortitudinis. Et confirmatur,
             <lb ed="#P" n="94"/>nam simili de causa licet his principibus 
             con<lb break="no" ed="#P" n="95"/>stituere judices, qui juste judicent in causis
-            <lb ed="#P" n="96"/>criminalibus. Addit vero <ref>Sylvester, verbo 
+            <lb ed="#P" n="96"/>criminalibus. Addit vero <ref xml:id="szthvi-b83032-Rd1e1554">Sylvester, verbo 
             Bel<lb break="no" ed="#P" n="97"/>lum, 3, numero secundo</ref>, hoc jus posse 
             conve<lb break="no" ed="#P" n="98"/>nire Episcopis ex vi spiritualis potestatis, 
             in<lb break="no" ed="#P" n="99"/>directe tamen, quod necessarium sit ad bonum
@@ -710,12 +710,12 @@
             <lb ed="#P" n="9"/>recta ratione. Confirmatur a simili, quia non
             <lb ed="#P" n="10"/>est jure divino prohibitum clerico esse 
             judi<lb break="no" ed="#P" n="11"/>cem in causa sanguinis. Posterior certa est, 
-            ha<lb break="no" ed="#P" n="12"/>beturque ex <ref>capit. Clericus, distinctione 
+            ha<lb break="no" ed="#P" n="12"/>beturque ex <ref xml:id="szthvi-b83032-Rd1e1612">capit. Clericus, distinctione 
             quin<lb break="no" ed="#P" n="13"/>quagesima</ref>, ubi Nicolaus Papa id prohibet sub
-            <lb ed="#P" n="14"/>poena suspensionis, et <ref>23, quaest. 4, habentur
+            <lb ed="#P" n="14"/>poena suspensionis, et <ref xml:id="szthvi-b83032-Rd1e1620">23, quaest. 4, habentur
             <lb ed="#P" n="15"/>multi canones de hac re</ref>. Rationes et 
             congruen<lb break="no" ed="#P" n="16"/>tiae quare hoc sit praeceptum, faciles sunt. 
-            Le<lb break="no" ed="#P" n="17"/>ge <ref target="http://scta.info/resource/TAca84-d1e1479-Dd1e484">D. Thomam 2. 2, quaest. 40, art. 2</ref>.
+            Le<lb break="no" ed="#P" n="17"/>ge <ref xml:id="szthvi-b83032-Rd1e1629" target="http://scta.info/resource/TAca84-d1e1479-Dd1e484">D. Thomam 2. 2, quaest. 40, art. 2</ref>.
           </p>
           <p xml:id="szthvi-b83032-d1e1361">
             <lb ed="#P" n="18"/>4. Consectarium ea conclusione. — 
@@ -724,7 +724,7 @@
             <lb ed="#P" n="19"/>conclusionis parte, sequitur Summum 
             Ponti<lb break="no" ed="#P" n="20"/>ficem posse dispensare in dicto praecepto, quia
             <lb ed="#P" n="21"/>humanum est; cujus contrarium sensit 
-            <ref target="http://scta.info/resource/gd-p2c23q8-Dd1e100">Gra<lb break="no" ed="#P" n="22"/>tian., 23, quaest. 8, in principio</ref>, sed sine ullo
+            <ref xml:id="szthvi-b83032-Rd1e1646" target="http://scta.info/resource/gd-p2c23q8-Dd1e100">Gra<lb break="no" ed="#P" n="22"/>tian., 23, quaest. 8, in principio</ref>, sed sine ullo
             <lb ed="#P" n="23"/>fundamento. Patet etiam ex multis juris 
             ca<lb break="no" ed="#P" n="24"/>pitibus, et solet afferri casus magnae 
             neces<lb break="no" ed="#P" n="25"/>sitatis, si l1s pertineat al commure bonum
@@ -733,7 +733,7 @@
             <lb ed="#P" n="28"/>quidem est tale bellum potius pertinere tunc
             <lb ed="#P" n="29"/>ad defensionem, nam in aggressivo bello 
             mo<lb break="no" ed="#P" n="30"/>raliter non adest tanta necessitas. Lege 
-            <ref>Cajeta<lb break="no" ed="#P" n="31"/>num, citato loco, D. Thom.</ref>, <ref>Covarr., 
+            <ref xml:id="szthvi-b83032-Rd1e1668">Cajeta<lb break="no" ed="#P" n="31"/>num, citato loco, D. Thom.</ref>, <ref xml:id="szthvi-b83032-Rd1e1673">Covarr., 
             relectio<lb ed="#P" n="32" break="no"/>ne in Clementinam 6 furiosus, parte 2, § 3,
             <lb ed="#P" n="33"/>num. 2.</ref>
           </p>
@@ -745,10 +745,10 @@
             <lb ed="#P" n="37"/>quia materia est gravissima, et sub 
             gravissi<lb break="no" ed="#P" n="38"/>mis poenis ac censuris prohibetur. Quod vero
             <lb ed="#P" n="39"/>obliget constitutos in sacris etiam 
-            subdiacona<lb break="no" ed="#P" n="40"/>tus, sententia communis est <ref>D. Thomee, art.
-            <lb ed="#P" n="41"/>illo 2</ref>; <ref>Cajet., ibidem</ref>; <ref>Sylvest., verb. Bellum,
-            <lb ed="#P" n="42"/>3 p.; q. 29</ref>; <ref>Anton., 3p., tit. 298, c. 9, § 6</ref>; 
-            <ref>Co<lb break="no" ed="#P" n="43"/>varr. citati, et aliorum, in cap. Petitio, de 
+            subdiacona<lb break="no" ed="#P" n="40"/>tus, sententia communis est <ref xml:id="szthvi-b83032-Rd1e1700">D. Thomee, art.
+            <lb ed="#P" n="41"/>illo 2</ref>; <ref xml:id="szthvi-b83032-Rd1e1705">Cajet., ibidem</ref>; <ref xml:id="szthvi-b83032-Rd1e1707">Sylvest., verb. Bellum,
+            <lb ed="#P" n="42"/>3 p.; q. 29</ref>; <ref xml:id="szthvi-b83032-Rd1e1713">Anton., 3p., tit. 298, c. 9, § 6</ref>; 
+            <ref xml:id="szthvi-b83032-Rd1e1715">Co<lb break="no" ed="#P" n="43"/>varr. citati, et aliorum, in cap. Petitio, de 
             Ho<lb break="no" ed="#P" n="44"/>micidio</ref>. Est ratio facilis, quia proxime jam 
             ac<lb break="no" ed="#P" n="45"/>cedunt ad sacrum ministerium, et ad illud
             <lb ed="#P" n="46"/>obligantur. De aliis vero existentibus in 
@@ -756,7 +756,7 @@
             cle<lb break="no" ed="#P" n="48"/>ricalem, probabile est vel nullo modo obligari,
             <lb ed="#P" n="49"/>praesertim si jam omnino renuntiarunt statui,
             <lb ed="#P" n="50"/>vel certe ad summum obligari sub veniali.
-            <lb ed="#P" n="51"/>Ita <ref>Soto, 5 de Justitia, q. 1, art. 4</ref>; <ref>Covarr.,
+            <lb ed="#P" n="51"/>Ita <ref xml:id="szthvi-b83032-Rd1e1737">Soto, 5 de Justitia, q. 1, art. 4</ref>; <ref xml:id="szthvi-b83032-Rd1e1739">Covarr.,
             <lb ed="#P" n="52"/>in Clement. Si furiosus, part. 2,§ 3, num. 2</ref>;
             <lb ed="#P" n="53"/>nisi forte habeant beneficium ecclesiasticum;
             <lb ed="#P" n="54"/>quia tunc jam sunt ex officio ministri 
@@ -769,8 +769,8 @@
             <lb ed="#P" n="60"/>praecise non esse contra justitiam, sed contra
             <lb ed="#P" n="61"/>religionem vel obedientiam; et ideo si aliae 
             con<lb break="no" ed="#P" n="62"/>ditiones justi belli adsint, nihil tenentur 
-            res<lb break="no" ed="#P" n="63"/>tituere, quamvis contrarium sentiat <ref>Sylvester,
-            <lb ed="#P" n="64"/>verbo Bellum, 3, q. 4</ref>, quia <quote>Princeps (inquit)
+            res<lb break="no" ed="#P" n="63"/>tituere, quamvis contrarium sentiat <ref xml:id="szthvi-b83032-Rd1e1770">Sylvester,
+            <lb ed="#P" n="64"/>verbo Bellum, 3, q. 4</ref>, quia <quote xml:id="szthvi-b83032-Qd1e1776">Princeps (inquit)
             <lb ed="#P" n="65"/>sicut non potuit dare clerico auctoritatem 
             bel<lb break="no" ed="#P" n="66"/>landi, ita nec predandi</quote>; sed hoc non urget,
             <lb ed="#P" n="67"/>quia licet non potuerit dare facultatem licite
@@ -1954,8 +1954,8 @@
             <lb ed="#P" n="37"/>2. De quarta comparatione. —De tertia 
             com<lb break="no" ed="#P" n="38"/>paratione. — Circa quartum igitur breviter
             <lb ed="#P" n="39"/>possumus dicere, quod Joannes Baptista, Luc.
-            <lb ed="#P" n="40"/>3, docuit : Neminem concuitatis, et contenti 
-            es<lb break="no" ed="#P" n="41"/>tote stipendiis vestris. Unde hi omnes nihil
+            <lb ed="#P" n="40"/>3, docuit : <quote xml:id="szthvi-b83032-Qd1e4290" source="http://scta.info/resource/lc3_14@14-23">Neminem concuitatis, et contenti 
+            es<lb break="no" ed="#P" n="41"/>tote stipendiis vestris</quote>. Unde hi omnes nihil
             <lb ed="#P" n="42"/>possunt ab hospitibus accipere, praeter id quod
             <lb ed="#P" n="43"/>a rege constitutum est; alias peccant contra
             <lb ed="#P" n="44"/>justitiam, et tenentur restituere; atque idem
@@ -2142,9 +2142,9 @@
             homi<lb break="no" ed="#P" n="104"/>num multitudo non esset sine urgentissima
             <lb ed="#P" n="105"/>causa interficienda ; interdum quoque licere
             <lb ed="#P" n="106"/>potest ad terrorem aliorum, ut habetur etiam
-            <lb ed="#P" n="107"/>ex Deuter. 20: Cum tradiderit Dominus Deus
+            <lb ed="#P" n="107"/>ex Deuter. 20: <quote xml:id="szthvi-b83032-Qd1e4696" source="http://scta.info/resource/deut20_13@1-20">Cum tradiderit Dominus Deus
             <lb ed="#P" n="108"/>luus civitatem in manu tua , percuties omne,
-            <lb ed="#P" n="109"/>quod in ea est, ganeris masculini, in ore gtad i,
+            <lb ed="#P" n="109"/>quod in ea est, ganeris masculini, in ore gtad i</quote>,
             <lb ed="#P" n="110"/>absque mulieribus et iafantibus, etc. Unde con-
             <pb ed="#P" n="754"/>
             <cb ed="#P" n="a"/>
@@ -2293,10 +2293,10 @@
             <lb ed="#P" n="20"/>hoc titulo efficiuntur servi a Christianis 
             par<lb break="no" ed="#P" n="21"/>vnli Sarracenorum. Secundo, quia interdum
             <lb ed="#P" n="22"/>punitur filius propter delictum patris, ut in
-            <lb ed="#P" n="23"/><ref target="http://scta.info/resource/szthvi-b37627-Dd1e3774">tractat. de Fide, disp. 22, sect. 5</ref>, et <ref target="http://scta.info/resource/szthvi-b45264-d1e2369">disp. 24,
+            <lb ed="#P" n="23"/><ref xml:id="szthvi-b83032-Rd1e5016" target="http://scta.info/resource/szthvi-b37627-Dd1e3774">tractat. de Fide, disp. 22, sect. 5</ref>, et <ref xml:id="szthvi-b83032-Rd1e5019" target="http://scta.info/resource/szthvi-b45264-d1e2369">disp. 24,
             <lb ed="#P" n="24"/>sect. 3, a num. 3</ref>, dictum est de haeresi. 
-            Pro<lb break="no" ed="#P" n="25"/>pterea in <ref>regula 23, de Regulis juris, in sexto</ref>,
-            <lb ed="#P" n="26"/>dicitur, <quote source="http://scta.info/resource/wef6td-d1e1612-d1e265@1-9">neminem puniri nisi vel ob causam
+            Pro<lb break="no" ed="#P" n="25"/>pterea in <ref xml:id="szthvi-b83032-Rd1e5026">regula 23, de Regulis juris, in sexto</ref>,
+            <lb ed="#P" n="26"/>dicitur, <quote xml:id="szthvi-b83032-Qd1e5031" source="http://scta.info/resource/wef6td-d1e1612-d1e265@1-9">neminem puniri nisi vel ob causam
             <lb ed="#P" n="27"/>Justam, vel ob culpam</quote>. Ex quo intelligitur 
             fal<lb break="no" ed="#P" n="28"/>sum esse quod Sylvester, verbo Bellum, 
             pri<lb break="no" ed="#P" n="29"/>mo, quaestione decima, sentit, parta victoria,

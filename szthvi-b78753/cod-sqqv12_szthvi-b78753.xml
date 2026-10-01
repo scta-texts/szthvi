@@ -115,12 +115,12 @@
             <lb ed="#P" n="3"/>ipsa ruina proximi. Quod facile ex 
             corporali<lb break="no" ed="#P" n="4"/>bus explicari potest cum Davide, Psal. 139:
             <lb ed="#P" n="5"/>Iniqui cogitaverunt supplantare gressus meos;
-            <lb ed="#P" n="6"/>absconderunt superbi laqueum mihi, et funes
+            <lb ed="#P" n="6"/><quote xml:id="szthvi-b78753-Qd1e234" source="http://scta.info/resource/ps139_6@1-14">absconderunt superbi laqueum mihi, et funes
             <lb ed="#P" n="7"/>extenderunt in laqueum, juata iter sandalum
-            <lb ed="#P" n="8"/>posuerunt amilhi ; et simili allusione sive 
+            <lb ed="#P" n="8"/>posuerunt amilhi</quote> ; et simili allusione sive 
             meta<lb break="no" ed="#P" n="9"/>phora usus est Isai., c. 8, etrepetunt Paulus ad
             <lb ed="#P" n="10"/>Roman. 9, et Petrus 1 epist., c. 2, dum 
-            Chris<lb break="no" ed="#P" n="11"/>tum lapidem offensionis et petram scandali 
+            Chris<lb break="no" ed="#P" n="11"/>tum <quote xml:id="szthvi-b78753-Qd1e247" source="http://scta.info/resource/rom9_33@8-12">lapidem offensionis et petram scandali</quote> 
             in<lb break="no" ed="#P" n="12"/>credulis esse pronuntiat. Passivum scandalum
             <lb ed="#P" n="13"/>nihil ad nos spectat, quia ut notat D. Thomas
             <lb ed="#P" n="14"/>2. 2, quaest. 43, art. 3, non est speciale 
@@ -157,8 +157,8 @@
             scanda<lb break="no" ed="#P" n="43"/>lum esse peccatum. Est certa de fide ; seepe
             <lb ed="#P" n="44"/>enim in Scriptura illud reprehenditur, Matth.
             <lb ed="#P" n="45"/>8 : Qui scandalizaverit unum de pusillis, eic.,
-            <lb ed="#P" n="46"/>ibidem copiose ; et Roman. 14, malum est 
-            ho<lb break="no" ed="#P" n="47"/>mini, qui per offendiculum manducat, et 
+            <lb ed="#P" n="46"/>ibidem copiose ; et Roman. 14, <quote xml:id="szthvi-b78753-Qd1e329" source="http://scta.info/resource/rom14_20@12-18">malum est 
+            ho<lb break="no" ed="#P" n="47"/>mini, qui per offendiculum manducat</quote>, et 
             simi<lb break="no" ed="#P" n="48"/>lia in eodem capite, et 1 Cor. S, per totum.
             <lb ed="#P" n="49"/>Ratio est, quia qui sic scandalizat est causa
             <lb ed="#P" n="50"/>spiritualis mali proximi. Dico secundo : hoc
@@ -796,13 +796,13 @@
             defi<lb break="no" ed="#P" n="81"/>nitione ejus; moraliter enim inducit hominem
             <lb ed="#P" n="82"/>ad malum ; quod vero non oporteat esse vere
             <lb ed="#P" n="83"/>malum, sed satis sit apparere, patet ex illo 1
-            <lb ed="#P" n="84"/>ad Corinth. 3: Ab omni specie mali abstinete
-            <lb ed="#P" n="85"/>vos, propter quod dicitur 1 Corint. 12: Omnia
-            <lb ed="#P" n="86"/>mihi licent, sed non omnia eapediunt. Unde
+            <lb ed="#P" n="84"/>ad Corinth. 3: <quote xml:id="szthvi-b78753-Qd1e1689" source="http://scta.info/resource/Ith5_22@1-6">Ab omni specie mali abstinete
+            <lb ed="#P" n="85"/>vos</quote>, propter quod dicitur 1 Corint. 12: <quote xml:id="szthvi-b78753-Qd1e1694" source="http://scta.info/resource/Icor6_12@1-7">Omnia
+            <lb ed="#P" n="86"/>mihi licent, sed non omnia eapediunt</quote>. Unde
             <lb ed="#P" n="87"/>est illud : Si frater scandalizatur, non 
             man<lb break="no" ed="#P" n="88"/>ducabo carnes in eternum. Watio est, quia 
-            te<lb break="no" ed="#P" n="89"/>nemur recte operari non solum coram Deo,
-            <lb ed="#P" n="90"/>sed etiam coram hominibus. Secundo, quia
+            te<lb break="no" ed="#P" n="89"/>nemur recte operari <quote xml:id="szthvi-b78753-Qd1e1706" source="http://scta.info/resource/IIcor8_21@4-11">non solum coram Deo,
+            <lb ed="#P" n="90"/>sed etiam coram hominibus</quote>. Secundo, quia
             <lb ed="#P" n="91"/>cum opus habet speciem mali, inducitur 
             pro<lb break="no" ed="#P" n="92"/>ximus ad malum opus, non solum sua malitia,
             <lb ed="#P" n="93"/>sed etiam ex vi mei operis, et ex quadam 
@@ -882,7 +882,7 @@
             <lb ed="#P" n="51"/>videtur enim hoc posterius dicendum, quod
             <lb ed="#P" n="52"/>non obscure colligitur ex illo Matth. 15: 
             Sa<lb break="no" ed="#P" n="53"/>nite illos, ceci sunt. Propterea etiam Christus
-            <lb ed="#P" n="54"/>dicitur lapis offensionis , et petra scandali,
+            <lb ed="#P" n="54"/>dicitur <quote xml:id="szthvi-b78753-Qd1e1881" source="http://scta.info/resource/Ipetr2_8@2-6">lapis offensionis , et petra scandali</quote>,
             <lb ed="#P" n="55"/>Isa. 8; et Luc. 2, dicitur : Positus in ruinam
             <cb ed="#P" n="b"/>
             <lb ed="#P" n="56"/>multorum, ubi particula, i», non dicit finem,

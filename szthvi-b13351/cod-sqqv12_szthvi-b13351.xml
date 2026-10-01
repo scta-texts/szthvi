@@ -1673,7 +1673,7 @@
             pree<lb break="no" ed="#P" n="91"/>sumnpserit. Praecipue vero docuit hanc 
             verita<lb break="no" ed="#P" n="92"/>tem Augustinus, epistola 162, et libro 4 de
             <lb ed="#P" n="93"/>Baptismo, contra Donatistas, c. 16, et refertur
-            <lb ed="#P" n="94"/>in <ref><!-- can't find -->Decreto, 24, q. 3, c. Dixit Dominus</ref>, et <ref target="http://scta.info/resource/gd-p2c24q3-Dd1e599">cap.
+            <lb ed="#P" n="94"/>in <ref xml:id="szthvi-b13351-Rd1e3563"><!-- can't find -->Decreto, 24, q. 3, c. Dixit Dominus</ref>, et <ref xml:id="szthvi-b13351-Rd1e3568" target="http://scta.info/resource/gd-p2c24q3-Dd1e599">cap.
             <lb ed="#P" n="95"/>Qui in Ecclesia</ref>, idemque sumitur ex eodem
             <lb ed="#P" n="96"/>Augustino, lib. 18 de Civitate, c. 51.
           </p>
@@ -2502,8 +2502,8 @@
             <lb ed="#P" n="90"/>dicit haereticum habere intellectum 
             deprava<lb break="no" ed="#P" n="91"/>tum ; ac denique favet Paulus, Act. 20, ubi
             <lb ed="#P" n="92"/>tacite describit haereticos, quod sint lupi 
-            rapa<lb break="no" ed="#P" n="93"/>ces, loquentes perversa, id est falsa dogmata,
-            <lb ed="#P" n="94"/>ut abducant discipulos post se.
+            rapa<lb break="no" ed="#P" n="93"/>ces, <quote xml:id="szthvi-b13351-Qd1e5334" source="http://scta.info/resource/act20_30@7-13">loquentes perversa, id est falsa dogmata,
+            <lb ed="#P" n="94"/>ut abducant discipulos post se</quote>.
           </p>
           <p xml:id="szthvi-b13351-d1e5309">
             <lb ed="#P" n="95"/>3. Probatur etiam ratione. — Ratione 
@@ -2686,8 +2686,8 @@
             <lb ed="#P" n="42"/>Magister etiam supra refert, et sumitur etiam
             <lb ed="#P" n="43"/>ex Hierony mo, epistola 50 ad Damas., de 
             no<lb break="no" ed="#P" n="44"/>mine Z7ypostasis ; sed interpretandum est per
-            <lb ed="#P" n="45"/>occasionem ; nam, sicut alibi dicitur: Qui
-            <lb ed="#P" n="46"/>spernit modica, paulatim decidet, utique in
+            <lb ed="#P" n="45"/>occasionem ; nam, sicut alibi dicitur: <quote xml:id="szthvi-b13351-Qd1e5727" source="http://scta.info/resource/sir19_1@6-10">Qui
+            <lb ed="#P" n="46"/>spernit modica, paulatim decidet</quote>, utique in
             <lb ed="#P" n="47"/>graviora , ita qui temere et inordinate 
             loqui<lb break="no" ed="#P" n="48"/>tur, in periculo versatur incidendi in 
             haere<lb break="no" ed="#P" n="49"/>sim.
@@ -3434,7 +3434,7 @@
             <lb ed="#P" n="71"/>per baptis muin in eam non sunt ingressi, quae
             <lb ed="#P" n="72"/>sub his terminis traditur a Concilio Tridentino,
             <lb ed="#P" n="73"/>sess. 14, c. 2, ita interpretante illud 1 ad 
-            Co<lb break="no" ed="#P" n="74"/>rint. b: De his qui foris sunt, nihil ad nos;
+            Co<lb break="no" ed="#P" n="74"/>rint. b: <quote xml:id="szthvi-b13351-Qd1e7319" source="http://scta.info/resource/Icor5_12@4-8">De his qui foris sunt, nihil ad nos</quote>;
             <lb ed="#P" n="75"/>et idem habetur in cap. Gaudemus, de Divort.,
             <lb ed="#P" n="76"/>cum similibus; sed invalide baptizati revera
             <lb ed="#P" n="77"/>non sunt ingressi Ecclesiam per talem 

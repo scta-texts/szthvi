@@ -232,10 +232,10 @@
             <pb ed="#P" n="205"/>
             <cb ed="#P" n="a"/>
             <lb ed="#P" n="1"/>nis, de quo recte intelligi potest illud Joan.
-            <lb ed="#P" n="2"/>primo: Illuminat omnem hominem, etc., et
-            <lb ed="#P" n="3"/>illud Psalm. 4: Signatum est super nos lumen
-            <lb ed="#P" n="4"/>vultus tui; et clarius 1 Petri 2: Vocacit nos in
-            <lb ed="#P" n="5"/>admirabile lumen swum ; sumitur etiam ex 2
+            <lb ed="#P" n="2"/>primo: <quote xml:id="szthvi-a49190-Qd1e484" source="http://scta.info/resource/io1_9@5-7">Illuminat omnem hominem</quote>, etc., et
+            <lb ed="#P" n="3"/>illud Psalm. 4: <quote xml:id="szthvi-a49190-Qd1e489" source="http://scta.info/resource/ps4_7@1-7">Signatum est super nos lumen
+            <lb ed="#P" n="4"/>vultus tui</quote>; et clarius 1 Petri 2: <quote xml:id="szthvi-a49190-Qd1e494" source="http://scta.info/resource/Ipetr2_9@19-23">Vocacit nos in
+            <lb ed="#P" n="5"/>admirabile lumen swum</quote> ; sumitur etiam ex 2
             <lb ed="#P" n="6"/>ad Corinth. 4. ad Colossens. 1.
           </p>
           <p xml:id="szthvi-a49190-d1e491">
@@ -1002,8 +1002,8 @@
             in<lb break="no" ed="#P" n="47"/>funditur, ut sentit Tridentinum, sessione
             <lb ed="#P" n="48"/>sexta, capite septimo; ergo etiam sine 
             gra<lb break="no" ed="#P" n="49"/>tia non conservatur. Secundo, potest sumi
-            <lb ed="#P" n="50"/>argumentum ex illo Jacobi 2: Fides sine 
-            ope<lb break="no" ed="#P" n="51"/>ribus mortua est : nam sicut homo mortuus
+            <lb ed="#P" n="50"/>argumentum ex illo Jacobi 2: <quote xml:id="szthvi-a49190-Qd1e2128" source="http://scta.info/resource/iac2_26@10-14">Fides sine 
+            ope<lb break="no" ed="#P" n="51"/>ribus mortua est</quote> : nam sicut homo mortuus
             <lb ed="#P" n="52"/>non est verus homo, ita fides mortua non est
             <cb ed="#P" n="b"/>
             <lb ed="#P" n="53"/>vera fides : unde est illud Gregorii, homilia
@@ -1072,9 +1072,9 @@
             <lb ed="#P" n="3"/>de habitu verificari potest ; nam actus 
             mora<lb break="no" ed="#P" n="4"/>liter loquendo non est, sed potius impeditur
             <lb ed="#P" n="5"/>dum homo actualiter peccat. Idem sumitur ex
-            <lb ed="#P" n="6"/>illo Jacobi secundo : Fides sine operibus 
-            mor<lb break="no" ed="#P" n="7"/>tua est ; et ex illo prima Corinth. decimo 
-            ter<lb break="no" ed="#P" n="8"/>tio: Si habuero omnem fidem, etc., 
+            <lb ed="#P" n="6"/>illo Jacobi secundo : <quote xml:id="szthvi-a49190-Qd1e2280" source="http://scta.info/resource/iac2_26@10-14">Fides sine operibus 
+            mor<lb break="no" ed="#P" n="7"/>tua est</quote> ; et ex illo prima Corinth. decimo 
+            ter<lb break="no" ed="#P" n="8"/>tio: <quote xml:id="szthvi-a49190-Qd1e2288" source="http://scta.info/resource/Icor13_2@13-15">Si habuero omnem fidem</quote>, etc., 
             charita<lb break="no" ed="#P" n="9"/>tem autem non habeum , uilil mihi prodest,
             <lb ed="#P" n="10"/>ubi clare supponitur fidem posse esse sine
             <lb ed="#P" n="11"/>charitate, qued esse non posset si per omne
@@ -1404,9 +1404,9 @@
             <lb ed="#P" n="88"/>conclusio, ut sine errore negari jam non 
             pos<lb break="no" ed="#P" n="89"/>sit. Primo, quia est maxime consentanea 
             Scri<lb break="no" ed="#P" n="90"/>pturis; dicit enim Joan. de haereticis, prima
-            <lb ed="#P" n="91"/>epistola, capite secundo: E nobis prodierunt,
+            <lb ed="#P" n="91"/>epistola, capite secundo: <quote xml:id="szthvi-a49190-Qd1e2992" source="http://scta.info/resource/Iio2_19@1-16">E nobis prodierunt,
             <lb ed="#P" n="92"/>sed non erant ex nobis ; nam si ea nobis essenut
-            <lb ed="#P" n="93"/>permansissent utique nobDiscum. Ex quibus
+            <lb ed="#P" n="93"/>permansissent utique nobDiscum</quote>. Ex quibus
             <lb ed="#P" n="94"/>verbis colligunt Patres haereticum non 
             per<lb break="no" ed="#P" n="95"/>manere in Ecclesia, ut dicitur etiam in 
             extra<lb break="no" ed="#P" n="96"/>vagante Unam sanctam, de majoritate et 
@@ -1431,7 +1431,7 @@
             <lb ed="#P" n="9"/>sciens, id est, nihil certo et firmiter credens,
             <lb ed="#P" n="10"/>sed (ut subjungit) languens circa quaestones et
             <lb ed="#P" n="11"/>pugnas verborum ; ac denique ad Titum, tertio
-            <lb ed="#P" n="12"/>capite: Subversus est qui hujusmodi est.
+            <lb ed="#P" n="12"/>capite: <quote xml:id="szthvi-a49190-Qd1e3053" source="http://scta.info/resource/tit3_11@3-7">Subversus est qui hujusmodi est</quote>.
           </p>
           <p xml:id="szthvi-a49190-d1e3029">
             <lb ed="#P" n="13"/>3. Probatur secundo ex Tridentino. — Ft

@@ -173,8 +173,8 @@
             <lb ed="#P" n="94"/>rebus fidei, ex dubitatione susceptam, 
             intrinse<lb break="no" ed="#P" n="95"/>ce malam esse ; ratio est clara, quia talis 
             dispu<lb break="no" ed="#P" n="96"/>tatio haeresim supponit, et ex haeresi procedit :
-            <lb ed="#P" n="97"/>Quod autem non est ex fide (inquit Paulus),
-            <lb ed="#P" n="98"/>peccatum est; nam illorum verborum unus 
+            <lb ed="#P" n="97"/><quote xml:id="szthvi-b21611-Qd1e358" source="http://scta.info/resource/rom14_23@12-19">Quod autem non est ex fide (inquit Paulus),
+            <lb ed="#P" n="98"/>peccatum est</quote>; nam illorum verborum unus 
             sen<lb break="no" ed="#P" n="99"/>sus est, ut dictio illa: Non ex fide, contrarie
             <lb ed="#P" n="100"/>exponatur, id est, quod procedit ex errore in
             <lb ed="#P" n="101"/>fide. Diximus autem supra, dubium in fide
@@ -210,9 +210,9 @@
             hae<lb break="no" ed="#P" n="21"/>reticis, an licitus sit. Ratio dubitandi sumi
             <lb ed="#P" n="22"/>imprimis potest ex verbis Pauli ad <ref xml:id="szthvi-b21611-Rd1e434">Tit. 3</ref>:
             <lb ed="#P" n="23"/><quote xml:id="szthvi-b21611-Qd1e437" source="http://scta.info/resource/tit3_10@1-8">Haereticum hominem, post unam et secundam
-            <lb ed="#P" n="24"/>correptionem devita</quote>, sciens quia subversus est,
+            <lb ed="#P" n="24"/>correptionem devita</quote>, <quote xml:id="szthvi-b21611-Qd1e445" source="http://scta.info/resource/tit3_11@1-12">sciens quia subversus est,
             <lb ed="#P" n="25"/>qui lnjusmodi est, cum sit proprio judicio
-            <lb ed="#P" n="26"/>damnatus ; ubi Paulus solum permittit 
+            <lb ed="#P" n="26"/>damnatus</quote> ; ubi Paulus solum permittit 
             haere<lb break="no" ed="#P" n="27"/>ticum monere, quod longe aliud est quam
             <lb ed="#P" n="28"/>cum illo disputare; et post sufficientem 
             moni<lb break="no" ed="#P" n="29"/>tionem prohibet cum illo communicare. Unde
@@ -328,8 +328,8 @@
             <lb ed="#P" n="22"/>testimonio Psal. 109 illos convincens, et Joan.
             <lb ed="#P" n="23"/>8, variis modis contra illos argumentatur ; et
             <lb ed="#P" n="24"/>Actor. 6, de Stephano dicitur : Surrecerunt
-            <lb ed="#P" n="25"/>disputantes cum Stephano, et non poterant 
-            re<lb break="no" ed="#P" n="26"/>sistere sapientie, et spiritut qui loquebatur ;
+            <lb ed="#P" n="25"/>disputantes cum Stephano, et <quote xml:id="szthvi-b21611-Qd1e724" source="http://scta.info/resource/act6_10@2-9">non poterant 
+            re<lb break="no" ed="#P" n="26"/>sistere sapientie, et spiritut qui loquebatur</quote> ;
             <lb ed="#P" n="27"/>et c. 17 : Paulus disserebat de Scripturis 
             se<lb break="no" ed="#P" n="28"/>cundum consuetudinem, ut ibi dicitur; et 
             in<lb break="no" ed="#P" n="29"/>fra additur : Disputabat in Sgnagoga cum
@@ -427,8 +427,8 @@
             <lb ed="#P" n="2"/>per se clarum cst. Deinde necessarium est ut
             <lb ed="#P" n="3"/>sit sufficienter doctus, ut supra D. Thomas 
             do<lb break="no" ed="#P" n="4"/>cet, et sumitur ex Paulo in citatis verbis, 2
-            <lb ed="#P" n="5"/>ad Timot. 2: Amplectentem eum, qui 
-            secun<lb break="no" ed="#P" n="6"/>dum doctrinam est, fidelem sermonem, ubi non
+            <lb ed="#P" n="5"/>ad Timot. 2: <quote xml:id="szthvi-b21611-Qd1e936" source="http://scta.info/resource/tit1_9@1-8">Amplectentem eum, qui 
+            secun<lb break="no" ed="#P" n="6"/>dum doctrinam est, fidelem sermonem</quote>, ubi non
             <lb ed="#P" n="7"/>solum fidem, sed etiam doctrinam fidei 
             requi<lb break="no" ed="#P" n="8"/>rit in disputante, ut possit eos, qui 
             contradi<lb break="no" ed="#P" n="9"/>cunt, arguere ; et ratio est per se clara, quia
@@ -2173,8 +2173,8 @@
           <p xml:id="szthvi-b21611-d1e4599">
             <lb ed="#P" n="76"/>4. Secundum fundamentum. — Secundo 
             ar<lb break="no" ed="#P" n="77"/>gumentantur, quia Paulus, 1 ad Cor. 5, 
-            abso<lb break="no" ed="#P" n="78"/>lute, et sine restrictione dixit, de his qui 
-            fo<lb break="no" ed="#P" n="79"/>ris sunt, nihil ad se pertinere; sed haeretici,
+            abso<lb break="no" ed="#P" n="78"/>lute, et sine restrictione dixit, <quote xml:id="szthvi-b21611-Qd1e4656" source="http://scta.info/resource/Icor5_12@4-8">de his qui 
+            fo<lb break="no" ed="#P" n="79"/>ris sunt, nihil ad se pertinere</quote>; sed haeretici,
             <lb ed="#P" n="80"/>ut proxime diximus, sunt foris, id est, extra
             <lb ed="#P" n="81"/>Ecclesiam ; ergo etiam sunt extra 
             jurisdictio<lb break="no" ed="#P" n="82"/>nem Ecclesiae ; ergo non possunt per poenas
@@ -2189,19 +2189,19 @@
             <lb ed="#P" n="91"/>reaistunt veritati, vel, ut paulo superius 
             dixe<lb break="no" ed="#P" n="92"/>rat, qui a veritate exciderunt ; et cap. 3: Hos
             <lb ed="#P" n="93"/>devita ; et ad Titum 1: Zncrepa illos dure;
-            <lb ed="#P" n="94"/>et cap. 3: Post unam et secundam 
-            correptio<lb break="no" ed="#P" n="95"/>nem, devita ; et similiter ad Rom. 16: Ut 
+            <lb ed="#P" n="94"/>et cap. 3: <quote xml:id="szthvi-b21611-Qd1e4694" source="http://scta.info/resource/tit3_10@3-8">Post unam et secundam 
+            correptio<lb break="no" ed="#P" n="95"/>nem, devita</quote> ; et similiter ad Rom. 16: Ut 
             ob<lb break="no" ed="#P" n="96"/>servetis eos, etc., et declinate ab eis ; et 2 ad
             <lb ed="#P" n="97"/>Thessalonic. 3: S2 quis non obedit verbo 
             nos<lb break="no" ed="#P" n="98"/>iro, hunc notate, et ne commisceamini cum eo,
-            <lb ed="#P" n="99"/>et nolite quasi inimicum existimare, sed 
-            cor<lb break="no" ed="#P" n="100"/>ripite ut fratrem, in quo videtur majorem
+            <lb ed="#P" n="99"/>et <quote xml:id="szthvi-b21611-Qd1e4708" source="http://scta.info/resource/IIth3_15@1-9">nolite quasi inimicum existimare, sed 
+            cor<lb break="no" ed="#P" n="100"/>ripite ut fratrem</quote>, in quo videtur majorem
             <lb ed="#P" n="101"/>coactionem prohibere. Denique Joan. , epist.
             <lb ed="#P" n="102"/>2, solum dixit : Nec ave eis diaeritis. 
             Contir<lb break="no" ed="#P" n="103"/>mari etiam potest Christi exemplo, Joan. 6,
             <lb ed="#P" n="104"/>ubi cum aliqui non credentes verbis ejus 
-            dis<lb break="no" ed="#P" n="105"/>cederent ab eo, discipulis dixit: IVumquid et
-            <lb ed="#P" n="106"/>vos vultis abire? nullam illis coactionem 
+            dis<lb break="no" ed="#P" n="105"/>cederent ab eo, discipulis dixit: <quote xml:id="szthvi-b21611-Qd1e4724" source="http://scta.info/resource/io6_68@6-10">IVumquid et
+            <lb ed="#P" n="106"/>vos vultis abire</quote>? nullam illis coactionem 
             si<lb break="no" ed="#P" n="107"/>gnificando, sed perseverantiam in fide 
             incep<lb break="no" ed="#P" n="108"/>ta voluntati eorum committendo, quod 
             nota<lb break="no" ed="#P" n="109"/>vit Cyprianus , epist. 55, dicens: JVon 
@@ -2265,14 +2265,14 @@
             <lb ed="#P" n="51"/>unde Petrus, secunda epistola capit. primo,
             <lb ed="#P" n="52"/>dicit principes catholicos esse ad vindictam
             <lb ed="#P" n="53"/>malefactorum ; et Paulus , ad Romanos 
-            de<lb break="no" ed="#P" n="54"/>cima tertia : Dei enim minister est, vindes in
-            <lb ed="#P" n="55"/>irum ei qui malum agit ; ex quo loco a for-
+            de<lb break="no" ed="#P" n="54"/>cima tertia : <quote xml:id="szthvi-b21611-Qd1e4864" source="http://scta.info/resource/rom13_4@19-29">Dei enim minister est, vindes in
+            <lb ed="#P" n="55"/>irum ei qui malum agit</quote> ; ex quo loco a for-
             <cb ed="#P" n="b"/>
             <lb ed="#P" n="56"/>tiori colligit Bernardus, sermone 66 in 
             Can<lb break="no" ed="#P" n="57"/>tica, etiam ministros Ecclesiae positos esse ad
             <lb ed="#P" n="58"/>vindictam de haereticis sumendam, juxta illud
-            <lb ed="#P" n="59"/>Pauli, 2 ad Cor. 19: 7In promptu habentes 
-            ul<lb break="no" ed="#P" n="60"/>cisci omnem inobedientiam ; nam haeretici 
+            <lb ed="#P" n="59"/>Pauli, 2 ad Cor. 19: 7<quote xml:id="szthvi-b21611-Qd1e4880" source="http://scta.info/resource/IIcor10_6@2-7">In promptu habentes 
+            ul<lb break="no" ed="#P" n="60"/>cisci omnem inobedientiam</quote> ; nam haeretici 
             ma<lb break="no" ed="#P" n="61"/>xime sunt rebelles Ecclesiae, et in Deum 
             blas<lb break="no" ed="#P" n="62"/>phemant , repugnantes verbo ejus, vel illi
             <lb ed="#P" n="63"/>tribuentes quae ipsi fingunt, et consequenter
@@ -2285,10 +2285,10 @@
             <lb ed="#P" n="70"/>in religionem divinam committitur, in 
             om<lb break="no" ed="#P" n="71"/>niwn fertur injuriam. Sunt enim valde nocivi
             <lb ed="#P" n="72"/>et perniciosi fidelibus, et ideo in Scriptura,
-            <lb ed="#P" n="73"/>lupi rapaces vocantur, Matthaei 7: Attendite
+            <lb ed="#P" n="73"/>lupi rapaces vocantur, Matthaei 7: <quote xml:id="szthvi-b21611-Qd1e4913" source="http://scta.info/resource/mt7_15@1-16">Attendite
             <lb ed="#P" n="74"/>a falsis prophetis, qui veniunt ad vos in 
             ves<lb break="no" ed="#P" n="75"/>tinentis ovium , intrinsecus autem sunt lugi
-            <lb ed="#P" n="76"/>rapaces ; quod de haereticis eleganter exposuit
+            <lb ed="#P" n="76"/>rapaces</quote> ; quod de haereticis eleganter exposuit
             <lb ed="#P" n="77"/>Ambrosius lib. 7 in Luc., initio cap. 10, 
             est<lb break="no" ed="#P" n="78"/>que ponderandum verbum illud, attendite,
             <lb ed="#P" n="79"/>nam , licet singulis dictum intelligatur, 
@@ -2318,9 +2318,9 @@
             <lb ed="#P" n="101"/>delicta maneant impunita, quia impunitas
             <lb ed="#P" n="102"/>audaciam peccandi praebet, ut dicitur in cap.
             <lb ed="#P" n="103"/>Ut famce , de Sententia excommunicationis;
-            <lb ed="#P" n="104"/>et ideo Paulus, ad Tit. 5, dixit: Peccantem
+            <lb ed="#P" n="104"/>et ideo Paulus, ad Tit. 5, dixit: <quote xml:id="szthvi-b21611-Qd1e4986" source="http://scta.info/resource/Itim5_20@1-9">Peccantem
             <lb ed="#P" n="105"/>coram omnibus argue , ut et ceteri timorem
-            <lb ed="#P" n="106"/>habeant. Haec autem ratio maxime locum 
+            <lb ed="#P" n="106"/>habeant</quote>. Haec autem ratio maxime locum 
             ha<lb break="no" ed="#P" n="107"/>bet in haereticis ; quia, sicut exemplum 
             eo<lb break="no" ed="#P" n="108"/>rum valde est perniciosum aliis fidelibus, ita
             <lb ed="#P" n="109"/>eorum libertas et impunitas summi esset 
@@ -2420,8 +2420,8 @@
             <lb ed="#P" n="84"/>fide tenendum est ; et imprimis probari potest
             <lb ed="#P" n="85"/>ex veteri Testamento; nam Deuteronom. 13
             <lb ed="#P" n="86"/>praecipitur ut falsus propheta interficiatur,
-            <lb ed="#P" n="87"/>quia locutus est, inquit, ut vos averteret a
-            <lb ed="#P" n="88"/>Domino Deo cestro; et capite 1T: Qui 
+            <lb ed="#P" n="87"/><quote xml:id="szthvi-b21611-Qd1e5205" source="http://scta.info/resource/deut13_5@8-17">quia locutus est, inquit, ut vos averteret a
+            <lb ed="#P" n="88"/>Domino Deo cestro</quote>; et capite 1T: Qui 
             super<lb break="no" ed="#P" n="89"/>bierit nolens obedire, evc., morietur ; ct in lib.
             <lb ed="#P" n="90"/>Reg. habentur varia exempla hujusmodi 
             puni<lb break="no" ed="#P" n="91"/>tionis et coactionis, a Deo ipso laudata et
@@ -2582,8 +2582,8 @@
             <lb ed="#P" n="11"/>non habere rationem poenae neque coactionis,
             <lb ed="#P" n="12"/>quia eadem prohibitio fieri potest, etiam 
             infi<lb break="no" ed="#P" n="13"/>delibus non baptizatis. Universaliter enim
-            <lb ed="#P" n="14"/>dixit Paulus : Nolite jugum ducere cum 
-            infi<lb break="no" ed="#P" n="15"/>delibus, et quee participatio fidelis cum infideli?
+            <lb ed="#P" n="14"/>dixit Paulus : <quote xml:id="szthvi-b21611-Qd1e5551" source="http://scta.info/resource/IIcor6_14@1-5">Nolite jugum ducere cum 
+            infi<lb break="no" ed="#P" n="15"/>delibus</quote>, et <quote xml:id="szthvi-b21611-Qd1e5556" source="http://scta.info/resource/IIcor6_15@8-12">quee participatio fidelis cum infideli</quote>?
             <lb ed="#P" n="16"/>et tamen respectu infidelium non 
             baptizato<lb break="no" ed="#P" n="17"/>rum illa non est poena, neque coactio. 
             Res<lb break="no" ed="#P" n="18"/>pondetur imprimis longe aliter fieri ab 
@@ -2610,7 +2610,7 @@
             <lb ed="#P" n="39"/>directe imponitur praeceptum ut abstineant a
             <lb ed="#P" n="40"/>communicatione fidelium : quomodo aliqui
             <lb ed="#P" n="41"/>intelligunt verbum illud Pauli ad Titum: 
-            Za<lb break="no" ed="#P" n="42"/>reticum hominem devita ; erat enim Titus
+            <quote xml:id="szthvi-b21611-Qd1e5615" source="http://scta.info/resource/tit3_10@1-8">Za<lb break="no" ed="#P" n="42"/>reticum hominem devita</quote> ; erat enim Titus
             <lb ed="#P" n="43"/>Episcopus, et ideo illum monet Apostolus non
             <lb ed="#P" n="44"/>solum ut ipse abstineat, sed etiam ut 
             haereti<lb break="no" ed="#P" n="45"/>cum abscindat et separet, eique prohibeat
@@ -2872,7 +2872,7 @@
             Eccle<lb break="no" ed="#P" n="62"/>siae determinationem. Prima pars hujus 
             as<lb break="no" ed="#P" n="63"/>sertionis, quae est principaliter intenta, 
             pro<lb break="no" ed="#P" n="64"/>batur primo, illo fundamentali testimonio
-            <lb ed="#P" n="65"/>Joann., vigesimo primo: Pasce oves meas,
+            <lb ed="#P" n="65"/>Joann., vigesimo primo: <quote xml:id="szthvi-b21611-Qd1e6180" source="http://scta.info/resource/io21_17@31-33">Pasce oves meas</quote>,
             <lb ed="#P" n="66"/>ubi secundum intelligentiam catholicam, et
             <lb ed="#P" n="67"/>omnium sanctorum Patrum, data est Petro
             <lb ed="#P" n="68"/>potestas supra omnes Christi oves ad regendas
@@ -2880,9 +2880,9 @@
             <lb ed="#P" n="70"/>Pasce, regibus vel praelatis metaphorice 
             atri<lb break="no" ed="#P" n="71"/>butum ; quae potestas manet in successoribus
             <lb ed="#P" n="72"/>Petri, quia tantum durare debuit, quantum
-            <lb ed="#P" n="73"/>Ecclesia, juxta illud Matthaei 26: Super hanc
+            <lb ed="#P" n="73"/>Ecclesia, juxta illud Matthaei 26: <quote xml:id="szthvi-b21611-Qd1e6200" source="http://scta.info/resource/mt16_18@10-22">Super hanc
             <lb ed="#P" n="74"/>Petram edificabo Ecclesiam meam, et porte
-            <lb ed="#P" n="75"/>inferi non prevalebunt adversus eam; per
+            <lb ed="#P" n="75"/>inferi non prevalebunt adversus eam</quote>; per
             <lb ed="#P" n="76"/>quae verba satis declaratur perpetua duratio
             <lb ed="#P" n="77"/>Ecclesia super talem petram, super quam
             <lb ed="#P" n="78"/>fundata dicitur, quia a Petro et successoribus
@@ -2902,16 +2902,16 @@
             <lb ed="#P" n="92"/>etiam per temporales et corporales poenas;
             <lb ed="#P" n="93"/>eamdemque potestatem indicavit Christus per
             <lb ed="#P" n="94"/>alia verba satis universalia, et speciali modo
-            <lb ed="#P" n="95"/>dicta Petro, Matthaei 16 : 7'bi dabo claves 
+            <lb ed="#P" n="95"/>dicta Petro, Matthaei 16 : <quote xml:id="szthvi-b21611-Qd1e6251" source="http://scta.info/resource/mt16_19@1-15">7'bi dabo claves 
             re<lb break="no" ed="#P" n="96"/>gni caelorum, et quodcumque ligaveris super
-            <lb ed="#P" n="97"/>terram, erit ligatum et in calo, etc., quae in
+            <lb ed="#P" n="97"/>terram, erit ligatum et in calo</quote>, etc., quae in
             <lb ed="#P" n="98"/>hunc modum intellexerunt Sancti Patres et
             <lb ed="#P" n="99"/>Pontifices, quos in dicto libro 3 late retuli, et
             <lb ed="#P" n="100"/>statim aliquos indicabo. Potestque hoc 
             con<lb break="no" ed="#P" n="101"/>firmari ex verbis Psalm. 2, ubi ad litteram de
-            <lb ed="#P" n="102"/>Christo est sermo, cui Pater dicit: Dabo tibi
-            <lb ed="#P" n="103"/>gentes luereditatem tuam ; et infra: Keges eos
-            <lb ed="#P" n="104"/>in virga ferrea, per quam significatur potestas
+            <lb ed="#P" n="102"/>Christo est sermo, cui Pater dicit: <quote xml:id="szthvi-b21611-Qd1e6269" source="http://scta.info/resource/ps2_8@5-9">Dabo tibi
+            <lb ed="#P" n="103"/>gentes luereditatem tuam</quote> ; et infra: <quote xml:id="szthvi-b21611-Qd1e6274" source="http://scta.info/resource/ps2_9@1-5">Keges eos
+            <lb ed="#P" n="104"/>in virga ferrea</quote>, per quam significatur potestas
             <lb ed="#P" n="105"/>regendi et coercendi cum omni efficacia et 
             ri<lb break="no" ed="#P" n="106"/>gore justitiae, si opus sit, ut ibi Basilius et alii
             <lb ed="#P" n="107"/>notarunt, et specialiter videri potest Genebrar.
@@ -2923,15 +2923,15 @@
             <lb ed="#P" n="1"/>notant, quando, facto funiculo, vendentes et
             <lb ed="#P" n="2"/>ementes de templo ejecit, Joan. 2; soletque
             <lb ed="#P" n="3"/>in Seriptura nomine virgae haec potestas 
-            si<lb break="no" ed="#P" n="4"/>gnari, ut Proverb. 13: Qui parcit virge, odit
+            si<lb break="no" ed="#P" n="4"/>gnari, ut Proverb. 13: <quote xml:id="szthvi-b21611-Qd1e6305" source="http://scta.info/resource/prov13_24@1-13">Qui parcit virge, odit
             <lb ed="#P" n="5"/>filum ; qui autem diligit illum, instanter 
-            era<lb break="no" ed="#P" n="6"/>dit. Unde de hac etiam potestate sibi 
+            era<lb break="no" ed="#P" n="6"/>dit</quote>. Unde de hac etiam potestate sibi 
             commu<lb break="no" ed="#P" n="7"/>nicata loguitur Paulus, 1 ad Corinth. 4, 
-            di<lb break="no" ed="#P" n="8"/>cens : lultis in virga veniam ad vos? ut 
+            di<lb break="no" ed="#P" n="8"/>cens : <quote xml:id="szthvi-b21611-Qd1e6316" source="http://scta.info/resource/Icor4_21@1-7">lultis in virga veniam ad vos</quote>? ut 
             no<lb break="no" ed="#P" n="9"/>tavit Augustinus, 3 libro contra epist. 
             Par<lb break="no" ed="#P" n="10"/>meniani, capit. 1, et explicuit idem Paulus, 2
-            <lb ed="#P" n="11"/>ad Corinth. 10, dicens : In promptu habentes
-            <lb ed="#P" n="12"/>ulcisci omnem inobedientiam ; et infra: Si
+            <lb ed="#P" n="11"/>ad Corinth. 10, dicens : <quote xml:id="szthvi-b21611-Qd1e6326" source="http://scta.info/resource/IIcor10_6@2-7">In promptu habentes
+            <lb ed="#P" n="12"/>ulcisci omnem inobedientiam</quote> ; et infra: Si
             <lb ed="#P" n="13"/>gloriatus fuero de potestate quam dedit 
             Doni<lb break="no" ed="#P" n="14"/>nus nobis in edificationem, non in 
             destructio<lb break="no" ed="#P" n="15"/>nem, non lerubescam. Ex quibus colligi potest
@@ -2959,7 +2959,7 @@
             tra<lb break="no" ed="#P" n="37"/>didit Satanae incestuosum corporaliter 
             vexan<lb break="no" ed="#P" n="38"/>dum, u spiritus ejus salvus fieret; ita enim
             <lb ed="#P" n="39"/>Theod., Divus Thomas et alii exponunt illa
-            <lb ed="#P" n="40"/>verba: In interitum carnis. Sic ergo habet
+            <lb ed="#P" n="40"/>verba: <quote xml:id="szthvi-b21611-Qd1e6392" source="http://scta.info/resource/Icor5_5@4-6">In interitum carnis</quote>. Sic ergo habet
             <lb ed="#P" n="41"/>haec potestas sufficiens fundamentum in 
             Tes<lb break="no" ed="#P" n="42"/>tamento novo, praeter ea quae ex veteri 
             ad<lb break="no" ed="#P" n="43"/>duximus.
@@ -3093,9 +3093,9 @@
             <lb ed="#P" n="52"/>manet; atque ita dici potest esse extra 
             Eccle<lb break="no" ed="#P" n="53"/>siam facto, jure autem ad Ecclesiam pertinere;
             <lb ed="#P" n="54"/>et ideo semper posse ab Ecclesia coerceri.
-            <lb ed="#P" n="55"/>Paulus autem, cum dicit de his qui foris sunt
+            <lb ed="#P" n="55"/>Paulus autem, cum dicit <quote xml:id="szthvi-b21611-Qd1e6680" source="http://scta.info/resource/Icor5_12@4-8">de his qui foris sunt
             <cb ed="#P" n="b"/>
-            <lb ed="#P" n="56"/>nihil ad se pertinere, de illis loquitur qui facto
+            <lb ed="#P" n="56"/>nihil ad se pertinere</quote>, de illis loquitur qui facto
             <lb ed="#P" n="57"/>et jure foris sunt, ut sunt infideles non 
             bap<lb break="no" ed="#P" n="58"/>tizati.
           </p>
@@ -3147,9 +3147,9 @@
             <lb ed="#P" n="101"/>ita rccepit hanc potestatem, ut per suos 
             vica<lb break="no" ed="#P" n="102"/>rios et ministros posset illam administrare ;
             <lb ed="#P" n="103"/>quod etiam satis ipse significavit Matth. ult.,
-            <lb ed="#P" n="104"/>dicens: Data est mili omnis potestas in calo
-            <lb ed="#P" n="105"/>et in terra, et statim adjungens: Euntes ergo
-            <lb ed="#P" n="106"/>docete omnes gentes., etc.; habuit ergo hanc
+            <lb ed="#P" n="104"/>dicens: <quote xml:id="szthvi-b21611-Qd1e6797" source="http://scta.info/resource/mt28_18@8-17">Data est mili omnis potestas in calo
+            <lb ed="#P" n="105"/>et in terra</quote>, et statim adjungens: <quote xml:id="szthvi-b21611-Qd1e6803" source="http://scta.info/resource/mt28_19@1-5">Euntes ergo
+            <lb ed="#P" n="106"/>docete omnes gentes</quote>., etc.; habuit ergo hanc
             <lb ed="#P" n="107"/>potestatem, et potuit illam relinquere vicario
             <lb ed="#P" n="108"/>suo, quantum oportuit. Jam ergo probatur
             <lb ed="#P" n="109"/>prima consequentia, primo ex verbis quibus
@@ -3249,12 +3249,12 @@
           <p xml:id="szthvi-b21611-d1e6893">
             <lb ed="#P" n="87"/>98. Ad tertium in eodem mum. 20.— Ad
             <lb ed="#P" n="88"/>quartum ibid. — Tertium argumentum 
-            sume<lb break="no" ed="#P" n="89"/>batur ex illo : Concerte gladiun tuum in 
-            va<lb break="no" ed="#P" n="90"/>ginam ; illa tamen verba ad litteram dicta
+            sume<lb break="no" ed="#P" n="89"/>batur ex illo : <quote xml:id="szthvi-b21611-Qd1e7021" source="http://scta.info/resource/mt26_52@5-10">Concerte gladiun tuum in 
+            va<lb break="no" ed="#P" n="90"/>ginam</quote> ; illa tamen verba ad litteram dicta
             <lb ed="#P" n="91"/>sunt, ad significandum prohibitum esse usum
             <lb ed="#P" n="92"/>gladii propria et privata auctoritate, ut 
-            osten<lb break="no" ed="#P" n="93"/>dunt verba sequentia : Qui acceperint gladium,
-            <lb ed="#P" n="94"/>gladio peribunt; applicata vero per sensum
+            osten<lb break="no" ed="#P" n="93"/>dunt verba sequentia : <quote xml:id="szthvi-b21611-Qd1e7033" source="http://scta.info/resource/mt26_52@11-17">Qui acceperint gladium,
+            <lb ed="#P" n="94"/>gladio peribunt</quote>; applicata vero per sensum
             <lb ed="#P" n="95"/>mysticum ad gladium Ecclesiae, significant
             <lb ed="#P" n="96"/>pastores Ecclesiae non debere exercere per
             <lb ed="#P" n="97"/>seipsos gladium materialem; non tamen 
@@ -3621,7 +3621,7 @@
             <lb ed="#P" n="107"/>licitum. Ita censet Joan. Andr., incap. Norit.,
             <lb ed="#P" n="108"/>de Judiciis, et sequitur Villadiego, in tract. de
             <lb ed="#P" n="109"/>Haeret., quaest. 10; fundantur primo in 
-            ver<lb break="no" ed="#P" n="110"/>bis Christi: Corripe inter te et ipsum solum,
+            ver<lb break="no" ed="#P" n="110"/>bis Christi: <quote xml:id="szthvi-b21611-Qd1e7821" source="http://scta.info/resource/mt18_15@10-16">Corripe inter te et ipsum solum</quote>,
             <pb ed="#P" n="523"/>
             <cb ed="#P" n="a"/>
             <lb ed="#P" n="1"/>etc.; ergo ille ordo est omnino servandus,
@@ -3687,8 +3687,8 @@
             <lb ed="#P" n="57"/>sect. 4; Sancius, lib. 2 Decalog., cap. 32, in
             <lb ed="#P" n="58"/>fine; Valentia, 2. 2, disput. 3, quaestione 10,
             <lb ed="#P" n="59"/>punct. 5. S Aftque hujusmodi, et alii. Probatur
-            <lb ed="#P" n="60"/>primo ex Deuteron., 13, ibi: Ne parcat oculus
-            <lb ed="#P" n="61"/>tuus, ut miserearis, et occultes euwn, ubi est
+            <lb ed="#P" n="60"/>primo ex Deuteron., 13, ibi: <quote xml:id="szthvi-b21611-Qd1e7965" source="http://scta.info/resource/deut13_8@6-15">Ne parcat oculus
+            <lb ed="#P" n="61"/>tuus, ut miserearis, et occultes euwn</quote>, ubi est
             <lb ed="#P" n="62"/>sermo de fratre infideli, qui sollicitat alterum
             <lb ed="#P" n="63"/>fratrem ad colenda idola, et praecipit Deus
             <lb ed="#P" n="64"/>statim deferre illum sine ulla misericordia,
@@ -4315,11 +4315,11 @@
             <lb ed="#P" n="93"/>ab omnibus, et sumitur ex lege Deut. 13, quae,
             <lb ed="#P" n="94"/>ut supra dicebam, quoad hanc partem moralis
             <lb ed="#P" n="95"/>est ; sunt autem ejus verba notanda propter
-            <lb ed="#P" n="96"/>ea quae dicemus : S tibi persuadere voluerit
+            <lb ed="#P" n="96"/>ea quae dicemus : <quote xml:id="szthvi-b21611-Qd1e9305" source="http://scta.info/resource/deut13_6@1-35">S tibi persuadere voluerit
             <lb ed="#P" n="97"/>(rater tuus, filius matris tue, aut filius tuus,
             <lb ed="#P" n="98"/>vel filia, sive uaor, que est in sinu tuo, aut
             <lb ed="#P" n="99"/>amicus, quem diligis ut animam tuam, clam
-            <lb ed="#P" n="100"/>dicens : Eamus et serviamus Diis alienis, eic..
+            <lb ed="#P" n="100"/>dicens : Eamus et serviamus Diis alienis</quote>, eic..
             <lb ed="#P" n="101"/>non miserearis ut occultes eun. Ex quibus
             <lb ed="#P" n="102"/>verbis satis constat quanto rigore et 
             exaggera<lb break="no" ed="#P" n="103"/>tione hoc praecipiatur. Ratio vero patebit ex
@@ -4337,8 +4337,8 @@
             ponde<lb break="no" ed="#P" n="3"/>rari potest Exod. 31, ubi Moyses excitavit, ad
             <lb ed="#P" n="4"/>vindicandam injuriam Dei, fratrem, amicum
             <lb ed="#P" n="5"/>et propinquum ; et postea laudans factum, ait:
-            <lb ed="#P" n="6"/>Consecrastis manus vestras Domino, 
-            unusquis<lb break="no" ed="#P" n="7"/>que in filio et in fratre, patrem autem non
+            <lb ed="#P" n="6"/><quote xml:id="szthvi-b21611-Qd1e9354" source="http://scta.info/resource/ex32_29@4-14">Consecrastis manus vestras Domino, 
+            unusquis<lb break="no" ed="#P" n="7"/>que in filio et in fratre</quote>, patrem autem non
             <lb ed="#P" n="8"/>nominat. Secundo, ratione, quia filius debet
             <lb ed="#P" n="9"/>patri totum quod est, et ideo maxime 
             obliga<lb break="no" ed="#P" n="10"/>tur ad amandum et honorandum eum infra

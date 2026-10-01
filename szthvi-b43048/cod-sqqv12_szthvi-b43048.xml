@@ -224,8 +224,8 @@
             sa<lb break="no" ed="#P" n="106"/>nari non potest, ferro amputat, ne corpus
             <lb ed="#P" n="107"/>reliquwm sua tabe corrumpat. Quod excmplum
             <lb ed="#P" n="108"/>latius tractat Hieronymus ad Galatas 5, circa
-            <lb ed="#P" n="109"/>illa verba : Modicum fermentum totam massam
-            <lb ed="#P" n="110"/>corrumpit ; quorum sensum esse dicit, pauco-
+            <lb ed="#P" n="109"/>illa verba : <quote xml:id="szthvi-b43048-Qd1e465" source="http://scta.info/resource/gal5_9@1-5">Modicum fermentum totam massam
+            <lb ed="#P" n="110"/>corrumpit</quote> ; quorum sensum esse dicit, pauco-
             <pb ed="#P" n="579"/>
             <cb ed="#P" n="a"/>
             <lb ed="#P" n="1"/>rum hominum insidias non esse 
@@ -355,9 +355,9 @@
             <lb ed="#P" n="6"/>dicit Christus patremfamilias tempore 
             mes<lb break="no" ed="#P" n="7"/>sis missurum ministros suos, qui triticum
             <lb ed="#P" n="8"/>a zizaniis separent; quod alibi explicuit 
-            di<lb break="no" ed="#P" n="9"/>cens, quod tempore judicii mittet Deus 
+            di<lb break="no" ed="#P" n="9"/>cens, quod tempore judicii <quote xml:id="szthvi-b43048-Qd1e747" source="http://scta.info/resource/mt13_49@6-13">mittet Deus 
             An<lb break="no" ed="#P" n="10"/>gelos suos, et separabunt malos de medio 
-            jus<lb break="no" ed="#P" n="11"/>torum, ubi non tautum dixit haereticos a
+            jus<lb break="no" ed="#P" n="11"/>torum</quote>, ubi non tautum dixit haereticos a
             <lb ed="#P" n="12"/>fidelibus. Igitur vel illa parabola nihil de
             <lb ed="#P" n="13"/>haereticis probat, vel ex ea colligitur nullos
             <lb ed="#P" n="14"/>iniquos, et malos esse puniendos, quod 
@@ -367,7 +367,7 @@
             repri<lb break="no" ed="#P" n="18"/>mere et moderari nimium et indiscretum
             <lb ed="#P" n="19"/>zelum, vel provocandi iram Dei contra 
             pec<lb break="no" ed="#P" n="20"/>catores, ut alibi fecit, cum discipulis suis
-            <lb ed="#P" n="21"/>dixit : Nescitis, cujus spiritus estis; vel
+            <lb ed="#P" n="21"/>dixit : <quote xml:id="szthvi-b43048-Qd1e776" source="http://scta.info/resource/lc9_55@6-9">Nescitis, cujus spiritus estis</quote>; vel
             <lb ed="#P" n="22"/>temere, et sine auctoritate illos persequendi,
             <lb ed="#P" n="23"/>ut etiam in alio loco indicavit Petro, 
             praeci<lb break="no" ed="#P" n="24"/>piendo illi ut gladium in vaginam 

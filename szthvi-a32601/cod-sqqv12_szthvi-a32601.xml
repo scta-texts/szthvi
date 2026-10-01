@@ -646,8 +646,8 @@
             <lb ed="#P" n="78"/>etc.; talis etiam videtur excusatio auctoris l.
             <lb ed="#P" n="79"/>2 Mach., in ultimis verbis, ubi veniam petit si
             <lb ed="#P" n="80"/>aliquid minus digne tractavit. Item 
-            juramen<lb break="no" ed="#P" n="81"/>tum Pauli, ad Gal. 1: Ecce coram Deo quia
-            <lb ed="#P" n="82"/>non mentior, et similia, quae omnino eflicere
+            juramen<lb break="no" ed="#P" n="81"/>tum Pauli, ad Gal. 1: <quote xml:id="szthvi-a32601-Qd1e1373" source="http://scta.info/resource/gal1_20@5-10">Ecce coram Deo quia
+            <lb ed="#P" n="82"/>non mentior</quote>, et similia, quae omnino eflicere
             <lb ed="#P" n="83"/>videntur, ne Scriptura sit regula infallibilis ;
             <lb ed="#P" n="84"/>nam si alicubi est pure hnmana, tota redditur
             <lb ed="#P" n="85"/>incerta.
@@ -1526,9 +1526,9 @@
             <lb ed="#P" n="29"/>praecipue ex Paulo, 2 ad Thessal. 2: Nen 
             re<lb break="no" ed="#P" n="30"/>linetis quod cum adhuc ecssem apud vos, leec
             <lb ed="#P" n="31"/>dicebam vobis? indicans id sufficere ad fidem
-            <lb ed="#P" n="32"/>sine scripto; et clarius infra: Tenete 
+            <lb ed="#P" n="32"/>sine scripto; et clarius infra: <quote xml:id="szthvi-a32601-Qd1e3453" source="http://scta.info/resource/IIth2_15@5-15">Tenete 
             traditio<lb break="no" ed="#P" n="33"/>nes quas didicistis, sive per sermonem, sive per
-            <lb ed="#P" n="34"/>Epistolam nostram ; ubi haec duo aequiparat.
+            <lb ed="#P" n="34"/>Epistolam nostram</quote> ; ubi haec duo aequiparat.
             <lb ed="#P" n="35"/>Item <ref xml:id="szthvi-a32601-Rd1e3427">primae ad Tim. ult.</ref>: <quote xml:id="szthvi-a32601-Qd1e3429" source="http://scta.info/resource/Itim6_20@3-4">Depositum, ait,
             <lb ed="#P" n="36"/>custodi</quote>, quod de deposito doctrinae Patres 
             in<lb break="no" ed="#P" n="37"/>telligunt ; imo exponit idem Paulus, <ref xml:id="szthvi-a32601-Rd1e3436">2 Epist.
@@ -1920,8 +1920,8 @@
             cer<lb break="no" ed="#P" n="62"/>tum signum quod a bono spiritu moveatur,
             <lb ed="#P" n="63"/>cum tamen generaliter incertum sit qualis sit
             <lb ed="#P" n="64"/>talis spiritus, nisi per aliam certiorem regulam
-            <lb ed="#P" n="65"/>discernatur, siquidem, Angelus Satane 
-            trans<lb break="no" ed="#P" n="66"/>figurat se in Angelum lucis. Et confirmatur
+            <lb ed="#P" n="65"/>discernatur, siquidem, <quote xml:id="szthvi-a32601-Qd1e4362" source="http://scta.info/resource/IIcor11_14@7-11">Angelus Satane 
+            trans<lb break="no" ed="#P" n="66"/>figurat se in Angelum lucis</quote>. Et confirmatur
             <lb ed="#P" n="67"/>tanlem, nam qui credendum putat propter
             <lb ed="#P" n="68"/>hnjusmodi privatum spiritum, re ipsa 
             asseve<lb break="no" ed="#P" n="69"/>rat se habere vel divinam revelationem, vel
@@ -2622,13 +2622,13 @@
             mate<lb break="no" ed="#P" n="54"/>ria morum. Haec veritas ex Scriptura praecipue
             <lb ed="#P" n="55"/>probatur exemplo Apostolorum, Actor. 15, ubi
             <cb ed="#P" n="b"/>
-            <lb ed="#P" n="56"/>in forma definiendi Visun est Spiritui
-            <lb ed="#P" n="57"/>Sancto et nobis, aperte docuerunt Concilium
+            <lb ed="#P" n="56"/>in forma definiendi <quote xml:id="szthvi-a32601-Qd1e5952" source="http://scta.info/resource/act15_28@4-7">Visun est Spiritui
+            <lb ed="#P" n="57"/>Sancto et nobis</quote>, aperte docuerunt Concilium
             <lb ed="#P" n="58"/>simile regi ab Spiritu Sancto, cum definit;
             <lb ed="#P" n="59"/>ergo non potest errare. Deinde probatur 
-            opti<lb break="no" ed="#P" n="60"/>me ex promissione Christi, Joan. 16: Cum 
+            opti<lb break="no" ed="#P" n="60"/>me ex promissione Christi, Joan. 16: <quote xml:id="szthvi-a32601-Qd1e5963" source="http://scta.info/resource/io16_13@1-11">Cum 
             ve<lb break="no" ed="#P" n="61"/>nerit ille Spiritus veritatis, docebit vos omnem
-            <lb ed="#P" n="62"/>veritatem : nam illa promissio non est facta
+            <lb ed="#P" n="62"/>veritatem</quote> : nam illa promissio non est facta
             <lb ed="#P" n="63"/>solum personis Apostolorum, pertinet enim
             <lb ed="#P" n="64"/>ad perpetuitatem et conservationem Ecclesiae ;
             <lb ed="#P" n="65"/>ergo facta est etiam pro successoribus ; vel,
